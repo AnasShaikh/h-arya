@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "chapterNumber": 17,
+    "title": "Effects of Light",
+    "subject": "Science",
+    "pages": "113-117",
+    "description": "Scattering of Light, Shadows, Eclipses"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "What causes the sky to appear blue?",
+      "options": [
+        "Scattering of light by molecules in the atmosphere",
+        "Reflection of light from the ocean",
+        "Absorption of red light by the atmosphere",
+        "Light from the moon"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "A shadow is formed when _____.",
+      "options": [
+        "Light cannot pass through an opaque object",
+        "Light bends around objects",
+        "Light is absorbed by transparent objects",
+        "Light changes color"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "What is an eclipse?",
+      "options": [
+        "A natural phenomenon where celestial bodies align",
+        "A type of shadow on Earth",
+        "The rotation of the Earth",
+        "The phases of the moon"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 4
+    },
+    {
+      "id": "q4",
+      "question": "An extended source creates _____.",
+      "options": [
+        "Umbra and penumbra",
+        "Only umbra",
+        "No shadow",
+        "Multiple shadows"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 3
+    },
+    {
+      "id": "q5",
+      "question": "Zero shadow day occurs in regions between _____.",
+      "options": [
+        "Tropic of Cancer and Tropic of Capricorn",
+        "Arctic and Antarctic circles",
+        "Equator and North Pole",
+        "Any two latitudes"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 5
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Scattering of Light",
+      "emoji": "🌈",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "A light beam is not seen in plain water, but is clearly seen in slightly turbid water. The light rays hit the tiny particles of milk and get scattered. If these scattered rays enter our eyes, we perceive the light. Sunlight is scattered by the molecules of gases like nitrogen, oxygen in the atmosphere. The blue colour in the sunlight is scattered the most, and, therefore, the sky appears blue.",
+      "pageReference": "113-114",
+      "examples": [
+        {
+          "icon": "🔦",
+          "text": "Laser beam visible in turbid water with milk"
+        },
+        {
+          "icon": "🌅",
+          "text": "Sky appears blue due to scattered blue light"
+        },
+        {
+          "icon": "🌄",
+          "text": "Red-yellow sunrise/sunset due to light traveling greater distance"
+        },
+        {
+          "icon": "🌍",
+          "text": "Earth appears bluish from space due to atmospheric scattering"
+        }
+      ],
+      "keyPoints": [
+        "Light rays hit tiny particles and get scattered",
+        "Scattered rays entering our eyes make us perceive light",
+        "Blue light is scattered the most in the atmosphere",
+        "Sky appears blue because of scattering of blue light",
+        "At sunset, light travels greater distance, more blue light scatters, red-yellow light reaches us"
+      ],
+      "funFact": "🌌 The sky would have appeared dark during the day if there had been no atmosphere on earth!",
+      "textbookRef": "Pages 113-114: Scattering of Light"
+    },
+    {
+      "id": 2,
+      "title": "Shadows from Point Source",
+      "emoji": "🕯️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The shadow obtained from a point source and extended source. A candle or torch as a light source produces a shadow. Such a light source is called point source. Place a screen vertically at a distance of one metre beyond the cardboard. Hang a big ball between the screen and the cardboard. The rays starting from the point source just pass by the ball and fall on the points A and B. However, since no rays reach the screen between the points A and B, that part remains unlit. This is the dark shadow or the umbra.",
+      "pageReference": "115",
+      "examples": [
+        {
+          "icon": "🕯️",
+          "text": "Candle or torch as point light source"
+        },
+        {
+          "icon": "⚫",
+          "text": "Dark shadow (umbra) formed by point source"
+        },
+        {
+          "icon": "🏀",
+          "text": "Ball casting shadow on screen"
+        }
+      ],
+      "keyPoints": [
+        "Point source creates a single sharp shadow",
+        "The dark shadow is called umbra",
+        "No light rays reach the umbra region",
+        "Shadow formed depends on object size and distance"
+      ],
+      "funFact": "🔦 A point source creates only umbra, no penumbra!",
+      "textbookRef": "Page 115: Shadow formed by a point source"
+    },
+    {
+      "id": 3,
+      "title": "Shadows from Extended Source",
+      "emoji": "💡",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "If the cardboard with the pinhole is removed, we do not have a point source. This source is called an extended source. The faint part BC is called the penumbra and the dark part AD is called the umbra. When the ball is bigger than the extended source, keeping the distance between the extended source and the ball constant, move the screen further and further away. The umbra and penumbra in the shadow of the ball are seen to become bigger and bigger. As the screen moves further, the umbra and the penumbra become smaller and smaller and at a certain point it disappears.",
+      "pageReference": "115",
+      "examples": [
+        {
+          "icon": "💡",
+          "text": "Table lamp or tube light as extended source"
+        },
+        {
+          "icon": "⚫",
+          "text": "Umbra - completely dark shadow"
+        },
+        {
+          "icon": "🌑",
+          "text": "Penumbra - partially lit shadow"
+        },
+        {
+          "icon": "📏",
+          "text": "Shadow size changes with distance"
+        }
+      ],
+      "keyPoints": [
+        "Extended source creates two regions: umbra and penumbra",
+        "Umbra is the completely dark part of the shadow",
+        "Penumbra is the faint, partially lit part",
+        "Shadow size depends on distance between source, object, and screen",
+        "Smaller objects create shadows that eventually disappear"
+      ],
+      "funFact": "🌓 The penumbra is where you would see a partial eclipse!",
+      "textbookRef": "Page 115: Shadow formed by an extended source"
+    },
+    {
+      "id": 4,
+      "title": "Eclipses - Solar and Lunar",
+      "emoji": "🌑",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The moon revolves about the earth, and the earth along with the moon, revolves around the sun. When the sun, the moon and the earth come in a straight line an eclipse is said to have taken place. During its revolution, when the moon comes between the sun and the earth, a shadow of the moon is cast on the earth and the sun cannot be seen from the part in the shadow. This is called a solar eclipse. When the earth comes between the sun and the moon a shadow of the earth is cast on the moon and a part of the moon is covered. This is called the lunar eclipse.",
+      "pageReference": "116",
+      "examples": [
+        {
+          "icon": "☀️",
+          "text": "Solar eclipse: Moon blocks sunlight from reaching Earth"
+        },
+        {
+          "icon": "🌕",
+          "text": "Lunar eclipse: Earth's shadow falls on the moon"
+        },
+        {
+          "icon": "🌓",
+          "text": "Partial eclipse: Only part is covered"
+        },
+        {
+          "icon": "🌚",
+          "text": "Total eclipse: Completely covered"
+        }
+      ],
+      "keyPoints": [
+        "Eclipse occurs when sun, moon, and earth align in a straight line",
+        "Solar eclipse: Moon comes between sun and earth",
+        "Solar eclipse seen only on new moon day",
+        "Lunar eclipse: Earth comes between sun and moon",
+        "Lunar eclipse seen only on full moon night",
+        "Never watch solar eclipse with naked eyes - use special goggles"
+      ],
+      "funFact": "⚠️ A solar eclipse should never be watched with naked eye as harmful rays reach the earth. Special goggles should be used!",
+      "textbookRef": "Page 116: Eclipses"
+    },
+    {
+      "id": 5,
+      "title": "Zero Shadow Day",
+      "emoji": "☀️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "The day on which the sun reaches exactly overhead is called the zero shadow day. On that day, at noon shadows completely disappear. This event can only be seen in the region between the Tropic of Cancer (23.5°N) and the Tropic of Capricorn (23.5°S). This event occurs in summer on different days in different places in this region.",
+      "pageReference": "117",
+      "examples": [
+        {
+          "icon": "🌞",
+          "text": "Sun directly overhead at noon"
+        },
+        {
+          "icon": "👤",
+          "text": "No shadow visible at noon on zero shadow day"
+        },
+        {
+          "icon": "🗓️",
+          "text": "Occurs on different days in different places"
+        },
+        {
+          "icon": "🌍",
+          "text": "Only between Tropic of Cancer and Tropic of Capricorn"
+        }
+      ],
+      "keyPoints": [
+        "Zero shadow day occurs when sun is exactly overhead",
+        "Shadows completely disappear at noon",
+        "Only visible between 23.5°N and 23.5°S latitude",
+        "Occurs in summer on different days in different places",
+        "Natural phenomenon demonstrating Earth's tilt"
+      ],
+      "funFact": "🌎 Zero shadow day doesn't occur at all locations - only in tropical regions!",
+      "textbookRef": "Page 117: Zero Shadow Day"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "When the beams from the headlights of a car fall on an object in the night, the shadows called _____ and _____ can be seen.",
+      "options": [
+        "umbra and penumbra",
+        "light and dark",
+        "reflection and refraction",
+        "bright and dim"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Car headlights act as extended sources creating both umbra (dark shadow) and penumbra (faint shadow).",
+      "conceptIds": [2, 3],
+      "pageReference": "117"
+    },
+    {
+      "id": "q2",
+      "question": "During a lunar eclipse the shadow of the _____ falls on the _____.",
+      "options": [
+        "earth, moon",
+        "moon, earth",
+        "sun, moon",
+        "moon, sun"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In a lunar eclipse, the Earth comes between the sun and moon, causing Earth's shadow to fall on the moon.",
+      "conceptIds": [4],
+      "pageReference": "116"
+    },
+    {
+      "id": "q3",
+      "question": "During a solar eclipse the shadow of the _____ falls on the _____.",
+      "options": [
+        "moon, earth",
+        "earth, moon",
+        "sun, earth",
+        "earth, sun"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In a solar eclipse, the moon comes between the sun and earth, causing the moon's shadow to fall on Earth.",
+      "conceptIds": [4],
+      "pageReference": "116"
+    },
+    {
+      "id": "q4",
+      "question": "Various shades of colour are seen in the sky at sunrise and sunset due to _____.",
+      "options": [
+        "scattering of light",
+        "reflection of light",
+        "refraction of light",
+        "absorption of light"
+      ],
+      "correctAnswer": "A",
+      "explanation": "At sunrise and sunset, sunlight travels a greater distance through the atmosphere. More blue light gets scattered, allowing red-yellow light to reach us directly.",
+      "conceptIds": [1],
+      "pageReference": "114"
+    },
+    {
+      "id": "q5",
+      "question": "Space beyond earth's atmosphere appears dark because _____.",
+      "options": [
+        "there is no atmosphere to scatter light",
+        "the sun is not visible",
+        "there is no light in space",
+        "space absorbs all light"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Without atmosphere, there are no particles to scatter light. We see light only when scattered rays enter our eyes.",
+      "conceptIds": [1],
+      "pageReference": "114"
+    },
+    {
+      "id": "q6",
+      "question": "We are able to read while sitting in the shade because of _____.",
+      "options": [
+        "scattering of light by air molecules",
+        "direct sunlight",
+        "moonlight",
+        "artificial lights"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Even in shade, scattered sunlight from the atmosphere provides illumination for reading.",
+      "conceptIds": [1],
+      "pageReference": "114"
+    },
+    {
+      "id": "q7",
+      "question": "We should not observe the solar eclipse with naked eyes because _____.",
+      "options": [
+        "harmful rays from the sun reach the earth",
+        "it is too bright",
+        "the moon blocks the view",
+        "it damages the atmosphere"
+      ],
+      "correctAnswer": "A",
+      "explanation": "During a solar eclipse, harmful rays from the sun can reach Earth and damage eyes. Special goggles must be used.",
+      "conceptIds": [4],
+      "pageReference": "116"
+    },
+    {
+      "id": "q8",
+      "question": "What is meant by scattering of light?",
+      "options": [
+        "Light rays hit tiny particles and get scattered in different directions",
+        "Light travels in a straight line",
+        "Light bends when passing through different media",
+        "Light bounces back from surfaces"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Scattering occurs when light rays hit tiny particles (like molecules in air or milk in water) and scatter in different directions.",
+      "conceptIds": [1],
+      "pageReference": "113"
+    },
+    {
+      "id": "q9",
+      "question": "The shadow of a bird flying high is not seen on the earth because _____.",
+      "options": [
+        "the bird is too far from the earth and acts like a small object",
+        "birds don't cast shadows",
+        "the sun is too bright",
+        "birds are transparent"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When an object is small compared to the light source and very far from the screen (earth), its shadow becomes too small to be visible.",
+      "conceptIds": [3],
+      "pageReference": "115"
+    },
+    {
+      "id": "q10",
+      "question": "A penumbra is not obtained from _____.",
+      "options": [
+        "a point source",
+        "an extended source",
+        "a table lamp",
+        "a tube light"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A point source creates only umbra (dark shadow). Penumbra is created only by extended sources like table lamps or tube lights.",
+      "conceptIds": [2, 3],
+      "pageReference": "115"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Scattering of light by molecules causes sky to appear blue",
+      "Light scattered by tiny particles makes the beam visible",
+      "Point source creates only umbra (dark shadow)",
+      "Extended source creates umbra and penumbra",
+      "Umbra is completely dark, penumbra is partially lit",
+      "Solar eclipse: Moon between sun and earth",
+      "Lunar eclipse: Earth between sun and moon",
+      "Zero shadow day: Sun directly overhead at noon",
+      "Only tropical regions experience zero shadow day"
+    ],
+    "commonMisconceptions": [
+      "Sky is blue because of ocean reflection - FALSE (it's atmospheric scattering)",
+      "All shadows have penumbra - FALSE (point sources create only umbra)",
+      "Solar eclipse can be watched with naked eye - FALSE (extremely dangerous)",
+      "Zero shadow day happens everywhere - FALSE (only between tropics)",
+      "Shadows always have the same shape - FALSE (depends on source, distance)"
+    ],
+    "realWorldExamples": [
+      "Dust particles visible in sunbeam entering through window",
+      "Car headlights creating shadows with umbra and penumbra",
+      "Sky appearing blue during day, red-orange during sunset",
+      "Shadow disappearing at noon on zero shadow day in Mumbai",
+      "Lunar eclipse visible across India during full moon night",
+      "Using special eclipse glasses during solar eclipse",
+      "Earth appearing bluish from space satellites due to atmospheric scattering"
+    ],
+    "formulas": []
+  }
+}

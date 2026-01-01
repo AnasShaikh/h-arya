@@ -1,0 +1,589 @@
+{
+  "metadata": {
+    "chapterNumber": 14,
+    "title": "Elements, Compounds and Mixtures",
+    "subject": "Science",
+    "pages": "92-99",
+    "description": "Matter, Elements, Compounds, Mixtures and Separation Methods"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "What is matter?",
+      "options": [
+        "That which an object is made of",
+        "Only solid substances",
+        "Only liquids",
+        "Only gases"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What is the smallest particle of an element called?",
+      "options": [
+        "Atom",
+        "Molecule",
+        "Compound",
+        "Mixture"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "A substance made from only one type of atom is called:",
+      "options": [
+        "Element",
+        "Compound",
+        "Mixture",
+        "Molecule"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "q4",
+      "question": "Water (H₂O) is an example of:",
+      "options": [
+        "Compound",
+        "Element",
+        "Mixture",
+        "Metal"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is a mixture?",
+      "options": [
+        "Soil",
+        "Water",
+        "Oxygen",
+        "Salt"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 4
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Matter and Properties of Matter",
+      "emoji": "🔬",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "We say that an object is made of a certain substance. The term matter is also used as a synonym of substance. In scientific language, however, a single term is used for a single concept, and that which an object is made of is called matter. It is the matter present in various things in solid, liquid or gaseous states that is responsible for their properties.",
+      "pageReference": "92",
+      "examples": [
+        {
+          "icon": "📝",
+          "text": "Chalk - white color property"
+        },
+        {
+          "icon": "🖊️",
+          "text": "Ink - blue color property"
+        },
+        {
+          "icon": "🌸",
+          "text": "Perfume - fragrance property"
+        },
+        {
+          "icon": "⚖️",
+          "text": "Objects have mass and occupy space"
+        }
+      ],
+      "keyPoints": [
+        "Matter is that which an object is made of",
+        "Matter exists in solid, liquid, or gaseous states",
+        "Properties of objects depend on the matter they contain",
+        "Matter has mass and occupies space (volume)",
+        "Even when divided into small particles, properties remain the same"
+      ],
+      "funFact": "💡 When you divide chalk into smaller pieces, each piece still has the white color - the properties of matter remain the same!",
+      "textbookRef": "Page 92: Matter - Definition and Properties"
+    },
+    {
+      "id": 2,
+      "title": "Elements - Pure Forms of Matter",
+      "emoji": "⚛️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Many kinds of matter found in nature are in pure form, that is, they contain only one constituent. In scientific language, matter made of only one constituent is called 'substance', for example, gold, diamond, water, chalk. Other kinds of matter are made of two or more substances. They are called 'mixtures'. We do not get different substances by the decomposition of an element. The smallest particles of elements are atoms. We cannot see atoms with the naked eye, but when crores of atoms come together, their total volume is large enough to be visible to our eyes. The smallest particles of substances are molecules. A substance whose molecules are made of one or more atoms which are exactly alike, is called an element.",
+      "pageReference": "93",
+      "examples": [
+        {
+          "icon": "💎",
+          "text": "Diamond - pure carbon element"
+        },
+        {
+          "icon": "💧",
+          "text": "Water - compound, not element"
+        },
+        {
+          "icon": "📜",
+          "text": "Chalk - compound substance"
+        },
+        {
+          "icon": "🧪",
+          "text": "Iron, copper, gold - metal elements"
+        }
+      ],
+      "keyPoints": [
+        "Element: Matter made of only one type of atom",
+        "Atoms are the smallest particles of elements",
+        "Atoms cannot be seen with naked eyes",
+        "118 elements discovered to date (92 occur in nature)",
+        "Common natural elements: Hydrogen, Oxygen, Nitrogen, Carbon, Iron",
+        "Elements cannot be decomposed into different substances"
+      ],
+      "funFact": "⚛️ Democritus named small particles 'atom' from Greek word 'atomos' meaning indivisible. In 1803, John Dalton proved atoms cannot be created or divided!",
+      "textbookRef": "Pages 93: Elements - Definition and Discovery"
+    },
+    {
+      "id": 3,
+      "title": "Element Symbols and Classification",
+      "emoji": "📊",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The scientist, Berzelius, was the first to use the present method of using symbols for elements. The symbol of an element is written in the English script and is the short form of its name. Some elements and their symbols are listed in the table alongside. When the initial letter in the names of two or more elements is the same, a pair of letters is used to write the symbol. Elements generally classified into two groups: metals and non-metals. Elements occur in solid, liquid or gaseous state. Some metals are difficult to use in pure form. The properties of the original metal can be modified by mixing one or more elements in it. Such a mixture of metals is called an alloy.",
+      "pageReference": "94",
+      "examples": [
+        {
+          "icon": "H",
+          "text": "Hydrogen (H), Helium (He)"
+        },
+        {
+          "icon": "C",
+          "text": "Carbon (C), Chlorine (Cl)"
+        },
+        {
+          "icon": "O",
+          "text": "Oxygen (O), Argon (Ar)"
+        },
+        {
+          "icon": "🔧",
+          "text": "Brass, steel - alloys (mixture of metals)"
+        }
+      ],
+      "keyPoints": [
+        "Element symbols use English script - short form of name",
+        "Single letter (C for Carbon) or pair (Cl for Chlorine)",
+        "Elements classified as: Metals and Non-metals",
+        "Metals: Malleable, ductile, conductive, lustrous, sonorous",
+        "Non-metals: Lack metallic properties (e.g., phosphorus, sulphur)",
+        "Metalloids: Have some properties of both (e.g., Arsenic, Silicon)",
+        "Alloys: Mixture of metals (Brass, steel, 22-carat gold)"
+      ],
+      "funFact": "🔬 Tungsten (W) symbol comes from German 'Wolfram'. Silver (Ag) and Gold (Au) come from Latin names Argentum and Aurum!",
+      "textbookRef": "Page 94: Element Symbols and Properties"
+    },
+    {
+      "id": 4,
+      "title": "Compounds - Chemical Combinations",
+      "emoji": "🧬",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The substance formed by a chemical combination of two or more elements is a compound. A substance is a compound only if its molecules are made up of atoms of different types. Water is a compound. One molecule of water is made of two atoms of hydrogen and one atom of oxygen. Like an element, a compound is also written in an abridged form. A molecule of a compound is formed by a chemical combination of atoms of two or more elements. Therefore, a molecular formula is used to represent a compound. A molecular formula of a compound is a short form of its name written with the help of the symbols of the constituent elements and the number of their respective atoms.",
+      "pageReference": "95",
+      "examples": [
+        {
+          "icon": "💧",
+          "text": "Water (H₂O) - 2 Hydrogen + 1 Oxygen"
+        },
+        {
+          "icon": "🧂",
+          "text": "Salt (NaCl) - Sodium + Chlorine"
+        },
+        {
+          "icon": "🍰",
+          "text": "Sugar (C₁₂H₂₂O₁₁) - Carbon, Hydrogen, Oxygen"
+        },
+        {
+          "icon": "🔥",
+          "text": "Magnesium + Oxygen = Magnesium Oxide (MgO)"
+        }
+      ],
+      "keyPoints": [
+        "Compound: Chemical combination of 2 or more elements",
+        "Molecules made of different types of atoms",
+        "Properties of compound differ from constituent elements",
+        "Hydrogen burns, Oxygen helps combustion, but Water extinguishes fire",
+        "Molecular formula: Shows symbols and number of atoms (H₂O)",
+        "Sugar melts and loses water, leaving black carbon behind"
+      ],
+      "funFact": "💡 Oxygen occurs in gaseous state in air. Two atoms of oxygen join to form a molecule O₂, which is always in molecular state!",
+      "textbookRef": "Page 95-96: Compounds - Definition and Properties"
+    },
+    {
+      "id": 5,
+      "title": "Mixtures - Physical Combinations",
+      "emoji": "🥗",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "A mixture is formed by mixing different elements or compounds. The proportion of various components in a mixture is not fixed. No chemical change takes place during the formation of mixtures and no new substance is formed. When an unwanted and harmful substance is mixed with another substance the resulting mixture no longer remains useful. In such cases, we separate the unwanted ingredients from the mixture. For this purpose, simple and easy methods such as straining (filtering), sifting, picking, sorting, winnowing, combing with a magnet and sublimation are used.",
+      "pageReference": "96",
+      "examples": [
+        {
+          "icon": "🥤",
+          "text": "Sherbet - mixture of ingredients"
+        },
+        {
+          "icon": "🍲",
+          "text": "Bhel - puffed rice, sev, onions mixed"
+        },
+        {
+          "icon": "🌊",
+          "text": "Water, sherbet, coal, iron, copper, brass, soil"
+        },
+        {
+          "icon": "🔨",
+          "text": "Semolina, salt, iron filings mixture"
+        }
+      ],
+      "keyPoints": [
+        "Mixture: Formed by mixing different elements or compounds",
+        "Proportion of components is not fixed",
+        "No chemical change - no new substance formed",
+        "Original properties of ingredients remain",
+        "Can be separated by physical methods",
+        "Separation methods: Filtering, sifting, picking, sorting, winnowing, magnet, sublimation",
+        "Adulteration: Mixing unwanted substances makes mixture harmful"
+      ],
+      "funFact": "🍽️ When you prepare sherbet or bhel, the taste of original ingredients doesn't change - that's a mixture!",
+      "textbookRef": "Page 96: Mixtures - Definition and Separation"
+    },
+    {
+      "id": 6,
+      "title": "Advanced Methods of Separation",
+      "emoji": "⚗️",
+      "colorTheme": "from-rose-400 to-red-500",
+      "bgColor": "bg-rose-50",
+      "borderColor": "border-rose-300",
+      "content": "Advanced methods are used for separating complex mixtures. Distillation separates liquids with different boiling points - salt water boils, water vaporizes, passes through condenser to form pure water, salt remains behind. Separating funnel separates two immiscible liquids based on density difference - heavier liquid stays at bottom, lighter floats on top. Centrifugation separates solid particles from liquid mixtures by rotating at high speed, pushing heavier particles to bottom. Chromatography separates dissolved substances based on their solubility and ability to stick to stationary filter paper.",
+      "pageReference": "97-99",
+      "examples": [
+        {
+          "icon": "💧",
+          "text": "Distillation - Purifying water from salt solution"
+        },
+        {
+          "icon": "🛢️",
+          "text": "Separating funnel - Kerosene and water separation"
+        },
+        {
+          "icon": "🧪",
+          "text": "Centrifuge - Separating milk, blood, turbid water"
+        },
+        {
+          "icon": "🎨",
+          "text": "Chromatography - Separating ink colors on filter paper"
+        }
+      ],
+      "keyPoints": [
+        "Distillation: Separates liquids by boiling and condensing",
+        "Used to purify impure liquids and get pure water",
+        "Separating funnel: Separates immiscible liquids by density",
+        "Centrifugation: Uses high-speed rotation to separate particles",
+        "Used for turbid water, milk, buttermilk, blood separation",
+        "Chromatography: Separates based on solubility and adhesion",
+        "Used in pharmaceutical science and detecting new ingredients",
+        "Rainwater from clouds is naturally pure (natural distillation)"
+      ],
+      "funFact": "☔ Is the water that falls from clouds naturally pure? Yes! Nature uses distillation - water evaporates, condenses in clouds, and falls as pure rain!",
+      "textbookRef": "Pages 97-99: Advanced Separation Methods"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "That which an object is made of is called _____.",
+      "options": [
+        "matter",
+        "energy",
+        "force",
+        "weight"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In scientific language, that which an object is made of is called matter. This is the exact textbook definition from Page 92.",
+      "conceptIds": [1],
+      "pageReference": "92"
+    },
+    {
+      "id": "q2",
+      "question": "The smallest particles of elements are _____.",
+      "options": [
+        "atoms",
+        "molecules",
+        "compounds",
+        "mixtures"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The smallest particles of elements are atoms. We cannot see atoms with the naked eye.",
+      "conceptIds": [2],
+      "pageReference": "93"
+    },
+    {
+      "id": "q3",
+      "question": "A substance made of only one constituent is called _____.",
+      "options": [
+        "substance (or element)",
+        "mixture",
+        "compound",
+        "alloy"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Matter made of only one constituent is called 'substance' or 'element' in scientific language.",
+      "conceptIds": [2],
+      "pageReference": "93"
+    },
+    {
+      "id": "q4",
+      "question": "How many elements have been discovered to date?",
+      "options": [
+        "118",
+        "92",
+        "100",
+        "150"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Scientists have discovered 118 elements. Of these, 92 elements occur in nature, while the remaining are man-made.",
+      "conceptIds": [2],
+      "pageReference": "93"
+    },
+    {
+      "id": "q5",
+      "question": "Elements are generally classified into _____.",
+      "options": [
+        "metals and non-metals",
+        "solids and liquids",
+        "heavy and light",
+        "natural and artificial"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Elements are generally classified into two groups: metals and non-metals. There is also a third group called metalloids.",
+      "conceptIds": [3],
+      "pageReference": "95"
+    },
+    {
+      "id": "q6",
+      "question": "A mixture of metals is called _____.",
+      "options": [
+        "an alloy",
+        "a compound",
+        "an element",
+        "a solution"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When metals are mixed together to modify properties, the mixture is called an alloy. Examples: Brass, steel, 22-carat gold.",
+      "conceptIds": [3],
+      "pageReference": "95"
+    },
+    {
+      "id": "q7",
+      "question": "The substance formed by a chemical combination of two or more elements is a _____.",
+      "options": [
+        "compound",
+        "mixture",
+        "element",
+        "atom"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A compound is formed by a chemical combination of two or more elements. Water (H₂O) is a compound.",
+      "conceptIds": [4],
+      "pageReference": "95"
+    },
+    {
+      "id": "q8",
+      "question": "One molecule of water is made of _____.",
+      "options": [
+        "two atoms of hydrogen and one atom of oxygen",
+        "one atom of hydrogen and two atoms of oxygen",
+        "two atoms of hydrogen and two atoms of oxygen",
+        "one atom of hydrogen and one atom of oxygen"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Water is a compound. One molecule of water (H₂O) is made of two atoms of hydrogen and one atom of oxygen.",
+      "conceptIds": [4],
+      "pageReference": "95"
+    },
+    {
+      "id": "q9",
+      "question": "In a mixture, the proportion of various components is _____.",
+      "options": [
+        "not fixed",
+        "always fixed",
+        "always equal",
+        "always 1:1"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A mixture is formed by mixing different elements or compounds. The proportion of components is not fixed.",
+      "conceptIds": [5],
+      "pageReference": "96"
+    },
+    {
+      "id": "q10",
+      "question": "Which of the following methods can be used to separate mixtures?",
+      "options": [
+        "Filtering, sifting, winnowing, using magnet",
+        "Heating only",
+        "Cooling only",
+        "Burning"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mixtures can be separated using simple physical methods: filtering, sifting, picking, sorting, winnowing, magnet, sublimation.",
+      "conceptIds": [5],
+      "pageReference": "96"
+    },
+    {
+      "id": "q11",
+      "question": "Which method is used to separate two immiscible liquids?",
+      "options": [
+        "Separating funnel",
+        "Distillation",
+        "Filtration",
+        "Chromatography"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Separating funnel is used to separate two immiscible liquids like kerosene and water based on their density difference.",
+      "conceptIds": [6],
+      "pageReference": "98"
+    },
+    {
+      "id": "q12",
+      "question": "Distillation is used to _____.",
+      "options": [
+        "purify impure liquids",
+        "separate solids from liquids",
+        "separate two solids",
+        "mix two liquids"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Distillation is used to purify impure liquids by boiling and then condensing the vapor. Salt water can be purified this way.",
+      "conceptIds": [6],
+      "pageReference": "97"
+    },
+    {
+      "id": "q13",
+      "question": "Which method uses high-speed rotation to separate solid particles from liquids?",
+      "options": [
+        "Centrifugation",
+        "Filtration",
+        "Distillation",
+        "Sublimation"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Centrifugation uses high-speed rotation in a centrifuge machine to separate solid particles from liquid mixtures like milk, blood, or turbid water.",
+      "conceptIds": [6],
+      "pageReference": "98"
+    },
+    {
+      "id": "q14",
+      "question": "In chromatography, substances are separated based on their _____.",
+      "options": [
+        "solubility and ability to stick to filter paper",
+        "boiling points",
+        "density",
+        "magnetic properties"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chromatography separates dissolved substances based on their solubility in the solvent and ability to stick to stationary filter paper.",
+      "conceptIds": [6],
+      "pageReference": "99"
+    },
+    {
+      "id": "q15",
+      "question": "Stainless steel is an example of _____.",
+      "options": [
+        "Alloy",
+        "Element",
+        "Compound",
+        "Non-metal"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Stainless steel is an alloy - a mixture of metals. Alloys are made by mixing metals to improve their properties.",
+      "conceptIds": [3],
+      "pageReference": "99"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Matter is that which an object is made of - exists as solid, liquid, or gas",
+      "Properties of matter remain same even when divided into small particles",
+      "Element: Matter made of only one type of atom (cannot be decomposed)",
+      "Atoms are the smallest particles of elements",
+      "118 elements discovered, 92 occur naturally",
+      "Element symbols: Short form using English script (H, He, C, Cl, etc.)",
+      "Elements classified as: Metals, Non-metals, and Metalloids",
+      "Alloy: Mixture of metals to modify properties (Brass, steel)",
+      "Compound: Chemical combination of 2+ elements with different properties",
+      "Molecular formula shows symbols and number of atoms (H₂O, NaCl)",
+      "Mixture: Physical mixing with no chemical change, unfixed proportions",
+      "Simple separation methods: Filtering, sifting, picking, sorting, winnowing, magnet",
+      "Distillation: Separates liquids by boiling and condensing (purifies water)",
+      "Separating funnel: Separates immiscible liquids by density (kerosene and water)",
+      "Centrifugation: High-speed rotation separates particles (milk, blood, turbid water)",
+      "Chromatography: Separates by solubility and adhesion (ink colors, pharmaceutical use)"
+    ],
+    "commonMisconceptions": [
+      "All matter is the same - FALSE (different substances have different properties)",
+      "Atoms can be seen with eyes - FALSE (need crores of atoms for visibility)",
+      "Water is an element - FALSE (it's a compound: H₂O)",
+      "Compounds and mixtures are the same - FALSE (compounds involve chemical change, mixtures don't)",
+      "Air is an element - FALSE (it's a mixture of elements like nitrogen, oxygen)",
+      "Alloys are compounds - FALSE (alloys are mixtures of metals)",
+      "Element symbols are random - FALSE (based on element name, often from Latin/Greek)",
+      "Compound properties same as elements - FALSE (e.g., H₂O extinguishes fire but H burns and O supports combustion)"
+    ],
+    "realWorldExamples": [
+      "Mumbai gold jewelry - 22-carat is alloy (gold + copper/silver)",
+      "Kitchen utensils - made of different metals (iron, copper, aluminum)",
+      "Table salt (NaCl) - compound of sodium and chlorine",
+      "Sugar (C₁₂H₂₂O₁₁) - compound that melts leaving carbon",
+      "Air we breathe - mixture of nitrogen, oxygen, carbon dioxide",
+      "Soil - mixture of various components",
+      "Sherbet/Bhel - common Indian food mixtures",
+      "Brass vessels - alloy of copper and zinc",
+      "Window panes - made of glass (compound)",
+      "Chalk - compound of calcium, carbon, oxygen",
+      "Perfume fragrance - property of matter spreading",
+      "Magnets to separate iron filings from mixture",
+      "Distillation in sugar factory or jaggery factory to purify liquids",
+      "Laboratory centrifuge to separate blood components",
+      "Dairy centrifuge to separate cream from milk",
+      "Rainwater as naturally pure water (nature's distillation)",
+      "Separating kerosene from water using separating funnel",
+      "Pharmaceutical labs using chromatography to detect ingredients"
+    ],
+    "formulas": [
+      {
+        "formula": "H₂O",
+        "explanation": "Water - 2 hydrogen atoms + 1 oxygen atom. Properties different from H and O."
+      },
+      {
+        "formula": "O₂",
+        "explanation": "Oxygen molecule - 2 oxygen atoms joined together, always in molecular state."
+      },
+      {
+        "formula": "NaCl",
+        "explanation": "Sodium Chloride (Salt) - 1 sodium atom + 1 chlorine atom."
+      },
+      {
+        "formula": "C₁₂H₂₂O₁₁",
+        "explanation": "Sugar - 12 carbon + 22 hydrogen + 11 oxygen atoms. Melts to leave black carbon."
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Chapter Content Schema",
+  "description": "Standardized schema for Maharashtra Board 7th Grade textbook chapters",
+  "type": "object",
+  "required": ["metadata", "preAssessment", "concepts", "test", "aiContext"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["chapterNumber", "title", "subject", "pages", "description"],
+      "properties": {
+        "chapterNumber": {
+          "type": "integer",
+          "description": "Chapter number from textbook"
+        },
+        "title": {
+          "type": "string",
+          "description": "Chapter title"
+        },
+        "subject": {
+          "type": "string",
+          "description": "Subject name (Science, Mathematics, etc.)"
+        },
+        "pages": {
+          "type": "string",
+          "description": "Page range in textbook (e.g., '118-125')"
+        },
+        "description": {
+          "type": "string",
+          "description": "Brief chapter description"
+        }
+      }
+    },
+    "preAssessment": {
+      "type": "array",
+      "description": "Pre-assessment questions (5 questions)",
+      "minItems": 5,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["id", "question", "options", "correctAnswer", "difficulty", "conceptId"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Question ID (q1, q2, etc.)"
+          },
+          "question": {
+            "type": "string",
+            "description": "Question text"
+          },
+          "options": {
+            "type": "array",
+            "items": { "type": "string" },
+            "minItems": 4,
+            "maxItems": 4
+          },
+          "correctAnswer": {
+            "type": "string",
+            "enum": ["A", "B", "C", "D"],
+            "description": "Correct answer letter"
+          },
+          "difficulty": {
+            "type": "string",
+            "enum": ["easy", "medium", "hard"],
+            "description": "Question difficulty level"
+          },
+          "conceptId": {
+            "type": "integer",
+            "description": "Related concept ID (1-5)"
+          }
+        }
+      }
+    },
+    "concepts": {
+      "type": "array",
+      "description": "Main concepts to teach (typically 5)",
+      "minItems": 3,
+      "maxItems": 7,
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "emoji", "colorTheme", "bgColor", "borderColor", "content", "examples", "keyPoints", "funFact", "textbookRef"],
+        "properties": {
+          "id": {
+            "type": "integer",
+            "description": "Concept ID (1-5)"
+          },
+          "title": {
+            "type": "string",
+            "description": "Concept title from textbook"
+          },
+          "emoji": {
+            "type": "string",
+            "description": "Representative emoji"
+          },
+          "colorTheme": {
+            "type": "string",
+            "description": "TailwindCSS gradient class (e.g., 'from-blue-400 to-cyan-500')"
+          },
+          "bgColor": {
+            "type": "string",
+            "description": "Background color class (e.g., 'bg-blue-50')"
+          },
+          "borderColor": {
+            "type": "string",
+            "description": "Border color class (e.g., 'border-blue-300')"
+          },
+          "content": {
+            "type": "string",
+            "description": "EXACT textbook definition/explanation"
+          },
+          "pageReference": {
+            "type": "string",
+            "description": "Specific page(s) for this concept"
+          },
+          "examples": {
+            "type": "array",
+            "description": "Real-life examples (3-4)",
+            "items": {
+              "type": "object",
+              "properties": {
+                "icon": { "type": "string" },
+                "text": { "type": "string" }
+              }
+            }
+          },
+          "keyPoints": {
+            "type": "array",
+            "description": "Key takeaways (4-5 points)",
+            "items": { "type": "string" }
+          },
+          "funFact": {
+            "type": "string",
+            "description": "Interesting fact from textbook or related"
+          },
+          "textbookRef": {
+            "type": "string",
+            "description": "Page reference with section name"
+          }
+        }
+      }
+    },
+    "test": {
+      "type": "array",
+      "description": "Test questions from textbook exercise (8-10 questions)",
+      "minItems": 8,
+      "maxItems": 12,
+      "items": {
+        "type": "object",
+        "required": ["id", "question", "options", "correctAnswer", "explanation", "conceptIds", "pageReference"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Question ID (q1, q2, etc.)"
+          },
+          "question": {
+            "type": "string",
+            "description": "Question text from textbook exercise"
+          },
+          "options": {
+            "type": "array",
+            "items": { "type": "string" },
+            "minItems": 4,
+            "maxItems": 4
+          },
+          "correctAnswer": {
+            "type": "string",
+            "enum": ["A", "B", "C", "D"],
+            "description": "Correct answer letter"
+          },
+          "explanation": {
+            "type": "string",
+            "description": "Why this answer is correct"
+          },
+          "conceptIds": {
+            "type": "array",
+            "items": { "type": "integer" },
+            "description": "Related concept IDs for revision mapping"
+          },
+          "pageReference": {
+            "type": "string",
+            "description": "Textbook page with this question/concept"
+          }
+        }
+      }
+    },
+    "aiContext": {
+      "type": "object",
+      "description": "Context for AI tutor to use in chat",
+      "required": ["keyConcepts", "commonMisconceptions", "realWorldExamples"],
+      "properties": {
+        "keyConcepts": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Main concepts AI should emphasize"
+        },
+        "commonMisconceptions": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Common student misconceptions to address"
+        },
+        "realWorldExamples": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Indian context examples for AI to use"
+        },
+        "formulas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "formula": { "type": "string" },
+              "explanation": { "type": "string" }
+            }
+          },
+          "description": "Important formulas with explanations"
+        }
+      }
+    }
+  }
+}
