@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "chapterNumber": 4,
+    "title": "Fundamental Rights — Part 1",
+    "subject": "Civics",
+    "pages": "76-79",
+    "description": "Exploring the first three of the six Fundamental Rights — Right to Equality, Right to Freedom (six freedoms), and Right against Exploitation — along with the constitutional writs that protect these rights."
+  },
+  "preAssessment": [
+    {
+      "id": "pre-4-1",
+      "question": "Where are Fundamental Rights listed in the Indian Constitution?",
+      "options": [
+        "Part I",
+        "Part II",
+        "Part III",
+        "Part IV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fundamental Rights are listed in Part III of the Indian Constitution, from Articles 12 to 35."
+    },
+    {
+      "id": "pre-4-2",
+      "question": "What does the Right to Equality guarantee?",
+      "options": [
+        "Everyone earns the same salary",
+        "Everyone is equal before the law and cannot be discriminated against",
+        "All people must live in the same type of house",
+        "Everyone must attend the same school"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Right to Equality guarantees that everyone is equal before the law and cannot be discriminated against based on religion, caste, race, sex, or place of birth."
+    },
+    {
+      "id": "pre-4-3",
+      "question": "What is Habeas Corpus?",
+      "options": [
+        "A type of tax",
+        "A writ ordering that a detained person be brought before the court",
+        "A law about education",
+        "A type of election"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Habeas Corpus is a writ (court order) that requires a person who has been arrested or detained to be brought before a court to determine if the detention is legal."
+    },
+    {
+      "id": "pre-4-4",
+      "question": "Which article abolishes untouchability?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Article 17 abolishes untouchability and forbids its practice in any form. Practising untouchability is an offense punishable by law."
+    },
+    {
+      "id": "pre-4-5",
+      "question": "Up to what age is child labour prohibited in hazardous industries?",
+      "options": [
+        "12 years",
+        "14 years",
+        "16 years",
+        "18 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 24 prohibits the employment of children below 14 years of age in factories, mines, and other hazardous industries."
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept-4-1",
+      "title": "What are Fundamental Rights?",
+      "emoji": "🛡️",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Fundamental Rights are basic rights guaranteed by the Constitution to every citizen of India. They are called 'Fundamental' because they are essential for the development of every individual and for living a dignified life. They are listed in Part III of the Constitution (Articles 12-35). If anyone's Fundamental Right is violated — even by the government — the person can directly go to the Supreme Court or High Court to get it protected. Originally there were 7 Fundamental Rights; the Right to Property was removed in 1978, leaving 6 Fundamental Rights.",
+      "pageReference": "76",
+      "examples": [
+        "If a police officer arrests someone without reason, that person can file a Habeas Corpus writ in the High Court.",
+        "If a company discriminates in hiring based on religion, the affected person can challenge it as a violation of Fundamental Rights.",
+        "Schools cannot refuse admission to a child based on caste — doing so violates the Right to Equality."
+      ],
+      "keyPoints": [
+        "Fundamental Rights are in Part III of the Constitution (Articles 12-35).",
+        "They protect individuals from the arbitrary actions of the state (government).",
+        "If violated, citizens can directly approach the Supreme Court or High Court.",
+        "Originally 7, now 6 Fundamental Rights (Right to Property removed in 1978).",
+        "The 6 Fundamental Rights are: Equality, Freedom, Against Exploitation, Religion, Cultural/Educational, Constitutional Remedies."
+      ],
+      "funFact": "The Indian Fundamental Rights were inspired by the Bill of Rights in the US Constitution — a great example of how nations learn from each other to protect their citizens!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 4, Page 76"
+    },
+    {
+      "id": "concept-4-2",
+      "title": "Right to Equality (Articles 14-18)",
+      "emoji": "⚖️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The Right to Equality ensures that every person is equal before the law and is entitled to equal protection of the law. The state cannot discriminate against citizens on the grounds of religion, race, caste, sex, or place of birth. Article 14 gives equality before law. Article 15 prohibits discrimination. Article 16 ensures equal opportunity in public employment. Article 17 abolishes untouchability — practising it is a punishable offence. Article 18 abolishes titles (like 'Sir', 'Rai Bahadur') except military and academic distinctions.",
+      "pageReference": "76-77",
+      "examples": [
+        "Article 14: Whether rich or poor, everyone faces the same court and the same law.",
+        "Article 17: Untouchability has been constitutionally abolished — refusing service to someone based on caste is illegal.",
+        "Article 16: A government job cannot be refused based on religion or caste — all eligible citizens have equal opportunity."
+      ],
+      "keyPoints": [
+        "Article 14 — Equality before law and equal protection of laws.",
+        "Article 15 — No discrimination based on religion, race, caste, sex, or place of birth.",
+        "Article 16 — Equal opportunity in government employment.",
+        "Article 17 — Abolition of untouchability; practising it is an offence.",
+        "Article 18 — Abolition of titles (except military/academic distinctions)."
+      ],
+      "funFact": "India was one of the first countries in the world to make untouchability a constitutional offence — a groundbreaking step in fighting centuries of social discrimination!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 4, Page 76-77"
+    },
+    {
+      "id": "concept-4-3",
+      "title": "Right to Freedom — Six Freedoms (Articles 19-22)",
+      "emoji": "🕊️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The Right to Freedom guarantees six important freedoms to every citizen under Article 19: (1) Freedom of speech and expression, (2) Freedom to assemble peacefully without arms, (3) Freedom to form associations or unions, (4) Freedom to move freely throughout India, (5) Freedom to reside and settle in any part of India, (6) Freedom to practise any profession or to carry on any occupation, trade, or business. Article 20 protects against arbitrary conviction. Article 21 protects life and personal liberty. Article 22 protects against arbitrary arrest.",
+      "pageReference": "77-78",
+      "examples": [
+        "Freedom of speech: Citizens can criticise the government, write articles, and post opinions (within reasonable restrictions).",
+        "Freedom of movement: A person from Maharashtra can settle and work in any state without restriction.",
+        "Freedom of profession: You can choose to become a doctor, lawyer, teacher, or start a business as per your choice."
+      ],
+      "keyPoints": [
+        "Article 19 gives 6 freedoms: speech/expression, assembly, association, movement, residence, profession.",
+        "These freedoms are not absolute — the state can impose reasonable restrictions in the interest of security, public order, or morality.",
+        "Article 20 — Protection against arbitrary conviction; no double punishment for the same offence.",
+        "Article 21 — Right to life and personal liberty — one of the most important rights.",
+        "Article 22 — Protection against arbitrary arrest; arrested persons must be informed of the grounds of arrest."
+      ],
+      "funFact": "Article 21 (Right to Life) has been interpreted very broadly by the Supreme Court — it now includes the right to live with dignity, right to a clean environment, right to health, right to education, and even the right to sleep on footpaths!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 4, Page 77-78"
+    },
+    {
+      "id": "concept-4-4",
+      "title": "Restrictions on Fundamental Rights",
+      "emoji": "🔒",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Fundamental Rights are not absolute — they can be restricted by the state under certain circumstances. The state can impose 'reasonable restrictions' on freedoms in the interests of: sovereignty and integrity of India, security of the state, public order, decency or morality, or the rights of other citizens. For example, freedom of speech does not allow hate speech or inciting violence. During a National Emergency, certain Fundamental Rights can be suspended. This ensures that rights do not become tools for harming society.",
+      "pageReference": "78",
+      "examples": [
+        "Freedom of speech: You cannot use it to incite riots or spread hatred against communities — that is a reasonable restriction.",
+        "Freedom of movement: During a curfew (public order), the state can temporarily restrict movement.",
+        "Freedom of assembly: An unlawful assembly that threatens public peace can be dispersed by authorities."
+      ],
+      "keyPoints": [
+        "Fundamental Rights are not absolute — the state can impose reasonable restrictions.",
+        "Restrictions are allowed for: security of state, public order, morality, sovereignty and integrity of India.",
+        "During National Emergency, some Fundamental Rights under Article 19 can be suspended.",
+        "The restrictions must be 'reasonable' — excessive or arbitrary restrictions can be challenged in court.",
+        "This balance ensures that individual rights do not harm collective well-being."
+      ],
+      "funFact": "Even in the USA, which is famous for freedom of speech, the Supreme Court has ruled that you cannot falsely shout 'Fire!' in a crowded theatre — showing that even the most liberal democracies have reasonable limits on rights!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 4, Page 78"
+    },
+    {
+      "id": "concept-4-5",
+      "title": "Right against Exploitation (Articles 23-24) and Writs",
+      "emoji": "✊",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Article 23 prohibits human trafficking (buying and selling of people) and forced labour (begar — making someone work without payment). Article 24 prohibits the employment of children below 14 years of age in factories, mines, and other hazardous industries. To enforce Fundamental Rights, the Constitution provides for five writs: Habeas Corpus (produce the detained person in court), Mandamus (order to a government official to do their duty), Prohibition (higher court stopping lower court from exceeding its jurisdiction), Certiorari (quashing a lower court's order), and Quo Warranto (challenging a person's claim to a public office).",
+      "pageReference": "78-79",
+      "examples": [
+        "Article 23: A landlord cannot force a bonded labourer to work without payment — this is forced labour and is unconstitutional.",
+        "Article 24: A factory owner cannot employ a 10-year-old in their factory — this is child labour and is illegal.",
+        "Habeas Corpus: If a person is illegally detained by police, their family can file a Habeas Corpus petition in the High Court to get them released."
+      ],
+      "keyPoints": [
+        "Article 23 — Prohibits human trafficking and forced labour (begar).",
+        "Article 24 — Prohibits child labour below 14 years in hazardous industries.",
+        "Five writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto.",
+        "Habeas Corpus means 'produce the body' — ensures no illegal detention.",
+        "Writs can be filed in the Supreme Court (under Art 32) or High Courts (under Art 226)."
+      ],
+      "funFact": "The word 'Habeas Corpus' is Latin for 'you shall have the body.' It is one of the oldest legal protections in the world — it existed in English law since the Magna Carta in 1215, over 800 years ago!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 4, Page 78-79"
+    }
+  ],
+  "test": [
+    {
+      "id": "test-4-1",
+      "question": "In which Part of the Indian Constitution are Fundamental Rights listed?",
+      "options": [
+        "Part I",
+        "Part II",
+        "Part III",
+        "Part IV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fundamental Rights are listed in Part III of the Indian Constitution, under Articles 12 to 35."
+    },
+    {
+      "id": "test-4-2",
+      "question": "Which article of the Constitution abolishes untouchability?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 17",
+        "Article 19"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 17 abolishes untouchability and makes its practice in any form a punishable offence."
+    },
+    {
+      "id": "test-4-3",
+      "question": "How many freedoms are guaranteed under Article 19?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 19 guarantees 6 freedoms: speech/expression, peaceful assembly, forming associations, free movement, residence anywhere in India, and choice of profession."
+    },
+    {
+      "id": "test-4-4",
+      "question": "What does the writ of 'Habeas Corpus' mean?",
+      "options": [
+        "Order to a public servant to do their duty",
+        "Quashing an order of a lower court",
+        "Requiring a detained person to be produced before the court",
+        "Challenging someone's claim to a public office"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Habeas Corpus (meaning 'produce the body') is a writ that orders that a person who has been detained be brought before the court to determine if the detention is legal."
+    },
+    {
+      "id": "test-4-5",
+      "question": "Which article prohibits child labour in hazardous industries?",
+      "options": [
+        "Article 21",
+        "Article 22",
+        "Article 23",
+        "Article 24"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Article 24 prohibits employment of children below 14 years of age in factories, mines, and other hazardous occupations."
+    },
+    {
+      "id": "test-4-6",
+      "question": "What is 'begar' as mentioned in the Right against Exploitation?",
+      "options": [
+        "A form of taxation",
+        "Forced labour without payment",
+        "Child education",
+        "Agricultural practice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Begar refers to forced labour where a person is made to work without any payment. Article 23 prohibits begar and other similar forms of forced labour."
+    },
+    {
+      "id": "test-4-7",
+      "question": "Which writ orders a government official to perform their duty?",
+      "options": [
+        "Habeas Corpus",
+        "Mandamus",
+        "Certiorari",
+        "Quo Warranto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mandamus is a writ that orders a public official or government body to perform a duty that they are legally required to do."
+    },
+    {
+      "id": "test-4-8",
+      "question": "Which of the following is NOT one of the six freedoms under Article 19?",
+      "options": [
+        "Freedom of speech and expression",
+        "Freedom to move freely throughout India",
+        "Freedom to vote in elections",
+        "Freedom to form associations"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The right to vote is not one of the six freedoms under Article 19. The six freedoms are: speech/expression, peaceful assembly, associations, movement, residence, and profession."
+    },
+    {
+      "id": "test-4-9",
+      "question": "What is the correct meaning of the writ 'Quo Warranto'?",
+      "options": [
+        "Produce the detained person in court",
+        "Stop a lower court from exceeding jurisdiction",
+        "Challenge a person's claim to a public office",
+        "Order to quash a lower court's decision"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Quo Warranto means 'by what authority' — it is used to challenge the right of a person to hold a public office or franchise."
+    },
+    {
+      "id": "test-4-10",
+      "question": "Why are Fundamental Rights said to be not absolute?",
+      "options": [
+        "Because they do not exist in the Constitution",
+        "Because only the President can use them",
+        "Because the state can impose reasonable restrictions on them for public good",
+        "Because they change every year"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fundamental Rights are not absolute because the state can impose reasonable restrictions on them in the interest of national security, public order, morality, and the rights of others."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Fundamental Rights in Part III, Articles 12-35",
+      "6 Fundamental Rights (originally 7 — Right to Property removed 1978)",
+      "Right to Equality: Articles 14-18 — equality before law, no discrimination, abolition of untouchability, no titles",
+      "Right to Freedom: Articles 19-22 — six freedoms under Article 19: speech/expression, assembly, association, movement, residence, profession",
+      "Article 21 — Right to life and personal liberty (broadly interpreted)",
+      "Right against Exploitation: Articles 23-24 — no human trafficking, no child labour below 14 in hazardous industries",
+      "Five Writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto",
+      "Fundamental Rights are justiciable — can be enforced through courts"
+    ],
+    "commonMisconceptions": [
+      "Students think Fundamental Rights are absolute — they are subject to reasonable restrictions.",
+      "Many confuse Habeas Corpus with Mandamus — Habeas Corpus is for illegal detention, Mandamus is to make officials do their duty.",
+      "Students may think child labour is completely banned below 18 — the constitutional prohibition is for hazardous industries and children below 14.",
+      "Some think untouchability was only a social issue — Article 17 makes it a constitutional and legal offence.",
+      "Students may not know that there were originally 7 Fundamental Rights and the Right to Property was removed in 1978."
+    ],
+    "realWorldExamples": [
+      "Article 17 in action: The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act prosecutes discrimination based on untouchability.",
+      "Article 24 in action: Child Labour Act penalises employers who use child labour in hazardous industries.",
+      "Habeas Corpus: Used widely in cases of illegal police detention; many political prisoners have been freed through this writ.",
+      "Article 21 — Right to Life: The Supreme Court used Article 21 to direct states to provide mid-day meals to school children.",
+      "Article 19 — Freedom of Speech: Citizens use it to challenge government censorship of books, films, and online content."
+    ],
+    "formulas": []
+  }
+}

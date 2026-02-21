@@ -1,0 +1,340 @@
+{
+  "metadata": {
+    "chapterNumber": 2,
+    "title": "India Before Shivaji",
+    "subject": "History",
+    "pages": "5-10",
+    "description": "A survey of medieval India from the 9th to 18th century — the decline of the Delhi Sultanate, rise of regional kingdoms, the Mughal Empire from Babur to Aurangzeb, and the Deccan Sultanates that shaped the world Shivaji was born into."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_2_1",
+      "question": "Which battle in 1526 marked the beginning of the Mughal Empire in India?",
+      "options": {
+        "A": "Battle of Pratapgad",
+        "B": "First Battle of Panipat",
+        "C": "Battle of Bhopal",
+        "D": "Battle of Talikota"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_2_3"
+    },
+    {
+      "id": "pre_2_2",
+      "question": "Which Mughal emperor built the Taj Mahal?",
+      "options": {
+        "A": "Akbar",
+        "B": "Aurangzeb",
+        "C": "Jahangir",
+        "D": "Shah Jahan"
+      },
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "conceptId": "concept_2_4"
+    },
+    {
+      "id": "pre_2_3",
+      "question": "Which Central Asian ruler invaded Delhi in 1398 and weakened the Delhi Sultanate?",
+      "options": {
+        "A": "Genghis Khan",
+        "B": "Timur (Tamerlane)",
+        "C": "Babur",
+        "D": "Ahmad Shah Abdali"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_2_1"
+    },
+    {
+      "id": "pre_2_4",
+      "question": "The Deccan Sultanate based in Bijapur was known as:",
+      "options": {
+        "A": "Nizamshahi",
+        "B": "Qutbshahi",
+        "C": "Adilshahi",
+        "D": "Imadshahi"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_2_5"
+    },
+    {
+      "id": "pre_2_5",
+      "question": "What was 'Din-i-Ilahi' introduced by Akbar?",
+      "options": {
+        "A": "A new tax system",
+        "B": "A new religion combining elements of different faiths promoting unity",
+        "C": "A military strategy against the Deccan",
+        "D": "A type of fort architecture"
+      },
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "conceptId": "concept_2_3"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_2_1",
+      "title": "Decline of the Delhi Sultanate",
+      "emoji": "🏰",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The Delhi Sultanate had ruled much of North India for about 300 years when a devastating blow struck in 1398. Timur (Tamerlane), a Central Asian conqueror, invaded Delhi, looted the city, massacred thousands of people, and left the Sultanate in ruins. After Timur's invasion, the central authority of Delhi collapsed. Local governors and regional chiefs asserted their independence, leading to the creation of many smaller regional kingdoms across India. This fragmentation of power — while politically unstable — actually created space for diverse regional cultures and languages to flourish. By the early 16th century, the last effective rulers of the Sultanate were overthrown by the arrival of the Mughals.",
+      "pageReference": "5-6",
+      "examples": [
+        "After Timur left, the governors of Bengal, Gujarat, and Malwa each declared independence from Delhi.",
+        "The Bahmani Kingdom in the Deccan, which had already broken away in 1347, further consolidated its power.",
+        "Regional languages like Marathi, Bengali, and Gujarati flourished as local courts replaced the Persian-dominated Delhi court."
+      ],
+      "keyPoints": [
+        "Timur's invasion of 1398 was the critical blow that broke the Delhi Sultanate's power.",
+        "After Timur, regional kingdoms rose across India — Gujarat, Malwa, Bengal, and the Deccan.",
+        "The fragmentation of the Delhi Sultanate allowed regional cultures and languages to develop.",
+        "The last of the Delhi Sultans (Lodhi dynasty) was defeated by Babur at Panipat in 1526.",
+        "This period of many kingdoms set the stage for both the Mughal Empire and the Maratha rise."
+      ],
+      "funFact": "When Timur invaded Delhi in 1398, the city's population dropped so drastically that it reportedly looked like a ghost town for months. The city took decades to recover its former glory!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 2, Pages 5-6"
+    },
+    {
+      "id": "concept_2_2",
+      "title": "Rise of Regional Kingdoms",
+      "emoji": "👑",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "After the collapse of central authority in Delhi, powerful regional kingdoms emerged across India. In the Deccan (southern and central India), the most important was the Bahmani Kingdom (founded 1347), which later split into five Deccan Sultanates. The Gujarat Sultanate became a prosperous trading state with Surat as a major port. The Malwa Sultanate in central India was known for its art and culture. The Vijayanagar Empire in South India was a great Hindu kingdom that resisted Islamic invasion for centuries. The rulers of these regional kingdoms often built grand forts, patronized local languages and literature, and developed independent administrative systems. Their rivalries and alliances directly shaped the political situation into which Shivaji Maharaj was born.",
+      "pageReference": "6-7",
+      "examples": [
+        "The Vijayanagar Empire's capital Hampi was one of the richest cities in the world in the 15th century.",
+        "The Gujarat Sultanate's Surat port was one of the most important trade centers in Asia.",
+        "The Bahmani kingdom's eventual split into five Deccan Sultanates created the political landscape of Shivaji's era."
+      ],
+      "keyPoints": [
+        "Key regional kingdoms: Bahmani (Deccan), Gujarat Sultanate, Malwa Sultanate, Vijayanagar Empire.",
+        "Vijayanagar was the great Hindu empire of South India that resisted northern invasions.",
+        "The Bahmani Kingdom later broke into five Deccan Sultanates: Adilshahi, Nizamshahi, Qutbshahi, Imadshahi, Baridshahi.",
+        "Regional kingdoms patronized local languages, art, and culture.",
+        "These kingdoms' conflicts with each other created the political environment for Shivaji's rise."
+      ],
+      "funFact": "The Vijayanagar Empire was so wealthy that Arab and European travelers described its capital as larger and richer than Rome. Its markets reportedly sold diamonds by the kilogram!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 2, Pages 6-7"
+    },
+    {
+      "id": "concept_2_3",
+      "title": "Mughal Empire: Babur to Akbar",
+      "emoji": "🕌",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Babur, a prince from Central Asia descended from both Timur and Genghis Khan, defeated Ibrahim Lodi at the First Battle of Panipat in 1526 and founded the Mughal Empire. His son Humayun faced many difficulties and was even exiled from India for a time before recapturing Delhi. Humayun's son Akbar was the greatest of the Mughal emperors — he expanded the empire across almost all of India, created an efficient administration, and was famous for his policy of religious tolerance. Akbar introduced 'Sulh-e-kul' (peace with all) and 'Din-i-Ilahi' — a spiritual philosophy combining elements from different religions. He married a Rajput princess (Jodha Bai) and gave Rajput chiefs important positions in his court, creating a strong alliance. Akbar abolished the jizya (tax on non-Muslims) and respected Hindu practices.",
+      "pageReference": "7-8",
+      "examples": [
+        "Babur used gunpowder and cannons at Panipat (1526) — a new military technology that shocked Indian armies.",
+        "Humayun was defeated by Sher Shah Suri and spent 15 years in exile in Persia before recapturing India.",
+        "Akbar's Navratnas (nine gems) included scholars, musicians, and administrators from Hindu and Muslim backgrounds."
+      ],
+      "keyPoints": [
+        "Babur founded the Mughal Empire by defeating Ibrahim Lodi at First Battle of Panipat (1526).",
+        "Humayun: second Mughal emperor, faced many challenges, was exiled but returned to recapture India.",
+        "Akbar: third Mughal emperor, greatest of all, famous for religious tolerance and efficient administration.",
+        "Sulh-e-kul (peace with all): Akbar's policy of religious harmony and tolerance.",
+        "Din-i-Ilahi: Akbar's spiritual philosophy combining elements of different religions."
+      ],
+      "funFact": "Akbar was illiterate — he could not read or write — yet he had thousands of books read to him daily and had one of the finest libraries in the world! He had a photographic memory and remembered everything he heard.",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 2, Pages 7-8"
+    },
+    {
+      "id": "concept_2_4",
+      "title": "Shah Jahan and Aurangzeb",
+      "emoji": "⚔️",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Jahangir (Akbar's son) continued the Mughal tradition of arts and architecture. His son Shah Jahan built some of the most magnificent monuments in the world — most notably the Taj Mahal at Agra (1632-1653), a marble mausoleum for his wife Mumtaz Mahal. Shah Jahan also built the Red Fort and Jama Masjid in Delhi. However, his construction projects were enormously expensive. His son Aurangzeb (ruled 1658-1707) had a very different approach — he imprisoned his own father to seize power, reversed many of Akbar's tolerant policies, reimposed the jizya tax, and destroyed several Hindu temples. Aurangzeb spent the last 27 years of his reign fighting the Marathas in the Deccan — a campaign that ultimately ruined the Mughal treasury and hastened the empire's decline.",
+      "pageReference": "8-9",
+      "examples": [
+        "The Taj Mahal took 22 years to build, employed 20,000 workers, and remains one of the Seven Wonders of the World.",
+        "Aurangzeb imprisoned Shah Jahan in Agra Fort — Shah Jahan spent his last years looking at the Taj Mahal through a window.",
+        "Aurangzeb's 27-year Deccan war against Marathas (1681-1707) drained the Mughal treasury completely."
+      ],
+      "keyPoints": [
+        "Jahangir: fourth Mughal emperor, known for love of art, nature, and justice.",
+        "Shah Jahan: fifth Mughal emperor, built Taj Mahal, Red Fort, Jama Masjid.",
+        "Aurangzeb: sixth Mughal emperor, reversed tolerant policies, imposed jizya tax.",
+        "Aurangzeb's 27-year Deccan war against the Marathas weakened the Mughal Empire.",
+        "After Aurangzeb's death (1707), the Mughal Empire rapidly declined."
+      ],
+      "funFact": "Shah Jahan's wife Mumtaz Mahal died while giving birth to their 14th child. The grief-stricken emperor built the Taj Mahal as an eternal tribute — and reportedly his own hair turned white within months of her death.",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 2, Pages 8-9"
+    },
+    {
+      "id": "concept_2_5",
+      "title": "The Deccan Sultanates",
+      "emoji": "🗺️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "When the Bahmani Kingdom broke apart in the early 16th century, it split into five independent Deccan Sultanates. The most important for Maharashtra's history were: Adilshahi (capital: Bijapur), Nizamshahi (capital: Ahmednagar), and Qutbshahi (capital: Golconda/Hyderabad). The other two were Imadshahi (Berar) and Baridshahi (Bidar). These five kingdoms fought among themselves but also allied against the Vijayanagar Empire (Battle of Talikota, 1565) and later against the Mughals. Maharashtra was largely under the control of the Nizamshahi and Adilshahi sultanates. Shivaji's father Shahaji Raje served both these sultanates. The oppressive rule of these foreign sultanates over the Maratha people created deep resentment and the desire for Swaraj (self-rule).",
+      "pageReference": "9-10",
+      "examples": [
+        "The combined Deccan Sultanates defeated and destroyed Vijayanagar at the Battle of Talikota (1565).",
+        "Bijapur (Adilshahi) built the Gol Gumbaz — a massive dome that still stands today and is the second largest in the world.",
+        "Shivaji's early territories were carved out of Nizamshahi and Adilshahi-controlled Maharashtra."
+      ],
+      "keyPoints": [
+        "Five Deccan Sultanates emerged from the breakup of the Bahmani Kingdom.",
+        "Adilshahi (Bijapur), Nizamshahi (Ahmednagar), Qutbshahi (Golconda) were most important for Maharashtra.",
+        "The other two were Imadshahi (Berar) and Baridshahi (Bidar).",
+        "These sultanates controlled Maharashtra and their oppressive rule fueled the desire for Swaraj.",
+        "Shivaji's father Shahaji served these sultanates — giving Shivaji knowledge of their weaknesses."
+      ],
+      "funFact": "The Gol Gumbaz in Bijapur (built by Adilshahi rulers) has a 'Whispering Gallery' — if you whisper along the inner wall of the dome, your voice travels around the entire circle and can be heard clearly on the other side!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 2, Pages 9-10"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_2_1",
+      "question": "In which year did Timur invade and destroy Delhi?",
+      "options": {
+        "A": "1192",
+        "B": "1398",
+        "C": "1526",
+        "D": "1627"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Timur (Tamerlane) invaded Delhi in 1398, massacred the population, and looted the city, causing the collapse of the Delhi Sultanate's central authority."
+    },
+    {
+      "id": "test_2_2",
+      "question": "Who was defeated by Babur at the First Battle of Panipat (1526)?",
+      "options": {
+        "A": "Hemu",
+        "B": "Rana Sanga",
+        "C": "Ibrahim Lodi",
+        "D": "Ahmad Shah Abdali"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Babur defeated Ibrahim Lodi, the last sultan of the Lodi dynasty of Delhi, at the First Battle of Panipat in 1526. This victory established the Mughal Empire in India."
+    },
+    {
+      "id": "test_2_3",
+      "question": "What does 'Sulh-e-kul' mean?",
+      "options": {
+        "A": "Victory over all",
+        "B": "Peace with all",
+        "C": "Tax on non-Muslims",
+        "D": "Rule of God"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Sulh-e-kul means 'peace with all' — it was Akbar's principle of religious tolerance and harmony that guided his interactions with people of all religions in the empire."
+    },
+    {
+      "id": "test_2_4",
+      "question": "The Taj Mahal was built by Shah Jahan in memory of:",
+      "options": {
+        "A": "His mother Hamida Banu",
+        "B": "His daughter Jahanara",
+        "C": "His wife Mumtaz Mahal",
+        "D": "The poet Mirabai"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Shah Jahan built the Taj Mahal as a mausoleum for his beloved wife Mumtaz Mahal, who died in 1631 while giving birth to their 14th child."
+    },
+    {
+      "id": "test_2_5",
+      "question": "Which Deccan Sultanate had its capital at Ahmednagar?",
+      "options": {
+        "A": "Adilshahi",
+        "B": "Qutbshahi",
+        "C": "Nizamshahi",
+        "D": "Baridshahi"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Nizamshahi had its capital at Ahmednagar. Adilshahi was based at Bijapur, Qutbshahi at Golconda/Hyderabad, Imadshahi at Berar, and Baridshahi at Bidar."
+    },
+    {
+      "id": "test_2_6",
+      "question": "Which Mughal emperor spent 27 years fighting the Marathas in the Deccan?",
+      "options": {
+        "A": "Akbar",
+        "B": "Jahangir",
+        "C": "Shah Jahan",
+        "D": "Aurangzeb"
+      },
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": "Aurangzeb came to the Deccan in 1681 and fought the Marathas until his death in 1707 — a 27-year campaign that drained the Mughal treasury and hastened the empire's decline."
+    },
+    {
+      "id": "test_2_7",
+      "question": "How many Deccan Sultanates emerged from the breakup of the Bahmani Kingdom?",
+      "options": {
+        "A": "Three",
+        "B": "Four",
+        "C": "Five",
+        "D": "Six"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Five Deccan Sultanates emerged: Adilshahi (Bijapur), Nizamshahi (Ahmednagar), Qutbshahi (Golconda), Imadshahi (Berar), and Baridshahi (Bidar)."
+    },
+    {
+      "id": "test_2_8",
+      "question": "What was unique about Akbar's attitude toward other religions?",
+      "options": {
+        "A": "He forced everyone to convert to Islam",
+        "B": "He imposed jizya tax on all non-Muslims",
+        "C": "He practiced Sulh-e-kul and abolished the jizya tax, promoting religious tolerance",
+        "D": "He destroyed all temples in his empire"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Akbar was famous for his religious tolerance. He abolished the jizya (tax on non-Muslims), practiced Sulh-e-kul (peace with all), married a Rajput princess, and had Hindu, Muslim, and other scholars in his court."
+    },
+    {
+      "id": "test_2_9",
+      "question": "Which kingdom did the five Deccan Sultanates jointly defeat at the Battle of Talikota (1565)?",
+      "options": {
+        "A": "Delhi Sultanate",
+        "B": "Vijayanagar Empire",
+        "C": "Gujarat Sultanate",
+        "D": "Mughal Empire"
+      },
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": "The five Deccan Sultanates allied together and defeated the great Hindu kingdom of Vijayanagar at the Battle of Talikota in 1565, effectively ending Vijayanagar's dominance in South India."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Timur's invasion of Delhi (1398) — collapse of Delhi Sultanate",
+      "Regional kingdoms: Bahmani, Gujarat Sultanate, Malwa, Vijayanagar Empire",
+      "Mughal Empire founders: Babur (First Battle of Panipat, 1526)",
+      "Akbar: Sulh-e-kul, Din-i-Ilahi, religious tolerance, abolition of jizya",
+      "Shah Jahan: Taj Mahal, Red Fort",
+      "Aurangzeb: reversal of tolerant policies, 27-year Deccan war",
+      "Five Deccan Sultanates: Adilshahi, Nizamshahi, Qutbshahi, Imadshahi, Baridshahi"
+    ],
+    "commonMisconceptions": [
+      "Students often think Babur's victory was easy — in fact he used the new technology of cannons strategically while Indian armies relied on elephants.",
+      "Many think all Mughal emperors were the same — Akbar was remarkably tolerant while Aurangzeb reversed those policies.",
+      "Students may confuse Din-i-Ilahi (Akbar's philosophical synthesis) with a new formal religion imposed on people — it was more of a spiritual discussion group.",
+      "The Deccan Sultanates are often remembered as one entity — but they had distinct capitals, languages, and cultures and frequently fought each other."
+    ],
+    "realWorldExamples": [
+      "The Taj Mahal is still a UNESCO World Heritage Site and one of the most visited monuments in the world — Shah Jahan's legacy lives on.",
+      "The ruins of Hampi (Vijayanagar capital) in Karnataka are a UNESCO World Heritage Site today.",
+      "Bijapur's Gol Gumbaz remains an architectural marvel still studied by engineers for its acoustic properties."
+    ],
+    "formulas": []
+  }
+}

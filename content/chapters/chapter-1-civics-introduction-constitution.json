@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "chapterNumber": 1,
+    "title": "Introduction to the Constitution",
+    "subject": "Civics",
+    "pages": "63-67",
+    "description": "An introduction to why India needs a Constitution, how it was made, the role of Dr. B.R. Ambedkar, and the Constitution as the supreme law of the land."
+  },
+  "preAssessment": [
+    {
+      "id": "pre-1-1",
+      "question": "What is a Constitution?",
+      "options": [
+        "A list of government employees",
+        "A set of fundamental rules and principles that govern a country",
+        "A history book of India",
+        "A collection of laws made by the Prime Minister"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Constitution is a set of fundamental rules and principles that govern a country and its citizens."
+    },
+    {
+      "id": "pre-1-2",
+      "question": "On which date did the Indian Constitution come into effect?",
+      "options": [
+        "15 August 1947",
+        "26 November 1949",
+        "26 January 1950",
+        "2 October 1948"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian Constitution came into effect on 26 January 1950, which is celebrated as Republic Day."
+    },
+    {
+      "id": "pre-1-3",
+      "question": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Dr. B.R. Ambedkar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee and is known as the Father of the Indian Constitution."
+    },
+    {
+      "id": "pre-1-4",
+      "question": "When was the Constituent Assembly formed?",
+      "options": [
+        "1944",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constituent Assembly was formed in 1946 to draft the Constitution of India."
+    },
+    {
+      "id": "pre-1-5",
+      "question": "How many articles does the Indian Constitution have?",
+      "options": [
+        "250",
+        "350",
+        "448",
+        "520"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian Constitution originally had 395 articles and currently has 448 articles, 12 schedules, and 25 parts."
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept-1-1",
+      "title": "Why We Need a Constitution",
+      "emoji": "📜",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Every society needs rules for people to live together peacefully. Without rules, the stronger would dominate the weaker and there would be disorder. A Constitution provides the most fundamental rules that everyone — including the government — must follow. It prevents the misuse of power by any person or group and protects the rights of all citizens.",
+      "pageReference": "63-64",
+      "examples": [
+        "A cricket match needs rules so no team can cheat — similarly a country needs a Constitution so no group can misuse power.",
+        "Traffic rules prevent accidents on roads; the Constitution prevents chaos in governance.",
+        "In a school, the school rules guide student behaviour — the Constitution guides how the entire country is run."
+      ],
+      "keyPoints": [
+        "Rules are necessary for any group of people to live together peacefully.",
+        "A Constitution prevents the misuse of power by those in authority.",
+        "It protects the basic rights and freedoms of every citizen.",
+        "It defines how the government is formed and how it works.",
+        "Without a Constitution, there would be no check on the government's actions."
+      ],
+      "funFact": "Even ancient societies like those described in the Arthashastra had written guidelines for governance, showing humanity's long history of needing rules to govern!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 1, Page 63"
+    },
+    {
+      "id": "concept-1-2",
+      "title": "Making of the Indian Constitution",
+      "emoji": "🏛️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The Indian Constitution was not written by one person — it was the result of the collective effort of the Constituent Assembly. The Constituent Assembly was formed in 1946 and included representatives from across India. After extensive discussions and debates, the Constitution was adopted on 26 November 1949 and came into effect on 26 January 1950. This day is celebrated as Republic Day every year.",
+      "pageReference": "64-65",
+      "examples": [
+        "The Constituent Assembly held 11 sessions over nearly 3 years to debate and finalise every article.",
+        "Members studied constitutions of countries like the USA, UK, Ireland, and France before drafting India's own.",
+        "26 November is celebrated as Constitution Day (Samvidhan Divas) to honour the adoption of the Constitution."
+      ],
+      "keyPoints": [
+        "The Constituent Assembly was formed in 1946 to draft the Constitution.",
+        "The Constitution was adopted on 26 November 1949.",
+        "It came into effect on 26 January 1950 — celebrated as Republic Day.",
+        "The Drafting Committee prepared the actual text of the Constitution.",
+        "The making of the Constitution took about 2 years, 11 months and 18 days."
+      ],
+      "funFact": "The original Indian Constitution was handwritten in beautiful calligraphy — it was not typed! Two copies were handwritten, one in Hindi and one in English.",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 1, Page 64-65"
+    },
+    {
+      "id": "concept-1-3",
+      "title": "Dr. B.R. Ambedkar's Role",
+      "emoji": "⚖️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Dr. Bhimrao Ramji Ambedkar was the Chairman of the Drafting Committee of the Constitution. He is called the 'Father of the Indian Constitution.' He ensured that the Constitution gave equal rights to all Indians, especially to those who had been discriminated against for centuries. He strongly fought for the abolition of untouchability and equal rights for all citizens regardless of caste, religion, or gender.",
+      "pageReference": "65",
+      "examples": [
+        "Dr. Ambedkar personally drafted and revised many articles to ensure they protected the rights of the most vulnerable citizens.",
+        "He insisted that Fundamental Rights should be enforceable in courts so citizens could actually use them.",
+        "His work on the Constitution is considered one of the greatest contributions to Indian democracy."
+      ],
+      "keyPoints": [
+        "Dr. B.R. Ambedkar was Chairman of the Drafting Committee of the Constitution.",
+        "He is known as the 'Father of the Indian Constitution.'",
+        "He ensured equal rights for all citizens, especially the oppressed and marginalised.",
+        "He fought for the abolition of untouchability within the Constitution.",
+        "He was also India's first Law Minister after independence."
+      ],
+      "funFact": "Dr. Ambedkar had earned a doctorate from both Columbia University in the USA and the London School of Economics — he was one of the most educated leaders of his time!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 1, Page 65"
+    },
+    {
+      "id": "concept-1-4",
+      "title": "Constituent Assembly and Timeline",
+      "emoji": "📅",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The Constituent Assembly was a special body of elected representatives formed to write the Constitution of India. It had 299 members who represented all regions and communities of India. The Assembly first met on 9 December 1946. After years of debate and deliberation, it adopted the Constitution on 26 November 1949. On 26 January 1950, the Constitution came into force and India became a Republic.",
+      "pageReference": "64-65",
+      "examples": [
+        "Dr. Rajendra Prasad was the President of the Constituent Assembly and later became India's first President.",
+        "Jawaharlal Nehru moved the Objectives Resolution in the Constituent Assembly which formed the basis of the Preamble.",
+        "The Constituent Assembly had members from diverse backgrounds — lawyers, professors, freedom fighters, and social reformers."
+      ],
+      "keyPoints": [
+        "The Constituent Assembly was formed in 1946 with 299 members.",
+        "Its first session was held on 9 December 1946.",
+        "Dr. Rajendra Prasad was the President of the Constituent Assembly.",
+        "The Constitution was adopted on 26 November 1949.",
+        "26 January 1950 is celebrated as Republic Day when the Constitution came into effect."
+      ],
+      "funFact": "The Constituent Assembly debated for 2 years, 11 months and 18 days — that is nearly 3 years of hard work to give India its Constitution!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 1, Page 64-65"
+    },
+    {
+      "id": "concept-1-5",
+      "title": "Constitution as Supreme Law",
+      "emoji": "👑",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "The Indian Constitution is the supreme law of the land. This means every other law, rule, or government action must follow the Constitution. If any law goes against the Constitution, the Supreme Court can declare it invalid. The Constitution currently has 448 articles, 12 schedules, and 25 parts. It is the longest written Constitution of any country in the world, which makes it unique.",
+      "pageReference": "66-67",
+      "examples": [
+        "If Parliament passes a law that takes away a citizen's Fundamental Rights, the Supreme Court can strike it down.",
+        "Even the Prime Minister and the President must act within the limits set by the Constitution.",
+        "The 12 schedules in the Constitution contain important lists, such as the list of Union Territories and languages."
+      ],
+      "keyPoints": [
+        "The Indian Constitution is the supreme law — all other laws must follow it.",
+        "It is the longest written Constitution in the world.",
+        "It has 448 articles, 12 schedules, and 25 parts.",
+        "The Supreme Court can strike down any law that violates the Constitution.",
+        "No person — including the President or Prime Minister — is above the Constitution."
+      ],
+      "funFact": "The Indian Constitution is so detailed that it even has a special schedule (the Eighth Schedule) listing all 22 official languages of India!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 1, Page 66-67"
+    }
+  ],
+  "test": [
+    {
+      "id": "test-1-1",
+      "question": "On which date is Republic Day celebrated in India?",
+      "options": [
+        "15 August",
+        "26 November",
+        "26 January",
+        "2 October"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Republic Day is celebrated on 26 January because the Indian Constitution came into effect on 26 January 1950."
+    },
+    {
+      "id": "test-1-2",
+      "question": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad",
+        "Dr. B.R. Ambedkar",
+        "Mahatma Gandhi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. B.R. Ambedkar is known as the Father of the Indian Constitution because he was the Chairman of the Drafting Committee and played the most significant role in writing it."
+    },
+    {
+      "id": "test-1-3",
+      "question": "When was the Indian Constitution adopted?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "9 December 1946"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian Constitution was adopted on 26 November 1949. It came into effect later on 26 January 1950."
+    },
+    {
+      "id": "test-1-4",
+      "question": "How many articles does the Indian Constitution currently have?",
+      "options": [
+        "295",
+        "395",
+        "448",
+        "500"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian Constitution currently has 448 articles, 12 schedules, and 25 parts."
+    },
+    {
+      "id": "test-1-5",
+      "question": "What is the main purpose of a Constitution?",
+      "options": [
+        "To list all the citizens of a country",
+        "To provide fundamental rules for governance and protect citizens' rights",
+        "To record the history of the country",
+        "To plan the economic budget of the country"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Constitution provides the most fundamental rules for governance and protects the rights of all citizens, preventing misuse of power."
+    },
+    {
+      "id": "test-1-6",
+      "question": "Who was the President of the Constituent Assembly?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. Rajendra Prasad was the President of the Constituent Assembly. He later became India's first President."
+    },
+    {
+      "id": "test-1-7",
+      "question": "Why is the Indian Constitution called the 'supreme law of the land'?",
+      "options": [
+        "Because it is the oldest constitution in the world",
+        "Because every other law must follow it and no law can go against it",
+        "Because only the Supreme Court can read it",
+        "Because it was written by great scholars"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution is the supreme law because all other laws must be consistent with it. Any law that goes against the Constitution can be struck down by the Supreme Court."
+    },
+    {
+      "id": "test-1-8",
+      "question": "When was the Constituent Assembly formed?",
+      "options": [
+        "1944",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constituent Assembly was formed in 1946 to draft the Constitution of India."
+    },
+    {
+      "id": "test-1-9",
+      "question": "Which of the following is a unique feature of the Indian Constitution?",
+      "options": [
+        "It is the shortest written constitution in the world",
+        "It is the longest written constitution in the world",
+        "It was written in a single day",
+        "It has no amendments"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Indian Constitution is the longest written constitution in the world, with 448 articles, 12 schedules, and 25 parts."
+    },
+    {
+      "id": "test-1-10",
+      "question": "What does 26 November represent in Indian history?",
+      "options": [
+        "Independence Day",
+        "Republic Day",
+        "Constitution Day — the day the Constitution was adopted",
+        "Gandhi Jayanti"
+      ],
+      "correctAnswer": 2,
+      "explanation": "26 November is celebrated as Constitution Day (Samvidhan Divas) because the Indian Constitution was adopted on this day in 1949."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Need for a Constitution in any society",
+      "Constituent Assembly formed in 1946",
+      "Dr. B.R. Ambedkar as Chairman of Drafting Committee",
+      "Constitution adopted 26 November 1949",
+      "Constitution came into effect 26 January 1950 (Republic Day)",
+      "Longest written constitution — 448 articles, 12 schedules, 25 parts",
+      "Constitution as supreme law of the land"
+    ],
+    "commonMisconceptions": [
+      "Students often confuse 26 November (adoption) with 26 January (coming into effect) — both dates are important but mark different events.",
+      "Many think the Constitution was written by one person; it was a collective effort of the entire Constituent Assembly.",
+      "Some confuse Dr. Ambedkar as President of the Assembly — he was Chairman of the Drafting Committee; Dr. Rajendra Prasad was the Assembly President.",
+      "Students may think the Constitution can be changed easily — it has special procedures for amendment."
+    ],
+    "realWorldExamples": [
+      "Republic Day parade on 26 January showcases India's democracy and military strength, celebrating the Constitution coming into effect.",
+      "When you see a court strike down a government order, it is exercising its power to protect the supremacy of the Constitution.",
+      "Constitution Day (26 November) is observed in schools with readings of the Preamble.",
+      "The Parliament cannot pass laws that violate Fundamental Rights — this is the Constitution acting as supreme law."
+    ],
+    "formulas": []
+  }
+}

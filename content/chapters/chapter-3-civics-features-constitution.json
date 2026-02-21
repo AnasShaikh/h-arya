@@ -1,0 +1,343 @@
+{
+  "metadata": {
+    "chapterNumber": 3,
+    "title": "Features of the Indian Constitution",
+    "subject": "Civics",
+    "pages": "72-75",
+    "description": "An exploration of the key features that make the Indian Constitution unique — including its written nature, federal structure, parliamentary democracy, secular character, universal adult franchise, and independent judiciary."
+  },
+  "preAssessment": [
+    {
+      "id": "pre-3-1",
+      "question": "What is Universal Adult Franchise?",
+      "options": [
+        "Only educated adults can vote",
+        "Every citizen above 18 years of age has the right to vote",
+        "Only men above 21 can vote",
+        "Voting rights only for taxpayers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Universal Adult Franchise means every citizen who has attained the age of 18 has the right to vote, regardless of caste, religion, gender, or economic status."
+    },
+    {
+      "id": "pre-3-2",
+      "question": "What is a federal system of government?",
+      "options": [
+        "A system where only the central government has all the power",
+        "A system where power is divided between the central and state governments",
+        "A system where the army controls the government",
+        "A system where courts make all laws"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In a federal system, power is divided between the central (Union) government and the state governments, each having their own areas of authority."
+    },
+    {
+      "id": "pre-3-3",
+      "question": "What is the minimum age to vote in India?",
+      "options": [
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The voting age in India is 18 years. This was lowered from 21 to 18 by the 61st Amendment in 1988."
+    },
+    {
+      "id": "pre-3-4",
+      "question": "In a parliamentary system, who is the head of the government?",
+      "options": [
+        "The President",
+        "The Chief Justice",
+        "The Prime Minister",
+        "The Speaker of Lok Sabha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In India's parliamentary system, the Prime Minister is the head of the government and is accountable to the Parliament (Lok Sabha)."
+    },
+    {
+      "id": "pre-3-5",
+      "question": "What is the Concurrent List?",
+      "options": [
+        "A list of all states of India",
+        "A list of subjects on which both Centre and States can make laws",
+        "A list of fundamental rights",
+        "A list of all languages of India"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Concurrent List contains subjects on which both the Union (Central) Government and State Governments can make laws."
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept-3-1",
+      "title": "Written and Partly Flexible Constitution",
+      "emoji": "📄",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The Indian Constitution is a written document — all its rules and principles are written down in one place. This makes it clear for everyone to know the law. It is also the longest written constitution in the world with 448 articles. The Constitution is partly rigid (some parts are hard to change and need special procedures) and partly flexible (some parts can be amended by a simple majority in Parliament). This balance ensures stability while allowing necessary changes.",
+      "pageReference": "72",
+      "examples": [
+        "The USA has a very short written constitution with only 7 articles — India's is far more detailed.",
+        "The UK has no single written constitution — India's written constitution makes governance clearer.",
+        "Amending Fundamental Rights requires a two-thirds majority (rigid), while some other provisions need only a simple majority (flexible)."
+      ],
+      "keyPoints": [
+        "The Indian Constitution is a written document — the longest in the world.",
+        "Having it written makes laws clear, transparent, and accessible to all.",
+        "It is partly rigid — some provisions require special procedures to amend.",
+        "It is partly flexible — some provisions can be changed by a simple parliamentary majority.",
+        "This balance ensures the Constitution can evolve while remaining stable."
+      ],
+      "funFact": "The Indian Constitution has been amended over 105 times since 1950, showing its flexible side — but the basic structure (like democracy and fundamental rights) cannot be changed, showing its rigid side!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 3, Page 72"
+    },
+    {
+      "id": "concept-3-2",
+      "title": "Federal Structure with Union and State Lists",
+      "emoji": "🗺️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "India has a federal system of government where power is divided between the Union (Central) Government and the State Governments. This division is done through three lists: the Union List (subjects only the Centre can make laws on — defence, foreign affairs, currency), the State List (subjects only states can make laws on — police, agriculture, public health), and the Concurrent List (subjects both Centre and States can make laws on — education, marriage, forests). However, India has a 'unitary bias' — in times of emergency, the Centre gains more power.",
+      "pageReference": "73",
+      "examples": [
+        "Union List: Only the Central Government can declare war or sign treaties with other countries.",
+        "State List: Maharashtra can make its own laws about agriculture that may differ from other states.",
+        "Concurrent List: Both Centre and States have education laws — the RTE Act is a Central law, but states also have their own education policies."
+      ],
+      "keyPoints": [
+        "India is a Union of States with power divided between Centre and States.",
+        "Union List — subjects under Central Government's authority (97 subjects).",
+        "State List — subjects under State Government's authority (66 subjects).",
+        "Concurrent List — both Centre and States can legislate (47 subjects).",
+        "India has a 'unitary bias' — during emergencies, the Centre can take over state functions."
+      ],
+      "funFact": "India has 28 states and 8 Union Territories. All states have their own governments, but Union Territories are mostly governed directly by the Central Government — showing federalism in action!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 3, Page 73"
+    },
+    {
+      "id": "concept-3-3",
+      "title": "Parliamentary Democracy",
+      "emoji": "🏛️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "India follows a Parliamentary system of democracy. In this system, the executive (Cabinet/Council of Ministers) is part of and accountable to the legislature (Parliament). The President is the constitutional head of state, while the Prime Minister is the head of the government with real power. The Prime Minister and Cabinet must have the confidence (support) of the Lok Sabha. If they lose the majority, the government must resign. This ensures the government is always accountable to the elected representatives of the people.",
+      "pageReference": "73-74",
+      "examples": [
+        "The Lok Sabha (lower house of Parliament) can pass a vote of no-confidence to remove a government that has lost public trust.",
+        "Ministers must answer questions in Parliament — this is accountability in action.",
+        "India follows the Westminster model of parliamentary democracy, inspired by the British system."
+      ],
+      "keyPoints": [
+        "India has a Parliamentary form of government.",
+        "The President is the constitutional (nominal) head; the Prime Minister is the real head.",
+        "The Council of Ministers is collectively responsible to the Lok Sabha.",
+        "If the government loses majority in Lok Sabha, it must resign.",
+        "Parliament exercises control over the executive through question sessions, debates, and votes."
+      ],
+      "funFact": "India's Parliament has two houses — the Lok Sabha (House of the People) with up to 552 seats, and the Rajya Sabha (Council of States) with up to 250 seats. Together they make India's laws!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 3, Page 73-74"
+    },
+    {
+      "id": "concept-3-4",
+      "title": "Secular State and Single Citizenship",
+      "emoji": "🕊️",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "India is a Secular State — the government does not favour any particular religion. All religions are treated equally by the state. Citizens can freely practise, profess, and propagate their religion. Unlike some countries that have two types of citizenship (state and national), India has Single Citizenship — every Indian is a citizen of India, not separately a citizen of any state. Whether you are from Maharashtra, Tamil Nadu, or Kashmir, you are equally a citizen of India with the same rights.",
+      "pageReference": "74",
+      "examples": [
+        "Secular: The government funds pilgrimages for multiple religions — Haj for Muslims, Char Dham for Hindus.",
+        "Single Citizenship: A person from Bihar can work, study, or settle in Maharashtra with full rights — there is no 'state citizenship' barrier.",
+        "Secular: Government schools do not teach any particular religion's scripture as a compulsory subject."
+      ],
+      "keyPoints": [
+        "India is a secular state — no official religion; all religions treated equally.",
+        "Citizens are free to profess, practise, and propagate their religion.",
+        "India has Single Citizenship — only one citizenship for all Indians.",
+        "Single citizenship ensures equal rights for all citizens across all states.",
+        "A person can move to any state and enjoy the same rights as local residents."
+      ],
+      "funFact": "India recognises 22 official languages in the Eighth Schedule of the Constitution — yet all these language communities share a single Indian citizenship, showing unity in diversity!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 3, Page 74"
+    },
+    {
+      "id": "concept-3-5",
+      "title": "Universal Adult Franchise and Independent Judiciary",
+      "emoji": "🗳️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Universal Adult Franchise means every citizen of India who is 18 years or older has the right to vote, regardless of caste, religion, gender, language, or economic status. This makes every adult an equal participant in democracy. An Independent Judiciary means the courts — especially the Supreme Court and High Courts — function independently, free from political pressure. They can strike down laws and government actions that violate the Constitution. This judicial independence is essential to protect citizens' rights.",
+      "pageReference": "74-75",
+      "examples": [
+        "Universal Adult Franchise: In the 2024 elections, all eligible voters — from a billionaire to a daily wage worker — had one equal vote each.",
+        "Independent Judiciary: The Supreme Court struck down Section 66A of the IT Act, protecting citizens' freedom of speech online.",
+        "Judiciary: Courts have ruled against government policies that violated Fundamental Rights, showing their independence from the executive."
+      ],
+      "keyPoints": [
+        "Universal Adult Franchise — every citizen aged 18+ can vote regardless of caste, religion, gender, or wealth.",
+        "The voting age was lowered from 21 to 18 by the 61st Amendment in 1988.",
+        "An Independent Judiciary ensures courts are free from political pressure.",
+        "The Supreme Court can declare laws unconstitutional if they violate the Constitution.",
+        "Judicial independence is a safeguard for citizens' Fundamental Rights."
+      ],
+      "funFact": "When India became independent in 1947, many people believed a poor, diverse country like India could not sustain democracy with universal voting. India proved them all wrong — it has conducted free and fair elections for over 75 years!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 3, Page 74-75"
+    }
+  ],
+  "test": [
+    {
+      "id": "test-3-1",
+      "question": "Which list in the Constitution contains subjects on which both the Centre and States can make laws?",
+      "options": [
+        "Union List",
+        "State List",
+        "Concurrent List",
+        "Federal List"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Concurrent List contains subjects on which both the Union (Central) Government and State Governments can make laws. If there is a conflict, the Central law prevails."
+    },
+    {
+      "id": "test-3-2",
+      "question": "What is the minimum age to vote in Indian elections?",
+      "options": [
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The voting age in India is 18 years. It was lowered from 21 to 18 by the 61st Amendment in 1988."
+    },
+    {
+      "id": "test-3-3",
+      "question": "Which of the following subjects belongs to the Union List?",
+      "options": [
+        "Agriculture",
+        "Police",
+        "Defence",
+        "Public Health"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Defence is a Union List subject — only the Central Government can make laws regarding defence. Agriculture and Police are State List subjects."
+    },
+    {
+      "id": "test-3-4",
+      "question": "In India's parliamentary system, who holds the real executive power?",
+      "options": [
+        "The President",
+        "The Chief Justice",
+        "The Prime Minister",
+        "The Speaker of Lok Sabha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In India's parliamentary system, the Prime Minister is the real head of the government with actual executive powers. The President is the constitutional/nominal head."
+    },
+    {
+      "id": "test-3-5",
+      "question": "What does 'Single Citizenship' mean in India?",
+      "options": [
+        "Only one person from each family can be a citizen",
+        "Every Indian is a citizen of India only, not of any separate state",
+        "Only people born in Delhi are citizens",
+        "Citizens can only live in one state"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Single Citizenship means every person is only a citizen of India — not separately a citizen of any state. This ensures equal rights across all states."
+    },
+    {
+      "id": "test-3-6",
+      "question": "What is meant by 'Independent Judiciary'?",
+      "options": [
+        "Judges are elected by the people",
+        "Courts function independently without political pressure and can strike down unconstitutional laws",
+        "Each state has its own separate supreme court",
+        "The judiciary and executive work together always"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An Independent Judiciary means courts are free from political pressure and interference, and can declare laws or government actions unconstitutional."
+    },
+    {
+      "id": "test-3-7",
+      "question": "What is the meaning of 'Federal with Unitary Bias' in the Indian Constitution?",
+      "options": [
+        "India has no states",
+        "Power is divided between Centre and States, but in emergencies the Centre has more power",
+        "States have more power than the Centre always",
+        "India has only one level of government"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India is federal (power divided between Centre and States) but has a unitary bias — during emergencies, the Central Government can take over state functions."
+    },
+    {
+      "id": "test-3-8",
+      "question": "Which of the following is a State List subject?",
+      "options": [
+        "Foreign affairs",
+        "Currency",
+        "Agriculture",
+        "Railways"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Agriculture is a State List subject — states can make their own laws on agriculture. Foreign affairs, currency, and railways are Union List subjects."
+    },
+    {
+      "id": "test-3-9",
+      "question": "The Indian Constitution is described as 'partly rigid and partly flexible.' What does 'rigid' mean here?",
+      "options": [
+        "The Constitution cannot be changed at all",
+        "Some provisions require a special procedure to be amended",
+        "The Constitution is made of hard material",
+        "Only courts can change the Constitution"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rigid means that certain provisions (like Fundamental Rights) require a special amendment procedure — a two-thirds majority in Parliament — and cannot be changed easily."
+    },
+    {
+      "id": "test-3-10",
+      "question": "What does Universal Adult Franchise ensure?",
+      "options": [
+        "Only educated adults can vote",
+        "Every adult citizen above 18 has an equal right to vote regardless of caste, religion, or wealth",
+        "Only property owners can vote",
+        "Voting rights are given only to government employees"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Universal Adult Franchise ensures that every adult citizen (18+) has an equal right to vote, regardless of caste, religion, gender, language, or economic status."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Longest written constitution in the world",
+      "Partly rigid (special amendment needed) and partly flexible (simple majority sufficient)",
+      "Federal system — Union List, State List, Concurrent List",
+      "Federal with unitary bias — Centre gains power during emergencies",
+      "Parliamentary democracy — PM is real head, President is constitutional head",
+      "Secular state — no official religion, all religions treated equally",
+      "Universal Adult Franchise — voting from age 18",
+      "Single citizenship — one citizenship for all of India",
+      "Independent Judiciary — courts free from political pressure"
+    ],
+    "commonMisconceptions": [
+      "Students confuse the President (constitutional head) with the Prime Minister (real executive head) in a parliamentary system.",
+      "Many think the Constitution cannot be changed at all — it can be amended, but some parts require special procedures.",
+      "Students may confuse Union List and State List — defence is Union, agriculture is State.",
+      "Some think voting is only for people above 21 — the age was lowered to 18 in 1988.",
+      "Students may think federal means states are completely independent — India has a 'unitary bias' where Centre dominates in emergencies."
+    ],
+    "realWorldExamples": [
+      "During the 1975 Emergency, the Central Government took over many state powers — showing the unitary bias of India's federal system.",
+      "Maharashtra passing its own agricultural policies while the Centre handles defence shows the Union-State division working.",
+      "The Supreme Court striking down the 99th Amendment regarding judicial appointments shows an independent judiciary in action.",
+      "A student from Rajasthan joining a college in Tamil Nadu with equal rights shows Single Citizenship in practice.",
+      "A poor farmer's vote counting equally to a billionaire's vote in elections shows Universal Adult Franchise."
+    ],
+    "formulas": []
+  }
+}

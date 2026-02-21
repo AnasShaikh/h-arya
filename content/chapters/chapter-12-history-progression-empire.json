@@ -1,0 +1,328 @@
+{
+  "metadata": {
+    "chapterNumber": 12,
+    "title": "Progression and Fall of the Maratha Empire",
+    "subject": "History",
+    "pages": "53-56",
+    "description": "The Maratha empire at its peak, the arrival of the British East India Company, the three Anglo-Maratha Wars, and the final fall of the Peshwai in 1818 that ended Maratha independence — and the seeds of 1857 planted in its aftermath."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_12_1",
+      "question": "In which year did the British East India Company first arrive at Surat?",
+      "options": {
+        "A": "1498",
+        "B": "1526",
+        "C": "1608",
+        "D": "1674"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_12_2"
+    },
+    {
+      "id": "pre_12_2",
+      "question": "How many Anglo-Maratha Wars were fought?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_12_3"
+    },
+    {
+      "id": "pre_12_3",
+      "question": "The First Anglo-Maratha War (1775-1782) ended with:",
+      "options": {
+        "A": "British victory and annexation of Pune",
+        "B": "Maratha victory and the Treaty of Salbai",
+        "C": "Both sides agreeing on equal terms",
+        "D": "Maratha surrender of all their forts"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_12_3"
+    },
+    {
+      "id": "pre_12_4",
+      "question": "In which year did the British defeat the Marathas finally, ending the Peshwai?",
+      "options": {
+        "A": "1803",
+        "B": "1818",
+        "C": "1857",
+        "D": "1890"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_12_5"
+    },
+    {
+      "id": "pre_12_5",
+      "question": "Which Maratha leaders later fought against the British in the 1857 revolt?",
+      "options": {
+        "A": "Bajirao I and Balaji Vishwanath",
+        "B": "Nana Saheb and Tatya Tope",
+        "C": "Shahu Maharaj and Madhavrao",
+        "D": "Tarabai and Sambhaji"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_12_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_12_1",
+      "title": "Peak of Maratha Power",
+      "emoji": "🌟",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The Maratha empire reached its greatest territorial extent in the decades after the recovery from Panipat, particularly under Madhavrao Peshwa and then Mahadaji Shinde. By the late 18th century, the Maratha confederacy controlled a vast arc of territory spanning from Pune in the west to Orissa in the east, Punjab in the north, and deep into South India. The Maratha Peshwas were effectively the power behind the Mughal emperor — they reinstated, protected, and directed the nominal Mughal sovereignty. Mahadaji Shinde became the regent of the Mughal emperor and controlled Delhi. The Holkars controlled Malwa and Indore. The Bhosales of Nagpur dominated central India. The Gaekwads controlled Gujarat. At this peak, the Maratha empire was arguably the most powerful political force in the Indian subcontinent. However, internal divisions within the confederacy and the growing power of the British East India Company posed gathering threats.",
+      "pageReference": "53",
+      "examples": [
+        "Mahadaji Shinde's control of Delhi meant that the Mughal emperor essentially lived under Maratha protection — a remarkable reversal from Aurangzeb's days.",
+        "At the peak of their power, Maratha tax collectors operated from Karnataka to Punjab — a territory larger than most European kingdoms.",
+        "The Maratha confederacy's armies collectively outnumbered any single enemy force in India."
+      ],
+      "keyPoints": [
+        "Maratha empire at peak: control from Pune to Orissa, Punjab to South India.",
+        "Peshwas effectively controlled the nominal Mughal emperor.",
+        "Mahadaji Shinde: regent of Mughal emperor, controlled Delhi.",
+        "Each house of the confederacy controlled large territories.",
+        "Internal divisions and British power were growing threats."
+      ],
+      "funFact": "At the peak of Maratha power, the British East India Company was actually paying a form of tribute to Maratha chieftains for safe passage of their trade caravans through Maratha territories. The future rulers of India were paying protection fees to the Marathas!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 12, Page 53"
+    },
+    {
+      "id": "concept_12_2",
+      "title": "The British East India Company",
+      "emoji": "⚓",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The British East India Company arrived at Surat in 1608, initially as traders. Over the next century and a half, the Company gradually transformed from a trading enterprise into a political and military power. They established trading posts (factories) at Surat, Bombay, Madras, and Calcutta. They built their own armies — composed primarily of Indian soldiers (sepoys) trained in European military methods. They exploited the political divisions among Indian kingdoms to expand their influence through a clever strategy called 'subsidiary alliances' — they offered military protection to Indian rulers who accepted British dominance and paid for British troops to be stationed in their territory. The weakened Mughal empire, the fragmented Maratha confederacy, and various smaller kingdoms all became targets of British expansion. The Company's wealth, discipline, and advanced military technology gave them significant advantages in the wars that followed.",
+      "pageReference": "53-54",
+      "examples": [
+        "The Battle of Plassey (1757) — where the British defeated the Nawab of Bengal — was their breakthrough moment from traders to rulers.",
+        "The subsidiary alliance system was a trap: Indian rulers who accepted it gave up their sovereignty while thinking they were gaining protection.",
+        "The Company's use of trained sepoys (Indian soldiers) gave them large armies at low cost — they used Indians to conquer India."
+      ],
+      "keyPoints": [
+        "British East India Company arrived at Surat in 1608 as traders.",
+        "Over 150 years transformed from traders to political and military power.",
+        "Built armies of sepoys (Indian soldiers trained in European methods).",
+        "Subsidiary alliance system: offered protection in exchange for accepting British dominance.",
+        "Exploited Indian political divisions to expand influence."
+      ],
+      "funFact": "The British East India Company was a private company — not directly the British government. For over 200 years, a private commercial firm effectively ruled vast parts of India! It was only after the 1857 revolt that the British Crown directly took over the governance of India from the Company.",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 12, Pages 53-54"
+    },
+    {
+      "id": "concept_12_3",
+      "title": "The First Anglo-Maratha War (1775-1782)",
+      "emoji": "⚔️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The First Anglo-Maratha War (1775-1782) arose from British interference in Maratha internal politics. The British supported one claimant to the Peshwa position against the actual Peshwa — a classic divide-and-rule strategy. The Marathas under Mahadaji Shinde and Nana Phadnavis fought back effectively. The British suffered several humiliating defeats, most notably at the Battle of Wadgaon (1779) where a British force was completely surrounded and forced to surrender. The war ended with the Treaty of Salbai (1782) — generally favorable to the Marathas. The British agreed to give back territories they had captured and recognized Maratha sovereignty. This was the last time the British suffered a significant defeat at Maratha hands. The First Anglo-Maratha War showed that the Marathas could defeat the British militarily — but internal divisions would undermine them in subsequent wars.",
+      "pageReference": "54",
+      "examples": [
+        "The Battle of Wadgaon (1779) was a humiliating defeat for the British — they were surrounded and had to sign a humiliating agreement on the spot.",
+        "Nana Phadnavis (the chief minister of the Peshwas) was the diplomatic genius behind the Treaty of Salbai — he outmaneuvered the British diplomatically.",
+        "Mahadaji Shinde's military victories gave Nana Phadnavis the leverage to negotiate favorable peace terms."
+      ],
+      "keyPoints": [
+        "Cause: British interference in Maratha internal succession dispute.",
+        "Marathas under Mahadaji Shinde and Nana Phadnavis fought effectively.",
+        "Battle of Wadgaon (1779): British completely surrounded, forced to surrender.",
+        "Treaty of Salbai (1782): British returned captured territories — Maratha victory.",
+        "Last time Marathas achieved a clear victory against the British."
+      ],
+      "funFact": "Nana Phadnavis was so skilled a diplomat and administrator that the British called him the 'Maratha Machiavelli' — comparing him to the famous Italian political thinker Niccolò Machiavelli who wrote about cunning governance. This was actually a compliment from the British who genuinely feared his political brilliance!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 12, Page 54"
+    },
+    {
+      "id": "concept_12_4",
+      "title": "The Second and Third Anglo-Maratha Wars",
+      "emoji": "📉",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The Second Anglo-Maratha War (1803-1805) was triggered by internal Maratha conflicts. Peshwa Bajirao II (a weak and treacherous ruler) sought British help against his Maratha rivals and signed the Treaty of Bassein (1802) — accepting British suzerainty. Maratha chiefs like Scindias and Bhosales fought the British independently but were defeated in a series of battles. The British gained control of Delhi, Agra, and significant territories. The Third Anglo-Maratha War (1817-1818) was the final conflict. Peshwa Bajirao II attempted to shake off British control, but the Maratha forces were poorly coordinated. The British under Sir Arthur Wellesley (later Duke of Wellington) and other commanders systematically defeated Maratha forces. The Battle of Koregaon (1 January 1818) and the fall of Pune marked the end. The Peshwai was abolished on 1 June 1818. Bajirao II was exiled to Bithur near Kanpur with a pension.",
+      "pageReference": "55",
+      "examples": [
+        "Peshwa Bajirao II's Treaty of Bassein was a betrayal of Maratha independence — he surrendered sovereignty to the British for personal protection.",
+        "The Battle of Assaye (1803) was a British victory — but Arthur Wellesley later called it 'the bloodiest battle I have ever seen' — showing how hard the Marathas fought.",
+        "With the end of Peshwai in 1818, Maharashtra came under direct British rule — ending nearly two centuries of Maratha independence."
+      ],
+      "keyPoints": [
+        "Second Anglo-Maratha War (1803-1805): British gained Delhi and Agra region.",
+        "Treaty of Bassein (1802): weak Peshwa Bajirao II accepted British suzerainty — betrayal.",
+        "Third Anglo-Maratha War (1817-1818): final conflict, British systematically defeated Marathas.",
+        "Peshwai abolished 1 June 1818 — end of Maratha independence.",
+        "Bajirao II exiled to Bithur near Kanpur."
+      ],
+      "funFact": "Arthur Wellesley (who later became the Duke of Wellington and defeated Napoleon at Waterloo in 1815) called the Battle of Assaye against the Marathas (1803) 'the bloodiest battle I was ever in.' He respected Maratha warriors so much that he studied their tactics to prepare for the Napoleonic Wars!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 12, Page 55"
+    },
+    {
+      "id": "concept_12_5",
+      "title": "The Fall of the Maratha Empire and Seeds of 1857",
+      "emoji": "🌱",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "The abolition of the Peshwai in 1818 marked the end of Maratha political independence. Maharashtra came under British colonial rule. However, the memory of Swaraj and the spirit of independence did not die. Bajirao II's adopted son Nana Saheb (Dhondu Pant) grew up at Bithur with deep resentment against the British for his family's humiliation. Tatya Tope was Nana Saheb's trusted commander. In 1857, when the great Indian revolt broke out — the first war of independence — Nana Saheb led the revolt in the Kanpur region and Tatya Tope conducted brilliant guerrilla campaigns across central India. Though the 1857 revolt was ultimately suppressed, it was significantly fueled by the memory of Maratha Swaraj and the desire to free India from British rule. The line from Shivaji's Swaraj (1645) to Nana Saheb and Tatya Tope (1857) to India's independence movement (1857-1947) is a continuous thread of the struggle for freedom.",
+      "pageReference": "55-56",
+      "examples": [
+        "Tatya Tope's guerrilla campaigns in 1857-58 were so effective that the British described them as reminiscent of Shivaji's ganimi kava — the military lineage was unbroken.",
+        "Nana Saheb's declaration at Kanpur referred to the restoration of Maratha Swaraj — showing how the 1818 defeat directly motivated 1857.",
+        "Bal Gangadhar Tilak, born in Maharashtra in 1856, would later use the memory of Shivaji and Maratha Swaraj to inspire the national freedom movement."
+      ],
+      "keyPoints": [
+        "Peshwai abolished 1818 — Maharashtra under British colonial rule.",
+        "Nana Saheb (Bajirao II's adopted son) and Tatya Tope led the Kanpur revolt in 1857.",
+        "1857 revolt in central India directly inspired by memory of Maratha Swaraj.",
+        "Tatya Tope's guerrilla tactics echoed Shivaji's ganimi kava.",
+        "Line from Shivaji's Swaraj (1645) to 1857 to 1947 independence is unbroken."
+      ],
+      "funFact": "Tatya Tope was never officially caught by the British during his active resistance — he was eventually betrayed by a friend and executed in 1859. His guerrilla campaigns in 1857-58 covered over 3,000 miles of central India and required 10 separate British columns to pursue — a testament to the continuing Maratha spirit of resistance!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 12, Pages 55-56"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_12_1",
+      "question": "When did the British East India Company first arrive in India?",
+      "options": {
+        "A": "1498 at Calicut",
+        "B": "1608 at Surat",
+        "C": "1526 at Panipat",
+        "D": "1757 at Calcutta"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "The British East India Company first arrived at Surat in 1608 as traders. From this initial trading post, they gradually expanded their political and military influence across India over the next 150 years."
+    },
+    {
+      "id": "test_12_2",
+      "question": "What was the 'subsidiary alliance' system used by the British?",
+      "options": {
+        "A": "A trade agreement for importing British goods",
+        "B": "An alliance where Indian rulers accepted British military protection in exchange for accepting British dominance and financial burden",
+        "C": "A military alliance against the Marathas",
+        "D": "A system of paying tribute to Indian rulers"
+      },
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": "The subsidiary alliance system was a clever British strategy — they offered military protection to Indian rulers, but the ruler had to pay for British troops stationed in their territory, dismiss their own foreign ministers, and accept British advice on governance. It was effectively a way to take control while appearing to offer help."
+    },
+    {
+      "id": "test_12_3",
+      "question": "What was the outcome of the Battle of Wadgaon (1779) during the First Anglo-Maratha War?",
+      "options": {
+        "A": "British victory — Marathas retreated to Pune",
+        "B": "Maratha victory — British forces surrounded and forced to surrender",
+        "C": "The battle ended in a draw",
+        "D": "Both armies retreated due to monsoon floods"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The Battle of Wadgaon (1779) was a complete Maratha victory — a British force was surrounded by Maratha armies and forced to sign a humiliating agreement. It was one of the few decisive Maratha military victories against the British."
+    },
+    {
+      "id": "test_12_4",
+      "question": "The Treaty of Salbai (1782) ended which war?",
+      "options": {
+        "A": "Second Anglo-Maratha War",
+        "B": "Third Anglo-Maratha War",
+        "C": "First Anglo-Maratha War",
+        "D": "Anglo-Mysore War"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "The Treaty of Salbai (1782) ended the First Anglo-Maratha War (1775-1782). Under the treaty, the British returned territories they had captured — it was generally favorable to the Marathas, making it the last war the Marathas clearly won against the British."
+    },
+    {
+      "id": "test_12_5",
+      "question": "Which Peshwa signed the Treaty of Bassein (1802), accepting British suzerainty?",
+      "options": {
+        "A": "Bajirao I",
+        "B": "Madhavrao Peshwa",
+        "C": "Balaji Vishwanath",
+        "D": "Bajirao II"
+      },
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "explanation": "Peshwa Bajirao II — described as weak and treacherous — signed the Treaty of Bassein (1802) with the British, accepting their suzerainty in exchange for personal protection against his Maratha rivals. This effectively surrendered Maratha independence."
+    },
+    {
+      "id": "test_12_6",
+      "question": "In which year was the Peshwai formally abolished?",
+      "options": {
+        "A": "1803",
+        "B": "1815",
+        "C": "1818",
+        "D": "1857"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "The Peshwai was formally abolished on 1 June 1818, after the British defeated the Maratha forces in the Third Anglo-Maratha War. This ended Maratha political independence and brought Maharashtra under direct British colonial rule."
+    },
+    {
+      "id": "test_12_7",
+      "question": "How were Nana Saheb and the last Peshwa Bajirao II connected?",
+      "options": {
+        "A": "Nana Saheb was Bajirao II's son by birth",
+        "B": "Nana Saheb (Dhondu Pant) was Bajirao II's adopted son",
+        "C": "Nana Saheb was Bajirao II's younger brother",
+        "D": "There was no connection — they were different people from different families"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Nana Saheb (also called Dhondu Pant) was Bajirao II's adopted son. He grew up at Bithur near Kanpur (where Bajirao II was exiled) and led the revolt in that region in 1857, motivated by the British refusal to continue his father's pension."
+    },
+    {
+      "id": "test_12_8",
+      "question": "Why were Nana Saheb's and Tatya Tope's revolts in 1857 historically connected to the Maratha Swaraj?",
+      "options": {
+        "A": "They were not connected — 1857 was a separate event with no Maratha roots",
+        "B": "They were directly motivated by the memory of Maratha Swaraj and resentment of the 1818 British conquest",
+        "C": "Nana Saheb wanted to restore the Mughal empire",
+        "D": "Tatya Tope was a Mughal officer"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Nana Saheb and Tatya Tope's revolt in 1857 was directly linked to the Maratha Swaraj — they sought to restore the Maratha sovereignty that had been ended in 1818. The memory of Shivaji's just rule and the humiliation of the 1818 defeat directly fueled their resistance."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Maratha empire at peak: control from Maharashtra to Punjab and Orissa",
+      "British East India Company: arrived 1608, transformed to political power through subsidiary alliances",
+      "First Anglo-Maratha War (1775-1782): Maratha victory, Treaty of Salbai",
+      "Battle of Wadgaon (1779): British surrounded, forced to surrender",
+      "Second Anglo-Maratha War (1803-1805): British gained Delhi region",
+      "Treaty of Bassein (1802): weak Peshwa Bajirao II accepted British suzerainty",
+      "Third Anglo-Maratha War (1817-1818): Peshwai abolished 1818",
+      "Nana Saheb and Tatya Tope: 1857 revolt connected to Maratha Swaraj memory"
+    ],
+    "commonMisconceptions": [
+      "Students sometimes think the British won easily — actually the Marathas won the First War and fought hard in subsequent ones. The defeat came from internal divisions as much as British strength.",
+      "Some confuse Bajirao I (the great Peshwa) with Bajirao II (the weak Peshwa who surrendered to the British) — these are completely different people with opposite legacies.",
+      "Students may think the 1857 revolt was unconnected to Maratha history — Nana Saheb and Tatya Tope's roles directly link it to the 1818 defeat.",
+      "The East India Company is sometimes thought of as always being the British government — it was actually a private trading company until 1858."
+    ],
+    "realWorldExamples": [
+      "Bithur near Kanpur (where Bajirao II was exiled and Nana Saheb grew up) can be visited today — it is a historically significant site.",
+      "The three battles of Panipat and the Anglo-Maratha Wars were all fought in territories that can still be visited — history is physically present in the landscape.",
+      "The current Maratha reservations debate in Maharashtra echoes the historical memory of Maratha dominance and subsequent marginalization — the past is never entirely past."
+    ],
+    "formulas": []
+  }
+}

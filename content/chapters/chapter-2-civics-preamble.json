@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "chapterNumber": 2,
+    "title": "Preamble of the Constitution",
+    "subject": "Civics",
+    "pages": "68-71",
+    "description": "Understanding the Preamble of the Indian Constitution — its full text, key terms like Sovereign, Socialist, Secular, Democratic, Republic, and the ideals of Justice, Liberty, Equality, and Fraternity."
+  },
+  "preAssessment": [
+    {
+      "id": "pre-2-1",
+      "question": "What is a Preamble?",
+      "options": [
+        "The last chapter of the Constitution",
+        "An introduction that states the aims and ideals of the Constitution",
+        "A list of Fundamental Rights",
+        "A schedule of government offices"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Preamble is an introduction to the Constitution that states the aims, ideals, and objectives it seeks to achieve."
+    },
+    {
+      "id": "pre-2-2",
+      "question": "What does 'Sovereign' mean in the context of the Preamble?",
+      "options": [
+        "India is ruled by a king",
+        "India is completely independent and not under any foreign power",
+        "India follows the rules of the United Nations",
+        "India is a poor country"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sovereign means India is completely independent — it makes its own decisions and is not under the control of any foreign power."
+    },
+    {
+      "id": "pre-2-3",
+      "question": "What does 'Secular' mean as used in the Preamble?",
+      "options": [
+        "The state follows only Hinduism",
+        "The state has no official religion and treats all religions equally",
+        "People are not allowed to follow any religion",
+        "Only one religion is allowed in India"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Secular means the state has no official religion and treats all religions equally. Citizens are free to follow any religion."
+    },
+    {
+      "id": "pre-2-4",
+      "question": "On which date was the Preamble adopted?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "9 December 1946"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Preamble was adopted along with the Constitution on 26 November 1949."
+    },
+    {
+      "id": "pre-2-5",
+      "question": "What does 'Republic' mean in the Preamble?",
+      "options": [
+        "The head of state is a hereditary king or queen",
+        "The head of state is an elected person, not a hereditary ruler",
+        "There is no head of state",
+        "The country is ruled by the army"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Republic means the head of the state (the President of India) is an elected person and not a hereditary ruler like a king or queen."
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept-2-1",
+      "title": "What is a Preamble?",
+      "emoji": "📖",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The Preamble is the introduction to the Indian Constitution. It is like a preface to a book — it tells us the source, the objectives, and the date of adoption of the Constitution. The Preamble begins with the words 'We, the People of India' — meaning that the power of the Constitution comes from the people themselves, not from any ruler or king. It was adopted on 26 November 1949.",
+      "pageReference": "68-69",
+      "examples": [
+        "Just as the introduction of a textbook tells you what the book is about, the Preamble tells you what the Constitution stands for.",
+        "The words 'We, the People of India' show that democracy means power belongs to the people.",
+        "The Preamble is read aloud in schools on Constitution Day (26 November) to remind citizens of the nation's ideals."
+      ],
+      "keyPoints": [
+        "The Preamble is the introduction to the Indian Constitution.",
+        "It begins with 'We, the People of India' showing sovereignty rests with the people.",
+        "It was adopted on 26 November 1949.",
+        "It states the source, objectives, and nature of the Constitution.",
+        "The Supreme Court has ruled that the Preamble is an integral part of the Constitution."
+      ],
+      "funFact": "The word 'Socialist' and 'Secular' were added to the Preamble in 1976 through the 42nd Amendment to the Constitution — they were not in the original Preamble of 1949!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 2, Page 68-69"
+    },
+    {
+      "id": "concept-2-2",
+      "title": "Sovereign, Socialist, Secular",
+      "emoji": "🌏",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The Preamble declares India to be a Sovereign, Socialist, Secular, Democratic Republic. Sovereign means India is completely independent — no foreign power controls it. Socialist means India works towards the welfare of all its people and aims to reduce inequality. Secular means the government does not have an official religion and all religions are treated equally by the state.",
+      "pageReference": "69-70",
+      "examples": [
+        "Sovereign: India makes its own foreign policy without being told what to do by any other country.",
+        "Socialist: Government schemes like MGNREGA and mid-day meals show the state's commitment to welfare of all citizens.",
+        "Secular: The government funds and recognises festivals and institutions of all religions equally — Diwali, Eid, Christmas are all national holidays."
+      ],
+      "keyPoints": [
+        "Sovereign — India is fully independent with no foreign control.",
+        "Socialist — The state aims for a welfare society and reducing inequality between rich and poor.",
+        "Secular — The state has no official religion; all religions are treated equally.",
+        "'Socialist' and 'Secular' were added to the Preamble in 1976 by the 42nd Amendment.",
+        "These three words define what kind of country India strives to be."
+      ],
+      "funFact": "India is one of the most diverse countries in the world with over 19,500 languages/dialects spoken, yet the Constitution's secular nature ensures every citizen is treated equally regardless of religion!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 2, Page 69-70"
+    },
+    {
+      "id": "concept-2-3",
+      "title": "Democratic Republic",
+      "emoji": "🗳️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Democratic means the government is elected by the people. In India, citizens vote to elect their representatives to Parliament and State Assemblies. The government is accountable to the people. Republic means the head of the state — the President of India — is an elected person with a fixed term, not a hereditary king or queen. Together, 'Democratic Republic' means India is governed by elected representatives and its highest office is also elected.",
+      "pageReference": "70",
+      "examples": [
+        "Democratic: Every five years, Indian citizens vote to elect Members of Parliament and State legislators.",
+        "Republic: India's President is elected by elected representatives — unlike a monarchy where the king's son becomes king.",
+        "The UK is a democratic country but not a republic — it has a hereditary monarchy. India is both democratic AND a republic."
+      ],
+      "keyPoints": [
+        "Democratic means the government is elected by the people through free and fair elections.",
+        "Republic means the head of state is an elected president, not a hereditary ruler.",
+        "India became a Republic on 26 January 1950.",
+        "The President of India is elected for a five-year term.",
+        "In a democracy, the government is accountable to the people."
+      ],
+      "funFact": "India has the largest number of voters in the world! In the 2024 general election, over 96 crore (960 million) people were eligible to vote — more than the population of most countries combined!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 2, Page 70"
+    },
+    {
+      "id": "concept-2-4",
+      "title": "Justice, Liberty, Equality",
+      "emoji": "⚖️",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The Preamble promises three great ideals to all citizens. Justice includes social justice (no discrimination based on caste/religion), economic justice (equal opportunities), and political justice (equal voting rights). Liberty includes freedom of thought, expression, belief, faith, and worship. Equality includes equality of status (everyone is equal before law) and equality of opportunity (everyone gets fair chances to progress).",
+      "pageReference": "70-71",
+      "examples": [
+        "Justice: Reservation policies for SC/ST/OBC communities aim to achieve social and economic justice.",
+        "Liberty: You have the freedom to speak your mind, choose your religion, and write articles — this is liberty of thought and expression.",
+        "Equality: Whether you are rich or poor, a court of law must treat you the same — this is equality before law."
+      ],
+      "keyPoints": [
+        "Justice has three dimensions — social, economic, and political.",
+        "Liberty means freedom of thought, expression, belief, faith, and worship.",
+        "Equality means equal status before law and equal opportunity for all.",
+        "These three ideals together ensure every citizen can live a dignified life.",
+        "These ideals are also reflected in the Fundamental Rights given in Part III of the Constitution."
+      ],
+      "funFact": "The ideals of Liberty, Equality, and Fraternity in the Indian Preamble were inspired by the French Revolution's motto: Liberté, Égalité, Fraternité — showing how ideas travel across countries and centuries!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 2, Page 70-71"
+    },
+    {
+      "id": "concept-2-5",
+      "title": "Fraternity and National Unity",
+      "emoji": "🤝",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Fraternity means a feeling of brotherhood and sisterhood among all citizens of India. The Preamble says fraternity should assure two things: the dignity of the individual, and the unity and integrity of the Nation. Dignity means every person deserves to be treated with respect regardless of caste, religion, gender, or economic status. Unity and integrity of the nation means all Indians — despite their differences — must remain united and keep India together.",
+      "pageReference": "71",
+      "examples": [
+        "When people of different religions celebrate each other's festivals — Diwali, Eid, Christmas — it reflects the spirit of fraternity.",
+        "The National Integration Council in India works to promote the feeling of unity among all citizens.",
+        "India's motto 'Unity in Diversity' captures the essence of fraternity — being different yet united."
+      ],
+      "keyPoints": [
+        "Fraternity means a feeling of brotherhood among all citizens.",
+        "It assures the dignity of the individual — every person must be treated with respect.",
+        "It promotes the unity and integrity of the Nation.",
+        "Fraternity is essential in a diverse country like India with many religions, languages, and cultures.",
+        "Without fraternity, the other ideals of Justice, Liberty, and Equality cannot be fully achieved."
+      ],
+      "funFact": "India is home to people of at least 6 major world religions — Hinduism, Islam, Christianity, Sikhism, Buddhism, and Jainism — yet the spirit of fraternity in the Constitution helps hold this incredible diversity together!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 2, Page 71"
+    }
+  ],
+  "test": [
+    {
+      "id": "test-2-1",
+      "question": "The Preamble of the Indian Constitution begins with which words?",
+      "options": [
+        "We, the Citizens of India",
+        "We, the People of India",
+        "We, the Leaders of India",
+        "We, the Republic of India"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Preamble begins with 'We, the People of India' — showing that the Constitution derives its authority from the people of India."
+    },
+    {
+      "id": "test-2-2",
+      "question": "What does 'Sovereign' mean in the Preamble?",
+      "options": [
+        "India is part of the British Empire",
+        "India follows United Nations rules only",
+        "India is fully independent with no foreign control",
+        "India is ruled by elected kings"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sovereign means India is completely independent and makes its own decisions — it is not under the control of any foreign power."
+    },
+    {
+      "id": "test-2-3",
+      "question": "Which two words were added to the Preamble by the 42nd Amendment in 1976?",
+      "options": [
+        "Republic and Democratic",
+        "Justice and Liberty",
+        "Socialist and Secular",
+        "Sovereign and Fraternity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The words 'Socialist' and 'Secular' were added to the Preamble through the 42nd Amendment to the Constitution in 1976."
+    },
+    {
+      "id": "test-2-4",
+      "question": "Which of the following is NOT one of the types of Justice mentioned in the Preamble?",
+      "options": [
+        "Social Justice",
+        "Economic Justice",
+        "Criminal Justice",
+        "Political Justice"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Preamble mentions Social, Economic, and Political Justice. Criminal Justice is not mentioned in the Preamble."
+    },
+    {
+      "id": "test-2-5",
+      "question": "What does 'Republic' mean in the context of India?",
+      "options": [
+        "India is ruled by a king",
+        "The head of state is an elected president, not a hereditary ruler",
+        "India has no head of state",
+        "India is ruled by the army"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Republic means the head of state (the President of India) is an elected person with a fixed term, not a hereditary ruler like a king."
+    },
+    {
+      "id": "test-2-6",
+      "question": "What does 'Fraternity' in the Preamble assure?",
+      "options": [
+        "Equal pay for equal work",
+        "Free education for all",
+        "Dignity of the individual and unity and integrity of the Nation",
+        "Freedom of movement within India"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fraternity assures two things: the dignity of the individual, and the unity and integrity of the Nation."
+    },
+    {
+      "id": "test-2-7",
+      "question": "How many types of Liberty are mentioned in the Preamble?",
+      "options": [
+        "Three — thought, speech, action",
+        "Five — thought, expression, belief, faith, worship",
+        "Two — freedom and liberty",
+        "Four — speech, religion, work, movement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Preamble mentions five types of Liberty: liberty of thought, expression, belief, faith, and worship."
+    },
+    {
+      "id": "test-2-8",
+      "question": "What is the significance of the Preamble starting with 'We, the People of India'?",
+      "options": [
+        "It means only educated people wrote the Constitution",
+        "It shows that the Constitution was written by kings",
+        "It means the Constitution derives its authority from the people of India",
+        "It lists all the citizens who approved the Constitution"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Starting with 'We, the People of India' shows that the Constitution derives its ultimate authority from the people, reflecting the democratic nature of the country."
+    },
+    {
+      "id": "test-2-9",
+      "question": "What does 'Secular' mean in the context of the Indian Constitution?",
+      "options": [
+        "The government promotes one religion",
+        "The government has no official religion and treats all religions equally",
+        "Religion is banned in public life",
+        "Only Hinduism is recognised by the state"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Secular means the Indian state has no official religion and treats all religions equally. Citizens are free to follow any religion."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Preamble as introduction to the Constitution",
+      "Full text: We the People of India — Sovereign, Socialist, Secular, Democratic, Republic",
+      "Goals: Justice (social, economic, political), Liberty (thought, expression, belief, faith, worship), Equality (status and opportunity), Fraternity (dignity, unity, integrity)",
+      "Sovereign = independent nation",
+      "Socialist = welfare state, reduce inequality",
+      "Secular = no state religion, all religions equal",
+      "Democratic = elected government accountable to people",
+      "Republic = elected head of state (President)",
+      "Adopted 26 November 1949",
+      "42nd Amendment 1976 added Socialist and Secular"
+    ],
+    "commonMisconceptions": [
+      "Students often think Secular means atheism — it means no state religion, not that religion is banned.",
+      "Some confuse Democratic and Republic as the same thing — Democratic refers to elected government; Republic refers to elected head of state.",
+      "Students may not know that Socialist and Secular were added later in 1976 and were not in the original 1949 Preamble.",
+      "Fraternity is often misunderstood as just friendship — it means brotherhood and ensuring dignity for all and national unity."
+    ],
+    "realWorldExamples": [
+      "The Indian government treating Diwali, Eid, and Christmas equally as national holidays reflects the Secular ideal.",
+      "Citizens voting in general elections every 5 years reflects the Democratic ideal.",
+      "Welfare schemes like free rations, MGNREGA, and health insurance reflect the Socialist ideal.",
+      "India conducting independent foreign policy without being controlled by any country reflects Sovereignty.",
+      "Inter-faith harmony events and national integration programmes reflect Fraternity."
+    ],
+    "formulas": []
+  }
+}

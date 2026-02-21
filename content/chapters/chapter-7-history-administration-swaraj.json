@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "chapterNumber": 7,
+    "title": "Administration of Swaraj",
+    "subject": "History",
+    "pages": "29-32",
+    "description": "How Shivaji Maharaj organized his kingdom — the Ashtapradhan council of eight ministers, the revenue system, military organization, fort administration, and the principles of just governance that made Swaraj unique."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_7_1",
+      "question": "What was the 'Ashtapradhan'?",
+      "options": {
+        "A": "A council of eight ministers who assisted Shivaji in governing the Swaraj",
+        "B": "A type of fort in Maharashtra",
+        "C": "The name of Shivaji's army",
+        "D": "A religious ceremony at Raigad"
+      },
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": "concept_7_1"
+    },
+    {
+      "id": "pre_7_2",
+      "question": "The head of the Ashtapradhan who served as Prime Minister was called:",
+      "options": {
+        "A": "Senapati",
+        "B": "Sachiv",
+        "C": "Peshwa",
+        "D": "Nyayadhish"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_7_1"
+    },
+    {
+      "id": "pre_7_3",
+      "question": "In Shivaji's revenue system, taxes were assessed directly with farmers instead of being farmed out to middlemen. This system is known as:",
+      "options": {
+        "A": "Zamindari",
+        "B": "Ryotwari",
+        "C": "Mahalwari",
+        "D": "Jagirdari"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_7_2"
+      },
+    {
+      "id": "pre_7_4",
+      "question": "Each of Shivaji's forts was administered by a committee of how many people?",
+      "options": {
+        "A": "One commander only",
+        "B": "Two",
+        "C": "Three",
+        "D": "Five"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_7_4"
+    },
+    {
+      "id": "pre_7_5",
+      "question": "Who was Kanhoji Angre — famous in the history of Maratha Swaraj?",
+      "options": {
+        "A": "A Maratha general who defeated Aurangzeb",
+        "B": "A famous Maratha naval commander",
+        "C": "The Peshwa who expanded the Maratha empire",
+        "D": "The scholar who conducted Shivaji's coronation"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_7_3"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_7_1",
+      "title": "Ashtapradhan — The Council of Eight Ministers",
+      "emoji": "🏛️",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Shivaji Maharaj created a sophisticated administrative system for his Swaraj. Central to this was the Ashtapradhan — a council of eight ministers, each responsible for a specific domain of governance. The eight ministers were: 1) Peshwa — Prime Minister, head of overall administration; 2) Amatya (also called Mazumdar) — Finance Minister, in charge of revenue and accounts; 3) Sachiv (also called Shurnavis) — Secretary, kept official records; 4) Mantri (also called Waqenavis) — Council Minister, informed the king of daily events; 5) Senapati (also called Sarnobat) — Commander-in-Chief of the Army; 6) Sumant (also called Dabir) — Foreign Minister, handled diplomatic relations; 7) Nyayadhish — Chief Justice, head of the judicial system; 8) Panditrao (also called Danadhyaksha) — Chief Religious Officer, responsible for religious matters and charity. Each minister had clear responsibilities and was accountable to the Chhatrapati. This prevented any single minister from becoming too powerful.",
+      "pageReference": "29-30",
+      "examples": [
+        "The Peshwa position grew so important that after Shivaji's time, the Peshwas effectively became the rulers of the Maratha empire.",
+        "The Nyayadhish ensured that justice was available to all — rich and poor — which was revolutionary for the time.",
+        "The Sumant managed relations with the Mughals, the Deccan Sultanates, and even the European trading companies."
+      ],
+      "keyPoints": [
+        "Ashtapradhan: council of 8 ministers with specific portfolios.",
+        "Peshwa: Prime Minister — head of overall administration.",
+        "Senapati: Commander-in-Chief of the army.",
+        "Nyayadhish: Chief Justice — ensured equal justice.",
+        "Sumant: Foreign Minister — diplomatic relations.",
+        "The system prevented power concentration and ensured specialized governance."
+      ],
+      "funFact": "The word 'Peshwa' comes from the Persian 'pishwa' meaning 'leader' or 'guide.' The Peshwa position became so powerful after Shivaji that by the 18th century, the Peshwas (based in Pune's Shaniwarwada) were the real power behind the Maratha empire — almost like prime ministers running the state while the Chhatrapati was the symbolic head!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 7, Pages 29-30"
+    },
+    {
+      "id": "concept_7_2",
+      "title": "Revenue Administration",
+      "emoji": "💰",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Before Shivaji, Maharashtra's farmers were devastated by the tax-farming system — where wealthy middlemen would pay the sultan upfront for the right to collect taxes from a region, and then extort as much as possible from farmers to make a profit. Shivaji abolished this exploitative system. His revenue system was based on Ryotwari — direct settlement with the farmers. Land was surveyed, soil quality was assessed, and a fair tax was calculated based on the actual harvest potential. This assessment was called 'bigha' or 'chavdi.' During famines or bad harvests, taxes were reduced or waived entirely. Farmers who had fled their land because of previous oppression were invited back with incentives. The goal was a prosperous farming community — because agricultural prosperity was the foundation of the kingdom's economy. Shivaji's revenue minister, Annaji Datto, carried out systematic land surveys for fair assessment.",
+      "pageReference": "30",
+      "examples": [
+        "Shivaji abolished the system of 'tax farming' — no middlemen were allowed to squeeze farmers for profit.",
+        "During droughts, Shivaji reduced taxes and sometimes provided farmers with seeds and tools to help them recover.",
+        "A fair revenue system meant farmers were loyal to the Swaraj and would support the army, unlike under the sultans where they hated the rulers."
+      ],
+      "keyPoints": [
+        "Previous system: tax-farming by middlemen who exploited farmers.",
+        "Shivaji introduced Ryotwari: direct settlement with farmers, no middlemen.",
+        "Land surveyed and taxes assessed based on soil quality and harvest potential.",
+        "Taxes reduced or waived during famines and poor harvests.",
+        "Farmers invited back to their land — agricultural prosperity was a priority."
+      ],
+      "funFact": "Shivaji's revenue system was so fair that when he captured new territories, local farmers often welcomed him rather than resisting — they had heard that his taxation was fair and his soldiers did not loot. This 'soft power' helped expand the Swaraj as much as military victories!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 7, Page 30"
+    },
+    {
+      "id": "concept_7_3",
+      "title": "Military Organization",
+      "emoji": "⚔️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Shivaji built one of the most efficient military systems of his time. His army consisted of: Infantry (pyade) — foot soldiers, primarily the loyal Mavale warriors who excelled in mountain warfare. Cavalry (swar) — horse soldiers for open terrain warfare, raids, and rapid movement. Navy — Shivaji was the first major Indian ruler in centuries to build a significant naval force. He constructed a fleet of warships and sea forts (like Sindhudurg and Vijaydurg) to protect the Konkan coastline from sea attacks. Kanhoji Angre later became the most famous admiral of the Maratha navy. Soldiers were paid regular salaries in cash — not through jagirs (land grants) like the Mughal system, which prevented soldiers from becoming local lords with personal armies. Strict discipline was maintained — soldiers who misbehaved with civilians or looted were punished severely. A clear chain of command and regular training made the army professional.",
+      "pageReference": "30-31",
+      "examples": [
+        "Shivaji's naval fleet challenged the Portuguese and English ships along the Konkan coast — unprecedented for an Indian inland ruler.",
+        "Soldiers paid in cash had no personal financial stake in a region — they served the kingdom, not a local lord, preventing the feudalism that weakened other kingdoms.",
+        "Kanhoji Angre's naval victories against European powers in the 18th century showed the lasting strength of the navy Shivaji built."
+      ],
+      "keyPoints": [
+        "Three military arms: infantry (pyade), cavalry (swar), and navy.",
+        "Shivaji built a significant navy — sea forts like Sindhudurg and Vijaydurg.",
+        "Kanhoji Angre: famous Maratha naval commander (later period).",
+        "Soldiers paid in cash salary — not jagirs — preventing feudalism.",
+        "Strict discipline: soldiers who harmed civilians were punished."
+      ],
+      "funFact": "Shivaji had a special intelligence unit within his army called the 'huzerats' — personal bodyguards who also served as intelligence officers. He also had 'bahirupi' spies who could disguise themselves as merchants, saints, or farmers to gather information in enemy territory!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 7, Pages 30-31"
+    },
+    {
+      "id": "concept_7_4",
+      "title": "Fort Administration",
+      "emoji": "🏯",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Forts were the backbone of Shivaji's defensive and administrative system. He gave special attention to fort governance. Each fort was NOT put under a single commander who might become too powerful, corrupt, or defect to an enemy. Instead, each fort was administered by a committee of three officers with equal authority: 1) Havaldar — military commander responsible for the defense and troops of the fort; 2) Sarnobat — second military officer providing checks on the Havaldar; 3) Sabnis — administrative officer responsible for accounts, supplies, and records. These three officers would report independently to the Chhatrapati — creating a system of mutual accountability where each officer could report on the others. Regular supplies of food, water, and ammunition were maintained. Shivaji also built many new forts and repaired old ones — hill forts in the Sahyadri, sea forts along the Konkan coast.",
+      "pageReference": "31-32",
+      "examples": [
+        "The three-officer system prevented any single person from having too much power — if one officer turned traitor, the other two could resist and alert the king.",
+        "Each fort had its own water cisterns, granaries, and emergency supplies — designed to withstand a siege of many months.",
+        "Shivaji personally inspected important forts and is said to have had detailed knowledge of every fort's strengths, weaknesses, and supply situation."
+      ],
+      "keyPoints": [
+        "Each fort governed by a 3-person committee: Havaldar, Sarnobat, and Sabnis.",
+        "Havaldar: military commander; Sarnobat: second military officer; Sabnis: accounts and records.",
+        "Three officers reported independently — mutual accountability, prevented single-person power.",
+        "Regular supplies of food, water, and arms maintained for long siege endurance.",
+        "New forts built, old ones repaired — hill forts in Sahyadri, sea forts on Konkan coast."
+      ],
+      "funFact": "Raigad fort — Shivaji's capital — had over 300 steps just to reach the main gate, was surrounded by steep cliffs on three sides, and had enough water cisterns and granaries to sustain the garrison for over a year during a siege. It was considered virtually impregnable!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 7, Pages 31-32"
+    },
+    {
+      "id": "concept_7_5",
+      "title": "Principles of Good Governance",
+      "emoji": "⚖️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "What made Shivaji's administration exceptional was not just its structure but its guiding principles. Shivaji believed that a king exists to serve the people — not to exploit them. Key governance principles included: Justice for all — the rich and powerful could not escape accountability; complaints from any farmer or ordinary person received attention. Protection of farmers — they were seen as the foundation of the kingdom and needed to be prosperous for the state to survive. Respect for all religions — mosques, churches, and temples were all protected; religious scholars of all faiths were respected. Strict discipline for soldiers — no looting, no harassing civilians, no disrespecting women. Administrative transparency — each official was accountable through the system. These principles were not just ideals but were enforced through orders, letters, and punishments for violations. Shivaji's correspondence (letters and royal orders called 'aadnyapatra') shows a ruler deeply concerned with justice and people's welfare.",
+      "pageReference": "32",
+      "examples": [
+        "When Shivaji's soldiers captured Kalyan, the local Muslim governor's beautiful daughter-in-law was brought as a prize. Shivaji reprimanded the soldiers, treated her with respect, and sent her back safely — a legendary example of his principles.",
+        "Farmers in newly captured territories were assured that their lands and livelihoods would be protected — Shivaji built loyalty through fair treatment.",
+        "Written orders (aadnyapatra) signed by Shivaji protected mosques and Muslim religious sites from being damaged — even in times of war."
+      ],
+      "keyPoints": [
+        "King serves people — not to exploit them.",
+        "Equal justice for rich and poor — no one above the law.",
+        "Farmers protected and respected as the kingdom's foundation.",
+        "Strict discipline for soldiers — no looting or disrespecting civilians.",
+        "All religions respected — mosques, temples, and churches protected."
+      ],
+      "funFact": "Shivaji's administrative letters (called 'rajapatra' or 'aadnyapatra') are preserved in archives and show remarkable detail — he would write specifically about protecting trees on hillsides near forts, ensuring wells were clean, and protecting travelers on roads. He was concerned with every aspect of people's daily lives!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 7, Page 32"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_7_1",
+      "question": "Who among the Ashtapradhan served as the Prime Minister?",
+      "options": {
+        "A": "Senapati",
+        "B": "Amatya",
+        "C": "Peshwa",
+        "D": "Sumant"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "The Peshwa was the Prime Minister in Shivaji's Ashtapradhan system — the head of overall civil administration. The position became so powerful after Shivaji's time that the Peshwas eventually became the de facto rulers of the Maratha empire."
+    },
+    {
+      "id": "test_7_2",
+      "question": "What was the role of the Nyayadhish in the Ashtapradhan?",
+      "options": {
+        "A": "Commander-in-Chief of the Army",
+        "B": "Finance Minister",
+        "C": "Chief Justice — head of the judicial system",
+        "D": "Foreign Minister"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "The Nyayadhish was the Chief Justice in Shivaji's administration — responsible for overseeing the judicial system and ensuring fair justice for all people of the Swaraj."
+    },
+    {
+      "id": "test_7_3",
+      "question": "What was the key difference between Shivaji's revenue system and the earlier tax-farming system?",
+      "options": {
+        "A": "Shivaji's system collected higher taxes",
+        "B": "Shivaji abolished middlemen and directly settled with farmers based on fair assessment",
+        "C": "Shivaji's system only taxed merchants, not farmers",
+        "D": "Tax-farming gave money directly to the farmers"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The old tax-farming system allowed middlemen to extort farmers. Shivaji's Ryotwari system eliminated middlemen and directly assessed each farmer's land based on its actual productivity — resulting in a fairer and more predictable tax burden."
+    },
+    {
+      "id": "test_7_4",
+      "question": "The three officers who jointly administered each Maratha fort were:",
+      "options": {
+        "A": "Peshwa, Senapati, and Sumant",
+        "B": "Havaldar, Sarnobat, and Sabnis",
+        "C": "Commander, Treasurer, and Secretary",
+        "D": "Deshmukh, Patil, and Kulkarni"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Each fort was administered by three officers: the Havaldar (military commander), the Sarnobat (second military officer providing checks on the Havaldar), and the Sabnis (administrative officer for accounts and supplies). This prevented any one person from having unchecked power over a fort."
+    },
+    {
+      "id": "test_7_5",
+      "question": "Why did Shivaji pay soldiers in cash salary rather than giving them jagirs (land grants)?",
+      "options": {
+        "A": "The Maratha kingdom had no land available",
+        "B": "Cash was easier to carry during campaigns",
+        "C": "To prevent soldiers from becoming local lords — ensuring loyalty to the kingdom, not to a local region",
+        "D": "The Mughal system required cash payments"
+      },
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": "Paying soldiers in cash kept them loyal to the kingdom as a whole — they had no local land interests to protect. The jagir system (used by Mughals) often created powerful local lords whose loyalty was to their own land rather than the central authority, leading to fragmentation."
+    },
+    {
+      "id": "test_7_6",
+      "question": "Who was Kanhoji Angre?",
+      "options": {
+        "A": "The Peshwa who expanded the Maratha empire",
+        "B": "A famous Maratha naval commander",
+        "C": "The general who defeated Afzal Khan",
+        "D": "The Sabnis of Raigad fort"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Kanhoji Angre was the famous admiral of the Maratha navy — a commander of extraordinary skill who challenged and defeated European naval powers (Portuguese, English, Dutch) along the Konkan coast in the early 18th century."
+    },
+    {
+      "id": "test_7_7",
+      "question": "What type of forts did Shivaji build along the Konkan coast?",
+      "options": {
+        "A": "Hill forts",
+        "B": "Forest forts",
+        "C": "Sea forts",
+        "D": "Cave forts"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Shivaji built sea forts (water forts) along the Konkan coastline — including Sindhudurg (near Malvan) and Vijaydurg. These forts protected the coastline and provided bases for the Maratha navy."
+    },
+    {
+      "id": "test_7_8",
+      "question": "What were 'aadnyapatra'?",
+      "options": {
+        "A": "A type of Maratha coin",
+        "B": "Royal letters and orders issued by Shivaji with administrative and protective commands",
+        "C": "A fort in Maharashtra",
+        "D": "A type of cavalry unit"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Aadnyapatra were royal orders and letters issued by Shivaji covering administrative directives, including protecting religious sites, treating women with respect, fair treatment of farmers, and rules for soldiers' conduct."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Ashtapradhan: 8 ministers — Peshwa, Amatya, Sachiv, Mantri, Senapati, Sumant, Nyayadhish, Panditrao",
+      "Revenue: Ryotwari system — direct settlement with farmers, abolished tax-farming middlemen",
+      "Military: infantry (pyade), cavalry (swar), navy — soldiers paid cash not jagirs",
+      "Fort administration: 3-person committee — Havaldar, Sarnobat, Sabnis",
+      "Governance principles: justice for all, farmer welfare, religious tolerance, soldier discipline"
+    ],
+    "commonMisconceptions": [
+      "Students often think the Peshwa was always the top leader — initially the Chhatrapati (Shivaji) was supreme; the Peshwas only became dominant after Shivaji's time.",
+      "Some confuse the three fort officers' roles — Havaldar was military, Sabnis was administrative; both reported to the king to check each other.",
+      "Students may not realize how innovative cash-pay for soldiers was — most contemporary kingdoms used jagirs which created feudal problems.",
+      "The Ashtapradhan is sometimes confused with a democratic system — it was actually ministers serving under the absolute authority of the Chhatrapati."
+    ],
+    "realWorldExamples": [
+      "The Maratha administrative system influenced later governance in western India — elements of the revenue survey system were later adopted by the British.",
+      "Shaniwarwada in Pune — the Peshwa's palace — is a reminder of how the Peshwa position evolved from Shivaji's Ashtapradhan.",
+      "Modern Indian administrative structure with specialized ministries (defense, finance, foreign affairs, justice) directly echoes the Ashtapradhan concept."
+    ],
+    "formulas": []
+  }
+}

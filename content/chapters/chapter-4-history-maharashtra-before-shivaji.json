@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "chapterNumber": 4,
+    "title": "Maharashtra Before Shivaji",
+    "subject": "History",
+    "pages": "14-18",
+    "description": "The political and social conditions of Maharashtra under the Nizam Shahi and Adil Shahi sultanates before Shivaji's rise — Shahaji Raje, Jijabai, the Mavala warriors, and the growing desire for Swaraj."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_4_1",
+      "question": "Who was Shivaji Maharaj's father?",
+      "options": {
+        "A": "Maloji Raje Bhosale",
+        "B": "Shahaji Raje Bhosale",
+        "C": "Vyankoji Raje Bhosale",
+        "D": "Jijabai"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_4_2"
+    },
+    {
+      "id": "pre_4_2",
+      "question": "Who was Shivaji Maharaj's mother who inspired him with stories of valor?",
+      "options": {
+        "A": "Tarabai",
+        "B": "Saibai",
+        "C": "Jijabai",
+        "D": "Ahilyabai"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_4_3"
+    },
+    {
+      "id": "pre_4_3",
+      "question": "The hardy warriors from the Maval region who became the core of Shivaji's army were called:",
+      "options": {
+        "A": "Myrmidons",
+        "B": "Mavale",
+        "C": "Rajputs",
+        "D": "Marathas"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_4_4"
+    },
+    {
+      "id": "pre_4_4",
+      "question": "The Deccan Sultanate based in Ahmednagar that controlled much of north Maharashtra was:",
+      "options": {
+        "A": "Adilshahi",
+        "B": "Qutbshahi",
+        "C": "Nizamshahi",
+        "D": "Baridshahi"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_4_1"
+    },
+    {
+      "id": "pre_4_5",
+      "question": "What does 'Swaraj' mean?",
+      "options": {
+        "A": "Victory in battle",
+        "B": "Self-rule or rule of one's own people",
+        "C": "Religious tolerance",
+        "D": "Revenue collection"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_4_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_4_1",
+      "title": "Nizam Shahi and Adil Shahi Rule in Maharashtra",
+      "emoji": "🗡️",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Before Shivaji's rise, the region of Maharashtra was divided and controlled primarily by two Deccan Sultanates: the Nizamshahi (with its capital at Ahmednagar) and the Adilshahi (with its capital at Bijapur). These foreign sultanates taxed the Maratha farmers heavily, often with arbitrary increases. Local Maratha chieftains (called Deshmukhs and Patils) had to serve these sultanates and collect taxes on their behalf. The sultanates also fought constant wars against each other and against the Mughal Empire, which caused great hardship to the common people of Maharashtra. The Mughals under Aurangzeb were also pressing southward, absorbing the Deccan kingdoms one by one. This political situation left the Maratha people under multiple layers of foreign authority with no kingdom of their own.",
+      "pageReference": "14-15",
+      "examples": [
+        "Maratha farmers in the Pune region had to pay taxes to the Nizamshahi, who would use it to fund wars against neighboring kingdoms.",
+        "Local Deshmukhs who refused to pay taxes or cooperate with the sultans often faced raids and punishment.",
+        "The constant warfare between Adilshahi and Nizamshahi led to burning of villages, disruption of farming, and displacement of people."
+      ],
+      "keyPoints": [
+        "Nizamshahi (capital: Ahmednagar) and Adilshahi (capital: Bijapur) controlled Maharashtra.",
+        "Maratha farmers faced heavy and arbitrary taxation under these sultanates.",
+        "Local Maratha Deshmukhs and Patils served as middlemen between rulers and farmers.",
+        "Constant wars between sultanates caused suffering for common people.",
+        "Mughals were expanding southward, threatening to absorb the remaining Deccan kingdoms."
+      ],
+      "funFact": "The Nizamshahi kingdom was actually founded by Ahmad Nizam Shah in 1490 — and interestingly, the last Nizam Shah queen, Chand Bibi, became a legendary figure for her brave defense of Ahmednagar against the Mughal army!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 4, Pages 14-15"
+    },
+    {
+      "id": "concept_4_2",
+      "title": "Shahaji Raje Bhosale — Shivaji's Father",
+      "emoji": "⚔️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Shahaji Raje Bhosale was Shivaji's father and one of the most skilled military commanders of his time. He served the Nizamshahi sultanate initially and showed remarkable bravery in battle. When the Nizamshahi collapsed under Mughal pressure, Shahaji switched service to the Adilshahi of Bijapur. He was given a jagir (land grant for maintenance) in the Pune region, which became the foundation for Shivaji's activities. Though Shahaji was a loyal servant of the Adilshahi, he had great ambitions and planted seeds of independence in the Deccan. He had a scholarly side too — he patronized poets and musicians. Shahaji's experience of both the Nizamshahi and Adilshahi courts gave Shivaji knowledge of the weaknesses and internal politics of these kingdoms from a young age.",
+      "pageReference": "15-16",
+      "examples": [
+        "Shahaji served the Nizamshahi when Shivaji's mother Jijabai was pregnant with Shivaji — they were living at Shivneri fort.",
+        "After moving to the Adilshahi, Shahaji's jagir in the Pune-Supe region became Shivaji's base for building Swaraj.",
+        "Shahaji's military experience meant Shivaji grew up understanding military strategy and the geography of Maharashtra from boyhood."
+      ],
+      "keyPoints": [
+        "Shahaji Raje Bhosale was a skilled military commander who served Nizamshahi, then Adilshahi.",
+        "He received a jagir in the Pune region from the Adilshahi — this became Shivaji's base.",
+        "Shahaji was also a patron of arts and literature.",
+        "He spent much of his life away in Karnataka serving the Adilshahi, while Jijabai raised Shivaji.",
+        "Shahaji's connections and knowledge of the sultanates became valuable for Shivaji."
+      ],
+      "funFact": "Shahaji Raje was such a capable and respected military commander that even after switching from Nizamshahi to Adilshahi, he was given important commands and a large jagir. Rival sultans competed to have his loyalty — showing his exceptional military value!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 4, Pages 15-16"
+    },
+    {
+      "id": "concept_4_3",
+      "title": "Jijabai — Mother and Inspiration",
+      "emoji": "🌟",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Jijabai was Shivaji's mother — and possibly the single most important influence on his character and vision. While Shahaji was often away on military campaigns, it was Jijabai who raised young Shivaji at the Pune jagir. She was a highly intelligent and determined woman who had a deep sense of justice and a burning desire to see the Maratha people free from foreign domination. She told Shivaji stories from the Ramayana and Mahabharata — of heroes like Ram, Arjun, and Hanuman — to shape his values of courage, righteousness, and duty. She instilled in him the concept of Swaraj — that the Maratha people deserved their own just kingdom. Jijabai is considered the architect of Shivaji's vision. Even after Shivaji became Chhatrapati, he always sought her blessings and guidance. She lived to see his coronation in 1674, passing away just twelve days later.",
+      "pageReference": "16-17",
+      "examples": [
+        "Jijabai would tell young Shivaji the stories of Ram's fight against Ravan as a lesson in fighting injustice — Shivaji would see the Deccan as his Ayodhya to liberate.",
+        "When Shivaji was preparing to capture his first fort (Torna), Jijabai is said to have encouraged him — telling him the land and forts rightfully belong to the people.",
+        "Even in her old age, Jijabai continued to advise Shivaji on political matters from Rajgad fort."
+      ],
+      "keyPoints": [
+        "Jijabai raised Shivaji primarily by herself as Shahaji was often away.",
+        "She told Shivaji epics (Ramayana, Mahabharata) to instill values of courage and righteousness.",
+        "She planted the concept of Swaraj — the Maratha people's right to self-rule — in Shivaji's mind.",
+        "She was a politically astute and determined woman who guided Shivaji's early career.",
+        "Jijabai lived to see Shivaji's coronation (1674) and died twelve days later."
+      ],
+      "funFact": "Jijabai was born into the Jadhav family — one of the most powerful Maratha clans. Her father Lakhujirao Jadhav was himself a powerful chieftain. So Shivaji inherited his sense of pride and dignity from both his father's Bhosale lineage and his mother's Jadhav lineage!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 4, Pages 16-17"
+    },
+    {
+      "id": "concept_4_4",
+      "title": "The Mavala Region and People",
+      "emoji": "🏔️",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The Maval region (also called Mavala) refers to the narrow, hilly valleys of the Western Ghats near Pune — a rugged terrain of dense forests, steep hills, and fast-flowing rivers. The people of this region — called Mavale — were known for their extraordinary physical endurance, knowledge of the local terrain, and simple but hardy lifestyle. Growing up in these hills made them natural warriors. Shivaji recognized the potential of these Mavale warriors and from his teenage years began building relationships with them. He treated them as equals, ate with them, played with them, and earned their fierce loyalty. The Mavale became the core infantry of Shivaji's army — soldiers who knew every pass, every hill, and every fort of the region. Their knowledge of mountain warfare and guerrilla tactics became the backbone of Shivaji's military success.",
+      "pageReference": "17",
+      "examples": [
+        "Young Shivaji would spend days roaming the hills of Maval with his Mavale friends — learning the geography that he would later use in military strategy.",
+        "The Mavale soldiers could travel at night through terrain that regular armies couldn't navigate — a key advantage in guerrilla warfare.",
+        "Famous Mavale commanders like Yesaji Kank and Tanaji Malusare became legendary warriors who served Shivaji with extraordinary loyalty."
+      ],
+      "keyPoints": [
+        "Maval region: narrow hilly valleys of the Western Ghats near Pune.",
+        "Mavale people: known for physical endurance, knowledge of terrain, and simple living.",
+        "Shivaji built close friendships with Mavale boys from a young age, earning their deep loyalty.",
+        "Mavale warriors knew every hill, pass, and fort in the region — invaluable for guerrilla warfare.",
+        "They became the core infantry of Shivaji's army and key to his military successes."
+      ],
+      "funFact": "Tanaji Malusare — perhaps the most famous Mavale warrior — died capturing Kondana fort (later renamed Sinhagad in his honor) in 1670. When Shivaji heard the news, he reportedly said 'Gad ala, pan Sinha gela' — 'The fort is won, but the lion is gone' — and renamed the fort Sinhagad (Lion's Fort) in Tanaji's memory!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 4, Page 17"
+    },
+    {
+      "id": "concept_4_5",
+      "title": "Seeds of Swaraj",
+      "emoji": "🌱",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Swaraj means 'self-rule' or 'one's own kingdom' — rule by one's own people for one's own people. The idea of Swaraj was not just a political concept but a deeply emotional and moral one. The Maratha people had no kingdom of their own — they lived under sultanates that extracted taxes, conscripted soldiers, and showed little regard for the local culture, language, or religion. Shivaji grew up witnessing this situation — observing the suffering of farmers, the arbitrary taxation, the raids by jagirdars, and the disrespect shown to Maratha customs and religious sites. Jijabai's stories of heroic rulers who protected their people fanned the flame of Swaraj in young Shivaji's heart. The Bhakti saints like Tukaram and Ramdas (who became Shivaji's spiritual guru) further reinforced the idea that a just ruler — one who protects the weak and respects all people — was both possible and necessary.",
+      "pageReference": "17-18",
+      "examples": [
+        "When Shivaji saw farmers being taxed beyond their means and their crops seized, it reinforced his determination to create a kingdom of justice.",
+        "Sant Ramdas's teachings about 'Hindavi Swarajya' (Swaraj for the people of this land) became part of Shivaji's mission statement.",
+        "The very first act of Shivaji's Swaraj — capturing Torna fort in 1645 at age 16 — was possible because the Mavale soldiers believed in his vision."
+      ],
+      "keyPoints": [
+        "Swaraj means 'self-rule' — governance by and for the people of the land.",
+        "The idea of Swaraj arose from witnessing the suffering of Maratha farmers under foreign sultans.",
+        "Jijabai's teachings, Bhakti saints' philosophy, and Shivaji's personal observations all contributed to this vision.",
+        "Sant Ramdas, Shivaji's spiritual guru, spoke of 'Hindavi Swarajya' — a just kingdom for the people.",
+        "Swaraj was not about caste or religion but about just governance for all people of the land."
+      ],
+      "funFact": "In a famous letter (now preserved), Shivaji wrote to his enemies that 'Swaraj' was not his personal ambition but 'God's will' — that the land, the forts, and the wealth of Maharashtra belonged to the people, not to foreign rulers. This visionary statement was remarkable for its time!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 4, Pages 17-18"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_4_1",
+      "question": "Which two Deccan Sultanates mainly controlled Maharashtra before Shivaji's rise?",
+      "options": {
+        "A": "Qutbshahi and Baridshahi",
+        "B": "Nizamshahi and Adilshahi",
+        "C": "Mughal and Vijayanagar",
+        "D": "Bahmani and Nizamshahi"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "The Nizamshahi (capital: Ahmednagar) and the Adilshahi (capital: Bijapur) were the two primary sultanates that controlled Maharashtra before Shivaji. Shahaji Raje served both of them."
+    },
+    {
+      "id": "test_4_2",
+      "question": "What is a 'jagir'?",
+      "options": {
+        "A": "A type of fort",
+        "B": "A land grant given to a military commander to maintain himself and his troops",
+        "C": "A Marathi historical chronicle",
+        "D": "A religious pilgrimage"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "A jagir was a land grant given by a sultan to a military commander. The commander would collect revenue from this territory to maintain himself and his soldiers. Shahaji received a jagir in the Pune region from the Adilshahi."
+    },
+    {
+      "id": "test_4_3",
+      "question": "Jijabai instilled the vision of Swaraj in Shivaji mainly through:",
+      "options": {
+        "A": "Teaching him military tactics",
+        "B": "Telling him stories from the Ramayana and Mahabharata about heroic rulers",
+        "C": "Introducing him to foreign traders",
+        "D": "Having him study Persian and Arabic"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Jijabai told young Shivaji stories from the Ramayana and Mahabharata — about heroes like Ram, Krishna, and Arjun — to shape his values of courage, justice, and the duty of a ruler to protect the people."
+    },
+    {
+      "id": "test_4_4",
+      "question": "What made the Mavale warriors especially valuable to Shivaji's army?",
+      "options": {
+        "A": "They were trained in Mughal cavalry tactics",
+        "B": "Their knowledge of the local mountain terrain and their physical endurance for guerrilla warfare",
+        "C": "They were skilled in building ships",
+        "D": "They had large numbers of elephants and horses"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The Mavale warriors were invaluable because they had grown up in the Western Ghats and knew every hill, pass, and pathway. This knowledge, combined with their physical endurance, made them perfect for the mountain guerrilla warfare that would define Shivaji's military strategy."
+    },
+    {
+      "id": "test_4_5",
+      "question": "Who was Shivaji's spiritual guru who also spoke of 'Hindavi Swarajya'?",
+      "options": {
+        "A": "Sant Tukaram",
+        "B": "Sant Dnyaneshwar",
+        "C": "Sant Ramdas",
+        "D": "Kabir"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Sant Ramdas was Shivaji's spiritual guru. He composed the Dasbodh and preached about 'Hindavi Swarajya' — a just rule for the people of the land. His teachings reinforced Shivaji's political and spiritual vision."
+    },
+    {
+      "id": "test_4_6",
+      "question": "Tanaji Malusare died capturing which fort?",
+      "options": {
+        "A": "Raigad",
+        "B": "Torna",
+        "C": "Kondana (Sinhagad)",
+        "D": "Pratapgad"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Tanaji Malusare, the brave Mavale commander, died while capturing Kondana fort in 1670. Shivaji was so grieved that he renamed the fort 'Sinhagad' (Lion's Fort) in Tanaji's honor."
+    },
+    {
+      "id": "test_4_7",
+      "question": "What does 'Swaraj' mean?",
+      "options": {
+        "A": "Military victory",
+        "B": "Self-rule — governance by and for the people of the land",
+        "C": "Religious pilgrimage",
+        "D": "Trade agreement"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Swaraj literally means 'self-rule' (swa = self, raj = rule). Shivaji's vision of Swaraj meant a just kingdom governed by the people of the land for their own welfare, free from foreign oppression."
+    },
+    {
+      "id": "test_4_8",
+      "question": "Where was Shivaji Maharaj born?",
+      "options": {
+        "A": "Raigad fort",
+        "B": "Shivneri fort",
+        "C": "Torna fort",
+        "D": "Sinhagad fort"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Shivaji Maharaj was born at Shivneri fort near Junnar in 1630. The fort was named Shivneri after the local goddess Shivai, and it is believed Jijabai prayed to the goddess for a brave son like Shivaji."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Nizamshahi (Ahmednagar) and Adilshahi (Bijapur) control over Maharashtra",
+      "Shahaji Raje Bhosale — Shivaji's father, served both sultanates, jagir in Pune",
+      "Jijabai — Shivaji's mother, instilled Swaraj vision through Ramayana/Mahabharata stories",
+      "Mavale warriors — hardy people of the Western Ghats valleys, Shivaji's core army",
+      "Swaraj — self-rule for the people, freedom from foreign oppression",
+      "Sant Ramdas — Shivaji's spiritual guru, concept of Hindavi Swarajya"
+    ],
+    "commonMisconceptions": [
+      "Students may think Shahaji was a rebel against the Deccan Sultanates — he was actually a loyal and valued commander; Shivaji was the one who began the rebellion.",
+      "Some think Jijabai was just a housewife — she was actually a deeply political and strategic thinker who shaped Shivaji's entire worldview.",
+      "Students sometimes confuse Swaraj as being only about Hindus — Shivaji's vision included all people of the land, including Muslims and others.",
+      "The Mavale are sometimes seen as just ordinary soldiers — they were the elite backbone of Shivaji's army, not just foot soldiers."
+    ],
+    "realWorldExamples": [
+      "The Western Ghats near Pune (Maval region) can be visited today — the rugged terrain makes it easy to understand why the Mavale were such effective mountain warriors.",
+      "Shivneri fort near Junnar is a protected monument and can be visited today — the birthplace of Shivaji.",
+      "The concept of Swaraj was later used by Bal Gangadhar Tilak and Mahatma Gandhi in India's freedom movement against British rule — showing how Shivaji's vision echoed through centuries."
+    ],
+    "formulas": []
+  }
+}

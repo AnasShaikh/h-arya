@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "chapterNumber": 13,
+    "title": "Life of the People of Medieval Maharashtra",
+    "subject": "History",
+    "pages": "57-62",
+    "description": "A social history of ordinary people in medieval Maharashtra — family structure and caste, agriculture and economy, crafts and trade, the position of women, education through pathshalas, and the magnificent architecture and rich literature of the period."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_13_1",
+      "question": "What was the dominant family structure in medieval Maharashtra?",
+      "options": {
+        "A": "Nuclear families of parents and children only",
+        "B": "Single-person households",
+        "C": "Joint families with multiple generations living together",
+        "D": "Community living in ashrams"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_13_1"
+    },
+    {
+      "id": "pre_13_2",
+      "question": "What were the main crops grown in medieval Maharashtra?",
+      "options": {
+        "A": "Cotton, Indigo, Tea",
+        "B": "Rice, Jowar, and Wheat",
+        "C": "Spices, Coffee, Rubber",
+        "D": "Sugarcane only"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_13_2"
+    },
+    {
+      "id": "pre_13_3",
+      "question": "What were 'Bakhars' in the context of medieval Maharashtra's literature?",
+      "options": {
+        "A": "Types of agricultural tools",
+        "B": "Marathi historical chronicles narrating the lives of rulers",
+        "C": "Religious hymns sung by Warkari pilgrims",
+        "D": "Trade agreements with foreign merchants"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_13_5"
+    },
+    {
+      "id": "pre_13_4",
+      "question": "Who was Ahilyabai Holkar — an important woman ruler of medieval India?",
+      "options": {
+        "A": "The wife of Shivaji Maharaj",
+        "B": "The great queen of the Holkar dynasty of Indore — famous for just rule and temple renovations",
+        "C": "The founder of the Warkari panth",
+        "D": "The first woman to fight the British"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_13_4"
+    },
+    {
+      "id": "pre_13_5",
+      "question": "What were 'Pathshalas' in medieval Maharashtra?",
+      "options": {
+        "A": "Markets for trading goods",
+        "B": "Traditional schools where boys learned reading, writing, and arithmetic",
+        "C": "Military training centers for soldiers",
+        "D": "Pilgrimage centers in Maharashtra"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_13_4"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_13_1",
+      "title": "Social Structure and Family Life",
+      "emoji": "👨‍👩‍👧‍👦",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Medieval Maharashtra had a clearly defined social structure centered on caste and the joint family system. Joint families — where grandparents, parents, children, and sometimes uncles and their families all lived together in one household — were the norm. The family elders made important decisions, and younger members showed deference and respect. The caste system divided society into hereditary occupational groups: Brahmins (priests, scholars, administrators), Kshatriyas/Marathas (warriors, rulers), Vaishyas (merchants, traders), and Shudras (artisans, farmers, laborers). Further subdivisions existed within each caste. The Panchayat system governed village affairs — a council of village elders from different castes would settle disputes, manage village resources, and represent the community to the ruler's officials. The family and panchayat were the foundation of social stability in medieval Maharashtra.",
+      "pageReference": "57-58",
+      "examples": [
+        "A joint family in a village might include three or four generations — grandparents, their sons with wives and children — sharing one household and farming land together.",
+        "The village panchayat would settle disputes about land boundaries, water rights, and family matters without needing to involve distant officials.",
+        "Artisan castes — weavers, potters, blacksmiths — lived in specific parts of the village and their children learned the family trade from a young age."
+      ],
+      "keyPoints": [
+        "Joint family: multiple generations living together — the dominant family structure.",
+        "Caste system: Brahmins, Kshatriyas/Marathas, Vaishyas, Shudras — hereditary occupational groups.",
+        "Panchayat: village council of elders that settled disputes and governed local affairs.",
+        "Deshmukhs and Patils were local hereditary leaders managing relations with the ruling power.",
+        "Society was largely agricultural — villages were the basic unit of economy and governance."
+      ],
+      "funFact": "Medieval Maharashtra had a system called 'Balutedar' — specific artisan and service castes (twelve in number: weavers, blacksmiths, carpenters, potters, etc.) who were paid annually by the village community with a share of the harvest rather than cash. This ensured year-round service and social stability in villages!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 13, Pages 57-58"
+    },
+    {
+      "id": "concept_13_2",
+      "title": "Agriculture and Economy",
+      "emoji": "🌾",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Agriculture was the backbone of medieval Maharashtra's economy. The main crops grown were rice (in the Konkan coastal region), jowar and bajra (sorghum and millet — the staple food of the Deccan plateau), and wheat in suitable areas. Cotton was also grown and was important for the textile trade. Irrigation was carried out through traditional methods: wells (vihar) dug near fields, tanks (talav) that collected rainwater, and small weirs on rivers to divert water. The harvest season determined the rhythm of village life. Farmers relied on monsoon rains — good monsoons meant prosperity, poor monsoons meant hardship. Bullocks were essential for plowing, and farming tools were primarily made of iron by the village blacksmith. Agricultural surplus was used to pay taxes and traded in weekly village markets (bazaars) and larger town markets. The economy was primarily barter-based in rural areas, though coins were used in towns and for long-distance trade.",
+      "pageReference": "58-59",
+      "examples": [
+        "A good harvest in Konkan would see ships loaded with rice from Ratnagiri traveling to Goa, Surat, and even Arabia.",
+        "The weekly bazaar in towns like Pune, Nasik, and Kolhapur was a major social and economic event where farmers, artisans, and traders came together.",
+        "Cotton from the Deccan was woven into cloth by weavers and sold locally or exported to Surat for overseas trade."
+      ],
+      "keyPoints": [
+        "Main crops: rice (Konkan), jowar/bajra (Deccan plateau), wheat, cotton.",
+        "Irrigation: wells, tanks (talavs), small weirs on rivers.",
+        "Monsoon-dependent agriculture — good rains meant prosperity.",
+        "Bullocks essential for plowing; iron tools made by village blacksmiths.",
+        "Barter-based economy in villages; coins used in towns and long-distance trade."
+      ],
+      "funFact": "The Deccan plateau's black cotton soil (called 'regur' or 'black soil') is one of the most fertile soils in the world — it can retain moisture for months after rain. Medieval farmers in Maharashtra didn't have this scientific term, but they certainly knew which lands grew the best cotton and jowar!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 13, Pages 58-59"
+    },
+    {
+      "id": "concept_13_3",
+      "title": "Crafts and Trade",
+      "emoji": "🏺",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Medieval Maharashtra had a vibrant tradition of crafts and trade. Important crafts included: weaving (cotton and silk textiles — the Paithani silk sari of Yeola/Paithan is one of the most famous), pottery, blacksmithing (iron tools, weapons), carpentry, and jewelry making. Weavers were organized into guilds (samaj) that maintained quality standards and negotiated with merchants. Surat (in neighboring Gujarat) was the most important trade port in medieval India — goods from Maharashtra flowed through Surat to Arabia, Persia, East Africa, and Europe. The Konkan coast had its own smaller ports. Traders traveled on well-established trade routes across Maharashtra — the highway from Pune to Surat was a major commercial artery. Maratha rule, especially under Shivaji, improved road safety and encouraged trade. Long-distance merchants (called Multani traders, Marwari traders) connected Maharashtra to North India and Central Asia.",
+      "pageReference": "59-60",
+      "examples": [
+        "Paithani silk sarees from Paithan were so valuable that they were often given as royal gifts — their geometric borders and peacock motifs are still prized today.",
+        "The Surat port handled ships from Arabia, Persia, East Africa, and Europe — it was a cosmopolitan city where merchants of many nations lived.",
+        "Maratha soldiers' weapons — swords, spears, shields — were made by hereditary blacksmiths who passed down their craft skills through generations."
+      ],
+      "keyPoints": [
+        "Major crafts: weaving, pottery, blacksmithing, carpentry, jewelry.",
+        "Paithani silk saree: famous textile product of medieval Maharashtra.",
+        "Surat: main trade port connecting Maharashtra to Arabia, Persia, Europe.",
+        "Weavers organized into guilds; Marwari and Multani merchants for long-distance trade.",
+        "Shivaji's improved road safety and governance encouraged trade growth."
+      ],
+      "funFact": "The Paithani saree has been woven in Paithan (near Aurangabad) for over 2,000 years — it's one of the oldest continuously produced textiles in the world. A single high-quality Paithani with gold borders can take a master weaver over a year to complete, and they are still worn at weddings and special occasions across Maharashtra!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 13, Pages 59-60"
+    },
+    {
+      "id": "concept_13_4",
+      "title": "Women in Society and Education",
+      "emoji": "📚",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Women's position in medieval Maharashtra was complex. The purdah system (veiling and seclusion) was practiced in some sections of society, particularly among upper-class urban families influenced by Mughal and Sultanate customs. Most rural women did not observe strict purdah and participated actively in farming and household crafts. However, women had limited legal and property rights. Child marriage was common. Despite these constraints, several extraordinary women left their mark on history: Jijabai (Shivaji's mother), Tarabai (who led the Maratha resistance), and Ahilyabai Holkar (Holkar queen of Indore) who governed wisely and built temples across India. Bhakti saints like Janabai (Namdev's servant) and Bahinabai composed devotional poetry. Education was provided through Pathshalas — traditional schools, primarily for boys, where a teacher (guru) taught reading, writing, and arithmetic in a single-room setting. Sanskrit was the language of higher learning; Marathi was used for everyday education.",
+      "pageReference": "60-61",
+      "examples": [
+        "Ahilyabai Holkar governed Indore with such wisdom that her subjects called her 'Maharani' — she built rest houses for pilgrims, donated to temples of all faiths, and maintained justice.",
+        "Janabai's abhangas (devotional poems) are still sung during Warkari pilgrimages — her voice as a woman saint from a humble background has survived 700 years.",
+        "A Pathshala teacher (pandit) would teach 20-30 students of different ages simultaneously — reading, writing, arithmetic, and sometimes the Ramayana and Mahabharata."
+      ],
+      "keyPoints": [
+        "Women's position: purdah in upper classes, rural women more active in farming.",
+        "Limited legal and property rights; child marriage was common.",
+        "Exceptional women: Jijabai, Tarabai, Ahilyabai Holkar — bucked societal norms.",
+        "Female Bhakti saints: Janabai, Bahinabai composed poetry that transcended social barriers.",
+        "Pathshalas: traditional schools primarily for boys — reading, writing, arithmetic, Sanskrit."
+      ],
+      "funFact": "Ahilyabai Holkar's territory of Indore (18th century) was so well administered that it had more roads, wells, and rest houses for travelers than many contemporary European kingdoms! A British East India Company official wrote that 'the people of Indore are the most contented people I have seen in India' — which says everything about her governance!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 13, Pages 60-61"
+    },
+    {
+      "id": "concept_13_5",
+      "title": "Architecture and Literature of Medieval Maharashtra",
+      "emoji": "🏯",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Medieval Maharashtra produced magnificent architecture and rich literature. Architecture: Temples of the Yadava and Hemadpanthi style (named after minister Hemadri of the Yadava dynasty) are characterized by black stone construction, pointed towers (shikhara), and intricate carvings — examples include the Vitthal temple at Pandharpur, Kopeshwar temple at Khidrapur. Forts: Raigad (Shivaji's capital) with its palace, market, and administrative buildings; Sinhagad, Pratapgad — each fort was a marvel of military architecture. Under Shivaji and the Peshwas, the palace of Shaniwarwada in Pune was built. Literature: Bakhars are the most important historical literature of medieval Maharashtra — Marathi prose chronicles narrating the history of Maratha rulers. Poetry: Sant Tukaram's abhangas and Sant Ramdas's Dasbodh are the greatest literary works of the period. Ramdas's Dasbodh is a comprehensive guide to governance, philosophy, and spirituality. The Bhakti movement created a vast tradition of Marathi devotional poetry.",
+      "pageReference": "61-62",
+      "examples": [
+        "Raigad fort's palace complex included a massive courtyard for public gatherings, a durbar hall for official functions, and a private palace for the Chhatrapati — it was a complete administrative city on a hill.",
+        "Tukaram's abhangas (over 4,000 of them) cover topics from philosophy to farming, from devotion to social criticism — a complete picture of 17th century Maharashtra.",
+        "The Dasbodh of Ramdas is still studied by scholars of Marathi literature, governance, and spirituality — it addresses everything from how to study to how to rule a kingdom."
+      ],
+      "keyPoints": [
+        "Temple architecture: Hemadpanthi style — black stone, pointed towers, intricate carvings.",
+        "Fort architecture: Raigad, Sinhagad, Pratapgad — masterpieces of military engineering.",
+        "Shaniwarwada: magnificent Peshwa palace in Pune.",
+        "Bakhars: Marathi historical chronicles — key written sources of Maratha history.",
+        "Literary legacy: Tukaram's abhangas, Ramdas's Dasbodh — two greatest literary works."
+      ],
+      "funFact": "The Dasbodh of Sant Ramdas contains 20 chapters with 200 sub-sections covering topics from personal hygiene and how to wake up in the morning to the philosophy of Advaita Vedanta to tips on how a ruler should govern! It is one of the most practical and comprehensive wisdom books ever written in Marathi!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 13, Pages 61-62"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_13_1",
+      "question": "What was the dominant family structure in medieval Maharashtra?",
+      "options": {
+        "A": "Nuclear families (only parents and children)",
+        "B": "Joint families (multiple generations living together)",
+        "C": "Community ashrams",
+        "D": "Single-person households"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Joint families — where multiple generations (grandparents, parents, children, and sometimes uncles and their families) all lived together — were the dominant family structure in medieval Maharashtra. This system provided economic security and social support."
+    },
+    {
+      "id": "test_13_2",
+      "question": "What was the staple crop of the Deccan plateau in medieval Maharashtra?",
+      "options": {
+        "A": "Rice",
+        "B": "Tea",
+        "C": "Jowar (sorghum)",
+        "D": "Spices"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Jowar (sorghum) and bajra (millet) were the staple crops of the Deccan plateau — they could grow in the semi-arid soil with less water than rice. Rice was grown primarily in the wetter Konkan coastal region."
+    },
+    {
+      "id": "test_13_3",
+      "question": "The Paithani is a famous textile product associated with which craft?",
+      "options": {
+        "A": "Pottery",
+        "B": "Blacksmithing",
+        "C": "Silk weaving",
+        "D": "Carpentry"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Paithani is a famous silk saree woven in Paithan (near Aurangabad). It is known for its geometric borders, peacock motifs, and use of gold threads. Paithani sarees have been made for over 2,000 years and are still highly valued today."
+    },
+    {
+      "id": "test_13_4",
+      "question": "Which port city was the most important trade hub for medieval Maharashtra's overseas trade?",
+      "options": {
+        "A": "Raigad",
+        "B": "Pune",
+        "C": "Surat",
+        "D": "Nasik"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Surat (in neighboring Gujarat) was the most important trade port for medieval Maharashtra. Goods from Maharashtra — cotton, textiles, spices — flowed through Surat to Arabia, Persia, East Africa, and Europe."
+    },
+    {
+      "id": "test_13_5",
+      "question": "What was the 'Hemadpanthi' style of temple architecture known for?",
+      "options": {
+        "A": "White marble construction, large domes",
+        "B": "Black stone construction, pointed towers, intricate carvings",
+        "C": "Painted walls and colored tiles",
+        "D": "Simple flat-roofed buildings with no decoration"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Hemadpanthi style of temple architecture (named after the Yadava minister Hemadri) is characterized by black basalt stone construction, pointed towers (shikharas), and intricate stone carvings. Temples like Kopeshwar at Khidrapur are fine examples."
+    },
+    {
+      "id": "test_13_6",
+      "question": "What are 'Bakhars' in medieval Marathi literature?",
+      "options": {
+        "A": "Devotional songs sung during Warkari pilgrimage",
+        "B": "Traditional herbal medicine prescriptions",
+        "C": "Marathi historical chronicles narrating the history of Maratha rulers",
+        "D": "Agricultural almanacs used by farmers"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Bakhars are Marathi prose historical chronicles — the most important historical literature of medieval Maharashtra. They narrate the lives and deeds of Maratha rulers, especially Shivaji Maharaj, and are valuable written sources for historians."
+    },
+    {
+      "id": "test_13_7",
+      "question": "The 'Dasbodh' — one of the greatest works of medieval Marathi literature — was written by:",
+      "options": {
+        "A": "Sant Tukaram",
+        "B": "Sant Dnyaneshwar",
+        "C": "Sant Ramdas",
+        "D": "Sant Eknath"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "The Dasbodh was written by Sant Ramdas — Shivaji's spiritual guru. It is a comprehensive guide covering spirituality, philosophy, governance, and practical life wisdom. It remains one of the greatest works of Marathi literature."
+    },
+    {
+      "id": "test_13_8",
+      "question": "Ahilyabai Holkar was remarkable as a woman leader because:",
+      "options": {
+        "A": "She was the first woman to fight in battle",
+        "B": "She governed Indore with extraordinary justice, built temples across India, and cared deeply for her subjects",
+        "C": "She signed a peace treaty with the British",
+        "D": "She defeated Ahmad Shah Abdali"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Ahilyabai Holkar governed the Indore kingdom with extraordinary wisdom and justice. She renovated major temples (Kashi Vishwanath, Somnath), built roads and rest houses for pilgrims, maintained fair justice, and is remembered as one of India's greatest queens."
+    },
+    {
+      "id": "test_13_9",
+      "question": "What were 'Pathshalas' and who primarily attended them?",
+      "options": {
+        "A": "Trade schools for merchants — merchants attended",
+        "B": "Military training centers — soldiers attended",
+        "C": "Traditional schools primarily for boys — teaching reading, writing, and arithmetic",
+        "D": "Religious ashrams for adult men"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Pathshalas were traditional schools where a guru (teacher) taught a group of students (primarily boys) reading, writing, arithmetic, and sometimes religious texts in a single-room setting. They were the primary form of education in medieval Maharashtra."
+    },
+    {
+      "id": "test_13_10",
+      "question": "The 'Balutedar' system in medieval Maharashtra refers to:",
+      "options": {
+        "A": "A military unit of Maratha cavalry",
+        "B": "A system where 12 artisan/service castes provided services to the village and received a share of the harvest as payment",
+        "C": "A type of fort gate",
+        "D": "A revenue collection system"
+      },
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": "The Balutedar system was a social-economic arrangement where 12 hereditary artisan and service castes (weavers, blacksmiths, carpenters, potters, etc.) served the village community throughout the year and received a portion of the annual harvest as compensation — creating a stable, self-sufficient village economy."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Joint families and caste-based panchayat system as social foundation",
+      "Agriculture: rice (Konkan), jowar/bajra (Deccan), cotton — monsoon-dependent",
+      "Crafts: weaving (Paithani), pottery, blacksmithing; trade through Surat port",
+      "Women: limited rights but exceptional leaders — Jijabai, Tarabai, Ahilyabai Holkar",
+      "Education: Pathshalas — traditional schools for boys, Sanskrit higher learning",
+      "Architecture: Hemadpanthi temples, Maratha forts (Raigad, Sinhagad), Shaniwarwada",
+      "Literature: Bakhars (historical chronicles), Tukaram's abhangas, Ramdas's Dasbodh"
+    ],
+    "commonMisconceptions": [
+      "Students sometimes think all medieval women were completely restricted — exceptional women like Tarabai and Ahilyabai show that strong women could and did lead kingdoms.",
+      "The purdah system is sometimes assumed to apply to all women — it was primarily practiced by upper-class urban families, not rural farm women.",
+      "Students may confuse Bakhars (historical prose chronicles) with Abhangas (devotional poetry) — they are distinct literary forms.",
+      "The Balutedar system is sometimes seen as exploitation — it was actually a sustainable economic system that provided year-round security to artisans and services to farmers."
+    ],
+    "realWorldExamples": [
+      "Paithani sarees are still woven in Yeola and Paithan — visiting these weaving centers is like stepping into medieval Maharashtra's craft tradition.",
+      "The ruins of Raigad fort can be reached by a ropeway today — the coronation platform of Shivaji is still visible, connecting students directly to medieval history.",
+      "Weekly bazaars (sabji mandis and local markets) in rural Maharashtra today are the direct descendants of the medieval weekly markets where farmers sold their produce."
+    ],
+    "formulas": []
+  }
+}

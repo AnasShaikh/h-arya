@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "chapterNumber": 9,
+    "title": "The Maratha War of Independence",
+    "subject": "History",
+    "pages": "37-43",
+    "description": "The heroic Maratha struggle to preserve Swaraj after Shivaji's death — Sambhaji's sacrifice, Rajaram's guerrilla resistance, the extraordinary Tarabai leading the Marathas, Aurangzeb's ruinous 27-year Deccan war, and the restoration under Shahu Maharaj."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_9_1",
+      "question": "What happened to Sambhaji Maharaj in 1689?",
+      "options": {
+        "A": "He signed a peace treaty with Aurangzeb",
+        "B": "He was captured by Aurangzeb and executed after refusing to convert",
+        "C": "He died in battle at Panipat",
+        "D": "He became the Peshwa of the Maratha empire"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_9_1"
+    },
+    {
+      "id": "pre_9_2",
+      "question": "Who was Tarabai?",
+      "options": {
+        "A": "Shivaji's daughter",
+        "B": "The wife of Rajaram Maharaj who led the Maratha resistance after his death",
+        "C": "The queen of the Nizamshahi",
+        "D": "Sant Tukaram's wife"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_9_3"
+    },
+    {
+      "id": "pre_9_3",
+      "question": "How many years did Aurangzeb spend fighting the Marathas in the Deccan?",
+      "options": {
+        "A": "10 years",
+        "B": "15 years",
+        "C": "20 years",
+        "D": "27 years"
+      },
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "conceptId": "concept_9_4"
+    },
+    {
+      "id": "pre_9_4",
+      "question": "Shahu Maharaj was released by the Mughals after whose death?",
+      "options": {
+        "A": "Shahaji Raje's death",
+        "B": "Sambhaji's death",
+        "C": "Aurangzeb's death in 1707",
+        "D": "Tarabai's death"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_9_5"
+    },
+    {
+      "id": "pre_9_5",
+      "question": "Rajaram Maharaj continued the Maratha resistance against Aurangzeb from which fort?",
+      "options": {
+        "A": "Raigad",
+        "B": "Sinhagad",
+        "C": "Jinji (in Tamil Nadu)",
+        "D": "Torna"
+      },
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "conceptId": "concept_9_2"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_9_1",
+      "title": "Sambhaji Maharaj's Sacrifice",
+      "emoji": "🔥",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Sambhaji Maharaj was Shivaji's son and the second Chhatrapati. He continued the fight against Aurangzeb's massive Deccan campaign after Shivaji's death in 1680. Sambhaji was a brave, highly educated ruler who also wrote poetry in Sanskrit. In 1689, he was betrayed by one of his own courtiers and captured by Aurangzeb's forces near Sangameshwar. Aurangzeb reportedly asked Sambhaji to reveal the hiding places of Maratha treasure and the names of all his officers, and to convert to Islam — in return for his life. Sambhaji refused all demands. He was subjected to terrible torture for several days but did not reveal any information or abandon his faith. On 11 March 1689, Sambhaji Maharaj was executed. His sacrifice galvanized the Marathas — far from crushing the resistance, Sambhaji's death made Maratha fighters more determined than ever to preserve Swaraj.",
+      "pageReference": "37-38",
+      "examples": [
+        "Even under severe torture, Sambhaji refused to reveal the location of Maratha forts and treasuries — protecting his soldiers and kingdom.",
+        "Aurangzeb reportedly could not believe that a prisoner would refuse to convert even to save his own life.",
+        "The news of Sambhaji's execution reached every corner of Maharashtra and hardened the resolve of every Maratha warrior."
+      ],
+      "keyPoints": [
+        "Sambhaji: Shivaji's son, second Chhatrapati, brave and educated ruler.",
+        "Captured in 1689 near Sangameshwar by Mughal forces after betrayal.",
+        "Aurangzeb demanded conversion and information about Maratha positions — Sambhaji refused.",
+        "Executed on 11 March 1689 after refusing to betray the Swaraj.",
+        "His sacrifice united and determined the Marathas to fight even harder."
+      ],
+      "funFact": "Sambhaji was also a scholar and poet who wrote a Sanskrit work called 'Budhbhushana' — showing that he was not just a warrior but an intellectual. The combination of scholarly excellence and martial courage makes his sacrifice even more remarkable!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 9, Pages 37-38"
+    },
+    {
+      "id": "concept_9_2",
+      "title": "Rajaram Maharaj and Continued Resistance",
+      "emoji": "🏃",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "After Sambhaji's execution, Rajaram Maharaj (Shivaji's second son) became the third Chhatrapati. He inherited a desperate situation — Aurangzeb's massive army was everywhere in Maharashtra. Rajaram made a bold decision: rather than remain at Raigad (which fell to Mughals in 1689) and face capture, he escaped to Jinji fort in Tamil Nadu (far south) with a core group of loyal soldiers. From Jinji — thousands of kilometers from Maharashtra — Rajaram continued to direct the Maratha resistance for years. Meanwhile, in Maharashtra, Maratha commanders like Santaji Ghorpade and Dhanaji Jadhav fought a brilliant guerrilla campaign against Aurangzeb's army, keeping the Mughals constantly off-balance. Aurangzeb's generals could never convert military victories into permanent occupation. Rajaram returned to Maharashtra before his death in 1700, but the resistance he had organized continued.",
+      "pageReference": "38-39",
+      "examples": [
+        "Rajaram's escape to Jinji showed strategic genius — by moving far away from the Mughal main force, he preserved the Maratha leadership.",
+        "Santaji Ghorpade's cavalry raids on Mughal supply lines and camps were so devastating that Aurangzeb reportedly had to personally reorganize his camp several times.",
+        "Even after Raigad fell, the Maratha spirit was not defeated — dozens of other forts continued to resist."
+      ],
+      "keyPoints": [
+        "Rajaram became third Chhatrapati after Sambhaji's execution.",
+        "Escaped to Jinji fort in Tamil Nadu to continue resistance away from Mughal pressure.",
+        "Directed Maratha resistance from Jinji for years.",
+        "Commanders Santaji Ghorpade and Dhanaji Jadhav brilliantly maintained guerrilla warfare in Maharashtra.",
+        "Rajaram returned to Maharashtra and died in 1700 — but resistance continued."
+      ],
+      "funFact": "Jinji fort in Tamil Nadu withstood an 8-year siege by Aurangzeb's forces — one of the longest fort sieges in Indian history. The Marathas inside the fort used every trick of fortification defense and guerrilla tactics to survive!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 9, Pages 38-39"
+    },
+    {
+      "id": "concept_9_3",
+      "title": "Tarabai — Queen Warrior",
+      "emoji": "👸",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "When Rajaram Maharaj died in 1700, his wife Tarabai took control of the Maratha resistance on behalf of her young son Shivaji II. Tarabai was one of the most remarkable leaders in Indian history — a woman who led a kingdom in the face of Aurangzeb's overwhelming military force. She personally organized and directed Maratha military campaigns, appointed commanders, managed diplomacy, and kept the Swaraj alive through sheer determination and political intelligence. Under her leadership (1700-1707), the Maratha forces actually went on the offensive — raiding into Mughal territory in Gujarat, Malwa, and even threatening the Mughal heartland. She proved to be as formidable an opponent as Shivaji had been. Aurangzeb, who had been fighting the Marathas for decades hoping for a final victory, found that Tarabai's leadership was as effective as any of the male Maratha leaders before her.",
+      "pageReference": "39-40",
+      "examples": [
+        "Tarabai organized raids into Gujarat and Malwa — far from Maharashtra — showing that the Maratha resistance had become an offensive power under her leadership.",
+        "She personally reviewed military plans and is reported to have had a deep understanding of warfare and strategy.",
+        "Aurangzeb wrote in his letters that the Maratha resistance under Tarabai was as formidable as ever — an extraordinary admission about a woman opponent."
+      ],
+      "keyPoints": [
+        "Tarabai: wife of Rajaram Maharaj, led Maratha resistance 1700-1707.",
+        "Governed as regent for her young son Shivaji II.",
+        "Organized military campaigns, appointed commanders, managed diplomacy.",
+        "Under her leadership Marathas went on offense — raiding into Mughal Gujarat and Malwa.",
+        "One of the most remarkable women leaders in Indian history."
+      ],
+      "funFact": "Tarabai lived until 1761 — she was alive to see the Third Battle of Panipat, the tragedy that she had predicted Maratha overconfidence would lead to. She outlived Aurangzeb, the Peshwas who sidelined her, and the Battle of Panipat — a witness to almost a century of Maratha history!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 9, Pages 39-40"
+    },
+    {
+      "id": "concept_9_4",
+      "title": "Aurangzeb's Failure in the Deccan",
+      "emoji": "💸",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Aurangzeb came to the Deccan in 1681 with the most powerful army in Asia — hundreds of thousands of soldiers, vast resources, and the full might of the Mughal empire. His goal was simple: destroy the Maratha Swaraj and absorb the Deccan into the Mughal empire. Instead, he spent the last 27 years of his 90-year life in the Deccan, fighting, and ultimately failing. The campaign ruined the Mughal empire financially — maintaining such a massive army for decades depleted the imperial treasury. Aurangzeb absorbed the remaining Deccan Sultanates (Adilshahi in 1686, Qutbshahi in 1687) — but these victories only brought more problems, as Maratha guerrilla warfare spread across a wider area. When Aurangzeb died in Ahmednagar in 1707 (ironically, in Maharashtra — the land he had tried to conquer), he reportedly wrote a sorrowful letter confessing that he had failed and did not know what would happen to his empire. His 27-year Deccan war had broken the Mughal empire — it never recovered.",
+      "pageReference": "40-41",
+      "examples": [
+        "Aurangzeb's army at its peak had over 500,000 soldiers in the Deccan — yet it could not defeat the Maratha guerrilla resistance.",
+        "Aurangzeb's deathbed letter (preserved in archives) expresses his failure and confusion — he wonders how he lost despite having the biggest army in Asia.",
+        "After Aurangzeb's death, the Mughal empire rapidly fragmented — the 27-year Deccan drain had made the empire too weak to hold together."
+      ],
+      "keyPoints": [
+        "Aurangzeb came to Deccan in 1681 with the most powerful army in Asia.",
+        "Fought for 27 years — absorbed Adilshahi (1686) and Qutbshahi (1687) but couldn't defeat Marathas.",
+        "Campaign ruined Mughal finances — treasury depleted.",
+        "Aurangzeb died in Ahmednagar (1707) — in Maharashtra — having failed his objective.",
+        "His dying letter confessed failure; after his death the Mughal empire rapidly declined."
+      ],
+      "funFact": "Aurangzeb died at age 90 — the oldest Mughal emperor — but spent the last third of his life in Maharashtra trying to crush the Marathas. His massive royal camp that traveled with him was like a moving city of hundreds of thousands of people — and it was often raided by nimble Maratha cavalry!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 9, Pages 40-41"
+    },
+    {
+      "id": "concept_9_5",
+      "title": "Shahu Maharaj and the Restoration of Swaraj",
+      "emoji": "🌅",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Sambhaji's son Shahu had been taken prisoner by Aurangzeb after the fall of Raigad in 1689. He spent years at the Mughal court, growing up as a Mughal captive but never losing his Maratha identity. When Aurangzeb died in 1707, the new Mughal emperor Muazzam (Bahadur Shah I) released Shahu as part of a political strategy to create division among Marathas. Shahu returned to Maharashtra and established himself as Chhatrapati at Satara in 1707 (competing with Tarabai's claim). The Maratha civil dispute was eventually resolved and Shahu became the accepted Chhatrapati. Under Shahu Maharaj, the Maratha empire entered a new expansionary phase. He relied heavily on capable Peshwas — first Balaji Vishwanath and then the legendary Bajirao I — who transformed the Maratha kingdom from a defensive Swaraj into an expanding empire that would eventually control much of India.",
+      "pageReference": "41-43",
+      "examples": [
+        "Shahu's return from Mughal captivity showed that 20+ years of Mughal influence had not changed his fundamental Maratha identity.",
+        "Shahu was a wise ruler who recognized that able Peshwas were his greatest asset — he gave them power and support to expand the Maratha empire.",
+        "The Satara capital under Shahu became the political center of a Maratha empire that would soon extend to Punjab in the north."
+      ],
+      "keyPoints": [
+        "Shahu (Sambhaji's son) held captive by Mughals from 1689.",
+        "Released in 1707 after Aurangzeb's death by new Mughal emperor as a political move.",
+        "Returned to Maharashtra, became Chhatrapati at Satara 1707.",
+        "Under Shahu, the Maratha empire began expanding — phase of Peshwa leadership began.",
+        "Shahu's wise delegation to Peshwas Balaji Vishwanath and Bajirao I transformed the kingdom."
+      ],
+      "funFact": "Shahu Maharaj's magnanimous treatment of Tarabai — his rival for the Chhatrapati position — showed his political wisdom. Rather than imprisoning or executing her, he eventually reached an accommodation that allowed Maratha unity to be maintained. This statesmanship was as important as any military victory!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 9, Pages 41-43"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_9_1",
+      "question": "On what date was Sambhaji Maharaj executed by Aurangzeb?",
+      "options": {
+        "A": "6 June 1674",
+        "B": "3 April 1680",
+        "C": "11 March 1689",
+        "D": "14 January 1761"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Sambhaji Maharaj was executed by Aurangzeb on 11 March 1689, after being captured near Sangameshwar. He refused to reveal Maratha information or convert to Islam even under torture."
+    },
+    {
+      "id": "test_9_2",
+      "question": "Why did Rajaram Maharaj escape to Jinji fort in Tamil Nadu?",
+      "options": {
+        "A": "He was exiled by the Maratha nobles",
+        "B": "To avoid capture by Aurangzeb's forces and continue the resistance from a safe base far from Mughal pressure",
+        "C": "To establish a new Maratha kingdom in the south",
+        "D": "To seek help from the Vijayanagar Empire"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Rajaram escaped to Jinji (in present-day Tamil Nadu) because it was far from Aurangzeb's main army. From there, he could continue directing the Maratha resistance without risking capture, while Maratha commanders maintained the guerrilla war in Maharashtra."
+    },
+    {
+      "id": "test_9_3",
+      "question": "What made Tarabai's leadership historically remarkable?",
+      "options": {
+        "A": "She was the first woman to convert to Islam",
+        "B": "She was a woman who led the Maratha military resistance against the most powerful empire in Asia",
+        "C": "She built the Shaniwarwada palace",
+        "D": "She signed peace with Aurangzeb"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Tarabai was remarkable because she — a woman in the 17th century — successfully led the military and political resistance of the Maratha kingdom against Aurangzeb's overwhelming force after her husband Rajaram died. Under her leadership, the Marathas even went on offensive raids into Mughal territory."
+    },
+    {
+      "id": "test_9_4",
+      "question": "How did Aurangzeb's 27-year Deccan campaign affect the Mughal Empire?",
+      "options": {
+        "A": "It made the Mughal Empire stronger by adding Deccan wealth",
+        "B": "It had no significant effect on the empire",
+        "C": "It ruined the Mughal treasury and depleted its army, leading to the rapid decline of the empire after Aurangzeb's death",
+        "D": "It allowed the Mughals to conquer all of South India"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "The 27-year Deccan campaign bankrupted the Mughal treasury and exhausted the imperial army. After Aurangzeb's death in 1707, the Mughal empire fragmented rapidly as it no longer had the financial or military resources to maintain central authority."
+    },
+    {
+      "id": "test_9_5",
+      "question": "Where did Aurangzeb die in 1707?",
+      "options": {
+        "A": "Delhi",
+        "B": "Agra",
+        "C": "Ahmednagar (Maharashtra)",
+        "D": "Bijapur"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Aurangzeb died in Ahmednagar, Maharashtra in 1707 — in the very territory he had spent 27 years trying to conquer. He died still fighting the Marathas, having failed to destroy the Swaraj that Shivaji had founded."
+    },
+    {
+      "id": "test_9_6",
+      "question": "What was Shahu Maharaj's contribution to the expansion of Maratha power?",
+      "options": {
+        "A": "He defeated Aurangzeb personally in battle",
+        "B": "He recognized and empowered capable Peshwas like Balaji Vishwanath and Bajirao I who expanded the empire",
+        "C": "He signed a permanent peace with the Mughals",
+        "D": "He built the Shaniwarwada palace"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Shahu Maharaj's key contribution was wise governance — he identified and empowered capable Peshwas, especially Balaji Vishwanath and Bajirao I. These Peshwas transformed the Maratha kingdom from a defensive Swaraj into an expanding pan-Indian empire."
+    },
+    {
+      "id": "test_9_7",
+      "question": "Santaji Ghorpade and Dhanaji Jadhav were known for:",
+      "options": {
+        "A": "Their work as revenue administrators under Shivaji",
+        "B": "Brilliant guerrilla cavalry raids against Aurangzeb's forces in Maharashtra",
+        "C": "Building sea forts along the Konkan coast",
+        "D": "Negotiating with European traders"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Santaji Ghorpade and Dhanaji Jadhav were the great Maratha cavalry commanders who maintained the guerrilla war in Maharashtra while Rajaram was at Jinji. Their brilliant raids on Mughal camps and supply lines kept the resistance alive."
+    },
+    {
+      "id": "test_9_8",
+      "question": "Who was Shahu Maharaj?",
+      "options": {
+        "A": "Shivaji's son who became the second Chhatrapati",
+        "B": "Sambhaji's son who was held captive by Mughals and later became Chhatrapati",
+        "C": "The Peshwa who expanded the Maratha empire to Delhi",
+        "D": "Rajaram's brother who fought Aurangzeb"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Shahu was Sambhaji Maharaj's son. He was captured by Aurangzeb's forces as a child in 1689 after Raigad fell. After Aurangzeb's death in 1707, the new Mughal emperor released him. He returned to Maharashtra and became the Chhatrapati at Satara."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Sambhaji Maharaj: captured 1689, executed for refusing to convert or betray Swaraj",
+      "Rajaram Maharaj: continued resistance from Jinji fort in Tamil Nadu",
+      "Tarabai: wife of Rajaram, led Maratha resistance 1700-1707 against Aurangzeb",
+      "Aurangzeb's 27-year Deccan war: ruined Mughal finances, died in Ahmednagar 1707",
+      "Shahu Maharaj: Sambhaji's son, released 1707, became Chhatrapati, empowered Peshwas"
+    ],
+    "commonMisconceptions": [
+      "Students sometimes think the Marathas were completely defeated after Sambhaji's death — in fact it made them more determined and the resistance intensified.",
+      "Some think Tarabai was only a symbolic leader — she was actually an effective military strategist who directed offensive campaigns.",
+      "Students may not realize Aurangzeb failed in his primary objective — despite capturing Raigad and executing Sambhaji, he never destroyed Swaraj.",
+      "Shahu's release by the Mughals is sometimes seen as a favor — it was actually a political maneuver to divide Marathas, but Shahu was too wise to be manipulated."
+    ],
+    "realWorldExamples": [
+      "Jinji fort in Tamil Nadu can still be visited — a testament to the extraordinary lengths the Marathas went to preserve their Swaraj.",
+      "Sambhaji Maharaj's shrine at Tulapur (where he was executed) near Pune is visited by thousands — his sacrifice is remembered every year.",
+      "The Maratha war of resistance against Aurangzeb is studied in military history as one of the earliest successful resistance movements against an overwhelming imperial power."
+    ],
+    "formulas": []
+  }
+}

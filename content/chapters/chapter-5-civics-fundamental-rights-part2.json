@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "chapterNumber": 5,
+    "title": "Fundamental Rights — Part 2",
+    "subject": "Civics",
+    "pages": "80-82",
+    "description": "Covering the remaining Fundamental Rights — Right to Freedom of Religion, Cultural and Educational Rights, Right to Constitutional Remedies (the 'heart and soul' of the Constitution), and the Right to Education added in 2002."
+  },
+  "preAssessment": [
+    {
+      "id": "pre-5-1",
+      "question": "Which Fundamental Right did Dr. B.R. Ambedkar call the 'heart and soul of the Constitution'?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom of Religion",
+        "Right to Constitutional Remedies",
+        "Right to Education"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. B.R. Ambedkar called the Right to Constitutional Remedies (Article 32) the 'heart and soul of the Constitution' because without it, all other rights would be meaningless."
+    },
+    {
+      "id": "pre-5-2",
+      "question": "What does the Right to Freedom of Religion mean?",
+      "options": [
+        "Only one religion is allowed in India",
+        "Citizens can freely profess, practise, and propagate their religion",
+        "The government decides which religion people must follow",
+        "Religion is banned in public places"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Right to Freedom of Religion means every citizen can freely profess, practise, and propagate their religion. The state does not interfere in religious matters of individuals."
+    },
+    {
+      "id": "pre-5-3",
+      "question": "Which article provides free and compulsory education for children aged 6-14?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 21A",
+        "Article 32"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 21A, added by the 86th Amendment in 2002, provides the right to free and compulsory education for all children between 6 and 14 years of age."
+    },
+    {
+      "id": "pre-5-4",
+      "question": "Under the Cultural and Educational Rights, who has the right to establish educational institutions?",
+      "options": [
+        "Only the government",
+        "Only wealthy citizens",
+        "Minority communities based on religion or language",
+        "Only political parties"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Articles 29-30, minority communities based on religion or language have the right to establish and administer their own educational institutions."
+    },
+    {
+      "id": "pre-5-5",
+      "question": "Under Article 32, where can a citizen go if their Fundamental Right is violated?",
+      "options": [
+        "District Court",
+        "Police Station",
+        "Supreme Court of India",
+        "State Legislature"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 32 gives citizens the right to directly approach the Supreme Court of India for the enforcement of Fundamental Rights."
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept-5-1",
+      "title": "Right to Freedom of Religion (Articles 25-28)",
+      "emoji": "🕌",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Articles 25-28 guarantee the Right to Freedom of Religion. Article 25 gives every person the freedom of conscience and the right to freely profess, practise, and propagate religion. Article 26 allows religious denominations to manage their own religious affairs. Article 27 ensures that no one is compelled to pay taxes specifically for the promotion of any religion. Article 28 says that no religious instruction shall be provided in government-funded educational institutions. This protects India's secular character while guaranteeing personal religious freedom.",
+      "pageReference": "80",
+      "examples": [
+        "Article 25: A Muslim can practise namaz, a Hindu can perform puja, and a Christian can attend church — all freely and equally.",
+        "Article 28: A government school cannot make students pray from any particular religion's scripture as a compulsory activity.",
+        "Article 26: A temple trust can manage its own affairs — the government cannot interfere in internal religious management."
+      ],
+      "keyPoints": [
+        "Article 25 — Freedom of conscience; right to profess, practise, and propagate religion.",
+        "Article 26 — Every religious denomination can manage its own religious affairs.",
+        "Article 27 — No compulsion to pay taxes for promotion of any particular religion.",
+        "Article 28 — No religious instruction in state-funded educational institutions.",
+        "Religious freedom is subject to public order, morality, and health."
+      ],
+      "funFact": "India has over 1000 religious festivals celebrated across the country throughout the year — Diwali, Eid, Christmas, Guru Nanak Jayanti, Mahavir Jayanti, and many more — all protected by the Right to Freedom of Religion!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 5, Page 80"
+    },
+    {
+      "id": "concept-5-2",
+      "title": "Cultural and Educational Rights (Articles 29-30)",
+      "emoji": "📚",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Articles 29-30 protect the cultural and educational rights of minorities. Article 29 gives every section of citizens the right to conserve its distinct language, script, or culture. The government cannot force any culture or language on citizens. Article 30 gives all minorities — whether based on religion or language — the right to establish and administer their own educational institutions. The state cannot discriminate against minority educational institutions when granting aid. These rights protect India's rich diversity of languages, cultures, and communities.",
+      "pageReference": "80-81",
+      "examples": [
+        "Article 29: Marathi-speaking people have the right to preserve and promote the Marathi language and culture.",
+        "Article 30: Christian missionaries can run their own schools (like Jesuit schools); Muslims can run Urdu-medium institutions.",
+        "The Urdu medium schools running in Maharashtra with government grants is an example of Article 30 in practice."
+      ],
+      "keyPoints": [
+        "Article 29 — Right to conserve distinct language, script, or culture.",
+        "Article 30 — Minorities (religious or linguistic) can establish and administer their own educational institutions.",
+        "The state cannot deny grants to minority educational institutions on grounds of religious or linguistic difference.",
+        "These rights protect cultural diversity and the identity of minority communities.",
+        "These rights belong to both individuals and communities, not just to minority groups."
+      ],
+      "funFact": "India has 22 official languages recognised in the Eighth Schedule of the Constitution, and hundreds more spoken across the country — the Cultural and Educational Rights help all these linguistic communities preserve their heritage!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 5, Page 80-81"
+    },
+    {
+      "id": "concept-5-3",
+      "title": "Right to Constitutional Remedies (Article 32)",
+      "emoji": "⚖️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Article 32 is called the 'heart and soul of the Constitution' by Dr. B.R. Ambedkar. It gives every citizen the right to directly approach the Supreme Court if any of their Fundamental Rights are violated. The Supreme Court can issue five types of writs — Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto — to enforce Fundamental Rights. Without Article 32, all other Fundamental Rights would be just empty promises. High Courts can also issue writs under Article 226 for enforcement of rights.",
+      "pageReference": "81-82",
+      "examples": [
+        "A citizen whose freedom of speech is wrongly suppressed can directly file a petition in the Supreme Court under Article 32.",
+        "A person illegally imprisoned can seek Habeas Corpus from the Supreme Court to secure their release.",
+        "A journalist denied the right to publish can approach the Supreme Court under Article 32 to restore their freedom of expression."
+      ],
+      "keyPoints": [
+        "Article 32 — Right to move the Supreme Court for enforcement of Fundamental Rights.",
+        "Dr. B.R. Ambedkar called Article 32 the 'heart and soul of the Constitution.'",
+        "The Supreme Court can issue five writs to enforce Fundamental Rights.",
+        "Without Article 32, other Fundamental Rights would be unenforceable.",
+        "High Courts also have writ jurisdiction under Article 226 (broader than Article 32)."
+      ],
+      "funFact": "Article 32 itself is a Fundamental Right — the right to get your other rights enforced! Dr. Ambedkar said it cannot be taken away without destroying the Constitution itself, making it the most protected of all rights.",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 5, Page 81-82"
+    },
+    {
+      "id": "concept-5-4",
+      "title": "Right to Education (Article 21A)",
+      "emoji": "🏫",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Article 21A was added to the Constitution by the 86th Amendment in 2002. It makes education a Fundamental Right. It states that the state shall provide free and compulsory education to all children between the ages of 6 and 14 years. This gave education the status of a legal right, meaning the government is constitutionally obligated to provide schooling to all children. This was further strengthened by the Right to Education Act (RTE Act) passed in 2009, which provides detailed rules for implementation.",
+      "pageReference": "82",
+      "examples": [
+        "Because of Article 21A and the RTE Act, no school can deny admission to a child between 6-14 years of age.",
+        "Private unaided schools must reserve 25% of their seats for economically weaker sections under the RTE Act.",
+        "The government mid-day meal scheme in schools supports the Right to Education by encouraging attendance."
+      ],
+      "keyPoints": [
+        "Article 21A was added by the 86th Amendment in 2002.",
+        "It provides free and compulsory education for all children aged 6-14 years.",
+        "Education became a Fundamental Right — the government must ensure it.",
+        "The Right to Education Act (RTE) 2009 implements this Constitutional provision.",
+        "Private schools must reserve 25% seats for economically weaker sections under RTE."
+      ],
+      "funFact": "Before 2002, education was only a Directive Principle (non-enforceable). The 86th Amendment upgraded it to a Fundamental Right — making India one of the few countries in the world to guarantee free education as a constitutional right!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 5, Page 82"
+    },
+    {
+      "id": "concept-5-5",
+      "title": "Importance of Fundamental Rights as a Whole",
+      "emoji": "🌟",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "The six Fundamental Rights together form a comprehensive shield protecting Indian citizens. They protect individual dignity (equality, freedom from exploitation), personal freedom (freedom of speech, religion, movement), community identity (cultural and educational rights), and the mechanism to enforce all rights (constitutional remedies). They apply against actions of the state (government). Some rights like the Right against Exploitation also apply between private individuals. Fundamental Rights make Indian democracy meaningful by ensuring that every citizen — regardless of background — has equal standing in society and before the law.",
+      "pageReference": "80-82",
+      "examples": [
+        "A Dalit child has the same right to education in any school as any other child — Rights to Equality and Education working together.",
+        "A journalist can write about government corruption without fear — Right to Freedom of Speech protecting democracy.",
+        "A tribal community can maintain its language and customs — Cultural Rights protecting India's diversity."
+      ],
+      "keyPoints": [
+        "The 6 Fundamental Rights together protect all aspects of an individual's life and dignity.",
+        "They are enforceable in courts — unlike Directive Principles which are not enforceable.",
+        "Fundamental Rights apply primarily against the state (government), not private individuals.",
+        "They can be suspended during a National Emergency (except Articles 20 and 21).",
+        "The Right to Constitutional Remedies ensures all other rights have teeth — they can actually be enforced."
+      ],
+      "funFact": "India's Fundamental Rights chapter is one of the most comprehensive in the world. Even countries like the USA do not have a constitutionally guaranteed Right to Education or Right to Constitutional Remedies (Article 32) of this kind in their constitution!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 5, Page 80-82"
+    }
+  ],
+  "test": [
+    {
+      "id": "test-5-1",
+      "question": "Which article of the Indian Constitution did Dr. B.R. Ambedkar call the 'heart and soul of the Constitution'?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 32",
+        "Article 21A"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. B.R. Ambedkar called Article 32 (Right to Constitutional Remedies) the 'heart and soul of the Constitution' because it makes all other Fundamental Rights enforceable."
+    },
+    {
+      "id": "test-5-2",
+      "question": "What does Article 25 of the Constitution guarantee?",
+      "options": [
+        "Right to equality before law",
+        "Freedom of conscience and right to practise and propagate religion",
+        "Right to education",
+        "Abolition of untouchability"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 25 guarantees freedom of conscience and the right to freely profess, practise, and propagate religion."
+    },
+    {
+      "id": "test-5-3",
+      "question": "Which amendment added Article 21A (Right to Education) to the Constitution?",
+      "options": [
+        "42nd Amendment, 1976",
+        "61st Amendment, 1988",
+        "86th Amendment, 2002",
+        "91st Amendment, 2003"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 86th Amendment in 2002 added Article 21A to the Constitution, making free and compulsory education a Fundamental Right for children aged 6-14."
+    },
+    {
+      "id": "test-5-4",
+      "question": "For which age group does Article 21A guarantee free and compulsory education?",
+      "options": [
+        "3 to 10 years",
+        "5 to 12 years",
+        "6 to 14 years",
+        "6 to 18 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 21A guarantees free and compulsory education for all children between 6 and 14 years of age."
+    },
+    {
+      "id": "test-5-5",
+      "question": "What do Cultural and Educational Rights (Articles 29-30) protect?",
+      "options": [
+        "Only Hindus can open schools",
+        "Minority communities can preserve their culture and establish their own educational institutions",
+        "All schools must teach only national culture",
+        "Citizens must adopt the culture of the majority"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Articles 29-30 protect the right of minority communities to conserve their language and culture, and to establish and administer their own educational institutions."
+    },
+    {
+      "id": "test-5-6",
+      "question": "What does Article 28 say about religious instruction?",
+      "options": [
+        "All students must learn all religions",
+        "No religious instruction shall be given in state-funded educational institutions",
+        "Religious instruction is compulsory in government schools",
+        "Only national religion should be taught"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 28 states that no religious instruction shall be provided in educational institutions wholly maintained out of state funds, protecting the secular nature of government education."
+    },
+    {
+      "id": "test-5-7",
+      "question": "What is the main Act passed in 2009 to implement the Right to Education?",
+      "options": [
+        "The Child Labour Act",
+        "The Education for All Act",
+        "The Right to Education Act (RTE Act)",
+        "The National Education Policy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Right to Education (RTE) Act was passed in 2009 to implement the constitutional provision under Article 21A for free and compulsory education."
+    },
+    {
+      "id": "test-5-8",
+      "question": "Under Article 30, which communities can establish their own educational institutions?",
+      "options": [
+        "Only majority communities",
+        "Only the government",
+        "Only wealthy private organisations",
+        "All minorities — whether based on religion or language"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Article 30 gives all minorities — whether based on religion or language — the right to establish and administer their own educational institutions."
+    },
+    {
+      "id": "test-5-9",
+      "question": "Which article allows a citizen to directly approach the Supreme Court if their Fundamental Rights are violated?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 29",
+        "Article 32"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Article 32 gives citizens the right to directly approach the Supreme Court for the enforcement of their Fundamental Rights."
+    },
+    {
+      "id": "test-5-10",
+      "question": "During which situation can Fundamental Rights (except Articles 20 and 21) be suspended?",
+      "options": [
+        "During state elections",
+        "During a National Emergency",
+        "When Parliament is in session",
+        "During state budget sessions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "During a National Emergency (under Article 352), most Fundamental Rights can be suspended, except the rights under Articles 20 (protection against arbitrary conviction) and 21 (right to life and personal liberty)."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Right to Freedom of Religion: Articles 25-28 — profess, practise, propagate religion; no state religion; no religious instruction in state schools",
+      "Cultural and Educational Rights: Articles 29-30 — minorities can preserve culture and language, establish educational institutions",
+      "Right to Constitutional Remedies: Article 32 — go to Supreme Court if rights violated; writs",
+      "Dr. Ambedkar called Article 32 'heart and soul of the Constitution'",
+      "Right to Education: Article 21A added by 86th Amendment 2002 — free and compulsory education for 6-14 year olds",
+      "RTE Act 2009 implements Article 21A",
+      "Private schools must reserve 25% seats for economically weaker sections under RTE"
+    ],
+    "commonMisconceptions": [
+      "Students confuse Article 32 (Supreme Court) with Article 226 (High Courts) — both can issue writs but Article 32 is the Fundamental Right itself.",
+      "Some think Right to Education applies to all ages — it specifically covers children aged 6 to 14 years.",
+      "Students may think minorities means only religious minorities — Article 30 includes linguistic minorities too.",
+      "Article 28 is often misunderstood as banning religion from all schools — it only applies to institutions wholly funded by the state.",
+      "Students may think Fundamental Rights existed the same way from the start — Article 21A was only added in 2002."
+    ],
+    "realWorldExamples": [
+      "Article 21A and RTE: Government primary schools, mid-day meal scheme, and 25% reservation in private schools under RTE Act.",
+      "Article 32: Supreme Court Public Interest Litigations (PILs) where citizens challenge government actions that violate rights.",
+      "Article 30: Minority educational institutions like Aligarh Muslim University, St. Xavier's colleges operate under this protection.",
+      "Article 25: Muslim men taking leave for Eid prayer, Sikh men carrying the kirpan — both protected under freedom of religion.",
+      "Article 29: Marathi Sahitya Sammelan, Tamil Sangam — cultural organisations preserving regional languages under this right."
+    ],
+    "formulas": []
+  }
+}

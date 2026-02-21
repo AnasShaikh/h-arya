@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "chapterNumber": 6,
+    "title": "Conflict with the Mughals",
+    "subject": "History",
+    "pages": "24-28",
+    "description": "The sustained conflict between Shivaji Maharaj and the Mughal Empire — the Shaista Khan episode, the sacking of Surat, the Purandardar Treaty, the Agra imprisonment and escape, and the development of Maratha guerrilla warfare (ganimi kava)."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_6_1",
+      "question": "Who was Shaista Khan?",
+      "options": {
+        "A": "An Adilshahi general sent to fight Shivaji",
+        "B": "Aurangzeb's maternal uncle sent to invade Maratha territory",
+        "C": "A Rajput general who signed the Purandardar Treaty",
+        "D": "An English trader at Surat"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_6_1"
+    },
+    {
+      "id": "pre_6_2",
+      "question": "What is 'ganimi kava'?",
+      "options": {
+        "A": "A type of Maratha sword",
+        "B": "The guerrilla warfare tactics used by Shivaji's forces",
+        "C": "A treaty signed with the Mughals",
+        "D": "A type of fort architecture"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_6_5"
+    },
+    {
+      "id": "pre_6_3",
+      "question": "Shivaji sacked Surat in how many instances?",
+      "options": {
+        "A": "Once — in 1664 only",
+        "B": "Three times",
+        "C": "Twice — in 1664 and 1670",
+        "D": "Never — it was Sambhaji who sacked Surat"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_6_2"
+    },
+    {
+      "id": "pre_6_4",
+      "question": "In which year did Shivaji Maharaj pass away?",
+      "options": {
+        "A": "1674",
+        "B": "1678",
+        "C": "1680",
+        "D": "1682"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_6_5"
+    },
+    {
+      "id": "pre_6_5",
+      "question": "The Purandardar Treaty required Shivaji to give 23 forts to the Mughals. Which general forced this treaty?",
+      "options": {
+        "A": "Shaista Khan",
+        "B": "Mirza Raje Jai Singh",
+        "C": "Afzal Khan",
+        "D": "Aurangzeb"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_6_3"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_6_1",
+      "title": "The Shaista Khan Episode",
+      "emoji": "🌙",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "In 1660, Aurangzeb sent his maternal uncle Shaista Khan — a senior Mughal general with a massive army — to capture Shivaji's territories and destroy the Maratha kingdom. Shaista Khan occupied Pune and made his headquarters in the Lal Mahal — the very palace where Shivaji had spent his childhood. He began systematically raiding Maratha villages and damaging the economy. Shivaji planned a daring counter-strike. In April 1663, on the night of a wedding celebration (when security was relaxed), Shivaji and a small band of men infiltrated the heavily guarded Lal Mahal in Pune. In the darkness and confusion, Shivaji found Shaista Khan's chamber and wounded him — cutting off three of his fingers as he escaped through a window. Shaista Khan fled Pune in humiliation, never to return. This audacious raid showed Shivaji's personal bravery, strategic brilliance, and psychological understanding of his enemies.",
+      "pageReference": "24-25",
+      "examples": [
+        "Shivaji entered Pune disguised as part of a wedding procession — using the celebration as cover for the night attack.",
+        "Shaista Khan lost three fingers in the encounter — the wound was both physical and psychological, ending his command in Maharashtra.",
+        "The attack on Shaista Khan in the middle of a huge Mughal camp with thousands of soldiers demonstrated Shivaji's extraordinary audacity."
+      ],
+      "keyPoints": [
+        "Shaista Khan was Aurangzeb's maternal uncle, sent with a large army to crush Shivaji in 1660.",
+        "He occupied Pune and used Shivaji's childhood home (Lal Mahal) as his headquarters.",
+        "Shivaji launched a night raid on Lal Mahal in April 1663, surprising Shaista Khan.",
+        "Shivaji wounded Shaista Khan, cutting off three fingers — Khan fled in disgrace.",
+        "The raid showed Shivaji's willingness to take bold, unexpected risks against a stronger enemy."
+      ],
+      "funFact": "After losing his fingers to Shivaji, Shaista Khan was transferred by Aurangzeb to Bengal as governor. There he eventually became famous for rebuilding Dhaka (now capital of Bangladesh) into a prosperous city. But the shame of running from Shivaji allegedly never left him!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 6, Pages 24-25"
+    },
+    {
+      "id": "concept_6_2",
+      "title": "Sack of Surat — Economic Warfare",
+      "emoji": "⚓",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Surat was the most important trade port of the Mughal Empire — a city through which enormous wealth flowed between India, Arabia, Persia, and Europe. Controlling or disrupting Surat had massive financial and political implications. Shivaji sacked Surat in 1664 and again in 1670. The sackings had multiple purposes: they funded the Maratha war machine, they demonstrated that the Mughals could not protect even their richest city, and they psychologically shook Mughal prestige. Importantly, Shivaji specifically protected the English, Dutch, and other foreign traders during the sackings — choosing to target only Mughal officials and wealthy merchants who collaborated with the Mughal state. This showed sophisticated diplomacy — avoiding conflict with European powers while striking at Mughal economic interests. The wealth plundered from Surat went directly into the Maratha treasury to fund fort construction, navy, and army.",
+      "pageReference": "25",
+      "examples": [
+        "The English trading factory at Surat was left untouched during Shivaji's sacking — showing his strategic decision to not make enemies of the Europeans.",
+        "The Mughal governor of Surat locked himself in the fort during both sackings, unable to defend the city — a massive blow to Mughal prestige.",
+        "Wealth from Surat helped Shivaji build the Sindhudurg sea fort and expand his navy."
+      ],
+      "keyPoints": [
+        "Surat was the Mughal empire's richest trade port — its disruption was strategic.",
+        "Shivaji sacked Surat twice: in 1664 and again in 1670.",
+        "Purposes: funding Maratha army, damaging Mughal prestige, demonstrating Mughal weakness.",
+        "Shivaji protected foreign (European) traders — sophisticated diplomatic calculation.",
+        "Wealth from Surat funded Maratha military expansion including the navy."
+      ],
+      "funFact": "The English East India Company's factory at Surat kept detailed records of Shivaji's sacking. Their account is one of the most vivid eyewitness descriptions of the events — European observers were astonished by the discipline of Shivaji's soldiers and his refusal to harm non-combatants!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 6, Page 25"
+    },
+    {
+      "id": "concept_6_3",
+      "title": "The Purandardar Treaty",
+      "emoji": "📋",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Following the Shaista Khan episode and the sack of Surat, Aurangzeb sent his most capable general — Mirza Raje Jai Singh (a Rajput nobleman) — with an enormous Mughal army in 1665. Jai Singh was strategically brilliant. He avoided open battle with Shivaji and instead systematically isolated him — surrounding key forts, cutting off supplies, and using diplomacy to convince several Maratha sardars to switch allegiance. With many of his important forts surrounded and allies defecting, Shivaji was isolated. He agreed to negotiate. The Purandardar Treaty (June 1665) required Shivaji to: surrender 23 of his 35 forts to the Mughals, retain only 12 forts, pay a large indemnity, send his son Sambhaji to serve in the Mughal army, and personally appear at Aurangzeb's court. Shivaji honored the treaty terms for a time but used the period of peace to secretly rebuild his strength. Within 5 years, he had recaptured most of the surrendered forts.",
+      "pageReference": "25-26",
+      "examples": [
+        "Jai Singh's strategy of isolating Shivaji by winning over Maratha chiefs was more effective than direct military confrontation.",
+        "The fort of Purandar itself was besieged so effectively by Jai Singh that continuing to fight would have meant destruction — Shivaji's practical wisdom chose diplomacy.",
+        "The treaty gave Shivaji time to rebuild — by 1670 he had recaptured most forts including Sinhagad (with Tanaji's sacrifice)."
+      ],
+      "keyPoints": [
+        "Mirza Raje Jai Singh sent by Aurangzeb with a massive army in 1665.",
+        "Jai Singh used isolation strategy rather than direct battle — cut off forts and won over Maratha chiefs.",
+        "Purandardar Treaty (June 1665): Shivaji gave 23 forts to Mughals, kept only 12.",
+        "Sambhaji sent to Mughal court; Shivaji agreed to appear at Aurangzeb's court (led to Agra episode).",
+        "Shivaji used the peace period wisely — rebuilt strength and recaptured most forts by 1670."
+      ],
+      "funFact": "Mirza Raje Jai Singh and Shivaji reportedly developed mutual respect for each other — Jai Singh was one of the few Mughal commanders who genuinely understood Shivaji's abilities. After the treaty, Jai Singh even recommended to Aurangzeb that Shivaji be treated with dignity, but Aurangzeb ignored this advice — leading to the Agra humiliation!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 6, Pages 25-26"
+    },
+    {
+      "id": "concept_6_4",
+      "title": "Agra Visit and Escape",
+      "emoji": "🎭",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "In 1666, as required by the Purandardar Treaty, Shivaji traveled to Aurangzeb's court at Agra. The meeting was meant to finalize the peace arrangement. However, Aurangzeb deliberately placed Shivaji in the category of a minor noble — a terrible insult to the ruler of a significant kingdom. Shivaji publicly protested, creating a scene in the imperial court. An angry Aurangzeb placed Shivaji under house arrest in Agra, with the implicit threat of execution. Shivaji and his son Sambhaji were surrounded by guards and seemed trapped. Over several weeks, Shivaji feigned serious illness and began sending large baskets of sweets to holy men as religious charity. When the guards became accustomed to the baskets leaving, Shivaji and Sambhaji hid inside and were carried out. They escaped from Agra and made their way back to Maharashtra through a long and dangerous journey. This escape became one of the most celebrated episodes in Maratha history.",
+      "pageReference": "26-27",
+      "examples": [
+        "Shivaji publicly shouted at Aurangzeb's court that he was being dishonored — showing his refusal to accept humiliation even in the most dangerous situation.",
+        "During the weeks of 'illness', Shivaji used the time to plan the escape in careful detail, testing the pattern of how baskets were carried out without inspection.",
+        "After the escape, Shivaji disappeared for months — traveling through various kingdoms in disguise — before safely reaching Maharashtra."
+      ],
+      "keyPoints": [
+        "Shivaji visited Aurangzeb's court at Agra in 1666 per Purandardar Treaty terms.",
+        "Aurangzeb insulted Shivaji by placing him in low-rank nobles' row; Shivaji protested openly.",
+        "Placed under house arrest — execution seemed possible.",
+        "Escaped by hiding in sweet baskets sent as religious charity (prasad).",
+        "Epic journey home through disguise; returned to Maharashtra as a hero."
+      ],
+      "funFact": "After returning to Maharashtra, Shivaji reportedly told no one the full details of his escape plan for years — to protect the safety of his accomplices who were still in Mughal territory. His concern for his people's safety, even in personal triumph, was remarkable!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 6, Pages 26-27"
+    },
+    {
+      "id": "concept_6_5",
+      "title": "Guerrilla Warfare — Ganimi Kava",
+      "emoji": "🌿",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Shivaji's military genius was most evident in his development and use of guerrilla warfare — known in Marathi as 'ganimi kava.' Rather than confronting the vastly larger Mughal armies in open battle where numbers would determine the outcome, Shivaji exploited the terrain of the Western Ghats. Key elements of ganimi kava: attacking suddenly from hidden positions, retreating quickly before the enemy could organize a response, using knowledge of local terrain (forests, hills, river valleys) that the enemy didn't have, striking at supply lines and communication routes rather than main armies, using spies and intelligence networks extensively. This approach neutralized the Mughal advantage in numbers, equipment, and cavalry on the plains. The Maratha soldiers were lightly armed and fast-moving — their speed was their armor. Ganimi kava proved so effective that the Mughals, despite their overwhelming size, could never achieve a decisive victory against the Marathas. After Shivaji's death in 1680, his successors continued this strategy to exhaust Aurangzeb's 27-year Deccan campaign.",
+      "pageReference": "27-28",
+      "examples": [
+        "The attack on Shaista Khan in Lal Mahal — entering a fortified camp with a small band under cover of darkness — is a perfect example of ganimi kava.",
+        "Maratha soldiers would ambush Mughal supply caravans in narrow mountain passes where cavalry couldn't maneuver.",
+        "When Mughal armies entered mountain territory, they found no enemy to fight — the Marathas had melted into the forests, to re-emerge at unexpected places."
+      ],
+      "keyPoints": [
+        "Ganimi kava: Maratha guerrilla warfare strategy developed by Shivaji.",
+        "Core principles: surprise attacks, quick retreat, use of terrain knowledge, targeting supply lines.",
+        "Countered Mughal advantage in numbers and conventional cavalry strength.",
+        "Maratha soldiers were lightly armed and fast — speed over armor.",
+        "This strategy continued after Shivaji's death, exhausting Aurangzeb's Deccan campaign."
+      ],
+      "funFact": "Military historians around the world study Shivaji's guerrilla tactics even today. The United States Marine Corps manual on irregular warfare includes Shivaji among the great practitioners of guerrilla strategy, alongside more well-known names like Sun Tzu and Mao Zedong!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 6, Pages 27-28"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_6_1",
+      "question": "Where did Shaista Khan set up his headquarters after occupying Pune?",
+      "options": {
+        "A": "Raigad fort",
+        "B": "Sinhagad fort",
+        "C": "Lal Mahal — Shivaji's childhood palace",
+        "D": "Purandar fort"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Shaista Khan occupied Pune and deliberately set up his headquarters in the Lal Mahal — the palace where Shivaji had spent his childhood. Shivaji's daring night raid on this very palace wounded Shaista Khan and drove him away in humiliation."
+    },
+    {
+      "id": "test_6_2",
+      "question": "During Shivaji's sack of Surat, which group was specifically protected?",
+      "options": {
+        "A": "Mughal nobles",
+        "B": "Hindu merchants",
+        "C": "Foreign (European) traders",
+        "D": "Islamic pilgrims"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Shivaji specifically protected the English, Dutch, and other European foreign traders during the sacking of Surat. This was a strategic decision to avoid making enemies of European powers while maximizing damage to Mughal economic interests."
+    },
+    {
+      "id": "test_6_3",
+      "question": "How many forts did Shivaji retain after the Purandardar Treaty?",
+      "options": {
+        "A": "5",
+        "B": "12",
+        "C": "23",
+        "D": "35"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The Purandardar Treaty required Shivaji to surrender 23 forts to the Mughals and retain only 12. Before the treaty, Shivaji had about 35 forts. He later recaptured most of the surrendered forts."
+    },
+    {
+      "id": "test_6_4",
+      "question": "What does 'ganimi kava' mean?",
+      "options": {
+        "A": "Cavalry charge on open plains",
+        "B": "Fort-building strategy",
+        "C": "Guerrilla warfare tactics — surprise attacks, quick retreat, use of terrain",
+        "D": "Naval warfare strategy"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Ganimi kava refers to guerrilla warfare tactics — fighting through surprise attacks, quick retreats, use of local terrain knowledge, and striking at supply lines rather than engaging in open battle. It was the military strategy that made Shivaji's relatively small forces extremely effective against the large Mughal army."
+    },
+    {
+      "id": "test_6_5",
+      "question": "In what year did Shivaji Maharaj pass away?",
+      "options": {
+        "A": "1674",
+        "B": "1676",
+        "C": "1680",
+        "D": "1689"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Shivaji Maharaj passed away on 3 April 1680 at Raigad fort. He died at the age of 50, leaving behind a well-organized Swaraj kingdom that would continue to resist the Mughals for decades after his death."
+    },
+    {
+      "id": "test_6_6",
+      "question": "Why was Jai Singh's military strategy against Shivaji more effective than previous Mughal generals?",
+      "options": {
+        "A": "He had a larger army",
+        "B": "He isolated Shivaji by surrounding forts and winning over Maratha sardars, instead of open battle",
+        "C": "He used cannons for the first time",
+        "D": "He attacked during the monsoon season"
+      },
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": "Jai Singh's genius was avoiding open battle (where the terrain favored Marathas) and instead isolating Shivaji through a combination of siege warfare around key forts and diplomacy to convince Maratha sardars to defect. This strategy was far more effective than previous Mughal frontal attacks."
+    },
+    {
+      "id": "test_6_7",
+      "question": "What role did Shivaji's spy network play in his success?",
+      "options": {
+        "A": "Spies were not used — Shivaji relied only on open battle",
+        "B": "Spies only collected trade information",
+        "C": "Intelligence gathered by spies was crucial — it warned Shivaji of Afzal Khan's treachery and helped plan raids like the Shaista Khan attack",
+        "D": "Shivaji's spies were all Europeans"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Shivaji had a sophisticated intelligence and spy network. Advance warning of Afzal Khan's treacherous intentions allowed Shivaji to prepare the bagh nakh. Intelligence about Shaista Khan's lax security during the wedding allowed the night raid. Information gathering was central to his military success."
+    },
+    {
+      "id": "test_6_8",
+      "question": "Which of the following best describes why Shivaji chose guerrilla warfare over open battle?",
+      "options": {
+        "A": "He didn't know how to fight in open battle",
+        "B": "He had no cavalry",
+        "C": "Guerrilla warfare neutralized the Mughal advantage in numbers and cavalry by using terrain and surprise",
+        "D": "The Marathas had more powerful cannons in the mountains"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "The Mughal army was vastly larger with superior cavalry on plains. In open battle, Shivaji would lose by sheer numbers. Guerrilla warfare in the Western Ghats terrain — where Mughal cavalry was ineffective and supply lines were vulnerable — allowed the smaller Maratha forces to be devastatingly effective."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Shaista Khan episode (1660-1663): Mughal occupation of Pune, Shivaji's night raid on Lal Mahal",
+      "Sack of Surat (1664 and 1670): economic warfare, protecting European traders",
+      "Purandardar Treaty (1665): 23 forts surrendered, signed under Jai Singh's pressure",
+      "Agra episode (1666): Aurangzeb's insult, house arrest, escape in sweet baskets",
+      "Ganimi kava: guerrilla warfare — surprise, terrain, speed, supply line attacks",
+      "Shivaji's death at Raigad (1680)"
+    ],
+    "commonMisconceptions": [
+      "Students may think ganimi kava was cowardly — it was actually a strategically superior choice against a much larger enemy.",
+      "Some think Shivaji always won every conflict — the Purandardar Treaty shows he could also make strategic retreats and compromises.",
+      "Students sometimes confuse the two sackings of Surat (1664 and 1670) — they happened for similar reasons but in different strategic contexts.",
+      "The Agra escape is sometimes told as a simple adventure story — but its planning was meticulous and required weeks of careful preparation."
+    ],
+    "realWorldExamples": [
+      "Guerrilla warfare tactics similar to ganimi kava have been used by many freedom fighters throughout history — from the American Revolution to the Vietnamese resistance.",
+      "The English East India Company's detailed records of Shivaji's sack of Surat are preserved in archives in London — demonstrating the importance of written sources for reconstructing historical events.",
+      "Lal Mahal in Pune has been reconstructed and can be visited today — the place of Shivaji's childhood and later the site of the Shaista Khan raid."
+    ],
+    "formulas": []
+  }
+}

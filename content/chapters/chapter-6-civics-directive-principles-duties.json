@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "chapterNumber": 6,
+    "title": "Directive Principles and Fundamental Duties",
+    "subject": "Civics",
+    "pages": "83-87",
+    "description": "Understanding the Directive Principles of State Policy (Part IV) that guide the government towards a welfare state, and the Fundamental Duties (Part IVA) that every citizen must perform — along with the relationship between rights and duties."
+  },
+  "preAssessment": [
+    {
+      "id": "pre-6-1",
+      "question": "In which Part of the Constitution are the Directive Principles of State Policy listed?",
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part IVA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Directive Principles of State Policy (DPSP) are listed in Part IV of the Indian Constitution, under Articles 36 to 51."
+    },
+    {
+      "id": "pre-6-2",
+      "question": "What is the main difference between Fundamental Rights and Directive Principles?",
+      "options": [
+        "Fundamental Rights are for citizens; DPSP are for foreigners",
+        "Fundamental Rights are enforceable in courts; DPSP are not enforceable but guide the government",
+        "Fundamental Rights are new; DPSP are old",
+        "Fundamental Rights are written; DPSP are unwritten"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fundamental Rights are justiciable — they can be enforced through courts. Directive Principles are non-justiciable — courts cannot force the government to implement them, but they guide the government's policies."
+    },
+    {
+      "id": "pre-6-3",
+      "question": "Through which amendment were Fundamental Duties added to the Constitution?",
+      "options": [
+        "26th Amendment, 1971",
+        "42nd Amendment, 1976",
+        "61st Amendment, 1988",
+        "86th Amendment, 2002"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fundamental Duties were added to the Constitution by the 42nd Amendment in 1976 under Part IVA, Article 51A."
+    },
+    {
+      "id": "pre-6-4",
+      "question": "How many Fundamental Duties are listed in the Indian Constitution?",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 11 Fundamental Duties listed in Article 51A of the Constitution. Originally 10 were added in 1976; an 11th was added by the 86th Amendment in 2002."
+    },
+    {
+      "id": "pre-6-5",
+      "question": "Which government scheme is an example of a Directive Principle being implemented?",
+      "options": [
+        "Habeas Corpus petition",
+        "Lok Sabha elections",
+        "MGNREGA (National Rural Employment Guarantee Scheme)",
+        "Fundamental Rights petition"
+      ],
+      "correctAnswer": 2,
+      "explanation": "MGNREGA is an example of the government implementing Directive Principles — specifically the principle of securing a living wage and employment for all citizens."
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept-6-1",
+      "title": "What are Directive Principles of State Policy?",
+      "emoji": "🧭",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Directive Principles of State Policy (DPSP) are guidelines given to the government in Part IV of the Constitution (Articles 36-51). They represent the socio-economic goals that the Constitution wants India to achieve — making India a welfare state. Unlike Fundamental Rights, DPSP are non-justiciable — they cannot be enforced by courts. If the government fails to implement them, a citizen cannot go to court. However, they are fundamental in governance and it is the duty of the state to apply them in making laws and policies. They were inspired by the Irish Constitution.",
+      "pageReference": "83-84",
+      "examples": [
+        "DPSP direct the government to ensure equal pay for equal work — so a woman doing the same job as a man should receive the same salary.",
+        "DPSP direct the government to provide free legal aid to poor citizens who cannot afford lawyers.",
+        "DPSP guide the government to protect and improve the environment and safeguard forests and wildlife."
+      ],
+      "keyPoints": [
+        "DPSP are in Part IV of the Constitution, Articles 36-51.",
+        "They are guidelines for the government to build a welfare state.",
+        "They are non-justiciable — cannot be enforced in courts.",
+        "They guide the government's policy-making and legislation.",
+        "They were inspired by the Directive Principles in the Irish Constitution."
+      ],
+      "funFact": "India borrowed the idea of Directive Principles from Ireland, which in turn took it from Spain! The Indian Constitution drew ideas from over a dozen countries — it truly is a global document!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 6, Page 83-84"
+    },
+    {
+      "id": "concept-6-2",
+      "title": "Key Examples of Directive Principles",
+      "emoji": "📋",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Some important Directive Principles include: Equal pay for equal work for men and women; Free legal aid for poor citizens who cannot afford lawyers; Securing a living wage (adequate pay for a decent life) for all workers; Free and compulsory education for children (before it became a Fundamental Right); Separation of judiciary from executive; Promoting cottage industries; Protecting and improving the environment; Preventing concentration of wealth in few hands; Promoting international peace and security. These DPSP guide Parliament and State Legislatures in making laws that move India towards social and economic justice.",
+      "pageReference": "84-85",
+      "examples": [
+        "Equal pay: The Equal Remuneration Act was passed to implement the DPSP on equal pay for equal work.",
+        "Free legal aid: The Legal Services Authorities Act provides free legal aid — implementing DPSP in Article 39A.",
+        "Living wage: Minimum wage laws across India are inspired by the DPSP directive to ensure living wages for workers."
+      ],
+      "keyPoints": [
+        "Equal pay for equal work — men and women must receive same pay for same work.",
+        "Free legal aid — the state shall provide free legal services to weaker sections.",
+        "Living wage — workers should earn enough for a dignified life.",
+        "Protect and improve the environment — state shall protect forests and wildlife.",
+        "Promote cottage industries and prevent concentration of wealth in few hands."
+      ],
+      "funFact": "The DPSP on equal pay for equal work (Article 39(d)) was a revolutionary idea in 1950 — at a time when most countries in the world had no such policy. India was ahead of its time!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 6, Page 84-85"
+    },
+    {
+      "id": "concept-6-3",
+      "title": "Fundamental Rights vs Directive Principles",
+      "emoji": "⚖️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Fundamental Rights and Directive Principles are both important parts of the Constitution, but they differ in key ways. Fundamental Rights are justiciable — if violated, a citizen can go to court and demand enforcement. Directive Principles are non-justiciable — they cannot be enforced through courts, they only guide the government. Fundamental Rights protect individual freedoms from government interference. Directive Principles direct the government to take positive action for social and economic welfare. Together they complement each other — Rights protect individuals while DPSP guide the state towards a just society.",
+      "pageReference": "85",
+      "examples": [
+        "Fundamental Rights: If the police arrest you without reason (Right to Freedom), you can immediately go to court.",
+        "DPSP: If the government fails to provide free legal aid (Article 39A), you cannot force them through the courts.",
+        "Working together: Right to Education (Article 21A) was originally a DPSP that was upgraded to a Fundamental Right in 2002."
+      ],
+      "keyPoints": [
+        "Fundamental Rights: Justiciable — enforceable by courts.",
+        "Directive Principles: Non-justiciable — not enforceable by courts.",
+        "Fundamental Rights protect individuals from state interference.",
+        "Directive Principles direct the state to take positive action for welfare.",
+        "Both together aim to build a just, equal, and welfare-oriented society."
+      ],
+      "funFact": "The Supreme Court has ruled that Fundamental Rights and Directive Principles are like two wheels of a chariot — both are needed together for India to move forward towards the goals of the Constitution!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 6, Page 85"
+    },
+    {
+      "id": "concept-6-4",
+      "title": "Fundamental Duties — 11 Duties (Article 51A)",
+      "emoji": "🤲",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Fundamental Duties were added to Part IVA of the Constitution by the 42nd Amendment in 1976. Article 51A lists 11 duties that every citizen must perform. These include: (1) Abide by the Constitution and respect national flag and anthem; (2) Cherish and follow the noble ideals of the freedom struggle; (3) Uphold and protect the sovereignty and integrity of India; (4) Defend the country and render national service; (5) Promote harmony among all people; (6) Preserve the rich heritage of our composite culture; (7) Protect and improve the natural environment; (8) Develop scientific temper and spirit of inquiry; (9) Safeguard public property; (10) Strive for excellence; (11) Provide education to one's children aged 6-14 (added 2002).",
+      "pageReference": "85-87",
+      "examples": [
+        "Duty 1: Standing for the national anthem at a cinema or public event is fulfilling a Fundamental Duty.",
+        "Duty 7: Not littering, not cutting trees, segregating waste — all contribute to protecting the environment.",
+        "Duty 8: Asking 'why' and 'how', seeking evidence before believing claims — this is developing a scientific temper."
+      ],
+      "keyPoints": [
+        "Fundamental Duties are in Part IVA, Article 51A of the Constitution.",
+        "Added by the 42nd Amendment in 1976 — inspired by the Soviet (Russian) Constitution.",
+        "There are 11 duties in total (10 original + 1 added in 2002).",
+        "Key duties: respect Constitution and national symbols, promote harmony, protect environment, develop scientific temper, safeguard public property.",
+        "Fundamental Duties are moral obligations — they are not directly enforceable by courts."
+      ],
+      "funFact": "India is one of very few democratic countries in the world to include Fundamental Duties in its Constitution. The idea was inspired by the then-Soviet Union's Constitution which also listed duties of citizens alongside rights!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 6, Page 85-87"
+    },
+    {
+      "id": "concept-6-5",
+      "title": "Relationship Between Rights and Duties",
+      "emoji": "🔄",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Rights and Duties are two sides of the same coin. Every right comes with a corresponding duty. If every citizen enjoys the right to freedom of speech, every citizen also has the duty to ensure their speech does not harm others. If citizens have the right to a clean environment (through judicial interpretation of Article 21), citizens also have the duty to protect and improve the environment (Fundamental Duty 7). The Constitution gives rights to citizens so they can live with dignity; it gives duties so that rights do not become an excuse for irresponsible behaviour that harms the community.",
+      "pageReference": "87",
+      "examples": [
+        "Right to freedom of speech + Duty to promote harmony: You can speak freely, but not in a way that creates communal violence.",
+        "Right to equality + Duty to uphold fraternity: Enjoying equal rights means also treating others as equals.",
+        "Right to life (clean environment) + Duty to protect environment: If you want clean air and water, you must also avoid polluting them."
+      ],
+      "keyPoints": [
+        "Rights and Duties are complementary — they cannot exist without each other.",
+        "Every right implies a corresponding responsibility towards others and society.",
+        "Fundamental Duties remind citizens that freedom comes with responsibility.",
+        "Government has duties (DPSP) toward citizens; citizens have duties (Fundamental Duties) toward the nation.",
+        "A healthy democracy requires both: rights-conscious citizens and duty-conscious citizens."
+      ],
+      "funFact": "Mahatma Gandhi once said: 'The true source of right is duty. If we all discharge our duties, rights will not be far to seek.' The Fundamental Duties chapter in the Constitution reflects this Gandhian philosophy!",
+      "textbookRef": "Maharashtra Board 7th Grade Civics, Chapter 6, Page 87"
+    }
+  ],
+  "test": [
+    {
+      "id": "test-6-1",
+      "question": "In which Part of the Constitution are the Directive Principles of State Policy (DPSP) found?",
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part IVA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "DPSP are found in Part IV of the Indian Constitution, under Articles 36 to 51."
+    },
+    {
+      "id": "test-6-2",
+      "question": "Why are Directive Principles called 'non-justiciable'?",
+      "options": [
+        "Because they are more important than Fundamental Rights",
+        "Because they cannot be enforced by courts — only guide the government",
+        "Because they apply to foreigners only",
+        "Because they were added after Independence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DPSP are non-justiciable because if the government fails to implement them, a citizen cannot go to court to enforce them. They only serve as guidelines."
+    },
+    {
+      "id": "test-6-3",
+      "question": "Which of the following is a Directive Principle of State Policy?",
+      "options": [
+        "Freedom of speech and expression",
+        "Right to education for children 6-14",
+        "Equal pay for equal work",
+        "Abolition of untouchability"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Equal pay for equal work is a Directive Principle (Article 39(d)). The others are Fundamental Rights."
+    },
+    {
+      "id": "test-6-4",
+      "question": "Through which amendment were Fundamental Duties added to the Constitution?",
+      "options": [
+        "26th Amendment",
+        "42nd Amendment",
+        "61st Amendment",
+        "86th Amendment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fundamental Duties were added by the 42nd Amendment in 1976 as Part IVA, Article 51A of the Constitution."
+    },
+    {
+      "id": "test-6-5",
+      "question": "How many Fundamental Duties are currently listed in the Indian Constitution?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "11"
+      ],
+      "correctAnswer": 3,
+      "explanation": "There are currently 11 Fundamental Duties. The original 10 were added in 1976 and an 11th (duty to provide education to children 6-14) was added in 2002."
+    },
+    {
+      "id": "test-6-6",
+      "question": "Which of the following is a Fundamental Duty of every Indian citizen?",
+      "options": [
+        "To pay income tax",
+        "To vote in every election",
+        "To protect and improve the natural environment",
+        "To learn at least two official languages"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Protecting and improving the natural environment — including forests, lakes, rivers, and wildlife — is one of the 11 Fundamental Duties listed in Article 51A."
+    },
+    {
+      "id": "test-6-7",
+      "question": "The Mid-Day Meal scheme in schools is an example of which constitutional provision being implemented?",
+      "options": [
+        "Fundamental Rights",
+        "Writ jurisdiction",
+        "Directive Principles of State Policy",
+        "Constitutional Remedies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Mid-Day Meal scheme reflects Directive Principles — particularly those related to child welfare, nutrition, and encouraging school attendance among children."
+    },
+    {
+      "id": "test-6-8",
+      "question": "What is the main aim of Directive Principles of State Policy?",
+      "options": [
+        "To give courts more power",
+        "To protect individuals from government",
+        "To guide the government in creating a welfare state and achieving social and economic justice",
+        "To list the rights of foreigners"
+      ],
+      "correctAnswer": 2,
+      "explanation": "DPSP aim to guide the government in working towards a welfare state where social and economic justice is achieved for all citizens."
+    },
+    {
+      "id": "test-6-9",
+      "question": "Which of the following correctly describes the relationship between Fundamental Rights and DPSP?",
+      "options": [
+        "DPSP are more important than Fundamental Rights",
+        "They are like two wheels of a chariot — both needed to take India forward",
+        "Fundamental Rights and DPSP are the same thing",
+        "DPSP cancel Fundamental Rights"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Supreme Court has described Fundamental Rights and DPSP as two wheels of a chariot — Rights protect individuals while DPSP guide the state; both are needed together."
+    },
+    {
+      "id": "test-6-10",
+      "question": "What does Fundamental Duty 8 — 'develop scientific temper' — mean?",
+      "options": [
+        "Every citizen must become a scientist",
+        "Citizens should use only scientific equipment",
+        "Citizens should develop a questioning mind, seek evidence, and avoid superstition",
+        "Science must be taught as the only subject in schools"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Developing scientific temper means cultivating a rational, questioning mind — seeking evidence before accepting claims and rejecting superstition and blind faith."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "DPSP in Part IV, Articles 36-51 — guidelines to government, not enforceable",
+      "Key DPSP: equal pay, free legal aid, living wage, protect environment, prevent wealth concentration",
+      "DPSP are non-justiciable; Fundamental Rights are justiciable",
+      "Examples: MGNREGA (employment), Mid-Day Meal (child welfare), RTE Act (education) implement DPSP",
+      "Fundamental Duties in Part IVA, Article 51A — added by 42nd Amendment 1976",
+      "11 Fundamental Duties: abide by Constitution, cherish national ideals, defend country, promote harmony, protect environment, develop scientific temper, safeguard public property, strive for excellence, educate children 6-14",
+      "Rights and Duties are complementary — two sides of the same coin"
+    ],
+    "commonMisconceptions": [
+      "Students confuse DPSP (non-justiciable) with Fundamental Rights (justiciable) — the key difference is enforceability.",
+      "Many think Fundamental Duties are legally enforceable — they are moral obligations, not directly enforceable by courts.",
+      "Students may think there are only 10 Fundamental Duties — there are 11 (the 11th was added in 2002).",
+      "Some confuse DPSP with Fundamental Rights — DPSP guide the government while FR protect individuals.",
+      "Students may not know DPSP were inspired by the Irish Constitution and Fundamental Duties by the Soviet Constitution."
+    ],
+    "realWorldExamples": [
+      "MGNREGA: Implements DPSP on right to work and securing a living wage — labourers get 100 days guaranteed employment.",
+      "Mid-Day Meal Scheme: Implements DPSP on child welfare and nutrition, reducing hunger and increasing school attendance.",
+      "RTE Act 2009: Originally a DPSP (free education for children), later upgraded to Fundamental Right via 86th Amendment.",
+      "Equal Remuneration Act: Directly implements DPSP on equal pay for equal work between men and women.",
+      "World Environment Day celebrations in schools: Students fulfilling Fundamental Duty 7 to protect and improve the environment.",
+      "National Integration programmes and campaigns against communalism: Citizens fulfilling Fundamental Duty 5 to promote harmony."
+    ],
+    "formulas": []
+  }
+}

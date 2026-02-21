@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "chapterNumber": 8,
+    "title": "Shivaji — An Ideal Ruler",
+    "subject": "History",
+    "pages": "33-36",
+    "description": "What made Shivaji Maharaj not just a great conqueror but a truly ideal ruler — his religious tolerance, deep respect for women, equal justice, care for subjects, and why contemporaries including Mughal officers and Europeans praised him as 'Rajarshi'."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_8_1",
+      "question": "What was Shivaji's attitude toward other religions like Islam and Christianity?",
+      "options": {
+        "A": "He demolished mosques and churches",
+        "B": "He forced conversions to Hinduism",
+        "C": "He protected mosques and churches and respected all religions equally",
+        "D": "He banned all non-Hindu religious practices"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_8_1"
+    },
+    {
+      "id": "pre_8_2",
+      "question": "What title means 'a king who is also a saint' — often given to Shivaji?",
+      "options": {
+        "A": "Chhatrapati",
+        "B": "Rajarshi",
+        "C": "Maharaja",
+        "D": "Samrat"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_8_5"
+    },
+    {
+      "id": "pre_8_3",
+      "question": "When Shivaji's soldiers brought the daughter-in-law of the Muslim governor of Kalyan as a prize, what did Shivaji do?",
+      "options": {
+        "A": "He accepted her as a prize of war",
+        "B": "He punished the soldiers and treated her with full respect, sending her back safely",
+        "C": "He added her to his court",
+        "D": "He exchanged her for a fort"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_8_2"
+    },
+    {
+      "id": "pre_8_4",
+      "question": "Shivaji's personal orders (aadnyapatra) showed his care for subjects by:",
+      "options": {
+        "A": "Increasing taxes in enemy territories",
+        "B": "Banning trade with Europeans",
+        "C": "Protecting trees, wells, and travelers — attending to everyday needs of people",
+        "D": "Ordering compulsory military service for all men"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_8_4"
+    },
+    {
+      "id": "pre_8_5",
+      "question": "Which European company's records praised Shivaji's discipline and fairness during the sack of Surat?",
+      "options": {
+        "A": "Portuguese traders",
+        "B": "French East India Company",
+        "C": "English East India Company",
+        "D": "Dutch traders"
+      },
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "conceptId": "concept_8_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_8_1",
+      "title": "Religious Tolerance",
+      "emoji": "🕌",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Shivaji Maharaj's approach to religion was remarkably enlightened for his era. He treated all religions equally — Hinduism, Islam, and Christianity. He protected mosques, dargahs (Sufi shrines), and churches in his territory with the same vigor as he protected temples. His written orders (aadnyapatra) specifically instructed his soldiers to never damage mosques or harm Muslim clergy. He had many Muslim officers in his army — including Ibrahim Khan who commanded part of his artillery, and Siddi Ibrahim who served in his navy. He respected the Quran — when a copy was once brought to him as loot, he treated it with reverence and returned it. His Ashtapradhan included the Panditrao who managed religious affairs of all communities. Shivaji saw religious violence as not only morally wrong but also politically damaging — a ruler who respected all faiths earned loyalty from all subjects.",
+      "pageReference": "33-34",
+      "examples": [
+        "Shivaji issued written orders that mosques were not to be disturbed during military campaigns — and soldiers who violated this were punished.",
+        "He built a mosque near Raigad for his Muslim soldiers — providing a place of worship on his own capital.",
+        "His fleet included sailors from various communities — Hindu Marathas, Muslim sailors from the Konkan, and African (Habshi/Siddi) fighters."
+      ],
+      "keyPoints": [
+        "Shivaji protected mosques, dargahs, and churches with the same care as temples.",
+        "Written orders specifically forbade damaging mosques or harming Muslim clergy.",
+        "Many Muslim officers served in his army and navy.",
+        "He treated the Quran with respect when it came to him as loot.",
+        "Religious tolerance was both a moral value and a political strategy for building loyalty."
+      ],
+      "funFact": "One of Shivaji's most trusted naval officers was Ibrahim Khan — a Muslim artillerist who commanded his naval guns. Shivaji's fleet was a genuinely diverse force where merit determined rank, not religion!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 8, Pages 33-34"
+    },
+    {
+      "id": "concept_8_2",
+      "title": "Respect for Women",
+      "emoji": "🌸",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Shivaji had extraordinary respect for women — a value instilled by his mother Jijabai. He issued strict orders that women captured in war were to be treated with absolute dignity and returned safely. Any soldier who disrespected a woman faced severe punishment, including execution. The most famous example: after capturing Kalyan, his soldiers brought the beautiful daughter-in-law of the local Muslim governor Mullah Ahmed as a prize of war (a common practice of the time). When she was presented before Shivaji, he said: 'If my mother had been so beautiful, I would also have been handsome!' He reprimanded the soldiers, treated her with complete respect, provided her with gifts and an escort, and sent her back to her home safely. This act was so extraordinary that it became legendary even among his enemies — Mughal and European sources both recorded it as remarkable.",
+      "pageReference": "34",
+      "examples": [
+        "The Kalyan episode: respecting and returning the Muslim governor's daughter-in-law is one of the most cited examples of Shivaji's character.",
+        "His military code specifically mentioned that women in captured territories should not be harmed — violators faced the death penalty.",
+        "Even women of enemies were protected — showing that his respect for women was not conditional on religion or political allegiance."
+      ],
+      "keyPoints": [
+        "Shivaji had strict orders against any disrespect toward women.",
+        "Women captured in war were to be treated with dignity and returned safely.",
+        "The Kalyan episode: returned enemy's daughter-in-law with respect and gifts.",
+        "Soldiers who violated women's dignity faced severe punishment including execution.",
+        "This respect was absolute — it applied to women of enemies too."
+      ],
+      "funFact": "The story of Shivaji's respect for women in Kalyan became so famous that a Persian-language Mughal chronicler included it in his records — acknowledging Shivaji's extraordinary virtue even while writing about an enemy!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 8, Page 34"
+    },
+    {
+      "id": "concept_8_3",
+      "title": "Justice and Equality",
+      "emoji": "⚖️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Justice was a cornerstone of Shivaji's governance. He believed that a king who is unjust loses both his legitimacy and people's loyalty. The principle was clear: rich and poor, high caste and low caste, Hindu and Muslim — all were equal before the law. His Nyayadhish (Chief Justice) ensured that complaints from ordinary farmers received the same attention as those from nobles. Shivaji himself would sometimes attend to grievances personally. He punished soldiers who looted or misbehaved with civilians, regardless of their rank or past service. He punished his own kinsmen when they acted unjustly. One famous story: Shivaji received a complaint from a poor widow that his soldiers had damaged her crops. He investigated, found it was true, and compensated the widow — and punished the soldiers involved. This approach built fierce loyalty among the common people who had never experienced such just governance.",
+      "pageReference": "34-35",
+      "examples": [
+        "A farmer's complaint received the same attention as a noble's grievance — the Nyayadhish system ensured this.",
+        "Soldiers who looted or damaged farmers' property were punished regardless of military rank.",
+        "When a relative of Shivaji behaved unjustly, Shivaji did not protect him — showing his commitment to equal law."
+      ],
+      "keyPoints": [
+        "Equal justice for all — rich and poor, high and low caste, Hindu and Muslim.",
+        "Ordinary farmers' complaints were treated seriously.",
+        "Soldiers who harmed civilians were punished regardless of rank.",
+        "Shivaji punished his own relatives when they acted unjustly.",
+        "Just governance built fierce loyalty among common people."
+      ],
+      "funFact": "Sant Tukaram and Sant Ramdas — the great Bhakti saints of Maharashtra — praised Shivaji as an ideal king in their poetry. When saints of such spiritual stature praised a ruler, it was the highest possible honor in medieval Indian society!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 8, Pages 34-35"
+    },
+    {
+      "id": "concept_8_4",
+      "title": "Care for Subjects",
+      "emoji": "🌾",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Shivaji's care for his subjects went far beyond just fair taxation. He saw himself as a caretaker responsible for the well-being of every person in his kingdom. During famines and droughts, he reduced taxes and sometimes distributed food from state reserves. He ensured roads were safe from dacoits and thieves. He issued orders protecting forests — understanding that deforestation damaged water sources and farming. Wells were maintained and kept clean. Travelers and traders were protected on roads. Artisans and craftsmen were supported. He personally attended to complaints from farmers and ordinary people. His administrative letters show him concerned with practical details — whether granaries near forts were properly stocked, whether water cisterns were clean, whether market prices were fair. This paternalistic care (in the best sense) created a kingdom where the common person felt protected and valued — a completely different experience from life under the foreign sultans.",
+      "pageReference": "35",
+      "examples": [
+        "Shivaji's orders specifically protected mango groves and other trees near forts — he understood ecology before the modern term existed.",
+        "During the famine of the 1670s, Shivaji reduced taxes across his territory and organized relief measures.",
+        "Roads between forts were patrolled and maintained — traders from across India preferred traveling through Maratha territory because it was safe."
+      ],
+      "keyPoints": [
+        "Reduced taxes during famines; distributed food from state reserves.",
+        "Protected forests, wells, and water sources through royal orders.",
+        "Roads made safe from dacoits — traders and travelers protected.",
+        "Personally attended to farmers' and subjects' complaints.",
+        "Administrative letters show concern for every detail of people's daily welfare."
+      ],
+      "funFact": "Historical records show that the market prices in Shivaji's territories were significantly lower than in neighboring sultanates — because his administration controlled profiteering and ensured supply of goods. Merchants from Gujarat and the Deccan preferred trading in Maratha territories for fair dealing!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 8, Page 35"
+    },
+    {
+      "id": "concept_8_5",
+      "title": "Shivaji's Legacy — Why Called Rajarshi",
+      "emoji": "🌟",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "The title 'Rajarshi' means 'a king who has the qualities of a saint' — combining 'Raja' (king) and 'Rishi' (sage/saint). Shivaji earned this title because he combined extraordinary military and political ability with equally extraordinary moral virtue. What made Shivaji unique in the history of Indian (and world) rulers was the combination: brilliant military strategist AND administrator AND man of justice AND religiously tolerant AND respectful of women. Contemporary European observers — English East India Company officials who recorded the sacking of Surat — were astonished by the discipline of his army and his protection of non-combatants. Mughal officials, even enemies, recorded his fairness and courage with admiration. Bhakti saints like Tukaram praised him in poetry. Modern Indians remember him as the founder of the first people-centered Swaraj — a kingdom that existed to serve its people. His legacy influenced Bal Gangadhar Tilak, Mahatma Gandhi, and the Indian freedom movement.",
+      "pageReference": "35-36",
+      "examples": [
+        "The English East India Company's factory records from Surat describe Shivaji's soldiers as unusually disciplined — not harming non-combatants even while sacking the city.",
+        "Khafi Khan, a Mughal historian and no friend of Shivaji, still recorded his respect for religious sites and women in his chronicles.",
+        "Bal Gangadhar Tilak popularized the Ganesh festival partly as a way to connect people with the memory of Shivaji and his Swaraj ideals."
+      ],
+      "keyPoints": [
+        "Rajarshi: a king with the qualities of a saint — Shivaji earned this unique title.",
+        "Europeans, Mughal enemies, and Bhakti saints all praised his character.",
+        "He combined military genius with moral virtue — rare in history.",
+        "His legacy directly influenced India's freedom movement.",
+        "The foundation of Swaraj — people-centered governance — remains his greatest contribution."
+      ],
+      "funFact": "James Grant Duff, a British officer and historian who wrote 'A History of the Marathas' in 1826, wrote that Shivaji was one of the most remarkable men that Asia ever produced — this was high praise from a British colonial officer writing about a ruler who had resisted foreign domination!",
+      "textbookRef": "Maharashtra Board Class 7 History, Chapter 8, Pages 35-36"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_8_1",
+      "question": "What was Shivaji's response when soldiers brought the Muslim governor's daughter-in-law from Kalyan as a war prize?",
+      "options": {
+        "A": "He accepted her as a prize of war",
+        "B": "He punished the soldiers and returned her home with respect and gifts",
+        "C": "He exchanged her for captured forts",
+        "D": "He converted her to Hinduism"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Shivaji reprimanded the soldiers who brought the woman before him, treated her with complete dignity, said she was like a mother to him, provided her with gifts, and sent her back safely to her home. This legendary episode showed his absolute respect for women."
+    },
+    {
+      "id": "test_8_2",
+      "question": "What does the title 'Rajarshi' mean?",
+      "options": {
+        "A": "King of Kings",
+        "B": "Great Warrior",
+        "C": "A king who has the qualities of a saint",
+        "D": "Protector of the realm"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Rajarshi combines 'Raja' (king) and 'Rishi' (sage/saint) — meaning a king with saintly virtues. Shivaji earned this title for his combination of military genius and extraordinary moral character."
+    },
+    {
+      "id": "test_8_3",
+      "question": "Which statement best describes Shivaji's attitude toward Muslim places of worship?",
+      "options": {
+        "A": "He demolished all mosques in captured territories",
+        "B": "He ignored mosques — neither protecting nor harming them",
+        "C": "He issued written orders specifically protecting mosques and Sufi shrines",
+        "D": "He converted mosques into temples"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Shivaji issued specific aadnyapatra (royal orders) protecting mosques and Muslim holy sites from being damaged during military campaigns. Soldiers who violated these orders were punished. He had Muslim officers in his own army."
+    },
+    {
+      "id": "test_8_4",
+      "question": "What happened to soldiers in Shivaji's army who mistreated civilians?",
+      "options": {
+        "A": "They were given a warning",
+        "B": "They were reassigned to a different fort",
+        "C": "They were severely punished, sometimes with execution",
+        "D": "Nothing — soldiers were above civilian law"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Shivaji had strict military discipline. Soldiers who looted, damaged farmers' property, or disrespected civilians — especially women — faced severe punishment including execution. This discipline made his army uniquely respectful of non-combatants."
+    },
+    {
+      "id": "test_8_5",
+      "question": "Why did contemporary European observers praise Shivaji during the sack of Surat?",
+      "options": {
+        "A": "Because he shared the loot with them",
+        "B": "Because his soldiers showed remarkable discipline and did not harm foreign traders or non-combatants",
+        "C": "Because he converted to Christianity",
+        "D": "Because he signed a trade agreement with European companies"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "English East India Company records and other European sources were astonished by the discipline of Shivaji's soldiers during the sacking of Surat — they specifically protected foreign traders and did not harm non-combatants. This was extraordinary for a military action of that era."
+    },
+    {
+      "id": "test_8_6",
+      "question": "Shivaji's environmental care was demonstrated by:",
+      "options": {
+        "A": "Building botanical gardens at Raigad",
+        "B": "Issuing orders protecting trees, forests, and wells near forts and villages",
+        "C": "Banning the use of wood for construction",
+        "D": "Taxing tree-cutters heavily"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Shivaji's administrative letters specifically ordered the protection of forests and trees near forts and villages — understanding that deforestation damaged water sources and agricultural land. This shows a remarkably modern ecological awareness."
+    },
+    {
+      "id": "test_8_7",
+      "question": "Which Mughal historian, despite being an enemy of Shivaji, recorded his respect for religious sites and women?",
+      "options": {
+        "A": "Abul Fazl",
+        "B": "Birbal",
+        "C": "Khafi Khan",
+        "D": "Todar Mal"
+      },
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": "Khafi Khan was a Mughal historian who wrote unfavorably about Shivaji overall, but even he recorded that Shivaji had strict orders not to harm mosques or women. When even an enemy historian records such virtue, it carries special weight as historical evidence."
+    },
+    {
+      "id": "test_8_8",
+      "question": "How did Shivaji's care for subjects differ from the Deccan Sultanates' approach?",
+      "options": {
+        "A": "There was no difference — all rulers were equally just",
+        "B": "Shivaji focused on people's welfare — fair taxes, food security, safe roads, equal justice — unlike the extractive approach of the sultans",
+        "C": "The sultans were actually more caring toward common people",
+        "D": "Shivaji collected higher taxes but spent more on public works"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The Deccan Sultanates primarily used Maharashtra's population for revenue extraction and soldiers. Shivaji created a system focused on the welfare of the people — fair taxation, care during famines, safe roads, equal justice — making Swaraj a kingdom that served its subjects rather than exploiting them."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Religious tolerance: protected mosques, churches, Muslim officers in army and navy",
+      "Respect for women: Kalyan episode, strict punishments for disrespect",
+      "Equal justice: rich and poor treated equally, Nyayadhish system",
+      "Care for subjects: tax relief during famines, protecting forests, wells, and roads",
+      "Rajarshi: king with saintly qualities — praised by Europeans, Mughals, and Bhakti saints"
+    ],
+    "commonMisconceptions": [
+      "Students sometimes think Shivaji's Swaraj was a Hindu religious kingdom that excluded Muslims — it was actually remarkably inclusive with Muslim officers, soldiers, and protected holy sites.",
+      "Some think the Kalyan episode is just a story — it is recorded by multiple independent sources including Mughal chroniclers, giving it historical credibility.",
+      "Students may confuse Rajarshi as a formal title given in a ceremony — it is an honorary description given by people and historians based on his character.",
+      "Shivaji's care for the environment through protecting forests is often overlooked — but it shows an advanced understanding of ecology centuries before the concept was formalized."
+    ],
+    "realWorldExamples": [
+      "Shivaji's principles of religious tolerance are cited by scholars and leaders in discussions of pluralism and inclusive governance in India today.",
+      "The annual Shiv Jayanti celebrations across Maharashtra keep his ideals of justice and equality in public memory.",
+      "International military historians cite ganimi kava and Shivaji's treatment of civilians as models of ethical warfare — relevant in contemporary discussions of humanitarian law in armed conflict."
+    ],
+    "formulas": []
+  }
+}
