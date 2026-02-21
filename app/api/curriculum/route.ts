@@ -1,17 +1,14 @@
 import { NextResponse } from 'next/server';
-import db from '@/lib/db/connection';
+import prisma from '@/lib/db/prisma';
 
 export async function GET() {
   try {
-    const stmt = db.prepare('SELECT * FROM curriculum ORDER BY subject, chapter_number');
-    const chapters = stmt.all();
-
+    const chapters = await prisma.curriculum.findMany({
+      orderBy: [{ subject: 'asc' }, { chapterNumber: 'asc' }],
+    });
     return NextResponse.json({ chapters });
   } catch (error) {
     console.error('Error fetching curriculum:', error);
-    return NextResponse.json(
-      { error: 'Failed to fetch curriculum' },
-      { status: 500 }
-    );
+    return NextResponse.json({ error: 'Failed to fetch curriculum' }, { status: 500 });
   }
 }

@@ -1,0 +1,110 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id           Int       @id @default(autoincrement())
+  username     String    @unique
+  email        String    @unique
+  passwordHash String    @map("password_hash")
+  name         String
+  grade        Int       @default(7)
+  board        String    @default("Maharashtra")
+  createdAt    DateTime  @default(now()) @map("created_at")
+  lastLogin    DateTime? @map("last_login")
+
+  sessions            Session[]
+  assessments         Assessment[]
+  progress            Progress[]
+  passwordResetTokens PasswordResetToken[]
+
+  @@map("users")
+}
+
+model Session {
+  id        Int       @id @default(autoincrement())
+  userId    Int       @map("user_id")
+  subject   String?
+  chapter   String?
+  startTime DateTime  @default(now()) @map("start_time")
+  endTime   DateTime? @map("end_time")
+
+  user     User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  messages Message[]
+
+  @@map("sessions")
+}
+
+model Message {
+  id        Int      @id @default(autoincrement())
+  sessionId Int      @map("session_id")
+  role      String
+  content   String
+  timestamp DateTime @default(now())
+
+  session Session @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  @@map("messages")
+}
+
+model Assessment {
+  id        Int      @id @default(autoincrement())
+  userId    Int      @map("user_id")
+  subject   String
+  chapter   String
+  questions Json
+  answers   Json
+  score     Float
+  total     Int
+  timestamp DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("assessments")
+}
+
+model Progress {
+  id              Int      @id @default(autoincrement())
+  userId          Int      @map("user_id")
+  subject         String
+  chapter         String
+  status          String   @default("not_started")
+  masteryLevel    Float    @default(0) @map("mastery_level")
+  lastPracticed   DateTime @default(now()) @map("last_practiced")
+  currentStage    Int      @default(1) @map("current_stage")
+  stagesCompleted Json     @default("[]") @map("stages_completed")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, subject, chapter])
+  @@map("progress")
+}
+
+model PasswordResetToken {
+  id        Int      @id @default(autoincrement())
+  userId    Int      @map("user_id")
+  token     String   @unique
+  expiresAt DateTime @map("expires_at")
+  used      Boolean  @default(false)
+  createdAt DateTime @default(now()) @map("created_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("password_reset_tokens")
+}
+
+model Curriculum {
+  id            Int     @id @default(autoincrement())
+  subject       String
+  chapterNumber Int     @map("chapter_number")
+  chapterName   String  @map("chapter_name")
+  description   String?
+  isActive      Boolean @default(true) @map("is_active")
+
+  @@unique([subject, chapterNumber])
+  @@map("curriculum")
+}

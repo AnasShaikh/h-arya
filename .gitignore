@@ -47,3 +47,5 @@ database.db-wal
 *.db
 *.db-shm
 *.db-wal
+
+/lib/generated/prisma

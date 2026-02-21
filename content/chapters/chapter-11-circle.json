@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "chapterNumber": 11,
+    "title": "Circle",
+    "subject": "Mathematics",
+    "pages": "75-79",
+    "description": "Circumference, radius, diameter, arc, central angle, measure of arc"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "What is the relationship between circumference and diameter of a circle?",
+      "options": ["Circumference ÷ Diameter = π", "Circumference = Diameter", "Circumference × Diameter = π", "Circumference + Diameter = π"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What is the circumference of a circle with diameter 14 cm? (Use π = 22/7)",
+      "options": ["44 cm", "28 cm", "88 cm", "22 cm"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "The arc that is smaller than a semicircle is called _____.",
+      "options": ["Minor arc", "Major arc", "Semicircular arc", "Chord"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "The measure of a semicircular arc is _____.",
+      "options": ["180°", "90°", "360°", "270°"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 4
+    },
+    {
+      "id": "q5",
+      "question": "The radius of a circular garden is 56 m. At ₹40 per metre for 4 rounds, what is the fencing cost? (π=22/7)",
+      "options": ["₹56,320", "₹14,080", "₹28,160", "₹70,400"],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 5
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Circumference and π (Pi)",
+      "emoji": "🔵",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The ratio of the circumference of any circle to its diameter is a constant called π (pi). π ≈ 22/7 ≈ 3.14. It is irrational (not a rational number). If radius is r and diameter is d, then circumference c = πd = 2πr.",
+      "pageReference": "75-76",
+      "examples": [
+        { "icon": "💍", "text": "Bangle: circumference 19cm, diameter 6cm, ratio = 3.16 ≈ π" },
+        { "icon": "🍽️", "text": "Circular dish: ratio of circumference to diameter ≈ 3.14" },
+        { "icon": "🔵", "text": "c = πd = 22/7 × 14 = 44 cm (for diameter 14cm)" },
+        { "icon": "📐", "text": "c = 2πr = 2 × 22/7 × 35 = 220 cm (for radius 35cm)" }
+      ],
+      "keyPoints": [
+        "c/d = π for any circle",
+        "π ≈ 22/7 ≈ 3.14 (irrational number)",
+        "Circumference c = πd = 2πr",
+        "If π value not given, use 22/7",
+        "π was proved irrational by great mathematicians"
+      ],
+      "funFact": "🌍 Archimedes calculated π to be between 3 10/71 and 3 1/7 over 2200 years ago — and we still use 22/7 today!",
+      "textbookRef": "Pages 75-76: Circumference and π"
+    },
+    {
+      "id": 2,
+      "title": "Calculating Circumference",
+      "emoji": "📏",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Use c = πd when diameter is given, or c = 2πr when radius is given. To find radius from circumference: r = c/(2π). To find diameter from circumference: d = c/π. Always check units — convert km to m when needed.",
+      "pageReference": "76-77",
+      "examples": [
+        { "icon": "📏", "text": "Diameter 14cm: c = 22/7 × 14 = 44 cm" },
+        { "icon": "⭕", "text": "Radius 35cm: c = 2 × 22/7 × 35 = 220 cm" },
+        { "icon": "🔄", "text": "c = 198cm: 198 = 2×22/7×r → r = 31.5 cm; d = 63 cm" },
+        { "icon": "🚌", "text": "Bus wheel d=0.7m: c=2.2m; 22km = 22000m → 10000 rotations" }
+      ],
+      "keyPoints": [
+        "c = πd (use when diameter is given)",
+        "c = 2πr (use when radius is given)",
+        "r = c/(2π) (find radius from circumference)",
+        "d = c/π (find diameter from circumference)",
+        "Convert all units before calculating"
+      ],
+      "funFact": "🚲 A bicycle wheel of diameter 70cm travels 2.2m per rotation — you can calculate how many rotations for any journey!",
+      "textbookRef": "Pages 76-77: Circumference Problems"
+    },
+    {
+      "id": 3,
+      "title": "Arc, Chord and Types of Arcs",
+      "emoji": "🌙",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "A chord divides a circle into two arcs. The smaller arc is the minor arc and the larger is the major arc. If two arcs together make a complete circle, they are corresponding arcs. A diameter creates two equal semicircular arcs, each measuring 180°.",
+      "pageReference": "77-78",
+      "examples": [
+        { "icon": "🌙", "text": "Chord AB divides circle: smaller = minor arc AXB, larger = major arc AYB" },
+        { "icon": "🔄", "text": "Bangle breaks at A and B: each piece is an arc" },
+        { "icon": "↔️", "text": "Diameter RT: two equal semicircular arcs, each 180°" },
+        { "icon": "⭕", "text": "Arc AXB and arc AYB are corresponding arcs (together = complete circle)" }
+      ],
+      "keyPoints": [
+        "Chord divides circle into two arcs",
+        "Minor arc: smaller arc",
+        "Major arc: larger arc",
+        "Corresponding arcs: two arcs that together form a complete circle",
+        "Diameter creates two equal semicircular arcs of 180° each"
+      ],
+      "funFact": "💍 When a bangle breaks, each piece is an arc! The two pieces together form the complete circle.",
+      "textbookRef": "Pages 77-78: Arc of a Circle"
+    },
+    {
+      "id": 4,
+      "title": "Central Angle and Measure of Arc",
+      "emoji": "🎯",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "A central angle is an angle whose vertex is the centre of the circle. The measure of an arc equals the measure of its corresponding central angle. Measure of major arc = 360° - measure of minor arc. A complete circle measures 360°. Semicircular arc = 180°.",
+      "pageReference": "78",
+      "examples": [
+        { "icon": "🎯", "text": "∠AOQ = 70° → minor arc AYQ measures 70°" },
+        { "icon": "🔄", "text": "Major arc AXQ = 360° - 70° = 290°" },
+        { "icon": "📐", "text": "m(arc AXB) = 120° → m(arc AYB) = 360° - 120° = 240°" },
+        { "icon": "⭕", "text": "Complete circle = 360°; Semicircle = 180°" }
+      ],
+      "keyPoints": [
+        "Central angle: vertex at centre of circle",
+        "Measure of minor arc = corresponding central angle",
+        "Measure of major arc = 360° - minor arc measure",
+        "Complete circle = 360°",
+        "Semicircular arc = 180°"
+      ],
+      "funFact": "🌍 The 360° circle is ancient — Babylonian astronomers used it 4000 years ago because 360 has many divisors!",
+      "textbookRef": "Page 78: Central Angle and Arc Measure"
+    },
+    {
+      "id": 5,
+      "title": "Real-world Applications",
+      "emoji": "🌐",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Circles appear everywhere: fencing circular gardens (circumference × number of rounds), wheel rotations (distance ÷ circumference), cost calculations. For these problems, find the circumference first, then apply the given rate or number of rounds.",
+      "pageReference": "76-77",
+      "examples": [
+        { "icon": "🌱", "text": "Garden r=56m: c=352m; 4 rounds = 1408m; cost at ₹40/m = ₹56,320" },
+        { "icon": "🚌", "text": "Bus wheel d=0.7m: c=2.2m; distance 22km=22000m; rotations=10000" },
+        { "icon": "🔁", "text": "Bullock cart wheel d=1.4m: c=4.4m; distance 1.1km=1100m; rotations=250" },
+        { "icon": "💰", "text": "Circular plot r=7.7m: 3 rounds fencing at ₹50/m: cost=₹7,260" }
+      ],
+      "keyPoints": [
+        "Fencing cost = circumference × number of rounds × cost per metre",
+        "Rotations = total distance ÷ circumference",
+        "Convert all distances to same units before dividing",
+        "1 rotation = 1 circumference of the wheel",
+        "Find circumference first before solving application problems"
+      ],
+      "funFact": "🚲 A bicycle wheel of diameter 0.7m completes exactly 10,000 rotations to travel 22 km — pure mathematics in motion!",
+      "textbookRef": "Pages 76-77: Applications of Circumference"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "The diameter of a circle is 14 cm. What is its circumference? (π = 22/7)",
+      "options": ["44 cm", "28 cm", "88 cm", "14π cm"],
+      "correctAnswer": "A",
+      "explanation": "c = πd = 22/7 × 14 = 44 cm",
+      "conceptIds": [1, 2],
+      "pageReference": "76"
+    },
+    {
+      "id": "q2",
+      "question": "The radius of a circle is 35 cm. What is its circumference? (π = 22/7)",
+      "options": ["220 cm", "110 cm", "70 cm", "44 cm"],
+      "correctAnswer": "A",
+      "explanation": "c = 2πr = 2 × 22/7 × 35 = 220 cm",
+      "conceptIds": [2],
+      "pageReference": "76"
+    },
+    {
+      "id": "q3",
+      "question": "If circumference is 176 cm, what is the radius? (π = 22/7)",
+      "options": ["28 cm", "14 cm", "56 cm", "22 cm"],
+      "correctAnswer": "A",
+      "explanation": "c = 2πr → 176 = 2×22/7×r → r = 176×7/44 = 28 cm",
+      "conceptIds": [2],
+      "pageReference": "77"
+    },
+    {
+      "id": "q4",
+      "question": "Arc AXB and arc AYB are corresponding arcs. m(arc AXB) = 120°. What is m(arc AYB)?",
+      "options": ["240°", "60°", "140°", "160°"],
+      "correctAnswer": "A",
+      "explanation": "Measure of major arc = 360° - minor arc = 360° - 120° = 240°",
+      "conceptIds": [4],
+      "pageReference": "79"
+    },
+    {
+      "id": "q5",
+      "question": "The measure of a minor arc is 110°. What is the measure of the major arc PYQ?",
+      "options": ["250°", "110°", "290°", "360°"],
+      "correctAnswer": "A",
+      "explanation": "Major arc = 360° - minor arc = 360° - 110° = 250°",
+      "conceptIds": [4],
+      "pageReference": "79"
+    },
+    {
+      "id": "q6",
+      "question": "A wheel has diameter 0.7 m. How many rotations to travel 22 km?",
+      "options": ["10,000", "100", "1,000", "22,000"],
+      "correctAnswer": "A",
+      "explanation": "c = πd = 22/7 × 0.7 = 2.2 m. 22 km = 22,000 m. Rotations = 22,000/2.2 = 10,000",
+      "conceptIds": [5],
+      "pageReference": "77"
+    },
+    {
+      "id": "q7",
+      "question": "The circumference of a circle is 62.80 cm. What is its diameter? (π = 3.14)",
+      "options": ["20 cm", "10 cm", "30 cm", "40 cm"],
+      "correctAnswer": "A",
+      "explanation": "c = πd → 62.80 = 3.14 × d → d = 62.80/3.14 = 20 cm",
+      "conceptIds": [2],
+      "pageReference": "76"
+    },
+    {
+      "id": "q8",
+      "question": "A central angle of 70° corresponds to a minor arc. What is the measure of this arc?",
+      "options": ["70°", "110°", "290°", "140°"],
+      "correctAnswer": "A",
+      "explanation": "The measure of a minor arc equals its corresponding central angle. So the arc measures 70°.",
+      "conceptIds": [4],
+      "pageReference": "78"
+    },
+    {
+      "id": "q9",
+      "question": "The circumference of a circle is 198 cm. What is its radius? (π = 22/7)",
+      "options": ["31.5 cm", "63 cm", "28 cm", "14 cm"],
+      "correctAnswer": "A",
+      "explanation": "c = 2πr → 198 = 2×22/7×r → r = 198×7/44 = 31.5 cm",
+      "conceptIds": [2],
+      "pageReference": "76"
+    },
+    {
+      "id": "q10",
+      "question": "The radius of a circular garden is 56 m. What is the cost of 4-round fencing at ₹40/m? (π=22/7)",
+      "options": ["₹56,320", "₹14,080", "₹352", "₹28,160"],
+      "correctAnswer": "A",
+      "explanation": "c = 2×22/7×56 = 352 m. 4 rounds = 1408 m. Cost = 1408×40 = ₹56,320",
+      "conceptIds": [5],
+      "pageReference": "77"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "π (pi) = circumference/diameter ≈ 22/7 ≈ 3.14 (irrational constant)",
+      "Circumference c = πd = 2πr",
+      "Minor arc < semicircle; Major arc > semicircle",
+      "Corresponding arcs: two arcs forming a complete circle",
+      "Measure of minor arc = corresponding central angle",
+      "Measure of major arc = 360° - minor arc",
+      "Semicircular arc = 180°; Complete circle = 360°"
+    ],
+    "commonMisconceptions": [
+      "π = 22/7 exactly — FALSE, 22/7 is an approximation; π is irrational",
+      "Circumference = 2πd — FALSE, it's 2πr or πd (not both)",
+      "Major arc measure = 360° - major arc — FALSE, it's 360° - MINOR arc",
+      "All chords are diameters — FALSE, diameter is the longest chord only"
+    ],
+    "realWorldExamples": [
+      "Circular garden fencing: circumference × rounds × cost per metre",
+      "Wheel rotations: total distance ÷ circumference",
+      "Bangle measurement: use thread to measure circumference",
+      "Bicycle wheel: calculate journey distance from rotations",
+      "Circular plate: find circumference to estimate edge length"
+    ],
+    "formulas": [
+      { "formula": "c = πd = 2πr", "explanation": "Circumference of circle (π ≈ 22/7 or 3.14)" },
+      { "formula": "r = c/(2π)", "explanation": "Find radius from circumference" },
+      { "formula": "Rotations = distance/circumference", "explanation": "Number of wheel rotations for a given distance" },
+      { "formula": "Major arc = 360° - minor arc", "explanation": "Relationship between corresponding arcs" }
+    ]
+  }
+}

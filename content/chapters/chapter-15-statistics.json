@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "chapterNumber": 15,
+    "title": "Statistics",
+    "subject": "Mathematics",
+    "pages": "95-99",
+    "description": "Average (mean), frequency, frequency distribution table, tally marks"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Asmita's cycling times (Mon-Sat): 20,20,22,18,18,20 minutes. What is the average?",
+      "options": ["19⅔ minutes", "20 minutes", "18 minutes", "22 minutes"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What is the formula for average?",
+      "options": ["Sum of all scores ÷ Number of scores", "Sum of all scores × Number of scores", "Highest score - Lowest score", "Middle score"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "The number of times a score appears in data is called its _____.",
+      "options": ["Frequency", "Average", "Tally", "Total"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "In a frequency table, the 5th tally mark is written as _____.",
+      "options": ["|||| (crossed)", "||||", "।।।।।", "|||||"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 4
+    },
+    {
+      "id": "q5",
+      "question": "The average of 9, 11, 8, 20, 10, 16, 12 is _____.",
+      "options": ["12.28", "11", "10", "14"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 1
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Average (Mean)",
+      "emoji": "📊",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The average (or mean) gives a single representative value for a set of data. Average = Sum of all scores ÷ Total number of scores. For example, if Asmita cycles in 20, 20, 22, 18, 18, 20 minutes, the average = 118/6 = 19⅔ minutes. The average can be a fraction even when all scores are whole numbers.",
+      "pageReference": "95",
+      "examples": [
+        { "icon": "🚲", "text": "Asmita cycling times: (20+20+22+18+18+20)/6 = 118/6 = 19⅔ min" },
+        { "icon": "🏫", "text": "School distances: (950+800+700+1500+1000+750)/6 = 950m" },
+        { "icon": "🏆", "text": "Rutuja skips: (60+62+61+60+59+63+58)/7 = 60.42 jumps/min" },
+        { "icon": "📊", "text": "Average can be a fraction even if all scores are whole numbers" }
+      ],
+      "keyPoints": [
+        "Average = Sum of all scores ÷ Number of scores",
+        "Also called 'mean'",
+        "Average can be a decimal/fraction even for whole-number data",
+        "Gives a central representative value for the data",
+        "Convert all values to same units before finding average"
+      ],
+      "funFact": "🌾 A farmer says 'average yield per acre' — this single number represents production across all acres!",
+      "textbookRef": "Page 95: Average"
+    },
+    {
+      "id": 2,
+      "title": "Calculating Average — Worked Examples",
+      "emoji": "🧮",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Steps to find average: 1) Express all values in the same unit. 2) Add all scores. 3) Divide by the count. Example: distances 950m, 800m, 700m, 1.5km, 1km, 750m — convert 1.5km=1500m, 1km=1000m first, then sum and divide by 6.",
+      "pageReference": "95-96",
+      "examples": [
+        { "icon": "📏", "text": "Mix of km and m: convert all to same unit first" },
+        { "icon": "💰", "text": "Sales: ₹960,830,945,800,847,970; average = (total)/6" },
+        { "icon": "🌧️", "text": "Rainfall: 9+11+8+20+10+16+12=86mm; average=86/7≈12.28mm" },
+        { "icon": "🌾", "text": "Vidarbha rainfall over 5 years: (900+650+450+733+400)/5 = 2133/5 = 426.6mm" }
+      ],
+      "keyPoints": [
+        "Always convert to same units before averaging",
+        "Sum all values then divide by count",
+        "Check: average should lie between min and max",
+        "Used in weather, agriculture, economics",
+        "Average of same numbers = that number itself"
+      ],
+      "funFact": "☔ Average rainfall decides if a region is 'arid', 'semi-arid' or 'rainy' — used in classifying India's climate zones!",
+      "textbookRef": "Pages 95-96: Calculating Average"
+    },
+    {
+      "id": 3,
+      "title": "Frequency",
+      "emoji": "🔢",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "When a score appears more than once in data, the number of times it appears is called its frequency. Instead of listing every occurrence, we record scores and their frequencies in a table — much more efficient for large datasets.",
+      "pageReference": "97",
+      "examples": [
+        { "icon": "🔢", "text": "Data: 1,3,2,4,5,4,1,3,4,5,6,4,6,4,6 — score 4 appears 5 times, frequency=5" },
+        { "icon": "🫛", "text": "Priya shelling peas: 50 pods, frequencies of 2,3,4,5,6,7,8 peas per pod" },
+        { "icon": "📊", "text": "Class distances: 15 students, 6 different distances (scores)" },
+        { "icon": "🎲", "text": "Dice: numbers 1-6, frequency of each number in 40 rolls" }
+      ],
+      "keyPoints": [
+        "Frequency = number of times a score occurs",
+        "Same score can appear multiple times",
+        "Frequency table saves space for large datasets",
+        "Total of all frequencies = N (total count)",
+        "Finding average from frequency table is more efficient"
+      ],
+      "funFact": "📊 In a class of 40 students, instead of writing 40 heights, a frequency table shows each height once with how many students have it!",
+      "textbookRef": "Page 97: Frequency"
+    },
+    {
+      "id": 4,
+      "title": "Frequency Distribution Table",
+      "emoji": "📋",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "A frequency table has three columns: Score, Tally marks, Frequency. Scores are written in ascending order. Tally marks are made one by one (groups of 5: four vertical, fifth diagonal). Count tallies to get frequency. Sum of all frequencies = N (total number of scores).",
+      "pageReference": "97-98",
+      "examples": [
+        { "icon": "📋", "text": "Scores in ascending order: 1,2,3,4,5,6" },
+        { "icon": "🖊️", "text": "Tally marks: ।, ।।, ।।।, ।।।।, then ।।।। (group of 5)" },
+        { "icon": "📊", "text": "Distance data: score 4 has frequency 5 (appears 5 times)" },
+        { "icon": "🫛", "text": "Pea pods: frequencies of 8,15,12,2,7,3,3 for 2,3,4,5,6,7,8 peas; N=50" }
+      ],
+      "keyPoints": [
+        "Three columns: Score | Tally marks | Frequency",
+        "Scores written in ascending order",
+        "5th tally mark crosses the previous 4 (easier counting)",
+        "Cross off each data item as you count it",
+        "Sum of all frequencies = N = total number of data"
+      ],
+      "funFact": "🖊️ Tally marks (groups of 5) were used by ancient humans long before writing systems — it's one of humanity's oldest counting methods!",
+      "textbookRef": "Pages 97-98: Frequency Distribution Table"
+    },
+    {
+      "id": 5,
+      "title": "Average from Frequency Table",
+      "emoji": "⚡",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "For large datasets, use the frequency table to find average efficiently. Instead of adding all 50 values individually, multiply each score by its frequency: sum(score × frequency) / N. Example: 8 pods with 2 peas: 2×8=16; 15 pods with 3 peas: 3×15=45; etc.",
+      "pageReference": "98",
+      "examples": [
+        { "icon": "⚡", "text": "Peas: 2×8+3×15+4×12+5×2+6×7+7×3+8×3 = 206; avg = 206/50 = 4.12" },
+        { "icon": "📊", "text": "Much faster than adding 50 individual numbers!" },
+        { "icon": "🧮", "text": "Average = Σ(score × frequency) / N" },
+        { "icon": "✅", "text": "N = total frequency = sum of all individual frequencies" }
+      ],
+      "keyPoints": [
+        "Average = Σ(score × frequency) / N",
+        "More efficient than adding all values individually",
+        "Multiply each score by its frequency first",
+        "Sum all products, then divide by N",
+        "Average may be a decimal even for whole-number scores"
+      ],
+      "funFact": "🌱 Priya's mother used this method to find average peas per pod without adding 50 numbers! Seven multiplications vs fifty additions.",
+      "textbookRef": "Page 98: Average Using Frequency Table"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "The daily rainfall in a week: 9, 11, 8, 20, 10, 16, 12 mm. What is the average?",
+      "options": ["12.28 mm", "11 mm", "13 mm", "86 mm"],
+      "correctAnswer": "A",
+      "explanation": "Average = (9+11+8+20+10+16+12)/7 = 86/7 ≈ 12.28 mm",
+      "conceptIds": [1],
+      "pageReference": "96"
+    },
+    {
+      "id": "q2",
+      "question": "Six students live at 950m, 800m, 700m, 1.5km, 1km, 750m from school. Average distance?",
+      "options": ["950 m", "800 m", "1000 m", "850 m"],
+      "correctAnswer": "A",
+      "explanation": "Convert: 1.5km=1500m, 1km=1000m. Sum = 950+800+700+1500+1000+750=5700m. Average = 5700/6 = 950m.",
+      "conceptIds": [2],
+      "pageReference": "95"
+    },
+    {
+      "id": "q3",
+      "question": "Annual rainfall in Vidarbha over 5 years: 900, 650, 450, 733, 400 mm. Average?",
+      "options": ["626.6 mm", "500 mm", "900 mm", "2133 mm"],
+      "correctAnswer": "A",
+      "explanation": "Average = (900+650+450+733+400)/5 = 3133/5 = 626.6 mm",
+      "conceptIds": [2],
+      "pageReference": "96"
+    },
+    {
+      "id": "q4",
+      "question": "The number of times a particular score appears in data is called _____.",
+      "options": ["Frequency", "Average", "Mean", "Tally"],
+      "correctAnswer": "A",
+      "explanation": "Frequency is the number of times a particular score occurs in the data.",
+      "conceptIds": [3],
+      "pageReference": "97"
+    },
+    {
+      "id": "q5",
+      "question": "Scores: 1,2,3,4,5 appear 2,1,2,5,2 times. What is N?",
+      "options": ["12", "5", "10", "15"],
+      "correctAnswer": "A",
+      "explanation": "N = sum of all frequencies = 2+1+2+5+2 = 12 (total number of scores)",
+      "conceptIds": [4],
+      "pageReference": "97"
+    },
+    {
+      "id": "q6",
+      "question": "Snacks stall hourly sales: ₹960, 830, 945, 800, 847, 970. Average hourly sales?",
+      "options": ["₹892", "₹960", "₹847", "₹900"],
+      "correctAnswer": "A",
+      "explanation": "Sum = 960+830+945+800+847+970 = 5352. Average = 5352/6 = ₹892.",
+      "conceptIds": [1],
+      "pageReference": "96"
+    },
+    {
+      "id": "q7",
+      "question": "Priya counts peas in pods. Frequency table shows 2 peas: 8 pods, 3 peas: 15 pods, 4 peas: 12 pods. How many total pods (these 3 scores)?",
+      "options": ["35", "50", "9", "25"],
+      "correctAnswer": "A",
+      "explanation": "Total for these 3 scores = 8+15+12 = 35 pods",
+      "conceptIds": [3, 4],
+      "pageReference": "98"
+    },
+    {
+      "id": "q8",
+      "question": "Using frequency table: score 3 appears 15 times, score 4 appears 12 times. Their combined contribution to sum is _____.",
+      "options": ["3×15 + 4×12 = 45+48 = 93", "3+4=7", "15+12=27", "3×4=12"],
+      "correctAnswer": "A",
+      "explanation": "For average from frequency table: each score × its frequency. 3×15=45 and 4×12=48. Combined = 93.",
+      "conceptIds": [5],
+      "pageReference": "98"
+    },
+    {
+      "id": "q9",
+      "question": "Average weights of sacks: 49.8, 49.7, 49.5, 49.3, 50, 48.9, 49.2, 48.8 kg. Average?",
+      "options": ["49.4 kg", "49.5 kg", "50 kg", "48.8 kg"],
+      "correctAnswer": "A",
+      "explanation": "Sum = 49.8+49.7+49.5+49.3+50+48.9+49.2+48.8 = 395.2. Average = 395.2/8 = 49.4 kg",
+      "conceptIds": [1, 2],
+      "pageReference": "96"
+    },
+    {
+      "id": "q10",
+      "question": "Rutuja's daily skipping jumps for 7 days: 60,62,61,60,59,63,58. What is her average?",
+      "options": ["60.43", "60", "62", "61"],
+      "correctAnswer": "A",
+      "explanation": "Sum = 60+62+61+60+59+63+58 = 423. Average = 423/7 = 60.43 jumps/minute.",
+      "conceptIds": [1],
+      "pageReference": "96"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Average (mean) = Sum of all scores ÷ Number of scores",
+      "Average can be a fraction even when all scores are whole numbers",
+      "Frequency = number of times a score appears in data",
+      "Frequency table: Score | Tally marks | Frequency",
+      "Tally marks: groups of 5 (four vertical, fifth diagonal)",
+      "Sum of all frequencies = N (total data count)",
+      "Average from frequency table = Σ(score × frequency) / N"
+    ],
+    "commonMisconceptions": [
+      "Average must be a whole number — FALSE, it can be a decimal",
+      "Average = middle value (median) — FALSE, average is sum divided by count",
+      "Frequency = tally marks — PARTLY TRUE, frequency is the count shown by tally marks",
+      "You need to list all data to find average — FALSE, use score × frequency for efficiency"
+    ],
+    "realWorldExamples": [
+      "Asmita cycling times to school (Mon-Sat)",
+      "School attendance average over a week",
+      "Average height of students in a class",
+      "Daily rainfall average for a week",
+      "Snacks stall sales average per hour at school annual function",
+      "Average number of peas in peapods"
+    ],
+    "formulas": [
+      { "formula": "Average = Σ(scores) / n", "explanation": "Sum of all scores divided by number of scores" },
+      { "formula": "Average = Σ(score × frequency) / N", "explanation": "Efficient method when using frequency table" }
+    ]
+  }
+}

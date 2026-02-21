@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import db from '@/lib/db/connection';
+import prisma from '@/lib/db/prisma';
 
 export async function POST(
   request: NextRequest,
@@ -7,109 +7,87 @@ export async function POST(
 ) {
   try {
     const { userId, stageCompleted, score } = await request.json();
-    const resolvedParams = await params;
-    const chapterId = parseInt(resolvedParams.id);
+    const { id } = await params;
+    const chapterId = parseInt(id);
 
     if (!userId || !stageCompleted) {
-      return NextResponse.json(
-        { error: 'User ID and stage are required' },
-        { status: 400 }
-      );
+      return NextResponse.json({ error: 'User ID and stage are required' }, { status: 400 });
     }
 
-    // Get chapter details
-    const chapterStmt = db.prepare('SELECT * FROM curriculum WHERE id = ?');
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    const chapter = chapterStmt.get(chapterId) as any;
+    const chapter = await prisma.curriculum.findUnique({ where: { id: chapterId } });
 
     if (!chapter) {
-      return NextResponse.json(
-        { error: 'Chapter not found' },
-        { status: 404 }
-      );
+      return NextResponse.json({ error: 'Chapter not found' }, { status: 404 });
     }
 
-    // Get current progress
-    const progressStmt = db.prepare(
-      'SELECT * FROM progress WHERE user_id = ? AND subject = ? AND chapter = ?'
-    );
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    let progress = progressStmt.get(userId, chapter.subject, chapter.chapter_name) as any;
+    const existing = await prisma.progress.findUnique({
+      where: {
+        userId_subject_chapter: {
+          userId: parseInt(userId),
+          subject: chapter.subject,
+          chapter: chapter.chapterName,
+        },
+      },
+    });
 
     let completedStages: number[] = [];
     let currentStage = stageCompleted;
 
-    if (progress) {
-      // Parse existing completed stages
-      try {
-        completedStages = JSON.parse(progress.stages_completed || '[]');
-      } catch (e) {
-        completedStages = [];
-      }
-      
-      // Add this stage if not already completed
+    if (existing) {
+      completedStages = Array.isArray(existing.stagesCompleted)
+        ? (existing.stagesCompleted as number[])
+        : [];
+
       if (!completedStages.includes(stageCompleted)) {
         completedStages.push(stageCompleted);
         completedStages.sort((a, b) => a - b);
       }
 
-      // Update current stage to next incomplete stage
       currentStage = completedStages.length === 5 ? 5 : Math.max(...completedStages) + 1;
 
-      // Update existing progress
-      const updateStmt = db.prepare(`
-        UPDATE progress 
-        SET current_stage = ?, 
-            stages_completed = ?, 
-            mastery_level = ?,
-            status = ?,
-            last_practiced = CURRENT_TIMESTAMP
-        WHERE user_id = ? AND subject = ? AND chapter = ?
-      `);
-      
       const status = completedStages.length === 5 ? 'completed' : 'in_progress';
-      
-      updateStmt.run(
-        currentStage,
-        JSON.stringify(completedStages),
-        score || progress.mastery_level || 0,
-        status,
-        userId,
-        chapter.subject,
-        chapter.chapter_name
-      );
+
+      await prisma.progress.update({
+        where: {
+          userId_subject_chapter: {
+            userId: parseInt(userId),
+            subject: chapter.subject,
+            chapter: chapter.chapterName,
+          },
+        },
+        data: {
+          currentStage,
+          stagesCompleted: completedStages,
+          masteryLevel: score ?? existing.masteryLevel,
+          status,
+          lastPracticed: new Date(),
+        },
+      });
     } else {
-      // Create new progress entry
       completedStages = [stageCompleted];
-      currentStage = 2; // Move to stage 2 after completing stage 1
+      currentStage = 2;
 
-      const insertStmt = db.prepare(`
-        INSERT INTO progress (user_id, subject, chapter, current_stage, stages_completed, mastery_level, status)
-        VALUES (?, ?, ?, ?, ?, ?, ?)
-      `);
-
-      insertStmt.run(
-        userId,
-        chapter.subject,
-        chapter.chapter_name,
-        currentStage,
-        JSON.stringify(completedStages),
-        score || 0,
-        'in_progress'
-      );
+      await prisma.progress.create({
+        data: {
+          userId: parseInt(userId),
+          subject: chapter.subject,
+          chapter: chapter.chapterName,
+          currentStage,
+          stagesCompleted: completedStages,
+          masteryLevel: score ?? 0,
+          status: 'in_progress',
+        },
+      });
     }
 
     return NextResponse.json({
       success: true,
       currentStage,
       completedStages,
-      message: `Stage ${stageCompleted} completed!`
+      message: `Stage ${stageCompleted} completed!`,
     });
   } catch (error) {
     console.error('Error updating progress:', error);
-    return NextResponse.json(
-      { error: 'Failed to update progress' },
-      { status: 500 }
-    );
+    return NextResponse.json({ error: 'Failed to update progress' }, { status: 500 });
   }
 }

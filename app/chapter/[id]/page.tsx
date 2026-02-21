@@ -7,8 +7,8 @@ import Link from 'next/link';
 interface Chapter {
   id: number;
   subject: string;
-  chapter_number: number;
-  chapter_name: string;
+  chapterNumber: number;
+  chapterName: string;
   description: string;
 }
 
@@ -156,7 +156,7 @@ export default function ChapterPage() {
         <div className="bg-white rounded-2xl shadow-xl p-8 mb-6">
           <div className="mb-6">
             <h1 className="text-3xl font-bold text-gray-900 mb-2">
-              Chapter {chapter?.chapter_number}: {chapter?.chapter_name}
+              Chapter {chapter?.chapterNumber}: {chapter?.chapterName}
             </h1>
             <p className="text-gray-700">{chapter?.description}</p>
             <p className="text-sm text-gray-600 mt-2">Subject: {chapter?.subject}</p>

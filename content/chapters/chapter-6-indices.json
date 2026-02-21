@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "chapterNumber": 6,
+    "title": "Indices",
+    "subject": "Mathematics",
+    "pages": "43-50",
+    "description": "Base and index, laws of indices, square roots"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "In the expression 2⁸, what is the base and what is the index?",
+      "options": ["Base=2, Index=8", "Base=8, Index=2", "Base=2, Index=0", "Base=16, Index=1"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What is 2⁴ × 2³?",
+      "options": ["2⁷", "2¹²", "4⁷", "2¹"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "What is a⁰ equal to (where a ≠ 0)?",
+      "options": ["1", "0", "a", "Undefined"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "What is (2³)⁴?",
+      "options": ["2¹²", "2⁷", "8⁴", "2³"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 4
+    },
+    {
+      "id": "q5",
+      "question": "What is √144?",
+      "options": ["12", "14", "11", "13"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 5
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Base and Index",
+      "emoji": "🔝",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "When a number is multiplied by itself several times, we use index notation. In aᵐ, 'a' is called the base and 'm' is called the index or exponent. For example, 2⁸ means 2 multiplied by itself 8 times. The first power (a¹) of any number is the number itself.",
+      "pageReference": "43-44",
+      "examples": [
+        { "icon": "🔝", "text": "2⁸ = 2×2×2×2×2×2×2×2 = 256" },
+        { "icon": "5⁴", "text": "5⁴ = 5×5×5×5 = 625 (base=5, index=4)" },
+        { "icon": "🔢", "text": "(-2/3)³ = (-2/3)×(-2/3)×(-2/3) = -8/27" },
+        { "icon": "1️⃣", "text": "7¹ = 7 (first power = number itself)" }
+      ],
+      "keyPoints": [
+        "aᵐ = a multiplied by itself m times",
+        "a = base, m = index (or exponent)",
+        "a¹ = a (first power = the number itself)",
+        "Read as 'a raised to the power m'",
+        "Second power = square; Third power = cube"
+      ],
+      "funFact": "🌍 The distance from Earth to Moon is 3.84 × 10⁸ metres — indices make huge numbers manageable!",
+      "textbookRef": "Pages 43-44: Base and Index"
+    },
+    {
+      "id": 2,
+      "title": "Multiplication Law: aᵐ × aⁿ = aᵐ⁺ⁿ",
+      "emoji": "✖️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "When multiplying two powers with the same base, add the indices. aᵐ × aⁿ = aᵐ⁺ⁿ. For example, 2⁴ × 2³ = 2⁷. This works because expanding shows 4+3=7 twos being multiplied. The base must be the same.",
+      "pageReference": "44",
+      "examples": [
+        { "icon": "✖️", "text": "2⁴ × 2³ = 2⁴⁺³ = 2⁷ = 128" },
+        { "icon": "📊", "text": "(-3)² × (-3)³ = (-3)⁵" },
+        { "icon": "🔢", "text": "a¹⁶ × a⁷ = a²³" },
+        { "icon": "📐", "text": "(P/5)³ × (P/5)⁷ = (P/5)¹⁰" }
+      ],
+      "keyPoints": [
+        "aᵐ × aⁿ = aᵐ⁺ⁿ (same base, add indices)",
+        "Base must be the same for this law to apply",
+        "Works for any rational base",
+        "Works for positive, negative and fractional indices",
+        "Cannot add indices when bases are different: 2³ × 3² ≠ 6⁵"
+      ],
+      "funFact": "📱 This law is why computer storage doubles: 2¹⁰ KB × 2¹⁰ = 2²⁰ bytes = 1 megabyte!",
+      "textbookRef": "Page 44: Multiplication of Indices"
+    },
+    {
+      "id": 3,
+      "title": "Division Law, a⁰ = 1, and Negative Indices",
+      "emoji": "➗",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "When dividing same base powers, subtract indices: aᵐ ÷ aⁿ = aᵐ⁻ⁿ. When m=n: aᵐ/aᵐ = a⁰ = 1. A negative index means reciprocal: a⁻ᵐ = 1/aᵐ. Also, (a/b)⁻ᵐ = (b/a)ᵐ.",
+      "pageReference": "45",
+      "examples": [
+        { "icon": "➗", "text": "6⁴ ÷ 6² = 6⁴⁻² = 6² = 36" },
+        { "icon": "0️⃣", "text": "Any non-zero number to power 0 = 1: 5⁰=1, (−7)⁰=1" },
+        { "icon": "⁻¹", "text": "a⁻¹ = 1/a (multiplicative inverse of a)" },
+        { "icon": "🔄", "text": "(3/5)⁻³ = (5/3)³ = 125/27" }
+      ],
+      "keyPoints": [
+        "aᵐ ÷ aⁿ = aᵐ⁻ⁿ (same base, subtract indices)",
+        "a⁰ = 1 for any non-zero a",
+        "a⁻ᵐ = 1/aᵐ (negative index = reciprocal)",
+        "(a/b)⁻ᵐ = (b/a)ᵐ",
+        "a⁻¹ is the multiplicative inverse of a"
+      ],
+      "funFact": "🔬 Negative indices are used in science: the diameter of an oxygen atom = 3.56 × 10⁻¹⁴ mm!",
+      "textbookRef": "Page 45: Division, Zero Index, Negative Indices"
+    },
+    {
+      "id": 4,
+      "title": "Power of a Power: (aᵐ)ⁿ = aᵐⁿ",
+      "emoji": "🔝",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "When raising a power to another power, multiply the indices: (aᵐ)ⁿ = aᵐˣⁿ = aᵐⁿ. Also: (ab)ᵐ = aᵐ × bᵐ and (a/b)ᵐ = aᵐ/bᵐ. Summary of all laws of indices.",
+      "pageReference": "46-48",
+      "examples": [
+        { "icon": "🔝", "text": "(5²)³ = 5²ˣ³ = 5⁶ = 15625" },
+        { "icon": "✖️", "text": "(2×3)⁴ = 2⁴ × 3⁴ = 16 × 81 = 1296" },
+        { "icon": "📐", "text": "(4/5)³ = 4³/5³ = 64/125" },
+        { "icon": "🔢", "text": "(7⁻²)⁵ = 7⁻¹⁰ = 1/7¹⁰" }
+      ],
+      "keyPoints": [
+        "(aᵐ)ⁿ = aᵐⁿ (multiply the indices)",
+        "(ab)ᵐ = aᵐ × bᵐ",
+        "(a/b)ᵐ = aᵐ/bᵐ",
+        "All these laws work for positive, negative and zero indices",
+        "Standard form: a number between 1 and 10 multiplied by a power of 10"
+      ],
+      "funFact": "⚡ The speed of light is 3 × 10⁸ m/s and the diameter of the sun is 1.4 × 10⁹ m — standard form uses (aᵐ)ⁿ laws!",
+      "textbookRef": "Pages 46-48: Power of a Power and Laws Summary"
+    },
+    {
+      "id": 5,
+      "title": "Square Roots",
+      "emoji": "√",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "The square root of a number n is a number whose square gives n. Every positive number has two square roots (positive and negative). Square root by prime factors: factorise into primes, make pairs, take one from each pair and multiply.",
+      "pageReference": "49-50",
+      "examples": [
+        { "icon": "√", "text": "√9 = 3 because 3² = 9" },
+        { "icon": "🔢", "text": "√144: 144=2⁴×3² → √144=2²×3=12" },
+        { "icon": "📊", "text": "√324: 324=2²×3⁴ → √324=2×3²=18" },
+        { "icon": "📐", "text": "√625=25, √1225=35, √289=17" }
+      ],
+      "keyPoints": [
+        "Square root of n = number whose square is n",
+        "Positive square root shown as √n",
+        "Every positive number has two square roots: √n and -√n",
+        "Prime factors method: pair up prime factors, take one from each pair",
+        "Division method also exists for larger numbers"
+      ],
+      "funFact": "🏛️ The Pythagoreans of ancient Greece were so disturbed by irrational numbers (like √2) that they kept them secret!",
+      "textbookRef": "Pages 49-50: Square Roots"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "Find the value of 2¹⁰.",
+      "options": ["1024", "512", "256", "2048"],
+      "correctAnswer": "A",
+      "explanation": "2¹⁰ = 2×2×2×2×2×2×2×2×2×2 = 1024",
+      "conceptIds": [1],
+      "pageReference": "44"
+    },
+    {
+      "id": "q2",
+      "question": "7⁴ × 7² = ?",
+      "options": ["7⁶", "7⁸", "49⁶", "7²"],
+      "correctAnswer": "A",
+      "explanation": "Same base, add indices: 7⁴ × 7² = 7⁴⁺² = 7⁶",
+      "conceptIds": [2],
+      "pageReference": "44"
+    },
+    {
+      "id": "q3",
+      "question": "a⁶ ÷ a⁴ = ?",
+      "options": ["a²", "a¹⁰", "a³", "a⁰"],
+      "correctAnswer": "A",
+      "explanation": "Same base, subtract indices: a⁶ ÷ a⁴ = a⁶⁻⁴ = a²",
+      "conceptIds": [3],
+      "pageReference": "46"
+    },
+    {
+      "id": "q4",
+      "question": "(-7)¹² ÷ (-7)¹² = ?",
+      "options": ["1", "0", "-1", "(-7)⁰"],
+      "correctAnswer": "A",
+      "explanation": "aᵐ ÷ aᵐ = aᵐ⁻ᵐ = a⁰ = 1. Any non-zero number raised to power 0 equals 1.",
+      "conceptIds": [3],
+      "pageReference": "45"
+    },
+    {
+      "id": "q5",
+      "question": "(3²)⁴ = ?",
+      "options": ["3⁸", "3⁶", "9⁴", "3²"],
+      "correctAnswer": "A",
+      "explanation": "(aᵐ)ⁿ = aᵐⁿ. (3²)⁴ = 3²ˣ⁴ = 3⁸",
+      "conceptIds": [4],
+      "pageReference": "47"
+    },
+    {
+      "id": "q6",
+      "question": "√625 = ?",
+      "options": ["25", "15", "35", "45"],
+      "correctAnswer": "A",
+      "explanation": "625 = 5⁴ = 5²×5². Square root = 5×5 = 25. Check: 25² = 625 ✓",
+      "conceptIds": [5],
+      "pageReference": "49"
+    },
+    {
+      "id": "q7",
+      "question": "a⁻³ = ?",
+      "options": ["1/a³", "-a³", "a³", "-1/a³"],
+      "correctAnswer": "A",
+      "explanation": "Negative index means reciprocal: a⁻ᵐ = 1/aᵐ. So a⁻³ = 1/a³.",
+      "conceptIds": [3],
+      "pageReference": "45"
+    },
+    {
+      "id": "q8",
+      "question": "(-1)⁶ = ?",
+      "options": ["1", "-1", "6", "-6"],
+      "correctAnswer": "A",
+      "explanation": "If m is even, (-1)ᵐ = 1. 6 is even, so (-1)⁶ = 1.",
+      "conceptIds": [1],
+      "pageReference": "46"
+    },
+    {
+      "id": "q9",
+      "question": "√1225 = ?",
+      "options": ["35", "25", "45", "55"],
+      "correctAnswer": "A",
+      "explanation": "1225 = 5²×7². Square root = 5×7 = 35. Check: 35² = 1225 ✓",
+      "conceptIds": [5],
+      "pageReference": "49"
+    },
+    {
+      "id": "q10",
+      "question": "The standard form of 384,000,000 m (Earth-Moon distance) is _____.",
+      "options": ["3.84 × 10⁸ m", "38.4 × 10⁷ m", "3.84 × 10⁷ m", "38.4 × 10⁸ m"],
+      "correctAnswer": "A",
+      "explanation": "Standard form: one digit before decimal × power of 10. 384,000,000 = 3.84 × 10⁸",
+      "conceptIds": [4],
+      "pageReference": "48"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "aᵐ: base a, index m; means a multiplied by itself m times",
+      "Multiplication law: aᵐ × aⁿ = aᵐ⁺ⁿ (same base, add indices)",
+      "Division law: aᵐ ÷ aⁿ = aᵐ⁻ⁿ (same base, subtract indices)",
+      "a⁰ = 1 for any non-zero a",
+      "a⁻ᵐ = 1/aᵐ (negative index = reciprocal)",
+      "(aᵐ)ⁿ = aᵐⁿ (power of a power = multiply indices)",
+      "Square root by prime factors: pair up prime factors, take one from each pair"
+    ],
+    "commonMisconceptions": [
+      "aᵐ × aⁿ = aᵐⁿ — FALSE, it's aᵐ⁺ⁿ (addition not multiplication)",
+      "a⁰ = 0 — FALSE, a⁰ = 1 for any non-zero a",
+      "(-1)ᵐ is always -1 — FALSE, it's +1 when m is even, -1 when m is odd",
+      "2³ × 3³ = 6⁶ — FALSE, you can only combine if bases are the same"
+    ],
+    "realWorldExamples": [
+      "Earth-Moon distance: 3.84 × 10⁸ metres (standard form)",
+      "Computer storage: 2¹⁰ KB = 1 MB (powers of 2)",
+      "Oxygen atom diameter: 3.56 × 10⁻¹⁴ mm (negative indices for tiny quantities)",
+      "Speed of light: 3 × 10⁸ m/s",
+      "Googol: 10¹⁰⁰ (a 1 followed by 100 zeros)"
+    ],
+    "formulas": [
+      { "formula": "aᵐ × aⁿ = aᵐ⁺ⁿ", "explanation": "Multiply same base: add indices" },
+      { "formula": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ", "explanation": "Divide same base: subtract indices" },
+      { "formula": "a⁰ = 1", "explanation": "Any non-zero number to power zero = 1" },
+      { "formula": "a⁻ᵐ = 1/aᵐ", "explanation": "Negative index = reciprocal" },
+      { "formula": "(aᵐ)ⁿ = aᵐⁿ", "explanation": "Power of power: multiply indices" }
+    ]
+  }
+}

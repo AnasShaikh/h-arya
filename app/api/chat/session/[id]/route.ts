@@ -1,26 +1,22 @@
 import { NextRequest, NextResponse } from 'next/server';
-import db from '@/lib/db/connection';
+import prisma from '@/lib/db/prisma';
 
 export async function PATCH(
-  request: NextRequest,
-  { params }: { params: { id: string } }
+  _request: NextRequest,
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const sessionId = parseInt(params.id);
+    const { id } = await params;
+    const sessionId = parseInt(id);
 
-    // End the session
-    const stmt = db.prepare('UPDATE sessions SET end_time = CURRENT_TIMESTAMP WHERE id = ?');
-    stmt.run(sessionId);
-
-    return NextResponse.json({
-      success: true,
-      message: 'Session ended successfully'
+    await prisma.session.update({
+      where: { id: sessionId },
+      data: { endTime: new Date() },
     });
+
+    return NextResponse.json({ success: true, message: 'Session ended successfully' });
   } catch (error) {
     console.error('Error ending session:', error);
-    return NextResponse.json(
-      { error: 'Failed to end session' },
-      { status: 500 }
-    );
+    return NextResponse.json({ error: 'Failed to end session' }, { status: 500 });
   }
 }

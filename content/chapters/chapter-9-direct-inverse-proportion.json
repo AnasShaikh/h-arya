@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "chapterNumber": 9,
+    "title": "Direct and Inverse Proportion",
+    "subject": "Mathematics",
+    "pages": "62-68",
+    "description": "Direct proportion, inverse proportion, unitary method, partnership"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "If 10 pens cost ₹60, what do 13 pens cost?",
+      "options": ["₹78", "₹65", "₹80", "₹70"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "As the number of workers increases, the time to finish a job _____.",
+      "options": ["Decreases", "Increases", "Stays the same", "Becomes zero"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "q3",
+      "question": "15 workers take 8 hours to build a wall. How many hours will 12 workers take?",
+      "options": ["10 hours", "8 hours", "6 hours", "12 hours"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "In direct proportion, the ratio of corresponding values is _____.",
+      "options": ["Constant", "Increasing", "Decreasing", "Zero"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q5",
+      "question": "Jhelum and Atharva invest ₹2100 and ₹2800. Profit is ₹3500. What is Jhelum's share?",
+      "options": ["₹1500", "₹2000", "₹1750", "₹1200"],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 5
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Direct Proportion",
+      "emoji": "📈",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Two quantities are in direct proportion when they increase or decrease together in the same ratio. The ratio of their corresponding values remains constant. Examples: number of pens and their cost, number of students and notebooks given, diameters and divisions of a circle.",
+      "pageReference": "62-63",
+      "examples": [
+        { "icon": "✏️", "text": "1 diameter → 2 divisions; 2 diameters → 4 divisions (ratio 1:2 constant)" },
+        { "icon": "📚", "text": "15 children get 90 notebooks; 12 get 72; ratio 1:6 constant" },
+        { "icon": "⛽", "text": "More petrol → more distance (direct proportion)" },
+        { "icon": "💰", "text": "More pens → more cost (direct proportion)" }
+      ],
+      "keyPoints": [
+        "Both quantities increase/decrease together",
+        "Ratio of corresponding values stays constant",
+        "If x₁/y₁ = x₂/y₂, the quantities are in direct proportion",
+        "Cross multiplication: x₁y₂ = x₂y₁",
+        "The constant ratio is called the constant of proportionality"
+      ],
+      "funFact": "💧 More you fill a bucket, more it weighs — this is direct proportion in everyday life!",
+      "textbookRef": "Pages 62-63: Direct Proportion"
+    },
+    {
+      "id": 2,
+      "title": "Solving Direct Proportion Problems",
+      "emoji": "🔢",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "To solve: set up equal ratios and cross-multiply. For example: if 10 pens cost ₹60, find cost of 13 pens. Set up 10/60 = 13/x → 10x = 780 → x = ₹78. Always check: more pens → more cost (direct proportion).",
+      "pageReference": "63-64",
+      "examples": [
+        { "icon": "🖊️", "text": "10 pens = ₹60, 13 pens = ? → 10/60=13/x → x=₹78" },
+        { "icon": "🐄", "text": "9 cows need 13.5 kg feed, 12 cows need ? → 18 kg" },
+        { "icon": "💰", "text": "₹600 buys 15 bunches, ₹1280 buys ? → 32 bunches" },
+        { "icon": "🌱", "text": "12 quintals soyabean = ₹36,000; 8 quintals = ₹24,000" }
+      ],
+      "keyPoints": [
+        "Set up equal ratios: x₁/y₁ = x₂/y₂",
+        "Cross multiply to find the unknown",
+        "Always verify: is this direct or inverse proportion?",
+        "More work → more payment (direct)",
+        "More speed → less time (inverse, not direct)"
+      ],
+      "funFact": "🛒 Shopkeepers use direct proportion every day: if 5 apples cost ₹50, 8 apples cost ₹80!",
+      "textbookRef": "Pages 63-64: Solving Direct Proportion Problems"
+    },
+    {
+      "id": 3,
+      "title": "Inverse Proportion",
+      "emoji": "📉",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Two quantities are in inverse proportion when one increases as the other decreases, and their product remains constant. Examples: more workers → fewer days; higher speed → less time. Product of corresponding values is constant: x₁y₁ = x₂y₂.",
+      "pageReference": "64-65",
+      "examples": [
+        { "icon": "👷", "text": "15 workers, 6 days; 10 workers → 9 days (product=90 constant)" },
+        { "icon": "📖", "text": "Sudha: 1 problem/day needs 48 days; 8/day needs 6 days; 12/day needs 4 days" },
+        { "icon": "🏎️", "text": "Speed 40 km/h takes 3 hours; speed 60 km/h takes 2 hours" },
+        { "icon": "🍬", "text": "90 laddoos: 45 students → 2 each; 30 students → 3 each" }
+      ],
+      "keyPoints": [
+        "One quantity increases, the other decreases",
+        "Product of corresponding values stays constant: x₁y₁ = x₂y₂",
+        "More workers → fewer days (inverse)",
+        "Higher speed → less time (inverse)",
+        "The constant product is the key relationship"
+      ],
+      "funFact": "🏗️ In construction: double the workers, half the time! This inverse proportion saves both time and money.",
+      "textbookRef": "Pages 64-65: Inverse Proportion"
+    },
+    {
+      "id": 4,
+      "title": "Solving Inverse Proportion Problems",
+      "emoji": "⚖️",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "To solve: use x₁y₁ = x₂y₂ (product is constant). For example: 15 workers take 8 hours. How long will 12 workers take? 15×8 = 12×x → 120 = 12x → x = 10 hours. Always check if quantities are inverse: more workers → less time.",
+      "pageReference": "65",
+      "examples": [
+        { "icon": "🧱", "text": "15 workers, 8 hours: 12 workers need? → 15×8=12×x → x=10 hours" },
+        { "icon": "📝", "text": "1 student, 80 days: 4 students need? → 1×80=4×x → x=20 days" },
+        { "icon": "🚲", "text": "6 km/h takes 2 hours; 4 km/h takes? → 6×2=4×x → x=3 hours" },
+        { "icon": "🌾", "text": "4000 people, 30 days grain; 6000 people → 20 days" }
+      ],
+      "keyPoints": [
+        "Use x₁ × y₁ = x₂ × y₂",
+        "Find x₂ = x₁y₁/y₂",
+        "Identify correctly: is it inverse proportion?",
+        "More people sharing → less each person gets (inverse)",
+        "Grain stock: more people → fewer days it lasts"
+      ],
+      "funFact": "🌊 Floods vs dams: more water entering vs more outlets open — inverse proportion governs water management!",
+      "textbookRef": "Page 65: Solving Inverse Proportion"
+    },
+    {
+      "id": 5,
+      "title": "Partnership",
+      "emoji": "🤝",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "When two or more people invest together in a business, profits and losses are shared in proportion to their investments. First find the ratio of investments, then divide the profit/loss in that ratio.",
+      "pageReference": "66-68",
+      "examples": [
+        { "icon": "🤝", "text": "Jhelum ₹2100, Atharva ₹2800 → ratio 3:4 → profit ₹3500 split ₹1500:₹2000" },
+        { "icon": "📊", "text": "Chinmaya:Sam = 3:2 investment → same ratio for ₹36,000 profit" },
+        { "icon": "👩‍💼", "text": "Abdul ₹30, Sejal ₹70, Soham ₹50: ratio 3:7:5 → share ₹420 profit" },
+        { "icon": "💹", "text": "Saritaben ₹2400, Ayesha ₹5200, Meenakshi ₹3400: ratio 12:26:17" }
+      ],
+      "keyPoints": [
+        "Profit/loss shared in proportion to capital invested",
+        "First simplify the ratio of investments",
+        "Let shares be 3x, 4x etc., then use total to find x",
+        "More investment → larger share of profit",
+        "Same proportions apply to reinvested amounts"
+      ],
+      "funFact": "💼 The concept of business partnership dates back thousands of years — ancient Indian traders used proportion to share profits fairly!",
+      "textbookRef": "Pages 66-68: Partnership"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "If 7 kg onions cost ₹140, how much will 12 kg cost?",
+      "options": ["₹240", "₹200", "₹280", "₹180"],
+      "correctAnswer": "A",
+      "explanation": "Direct proportion: 7/140 = 12/x → 7x = 1680 → x = ₹240",
+      "conceptIds": [1, 2],
+      "pageReference": "63"
+    },
+    {
+      "id": "q2",
+      "question": "5 workers take 12 days to weed a field. How many days would 6 workers take?",
+      "options": ["10 days", "12 days", "15 days", "8 days"],
+      "correctAnswer": "A",
+      "explanation": "Inverse proportion: 5×12 = 6×x → 60 = 6x → x = 10 days",
+      "conceptIds": [3, 4],
+      "pageReference": "65"
+    },
+    {
+      "id": "q3",
+      "question": "5 workers take 12 days. How many workers needed to finish in 4 days?",
+      "options": ["15", "10", "20", "8"],
+      "correctAnswer": "A",
+      "explanation": "Inverse: 5×12 = x×4 → 60 = 4x → x = 15 workers",
+      "conceptIds": [3, 4],
+      "pageReference": "65"
+    },
+    {
+      "id": "q4",
+      "question": "Number of students and notebooks distributed are in _____.",
+      "options": ["Direct proportion", "Inverse proportion", "No proportion", "Equal ratio"],
+      "correctAnswer": "A",
+      "explanation": "More students → more notebooks (both increase). This is direct proportion.",
+      "conceptIds": [1],
+      "pageReference": "62"
+    },
+    {
+      "id": "q5",
+      "question": "Speed of a bus and time taken for same distance are in _____.",
+      "options": ["Inverse proportion", "Direct proportion", "No proportion", "Equal proportion"],
+      "correctAnswer": "A",
+      "explanation": "More speed → less time. Their product (speed×time=distance) is constant. Inverse proportion.",
+      "conceptIds": [3],
+      "pageReference": "65"
+    },
+    {
+      "id": "q6",
+      "question": "Jhelum invested ₹2100, Atharva ₹2800. Total profit is ₹3500. What is Atharva's share?",
+      "options": ["₹2000", "₹1500", "₹1750", "₹2500"],
+      "correctAnswer": "A",
+      "explanation": "Ratio 2100:2800 = 3:4. Total parts = 7. Atharva's share = 4/7 × 3500 = ₹2000.",
+      "conceptIds": [5],
+      "pageReference": "66"
+    },
+    {
+      "id": "q7",
+      "question": "Grain stock lasts 30 days for 4000 people. How many days for 6000 people?",
+      "options": ["20 days", "30 days", "45 days", "15 days"],
+      "correctAnswer": "A",
+      "explanation": "Inverse: 4000×30 = 6000×x → 120000 = 6000x → x = 20 days",
+      "conceptIds": [3, 4],
+      "pageReference": "65"
+    },
+    {
+      "id": "q8",
+      "question": "Two mobiles cost ₹16,000. How much for 13 such mobiles?",
+      "options": ["₹1,04,000", "₹32,000", "₹8,000", "₹96,000"],
+      "correctAnswer": "A",
+      "explanation": "Direct proportion: 2/16000 = 13/x → 2x = 208000 → x = ₹1,04,000",
+      "conceptIds": [1, 2],
+      "pageReference": "63"
+    },
+    {
+      "id": "q9",
+      "question": "Suresh and Ramesh invest ₹64,000 and ₹80,000. They make 20% profit. What is Suresh's profit?",
+      "options": ["₹12,800", "₹16,000", "₹14,400", "₹28,800"],
+      "correctAnswer": "A",
+      "explanation": "Total = ₹1,44,000. 20% profit = ₹28,800. Ratio 64:80 = 4:5. Suresh's share = 4/9 × 28800 = ₹12,800.",
+      "conceptIds": [5],
+      "pageReference": "68"
+    },
+    {
+      "id": "q10",
+      "question": "Mohanrao reads 40 pages/day to finish a book in 10 days. How many pages/day to finish in 8 days?",
+      "options": ["50 pages/day", "40 pages/day", "32 pages/day", "48 pages/day"],
+      "correctAnswer": "A",
+      "explanation": "Inverse: 40×10 = x×8 → 400 = 8x → x = 50 pages/day",
+      "conceptIds": [3, 4],
+      "pageReference": "65"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Direct proportion: both quantities increase/decrease together; ratio is constant",
+      "Inverse proportion: one increases, other decreases; product is constant",
+      "Direct proportion: x₁/y₁ = x₂/y₂ (cross multiply to solve)",
+      "Inverse proportion: x₁ × y₁ = x₂ × y₂",
+      "Partnership: profits/losses shared in proportion to investments",
+      "Always identify first: is it direct or inverse proportion?"
+    ],
+    "commonMisconceptions": [
+      "All proportion problems are direct proportion — FALSE, check if product or ratio is constant",
+      "More workers = more days — FALSE, it's inverse (more workers = fewer days)",
+      "Profit is shared equally in partnership — FALSE, shared in proportion to investment",
+      "Direct proportion means numbers are equal — FALSE, their RATIO is constant"
+    ],
+    "realWorldExamples": [
+      "Petrol and distance: more petrol → more distance (direct)",
+      "Workers and days: more workers → fewer days (inverse)",
+      "Speed and time: more speed → less time (inverse)",
+      "Students and notebooks: more students → more notebooks (direct)",
+      "Business partnership: profit split by investment ratio",
+      "Grain warehouse: more people → fewer days the stock lasts (inverse)"
+    ],
+    "formulas": [
+      { "formula": "x₁/y₁ = x₂/y₂", "explanation": "Direct proportion: ratios are equal" },
+      { "formula": "x₁ × y₁ = x₂ × y₂", "explanation": "Inverse proportion: products are equal" },
+      { "formula": "Profit share = (own investment / total investment) × total profit", "explanation": "Partnership profit sharing" }
+    ]
+  }
+}

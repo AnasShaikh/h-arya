@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "chapterNumber": 2,
+    "title": "Multiplication and Division of Integers",
+    "subject": "Mathematics",
+    "pages": "11-14",
+    "description": "Multiplying and dividing positive and negative integers"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "What is the product of two negative integers?",
+      "options": ["Always negative", "Always positive", "Always zero", "Cannot be determined"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What is (-5) × (-7)?",
+      "options": ["35", "-35", "12", "-12"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "What is (-96) ÷ 16?",
+      "options": ["-6", "6", "-8", "8"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "q4",
+      "question": "The product of a positive and a negative integer is always _____.",
+      "options": ["Negative", "Positive", "Zero", "Depends on values"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q5",
+      "question": "What is the additive inverse of -3/2?",
+      "options": ["3/2", "-3/2", "2/3", "-2/3"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 4
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Multiplying Positive and Negative Integers",
+      "emoji": "✖️",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The product of two positive integers is positive. The product of one positive and one negative integer is negative. The product of two negative integers is positive. For example, (-4)×(-2) = 8, (-5)×3 = -15.",
+      "pageReference": "11-12",
+      "examples": [
+        { "icon": "💰", "text": "Mayuri borrowed ₹5 from 3 friends: (-5)×3 = -15 (debt of ₹15)" },
+        { "icon": "➕", "text": "(+ve) × (+ve) = +ve: 3×4 = 12" },
+        { "icon": "➖", "text": "(+ve) × (-ve) = -ve: 5×(-3) = -15" },
+        { "icon": "✅", "text": "(-ve) × (-ve) = +ve: (-4)×(-3) = 12" }
+      ],
+      "keyPoints": [
+        "(+ve) × (+ve) = +ve",
+        "(+ve) × (-ve) = -ve",
+        "(-ve) × (+ve) = -ve",
+        "(-ve) × (-ve) = +ve",
+        "The product of any number and zero is zero"
+      ],
+      "funFact": "💡 The pattern of (-4)'s table: as the multiplier decreases by 1, the product increases by 4!",
+      "textbookRef": "Page 11-12: Multiplication of Integers"
+    },
+    {
+      "id": 2,
+      "title": "Dividing Integers",
+      "emoji": "➗",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The rules of division of integers are the same as for multiplication. Quotient of two positives = positive. Quotient of two negatives = positive. Quotient of a positive and negative = negative. We cannot divide any number by zero.",
+      "pageReference": "13",
+      "examples": [
+        { "icon": "📊", "text": "(-18) ÷ (-2) = 9 (negative ÷ negative = positive)" },
+        { "icon": "📉", "text": "(-15) ÷ 3 = -5 (negative ÷ positive = negative)" },
+        { "icon": "📈", "text": "12 ÷ (-4) = -3 (positive ÷ negative = negative)" },
+        { "icon": "🔢", "text": "(-25) ÷ (-5) = 5 (both negative = positive)" }
+      ],
+      "keyPoints": [
+        "Quotient of two positive integers = positive",
+        "Quotient of two negative integers = positive",
+        "Quotient of positive ÷ negative = negative",
+        "Cannot divide any number by zero",
+        "The denominator of a quotient is always written as positive"
+      ],
+      "funFact": "🧮 Division is the inverse operation of multiplication — same sign rules apply!",
+      "textbookRef": "Page 13: Division of Integers"
+    },
+    {
+      "id": 3,
+      "title": "Integer Division as Fractions",
+      "emoji": "🔢",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "When one integer is divided by another non-zero integer, we write the result as a fraction. The convention is to always write the denominator as a positive integer. For example: 7 ÷ (-2) = -7/2, (-13) ÷ (-2) = 13/2.",
+      "pageReference": "13",
+      "examples": [
+        { "icon": "✏️", "text": "(-96) ÷ 16 = -6" },
+        { "icon": "📝", "text": "98 ÷ (-28) = -7/2" },
+        { "icon": "📌", "text": "(-51) ÷ 68 = -3/4" },
+        { "icon": "🎯", "text": "(-150) ÷ (-25) = 6" }
+      ],
+      "keyPoints": [
+        "Division result can be an integer or a fraction",
+        "Denominator is always written as positive",
+        "(-7) ÷ (-2) = 7/2 (both negatives, positive result)",
+        "7 ÷ (-2) = -7/2 (opposite signs, negative result)",
+        "Negative numbers on number line are to the left of zero"
+      ],
+      "funFact": "📏 We can show fractions of negative numbers on the number line — just like positive fractions!",
+      "textbookRef": "Page 13: Writing Divisions as Fractions"
+    },
+    {
+      "id": 4,
+      "title": "Additive Inverse (Opposite Numbers)",
+      "emoji": "↔️",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Two numbers whose sum is zero are called additive inverses or opposite numbers. For example, -1/2 + 1/2 = 0, so 1/2 and -1/2 are additive inverses. Note: (-1) × (-1) = 1, so dividing both sides by (-1) gives (-1) ÷ (-1) = 1.",
+      "pageReference": "13",
+      "examples": [
+        { "icon": "⚖️", "text": "-3/2 and 3/2 are additive inverses: -3/2 + 3/2 = 0" },
+        { "icon": "↕️", "text": "5/2 and -5/2 are additive inverses" },
+        { "icon": "🔄", "text": "(-1) and (+1) are additive inverses" },
+        { "icon": "🎭", "text": "On number line: -3/2 and 3/2 are equal distance from zero" }
+      ],
+      "keyPoints": [
+        "Additive inverse of a number is its opposite (negative)",
+        "Sum of a number and its additive inverse = 0",
+        "e.g., -1/2 + 1/2 = 0; -3 + 3 = 0",
+        "(-1) × (-1) = 1 (product of two negatives is positive)",
+        "Pairs: (1/2, -1/2), (3/2, -3/2), (5/2, -5/2)"
+      ],
+      "funFact": "🌐 The concept of negative numbers was developed in ancient India by mathematician Brahmagupta!",
+      "textbookRef": "Page 13: Pairs of Opposite Numbers"
+    },
+    {
+      "id": 5,
+      "title": "Patterns in Integer Multiplication",
+      "emoji": "🔍",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Observing the multiplication table of (-4): as the multiplier increases by 1, the product decreases by 4. Extending upwards, as the multiplier decreases by 1, the product increases by 4. This pattern shows why (-ve) × (-ve) = (+ve).",
+      "pageReference": "12",
+      "examples": [
+        { "icon": "📊", "text": "(-4)×3 = -12, (-4)×2 = -8, (-4)×1 = -4, (-4)×0 = 0" },
+        { "icon": "⬆️", "text": "(-4)×(-1) = 4, (-4)×(-2) = 8 (pattern continues)" },
+        { "icon": "🎯", "text": "(-5)×(-3) = 15: two negatives make a positive" },
+        { "icon": "🔢", "text": "(-124)×(-1) = 124" }
+      ],
+      "keyPoints": [
+        "In (-4)'s table: multiplier increases by 1 → product decreases by 4",
+        "Extending upward: multiplier decreases by 1 → product increases by 4",
+        "This pattern proves (-ve) × (-ve) = (+ve)",
+        "(-n) × 0 = 0 for any integer n",
+        "Commutative: (-5) × 6 = 6 × (-5) = -30"
+      ],
+      "funFact": "🧩 By observing a simple pattern in multiplication tables, we can logically prove why negative × negative = positive!",
+      "textbookRef": "Page 12: Table of (-4) and Patterns"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "(-5) × (-7) = ?",
+      "options": ["35", "-35", "-12", "12"],
+      "correctAnswer": "A",
+      "explanation": "Product of two negative integers is always positive. (-5) × (-7) = 35",
+      "conceptIds": [1],
+      "pageReference": "12"
+    },
+    {
+      "id": "q2",
+      "question": "(-9) × 6 = ?",
+      "options": ["-54", "54", "-15", "15"],
+      "correctAnswer": "A",
+      "explanation": "Product of a negative and a positive integer is negative. (-9) × 6 = -54",
+      "conceptIds": [1],
+      "pageReference": "12"
+    },
+    {
+      "id": "q3",
+      "question": "(-96) ÷ 16 = ?",
+      "options": ["-6", "6", "-8", "8"],
+      "correctAnswer": "A",
+      "explanation": "Negative ÷ positive = negative. (-96) ÷ 16 = -6",
+      "conceptIds": [2],
+      "pageReference": "13"
+    },
+    {
+      "id": "q4",
+      "question": "(-150) ÷ (-25) = ?",
+      "options": ["6", "-6", "5", "-5"],
+      "correctAnswer": "A",
+      "explanation": "Negative ÷ negative = positive. (-150) ÷ (-25) = 6",
+      "conceptIds": [2],
+      "pageReference": "13"
+    },
+    {
+      "id": "q5",
+      "question": "(-63) × (-7) = ?",
+      "options": ["441", "-441", "70", "-70"],
+      "correctAnswer": "A",
+      "explanation": "(-ve) × (-ve) = +ve. (-63) × (-7) = 441",
+      "conceptIds": [1],
+      "pageReference": "12"
+    },
+    {
+      "id": "q6",
+      "question": "The product of (-124) and (-1) is _____.",
+      "options": ["124", "-124", "123", "-123"],
+      "correctAnswer": "A",
+      "explanation": "(-124) × (-1) = 124. Multiplying by -1 gives the additive inverse.",
+      "conceptIds": [1, 4],
+      "pageReference": "12"
+    },
+    {
+      "id": "q7",
+      "question": "98 ÷ (-28) = ?",
+      "options": ["-7/2", "7/2", "-3.5", "Both A and C"],
+      "correctAnswer": "D",
+      "explanation": "Positive ÷ negative = negative. 98 ÷ (-28) = -7/2 = -3.5",
+      "conceptIds": [2, 3],
+      "pageReference": "13"
+    },
+    {
+      "id": "q8",
+      "question": "Which of the following is the additive inverse of -5/2?",
+      "options": ["5/2", "-5/2", "2/5", "-2/5"],
+      "correctAnswer": "A",
+      "explanation": "The additive inverse (opposite) of -5/2 is 5/2, because -5/2 + 5/2 = 0",
+      "conceptIds": [4],
+      "pageReference": "13"
+    },
+    {
+      "id": "q9",
+      "question": "9 × (-4) = ?",
+      "options": ["-36", "36", "-13", "13"],
+      "correctAnswer": "A",
+      "explanation": "Positive × negative = negative. 9 × (-4) = -36",
+      "conceptIds": [1],
+      "pageReference": "12"
+    },
+    {
+      "id": "q10",
+      "question": "(-7) × 15 = ?",
+      "options": ["-105", "105", "-8", "8"],
+      "correctAnswer": "A",
+      "explanation": "(-ve) × (+ve) = (-ve). (-7) × 15 = -105",
+      "conceptIds": [1],
+      "pageReference": "12"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "(+ve) × (+ve) = +ve; (+ve) × (-ve) = -ve; (-ve) × (-ve) = +ve",
+      "Division rules are the same as multiplication rules",
+      "Cannot divide any number by zero",
+      "Additive inverse: two numbers whose sum is zero",
+      "Denominator of a quotient is always written as positive",
+      "(-1) × (-1) = 1 — basis for why negative × negative = positive"
+    ],
+    "commonMisconceptions": [
+      "(-ve) × (-ve) = -ve — FALSE, it always equals positive",
+      "You can divide by zero — FALSE, division by zero is undefined",
+      "The sign of a product depends on the size of numbers — FALSE, only signs matter",
+      "Additive inverse is the same as multiplicative inverse — FALSE, they are different"
+    ],
+    "realWorldExamples": [
+      "Mayuri borrowed ₹5 from 3 friends: (-5) × 3 = -15 (total debt)",
+      "Temperature falls 3°C each hour for 4 hours: (-3) × 4 = -12°C change",
+      "Sharing a loss of ₹100 among 5 people: (-100) ÷ 5 = -₹20 each",
+      "Removing 4 debts of ₹5 each: (-4) × (-5) = +₹20 (debt removed = gain)"
+    ],
+    "formulas": [
+      { "formula": "(+) × (+) = (+)", "explanation": "Product of two positives is positive" },
+      { "formula": "(+) × (-) = (-)", "explanation": "Product of positive and negative is negative" },
+      { "formula": "(-) × (-) = (+)", "explanation": "Product of two negatives is positive" },
+      { "formula": "a + (-a) = 0", "explanation": "A number plus its additive inverse equals zero" }
+    ]
+  }
+}

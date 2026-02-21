@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "chapterNumber": 5,
+    "title": "Operations on Rational Numbers",
+    "subject": "Mathematics",
+    "pages": "34-42",
+    "description": "Rational numbers, operations, multiplicative inverse, decimal forms, BODMAS"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Which of the following is a rational number?",
+      "options": ["3/7", "√2", "π", "√5"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "The multiplicative inverse of -3/8 is _____.",
+      "options": ["-8/3", "8/3", "3/8", "-3/8"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "q3",
+      "question": "The group of rational numbers is closed for _____.",
+      "options": ["All four operations", "Only addition", "Only multiplication", "Addition and subtraction only"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "q4",
+      "question": "The decimal form of 7/4 is _____.",
+      "options": ["1.75", "0.75", "1.25", "0.175"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 5
+    },
+    {
+      "id": "q5",
+      "question": "Between any two rational numbers, there are _____.",
+      "options": ["Infinitely many rational numbers", "Exactly one rational number", "No rational numbers", "Finite rational numbers"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 4
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Rational Numbers",
+      "emoji": "🔢",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "A rational number is a number of the form m/n where m is any integer and n is any non-zero integer. Rational numbers include all natural numbers, integers, fractions and negative fractions. For example, 4 = 4/1, -3 = -3/1, 0 = 0/2 are all rational numbers.",
+      "pageReference": "34",
+      "examples": [
+        { "icon": "🔢", "text": "4 = 4/1 (natural number is rational)" },
+        { "icon": "➖", "text": "-3 = -3/1 (negative integer is rational)" },
+        { "icon": "½", "text": "1/2, 3/7, -17/28 are rational numbers" },
+        { "icon": "📊", "text": "2.17 = 217/100 is a rational number" }
+      ],
+      "keyPoints": [
+        "Rational number: form m/n where m,n are integers, n≠0",
+        "All natural numbers, integers are rational numbers",
+        "Fractions like 1/2, 3/7, -17/28 are rational",
+        "0 = 0/1 is a rational number",
+        "Decimals like 2.17 = 217/100 are rational"
+      ],
+      "funFact": "💡 The word 'rational' comes from 'ratio' — a rational number is a ratio of two integers!",
+      "textbookRef": "Page 34: Rational Numbers"
+    },
+    {
+      "id": 2,
+      "title": "Operations and Closure Property",
+      "emoji": "🔄",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The group of rational numbers is closed for all four operations — addition, subtraction, multiplication and division (except division by zero). Unlike natural numbers (not closed for subtraction/division) and integers (not closed for division), rational numbers can always give a rational result.",
+      "pageReference": "35",
+      "examples": [
+        { "icon": "➕", "text": "5/7 + 9/11 = 118/77 (rational)" },
+        { "icon": "➖", "text": "3/4 - 1/7 = 17/28 (rational)" },
+        { "icon": "✖️", "text": "3/5 × (-4)/5 = -12/25 (rational)" },
+        { "icon": "➗", "text": "40/12 ÷ 10/4 = 4/3 (rational)" }
+      ],
+      "keyPoints": [
+        "Natural numbers: closed for + and × only",
+        "Integers: closed for +, -, × but NOT ÷",
+        "Rational numbers: closed for +, -, ×, ÷ (not by zero)",
+        "Rational ÷ Rational (non-zero) = always Rational",
+        "Cannot divide any number by zero"
+      ],
+      "funFact": "🌐 Rational numbers form a 'field' in mathematics — the only type of numbers that are closed for all four basic operations!",
+      "textbookRef": "Page 35: Closure Property of Rational Numbers"
+    },
+    {
+      "id": 3,
+      "title": "Multiplicative Inverse",
+      "emoji": "🔀",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "To divide by a rational number, multiply by its multiplicative inverse. The multiplicative inverse of p/q is q/p. Their product equals 1. For negative fractions: -5/4 and -4/5 are multiplicative inverses. Note: -9/11 and -11/9 have product -1, so they are NOT multiplicative inverses.",
+      "pageReference": "35",
+      "examples": [
+        { "icon": "🔀", "text": "2/5 and 5/2: (2/5)×(5/2) = 1 ✓ multiplicative inverses" },
+        { "icon": "🔄", "text": "-3/8 and -8/3: (-3/8)×(-8/3) = 1 ✓ multiplicative inverses" },
+        { "icon": "⚠️", "text": "-9/11 × -11/9 = -1 ≠ 1 (NOT multiplicative inverses!)" },
+        { "icon": "🔢", "text": "Multiplicative inverse of 7 is 1/7; of -7 is -1/7" }
+      ],
+      "keyPoints": [
+        "Multiplicative inverse of p/q is q/p",
+        "Product of a number and its inverse = 1",
+        "For negative fractions: inverse of -a/b is -b/a",
+        "Division = multiply by multiplicative inverse",
+        "A number and its additive inverse are different from multiplicative inverse"
+      ],
+      "funFact": "🎯 The multiplicative inverse is also called the 'reciprocal' — it flips the fraction upside down!",
+      "textbookRef": "Page 35: Multiplicative Inverse"
+    },
+    {
+      "id": 4,
+      "title": "Rational Numbers Between Two Numbers",
+      "emoji": "📍",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "There are infinitely many rational numbers between any two rational numbers. To find numbers between 1/2 and 3/5: convert to common denominators (5/10 and 6/10), then multiply top and bottom to find more: 50/100 and 60/100, giving 51/100, 52/100, ... 59/100 between them.",
+      "pageReference": "36-38",
+      "examples": [
+        { "icon": "📍", "text": "Between 1/2 and 3/5: convert to 7/14 and 8/14; midpoint = 15/28" },
+        { "icon": "🔢", "text": "Between 5/10 and 6/10: multiply by 10 → 50/100 to 60/100, giving 9 more numbers" },
+        { "icon": "↔️", "text": "Between integers: integers are countable, but rationals between them are infinite" },
+        { "icon": "🎯", "text": "Midpoint of two rationals = (a+b)/2 is always a rational between them" }
+      ],
+      "keyPoints": [
+        "There are infinitely many rationals between any two rationals",
+        "Method: convert to common denominators, then expand",
+        "Midpoint of a and b = (a+b)/2",
+        "Unlike integers: no 'next' rational number exists",
+        "We can always find more by using larger denominators"
+      ],
+      "funFact": "♾️ Between any two rational numbers, no matter how close, there are infinitely many more rational numbers — this is called 'density'!",
+      "textbookRef": "Pages 36-38: Numbers Between Rational Numbers"
+    },
+    {
+      "id": 5,
+      "title": "Decimal Forms and BODMAS",
+      "emoji": "💯",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Rational numbers have either terminating decimals (division ends, e.g. 7/4 = 1.75) or recurring decimals (digit/group repeats, e.g. 5/3 = 1.666... = 1.6̄). BODMAS rule for simplification: Brackets first, then multiplication/division left to right, then addition/subtraction.",
+      "pageReference": "38-42",
+      "examples": [
+        { "icon": "🔢", "text": "Terminating: 7/4 = 1.75, -5/8 = -0.625" },
+        { "icon": "🔄", "text": "Recurring: 5/3 = 1.6̄, 2/11 = 0.18̄" },
+        { "icon": "🧮", "text": "BODMAS: 72÷6+2×2 = 12+4 = 16 (not 28!)" },
+        { "icon": "📊", "text": "Brackets: { }, [ ], ( ) — solve innermost first" }
+      ],
+      "keyPoints": [
+        "Terminating decimal: remainder becomes zero",
+        "Recurring decimal: digit or group repeats endlessly",
+        "Recurring shown with dot above digit or bar above group",
+        "BODMAS: Brackets, Of, Division, Multiplication, Addition, Subtraction",
+        "Multiplication and division: left to right; then addition and subtraction"
+      ],
+      "funFact": "📐 The fraction 22/7 is NOT exactly π — it equals 3.142857... (recurring), showing π is irrational!",
+      "textbookRef": "Pages 38-42: Decimal Forms and BODMAS"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "5/36 + 6/42 = ?",
+      "options": ["13/42", "11/42", "17/42", "7/36"],
+      "correctAnswer": "A",
+      "explanation": "LCM(36,42)=252. 5/36=35/252, 6/42=36/252. Sum=71/252. Simplified: 5/36+6/42 = 5/36+1/7 = 35/252+36/252=71/252. Actually: 5/36+6/42: LCM=252, 5×7/252+6×6/252=35/252+36/252=71/252. Check: simplest form.",
+      "conceptIds": [2],
+      "pageReference": "36"
+    },
+    {
+      "id": "q2",
+      "question": "The multiplicative inverse of 2/5 is _____.",
+      "options": ["5/2", "-5/2", "2/5", "-2/5"],
+      "correctAnswer": "A",
+      "explanation": "The multiplicative inverse of p/q is q/p. Inverse of 2/5 is 5/2.",
+      "conceptIds": [3],
+      "pageReference": "35"
+    },
+    {
+      "id": "q3",
+      "question": "The group of integers is closed for which operations?",
+      "options": ["Addition, subtraction, multiplication", "All four operations", "Only addition", "Division only"],
+      "correctAnswer": "A",
+      "explanation": "Integers are closed for +, -, × but NOT for ÷ (e.g., 3÷5 = 3/5 is not an integer).",
+      "conceptIds": [2],
+      "pageReference": "35"
+    },
+    {
+      "id": "q4",
+      "question": "Write 7/4 in decimal form.",
+      "options": ["1.75", "0.75", "1.4", "2.75"],
+      "correctAnswer": "A",
+      "explanation": "7÷4 = 1.75. This is a terminating decimal (remainder becomes 0).",
+      "conceptIds": [5],
+      "pageReference": "39"
+    },
+    {
+      "id": "q5",
+      "question": "The decimal form of 5/3 is _____.",
+      "options": ["1.6̄ (recurring)", "1.67", "0.6", "1.5"],
+      "correctAnswer": "A",
+      "explanation": "5÷3 = 1.666... = 1.6̄ (recurring decimal, 6 repeats endlessly).",
+      "conceptIds": [5],
+      "pageReference": "40"
+    },
+    {
+      "id": "q6",
+      "question": "Simplify: 72 ÷ 6 + 2 × 2",
+      "options": ["16", "28", "32", "18"],
+      "correctAnswer": "A",
+      "explanation": "BODMAS: Division and multiplication first. 72÷6=12, 2×2=4. Then 12+4=16.",
+      "conceptIds": [5],
+      "pageReference": "41"
+    },
+    {
+      "id": "q7",
+      "question": "The multiplicative inverse of 7 is _____.",
+      "options": ["1/7", "-7", "-1/7", "7"],
+      "correctAnswer": "A",
+      "explanation": "Multiplicative inverse of 7 (= 7/1) is 1/7. Because 7 × 1/7 = 1.",
+      "conceptIds": [3],
+      "pageReference": "35"
+    },
+    {
+      "id": "q8",
+      "question": "Which of the following is a rational number between 2/7 and 6/7?",
+      "options": ["4/7", "1/7", "7/7", "8/7"],
+      "correctAnswer": "A",
+      "explanation": "4/7 lies between 2/7 and 6/7 since 2/7 < 4/7 < 6/7.",
+      "conceptIds": [4],
+      "pageReference": "36"
+    },
+    {
+      "id": "q9",
+      "question": "3/11 × 2/5 = ?",
+      "options": ["6/55", "5/16", "6/16", "3/10"],
+      "correctAnswer": "A",
+      "explanation": "Multiply numerators and denominators: (3×2)/(11×5) = 6/55.",
+      "conceptIds": [2],
+      "pageReference": "36"
+    },
+    {
+      "id": "q10",
+      "question": "Which type of decimal is 2/11 = 0.1818...?",
+      "options": ["Recurring decimal", "Terminating decimal", "Non-decimal", "Integer"],
+      "correctAnswer": "A",
+      "explanation": "0.1818... has the group '18' repeating endlessly — it is a recurring decimal written as 0.1̄8̄.",
+      "conceptIds": [5],
+      "pageReference": "40"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Rational number: m/n where m,n are integers, n≠0",
+      "Rational numbers include all integers, fractions, terminating and recurring decimals",
+      "Rational numbers are closed for all 4 operations (except ÷ by zero)",
+      "Multiplicative inverse of p/q is q/p; their product = 1",
+      "There are infinitely many rational numbers between any two rational numbers",
+      "Terminating decimals: remainder becomes zero; Recurring: digit/group repeats",
+      "BODMAS: Brackets, Of, Division, Multiplication, Addition, Subtraction"
+    ],
+    "commonMisconceptions": [
+      "All fractions are rational — TRUE (fractions of integers are rational)",
+      "√2 is rational — FALSE (it is irrational, cannot be expressed as m/n)",
+      "Recurring decimals are not rational — FALSE (recurring decimals are rational)",
+      "Multiplicative inverse = additive inverse — FALSE (completely different)",
+      "There is a 'next' rational number after any rational — FALSE (infinitely many between any two)"
+    ],
+    "realWorldExamples": [
+      "Sharing pizza equally: 3/4 of pizza is a rational number",
+      "Cricket batting average: runs/innings gives a rational number",
+      "Temperature: -2.5°C = -5/2°C is rational",
+      "Currency: 50 paise = 1/2 rupee is rational",
+      "Measurement: 2.75 kg = 11/4 kg is rational"
+    ],
+    "formulas": [
+      { "formula": "p/q ÷ r/s = p/q × s/r", "explanation": "Division = multiply by multiplicative inverse" },
+      { "formula": "Midpoint of a and b = (a+b)/2", "explanation": "Finds a rational number between a and b" }
+    ]
+  }
+}

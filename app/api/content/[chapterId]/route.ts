@@ -1,19 +1,17 @@
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
-import db from '@/lib/db/connection';
+import prisma from '@/lib/db/prisma';
 
 export async function GET(
-  request: NextRequest,
+  _request: NextRequest,
   { params }: { params: Promise<{ chapterId: string }> }
 ) {
   try {
-    const resolvedParams = await params;
-    const curriculumId = parseInt(resolvedParams.chapterId);
+    const { chapterId } = await params;
+    const curriculumId = parseInt(chapterId);
 
-    // Step 1: Query database to get actual chapter number
-    const stmt = db.prepare('SELECT chapter_number, chapter_name FROM curriculum WHERE id = ?');
-    const curriculum = stmt.get(curriculumId) as { chapter_number: number; chapter_name: string } | undefined;
+    const curriculum = await prisma.curriculum.findUnique({ where: { id: curriculumId } });
 
     if (!curriculum) {
       return NextResponse.json(
@@ -22,45 +20,49 @@ export async function GET(
       );
     }
 
-    const actualChapterNumber = curriculum.chapter_number;
-
-    // Step 2: Find content file using actual chapter number
     const contentDir = path.join(process.cwd(), 'content', 'chapters');
-    
+
     if (!fs.existsSync(contentDir)) {
-      return NextResponse.json(
-        { error: 'Content directory not found' },
-        { status: 404 }
-      );
+      return NextResponse.json({ error: 'Content directory not found' }, { status: 404 });
     }
 
     const files = fs.readdirSync(contentDir);
-    const chapterFile = files.find(file => 
-      file.startsWith(`chapter-${actualChapterNumber}-`) && file.endsWith('.json')
+
+    // Find files matching chapter number, then pick the one whose metadata.subject matches
+    const candidates = files.filter(
+      f => f.startsWith(`chapter-${curriculum.chapterNumber}-`) && f.endsWith('.json')
     );
 
-    if (!chapterFile) {
+    if (candidates.length === 0) {
       return NextResponse.json(
-        { error: `Content file not found for chapter ${actualChapterNumber} (${curriculum.chapter_name})` },
+        { error: `Content file not found for chapter ${curriculum.chapterNumber} (${curriculum.chapterName})` },
         { status: 404 }
       );
     }
 
-    // Step 3: Read and parse the JSON file
-    const filePath = path.join(contentDir, chapterFile);
-    const fileContent = fs.readFileSync(filePath, 'utf-8');
-    const chapterData = JSON.parse(fileContent);
+    // When multiple files match (same chapter number, different subjects), pick by subject
+    let chapterFile = candidates[0];
+    if (candidates.length > 1) {
+      const match = candidates.find(f => {
+        try {
+          const data = JSON.parse(fs.readFileSync(path.join(contentDir, f), 'utf-8'));
+          return data.metadata.subject === curriculum.subject;
+        } catch { return false; }
+      });
+      if (match) chapterFile = match;
+    }
 
-    // Step 4: Validate that chapter number matches
-    if (chapterData.metadata.chapterNumber !== actualChapterNumber) {
+    const filePath = path.join(contentDir, chapterFile);
+    const chapterData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+
+    if (chapterData.metadata.chapterNumber !== curriculum.chapterNumber) {
       return NextResponse.json(
-        { error: `Chapter number mismatch: file has ${chapterData.metadata.chapterNumber}, expected ${actualChapterNumber}` },
+        { error: `Chapter number mismatch in file` },
         { status: 400 }
       );
     }
 
     return NextResponse.json(chapterData);
-
   } catch (error) {
     console.error('Error loading chapter content:', error);
     return NextResponse.json(

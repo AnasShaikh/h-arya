@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "chapterNumber": 10,
+    "title": "Banks and Simple Interest",
+    "subject": "Mathematics",
+    "pages": "69-74",
+    "description": "Types of bank accounts, principal, interest, amount, simple interest formula"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Which type of bank account pays the highest interest?",
+      "options": ["Fixed Deposit", "Savings Account", "Current Account", "Recurring Deposit"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "If Principal = ₹1000, Rate = 10% p.a., Time = 2 years, what is the Simple Interest?",
+      "options": ["₹200", "₹100", "₹220", "₹20"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "q3",
+      "question": "Amount = Principal + _____.",
+      "options": ["Interest", "Rate", "Time", "Principal again"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q4",
+      "question": "Neha borrowed ₹50,000 at 12% p.a. for 1 year. What is the amount she returns?",
+      "options": ["₹56,000", "₹50,000", "₹6,000", "₹62,000"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q5",
+      "question": "The interest on ₹1700 for 2 years is ₹340. What is the rate of interest?",
+      "options": ["10%", "12%", "15%", "4%"],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 4
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Types of Bank Accounts",
+      "emoji": "🏦",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Banks offer four main account types: Current Account (for traders, no interest, unlimited transactions), Savings Account (interest on balance, some withdrawal restrictions), Recurring Deposit (fixed monthly deposit, higher interest, compulsory savings), and Fixed Deposit (lump sum for fixed period, highest interest rate).",
+      "pageReference": "69",
+      "examples": [
+        { "icon": "🏪", "text": "Current Account: traders make many daily transactions, no interest" },
+        { "icon": "💰", "text": "Savings Account: earn interest on daily balance" },
+        { "icon": "📅", "text": "Recurring Deposit: deposit ₹5000 every month for 2 years" },
+        { "icon": "🔒", "text": "Fixed Deposit: deposit ₹1 lakh for 1 year at higher interest" }
+      ],
+      "keyPoints": [
+        "Current Account: no interest, unlimited transactions, for businesses",
+        "Savings Account: interest on daily balance, some withdrawal limits",
+        "Recurring Deposit: fixed monthly deposit, higher interest than savings",
+        "Fixed Deposit: highest interest, money locked for fixed period",
+        "Senior citizens get slightly higher interest rates"
+      ],
+      "funFact": "🏧 ATM cards let you withdraw money anytime without visiting a bank — the ATM network in India has grown to over 2 lakh ATMs!",
+      "textbookRef": "Page 69: Types of Bank Accounts"
+    },
+    {
+      "id": 2,
+      "title": "Passbook, Principal and Amount",
+      "emoji": "📒",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "A passbook records all deposits, withdrawals and the balance with dates. The Principal (P) is the original amount deposited or borrowed. The Amount is the total money including interest: Amount = Principal + Interest. The bank pays interest on the principal.",
+      "pageReference": "70",
+      "examples": [
+        { "icon": "📒", "text": "Passbook: Date | Particulars | Amount Deposited | Amount Withdrawn | Balance" },
+        { "icon": "💵", "text": "Suvidya borrowed ₹30,000 at 8%; after 1 year paid back ₹30,000 + ₹2,400 = ₹32,400" },
+        { "icon": "🏦", "text": "Balance on 2.2.16: ₹12,000; interest on 26.2.16: ₹135; new balance: ₹12,135" },
+        { "icon": "➕", "text": "Amount = ₹50,000 + ₹6,000 = ₹56,000 (principal + interest)" }
+      ],
+      "keyPoints": [
+        "Passbook records deposits, withdrawals and balance",
+        "Principal (P) = original amount borrowed or deposited",
+        "Interest = extra amount earned/paid on principal",
+        "Amount = Principal + Interest",
+        "Total money returned to bank = Amount (principal + interest)"
+      ],
+      "funFact": "💳 Today, digital banking apps replace physical passbooks — you can check your balance anytime on your phone!",
+      "textbookRef": "Page 70: Passbook and Amount"
+    },
+    {
+      "id": 3,
+      "title": "Simple Interest Formula",
+      "emoji": "🧮",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Simple Interest (I) = P × R × T / 100, where P = Principal, R = Rate of interest per annum (p.a.), T = Time in years. The same principal earns the same interest every year. Total Amount = P + I.",
+      "pageReference": "71-72",
+      "examples": [
+        { "icon": "🧮", "text": "₹25,000 at 8% for 3 years: I = 25000×8×3/100 = ₹6,000" },
+        { "icon": "💰", "text": "Neha: ₹50,000 at 12% for 1 year: I=₹6,000; Amount=₹56,000" },
+        { "icon": "📚", "text": "Sandeepbhau: ₹1,20,000 at 8.5% for 4 years: I=₹40,800" },
+        { "icon": "💵", "text": "Aakash: ₹25,000 at 8% for 3 years: ₹2,000/year × 3 = ₹6,000" }
+      ],
+      "keyPoints": [
+        "I = P×R×T/100",
+        "P = Principal (original amount)",
+        "R = Rate of interest per annum (%)",
+        "T = Time in years",
+        "Amount = P + I = P + P×R×T/100"
+      ],
+      "funFact": "💡 'Per cent per annum' (p.c.p.a.) means for every ₹100, you earn/pay R rupees every year — simple interest keeps the same principal each year!",
+      "textbookRef": "Pages 71-72: Simple Interest Formula"
+    },
+    {
+      "id": 4,
+      "title": "Finding Unknown Quantities",
+      "emoji": "🔍",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Given any three of P, R, T, and Amount, we can find the fourth. Use the formula I = P×R×T/100 and Amount = P + I. For example, to find rate: R = (I × 100) / (P × T). To find principal: use ratio method P/100 = Amount/（100+R×T).",
+      "pageReference": "73-74",
+      "examples": [
+        { "icon": "🔍", "text": "Find rate: P=₹25,000, Amount=₹31,000, T=4 years → I=₹6,000 → R=6%" },
+        { "icon": "💼", "text": "Find principal: returns ₹17,400 in 5 years at 9%: P=₹12,000" },
+        { "icon": "📊", "text": "P=₹1700, I=₹340, T=2 years: R = 340×100/(1700×2) = 10%" },
+        { "icon": "🏠", "text": "Jethalal: ₹2,50,000 at 10% for 5 years: yearly interest=₹25,000" }
+      ],
+      "keyPoints": [
+        "R = (I × 100) / (P × T)",
+        "T = (I × 100) / (P × R)",
+        "P = (I × 100) / (R × T)",
+        "Amount - Principal = Total Interest",
+        "Use ratio method when principal is unknown: P/100 = Amount/(100+RT)"
+      ],
+      "funFact": "🏘️ Housing loans in India are typically for 20-30 years — that's a lot of simple (or compound) interest!",
+      "textbookRef": "Pages 73-74: Finding Unknown in Simple Interest"
+    },
+    {
+      "id": 5,
+      "title": "ATM, Debit and Credit Cards",
+      "emoji": "💳",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "ATM (Automatic Teller Machine) cards allow cash withdrawal without visiting a bank. Debit cards deduct money directly from your account. Credit cards allow purchases now and pay later. Joint accounts can be operated by more than one person — common for husband-wife, business partners, societies.",
+      "pageReference": "69",
+      "examples": [
+        { "icon": "🏧", "text": "ATM card: withdraw cash at any ATM machine 24 hours" },
+        { "icon": "💳", "text": "Debit card: pay at shops, amount deducted from account immediately" },
+        { "icon": "🛒", "text": "Credit card: buy now, pay later (interest charged if delayed)" },
+        { "icon": "👫", "text": "Joint account: husband and wife share one account" }
+      ],
+      "keyPoints": [
+        "ATM card: withdraw cash without going to bank",
+        "Debit card: cashless payment, money deducted immediately",
+        "Credit card: borrow to spend, repay later",
+        "Joint account: operated by 2 or more persons",
+        "Senior citizens get higher interest rates on deposits"
+      ],
+      "funFact": "📱 India has one of the fastest growing digital payment systems in the world — UPI processes millions of transactions every day!",
+      "textbookRef": "Page 69: ATM and Cards"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "Rihanna deposits ₹1500 at 9% p.a. for 2 years. What is the total amount she gets?",
+      "options": ["₹1770", "₹1500", "₹270", "₹1800"],
+      "correctAnswer": "A",
+      "explanation": "I = 1500×9×2/100 = ₹270. Amount = 1500+270 = ₹1770.",
+      "conceptIds": [3],
+      "pageReference": "73"
+    },
+    {
+      "id": "q2",
+      "question": "Principal = ₹50,000, Rate = 10% p.a., Time = 5 years. What is the yearly interest?",
+      "options": ["₹5,000", "₹50,000", "₹25,000", "₹2,500"],
+      "correctAnswer": "A",
+      "explanation": "Yearly interest = P×R/100 = 50,000×10/100 = ₹5,000 per year.",
+      "conceptIds": [3],
+      "pageReference": "73"
+    },
+    {
+      "id": "q3",
+      "question": "The interest on ₹1700 for 2 years is ₹340. What is the rate of interest?",
+      "options": ["10%", "12%", "15%", "4%"],
+      "correctAnswer": "A",
+      "explanation": "R = I×100/(P×T) = 340×100/(1700×2) = 34000/3400 = 10%",
+      "conceptIds": [4],
+      "pageReference": "74"
+    },
+    {
+      "id": "q4",
+      "question": "Amount = Principal + _____.",
+      "options": ["Interest", "Rate", "Time", "Principal"],
+      "correctAnswer": "A",
+      "explanation": "Amount = Principal + Interest. This is the total money to be returned/received.",
+      "conceptIds": [2],
+      "pageReference": "70"
+    },
+    {
+      "id": "q5",
+      "question": "Which bank account pays NO interest?",
+      "options": ["Current Account", "Savings Account", "Fixed Deposit", "Recurring Deposit"],
+      "correctAnswer": "A",
+      "explanation": "A current account is mainly for traders. The bank does not pay any interest on this account.",
+      "conceptIds": [1],
+      "pageReference": "69"
+    },
+    {
+      "id": "q6",
+      "question": "Javed deposited ₹12,000 at 9% p.a. and received total ₹17,400 (withdrawing interest yearly). For how many years did he deposit?",
+      "options": ["5 years", "4 years", "3 years", "6 years"],
+      "correctAnswer": "A",
+      "explanation": "Total interest = 17400-12000 = ₹5,400. Yearly interest = 12000×9/100 = ₹1,080. Years = 5400/1080 = 5 years.",
+      "conceptIds": [4],
+      "pageReference": "74"
+    },
+    {
+      "id": "q7",
+      "question": "₹25,000 at 8% p.a. for 3 years. What is the total simple interest?",
+      "options": ["₹6,000", "₹2,000", "₹8,000", "₹3,000"],
+      "correctAnswer": "A",
+      "explanation": "I = P×R×T/100 = 25000×8×3/100 = ₹6,000",
+      "conceptIds": [3],
+      "pageReference": "72"
+    },
+    {
+      "id": "q8",
+      "question": "The interest on ₹3000 at certain rate for certain years is ₹600. What would be the interest on ₹1500 under the same conditions?",
+      "options": ["₹300", "₹600", "₹1000", "₹500"],
+      "correctAnswer": "A",
+      "explanation": "Interest is directly proportional to principal. If ₹3000 earns ₹600, ₹1500 (half) earns ₹300 (half).",
+      "conceptIds": [3],
+      "pageReference": "74"
+    },
+    {
+      "id": "q9",
+      "question": "Which account is best for compulsory savings with monthly deposits?",
+      "options": ["Recurring Deposit", "Current Account", "Fixed Deposit", "Savings Account"],
+      "correctAnswer": "A",
+      "explanation": "A Recurring Deposit account has a fixed monthly deposit and is a means of compulsory savings with higher interest than savings accounts.",
+      "conceptIds": [1],
+      "pageReference": "69"
+    },
+    {
+      "id": "q10",
+      "question": "Pankaj deposits ₹1,50,000 at 10% p.a. for 2 years. What is the total amount he gets?",
+      "options": ["₹1,80,000", "₹1,50,000", "₹30,000", "₹1,75,000"],
+      "correctAnswer": "A",
+      "explanation": "I = 150000×10×2/100 = ₹30,000. Amount = 150000+30000 = ₹1,80,000.",
+      "conceptIds": [3],
+      "pageReference": "73"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Current Account: no interest, for businesses/traders, unlimited transactions",
+      "Savings Account: interest on daily balance, some withdrawal limits",
+      "Recurring Deposit: fixed monthly savings, higher interest",
+      "Fixed Deposit: lump sum for fixed period, highest interest",
+      "Simple Interest: I = P×R×T/100",
+      "Amount = Principal + Interest",
+      "ATM card: cash withdrawal; Debit card: cashless payment; Credit card: borrow and pay later"
+    ],
+    "commonMisconceptions": [
+      "Current account pays interest — FALSE, no interest on current accounts",
+      "Simple interest compounds (grows on interest) — FALSE, simple interest is on original principal only",
+      "Amount = Interest — FALSE, Amount = Principal + Interest",
+      "Rate and time are the same — FALSE, rate is % per year, time is number of years"
+    ],
+    "realWorldExamples": [
+      "Suvidya borrowed ₹30,000 to buy a computer at 8%",
+      "Neha took a loan for a two-wheeler at 12% p.a.",
+      "Aakash deposited savings in a bank at 8% for 3 years",
+      "Jethalal took a housing loan of ₹2,50,000 at 10%",
+      "Shrikant deposited ₹85,000 for 2.5 years at 7%",
+      "School fund savings; starting school savings bank"
+    ],
+    "formulas": [
+      { "formula": "I = P×R×T/100", "explanation": "Simple Interest: Principal × Rate × Time ÷ 100" },
+      { "formula": "Amount = P + I", "explanation": "Total money = Principal + Interest" },
+      { "formula": "R = I×100/(P×T)", "explanation": "Find rate when interest, principal and time are known" },
+      { "formula": "T = I×100/(P×R)", "explanation": "Find time when interest, principal and rate are known" }
+    ]
+  }
+}

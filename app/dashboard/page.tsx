@@ -7,10 +7,10 @@ import Link from 'next/link';
 interface Chapter {
   id: number;
   subject: string;
-  chapter_number: number;
-  chapter_name: string;
+  chapterNumber: number;
+  chapterName: string;
   description: string;
-  is_active: number;
+  isActive: boolean;
 }
 
 export default function Dashboard() {
@@ -127,7 +127,7 @@ export default function Dashboard() {
                 <div
                   key={chapter.id}
                   className={`p-4 rounded-lg border-2 ${
-                    chapter.is_active
+                    chapter.isActive
                       ? 'border-indigo-200 bg-indigo-50'
                       : 'border-gray-200 bg-gray-50'
                   }`}
@@ -136,13 +136,13 @@ export default function Dashboard() {
                     <div className="flex-1">
                       <div className="flex items-center">
                         <span className="font-semibold text-gray-900 mr-2">
-                          Ch {chapter.chapter_number}:
+                          Ch {chapter.chapterNumber}:
                         </span>
-                        <span className="text-gray-900">{chapter.chapter_name}</span>
+                        <span className="text-gray-900">{chapter.chapterName}</span>
                       </div>
                       <p className="text-sm text-gray-700 mt-1">{chapter.description}</p>
                     </div>
-                    {chapter.is_active ? (
+                    {chapter.isActive ? (
                       <Link
                         href={`/chapter/${chapter.id}`}
                         className="ml-4 px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition text-sm font-semibold"
@@ -175,7 +175,7 @@ export default function Dashboard() {
                 <div
                   key={chapter.id}
                   className={`p-4 rounded-lg border-2 ${
-                    chapter.is_active
+                    chapter.isActive
                       ? 'border-indigo-200 bg-indigo-50'
                       : 'border-gray-200 bg-gray-50'
                   }`}
@@ -184,13 +184,13 @@ export default function Dashboard() {
                     <div className="flex-1">
                       <div className="flex items-center">
                         <span className="font-semibold text-gray-900 mr-2">
-                          Ch {chapter.chapter_number}:
+                          Ch {chapter.chapterNumber}:
                         </span>
-                        <span className="text-gray-900">{chapter.chapter_name}</span>
+                        <span className="text-gray-900">{chapter.chapterName}</span>
                       </div>
                       <p className="text-sm text-gray-700 mt-1">{chapter.description}</p>
                     </div>
-                    {chapter.is_active ? (
+                    {chapter.isActive ? (
                       <Link
                         href={`/chapter/${chapter.id}`}
                         className="ml-4 px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition text-sm font-semibold"

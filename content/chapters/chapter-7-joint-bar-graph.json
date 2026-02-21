@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "chapterNumber": 7,
+    "title": "Joint Bar Graph",
+    "subject": "Mathematics",
+    "pages": "51-54",
+    "description": "Reading and drawing joint/grouped bar graphs for comparative data"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "A joint bar graph is used for _____.",
+      "options": ["Comparing two or more sets of data", "Showing a single data set", "Drawing pie charts", "Calculating averages"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "In a joint bar graph, what does the X-axis typically show?",
+      "options": ["Categories (like years or classes)", "Values/quantities", "Only numbers", "Colours"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "What must be equal for all bars in a joint bar graph?",
+      "options": ["Width of all bars", "Height of all bars", "Colour of all bars", "Number of bars per set"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "Which graph is best to compare boys' and girls' strength across 5 classes?",
+      "options": ["Joint bar graph", "Pie chart", "Line graph", "Simple bar graph"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "q5",
+      "question": "If a scale on Y-axis is 1 cm = 10 quintals and a bar is 5 cm tall, what is the value?",
+      "options": ["50 quintals", "5 quintals", "500 quintals", "15 quintals"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "What is a Joint Bar Graph?",
+      "emoji": "📊",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "A joint bar graph combines two or more bar graphs into one. It shows related data sets side by side for easy comparison. For example, wheat production of two farmers (Ajay and Vijay) can be shown in one graph instead of two separate ones, saving space and making comparison easier.",
+      "pageReference": "51",
+      "examples": [
+        { "icon": "🌾", "text": "Ajay and Vijay's wheat production side-by-side per year" },
+        { "icon": "🌡️", "text": "Maximum and minimum temperature each day of the week" },
+        { "icon": "🎓", "text": "Boys and girls count in each class of a school" },
+        { "icon": "📰", "text": "Used in newspapers and magazine data presentations" }
+      ],
+      "keyPoints": [
+        "Combines two or more data sets in one graph",
+        "Uses different colours for each data set",
+        "Makes comparison easy and saves space",
+        "Used in science, geography, economics",
+        "More information in less space than separate graphs"
+      ],
+      "funFact": "📰 Joint bar graphs appear everywhere — newspapers, cricket scorecards, budget reports — whenever two datasets need comparison!",
+      "textbookRef": "Page 51: Introduction to Joint Bar Graph"
+    },
+    {
+      "id": 2,
+      "title": "Reading a Joint Bar Graph",
+      "emoji": "👁️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "To read a joint bar graph: check the X-axis for categories (days, classes, years), check the Y-axis scale, identify which colour represents which data set from the legend (key), then read values by finding the height of each bar using the scale.",
+      "pageReference": "51-52",
+      "examples": [
+        { "icon": "📏", "text": "Scale: 1cm = 5°C on Y-axis; bar of 6cm = 30°C" },
+        { "icon": "🌡️", "text": "Blue bar = maximum temp, Red bar = minimum temp" },
+        { "icon": "📊", "text": "X-axis: Mon, Tue, Wed, Thu, Fri; Y-axis: temperature" },
+        { "icon": "🔍", "text": "Find difference: subtract minimum from maximum bar height" }
+      ],
+      "keyPoints": [
+        "X-axis shows categories (days, years, classes)",
+        "Y-axis shows values/quantities with a scale",
+        "Different colours represent different data sets",
+        "Legend/key explains what each colour means",
+        "Read values by finding bar height and applying scale"
+      ],
+      "funFact": "🌡️ Weather departments use joint bar graphs to show maximum and minimum temperatures — you can spot temperature swings at a glance!",
+      "textbookRef": "Page 51-52: Reading a Joint Bar Graph"
+    },
+    {
+      "id": 3,
+      "title": "Drawing a Joint Bar Graph",
+      "emoji": "✏️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Steps: 1) Draw X and Y axes. 2) Mark categories on X-axis with equal spacing between sets. 3) Choose a scale for Y-axis. 4) Draw bars of correct heights using the scale. 5) Use different colours for each data set. 6) Add a legend. All bars must have equal widths.",
+      "pageReference": "52",
+      "examples": [
+        { "icon": "📐", "text": "Draw axes → mark classes 5th-10th on X-axis" },
+        { "icon": "📏", "text": "Scale: 1 unit = 10 students on Y-axis" },
+        { "icon": "🔵", "text": "Blue bars for boys, Pink bars for girls" },
+        { "icon": "📋", "text": "Add legend: Blue=Boys, Pink=Girls" }
+      ],
+      "keyPoints": [
+        "All bar widths must be equal",
+        "Equal spacing between each set of bars",
+        "Choose an appropriate scale for Y-axis",
+        "Use different clearly distinguishable colours",
+        "Always add a legend/key to explain colours"
+      ],
+      "funFact": "🎨 Choosing the right scale is an art — too large and bars are tiny; too small and bars go off the page!",
+      "textbookRef": "Page 52: Drawing a Joint Bar Graph"
+    },
+    {
+      "id": 4,
+      "title": "Real-World Applications",
+      "emoji": "🌍",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Joint bar graphs are used in many fields: schools (comparing boys and girls), meteorology (max-min temperatures), elections (votes at different booths), vaccination data (different vaccines at different hospitals), and literacy rates over multiple years.",
+      "pageReference": "53-54",
+      "examples": [
+        { "icon": "🗳️", "text": "Gram Panchayat elections: men vs women votes at 5 booths" },
+        { "icon": "💉", "text": "Vaccination in Solapur and Pune: different vaccine types" },
+        { "icon": "📚", "text": "Literacy rates of Maharashtra and Gujarat from 1971-2011" },
+        { "icon": "🏫", "text": "Saplings planted: Almond, Karanj, Neem etc. by two schools" }
+      ],
+      "keyPoints": [
+        "Used in science, geography, social science",
+        "Election data: compare candidate votes at multiple booths",
+        "Public health: vaccination rates at multiple locations",
+        "Agriculture: crop production comparison over years",
+        "Education: literacy rates across states over decades"
+      ],
+      "funFact": "📊 Maharashtra's literacy rate improved from 46% in 1971 to 83% in 2011 — a joint bar graph tells this story instantly!",
+      "textbookRef": "Pages 53-54: Practice Set 31 Applications"
+    },
+    {
+      "id": 5,
+      "title": "Other Types of Graphs",
+      "emoji": "📈",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Besides joint bar graphs, other types include: Histogram (for continuous data), Line graph (shows trend over time), and Pie chart (shows parts of a whole as percentages). Each type is best suited for different kinds of data.",
+      "pageReference": "52",
+      "examples": [
+        { "icon": "📊", "text": "Bar graph: comparing categories (like our joint bar graph)" },
+        { "icon": "📈", "text": "Line graph: stock prices, temperature trends over time" },
+        { "icon": "🥧", "text": "Pie chart: budget allocation, survey results (percentages)" },
+        { "icon": "📉", "text": "Histogram: height distribution, age groups" }
+      ],
+      "keyPoints": [
+        "Histogram: for continuous data with class intervals",
+        "Line graph: best for showing change over time (trends)",
+        "Pie chart: best for showing parts of a whole (proportions)",
+        "Bar graph (including joint): best for comparing categories",
+        "Tools like MS-Excel, GeoGebra can draw all types"
+      ],
+      "funFact": "💻 Modern tools like MS-Excel can create any type of graph in seconds — but you need to know which type to choose!",
+      "textbookRef": "Page 52: Types of Graphs"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "A joint bar graph is used when you want to _____.",
+      "options": ["Compare two datasets side by side", "Show a single set of data", "Find the average", "Draw a circle graph"],
+      "correctAnswer": "A",
+      "explanation": "Joint bar graphs show two or more related datasets together for comparison.",
+      "conceptIds": [1],
+      "pageReference": "51"
+    },
+    {
+      "id": "q2",
+      "question": "In a joint bar graph, all bars must have _____.",
+      "options": ["Equal width", "Equal height", "Equal colour", "Equal spacing from Y-axis"],
+      "correctAnswer": "A",
+      "explanation": "All bars in a joint bar graph must have equal width. The distance between sets should also be equal.",
+      "conceptIds": [3],
+      "pageReference": "52"
+    },
+    {
+      "id": "q3",
+      "question": "The scale on Y-axis is 1 cm = 10 quintals. A bar is 4.2 cm tall. What is the value?",
+      "options": ["42 quintals", "4.2 quintals", "420 quintals", "14.2 quintals"],
+      "correctAnswer": "A",
+      "explanation": "Value = bar height × scale = 4.2 × 10 = 42 quintals",
+      "conceptIds": [2],
+      "pageReference": "51"
+    },
+    {
+      "id": "q4",
+      "question": "Which type of graph shows parts of a whole as percentages?",
+      "options": ["Pie chart", "Bar graph", "Joint bar graph", "Histogram"],
+      "correctAnswer": "A",
+      "explanation": "A pie chart divides a circle into sectors showing proportions/percentages of a whole.",
+      "conceptIds": [5],
+      "pageReference": "52"
+    },
+    {
+      "id": "q5",
+      "question": "What should you add to a joint bar graph to identify which colour represents which data?",
+      "options": ["A legend/key", "More bars", "A title only", "Numbers on bars"],
+      "correctAnswer": "A",
+      "explanation": "A legend (or key) explains what each colour in the joint bar graph represents.",
+      "conceptIds": [3],
+      "pageReference": "52"
+    },
+    {
+      "id": "q6",
+      "question": "For Nutan Vidyalaya, 40 Almond and 60 Karanj trees were planted. For Bharat Vidyalaya, 42 Almond and 38 Karanj were planted. In which year did both schools plant the most Almond trees together?",
+      "options": ["Both schools: 40+42=82 Almond total", "Nutan: 60 Karanj", "Bharat: 38 Karanj", "Cannot determine"],
+      "correctAnswer": "A",
+      "explanation": "Total almond trees = 40 (Nutan) + 42 (Bharat) = 82. This is a comparison using joint bar graph data.",
+      "conceptIds": [1, 4],
+      "pageReference": "53"
+    },
+    {
+      "id": "q7",
+      "question": "Which type of graph is best for showing temperature changes over a month?",
+      "options": ["Line graph", "Pie chart", "Joint bar graph", "Histogram"],
+      "correctAnswer": "A",
+      "explanation": "Line graphs are best for showing changes/trends over time.",
+      "conceptIds": [5],
+      "pageReference": "52"
+    },
+    {
+      "id": "q8",
+      "question": "The spacing between two consecutive sets of bars in a joint bar graph should be _____.",
+      "options": ["Equal throughout", "Different each time", "Zero", "Maximum possible"],
+      "correctAnswer": "A",
+      "explanation": "The distance between any two consecutive sets of joint bars should be equal throughout the graph.",
+      "conceptIds": [3],
+      "pageReference": "52"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Joint bar graph: combines two or more data sets in one graph for comparison",
+      "X-axis shows categories; Y-axis shows values with a scale",
+      "All bars must have equal widths; equal spacing between sets",
+      "Different colours represent different data sets; use a legend",
+      "Types: bar graph, histogram, line graph, pie chart",
+      "Used in schools, meteorology, elections, health, agriculture"
+    ],
+    "commonMisconceptions": [
+      "Bar widths can vary to show different values — FALSE, widths must always be equal",
+      "No legend is needed if bars are different heights — FALSE, always need a legend",
+      "Line graph is best for all data — FALSE, use bar graph for categories, line for trends",
+      "A joint bar graph shows averages — FALSE, it shows individual data values"
+    ],
+    "realWorldExamples": [
+      "Maximum and minimum daily temperatures in Pune",
+      "Boys vs girls in each class at a school",
+      "Votes for different candidates at 5 polling booths",
+      "Vaccination rates at hospitals in Solapur and Pune",
+      "Maharashtra vs Gujarat literacy rates 1971-2011",
+      "Wheat production comparison between two farmers"
+    ],
+    "formulas": [
+      { "formula": "Value = bar height × scale factor", "explanation": "Read actual value from bar height using the Y-axis scale" }
+    ]
+  }
+}

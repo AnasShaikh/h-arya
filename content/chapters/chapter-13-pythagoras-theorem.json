@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "chapterNumber": 13,
+    "title": "Pythagoras Theorem",
+    "subject": "Mathematics",
+    "pages": "87-90",
+    "description": "Right-angled triangles, Pythagoras theorem, Pythagorean triplets"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "In a right-angled triangle, the side opposite to the right angle is called _____.",
+      "options": ["Hypotenuse", "Base", "Height", "Perpendicular"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "In △ABC, ∠C = 90°, AC = 5 cm, BC = 12 cm. What is AB?",
+      "options": ["13 cm", "17 cm", "7 cm", "11 cm"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q3",
+      "question": "Which of these is a Pythagorean triplet?",
+      "options": ["(3, 4, 5)", "(2, 4, 5)", "(4, 5, 6)", "(2, 6, 7)"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 4
+    },
+    {
+      "id": "q4",
+      "question": "Pythagoras theorem states: (hypotenuse)² = _____.",
+      "options": ["(base)² + (height)²", "(base)² - (height)²", "(base) × (height)", "(base + height)²"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q5",
+      "question": "A ladder of 15 m reaches a window 9 m above the ground. How far is the base from the wall?",
+      "options": ["12 m", "6 m", "10 m", "8 m"],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 3
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Right-angled Triangle and Hypotenuse",
+      "emoji": "📐",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "A right-angled triangle has one angle equal to 90°. The side opposite to the right angle is the longest side, called the hypotenuse. The other two sides forming the right angle are called the base and height (or legs). Pythagoras was a Greek mathematician of the 6th century BCE.",
+      "pageReference": "87",
+      "examples": [
+        { "icon": "📐", "text": "In △ABC with ∠B=90°: AC is the hypotenuse (opposite to right angle)" },
+        { "icon": "🏛️", "text": "Pythagoras of Greece (6th century BCE) proved this theorem" },
+        { "icon": "📜", "text": "Also found in ancient Indian text Shulvasutra" },
+        { "icon": "⬛", "text": "Base and height are the two legs forming the right angle" }
+      ],
+      "keyPoints": [
+        "Right-angled triangle has one 90° angle",
+        "Hypotenuse = side opposite to right angle (longest side)",
+        "Base and height = two sides forming the right angle",
+        "Named after Pythagoras (6th century BCE Greek mathematician)",
+        "Also present in ancient Indian Shulvasutra"
+      ],
+      "funFact": "🌏 The Pythagorean theorem was known in ancient India (Shulvasutra) and Babylon long before Pythagoras — he was the first to formally prove it!",
+      "textbookRef": "Page 87: Right-angled Triangle"
+    },
+    {
+      "id": 2,
+      "title": "Pythagoras Theorem",
+      "emoji": "🔺",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "In a right-angled triangle, the square of the hypotenuse equals the sum of squares of the other two sides. If ∠B = 90° in △ABC, then [l(AC)]² = [l(AB)]² + [l(BC)]², or (hypotenuse)² = (base)² + (height)².",
+      "pageReference": "87-88",
+      "examples": [
+        { "icon": "🔺", "text": "△ABC with ∠C=90°, AC=5, BC=12: AB² = 5²+12² = 25+144 = 169 → AB=13" },
+        { "icon": "📐", "text": "Proof: two squares of side (b+c), arrange 4 right triangles → a²=b²+c²" },
+        { "icon": "🎯", "text": "Cardsheet activity: construct squares on all three sides, verify areas" },
+        { "icon": "✅", "text": "Verified: 3²+4²=5²; 5²+12²=13²; 8²+15²=17²" }
+      ],
+      "keyPoints": [
+        "Hypotenuse² = base² + height²",
+        "[l(AC)]² = [l(AB)]² + [l(BC)]² when ∠B = 90°",
+        "Proof by square area method: a² + 2bc = b² + c² + 2bc → a² = b² + c²",
+        "Works only for right-angled triangles",
+        "Helps find any side when other two are known"
+      ],
+      "funFact": "🏗️ Engineers use the 3-4-5 rule to check right angles in construction — if sides are 3, 4, 5, it's a perfect right angle!",
+      "textbookRef": "Pages 87-88: Pythagoras Theorem Statement and Proof"
+    },
+    {
+      "id": 3,
+      "title": "Finding the Third Side",
+      "emoji": "🔍",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Given any two sides of a right-angled triangle, find the third using the Pythagorean theorem. If hypotenuse and one leg are given: missing leg = √(hyp² - leg²). If both legs given: hypotenuse = √(leg₁² + leg₂²).",
+      "pageReference": "89",
+      "examples": [
+        { "icon": "🔍", "text": "∠C=90°, AC=5, BC=12: AB=√(25+144)=√169=13" },
+        { "icon": "🏗️", "text": "∠M=90°, LM=12, LN=20: MN=√(400-144)=√256=16" },
+        { "icon": "🏠", "text": "Ladder 15m, window 9m high: base=√(225-81)=√144=12m" },
+        { "icon": "📐", "text": "Right triangle: find x from hypotenuse and one side" }
+      ],
+      "keyPoints": [
+        "Hypotenuse = √(base² + height²)",
+        "Missing leg = √(hypotenuse² - known leg²)",
+        "Always identify which side is the hypotenuse first",
+        "Use square root after applying the theorem",
+        "Real-world: ladder problems, height problems"
+      ],
+      "funFact": "🏠 A 15m ladder reaching 9m height: the base is exactly 12m from the wall — a classic 3-4-5 right triangle scaled by 3!",
+      "textbookRef": "Page 89: Finding the Third Side"
+    },
+    {
+      "id": 4,
+      "title": "Pythagorean Triplets",
+      "emoji": "3️⃣4️⃣5️⃣",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Three natural numbers form a Pythagorean triplet if the square of the largest equals the sum of squares of the other two. For example: (3,4,5) since 3²+4²=5². If sides of a triangle form a Pythagorean triplet, the triangle is right-angled.",
+      "pageReference": "90",
+      "examples": [
+        { "icon": "3️⃣", "text": "(3,4,5): 9+16=25 ✓ Pythagorean triplet" },
+        { "icon": "5️⃣", "text": "(5,12,13): 25+144=169 ✓ Pythagorean triplet" },
+        { "icon": "7️⃣", "text": "(7,24,25): 49+576=625 ✓ Pythagorean triplet" },
+        { "icon": "9️⃣", "text": "(9,40,41): 81+1600=1681=41² ✓ Pythagorean triplet" }
+      ],
+      "keyPoints": [
+        "Pythagorean triplet: a²+b²=c² for natural numbers a, b, c",
+        "c must be the largest number",
+        "Classic triplets: (3,4,5), (5,12,13), (7,24,25), (8,15,17), (9,40,41)",
+        "Any triangle whose sides form a triplet is right-angled",
+        "Multiples of triplets also work: (6,8,10), (9,12,15)"
+      ],
+      "funFact": "🧱 Egyptian builders used ropes knotted in a 3-4-5 ratio to create perfect right angles for pyramids — Pythagorean triplets in action!",
+      "textbookRef": "Page 90: Pythagorean Triplets"
+    },
+    {
+      "id": 5,
+      "title": "Verifying Right-angled Triangles",
+      "emoji": "✅",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "To check if a triangle is right-angled: check if the square of the largest side equals the sum of squares of the other two sides. If (largest)² = (other₁)² + (other₂)², the triangle is right-angled at the vertex opposite the largest side.",
+      "pageReference": "90",
+      "examples": [
+        { "icon": "✅", "text": "(8,15,17): 64+225=289=17² ✓ Right-angled triangle" },
+        { "icon": "❌", "text": "(11,12,15): 121+144=265 ≠ 225 ✗ Not right-angled" },
+        { "icon": "✅", "text": "(11,60,61): 121+3600=3721=61² ✓ Right-angled" },
+        { "icon": "❌", "text": "(40,20,30): 1600 ≠ 400+900=1300 ✗ Not right-angled" }
+      ],
+      "keyPoints": [
+        "Check: (largest side)² = (side₁)² + (side₂)²",
+        "If equal → right-angled triangle",
+        "If not equal → not right-angled",
+        "The right angle is at vertex opposite the largest side (hypotenuse)",
+        "Non-Pythagorean triplets: (2,4,5), (4,5,6), (1.5,1.6,1.7)"
+      ],
+      "funFact": "📏 Surveyors still use the 3-4-5 method with measuring tapes to create right angles when setting up boundaries!",
+      "textbookRef": "Page 90: Verifying Right-angled Triangles"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "In △ABC, ∠C = 90°, l(AC) = 5 cm and l(BC) = 12 cm. What is l(AB)?",
+      "options": ["13 cm", "17 cm", "7 cm", "11 cm"],
+      "correctAnswer": "A",
+      "explanation": "AB² = AC² + BC² = 5²+12² = 25+144 = 169. AB = √169 = 13 cm.",
+      "conceptIds": [2, 3],
+      "pageReference": "89"
+    },
+    {
+      "id": "q2",
+      "question": "A ladder of 15m reaches a window 9m above the ground. What is the base distance?",
+      "options": ["12 m", "6 m", "10 m", "18 m"],
+      "correctAnswer": "A",
+      "explanation": "base² = 15² - 9² = 225 - 81 = 144. Base = √144 = 12 m.",
+      "conceptIds": [3],
+      "pageReference": "89"
+    },
+    {
+      "id": "q3",
+      "question": "Do (7, 24, 25) form a Pythagorean triplet?",
+      "options": ["Yes, 7²+24²=25²", "No", "Only if scaled", "Cannot determine"],
+      "correctAnswer": "A",
+      "explanation": "7²+24² = 49+576 = 625 = 25². Yes, they form a Pythagorean triplet.",
+      "conceptIds": [4],
+      "pageReference": "90"
+    },
+    {
+      "id": "q4",
+      "question": "Is the triangle with sides 8, 15, 17 right-angled?",
+      "options": ["Yes", "No", "Cannot determine", "Only for certain orientations"],
+      "correctAnswer": "A",
+      "explanation": "8²+15² = 64+225 = 289 = 17². Yes, it is right-angled.",
+      "conceptIds": [5],
+      "pageReference": "90"
+    },
+    {
+      "id": "q5",
+      "question": "In △LMN, ∠M = 90°, l(LM) = 12cm and l(LN) = 20 cm. What is l(MN)?",
+      "options": ["16 cm", "8 cm", "32 cm", "14 cm"],
+      "correctAnswer": "A",
+      "explanation": "LN is hypotenuse. MN² = LN²-LM² = 400-144 = 256. MN = 16 cm.",
+      "conceptIds": [3],
+      "pageReference": "89"
+    },
+    {
+      "id": "q6",
+      "question": "Is (9, 40, 41) a Pythagorean triplet?",
+      "options": ["Yes, 9²+40²=41²", "No", "Only approximate", "Cannot say"],
+      "correctAnswer": "A",
+      "explanation": "9²+40² = 81+1600 = 1681 = 41². Yes, it is a Pythagorean triplet.",
+      "conceptIds": [4],
+      "pageReference": "90"
+    },
+    {
+      "id": "q7",
+      "question": "Is the triangle with sides 11, 12, 15 right-angled?",
+      "options": ["No", "Yes", "Cannot determine", "Only if angles are given"],
+      "correctAnswer": "A",
+      "explanation": "11²+12² = 121+144 = 265 ≠ 225 = 15². Not a Pythagorean triplet → not right-angled.",
+      "conceptIds": [5],
+      "pageReference": "90"
+    },
+    {
+      "id": "q8",
+      "question": "In ∆PQR, ∠P = 90°, l(PQ) = 24cm, l(PR) = 10cm. What is l(QR)?",
+      "options": ["26 cm", "34 cm", "14 cm", "22 cm"],
+      "correctAnswer": "A",
+      "explanation": "QR is hypotenuse. QR² = PQ² + PR² = 576+100 = 676. QR = 26 cm.",
+      "conceptIds": [3],
+      "pageReference": "89"
+    },
+    {
+      "id": "q9",
+      "question": "The side opposite to the right angle in a right-angled triangle is _____.",
+      "options": ["Hypotenuse", "Base", "Height", "Median"],
+      "correctAnswer": "A",
+      "explanation": "The hypotenuse is the side opposite the right angle — it is always the longest side.",
+      "conceptIds": [1],
+      "pageReference": "87"
+    },
+    {
+      "id": "q10",
+      "question": "Which triplet is NOT Pythagorean?",
+      "options": ["(2, 4, 5)", "(3, 4, 5)", "(5, 12, 13)", "(8, 15, 17)"],
+      "correctAnswer": "A",
+      "explanation": "2²+4² = 4+16 = 20 ≠ 25 = 5². So (2,4,5) is NOT a Pythagorean triplet.",
+      "conceptIds": [4, 5],
+      "pageReference": "90"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Pythagoras theorem: (hypotenuse)² = (base)² + (height)²",
+      "Named after Pythagoras (6th century BCE); also in Indian Shulvasutra",
+      "Hypotenuse: side opposite right angle, always the longest side",
+      "Finding third side: hyp=√(b²+h²) or leg=√(hyp²-leg²)",
+      "Pythagorean triplets: natural numbers where c²=a²+b²",
+      "Common triplets: (3,4,5), (5,12,13), (7,24,25), (8,15,17), (9,40,41)"
+    ],
+    "commonMisconceptions": [
+      "Theorem works for all triangles — FALSE, only right-angled triangles",
+      "The hypotenuse is always the base — FALSE, it's the side opposite the right angle",
+      "(2,4,5) is a Pythagorean triplet — FALSE, 4+16=20≠25",
+      "Any multiple of a right triangle is not right-angled — FALSE, multiples of triplets also form right triangles"
+    ],
+    "realWorldExamples": [
+      "Ladder problems: height reached vs base distance from wall",
+      "Construction: 3-4-5 rope trick for right angles",
+      "Navigation: shortest path using Pythagoras",
+      "Ramps and slopes: calculating incline length",
+      "Cricket pitch: measuring diagonal of rectangular pitch"
+    ],
+    "formulas": [
+      { "formula": "c² = a² + b²", "explanation": "Pythagoras theorem: hypotenuse² = sum of squares of other two sides" },
+      { "formula": "c = √(a² + b²)", "explanation": "Find hypotenuse when both legs are known" },
+      { "formula": "a = √(c² - b²)", "explanation": "Find a leg when hypotenuse and other leg are known" }
+    ]
+  }
+}

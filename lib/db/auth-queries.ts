@@ -1,131 +1,117 @@
-import db from './connection';
+import prisma from './prisma';
 import bcrypt from 'bcryptjs';
 
-// User authentication queries
-export function createUser(
-  username: string,
-  email: string,
-  password: string,
-  name: string
-) {
-  const passwordHash = bcrypt.hashSync(password, 10);
-  const stmt = db.prepare(
-    'INSERT INTO users (username, email, password_hash, name) VALUES (?, ?, ?, ?)'
-  );
-  const result = stmt.run(username, email, passwordHash, name);
-  return result.lastInsertRowid;
+// ── User authentication ──────────────────────────────────────────────────────
+
+export async function createUser(username: string, email: string, password: string, name: string) {
+  const passwordHash = await bcrypt.hash(password, 10);
+  const user = await prisma.user.create({
+    data: { username, email, passwordHash, name },
+  });
+  return user.id;
 }
 
-export function getUserByUsername(username: string) {
-  const stmt = db.prepare('SELECT * FROM users WHERE username = ?');
-  return stmt.get(username);
+export async function getUserByUsername(username: string) {
+  return prisma.user.findUnique({ where: { username } });
 }
 
-export function getUserByEmail(email: string) {
-  const stmt = db.prepare('SELECT * FROM users WHERE email = ?');
-  return stmt.get(email);
+export async function getUserByEmail(email: string) {
+  return prisma.user.findUnique({ where: { email } });
 }
 
-export function getUserById(id: number) {
-  const stmt = db.prepare('SELECT * FROM users WHERE id = ?');
-  return stmt.get(id);
+export async function getUserById(id: number) {
+  return prisma.user.findUnique({ where: { id } });
 }
 
-export function verifyPassword(password: string, hash: string): boolean {
-  return bcrypt.compareSync(password, hash);
+export function verifyPassword(password: string, hash: string): Promise<boolean> {
+  return bcrypt.compare(password, hash);
 }
 
-export function updateLastLogin(userId: number) {
-  const stmt = db.prepare('UPDATE users SET last_login = CURRENT_TIMESTAMP WHERE id = ?');
-  stmt.run(userId);
+export async function updateLastLogin(userId: number) {
+  await prisma.user.update({
+    where: { id: userId },
+    data: { lastLogin: new Date() },
+  });
 }
 
-// Password reset queries
-export function createPasswordResetToken(userId: number): string {
+// ── Password reset ────────────────────────────────────────────────────────────
+
+export async function createPasswordResetToken(userId: number): Promise<string> {
   const token = generateResetToken();
-  const expiresAt = new Date(Date.now() + 3600000).toISOString(); // 1 hour
-  
-  const stmt = db.prepare(
-    'INSERT INTO password_reset_tokens (user_id, token, expires_at) VALUES (?, ?, ?)'
-  );
-  stmt.run(userId, token, expiresAt);
-  
+  const expiresAt = new Date(Date.now() + 3_600_000); // 1 hour
+  await prisma.passwordResetToken.create({ data: { userId, token, expiresAt } });
   return token;
 }
 
-export function getPasswordResetToken(token: string) {
-  const stmt = db.prepare(
-    'SELECT * FROM password_reset_tokens WHERE token = ? AND used = 0 AND expires_at > datetime("now")'
-  );
-  return stmt.get(token);
+export async function getPasswordResetToken(token: string) {
+  return prisma.passwordResetToken.findFirst({
+    where: { token, used: false, expiresAt: { gt: new Date() } },
+  });
 }
 
-export function markTokenAsUsed(token: string) {
-  const stmt = db.prepare('UPDATE password_reset_tokens SET used = 1 WHERE token = ?');
-  stmt.run(token);
+export async function markTokenAsUsed(token: string) {
+  await prisma.passwordResetToken.update({ where: { token }, data: { used: true } });
 }
 
-export function updateUserPassword(userId: number, newPassword: string) {
-  const passwordHash = bcrypt.hashSync(newPassword, 10);
-  const stmt = db.prepare('UPDATE users SET password_hash = ? WHERE id = ?');
-  stmt.run(passwordHash, userId);
+export async function updateUserPassword(userId: number, newPassword: string) {
+  const passwordHash = await bcrypt.hash(newPassword, 10);
+  await prisma.user.update({ where: { id: userId }, data: { passwordHash } });
 }
 
-// Curriculum queries
-export function getAllSubjects() {
-  const stmt = db.prepare('SELECT DISTINCT subject FROM curriculum ORDER BY subject');
-  return stmt.all();
+// ── Curriculum ────────────────────────────────────────────────────────────────
+
+export async function getAllSubjects() {
+  const rows = await prisma.curriculum.findMany({
+    select: { subject: true },
+    distinct: ['subject'],
+    orderBy: { subject: 'asc' },
+  });
+  return rows.map(r => r.subject);
 }
 
-export function getChaptersBySubject(subject: string) {
-  const stmt = db.prepare(
-    'SELECT * FROM curriculum WHERE subject = ? ORDER BY chapter_number'
-  );
-  return stmt.all(subject);
+export async function getChaptersBySubject(subject: string) {
+  return prisma.curriculum.findMany({
+    where: { subject },
+    orderBy: { chapterNumber: 'asc' },
+  });
 }
 
-export function getChapterById(id: number) {
-  const stmt = db.prepare('SELECT * FROM curriculum WHERE id = ?');
-  return stmt.get(id);
+export async function getChapterById(id: number) {
+  return prisma.curriculum.findUnique({ where: { id } });
 }
 
-// Progress queries for new schema
-export function getUserProgress(userId: number) {
-  const stmt = db.prepare(
-    `SELECT p.*, c.chapter_name, c.description 
-     FROM progress p 
-     JOIN curriculum c ON p.subject = c.subject AND p.chapter = c.chapter_name
-     WHERE p.user_id = ? 
-     ORDER BY p.last_practiced DESC`
-  );
-  return stmt.all(userId);
+// ── Progress ──────────────────────────────────────────────────────────────────
+
+export async function getUserProgress(userId: number) {
+  return prisma.progress.findMany({
+    where: { userId },
+    orderBy: { lastPracticed: 'desc' },
+  });
 }
 
-export function getChapterProgress(userId: number, subject: string, chapter: string) {
-  const stmt = db.prepare(
-    'SELECT * FROM progress WHERE user_id = ? AND subject = ? AND chapter = ?'
-  );
-  return stmt.get(userId, subject, chapter);
+export async function getChapterProgress(userId: number, subject: string, chapter: string) {
+  return prisma.progress.findUnique({
+    where: { userId_subject_chapter: { userId, subject, chapter } },
+  });
 }
 
-export function updateChapterProgress(
+export async function updateChapterProgress(
   userId: number,
   subject: string,
   chapter: string,
   status: 'not_started' | 'in_progress' | 'completed',
-  masteryLevel?: number
+  masteryLevel?: number,
 ) {
-  const stmt = db.prepare(`
-    INSERT INTO progress (user_id, subject, chapter, status, mastery_level)
-    VALUES (?, ?, ?, ?, ?)
-    ON CONFLICT(user_id, subject, chapter)
-    DO UPDATE SET status = ?, mastery_level = ?, last_practiced = CURRENT_TIMESTAMP
-  `);
-  stmt.run(userId, subject, chapter, status, masteryLevel || 0, status, masteryLevel || 0);
+  await prisma.progress.upsert({
+    where: { userId_subject_chapter: { userId, subject, chapter } },
+    update: { status, masteryLevel: masteryLevel ?? 0, lastPracticed: new Date() },
+    create: { userId, subject, chapter, status, masteryLevel: masteryLevel ?? 0 },
+  });
 }
 
-// Helper function to generate reset token
+// ── Helpers ───────────────────────────────────────────────────────────────────
+
 function generateResetToken(): string {
-  return Math.random().toString(36).substring(2, 15) + 
+  return Math.random().toString(36).substring(2, 15) +
          Math.random().toString(36).substring(2, 15);
 }

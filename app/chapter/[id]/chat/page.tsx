@@ -51,7 +51,7 @@ export default function ChatSession() {
       const chapter = chapterData.chapter;
 
       // Set chapter info
-      setChapterName(chapter.chapter_name);
+      setChapterName(chapter.chapterName);
       setSubject(chapter.subject);
 
       // Create chat session
@@ -62,7 +62,7 @@ export default function ChatSession() {
           userId: parseInt(userId || '0'),
           chapterId: parseInt(params.id as string),
           subject: chapter.subject,
-          chapter: chapter.chapter_name
+          chapter: chapter.chapterName
         })
       });
 
@@ -73,12 +73,12 @@ export default function ChatSession() {
       setMessages([{
         id: 0,
         role: 'assistant',
-        content: `Hi ${name}! 👋 I'm your AI tutor for ${chapter.chapter_name}. You've completed the Explanation stage - great job! Now ask me anything about ${chapter.chapter_name}. I can help clarify concepts, explain examples, or guide you through practice problems!`,
+        content: `Hi ${name}! 👋 I'm your AI tutor for ${chapter.chapterName}. You've completed the Explanation stage - great job! Now ask me anything about ${chapter.chapterName}. I can help clarify concepts, explain examples, or guide you through practice problems!`,
         timestamp: new Date().toISOString()
       }]);
 
       // Generate suggested questions for this chapter
-      generateSuggestedQuestions(chapter.chapter_name);
+      generateSuggestedQuestions(chapter.chapterName);
     } catch (error) {
       console.error('Error initializing chat:', error);
     }
