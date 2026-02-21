@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "chapterNumber": 4,
+    "title": "Unit 4",
+    "subject": "English",
+    "pages": "79-104",
+    "description": "Shakespeare, mystery, kindness stories — modal verbs, prefix/suffix, synonyms/antonyms"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Who wrote 'Under the Greenwood Tree'?",
+      "options": ["William Shakespeare", "Arthur Conan Doyle", "Leo Tolstoy", "John Howard Payne"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "In 'Unke Munke Timpetoo', what did Rohan really want for his birthday?",
+      "options": ["A table tennis set", "A pair of shoes", "A hand-knitted pullover", "Books"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "In 'The Red-Headed League', what were the criminals actually doing while Mr Wilson copied the encyclopaedia?",
+      "options": ["Digging a tunnel to the bank", "Robbing Mr Wilson's shop", "Printing fake money", "Studying red hair dye"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "What is a modal auxiliary verb?",
+      "options": ["A helping verb that shows ability, possibility, permission etc.", "The main action verb in a sentence", "A describing word (adjective)", "A word that joins clauses"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 4
+    },
+    {
+      "id": "q5",
+      "question": "What is the lesson of 'Papa Panov's Special Christmas'?",
+      "options": ["Jesus comes in the form of every person we help", "Christmas gifts should be expensive", "Old people should not live alone", "Dreams always come true literally"],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 5
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Shakespeare — 'Under the Greenwood Tree' and 'Home Sweet Home'",
+      "emoji": "🌳",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Shakespeare's song from 'As You Like It' invites anyone who has given up ambition to come live freely in the forest. 'Home Sweet Home' by John Howard Payne is a beloved song about longing for one's home: 'Be it ever so humble, there's no place like home.' Both poems celebrate simple, natural joys over wealth and power.",
+      "pageReference": "79-80, 95-96",
+      "examples": [
+        { "icon": "🌳", "text": "'Come hither, come hither!' — Shakespeare's invitation to the simple life" },
+        { "icon": "🏡", "text": "'Be it ever so humble, there's no place like home'" },
+        { "icon": "🕊️", "text": "'No enemy but winter and rough weather' — nature is not cruel, only weather" },
+        { "icon": "🌙", "text": "'I gaze on the moon...And feel that my mother now thinks of her child'" }
+      ],
+      "keyPoints": [
+        "Shakespeare (16th century): greatest English playwright",
+        "'Under the Greenwood Tree' from the play 'As You Like It'",
+        "'Hither' = towards here; 'doth' = does (Old English)",
+        "'Ambition': desire for wealth, power, fame",
+        "Home Sweet Home: exile longs for simple cottage, mother's love"
+      ],
+      "funFact": "🎭 Shakespeare wrote 37 plays and 154 sonnets — and he used over 17,000 different words, inventing many himself!",
+      "textbookRef": "Pages 79-80: Under the Greenwood Tree; Pages 95-96: Home Sweet Home"
+    },
+    {
+      "id": 2,
+      "title": "Story — 'Unke Munke Timpetoo' (Friendship and Kindness)",
+      "emoji": "🎁",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Rohan desperately wants a table tennis set for his birthday. His friend Muk tells him about a magic chant: 'Unke, Munke, Timpetoo'. They sneak into old Mrs Groover's garden at midnight and get caught. But Mrs Groover — feared former principal — is actually kind and lets Rohan finish his rounds. On his birthday, a mysterious parcel arrives from 'Unke, Munke, Timpetoo' containing the table tennis set!",
+      "pageReference": "81-85",
+      "examples": [
+        { "icon": "🌙", "text": "Midnight adventure: sneaking into garden, the dog barks, Mrs Groover comes out" },
+        { "icon": "🎁", "text": "Surprise birthday gift from 'Unke, Munke, Timpetoo'" },
+        { "icon": "☕", "text": "Mrs Groover invites Rohan for tea — 'she looked almost human!'" },
+        { "icon": "💡", "text": "Moral: Unke Munke Timpetoo = the magic of genuine human friendliness" }
+      ],
+      "keyPoints": [
+        "Superstition vs. reality: the 'magic' is really human kindness",
+        "First impressions can be wrong (Mrs Groover seemed scary but was kind)",
+        "Courage: Rohan confesses everything honestly to Mrs Groover",
+        "Friendship: acts of kindness create real connections",
+        "Prefix: non+stop=non-stop; un+tie=untie; dis+like=dislike"
+      ],
+      "funFact": "🎁 The mystery of who sent the table tennis set — was it Mrs Groover? — is never revealed. That's the magic of the story!",
+      "textbookRef": "Pages 81-85: Unke Munke Timpetoo by Sigrun Srivastava"
+    },
+    {
+      "id": 3,
+      "title": "Mystery — 'The Red-Headed League' (Sherlock Holmes)",
+      "emoji": "🔍",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Arthur Conan Doyle's Sherlock Holmes story: Mr Wilson's assistant Spaulding convinces him to join the 'Red-Headed League' — copying encyclopaedia for £4/week. When the League suddenly 'dissolves', Holmes investigates. The trick: the League kept Mr Wilson away from his shop while Spaulding (alias criminal Clay) dug a tunnel from Wilson's cellar to a nearby bank's gold vault!",
+      "pageReference": "86-93",
+      "examples": [
+        { "icon": "🔍", "text": "Holmes' clues: assistant works for half wages; dirty knees from digging" },
+        { "icon": "📖", "text": "The Red-Headed League: clever scheme to keep Mr Wilson at office daily" },
+        { "icon": "🏦", "text": "Tunnel: from Wilson's cellar to the City Bank's gold vault" },
+        { "icon": "⚖️", "text": "Clay caught red-handed in the cellar by Holmes, Watson and police" }
+      ],
+      "keyPoints": [
+        "Detective story elements: mystery, investigation, clues, deduction, resolution",
+        "Sherlock Holmes: greatest fictional detective, created by Arthur Conan Doyle",
+        "Induction/deduction: Holmes reasons from small clues to big conclusions",
+        "Modal verbs: 'I don't know what I'm up against'; 'A crime is being planned'",
+        "Synonym: good=nice; Antonym: strong≠weak; Homonym: round (adj/noun)"
+      ],
+      "funFact": "🔍 Sherlock Holmes is the most portrayed fictional character ever — he has appeared in over 25,000 stage adaptations, films and TV shows!",
+      "textbookRef": "Pages 86-93: The Red-Headed League by Arthur Conan Doyle"
+    },
+    {
+      "id": 4,
+      "title": "Grammar — Modal Auxiliary Verbs and Word Formation",
+      "emoji": "📝",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Modal auxiliary verbs (can, could, may, might, shall, will, would, should, must, ought to) modify the main verb to show ability, possibility, permission, or obligation. Prefixes add meaning at the front of a word (un-, dis-, non-, super-, inter-). Suffixes add meaning at the end (-er, -ness, -ly, -ful, -able, -ship, -hood).",
+      "pageReference": "85, 89",
+      "examples": [
+        { "icon": "📝", "text": "Can: ability — 'They can swim'; May: permission — 'May I come in?'" },
+        { "icon": "📝", "text": "Must: obligation — 'You must go'; Could: past ability/polite request" },
+        { "icon": "🔤", "text": "Prefix: un+tie=untie; dis+like=dislike; non+stop=non-stop" },
+        { "icon": "🔤", "text": "Suffix: teach+er=teacher; kind+ness=kindness; friend+ship=friendship" }
+      ],
+      "keyPoints": [
+        "Modal auxiliaries: can, could, may, might, shall, will, would, should, must",
+        "No 'to' before a modal; no '-ed'/'-ing' added to modal",
+        "Questions/negatives with modals: 'Can he swim?', 'He cannot swim.'",
+        "Prefix: letters added at front to change meaning",
+        "Suffix: letters added at end to make new word"
+      ],
+      "funFact": "🌐 'Can' and 'may' are often confused — 'Can I go?' asks about ability; 'May I go?' asks for permission. Both are correct in modern English!",
+      "textbookRef": "Pages 85, 89: Modal Auxiliaries, Prefix and Suffix"
+    },
+    {
+      "id": 5,
+      "title": "Story — 'Papa Panov's Special Christmas' (Leo Tolstoy)",
+      "emoji": "🎄",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Old Papa Panov, a shoemaker in a Russian village, dreams Jesus will visit him on Christmas Day. He waits all day but only sees ordinary people — a cold road sweeper, a young mother with a barefoot baby, beggars. He feeds and helps each of them. At day's end, a voice reveals: 'I was hungry and you fed me... I came to you in everyone you helped.'",
+      "pageReference": "99-103",
+      "examples": [
+        { "icon": "🎄", "text": "Papa Panov reads Bible and dreams Jesus will visit on Christmas" },
+        { "icon": "🧹", "text": "Sweeper gets hot coffee; mother gets baby shoes (Papa's best work)" },
+        { "icon": "🍲", "text": "Beggars get hot soup and bread" },
+        { "icon": "💝", "text": "Jesus: 'I was hungry and you fed me... I came in everyone you helped'" }
+      ],
+      "keyPoints": [
+        "Kindness to strangers = the greatest form of worship",
+        "Tolstoy: great Russian writer (also wrote War and Peace, Anna Karenina)",
+        "Homophones: no/know, dear/deer, here/hear, pair/pear",
+        "Setting: winter Russia, Christmas Eve, village shoemaker",
+        "Themes: generosity, empathy, recognising Christ in every person"
+      ],
+      "funFact": "🌍 Leo Tolstoy is one of the greatest novelists ever — but he also wrote simple folk tales like this to teach moral values to ordinary people!",
+      "textbookRef": "Pages 99-103: Papa Panov's Special Christmas by Leo Tolstoy"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "In 'Under the Greenwood Tree', the poet invites someone who _____.",
+      "options": ["Has given up ambition and loves simple life", "Wants to become a king", "Is looking for treasure", "Wants to escape from winter"],
+      "correctAnswer": "A",
+      "explanation": "'Who doth ambition shun, And loves to live i' the sun' — the poet invites those who have given up desire for wealth and power.",
+      "conceptIds": [1],
+      "pageReference": "79"
+    },
+    {
+      "id": "q2",
+      "question": "In 'Unke Munke Timpetoo', what was 'Unke, Munke, Timpetoo' really a symbol of?",
+      "options": ["Human kindness and genuine friendliness", "A magic spell that works", "A superstition from ancient times", "A brand name of a toy"],
+      "correctAnswer": "A",
+      "explanation": "Mrs Groover says: 'I had wished to have somebody over for tea today. And here you are! Isn't it a perfect example of Unke, Munke, Timpetoo?' — the magic is real human connection and kindness.",
+      "conceptIds": [2],
+      "pageReference": "84"
+    },
+    {
+      "id": "q3",
+      "question": "How did Sherlock Holmes know the assistant was digging a tunnel?",
+      "options": ["The assistant's trouser knees were wrinkled and stained from digging", "He found soil on the assistant's shoes", "Mr Wilson told him", "He saw the tunnel entrance"],
+      "correctAnswer": "A",
+      "explanation": "When Clay answered the door, Holmes noted his trouser knees were wrinkled and stained — confirming he was digging.",
+      "conceptIds": [3],
+      "pageReference": "92"
+    },
+    {
+      "id": "q4",
+      "question": "Which of these is a modal auxiliary verb?",
+      "options": ["Can", "Run", "Beautiful", "Quickly"],
+      "correctAnswer": "A",
+      "explanation": "Modal auxiliary verbs (can, could, may, might, shall, will, should, must, etc.) help the main verb show ability, possibility, permission, or obligation.",
+      "conceptIds": [4],
+      "pageReference": "89"
+    },
+    {
+      "id": "q5",
+      "question": "In 'Papa Panov', what did the voice tell Papa Panov at the end of the day?",
+      "options": ["'I came to you in everyone you helped and welcomed'", "'I will visit you next Christmas'", "'You must go to church to see me'", "'The gifts you gave were not enough'"],
+      "correctAnswer": "A",
+      "explanation": "'I was hungry and you fed me... I came to you today in everyone of those you helped and welcomed.' — Jesus appeared in the forms of all those Papa Panov helped.",
+      "conceptIds": [5],
+      "pageReference": "103"
+    },
+    {
+      "id": "q6",
+      "question": "The moral of 'Home Sweet Home' is _____.",
+      "options": ["No matter how humble, home is the most precious place", "Palace life is better than cottage life", "Travelling the world brings happiness", "Money can buy any happiness"],
+      "correctAnswer": "A",
+      "explanation": "'Be it ever so humble, there's no place like home' — the poet values his simple cottage over all the splendour of the world.",
+      "conceptIds": [1],
+      "pageReference": "95"
+    },
+    {
+      "id": "q7",
+      "question": "Why did Spaulding (Clay) work for Mr Wilson at half wages?",
+      "options": ["To use Wilson's cellar to dig a tunnel to the bank", "He needed the job experience", "He was Wilson's relative", "He wanted to learn about red hair dye"],
+      "correctAnswer": "A",
+      "explanation": "Clay needed access to Wilson's cellar to dig the tunnel to the bank's gold vault. Working for half wages was his way of gaining that access.",
+      "conceptIds": [3],
+      "pageReference": "92"
+    },
+    {
+      "id": "q8",
+      "question": "What gift did Papa Panov give to the young mother's baby?",
+      "options": ["A pair of tiny leather shoes — the best he ever made", "A warm shawl", "Hot milk only", "Money to buy shoes"],
+      "correctAnswer": "A",
+      "explanation": "Papa Panov had kept a perfect pair of tiny leather shoes — the best he'd ever made — for Jesus. He decided to give them to the cold-footed baby instead.",
+      "conceptIds": [5],
+      "pageReference": "102"
+    },
+    {
+      "id": "q9",
+      "question": "Which is an example of a prefix?",
+      "options": ["dis+like = dislike", "teach+er = teacher", "kind+ness = kindness", "friend+ship = friendship"],
+      "correctAnswer": "A",
+      "explanation": "A prefix is added at the FRONT of a word: 'dis' + 'like' = 'dislike'. The others are suffixes (added at the end).",
+      "conceptIds": [4],
+      "pageReference": "85"
+    },
+    {
+      "id": "q10",
+      "question": "Synonyms are words that _____.",
+      "options": ["Have the same or nearly the same meaning", "Have opposite meanings", "Sound the same but mean differently", "Are from different languages"],
+      "correctAnswer": "A",
+      "explanation": "Synonyms are words from the same language with the same or nearly the same meaning. Example: good–nice–pretty.",
+      "conceptIds": [4],
+      "pageReference": "93"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Shakespeare's 'Under the Greenwood Tree': simple life over ambition",
+      "Old English words: hither=here, doth=does",
+      "Unke Munke Timpetoo: kindness and friendship are real magic",
+      "Sherlock Holmes: deduction from small clues to solve big mysteries",
+      "Modal auxiliaries: can, could, may, might, shall, will, would, should, must",
+      "Prefix: letters added to front of word to change meaning",
+      "Suffix: letters added to end to form new word",
+      "Papa Panov: every person you help = a form of the divine",
+      "Synonyms (same meaning), Antonyms (opposite), Homophones (same sound)"
+    ],
+    "commonMisconceptions": [
+      "Modals use -ed/-ing endings — FALSE, modals never change form",
+      "The Red-Headed League is about hair — FALSE, hair is just the trick to keep Wilson away",
+      "Papa Panov didn't see Jesus — he DID, in every person he helped",
+      "Prefix and suffix are the same — FALSE, prefix goes before, suffix goes after"
+    ],
+    "realWorldExamples": [
+      "Shakespeare's plays performed in schools — connect to 'As You Like It'",
+      "Detective shows on TV use Sherlock Holmes' method of deduction",
+      "Papa Panov's message: serve others during festivals, not just celebrate",
+      "Superstitions like Unke Munke: charms vs actual human effort and kindness",
+      "Home Sweet Home: soldiers, migrants and students living away from home"
+    ],
+    "formulas": [
+      { "formula": "Prefix + Root = New word", "explanation": "e.g., un+tie=untie, dis+like=dislike, non+stop=non-stop" },
+      { "formula": "Root + Suffix = New word", "explanation": "e.g., teach+er=teacher, kind+ness=kindness, friend+ship=friendship" }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "chapterNumber": 2,
+    "title": "Unit 2",
+    "subject": "English",
+    "pages": "22-54",
+    "description": "Poetry, science fiction, drama, yoga and biography — grammar focus on nouns, conjunctions and verbs"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Who wrote 'From a Railway Carriage'?",
+      "options": ["R.L. Stevenson", "Langston Hughes", "Emily Brontë", "Jules Verne"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "In 'The Souvenir', where does Sayali go on her school trip?",
+      "options": ["The Moon", "Mars", "The International Space Station", "Antarctica"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "What quality helped Abdul become a courtier in the Emperor's court?",
+      "options": ["Perseverance and intelligence", "Good looks", "Family wealth", "Political connections"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "Which yoga pose is named after a cobra?",
+      "options": ["Bhujangasana", "Simhasana", "Garudasana", "Ustrasana"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 4
+    },
+    {
+      "id": "q5",
+      "question": "What was Michael Faraday's first great invention?",
+      "options": ["The induction motor", "The light bulb", "The generator", "The telephone"],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 5
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Poetry — 'From a Railway Carriage' and Parody",
+      "emoji": "🚂",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "R.L. Stevenson's 'From a Railway Carriage' captures the fast, rhythmic movement of a train — the rhythm of the poem mimics the sound of train wheels. A parody is a comic imitation of a serious work. Lewis Carroll's 'How doth the little crocodile' is a parody of Isaac Watts's 'How doth the little busy bee'.",
+      "pageReference": "22-23, 35-36",
+      "examples": [
+        { "icon": "🚂", "text": "'Faster than fairies, faster than witches' — rapid rhythm like a train" },
+        { "icon": "🐝", "text": "Original: bee works hard, stores honey — industry and diligence" },
+        { "icon": "🐊", "text": "Parody: crocodile grins and lures fish — dark comic twist" },
+        { "icon": "📝", "text": "Rhyming pairs: witches/ditches, battle/cattle, eye/by" }
+      ],
+      "keyPoints": [
+        "Rhythm: regular beat; mirrors subject (train movement)",
+        "Rhyme scheme: pairs of rhyming words at line ends",
+        "Parody: humorous imitation keeping structure but changing tone",
+        "R.L. Stevenson: Scottish author, also wrote Treasure Island",
+        "Each stanza in railway poem shows different sights: hills, children, tramps"
+      ],
+      "funFact": "🚂 When Stevenson wrote this poem, railway travel was new and exciting — just like space travel for us today!",
+      "textbookRef": "Pages 22-23: From a Railway Carriage; Pages 35-36: Bee and Parody"
+    },
+    {
+      "id": 2,
+      "title": "Science Fiction — 'The Souvenir' (Trip to the Moon)",
+      "emoji": "🌕",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "In 'The Souvenir' (translated from Marathi by Lakshman Londhe), Sayali takes a school trip to the moon in the future. The moon has settlements, a circus, and shops. Sayali buys earrings from an unauthorised seller outside the settlement — and discovers they are too heavy on Earth because she forgot about the difference in gravity!",
+      "pageReference": "24-28",
+      "examples": [
+        { "icon": "🌕", "text": "Moon gravity is 1/6th of Earth's — things feel lighter there" },
+        { "icon": "🏗️", "text": "Moon settlements: dome-shaped, like igloos, with artificial Earth gravity inside" },
+        { "icon": "🎪", "text": "Moon circus: gymnast jumps 27 metres high (due to low gravity)!" },
+        { "icon": "💍", "text": "Sayali's mistake: buys earrings in low gravity — very heavy on Earth!" }
+      ],
+      "keyPoints": [
+        "Moon gravity = 1/6th of Earth's gravity",
+        "Settlements on moon maintain artificial Earth-equivalent gravity",
+        "Neil Armstrong first human on moon: 'One small step for a man...'",
+        "Chandrayaan: India's moon mission",
+        "Buy only from authorised shops — lesson in consumer awareness"
+      ],
+      "funFact": "🌕 Neil Armstrong's first footprint on the moon will last millions of years — there's no wind or water to erase it!",
+      "textbookRef": "Pages 24-28: The Souvenir"
+    },
+    {
+      "id": 3,
+      "title": "Drama — 'Abdul Becomes a Courtier'",
+      "emoji": "🎭",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "This verse play shows Abdul's journey from a poor student to becoming the Emperor's courtier through perseverance and creative thinking. He works as a merchant's clerk (for access to books), manages the royal poultry with waste food, and covers books with recycled silk bags — impressing the Emperor each time with his resourcefulness.",
+      "pageReference": "30-34",
+      "examples": [
+        { "icon": "📚", "text": "Abdul's wish: knowledge and books, not money or power" },
+        { "icon": "🐔", "text": "Poultry trick: feeds royal hens on kitchen waste — saves Emperor's money" },
+        { "icon": "📖", "text": "Library trick: covers books with silk from discarded request bags" },
+        { "icon": "🏆", "text": "Moral: 'Wits, brains, and perseverance won him great name and fame'" }
+      ],
+      "keyPoints": [
+        "Perseverance: continuing despite difficulties",
+        "Resourcefulness: finding clever solutions with available materials",
+        "Erudition: deep learning and scholarly knowledge",
+        "Waste not, want not: Abdul's guiding principle",
+        "Rhyming drama: poetry used in play format"
+      ],
+      "funFact": "🎭 This play is adapted from a story about Mulla Do-Piaza, one of the famous courtiers of Emperor Akbar the Great!",
+      "textbookRef": "Pages 30-34: Abdul Becomes a Courtier"
+    },
+    {
+      "id": 4,
+      "title": "Informational Text — Yoga from Animals (Biomimicry)",
+      "emoji": "🧘",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Yoga is an ancient Indian discipline of physical, mental and spiritual practice. Many yoga poses (asanas) imitate animals — this is biomimicry (solving human problems using nature's solutions). Key asanas: Bhujangasana (cobra), Simhasana (lion), Marjaryasana (cat), Garudasana (eagle), Ustrasana (camel).",
+      "pageReference": "37-42",
+      "examples": [
+        { "icon": "🐍", "text": "Bhujangasana (Cobra Pose): strengthens back muscles and spine" },
+        { "icon": "🦁", "text": "Simhasana (Lion Pose): stick out tongue wide, roar — great for face muscles" },
+        { "icon": "🐱", "text": "Marjaryasana (Cat Pose): arches spine, stretches back and abdomen" },
+        { "icon": "🦅", "text": "Garudasana (Eagle Pose): balancing pose, strengthens legs" }
+      ],
+      "keyPoints": [
+        "Biomimicry: solving human problems using nature's solutions",
+        "Yoga: physical, mental and spiritual discipline from ancient India",
+        "International Yoga Day: 21st June (since 2015)",
+        "Asana: a yoga pose/posture",
+        "Best practice: morning before breakfast or evening before dinner"
+      ],
+      "funFact": "🌍 India's ancient yogis discovered these poses thousands of years ago — modern science now confirms the health benefits!",
+      "textbookRef": "Pages 37-42: Learn Yoga from Animals"
+    },
+    {
+      "id": 5,
+      "title": "Biography — Michael Faraday (Great Scientists)",
+      "emoji": "⚡",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Michael Faraday overcame poverty and lack of education to become one of the greatest scientists. He invented the induction motor (converting electricity to motion) and the electrical generator (converting motion to electricity). His discoveries led to fans, cars, sewing machines, power tools and communications technology.",
+      "pageReference": "49-54",
+      "examples": [
+        { "icon": "📚", "text": "Faraday at 13: bookbinder's assistant, reads secretly all night" },
+        { "icon": "⚡", "text": "Induction motor: first ever! Led to fans, AC, cars, trains, planes" },
+        { "icon": "🔋", "text": "Generator: moves magnet → creates electricity (used in dynamos today)" },
+        { "icon": "💡", "text": "Quote: 'Your desire for success should be greater than your fear of failure'" }
+      ],
+      "keyPoints": [
+        "Faraday: born poor, speech defect, left school at 12",
+        "Obsession became fascination: bookbinding → electricity",
+        "Induction motor: converted electrical current to continuous motion",
+        "Generator: converted motion to electrical current",
+        "Perseverance despite jealousy from mentor Humphry Davy"
+      ],
+      "funFact": "⚡ Every time you switch on a fan or use a car — you're using Faraday's induction motor principle from 200 years ago!",
+      "textbookRef": "Pages 49-54: Great Scientists — Michael Faraday"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "What does the rhythm of 'From a Railway Carriage' imitate?",
+      "options": ["The sound and speed of a moving train", "The song of birds", "The sound of rain", "A heartbeat"],
+      "correctAnswer": "A",
+      "explanation": "The fast, rhythmic pattern of the poem ('Faster than fairies, faster than witches') mimics the sound of train wheels on tracks.",
+      "conceptIds": [1],
+      "pageReference": "22"
+    },
+    {
+      "id": "q2",
+      "question": "Why did Sayali's earrings become too heavy on Earth?",
+      "options": ["Moon gravity is 1/6th of Earth's gravity — things feel lighter on the moon", "She bought fake jewellery", "The earrings were made of iron", "She carried too many bags"],
+      "correctAnswer": "A",
+      "explanation": "Sayali bought earrings in the moon's low gravity (1/6th of Earth's), so they felt light. On Earth's full gravity, they were too heavy to wear.",
+      "conceptIds": [2],
+      "pageReference": "27"
+    },
+    {
+      "id": "q3",
+      "question": "How did Abdul manage to feed the royal hens at almost no expense?",
+      "options": ["He used kitchen waste and scraps from the royal kitchen", "He grew his own grain", "He bought cheaper feed", "He reduced the number of hens"],
+      "correctAnswer": "A",
+      "explanation": "Abdul fed the hens on scraps, shells and kitchen waste from the royal kitchen — 'Waste not, want not, that's my drive.'",
+      "conceptIds": [3],
+      "pageReference": "32"
+    },
+    {
+      "id": "q4",
+      "question": "Bhujangasana is named after which animal?",
+      "options": ["Cobra", "Eagle", "Lion", "Camel"],
+      "correctAnswer": "A",
+      "explanation": "Bhujanga in Sanskrit means cobra. Bhujangasana resembles a cobra with its head raised.",
+      "conceptIds": [4],
+      "pageReference": "37"
+    },
+    {
+      "id": "q5",
+      "question": "What was Michael Faraday's first great scientific achievement?",
+      "options": ["Creating the first induction motor", "Discovering electricity", "Inventing the light bulb", "Making the first generator"],
+      "correctAnswer": "A",
+      "explanation": "Faraday solved the electromagnetism problem Davy couldn't — creating the first induction motor, which converted electrical current into continuous mechanical motion.",
+      "conceptIds": [5],
+      "pageReference": "51"
+    },
+    {
+      "id": "q6",
+      "question": "A parody is _____.",
+      "options": ["A humorous imitation of a serious work", "A sad poem about nature", "A type of biography", "A formal speech"],
+      "correctAnswer": "A",
+      "explanation": "A parody is a playful, comic imitation of a writer's style. Lewis Carroll's crocodile poem imitates Isaac Watts's bee poem in a funny way.",
+      "conceptIds": [1],
+      "pageReference": "36"
+    },
+    {
+      "id": "q7",
+      "question": "International Yoga Day is celebrated on _____.",
+      "options": ["21st June", "15th August", "26th January", "21st March"],
+      "correctAnswer": "A",
+      "explanation": "Since 2015, the world has been celebrating 21st June as International Yoga Day.",
+      "conceptIds": [4],
+      "pageReference": "37"
+    },
+    {
+      "id": "q8",
+      "question": "What did Abdul do with discarded silk bags used for royal requests?",
+      "options": ["Made book covers/jackets for the royal library books", "Sold them in the market", "Made clothes for the Emperor", "Stored grain in them"],
+      "correctAnswer": "A",
+      "explanation": "Abdul noticed formal requests came in expensive fabric bags. When read, bags were discarded. He asked royal tailors to make book jackets from them — at no cost!",
+      "conceptIds": [3],
+      "pageReference": "32"
+    },
+    {
+      "id": "q9",
+      "question": "Neil Armstrong's famous words on the moon were _____.",
+      "options": ["'One small step for a man, one giant leap for mankind'", "'I came, I saw, I conquered'", "'To boldly go where no one has gone before'", "'Houston, we have a problem'"],
+      "correctAnswer": "A",
+      "explanation": "Neil Armstrong's first words on the moon: 'One small step for a man, one giant leap of mankind.'",
+      "conceptIds": [2],
+      "pageReference": "26"
+    },
+    {
+      "id": "q10",
+      "question": "What does biomimicry mean?",
+      "options": ["Solving human problems using solutions found in nature", "Growing plants in labs", "Studying animal behaviour", "Making copies of natural things"],
+      "correctAnswer": "A",
+      "explanation": "Biomimicry: bio = life, mimicry = imitate. It is the science of solving human problems using solutions already present in the natural world.",
+      "conceptIds": [4],
+      "pageReference": "37"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Rhythm in poetry: regular beat that mimics the subject (train wheels)",
+      "Parody: humorous imitation keeping structure but changing tone/subject",
+      "Moon gravity = 1/6th of Earth's gravity",
+      "Neil Armstrong: first human on moon (1969)",
+      "Abdul's qualities: perseverance, resourcefulness, intelligence",
+      "Yoga: ancient Indian physical-mental-spiritual discipline",
+      "Biomimicry: animal poses inspire yoga asanas",
+      "Faraday: induction motor → generator → electromagnetic theory",
+      "Collective nouns: class, herd, team; Abstract nouns: kindness, honesty"
+    ],
+    "commonMisconceptions": [
+      "Parody means making fun in a disrespectful way — FALSE, it's a literary art form",
+      "Moon has no gravity — FALSE, it has 1/6th of Earth's gravity",
+      "Faraday was well-educated — FALSE, he left school at 12 due to poverty",
+      "Yoga is only exercise — FALSE, it's physical, mental AND spiritual practice"
+    ],
+    "realWorldExamples": [
+      "Train rhythm heard in the sound of the poem (clap while reading!)",
+      "Chandrayaan — India's moon mission connects to 'The Souvenir'",
+      "International Yoga Day on 21st June — India's gift to the world",
+      "Every electric motor (fan, mixer, washing machine) uses Faraday's principle",
+      "Waste management: Abdul's 'waste not, want not' principle"
+    ],
+    "formulas": [
+      { "formula": "Moon weight = Earth weight ÷ 6", "explanation": "Objects weigh 6 times less on the moon due to lower gravitational force" }
+    ]
+  }
+}
