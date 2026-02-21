@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "chapterNumber": 22,
+    "title": "The Red-Headed League",
+    "subject": "English",
+    "pages": "86-93",
+    "description": "A famous Sherlock Holmes mystery story by Arthur Conan Doyle. A clever criminal scheme uses a fake 'Red-Headed League' to lure a red-headed shopkeeper away from his shop while criminals dig a tunnel from his cellar to rob a bank's gold vault. Holmes uses sharp observation and logical reasoning to crack the case. Grammar focus: Modal Auxiliary Verbs."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_22_1",
+      "question": "Who is the detective in 'The Red-Headed League'?",
+      "options": ["A) James Bond", "B) Hercule Poirot", "C) Sherlock Holmes", "D) Inspector Lestrade"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_22_1"
+    },
+    {
+      "id": "pre_22_2",
+      "question": "Who wrote the Sherlock Holmes stories?",
+      "options": ["A) Agatha Christie", "B) Arthur Conan Doyle", "C) Edgar Allan Poe", "D) Charles Dickens"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_22_1"
+    },
+    {
+      "id": "pre_22_3",
+      "question": "What was Mr Wilson paid to do at the Red-Headed League?",
+      "options": ["A) Guard a vault", "B) Sell vegetables", "C) Copy the encyclopaedia from 10am to 2pm", "D) Clean the office"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_22_1"
+    },
+    {
+      "id": "pre_22_4",
+      "question": "Which clue made Holmes suspect the assistant Spaulding?",
+      "options": ["A) Spaulding had red hair", "B) Spaulding had very dirty, worn knees on his trousers", "C) Spaulding was always late to work", "D) Spaulding was very tall"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_22_2"
+    },
+    {
+      "id": "pre_22_5",
+      "question": "Which modal auxiliary verb shows ability?",
+      "options": ["A) Must", "B) Should", "C) Can", "D) Will"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_22_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_22_1",
+      "title": "Part 1 — Mr Wilson's Strange Story",
+      "emoji": "🔴",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Arthur Conan Doyle (1859–1930) created the world's most famous detective — Sherlock Holmes. In 'The Red-Headed League', Sherlock Holmes and Dr Watson receive a visit from Mr Jabez Wilson, a red-haired shopkeeper. Wilson's assistant Spaulding showed him a newspaper advertisement: 'The Red-Headed League pays £4 per week to red-headed men who copy the Encyclopaedia Britannica from 10am to 2pm each day.' Wilson was hired and worked for 8 weeks, happily copying text. Then suddenly, one day, a notice was posted: 'The Red-Headed League is dissolved.' The League and its office had completely vanished! Wilson came to Holmes, puzzled and upset about losing his easy income.",
+      "pageReference": "Pages 86-93",
+      "examples": [
+        "Sherlock Holmes is so famous that 221B Baker Street in London has become a real tourist attraction — though the address was fictional when Doyle wrote it!",
+        "An encyclopaedia is like a huge printed version of Wikipedia — containing information on every topic. The Encyclopaedia Britannica is the most famous one.",
+        "The job of copying text by hand was normal in the 1800s before computers — but it was still strange because any red-headed man would qualify!"
+      ],
+      "keyPoints": [
+        "Arthur Conan Doyle (1859–1930) — creator of Sherlock Holmes",
+        "Mr Jabez Wilson: red-haired shopkeeper who came to Holmes with his story",
+        "Red-Headed League: advertisement offering £4/week to copy encyclopaedia from 10am-2pm",
+        "Wilson worked for 8 weeks — then the League suddenly 'dissolved' with no explanation",
+        "Holmes' job: figure out the real purpose behind the Red-Headed League scheme"
+      ],
+      "funFact": "Sherlock Holmes is so famous that many people believed he was real! The BBC TV series 'Sherlock' in 2010 re-imagined Holmes in modern London and became a worldwide hit. In India, Byomkesh Bakshi and Feluda are beloved fictional detectives inspired by Sherlock Holmes!",
+      "textbookRef": "Chapter 22, Pages 86-93, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_22_2",
+      "title": "Holmes' Brilliant Deductions",
+      "emoji": "🔍",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Sherlock Holmes is famous for deduction — drawing logical conclusions from small observations. After hearing Wilson's story, Holmes visits the street where Wilson's shop is located. He thumps the pavement with his stick in front of the shop — and it sounds hollow! This tells him there is a tunnel below the pavement. He also closely observes Spaulding (Wilson's assistant who found the advertisement) and notices his trouser knees are very dirty and worn — meaning Spaulding has been spending a lot of time on his knees, digging! Holmes realises Spaulding is a criminal in disguise (actually John Clay, a notorious criminal) who invented the whole Red-Headed League scheme just to keep Wilson away from his shop for specific hours while digging a tunnel from Wilson's cellar to the nearby bank.",
+      "pageReference": "Pages 86-93",
+      "examples": [
+        "Holmes thumping the pavement: like a doctor tapping a patient's chest to hear if the lungs are clear — the same principle of using sound to detect what's inside.",
+        "Dirty knees as a clue: a brilliant observation! In police work, this is called 'forensic evidence' — small physical clues that reveal what someone has been doing.",
+        "India's CBI (Central Bureau of Investigation) and state police also use logical deduction — looking at small clues to solve big crimes."
+      ],
+      "keyPoints": [
+        "Holmes visits Wilson's street and thumps the pavement — it sounds hollow, revealing a tunnel below",
+        "Holmes observes Spaulding's knees — very dirty and worn, showing he has been kneeling and digging",
+        "Spaulding is actually John Clay — a notorious criminal in disguise",
+        "The Red-Headed League was invented by Clay to keep Wilson away from his cellar during specific hours",
+        "Holmes deduces: Clay was digging a tunnel from Wilson's cellar to the nearby bank vault!"
+      ],
+      "funFact": "Arthur Conan Doyle modelled Sherlock Holmes on a real doctor named Dr Joseph Bell, who could diagnose patients' problems just by observing small physical details — their posture, hands, skin, and clothes. Holmes' method of deduction was inspired by real medical observation!",
+      "textbookRef": "Chapter 22, Pages 86-93, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_22_3",
+      "title": "Part 2 — The Cellar Trap",
+      "emoji": "🕯️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Having understood the scheme, Holmes acts quickly. The criminals plan to enter the bank vault at night through the tunnel they have dug. Holmes organises a trap. He contacts the bank director, Mr Merryweather (also a banker at risk), and calls the police. The four of them — Holmes, Watson (Holmes' friend and narrator), Merryweather, and a police officer — wait in complete darkness in the bank's cellar. This is a very tense, dramatic scene. Then, a stone is pushed aside from the tunnel floor, a figure climbs through, and the trap is sprung. Holmes and the police catch John Clay and his partner red-handed, just as they are about to steal the bank's gold. Clay is arrested. The case is solved!",
+      "pageReference": "Pages 86-93",
+      "examples": [
+        "Waiting in darkness for criminals to appear — like police waiting in a hideout to catch thieves. This is called a 'stakeout'.",
+        "Bank vaults in India have multiple layers of security today — alarms, cameras, guards, biometric access — to prevent exactly the kind of robbery Clay planned.",
+        "Holmes and Watson work together like a great detective team — similar to how Indian police have a team system with investigators, forensic experts, and officers."
+      ],
+      "keyPoints": [
+        "Holmes, Watson, banker Merryweather, and police wait in darkness in the bank cellar",
+        "A stone is pushed aside from the tunnel — John Clay and his partner emerge",
+        "The trap is sprung — Clay is caught red-handed before he can steal the gold",
+        "Clay is arrested; the case is solved",
+        "The criminals had dug a complete tunnel from Wilson's cellar to the bank's gold vault"
+      ],
+      "funFact": "Real tunnel robberies DO happen! In 2015, a gang in Brazil dug a 256-meter tunnel into a bank vault in Campinas, stealing millions. And in Mumbai, a famous diamond heist involved a false wall — showing real criminals do use schemes as elaborate as John Clay's!",
+      "textbookRef": "Chapter 22, Pages 86-93, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_22_4",
+      "title": "The Criminal Plan Explained",
+      "emoji": "🗺️",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Now we can understand the full cleverness of John Clay's plan. Wilson's pawn shop was next to a bank with a large gold vault. Clay became Wilson's assistant 'Spaulding' to gain access to Wilson's cellar (basement). He knew that if he could keep Wilson out of the shop for several hours each day, he could dig a tunnel from the cellar to the bank vault. He invented the Red-Headed League to lure Wilson away from his shop from 10am to 2pm every day for 8 weeks. During those hours, Clay dug the tunnel. Once the tunnel was complete, the League was 'dissolved' — its purpose was done. Clay planned to use the tunnel to rob the bank at night. The scheme was brilliant — but not brilliant enough for Sherlock Holmes.",
+      "pageReference": "Pages 86-93",
+      "examples": [
+        "The scheme is clever because it doesn't involve breaking into the bank directly — it uses an innocent person (Wilson) and an innocent-looking job (copying text) as cover.",
+        "Red-headed men were specifically targeted because of their rare, distinctive appearance — making it easy to create a 'for red-headed men only' rule that would seem peculiar but believable.",
+        "Today, cyber frauds work similarly — creating fake job offers or prizes to distract victims while stealing information or money."
+      ],
+      "keyPoints": [
+        "Wilson's shop was next to a bank with a gold vault",
+        "Clay became 'Spaulding' (Wilson's assistant) to access Wilson's cellar",
+        "Invented Red-Headed League to keep Wilson away from 10am-2pm for 8 weeks",
+        "During those hours, Clay dug the tunnel from cellar to bank vault",
+        "Once tunnel was complete, League 'dissolved' — plan was ready for the night robbery"
+      ],
+      "funFact": "The story 'The Red-Headed League' was voted one of the best short stories EVER written in an international survey of writers and critics. It's been translated into over 50 languages and read by millions of people for over 130 years!",
+      "textbookRef": "Chapter 22, Pages 86-93, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_22_5",
+      "title": "Grammar — Modal Auxiliary Verbs",
+      "emoji": "⚙️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Modal auxiliary verbs (or modal verbs) are special verbs that add meaning to the main verb. They show possibility, ability, permission, obligation, or advice. The main modal verbs are: can (ability: 'I can swim'), could (past ability or polite possibility: 'Could you help me?'), may (permission/possibility: 'May I come in?'), might (less certain possibility: 'It might rain'), shall (future intention: 'Shall we go?'), will (future certainty: 'I will come'), would (polite request/conditional: 'Would you like tea?'), should (advice/obligation: 'You should study'), must (strong obligation/certainty: 'You must submit homework'), ought to (moral obligation: 'We ought to respect elders'). Modal verbs always take the base form of the main verb after them (no -s, no -ing, no -ed).",
+      "pageReference": "Pages 86-93",
+      "examples": [
+        "Ability: 'She can solve difficult puzzles.' (CAN shows ability)",
+        "Permission: 'May I use your pen?' (MAY asks for permission)",
+        "Obligation: 'You must finish your homework.' (MUST shows strong obligation)",
+        "Advice: 'You should eat healthy food.' (SHOULD gives advice)"
+      ],
+      "keyPoints": [
+        "Modal verbs: can, could, may, might, shall, will, would, should, must, ought to",
+        "They show: possibility (may, might), ability (can, could), permission (may, can), obligation (must, should), advice (should, ought to)",
+        "Always followed by the BASE form of the main verb (no -s, -ing, -ed)",
+        "Modal verbs do not change form for different subjects (she can, he can — not 'she cans')",
+        "Examples: I can swim. You should rest. He must leave. We might go."
+      ],
+      "funFact": "In Hindi and Marathi, modal meaning is often expressed by adding suffixes to verbs rather than separate words. For example, 'karna chahiye' (should do) in Hindi is like English 'should' — same function, different method. Languages find different ways to express the same ideas!",
+      "textbookRef": "Chapter 22, Pages 86-93, Maharashtra Board 7th Grade English"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_22_1",
+      "question": "Who wrote the Sherlock Holmes stories?",
+      "options": ["A) Agatha Christie", "B) Charles Dickens", "C) Arthur Conan Doyle", "D) Mark Twain"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Arthur Conan Doyle (1859–1930) created the Sherlock Holmes character. 'The Red-Headed League' is one of the most famous Sherlock Holmes short stories."
+    },
+    {
+      "id": "test_22_2",
+      "question": "What job was Mr Wilson given by the Red-Headed League?",
+      "options": ["A) Guard a bank vault", "B) Copy the Encyclopaedia Britannica from 10am to 2pm", "C) Sort letters at the post office", "D) Clean the League's office"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Mr Wilson was paid £4 per week to copy the Encyclopaedia Britannica each day from 10am to 2pm. This was the fake job invented by John Clay (Spaulding) to keep Wilson away from his shop."
+    },
+    {
+      "id": "test_22_3",
+      "question": "What clue did Holmes discover by thumping the pavement?",
+      "options": ["A) There was water under the pavement", "B) The pavement was hollow, suggesting a tunnel below", "C) The pavement was newly laid", "D) There were gold coins buried below"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "When Holmes thumped the pavement outside Wilson's shop with his stick, it sounded hollow. This told him there was an empty tunnel dug below the pavement — part of the criminals' escape route."
+    },
+    {
+      "id": "test_22_4",
+      "question": "What significant clue did Holmes notice about Spaulding (John Clay)?",
+      "options": ["A) He had red hair", "B) His trouser knees were very dirty and worn from kneeling and digging", "C) He walked with a limp", "D) He had ink stains on his hands"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Holmes noticed that Spaulding's trouser knees were very dirty and worn — a clear sign that he had been spending many hours on his knees, digging the tunnel in Wilson's cellar."
+    },
+    {
+      "id": "test_22_5",
+      "question": "What was John Clay's real plan?",
+      "options": ["A) To steal Wilson's pawn shop", "B) To dig a tunnel from Wilson's cellar to a nearby bank's gold vault and rob the bank", "C) To kidnap Mr Wilson for ransom", "D) To sell encyclopaedias illegally"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "John Clay planned to dig a tunnel from Wilson's cellar to the vault of the bank next door, then rob the bank's gold at night. The Red-Headed League was invented to keep Wilson away during digging hours."
+    },
+    {
+      "id": "test_22_6",
+      "question": "Which modal verb shows ABILITY?",
+      "options": ["A) Must", "B) Should", "C) Can", "D) May"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "'Can' is the modal verb that shows ability. Example: 'She can swim' — 'can' tells us she has the ability to swim."
+    },
+    {
+      "id": "test_22_7",
+      "question": "Which modal verb is used for giving ADVICE?",
+      "options": ["A) Will", "B) Can", "C) Should", "D) Might"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "'Should' is used for giving advice or showing what is the right or expected thing to do. Example: 'You should drink water regularly' — this gives advice."
+    },
+    {
+      "id": "test_22_8",
+      "question": "Which of these is the CORRECT use of a modal verb?",
+      "options": ["A) She musts go home", "B) He cans run fast", "C) They should study hard", "D) You mays enter"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "'They should study hard' is correct. Modal verbs (should, can, must, may, will) do NOT change form — they never take '-s'. So 'musts', 'cans', 'mays' are all incorrect."
+    },
+    {
+      "id": "test_22_9",
+      "question": "What form of the main verb comes AFTER a modal verb?",
+      "options": ["A) Past tense (-ed form)", "B) Present continuous (-ing form)", "C) Base form (dictionary form)", "D) Past participle"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Modal verbs are always followed by the BASE form of the verb (no -s, -ing, or -ed). For example: 'She can swim' (not 'swims'), 'He must leave' (not 'leaves')."
+    },
+    {
+      "id": "test_22_10",
+      "question": "Who waited with Holmes in the bank cellar to catch John Clay?",
+      "options": ["A) Mr Wilson, Spaulding, and two police officers", "B) Dr Watson, banker Merryweather, and a police officer", "C) Dr Watson, Mr Wilson, and two police officers", "D) Holmes waited alone"],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": "Holmes, Dr Watson (his friend and narrator), banker Mr Merryweather, and a police officer waited together in darkness in the bank cellar to catch John Clay in the act."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Arthur Conan Doyle — creator of Sherlock Holmes",
+      "Mr Wilson: red-haired shopkeeper; Spaulding (=John Clay): criminal assistant",
+      "Red-Headed League: fake scheme to keep Wilson away from 10am-2pm",
+      "Holmes' deductions: hollow pavement = tunnel; dirty knees = digging",
+      "Clay's plan: dig tunnel from Wilson's cellar to bank vault, rob gold at night",
+      "Holmes' trap: wait in dark cellar with Watson, Merryweather, police — catch Clay red-handed",
+      "Modal verbs: can, could, may, might, shall, will, would, should, must, ought to"
+    ],
+    "commonMisconceptions": [
+      "Students may think 'ought to' is two separate words with separate meanings — it is a SINGLE modal expression meaning 'should' (with a moral sense).",
+      "Students often add '-s' to modal verbs for third person — 'she cans', 'he musts' are WRONG. Modals never change form.",
+      "Students may think 'can' and 'may' are the same — 'can' is ability ('I can swim'), 'may' is permission ('May I come in?'), though in informal speech they are sometimes used interchangeably.",
+      "The clue of dirty knees may seem unimportant to students — this illustrates Holmes' principle that seemingly small details are often the most important clues."
+    ],
+    "realWorldExamples": [
+      "India's CBI and state police use logical deduction similar to Holmes — analysing small physical evidence (fingerprints, CCTV footage, financial records) to crack cases.",
+      "Cyber fraud in India often works like the Red-Headed League — creating fake job offers or prize notifications to distract and manipulate victims.",
+      "Indian detective fiction: Byomkesh Bakshi by Sharadindu Bandyopadhyay and Feluda by Satyajit Ray are Holmes-inspired detectives beloved by Indian readers.",
+      "Bank security in India has evolved — today's bank vaults have multiple electronic security layers that would have detected Clay's tunnel immediately through seismic sensors!"
+    ],
+    "formulas": []
+  }
+}

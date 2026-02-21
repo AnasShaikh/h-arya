@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "chapterNumber": 7,
+    "title": "From a Railway Carriage",
+    "subject": "English",
+    "pages": "22-23",
+    "description": "Poem by R.L. Stevenson about the fast movement of a train and the sights seen through its window. Grammar: Collective Nouns."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Who wrote the poem 'From a Railway Carriage'?",
+      "options": [
+        "R.L. Stevenson",
+        "Langston Hughes",
+        "Isaac Watts",
+        "Lewis Carroll"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What is a collective noun?",
+      "options": [
+        "A noun that names a group of people or things",
+        "A noun that cannot be counted",
+        "A noun that names a feeling or quality",
+        "A noun that names a single person"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 5
+    },
+    {
+      "id": "q3",
+      "question": "What is the collective noun for a group of cows?",
+      "options": [
+        "Herd",
+        "Flock",
+        "Team",
+        "Class"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 5
+    },
+    {
+      "id": "q4",
+      "question": "In the poem, the last line says 'Each a glimpse and gone for _____.'",
+      "options": [
+        "Ever",
+        "Always",
+        "Good",
+        "Now"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 4
+    },
+    {
+      "id": "q5",
+      "question": "What does the rhythm of the poem 'From a Railway Carriage' imitate?",
+      "options": [
+        "The speed and sound of a moving train",
+        "The chirping of birds",
+        "The sound of rain falling",
+        "The ringing of school bells"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "R.L. Stevenson and the Poem",
+      "emoji": "🚂",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Robert Louis Stevenson (R.L. Stevenson) was a famous Scottish poet and novelist, best known for stories like 'Treasure Island' and 'The Strange Case of Dr. Jekyll and Mr. Hyde'. 'From a Railway Carriage' is a short, lively poem that captures the experience of looking out of a train window as the train speeds past bridges, meadows, hills, and people.",
+      "pageReference": "22",
+      "examples": [
+        {
+          "icon": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "text": "R.L. Stevenson was a Scottish writer known for adventure stories"
+        },
+        {
+          "icon": "📚",
+          "text": "Also wrote 'Treasure Island' and 'A Child's Garden of Verses'"
+        },
+        {
+          "icon": "🚂",
+          "text": "The poem describes a train journey with fast-moving sights"
+        },
+        {
+          "icon": "👀",
+          "text": "The poet describes what he sees from the window of a railway carriage"
+        }
+      ],
+      "keyPoints": [
+        "R.L. Stevenson wrote 'From a Railway Carriage'",
+        "He was a famous Scottish poet and novelist",
+        "The poem is about watching the world from a fast-moving train",
+        "The poem comes from his collection 'A Child's Garden of Verses'",
+        "The poem captures the excitement and speed of a train journey"
+      ],
+      "funFact": "In the 19th century when Stevenson wrote this poem, trains were the fastest way to travel — much like how flights feel today! Imagine seeing the world flash by at such speed for the first time!",
+      "textbookRef": "Page 22: From a Railway Carriage — Poet introduction"
+    },
+    {
+      "id": 2,
+      "title": "Sights from the Train — Stanza by Stanza",
+      "emoji": "🌄",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "As the train speeds along, the poet sees many things flashing by: bridges, houses, meadows with cattle, hills, a child gathering brambles (wild berries), a tramp (traveller) walking on the road, a mill, and a river. Each sight appears for just a moment and then disappears. The poem vividly captures how quickly everything passes when you are in a fast-moving train.",
+      "pageReference": "22-23",
+      "examples": [
+        {
+          "icon": "🌉",
+          "text": "Bridges flash past the window"
+        },
+        {
+          "icon": "🐄",
+          "text": "Meadows with grazing cattle appear and disappear"
+        },
+        {
+          "icon": "⛰️",
+          "text": "Hills and valleys seen in the distance"
+        },
+        {
+          "icon": "👧",
+          "text": "A child gathering brambles (berries) near the tracks"
+        }
+      ],
+      "keyPoints": [
+        "The train passes: bridges, houses, meadows, cattle, hills",
+        "A child is seen gathering brambles by the roadside",
+        "A tramp (traveller on foot) is seen walking near the tracks",
+        "A mill and a river are also visible from the carriage",
+        "Each sight is only a glimpse — gone in a second"
+      ],
+      "funFact": "Travelling by train between Mumbai and Pune, you see many of these same sights — rivers, fields, hills, tunnels through the Sahyadri mountain range. It is like living the poem!",
+      "textbookRef": "Pages 22-23: Poem stanzas — sights from the train"
+    },
+    {
+      "id": 3,
+      "title": "Rhythm and Speed of the Poem",
+      "emoji": "🎵",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The rhythm of 'From a Railway Carriage' is fast and bouncy, mimicking the sound and movement of a speeding train. The short, rapid lines — 'Faster than fairies, faster than witches' — create the feeling of speed. The beat of the poem, when read aloud, sounds like the 'click-clack' of train wheels on the railway track.",
+      "pageReference": "22-23",
+      "examples": [
+        {
+          "icon": "⚡",
+          "text": "'Faster than fairies, faster than witches' — speed is emphasised"
+        },
+        {
+          "icon": "🎶",
+          "text": "The short, quick lines imitate the clickety-clack of train wheels"
+        },
+        {
+          "icon": "📢",
+          "text": "Reading aloud helps feel the train's rhythm in the poem"
+        }
+      ],
+      "keyPoints": [
+        "The poem's rhythm mimics the speed and sound of a train",
+        "Short, rapid lines create a feeling of fast movement",
+        "Reading aloud sounds like train wheels on a track",
+        "The first line 'Faster than fairies, faster than witches' sets the speed",
+        "The rhythm is one of the most distinctive features of this poem"
+      ],
+      "funFact": "When you sit in a train and close your eyes, the clickety-clack sound has its own rhythm. Stevenson captured this perfectly in his poem over 130 years ago!",
+      "textbookRef": "Pages 22-23: Rhythm and pace of the poem"
+    },
+    {
+      "id": 4,
+      "title": "Last Line Meaning — 'Gone For Ever'",
+      "emoji": "💭",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The poem ends with the powerful line: 'Each a glimpse and gone for ever!' This means that from a speeding train, every sight — every person, every field, every bridge — is seen for only a fleeting moment and then disappears forever. It is a philosophical thought: like life itself, beautiful moments pass quickly and can never be retrieved.",
+      "pageReference": "23",
+      "examples": [
+        {
+          "icon": "👁️",
+          "text": "Each sight from the train is only a brief glimpse"
+        },
+        {
+          "icon": "⏱️",
+          "text": "'Gone for ever' — once you pass it, you can never see it again from that same moment"
+        },
+        {
+          "icon": "🌅",
+          "text": "Like a beautiful sunset — once it passes, that exact moment is gone forever"
+        }
+      ],
+      "keyPoints": [
+        "The last line is 'Each a glimpse and gone for ever!'",
+        "It describes how quickly sights pass when traveling at speed",
+        "Every glimpse from the train window lasts only a second",
+        "The phrase suggests that moments in life pass quickly",
+        "It gives the poem a deeper, thoughtful meaning beyond just describing a train ride"
+      ],
+      "funFact": "This idea — that beautiful moments pass quickly — is also found in many Indian philosophical traditions. The Sanskrit phrase 'Kshana bhangarupa' means 'everything is fleeting like a moment'!",
+      "textbookRef": "Page 23: Last line — poem's deeper meaning"
+    },
+    {
+      "id": 5,
+      "title": "Collective Nouns",
+      "emoji": "👥",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "A collective noun is a word that names a group of people, animals, or things. Instead of saying 'a group of cows', we say 'a herd of cows'. Instead of 'a group of birds', we say 'a flock of birds'. Collective nouns make language more precise and interesting. They are always used as singular nouns even though they refer to many individuals.",
+      "pageReference": "23",
+      "examples": [
+        {
+          "icon": "📚",
+          "text": "Class — a class of students"
+        },
+        {
+          "icon": "🐄",
+          "text": "Herd — a herd of cattle/elephants"
+        },
+        {
+          "icon": "🐦",
+          "text": "Flock — a flock of birds/sheep"
+        },
+        {
+          "icon": "⚽",
+          "text": "Team — a team of players"
+        }
+      ],
+      "keyPoints": [
+        "Collective noun: a word for a group of people, animals, or things",
+        "A class of students, a herd of cattle, a flock of birds, a team of players",
+        "Collective nouns are used as singular verbs",
+        "They make language more precise and descriptive",
+        "Other examples: a bunch of keys, a bouquet of flowers, a swarm of bees"
+      ],
+      "funFact": "In cricket, India's cricket squad is called the 'Indian team' — 'team' is a collective noun. A school of fish, a pride of lions — English has hundreds of interesting collective nouns!",
+      "textbookRef": "Page 23: Grammar — Collective Nouns"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "Who is the poet of 'From a Railway Carriage'?",
+      "options": [
+        "R.L. Stevenson",
+        "Langston Hughes",
+        "Isaac Watts",
+        "Lewis Carroll"
+      ],
+      "correctAnswer": "A",
+      "explanation": "R.L. Stevenson (Robert Louis Stevenson) wrote 'From a Railway Carriage'. He is a famous Scottish poet and author.",
+      "conceptIds": [1],
+      "pageReference": "22"
+    },
+    {
+      "id": "q2",
+      "question": "The poem begins with the words 'Faster than fairies, faster than _____.'",
+      "options": [
+        "Witches",
+        "Lightning",
+        "Eagles",
+        "Rockets"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The poem begins 'Faster than fairies, faster than witches' — these opening words immediately establish the great speed of the train.",
+      "conceptIds": [3],
+      "pageReference": "22"
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following sights is NOT mentioned in the poem?",
+      "options": [
+        "A boy flying a kite",
+        "A child gathering brambles",
+        "A mill",
+        "A tramp on the road"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A boy flying a kite is not in the poem. The poem mentions a child gathering brambles, a tramp, a mill, a river, bridges, meadows, and hills.",
+      "conceptIds": [2],
+      "pageReference": "22-23"
+    },
+    {
+      "id": "q4",
+      "question": "What does the phrase 'Each a glimpse and gone for ever' mean?",
+      "options": [
+        "Every sight from the train is seen briefly and then disappears",
+        "The train journey lasts forever",
+        "Every sight is beautiful and unforgettable",
+        "The train stops at every station briefly"
+      ],
+      "correctAnswer": "A",
+      "explanation": "This phrase means that from a speeding train, every sight — people, fields, hills — is seen for only a moment and then disappears behind forever.",
+      "conceptIds": [4],
+      "pageReference": "23"
+    },
+    {
+      "id": "q5",
+      "question": "What does the rhythm of the poem feel like?",
+      "options": [
+        "The speed and clickety-clack of a moving train",
+        "The slow, peaceful flow of a river",
+        "The gentle sound of raindrops",
+        "The quiet rustling of leaves in a breeze"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The poem's fast, bouncy rhythm mimics the clickety-clack of train wheels on a railway track. Reading it aloud feels like a train journey.",
+      "conceptIds": [3],
+      "pageReference": "22-23"
+    },
+    {
+      "id": "q6",
+      "question": "Which is the correct collective noun for a group of birds?",
+      "options": [
+        "Flock",
+        "Herd",
+        "Team",
+        "Class"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A flock is the collective noun for a group of birds. We also say a flock of sheep. A herd is used for cattle, a team for players, and a class for students.",
+      "conceptIds": [5],
+      "pageReference": "23"
+    },
+    {
+      "id": "q7",
+      "question": "Which is the correct collective noun for a group of students?",
+      "options": [
+        "Class",
+        "Pack",
+        "Herd",
+        "Flock"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A class of students is the correct collective noun. Class refers to a group of students studying together.",
+      "conceptIds": [5],
+      "pageReference": "23"
+    },
+    {
+      "id": "q8",
+      "question": "What is a collective noun?",
+      "options": [
+        "A word that names a group of people, animals, or things",
+        "A word that names a feeling or quality",
+        "A word that cannot be counted",
+        "A word that describes a verb"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A collective noun names a group of people, animals, or things as a single unit. For example: team, class, herd, flock.",
+      "conceptIds": [5],
+      "pageReference": "23"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "R.L. Stevenson wrote 'From a Railway Carriage'",
+      "The poem describes sights seen from a speeding train window",
+      "Sights include: bridges, meadows, cattle, hills, a child gathering brambles, a tramp, a mill, a river",
+      "The poem's rhythm mimics the clickety-clack of train wheels",
+      "The opening line 'Faster than fairies, faster than witches' establishes speed",
+      "Last line: 'Each a glimpse and gone for ever!' — moments pass quickly",
+      "Collective noun: a word naming a group of people/animals/things",
+      "Examples: class (students), herd (cattle), flock (birds), team (players)"
+    ],
+    "commonMisconceptions": [
+      "Collective nouns take plural verbs — FALSE (collective nouns are usually used with singular verbs: 'The team is ready')",
+      "'Gone for ever' means the train is gone — FALSE (it means the sights glimpsed from the train are gone forever)",
+      "The poem is about a slow, scenic journey — FALSE (the whole poem emphasises extreme speed)"
+    ],
+    "realWorldExamples": [
+      "Mumbai-Pune Deccan Express — passengers see rivers, Sahyadri hills, and tunnels",
+      "Mumbai local train windows — a glimpse of chawls, stations, and open fields",
+      "Konkan railway — one of India's most scenic train routes through rivers and mountains",
+      "Cricket team, hockey team, kabaddi team — team is a common collective noun in Indian sports",
+      "A herd of elephants in Corbett National Park, a flock of flamingos in Mumbai's Flamingo Sanctuary"
+    ],
+    "formulas": []
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "chapterNumber": 18,
+    "title": "News Analysis",
+    "subject": "English",
+    "pages": "71-74",
+    "description": "This chapter teaches students how to read and analyse news critically. Four real-world news items are presented: about exam hall rules, an actress quitting for politics, Stephen Hawking's warning about global dangers, and a suspicious health cure claim. Grammar focus: Formal letter writing format."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_18_1",
+      "question": "Which scientist is mentioned in the chapter as warning about the dangers facing humanity?",
+      "options": ["A) Albert Einstein", "B) Stephen Hawking", "C) Isaac Newton", "D) Marie Curie"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_18_2"
+    },
+    {
+      "id": "pre_18_2",
+      "question": "What is 'reliable news'?",
+      "options": ["A) News that is always good", "B) News that comes from a trusted and verified source", "C) News that is about famous people", "D) News that is shown on television"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_18_3"
+    },
+    {
+      "id": "pre_18_3",
+      "question": "Why were closed shoes not allowed in examination halls in Bengaluru?",
+      "options": ["A) Because it is too hot", "B) To prevent cheating by hiding notes inside shoes", "C) As a sign of respect", "D) Because it makes walking noisy"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_18_2"
+    },
+    {
+      "id": "pre_18_4",
+      "question": "In a formal letter, what closing phrase is used?",
+      "options": ["A) Your friend", "B) With love", "C) Yours faithfully", "D) Take care"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_18_5"
+    },
+    {
+      "id": "pre_18_5",
+      "question": "Which word describes news that cannot be trusted?",
+      "options": ["A) Reliable", "B) Interesting", "C) Unreliable", "D) Important"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_18_3"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_18_1",
+      "title": "Types of News",
+      "emoji": "📰",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "News is information about recent events happening around the world. News can be classified in many ways. Based on feeling: Good news (happy events like a prize won, a new discovery) and Bad news (sad events like accidents, disasters). Based on reliability: Reliable news (from trustworthy sources — verified newspapers, official websites, reputed news channels) and Unreliable news (from unknown sources, social media forwards, gossip — unverified claims). Based on interest: Interesting news (engaging and relevant to many people) and Boring news (less engaging, very specific). A good news reader must always check: Who wrote it? Where was it published? Is the source reputable? Before believing and sharing any news, we must verify it from at least two trusted sources.",
+      "pageReference": "Pages 71-74",
+      "examples": [
+        "Winning a gold medal at the Olympics is good news; a flood in a state is bad news.",
+        "News from a reputed newspaper like Times of India or Loksatta (Marathi) is reliable; a WhatsApp forward without a source is unreliable.",
+        "Interesting news: discovery of a new planet; boring news (to a 7th grader): a local committee meeting report."
+      ],
+      "keyPoints": [
+        "News = information about recent events",
+        "Types: Good/Bad, Reliable/Unreliable, Interesting/Boring",
+        "Reliable news comes from verified, reputed sources",
+        "Unreliable news comes from unknown or unverified sources",
+        "Always verify news before believing or sharing it"
+      ],
+      "funFact": "The word 'NEWS' is said to stand for North, East, West, South — suggesting that news comes from all directions! This is actually a popular myth — the word 'news' simply means 'new things' (from the plural of 'new' in Old English).",
+      "textbookRef": "Chapter 18, Pages 71-74, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_18_2",
+      "title": "The Four News Items",
+      "emoji": "📋",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The chapter presents four news items for analysis. (a) Closed Shoes Not Allowed in Examination Halls — A Bengaluru institute banned closed shoes in exam halls to prevent students from hiding cheat notes inside their shoes. (b) Ritika Takes a Break from Acting — A Bollywood actress named Ritika decides to quit acting temporarily to enter politics. (c) Most Dangerous Time in History — Scientist Stephen Hawking warned that this is the most dangerous period in human history due to three threats: climate change (global warming), overpopulation (too many people causing resource scarcity), and epidemic diseases (fast-spreading illnesses like Covid). (d) Quick Cure for All Ailments? — A person called Miribaba claims his 'special powder' can cure all diseases, but hospital data does not support these claims.",
+      "pageReference": "Pages 71-74",
+      "examples": [
+        "Closed shoes in exams: some students in India have been caught hiding tiny cheat notes in shoe soles — so this rule has a practical reason.",
+        "Stephen Hawking's warning about climate change is very relevant today — India faces rising temperatures and extreme weather events.",
+        "Miribaba's 'special powder' is like the fake medicines advertised on TV sometimes — we must always consult a real doctor."
+      ],
+      "keyPoints": [
+        "(a) Bengaluru: Closed shoes banned in exam halls to prevent cheating",
+        "(b) Actress Ritika quits acting to enter politics",
+        "(c) Stephen Hawking warns about climate change, overpopulation, and epidemic diseases",
+        "(d) Miribaba claims special powder cures all diseases — but hospital data doesn't confirm this",
+        "These four news items represent: good/bad, reliable/unreliable, interesting/questionable news"
+      ],
+      "funFact": "Stephen Hawking could not move or speak (due to ALS disease) but communicated using a special computer that tracked his cheek movements. Despite this, he became one of the greatest scientific minds ever — proving that the body's limitations cannot stop a brilliant mind!",
+      "textbookRef": "Chapter 18, Pages 71-74, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_18_3",
+      "title": "Reliable vs Unreliable News",
+      "emoji": "🔍",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Reliable news has three characteristics: (1) Source: It comes from a known, trustworthy organisation (like a major newspaper, official government website, or reputed news channel). (2) Evidence: It includes facts, data, dates, names, and evidence to support its claims. (3) Verification: The information can be cross-checked with other reliable sources. Unreliable news, also called 'fake news', often has: no clear source, exaggerated or impossible claims, emotional language to scare or excite you, and no supporting data. The news about Miribaba's 'special powder' is unreliable because the claims are not supported by hospital data. Stephen Hawking's warning is reliable because it comes from a world-famous scientist with data to support it.",
+      "pageReference": "Pages 71-74",
+      "examples": [
+        "Reliable: 'According to ISRO, the Chandrayaan-3 mission successfully landed on the Moon's south pole on August 23, 2023.' — clear source, verifiable facts.",
+        "Unreliable: 'Scientists say eating one mango daily cures cancer!' — no named scientist, no study cited, exaggerated claim.",
+        "In India, the Press Information Bureau (PIB) has a Fact Check unit that helps identify fake news circulated on social media."
+      ],
+      "keyPoints": [
+        "Reliable news: from known source, supported by evidence, can be verified",
+        "Unreliable/Fake news: no clear source, exaggerated claims, no supporting data",
+        "News item (d) about Miribaba is unreliable — no medical evidence",
+        "News item (c) about Hawking is reliable — comes from a credible scientist with data",
+        "Always check: Who said it? What evidence? Can I verify with another source?"
+      ],
+      "funFact": "India's PIB (Press Information Bureau) runs a dedicated Fact Check service to identify fake news about the Government of India. During Covid-19, they debunked hundreds of fake health remedies being shared on WhatsApp — just like Miribaba's powder!",
+      "textbookRef": "Chapter 18, Pages 71-74, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_18_4",
+      "title": "How to Read Newspapers Critically",
+      "emoji": "🤔",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Reading a newspaper critically means not just reading but thinking about what you read. Good critical reading involves asking these questions: (1) What is the main point of this news story? (2) Who is the source? Is it trustworthy? (3) What evidence is provided? (4) Is this a fact or an opinion? (5) Could this news affect me or my community? (6) Is there another side to this story? For example, when reading about Miribaba's powder, a critical reader asks: Who is Miribaba? Are there doctors who have verified this? What does hospital data say? The answer reveals that the claim is suspicious. Critical reading protects us from being deceived by false or misleading information.",
+      "pageReference": "Pages 71-74",
+      "examples": [
+        "Critical reading: When you see a WhatsApp message about a disease spreading, ask 'Which official body confirmed this?' before panicking or sharing.",
+        "Look at who is speaking — a doctor's advice carries more weight on health matters than a film star's.",
+        "In news about Bengaluru's closed shoes rule, asking 'Why?' reveals the practical reason — prevents cheating."
+      ],
+      "keyPoints": [
+        "Critical reading = active thinking while reading, not just absorbing information",
+        "Ask: Who is the source? What evidence? Fact or opinion?",
+        "Check if the news affects your community",
+        "Look for the other side of the story",
+        "Verify from multiple reliable sources before believing or sharing"
+      ],
+      "funFact": "Did you know that in Finland, 'media literacy' (learning to read and analyse news critically) is taught in schools from Class 1? Finland has one of the best-educated populations in the world partly because of this!",
+      "textbookRef": "Chapter 18, Pages 71-74, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_18_5",
+      "title": "Grammar — Formal Letter Writing",
+      "emoji": "✉️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "A formal letter is written to people or organisations in official situations — like writing to a Principal, a government office, a newspaper, or a company. The format of a formal letter is: (1) Sender's Address (top right or left), (2) Date (below the address), (3) Receiver's Address (left side), (4) Subject line (brief summary of the letter's purpose), (5) Salutation: Sir/Madam (formal greeting), (6) Body: Main content of the letter — clearly written in paragraphs, (7) Closing: 'Yours faithfully' (used when you don't know the person by name), (8) Signature and Name of sender. The language in a formal letter should be polite, precise, and professional. Never use slang or casual language. No abbreviations like 'u', 'plz', or 'lol' in a formal letter!",
+      "pageReference": "Pages 71-74",
+      "examples": [
+        "A formal letter to the Principal: 'Respected Sir/Madam, I am writing to request leave of absence for...'",
+        "Subject line example: 'Subject: Request for Leave of Absence on 25th February 2026'",
+        "Closing: 'Yours faithfully, Rahul Patil, Class 7B, Roll No. 14'"
+      ],
+      "keyPoints": [
+        "Formal letter format: Sender's address → Date → Receiver's address → Subject → Salutation → Body → Closing → Signature",
+        "Salutation: Sir/Madam (use when you don't know the person's name well)",
+        "Closing: 'Yours faithfully' (for formal letters to strangers/officials)",
+        "Language must be polite, precise, and professional",
+        "No slang, no casual abbreviations in formal letters"
+      ],
+      "funFact": "In the digital age, emails are the modern version of formal letters — and they follow the same format! Subject line, formal greeting, body, closing, and signature. Learning formal letter writing helps you write professional emails too.",
+      "textbookRef": "Chapter 18, Pages 71-74, Maharashtra Board 7th Grade English"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_18_1",
+      "question": "Why were closed shoes banned in examination halls in Bengaluru?",
+      "options": ["A) Because it was too hot", "B) To prevent students from hiding cheat notes in their shoes", "C) As a religious tradition", "D) Because the school had new rules about footwear"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "A Bengaluru institute banned closed shoes in exam halls to prevent cheating. Students were suspected of hiding small cheat notes inside their shoes during examinations."
+    },
+    {
+      "id": "test_18_2",
+      "question": "What three dangers did Stephen Hawking warn about?",
+      "options": ["A) War, poverty, and crime", "B) Climate change, overpopulation, and epidemic diseases", "C) Floods, earthquakes, and drought", "D) Pollution, deforestation, and noise"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Stephen Hawking warned that the three greatest dangers to humanity are climate change (global warming), overpopulation (resource scarcity), and epidemic diseases (fast-spreading illnesses)."
+    },
+    {
+      "id": "test_18_3",
+      "question": "Why is the news about Miribaba's 'special powder' considered unreliable?",
+      "options": ["A) It is from a foreign country", "B) It is published in a small newspaper", "C) The claims are not supported by hospital data or medical evidence", "D) It is not interesting news"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Miribaba's claim that his special powder cures all diseases is unreliable because there is no medical evidence or hospital data to support these extraordinary claims."
+    },
+    {
+      "id": "test_18_4",
+      "question": "What is the salutation used in a formal letter when you don't know the person's name?",
+      "options": ["A) Dear Friend", "B) My dear", "C) Hello", "D) Sir/Madam"],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": "In a formal letter, when you don't know the person's name, the salutation used is 'Sir/Madam'. This is the standard formal greeting in official correspondence."
+    },
+    {
+      "id": "test_18_5",
+      "question": "What closing phrase is used at the end of a formal letter?",
+      "options": ["A) Your friend", "B) With love", "C) Yours faithfully", "D) Bye for now"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "'Yours faithfully' is the closing phrase used in formal letters, especially when you don't know the recipient personally. In informal letters, 'Yours sincerely' or 'With warm regards' are used."
+    },
+    {
+      "id": "test_18_6",
+      "question": "Which of these is a reliable news source?",
+      "options": ["A) A WhatsApp forward with no source mentioned", "B) A friend's rumour heard at school", "C) A report published in a reputed newspaper with named sources", "D) A comment on social media by an unknown person"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "A report in a reputed newspaper with named sources is reliable because it comes from a trusted, verified organization. WhatsApp forwards and unverified social media posts should not be trusted without verification."
+    },
+    {
+      "id": "test_18_7",
+      "question": "What did actress Ritika do in the news story?",
+      "options": ["A) She won a national award", "B) She opened a new school", "C) She quit acting to enter politics", "D) She started a new film"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "According to the news item 'Ritika Takes a Break from Acting', the Bollywood actress Ritika decided to quit acting temporarily to enter politics."
+    },
+    {
+      "id": "test_18_8",
+      "question": "In a formal letter format, what comes after the sender's address?",
+      "options": ["A) The body of the letter", "B) The date", "C) The signature", "D) The salutation"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "In a formal letter, after the sender's address comes the Date. The correct format is: Sender's address → Date → Receiver's address → Subject → Salutation → Body → Closing → Signature."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Types of news: good/bad, reliable/unreliable, interesting/boring",
+      "Four news items: Bengaluru shoes, Ritika acting, Hawking warning, Miribaba powder",
+      "Stephen Hawking's three warnings: climate change, overpopulation, epidemic diseases",
+      "Reliable news: known source, evidence, verifiable",
+      "Unreliable/fake news: no source, exaggerated, no data",
+      "Critical reading: question the source, evidence, and relevance",
+      "Formal letter format: address, date, subject, salutation, body, closing (Yours faithfully), signature"
+    ],
+    "commonMisconceptions": [
+      "Students may think all printed news is automatically reliable — even newspapers can publish incorrect information, so verification is always important.",
+      "'Yours faithfully' vs 'Yours sincerely' — use 'Yours faithfully' when you DON'T know the person's name; use 'Yours sincerely' when you DO know their name.",
+      "Stephen Hawking's warnings about climate change are sometimes misunderstood as predictions of immediate doom — they are warnings to motivate action, not prophecies.",
+      "The subject line in a formal letter should be brief and clear — students often write too long or too vague a subject line."
+    ],
+    "realWorldExamples": [
+      "PIB Fact Check (Press Information Bureau) in India debunks fake news — students can visit factcheck.pib.gov.in to see real examples of fake news about India.",
+      "Maharashtra and other Indian states have faced fake news crises — for example, false messages about water being poisoned caused panic in several villages.",
+      "Climate change warnings are very relevant to Maharashtra — Vidarbha's heat waves, Konkan's unseasonal rains, and Marathwada's droughts are all real consequences.",
+      "Formal letter writing is used in actual school correspondence — letters to the Principal requesting leave, school events, or facility improvements all follow this format."
+    ],
+    "formulas": []
+  }
+}

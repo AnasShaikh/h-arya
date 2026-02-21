@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "chapterNumber": 12,
+    "title": "Chasing the Sea Monster",
+    "subject": "English",
+    "pages": "43-48",
+    "description": "Extract from Jules Verne's '20,000 Leagues Under the Sea'. The ship Abraham Lincoln chases a mysterious glowing creature. The monster is actually the submarine Nautilus. Grammar: Transitive and Intransitive Verbs."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "From which novel is 'Chasing the Sea Monster' taken?",
+      "options": [
+        "20,000 Leagues Under the Sea",
+        "Around the World in 80 Days",
+        "Journey to the Centre of the Earth",
+        "The Mysterious Island"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "Who is Jules Verne?",
+      "options": [
+        "A French writer known as the Father of Science Fiction",
+        "An American sea captain who discovered a submarine",
+        "A British scientist who studied sea creatures",
+        "A German engineer who built the first submarine"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "What was the 'sea monster' actually?",
+      "options": [
+        "A submarine called the Nautilus",
+        "A giant squid",
+        "A whale with glowing scales",
+        "An underwater volcano"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 4
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following is a transitive verb?",
+      "options": [
+        "Kick (needs an object — you kick something)",
+        "Laugh (no object needed)",
+        "Walk (no object needed)",
+        "Sleep (no object needed)"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 5
+    },
+    {
+      "id": "q5",
+      "question": "Who is the narrator in '20,000 Leagues Under the Sea'?",
+      "options": [
+        "Professor Aronnax",
+        "Captain Farragut",
+        "Ned Land",
+        "Captain Nemo"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Jules Verne and the Story",
+      "emoji": "📚",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Jules Verne was a French author known as the Father of Science Fiction. He wrote imaginative adventure stories about technology that did not yet exist in his time, such as submarines, space travel, and journeys to the Earth's centre. '20,000 Leagues Under the Sea' was written in 1870. It tells the story of Professor Aronnax and his companions who encounter a mysterious sea creature that turns out to be a submarine.",
+      "pageReference": "43-44",
+      "examples": [
+        {
+          "icon": "🇫🇷",
+          "text": "Jules Verne was a French author who wrote in the 19th century"
+        },
+        {
+          "icon": "🚀",
+          "text": "Father of Science Fiction — imagined technology before it existed"
+        },
+        {
+          "icon": "🌊",
+          "text": "'20,000 Leagues Under the Sea' written in 1870"
+        },
+        {
+          "icon": "🔮",
+          "text": "He also wrote 'Around the World in 80 Days' and 'Journey to the Centre of the Earth'"
+        }
+      ],
+      "keyPoints": [
+        "Jules Verne was a French writer — Father of Science Fiction",
+        "'20,000 Leagues Under the Sea' written in 1870",
+        "Verne imagined technology that did not yet exist — submarines, space rockets",
+        "The story's narrator is Professor Aronnax",
+        "A 'league' is an old unit of distance — 20,000 leagues is a very great depth/distance"
+      ],
+      "funFact": "Jules Verne predicted the Internet, the moon landing, and electric submarines — all more than 100 years before they were invented! His imagination was truly extraordinary!",
+      "textbookRef": "Pages 43-44: Jules Verne — author introduction"
+    },
+    {
+      "id": 2,
+      "title": "The Chase — Night and Dawn",
+      "emoji": "🌊",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The ship Abraham Lincoln and its commander Captain Farragut chase a mysterious creature at sea. The creature glows in the dark at night. The narrator Professor Aronnax and harpooner Ned Land are on board. At midnight the creature wraps them in electricity and then disappears. At dawn they find and chase it again, but a cannon shell simply bounces off its armour — it is no ordinary sea creature.",
+      "pageReference": "44-45",
+      "examples": [
+        {
+          "icon": "🚢",
+          "text": "The ship Abraham Lincoln chases the mysterious creature"
+        },
+        {
+          "icon": "✨",
+          "text": "The creature glows in the dark water at night"
+        },
+        {
+          "icon": "⚡",
+          "text": "At midnight it wraps the ship in electricity and disappears"
+        },
+        {
+          "icon": "💥",
+          "text": "At dawn — cannon shell bounces off its armour like a rubber ball"
+        }
+      ],
+      "keyPoints": [
+        "Ship: Abraham Lincoln; Commander: Captain Farragut",
+        "Professor Aronnax is the narrator; Ned Land is the harpooner",
+        "Night: the creature glows and wraps them in electricity at midnight",
+        "Dawn: they catch up with it — cannon shell bounces off its armour",
+        "The clue that it is not a living creature: armour that bounces cannon shells"
+      ],
+      "funFact": "Real deep-sea creatures like the bioluminescent anglerfish glow in the dark ocean just like Verne's imagined creature! The deep sea is still full of mysteries we have not fully explored!",
+      "textbookRef": "Pages 44-45: The night and dawn chase"
+    },
+    {
+      "id": 3,
+      "title": "The Crew's Encounter — Harpoon and Waterspouts",
+      "emoji": "⚡",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Near midnight, the ship approaches the creature silently. Ned Land, the harpooner, throws his harpoon at it. Suddenly, two waterspouts crash onto the deck of the ship. Professor Aronnax is swept off the deck and thrown into the sea. This dramatic moment ends the extract — leaving the reader wondering what happened next.",
+      "pageReference": "45-47",
+      "examples": [
+        {
+          "icon": "🤫",
+          "text": "Ship approaches silently near midnight"
+        },
+        {
+          "icon": "🎯",
+          "text": "Ned Land throws his harpoon at the creature"
+        },
+        {
+          "icon": "🌊",
+          "text": "Two massive waterspouts crash on the ship's deck"
+        },
+        {
+          "icon": "🌊",
+          "text": "Narrator (Professor Aronnax) is thrown into the sea"
+        }
+      ],
+      "keyPoints": [
+        "Ned Land is described as the best harpooner in the world",
+        "The ship approaches silently near midnight",
+        "Ned throws his harpoon — this triggers a violent response",
+        "Two waterspouts crash onto the deck",
+        "The narrator is thrown into the sea — cliff-hanger ending"
+      ],
+      "funFact": "Jules Verne was so accurate about submarines that when the first real military submarine was built (USS Nautilus in 1954), it was named after the submarine in this very story!",
+      "textbookRef": "Pages 45-47: The harpoon and the waterspouts"
+    },
+    {
+      "id": 4,
+      "title": "Clues That It Is a Submarine",
+      "emoji": "🔍",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Throughout the extract, there are clues that the 'monster' is actually a man-made machine — a submarine called the Nautilus. The clues include: it has metal armour (cannon bounces off), it produces electric glow (not natural for a sea creature), it produces waterspouts (like a machine venting), it has impossible speed and manoeuvrability. The 'monster' is Captain Nemo's submarine Nautilus.",
+      "pageReference": "47-48",
+      "examples": [
+        {
+          "icon": "🛡️",
+          "text": "Metal armour — cannon shell bounces off like rubber"
+        },
+        {
+          "icon": "💡",
+          "text": "Electric glow — not natural bioluminescence but machine-made electricity"
+        },
+        {
+          "icon": "💨",
+          "text": "Waterspouts — like a submarine venting its tanks"
+        },
+        {
+          "icon": "🚤",
+          "text": "Impossible speed — only a machine could move so fast"
+        }
+      ],
+      "keyPoints": [
+        "The 'monster' is a submarine named the Nautilus",
+        "Clue 1: Metal armour — cannon shells bounce off",
+        "Clue 2: Electric glow — not natural for any sea creature",
+        "Clue 3: Waterspouts when it surfaces — like submarine venting",
+        "The submarine belongs to the mysterious Captain Nemo"
+      ],
+      "funFact": "In the rest of the novel, Professor Aronnax is taken aboard the Nautilus by Captain Nemo. He gets to explore the underwater world in the submarine — just like a modern deep-sea research vessel!",
+      "textbookRef": "Pages 47-48: Clues — it is a submarine"
+    },
+    {
+      "id": 5,
+      "title": "Transitive and Intransitive Verbs",
+      "emoji": "🔄",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Transitive verbs need an object to complete their meaning — they do something to something. For example: 'Ned kicked the ball' — kicked is transitive; the ball is the object. Intransitive verbs do not need an object — they make complete sense on their own. For example: 'The children laughed.' — laughed is intransitive; no object is needed.",
+      "pageReference": "48",
+      "examples": [
+        {
+          "icon": "⚽",
+          "text": "Transitive: 'She kicked the ball.' — kicked needs an object (ball)"
+        },
+        {
+          "icon": "😂",
+          "text": "Intransitive: 'The children laughed.' — no object needed"
+        },
+        {
+          "icon": "🎁",
+          "text": "Transitive: 'He gave a gift.' — gave needs an object (gift)"
+        },
+        {
+          "icon": "🚶",
+          "text": "Intransitive: 'She walks every morning.' — no object needed"
+        }
+      ],
+      "keyPoints": [
+        "Transitive verbs: need an object to complete their meaning (kick, give, write, eat)",
+        "Intransitive verbs: do not need an object (laugh, walk, sleep, run)",
+        "Test: ask 'what?' or 'whom?' after the verb — if it needs an answer, it is transitive",
+        "Some verbs can be both transitive and intransitive depending on context",
+        "Example: 'She runs fast.' (intransitive) vs 'She runs a business.' (transitive)"
+      ],
+      "funFact": "In cricket commentary, 'Kohli hit the ball!' — 'hit' is transitive (needs the ball as object). 'Kohli runs!' — 'runs' is intransitive (no object needed). Cricket is a great classroom for English grammar!",
+      "textbookRef": "Page 48: Grammar — Transitive and Intransitive Verbs"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "Who is Jules Verne?",
+      "options": [
+        "A French writer known as the Father of Science Fiction",
+        "A British sea captain who built the first submarine",
+        "An American scientist who studied sea creatures",
+        "A German author who wrote adventure stories"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Jules Verne was a French writer known as the Father of Science Fiction. He wrote imaginative stories about technology that did not yet exist.",
+      "conceptIds": [1],
+      "pageReference": "43-44"
+    },
+    {
+      "id": "q2",
+      "question": "What is the name of the ship that chases the mysterious creature?",
+      "options": [
+        "Abraham Lincoln",
+        "Nautilus",
+        "Santa Maria",
+        "Discovery"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The ship Abraham Lincoln, commanded by Captain Farragut, chases the mysterious creature in the story.",
+      "conceptIds": [2],
+      "pageReference": "44"
+    },
+    {
+      "id": "q3",
+      "question": "Who is the narrator of '20,000 Leagues Under the Sea'?",
+      "options": [
+        "Professor Aronnax",
+        "Captain Farragut",
+        "Ned Land",
+        "Captain Nemo"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Professor Aronnax is the narrator. He is a scientist who is thrown into the sea at the climax of the extract.",
+      "conceptIds": [2],
+      "pageReference": "44"
+    },
+    {
+      "id": "q4",
+      "question": "What happens when the cannon fires at the creature?",
+      "options": [
+        "The cannon shell bounces off its armour",
+        "The creature is injured and stops moving",
+        "The creature swims away quickly",
+        "The cannon shell sinks into its body"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The cannon shell simply bounces off the creature's armour — this is a key clue that the 'monster' is actually a metal submarine.",
+      "conceptIds": [2, 4],
+      "pageReference": "45"
+    },
+    {
+      "id": "q5",
+      "question": "What does Ned Land do near midnight in the story?",
+      "options": [
+        "Throws his harpoon at the creature",
+        "Fires a cannon at the creature",
+        "Jumps into the sea",
+        "Signals the creature with a light"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ned Land is the harpooner — near midnight, he throws his harpoon at the creature, which triggers the waterspouts that sweep the narrator into the sea.",
+      "conceptIds": [3],
+      "pageReference": "45-47"
+    },
+    {
+      "id": "q6",
+      "question": "What actually is the 'sea monster' in the story?",
+      "options": [
+        "A submarine called the Nautilus",
+        "A giant squid",
+        "A glowing whale",
+        "An underwater volcano"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The 'sea monster' is actually the submarine Nautilus, commanded by the mysterious Captain Nemo. The clues include its metal armour, electric glow, and waterspouts.",
+      "conceptIds": [4],
+      "pageReference": "47-48"
+    },
+    {
+      "id": "q7",
+      "question": "Which of the following is a transitive verb?",
+      "options": [
+        "Give (give a gift)",
+        "Laugh (laugh loudly)",
+        "Walk (walk home)",
+        "Sleep (sleep well)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Give' is a transitive verb — it needs an object. You give something to someone. Laugh, walk, and sleep are intransitive.",
+      "conceptIds": [5],
+      "pageReference": "48"
+    },
+    {
+      "id": "q8",
+      "question": "Which of the following is an intransitive verb?",
+      "options": [
+        "The baby sleeps.",
+        "She kicked the ball.",
+        "He wrote a letter.",
+        "They ate lunch."
+      ],
+      "correctAnswer": "A",
+      "explanation": "In 'The baby sleeps', 'sleeps' is intransitive — it does not need an object. The other sentences all have objects.",
+      "conceptIds": [5],
+      "pageReference": "48"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Jules Verne: French writer, Father of Science Fiction",
+      "'20,000 Leagues Under the Sea' written in 1870",
+      "Ship: Abraham Lincoln; Commander: Captain Farragut",
+      "Narrator: Professor Aronnax; Harpooner: Ned Land",
+      "Creature glows at night, wraps ship in electricity",
+      "Cannon shell bounces off armour — key clue it is a submarine",
+      "Ned throws harpoon — waterspouts crash on deck — narrator thrown into sea",
+      "The 'monster' is the submarine Nautilus (Captain Nemo's)",
+      "Transitive verbs need an object (kick, give, write)",
+      "Intransitive verbs need no object (laugh, walk, sleep)"
+    ],
+    "commonMisconceptions": [
+      "All verbs can be either transitive or intransitive — SOMETIMES TRUE (some verbs can be both depending on context, but many are exclusively one type)",
+      "A transitive verb must always have an object mentioned — NOT ALWAYS (the object can be implied)",
+      "Jules Verne was a scientist who invented the submarine — FALSE (he was a fiction writer who imagined it)"
+    ],
+    "realWorldExamples": [
+      "INS Arihant — India's first nuclear-powered submarine, commissioned in 2016",
+      "ISRO's deep-sea exploration — India's Samudrayaan mission to explore deep oceans",
+      "The Vizhinjam Port in Kerala — India's first deep-water port, like the Nautilus story",
+      "Bioluminescent sea creatures found in the Arabian Sea near India's west coast",
+      "Cricket commentary: 'Kohli hit the ball (transitive) — Kohli ran fast (intransitive)'"
+    ],
+    "formulas": []
+  }
+}

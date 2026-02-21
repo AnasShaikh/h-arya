@@ -1,0 +1,427 @@
+{
+  "metadata": {
+    "chapterNumber": 9,
+    "title": "Abdul Becomes a Courtier",
+    "subject": "English",
+    "pages": "30-34",
+    "description": "A verse play adapted from 'Enter Mulla Do-Piaza'. Abdul rises from poor student to royal courtier through wit and perseverance. Grammar: Abstract vs Concrete Nouns, Irregular Plurals."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "What is 'Abdul Becomes a Courtier' — a poem, a story, or a verse play?",
+      "options": [
+        "A verse play",
+        "A poem",
+        "A short story",
+        "A biography"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What is an abstract noun?",
+      "options": [
+        "A noun that names a feeling, quality, or idea",
+        "A noun that names something you can touch",
+        "A noun that names a group",
+        "A noun that cannot be counted"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 5
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following is an abstract noun?",
+      "options": [
+        "Kindness",
+        "Chair",
+        "Butterfly",
+        "School"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 5
+    },
+    {
+      "id": "q4",
+      "question": "What is the irregular plural of 'child'?",
+      "options": [
+        "Children",
+        "Childs",
+        "Childes",
+        "Childrens"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 5
+    },
+    {
+      "id": "q5",
+      "question": "What is the moral of the play 'Abdul Becomes a Courtier'?",
+      "options": [
+        "Wits, brains, and perseverance win name and fame",
+        "Money is more important than education",
+        "Always obey orders without thinking",
+        "Physical strength wins every battle"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 4
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "The Play and Its Characters",
+      "emoji": "🎭",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Abdul Becomes a Courtier is a verse play adapted from 'Enter Mulla Do-Piaza'. It is set in the court of a Mughal emperor. The main character is Abdul, a poor student who loves books more than anything. Unable to afford books, he works as a merchant's clerk just to have access to books in the shop. The Emperor discovers his talent and puts him to many tests.",
+      "pageReference": "30-31",
+      "examples": [
+        {
+          "icon": "🏯",
+          "text": "Set in the royal court of a Mughal Emperor"
+        },
+        {
+          "icon": "📚",
+          "text": "Abdul is a poor student who yearns for books"
+        },
+        {
+          "icon": "🛒",
+          "text": "Works as a merchant's clerk to access books in the shop"
+        },
+        {
+          "icon": "👑",
+          "text": "The Emperor tests Abdul's wit and eventually makes him a courtier"
+        }
+      ],
+      "keyPoints": [
+        "Verse play: a play written in verse (poetic) form",
+        "Adapted from 'Enter Mulla Do-Piaza' — a Mughal court story",
+        "Abdul is a poor student who loves books but cannot afford them",
+        "He works as a merchant's clerk just to have access to books",
+        "The Emperor discovers his intelligence and tests him"
+      ],
+      "funFact": "Mulla Do-Piaza was a real historical figure in Akbar's court, known for his wit and wisdom. He was one of the 'Navaratnas' (nine gems) of Emperor Akbar's court, just like Birbal!",
+      "textbookRef": "Pages 30-31: Abdul Becomes a Courtier — play introduction"
+    },
+    {
+      "id": 2,
+      "title": "Abdul's Journey — From Clerk to Courtier",
+      "emoji": "📖",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The Emperor gives Abdul two responsibilities to test him: first, he is given charge of the Murgikhana (poultry — where the royal hens are kept); then, he is given charge of the library. Abdul approaches both tasks with creativity and resourcefulness. His clever solutions impress the Emperor, who finally makes him a royal courtier.",
+      "pageReference": "31-33",
+      "examples": [
+        {
+          "icon": "🐔",
+          "text": "First test: Abdul given charge of the Murgikhana (royal poultry)"
+        },
+        {
+          "icon": "📚",
+          "text": "Second test: Abdul given charge of the royal library"
+        },
+        {
+          "icon": "👑",
+          "text": "Final reward: Emperor makes Abdul a royal courtier"
+        }
+      ],
+      "keyPoints": [
+        "Emperor first gives Abdul charge of the Murgikhana (royal poultry)",
+        "Then Abdul is given charge of the royal library",
+        "Abdul solves both tasks cleverly and resourcefully",
+        "His dedication and intelligence are recognised by the Emperor",
+        "He rises from a poor clerk to a royal courtier"
+      ],
+      "funFact": "In Mughal courts, the royal library was one of the most prized possessions! Emperor Akbar had a library of 24,000 books even though he himself could not read — they were read aloud to him!",
+      "textbookRef": "Pages 31-33: Abdul's journey — poultry to courtier"
+    },
+    {
+      "id": 3,
+      "title": "Clever Solutions — Poultry and Library",
+      "emoji": "💡",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "When given charge of the poultry, Abdul feeds the hens on kitchen waste — a resourceful solution that wastes nothing. When given charge of the library, he covers the books with recycled silk, using the silk from the Emperor's discarded request bags. Both solutions show Abdul's creativity, zero waste thinking, and love of learning.",
+      "pageReference": "32-33",
+      "examples": [
+        {
+          "icon": "🐔",
+          "text": "Feeds hens on kitchen waste — no food wasted, hens well-fed"
+        },
+        {
+          "icon": "🧵",
+          "text": "Covers library books with recycled silk from discarded request bags"
+        },
+        {
+          "icon": "♻️",
+          "text": "Both solutions use recycling and resourcefulness"
+        },
+        {
+          "icon": "🧠",
+          "text": "Creativity and intelligence, not just hard work, solve the problems"
+        }
+      ],
+      "keyPoints": [
+        "Poultry solution: feeds hens on kitchen waste — zero waste",
+        "Library solution: covers books with silk from discarded request bags",
+        "Both solutions demonstrate creative, resourceful thinking",
+        "Abdul's love of books motivates him to care for the library especially well",
+        "Resourcefulness means finding clever solutions with what is available"
+      ],
+      "funFact": "Recycling and zero-waste thinking is not new — in ancient India, nothing was wasted! Even today, in Maharashtra, the concept of 'jugaad' (creative problem-solving) is celebrated!",
+      "textbookRef": "Pages 32-33: Abdul's clever solutions"
+    },
+    {
+      "id": 4,
+      "title": "Moral — Perseverance and Resourcefulness",
+      "emoji": "🏆",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The moral of 'Abdul Becomes a Courtier' is: 'Wits, brains, and perseverance win name and fame.' Abdul succeeds not because he is born rich or powerful, but because he is intelligent, creative, and persistent. He never gives up on his love for learning. His perseverance and resourcefulness carry him from poverty to the royal court.",
+      "pageReference": "33-34",
+      "examples": [
+        {
+          "icon": "🧠",
+          "text": "Wits (cleverness) + brains (intelligence) + perseverance (not giving up)"
+        },
+        {
+          "icon": "📚",
+          "text": "Abdul's love for books drives everything he does"
+        },
+        {
+          "icon": "🏅",
+          "text": "He wins 'name and fame' through talent, not inherited wealth"
+        },
+        {
+          "icon": "💪",
+          "text": "Perseverance: continuing to work hard despite difficulties"
+        }
+      ],
+      "keyPoints": [
+        "Moral: Wits, brains, and perseverance win name and fame",
+        "Success does not require being born rich or privileged",
+        "Intelligence and creativity can overcome poverty",
+        "Perseverance means not giving up despite obstacles",
+        "Abdul's love of learning is the root of all his success"
+      ],
+      "funFact": "Dr. A.P.J. Abdul Kalam, India's beloved 'Missile Man' and President, was born into poverty but rose to the highest offices through education, hard work, and perseverance — just like Abdul in the story!",
+      "textbookRef": "Pages 33-34: Moral and workshop"
+    },
+    {
+      "id": 5,
+      "title": "Abstract vs Concrete Nouns and Irregular Plurals",
+      "emoji": "✏️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Concrete nouns name things you can see, touch, or experience with your senses: school, bag, butterfly. Abstract nouns name ideas, feelings, or qualities that you cannot touch: life, goodness, kindness, honesty. Irregular plurals do not follow the usual 's/es' rule: child becomes children, man becomes men, tooth becomes teeth, leaf becomes leaves.",
+      "pageReference": "34",
+      "examples": [
+        {
+          "icon": "🧠",
+          "text": "Abstract nouns: kindness, honesty, life, goodness (you cannot touch them)"
+        },
+        {
+          "icon": "🏫",
+          "text": "Concrete nouns: school, bag, butterfly (you can see and touch them)"
+        },
+        {
+          "icon": "👶",
+          "text": "Irregular plural: child → children"
+        },
+        {
+          "icon": "🦷",
+          "text": "Irregular plural: tooth → teeth"
+        }
+      ],
+      "keyPoints": [
+        "Abstract nouns: ideas, feelings, qualities — cannot be touched (kindness, honesty)",
+        "Concrete nouns: things you can see and touch (school, bag, butterfly)",
+        "Irregular plurals do not add 's/es' — they change form",
+        "child → children, man → men, woman → women",
+        "tooth → teeth, leaf → leaves, mouse → mice"
+      ],
+      "funFact": "The word 'kindness' comes from the Old English word 'cynd' meaning nature. So 'kindness' literally means 'acting according to your true nature' — how beautiful!",
+      "textbookRef": "Page 34: Grammar — Abstract/Concrete Nouns, Irregular Plurals"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "Why does Abdul work as a merchant's clerk?",
+      "options": [
+        "To have access to books in the merchant's shop",
+        "To earn money for his family",
+        "To become a merchant himself",
+        "Because the Emperor ordered him to"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Abdul works as a merchant's clerk not for money but to have access to books in the merchant's shop. His love of books drives all his actions.",
+      "conceptIds": [1],
+      "pageReference": "30-31"
+    },
+    {
+      "id": "q2",
+      "question": "What is 'Murgikhana'?",
+      "options": [
+        "The royal poultry (where royal hens are kept)",
+        "The royal kitchen",
+        "The royal library",
+        "The royal treasury"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Murgikhana means the royal poultry — the place where the Emperor's hens are kept. Abdul is first given charge of this.",
+      "conceptIds": [2],
+      "pageReference": "31-32"
+    },
+    {
+      "id": "q3",
+      "question": "What clever solution does Abdul use to feed the hens?",
+      "options": [
+        "He feeds them on kitchen waste",
+        "He buys expensive grain from the market",
+        "He hunts for worms in the garden",
+        "He gives them royal rice from the stores"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Abdul feeds the hens on kitchen waste — a clever, resourceful solution that wastes nothing and is economical.",
+      "conceptIds": [3],
+      "pageReference": "32"
+    },
+    {
+      "id": "q4",
+      "question": "What does Abdul use to cover the library books?",
+      "options": [
+        "Recycled silk from the Emperor's discarded request bags",
+        "Expensive cloth bought from the market",
+        "Paper from the school",
+        "Leaves from the garden"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Abdul uses recycled silk from the Emperor's discarded request bags to cover the library books — a brilliant zero-waste solution.",
+      "conceptIds": [3],
+      "pageReference": "32-33"
+    },
+    {
+      "id": "q5",
+      "question": "What is the moral of 'Abdul Becomes a Courtier'?",
+      "options": [
+        "Wits, brains, and perseverance win name and fame",
+        "Rich people always succeed",
+        "Physical strength wins over intelligence",
+        "Only kings can succeed in royal courts"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The moral of the play is: 'Wits, brains, and perseverance win name and fame.' Abdul's intelligence, creativity, and persistence lead him from poverty to the royal court.",
+      "conceptIds": [4],
+      "pageReference": "33-34"
+    },
+    {
+      "id": "q6",
+      "question": "Which of the following is an abstract noun?",
+      "options": [
+        "Honesty",
+        "Bag",
+        "Table",
+        "River"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Honesty is an abstract noun — it is a quality or value that you cannot see or touch. Bag, table, and river are concrete nouns.",
+      "conceptIds": [5],
+      "pageReference": "34"
+    },
+    {
+      "id": "q7",
+      "question": "Which of the following is a concrete noun?",
+      "options": [
+        "Butterfly",
+        "Kindness",
+        "Life",
+        "Goodness"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Butterfly is a concrete noun — you can see and touch a butterfly. Kindness, life, and goodness are abstract nouns.",
+      "conceptIds": [5],
+      "pageReference": "34"
+    },
+    {
+      "id": "q8",
+      "question": "What is the irregular plural of 'tooth'?",
+      "options": [
+        "Teeth",
+        "Tooths",
+        "Toothes",
+        "Teeths"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The irregular plural of tooth is teeth. We do not say 'tooths' — the word changes form completely.",
+      "conceptIds": [5],
+      "pageReference": "34"
+    },
+    {
+      "id": "q9",
+      "question": "What is the irregular plural of 'leaf'?",
+      "options": [
+        "Leaves",
+        "Leafs",
+        "Leafe",
+        "Leafes"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The irregular plural of leaf is leaves. The 'f' changes to 'v' and 'es' is added.",
+      "conceptIds": [5],
+      "pageReference": "34"
+    },
+    {
+      "id": "q10",
+      "question": "What type of work is 'Abdul Becomes a Courtier'?",
+      "options": [
+        "A verse play",
+        "A biography",
+        "A poem",
+        "A newspaper report"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Abdul Becomes a Courtier is a verse play — a play written in verse (poetry) form. It is adapted from 'Enter Mulla Do-Piaza'.",
+      "conceptIds": [1],
+      "pageReference": "30"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Abdul Becomes a Courtier is a verse play adapted from 'Enter Mulla Do-Piaza'",
+      "Abdul is a poor student who works as a merchant's clerk to access books",
+      "Emperor gives Abdul charge of Murgikhana (poultry) then the royal library",
+      "Abdul feeds hens on kitchen waste — resourceful solution",
+      "Abdul covers books with recycled silk from discarded request bags",
+      "Moral: Wits, brains, and perseverance win name and fame",
+      "Abstract nouns: feelings, ideas, qualities — kindness, honesty, life, goodness",
+      "Concrete nouns: things you can touch/see — school, bag, butterfly",
+      "Irregular plurals: child/children, man/men, tooth/teeth, leaf/leaves, mouse/mice"
+    ],
+    "commonMisconceptions": [
+      "Abstract nouns can be touched or seen — FALSE (they are intangible: kindness, love, honesty)",
+      "All plurals add 's' — FALSE (irregular plurals change form: tooth/teeth, child/children)",
+      "Perseverance means working very fast — FALSE (it means continuing to work despite difficulties)"
+    ],
+    "realWorldExamples": [
+      "Dr. A.P.J. Abdul Kalam — born poor in Rameswaram, rose to become India's President through perseverance",
+      "Mughal Emperor Akbar's court — famous for Navaratnas (nine gems) including Birbal and Mulla Do-Piaza",
+      "Zero-waste cooking in Indian homes — kitchen scraps used as compost or animal feed",
+      "Jugaad innovation in India — creative problem-solving with available resources",
+      "Government school libraries in Maharashtra — books are precious and carefully maintained"
+    ],
+    "formulas": []
+  }
+}

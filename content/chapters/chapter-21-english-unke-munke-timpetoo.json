@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "chapterNumber": 21,
+    "title": "Unke Munke Timpetoo",
+    "subject": "English",
+    "pages": "81-85",
+    "description": "A charming story by Sigrun Srivastava about a boy named Rohan who wants a table tennis set for his birthday. His friend Muk tells him about a magical chant 'Unke Munke Timpetoo'. Their midnight adventure in old Mrs Groover's garden teaches them about courage, honesty, and the true magic of human kindness. Grammar focus: Prefixes and Suffixes."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_21_1",
+      "question": "Who wrote the story 'Unke Munke Timpetoo'?",
+      "options": ["A) Ruskin Bond", "B) Sigrun Srivastava", "C) R.K. Narayan", "D) Vikram Seth"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_21_1"
+    },
+    {
+      "id": "pre_21_2",
+      "question": "What did Rohan want for his birthday?",
+      "options": ["A) A cricket bat", "B) A bicycle", "C) A table tennis set", "D) A football"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_21_1"
+    },
+    {
+      "id": "pre_21_3",
+      "question": "How many times must 'Unke Munke Timpetoo' be chanted around the banyan tree?",
+      "options": ["A) 7 times", "B) 12 times", "C) 17 times", "D) 21 times"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_21_2"
+    },
+    {
+      "id": "pre_21_4",
+      "question": "What is a prefix?",
+      "options": ["A) A group of letters added to the END of a word to change its meaning", "B) A group of letters added to the BEGINNING of a word to change its meaning", "C) A word that joins two sentences", "D) A word that describes a noun"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_21_5"
+    },
+    {
+      "id": "pre_21_5",
+      "question": "What did Rohan do when Mrs Groover caught them in her garden?",
+      "options": ["A) He ran away", "B) He hid behind a tree", "C) He confessed honestly what he was doing", "D) He pretended to be sleepwalking"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_21_3"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_21_1",
+      "title": "Story and Characters",
+      "emoji": "🏓",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The story 'Unke Munke Timpetoo' is written by Sigrun Srivastava. Rohan is a young boy who desperately wants a table tennis set for his birthday. His friend Muk tells him about a magical ritual: if you chant 'Unke Munke Timpetoo' seventeen times around a banyan tree at midnight, your wish will come true. The story is set in a neighbourhood where old Mrs Groover lives. She is feared by all the children because she was once the strict principal of their school. The children see her as a scary figure — stern, old, and unapproachable. But as the story unfolds, we discover that Mrs Groover has a warm, kind heart underneath her strict exterior.",
+      "pageReference": "Pages 81-85",
+      "examples": [
+        "Many children have a 'scary neighbour' story — someone they are afraid of but actually turns out to be kind.",
+        "Table tennis (ping pong) is very popular among school children in India — affordable and easy to play in small spaces.",
+        "The banyan tree is sacred in Indian culture and often the centre of village life — using it for a magical ritual fits perfectly with Indian tradition."
+      ],
+      "keyPoints": [
+        "Author: Sigrun Srivastava",
+        "Rohan wants a table tennis set for his birthday",
+        "Muk (his friend) tells him about chanting 'Unke Munke Timpetoo' 17 times around a banyan tree at midnight",
+        "Mrs Groover is the feared former school principal who lives near them",
+        "The story explores: wishes, courage, honesty, and the kindness of unexpected people"
+      ],
+      "funFact": "Banyan trees are special in India — they can live for thousands of years and their branches grow down to form new trunks. The Great Banyan Tree in Kolkata is over 250 years old and so wide it looks like a small forest! It's natural that Indian children would consider a banyan tree magical.",
+      "textbookRef": "Chapter 21, Pages 81-85, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_21_2",
+      "title": "The Midnight Adventure",
+      "emoji": "🌙",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Rohan and Muk sneak out at midnight to perform the ritual. They go to old Mrs Groover's garden where a large banyan tree stands. Midnight makes everything more mysterious and scary — the darkness, the silence, the shadows. They start chanting 'Unke Munke Timpetoo' and walking around the banyan tree. Suddenly, Mrs Groover's dog starts barking loudly. Then lights come on inside the house. Mrs Groover herself comes outside! The boys are terrified — this is their worst nightmare, being caught by the most feared woman in the neighbourhood, in her own garden, at midnight! This is the dramatic turning point of the story — what will happen now?",
+      "pageReference": "Pages 81-85",
+      "examples": [
+        "Every child has had an adventure at night that felt terrifying at the time — sneaking to the kitchen for a midnight snack and suddenly hearing a sound!",
+        "Mrs Groover's dog barking is like an alarm system — dogs are natural guards at night, especially in Indian homes and neighbourhoods.",
+        "The midnight setting makes the adventure feel magical and scary — just like in horror stories or fairy tales children love."
+      ],
+      "keyPoints": [
+        "Rohan and Muk sneak to Mrs Groover's garden at midnight",
+        "The banyan tree in her garden is where they must perform the chant",
+        "They begin chanting 'Unke Munke Timpetoo' 17 times around the tree",
+        "Mrs Groover's dog barks, lights come on, and she comes outside",
+        "The boys are terrified — being caught by the feared ex-principal is their worst nightmare"
+      ],
+      "funFact": "Many famous adventure stories start with a 'forbidden place' and a 'night visit' — Tom Sawyer by Mark Twain, Harry Potter, and countless Indian folk tales all use this thrilling setup! It's a timeless storytelling technique.",
+      "textbookRef": "Chapter 21, Pages 81-85, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_21_3",
+      "title": "Mrs Groover's Kindness",
+      "emoji": "💖",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "When Mrs Groover comes outside and discovers the two boys, Rohan does the bravest thing — he confesses honestly. He tells her exactly what they are doing: chanting a magic phrase to get a birthday wish. Instead of scolding them, Mrs Groover surprises everyone — she lets Rohan finish the chant! She waits while he completes the ritual. Then Rohan's birthday arrives, and a mysterious parcel comes addressed from 'Unke Munke Timpetoo' containing a table tennis set. Rohan goes to thank Mrs Groover. She smiles and says: 'I believe in Unke Munke Timpetoo too.' The 'magic' was Mrs Groover's act of human kindness — she sent the gift. The story shows us that people who seem scary or strict are often kind underneath.",
+      "pageReference": "Pages 81-85",
+      "examples": [
+        "Many students are afraid of strict teachers, but often those same teachers care deeply about their students and do kind things for them quietly.",
+        "Like Mrs Groover, many elderly people in Indian neighbourhoods enjoy being around children and doing small kindnesses for them.",
+        "Mrs Groover's smile at the end shows that she enjoyed the magic of the moment — adults can still believe in wonder and kindness."
+      ],
+      "keyPoints": [
+        "When caught, Rohan confesses honestly — this shows courage and integrity",
+        "Mrs Groover, instead of scolding, lets Rohan finish the chant",
+        "A parcel arrives on Rohan's birthday from 'Unke Munke Timpetoo' with a table tennis set",
+        "Rohan visits Mrs Groover — she smiles and says she also believes in Unke Munke Timpetoo",
+        "The 'magic' was Mrs Groover's kindness — she sent the gift"
+      ],
+      "funFact": "Research shows that doing kind things for others makes the giver happier than the receiver! Mrs Groover probably felt great joy sending that table tennis set — acts of kindness create a 'joy loop' for everyone involved.",
+      "textbookRef": "Chapter 21, Pages 81-85, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_21_4",
+      "title": "What 'Unke Munke Timpetoo' Really Means",
+      "emoji": "✨",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The title 'Unke Munke Timpetoo' sounds like magical nonsense words — and that's exactly what they are! They are made-up, meaningless words with no translation. But in the story, they become a symbol for something very real and beautiful. Rohan's belief in the magic phrase gave him the courage to go on his midnight adventure. His honest confession when caught showed his character. And Mrs Groover's kindness in sending the gift was the true 'magic'. So 'Unke Munke Timpetoo' really means: the magic of human kindness, friendship, and believing in good things. When Mrs Groover says she also believes in it, she is saying she believes in these values — kindness, hope, and the joy of making a child's wish come true.",
+      "pageReference": "Pages 81-85",
+      "examples": [
+        "In India, many festivals involve magical rituals with special chants and words — the real magic is the joy, togetherness, and faith they create.",
+        "When you do something kind for someone just because you want to — that IS real magic.",
+        "'Unke Munke Timpetoo' is like 'Abracadabra' or 'Alakazam' — nonsense words that represent the power of faith and imagination."
+      ],
+      "keyPoints": [
+        "'Unke Munke Timpetoo' = made-up magical words — nonsense syllables",
+        "The real 'magic' = Mrs Groover's act of human kindness in sending the gift",
+        "The chant gave Rohan the courage to go on the adventure and be honest",
+        "Mrs Groover saying she also believes = she believes in kindness, friendship, and making wishes come true",
+        "Theme: True magic is human kindness and genuine friendship"
+      ],
+      "funFact": "Many languages have magical nonsense words — 'Abracadabra', 'Hocus Pocus', 'Ala Baba'. Linguists believe these words were originally from ancient languages (Aramaic and Hebrew) — but over time they became magical nonsense. 'Unke Munke Timpetoo' is in that same beautiful tradition!",
+      "textbookRef": "Chapter 21, Pages 81-85, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_21_5",
+      "title": "Grammar — Prefix and Suffix",
+      "emoji": "🔧",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "A prefix is a group of letters added to the BEGINNING of a word to change its meaning. Common prefixes: un- (unhappy, uncertain), dis- (disagree, dislike), non- (non-stop, non-sense), super- (superhero, supernatural), inter- (international, internet). A suffix is a group of letters added to the END of a word to change its meaning or function (often changing the part of speech). Common suffixes: -er (teacher, runner — makes it a person), -ness (happiness, sadness — makes it a noun), -ly (quickly, slowly — makes it an adverb), -ful (wonderful, careful — makes it an adjective), -able (readable, lovable — makes it an adjective), -ship (friendship, hardship — makes it a noun), -hood (childhood, neighbourhood — makes it a noun). Prefixes and suffixes help us understand new words by recognising their parts.",
+      "pageReference": "Pages 81-85",
+      "examples": [
+        "Prefix 'un-': happy → unhappy; kind → unkind; known → unknown",
+        "Prefix 'dis-': honest → dishonest; appear → disappear; connect → disconnect",
+        "Suffix '-ness': kind → kindness; happy → happiness; dark → darkness",
+        "Suffix '-ship': friend → friendship; leader → leadership"
+      ],
+      "keyPoints": [
+        "Prefix = letters added to the BEGINNING of a word (un-, dis-, non-, super-, inter-)",
+        "Suffix = letters added to the END of a word (-er, -ness, -ly, -ful, -able, -ship, -hood)",
+        "Prefix examples: unhappy, disagree, non-stop, superhero, international",
+        "Suffix examples: teacher, happiness, quickly, wonderful, readable, friendship, childhood",
+        "Knowing prefixes and suffixes helps decode the meaning of new words"
+      ],
+      "funFact": "The English language has over 50 common prefixes and 100 common suffixes. By knowing just the 10 most common ones, you can understand the meaning of thousands of new words without ever having seen them before — it's like having a word-breaking superpower!",
+      "textbookRef": "Chapter 21, Pages 81-85, Maharashtra Board 7th Grade English"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_21_1",
+      "question": "What did Rohan want for his birthday?",
+      "options": ["A) A cricket bat", "B) A table tennis set", "C) A bicycle", "D) A skateboard"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Rohan desperately wanted a table tennis set for his birthday. This is why Muk told him about the magical chant 'Unke Munke Timpetoo'."
+    },
+    {
+      "id": "test_21_2",
+      "question": "How many times must 'Unke Munke Timpetoo' be chanted around the banyan tree?",
+      "options": ["A) 7 times", "B) 12 times", "C) 17 times", "D) 21 times"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Muk told Rohan that the chant 'Unke Munke Timpetoo' must be said 17 times while walking around the banyan tree at midnight for the wish to come true."
+    },
+    {
+      "id": "test_21_3",
+      "question": "Who was Mrs Groover?",
+      "options": ["A) Rohan's grandmother", "B) A teacher at Rohan's school", "C) The feared former principal who lived near them", "D) Muk's mother"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Mrs Groover was the old, feared former principal of the children's school. She lived in the neighbourhood and the children were very afraid of her."
+    },
+    {
+      "id": "test_21_4",
+      "question": "What did Rohan do when Mrs Groover caught them in her garden?",
+      "options": ["A) He ran away", "B) He pretended to be sleepwalking", "C) He confessed honestly what he was doing", "D) He hid behind the banyan tree"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Rohan showed courage and honesty by confessing exactly what they were doing — chanting a magic phrase to get a birthday wish. His honesty is what moved Mrs Groover."
+    },
+    {
+      "id": "test_21_5",
+      "question": "Who actually sent the table tennis set?",
+      "options": ["A) Muk's parents", "B) A magic spirit", "C) Mrs Groover", "D) Rohan's father"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Mrs Groover sent the table tennis set. She was moved by Rohan's honesty and courage, and sent the gift addressed from 'Unke Munke Timpetoo' as a kind act."
+    },
+    {
+      "id": "test_21_6",
+      "question": "What is the real meaning of 'Unke Munke Timpetoo' in the story?",
+      "options": ["A) A magical spell from an ancient book", "B) A traditional Indian chant", "C) The magic of human kindness and friendship", "D) Nonsense words with no meaning at all"],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": "While 'Unke Munke Timpetoo' is made-up nonsense words, they symbolise the real magic of the story — human kindness and friendship. Mrs Groover's act of kindness was the true magic."
+    },
+    {
+      "id": "test_21_7",
+      "question": "What does the prefix 'un-' mean?",
+      "options": ["A) Very", "B) Not or opposite of", "C) Above", "D) Before"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "The prefix 'un-' means 'not' or the opposite of. For example: happy → unhappy (not happy), kind → unkind (not kind), known → unknown (not known)."
+    },
+    {
+      "id": "test_21_8",
+      "question": "What does the suffix '-ness' do to a word?",
+      "options": ["A) Makes it a verb", "B) Makes it an adverb", "C) Makes it an adjective", "D) Makes it a noun (naming a quality or state)"],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "explanation": "The suffix '-ness' turns an adjective into a noun. For example: kind (adjective) → kindness (noun), happy → happiness, dark → darkness."
+    },
+    {
+      "id": "test_21_9",
+      "question": "Which word uses the suffix '-ship'?",
+      "options": ["A) Quickly", "B) Friendship", "C) Superhero", "D) Disagree"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "'Friendship' uses the suffix '-ship', which is added to 'friend'. The suffix '-ship' is used to create nouns meaning a state or quality (friendship, leadership, hardship)."
+    },
+    {
+      "id": "test_21_10",
+      "question": "What is the theme of 'Unke Munke Timpetoo'?",
+      "options": ["A) Magic spells can make anything happen", "B) Children should never go out at night", "C) Old people are always scary", "D) True magic lies in human kindness, honesty, and friendship"],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "explanation": "The story's theme is that true magic is not in spells or chants — it lies in human kindness (Mrs Groover's gift), honesty (Rohan's confession), and the power of friendship."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Author: Sigrun Srivastava",
+      "Rohan wants table tennis set, Muk tells him about chanting 'Unke Munke Timpetoo' 17 times at midnight",
+      "Mrs Groover: feared former principal, actually kind-hearted",
+      "Midnight adventure in her garden, dog barks, she comes out",
+      "Rohan confesses honestly — Mrs Groover lets him finish the chant",
+      "Birthday gift arrives from 'Unke Munke Timpetoo' — Mrs Groover sent it",
+      "Real magic = human kindness and friendship",
+      "Prefix: un-, dis-, non-, super-, inter-",
+      "Suffix: -er, -ness, -ly, -ful, -able, -ship, -hood"
+    ],
+    "commonMisconceptions": [
+      "Students may think 'Unke Munke Timpetoo' has a literal translation — it is made-up nonsense, but the story gives it symbolic meaning.",
+      "Students may confuse prefix and suffix — prefix is at the BEGINNING, suffix is at the END (a way to remember: 'pre' = before, 'suf' = after).",
+      "The suffix '-hood' (childhood, neighbourhood) should not be confused with 'hood' as a physical object — in grammar it means a state or condition.",
+      "Not all words beginning with 'un' have the prefix 'un-' — 'uncle' and 'universe' do NOT use un- as a prefix meaning 'not'."
+    ],
+    "realWorldExamples": [
+      "Banyan trees as magical/sacred spaces in Maharashtra — in villages, the banyan tree is the community gathering spot, naturally associated with stories and rituals.",
+      "Many Indian neighbourhoods have a 'strict auntie or uncle' figure whom children fear but who often turns out to be kind — just like Mrs Groover.",
+      "The concept of giving someone a surprise gift secretly (like Mrs Groover) — called 'Secret Santa' in schools during Christmas or Diwali gift exchanges.",
+      "Prefixes and suffixes in Marathi words too — 'a-' prefix in Marathi (like 'asahmat' = not agree) works just like English 'dis-' prefix."
+    ],
+    "formulas": []
+  }
+}

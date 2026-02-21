@@ -1,0 +1,399 @@
+{
+  "metadata": {
+    "chapterNumber": 5,
+    "title": "Seeing Eyes Helping Hands",
+    "subject": "English",
+    "pages": "16-20",
+    "description": "Four types of invitations for a school project inauguration. Grammar: Punctuation marks — full stop, comma, question mark, exclamation mark, hyphen, dash."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "How many types of invitations are shown in the chapter 'Seeing Eyes, Helping Hands'?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which punctuation mark is used at the end of a statement?",
+      "options": [
+        "Full stop (.)",
+        "Question mark (?)",
+        "Exclamation mark (!)",
+        "Comma (,)"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 5
+    },
+    {
+      "id": "q3",
+      "question": "Which punctuation mark is used at the end of a question?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Exclamation mark (!)",
+        "Hyphen (-)"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 5
+    },
+    {
+      "id": "q4",
+      "question": "Which type of invitation is sent in printed form for formal occasions?",
+      "options": [
+        "Formal printed invitation",
+        "Written notice",
+        "Oral phone invitation",
+        "Oral personal invitation"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "q5",
+      "question": "What does a hyphen (-) connect?",
+      "options": [
+        "Two parts of a compound word",
+        "Two sentences",
+        "A list of items",
+        "A question to its answer"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 5
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Formal Printed Invitation",
+      "emoji": "💌",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "A formal printed invitation is prepared for special occasions like school programmes, marriages, or official events. It includes all important details: who is organizing, what the event is, who will inaugurate it, who will preside, the time, the venue, and the names of organizers. A formal invitation is printed and distributed in advance.",
+      "pageReference": "16-17",
+      "examples": [
+        {
+          "icon": "🏫",
+          "text": "School invites parents to the inauguration of 'Seeing Eyes, Helping Hands' project"
+        },
+        {
+          "icon": "👤",
+          "text": "Name of the inaugurator and the presiding person are mentioned"
+        },
+        {
+          "icon": "📍",
+          "text": "Venue, date and time are clearly stated"
+        },
+        {
+          "icon": "📮",
+          "text": "The invitation is printed and given/posted to guests in advance"
+        }
+      ],
+      "keyPoints": [
+        "Formal invitations are used for official or important events",
+        "Must include: who, what, programme, inaugurator, presiding person, time, venue",
+        "Language is polite and formal",
+        "Printed invitations are given in advance",
+        "Both the organizer's and RSVP details may be included"
+      ],
+      "funFact": "In Indian culture, printed invitations for weddings and festivals are considered very important — families often spend time designing beautiful invitation cards!",
+      "textbookRef": "Pages 16-17: Type A — Formal Printed Invitation"
+    },
+    {
+      "id": 2,
+      "title": "Written Notice",
+      "emoji": "📋",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "A written notice is a shorter, simpler form of invitation displayed on a notice board or distributed in a school or office. It covers the key details but in a brief format. A school notice for a programme might include the event name, date, time, venue, and who should attend. It is less formal than a printed invitation but more official than a verbal message.",
+      "pageReference": "17-18",
+      "examples": [
+        {
+          "icon": "📌",
+          "text": "Notice pinned on school notice board announcing the programme"
+        },
+        {
+          "icon": "📅",
+          "text": "Date, time, and venue clearly mentioned in brief"
+        },
+        {
+          "icon": "✍️",
+          "text": "Signed by the teacher or headmaster at the bottom"
+        }
+      ],
+      "keyPoints": [
+        "A written notice is displayed on a notice board or distributed",
+        "It is shorter and simpler than a formal printed invitation",
+        "Includes event, date, time, venue, and who should attend",
+        "It is signed by an authority (teacher/headmaster)",
+        "Language is clear and to the point"
+      ],
+      "funFact": "In schools across Maharashtra, notice boards near the school entrance display important announcements — these are a form of written notice that students see every day!",
+      "textbookRef": "Pages 17-18: Type B — Written Notice"
+    },
+    {
+      "id": 3,
+      "title": "Oral and Telephone Invitations",
+      "emoji": "📞",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "An oral invitation is given in person or over the telephone. When given by telephone, the person speaks clearly, introduces themselves, states the occasion, time, venue, and requests the person's presence. An oral personal invitation is given face-to-face with similar details. Both require polite, clear language and confirmation from the invitee.",
+      "pageReference": "18-19",
+      "examples": [
+        {
+          "icon": "📱",
+          "text": "Calling a guest on phone: 'Good morning! This is Arjun. I am inviting you to our school programme...'"
+        },
+        {
+          "icon": "🤝",
+          "text": "Personal invitation: meeting someone and verbally inviting them"
+        },
+        {
+          "icon": "🗣️",
+          "text": "Clearly stating: event name, date, time, venue in the spoken invitation"
+        }
+      ],
+      "keyPoints": [
+        "Oral telephone invitation is given over the phone",
+        "Oral personal invitation is given face-to-face",
+        "Must include: event, time, venue, and a polite request",
+        "Language should be polite and clear in spoken invitations",
+        "Confirm the guest's attendance after the invitation"
+      ],
+      "funFact": "Before mobile phones, people sent postcards or telegrams to invite guests! Today, WhatsApp messages and phone calls have become the most common way to invite people in India.",
+      "textbookRef": "Pages 18-19: Types C and D — Oral Invitations"
+    },
+    {
+      "id": 4,
+      "title": "Comparing the Four Types of Invitations",
+      "emoji": "🔍",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The four types of invitations — formal printed, written notice, telephone, and personal — differ in their format, level of detail, and purpose. A formal invitation includes all 8 key points. A written notice covers most points briefly. An oral telephone invitation covers the essential points verbally. A personal invitation is the most casual and immediate.",
+      "pageReference": "19-20",
+      "examples": [
+        {
+          "icon": "💌",
+          "text": "Formal printed: most detailed, used for important events"
+        },
+        {
+          "icon": "📋",
+          "text": "Written notice: brief, used for school/office announcements"
+        },
+        {
+          "icon": "📞",
+          "text": "Telephone: spoken, used for urgent or personal invitations"
+        },
+        {
+          "icon": "🗣️",
+          "text": "Personal: face-to-face, most casual and immediate"
+        }
+      ],
+      "keyPoints": [
+        "Formal printed invitation: most detailed, all 8 points, used for major events",
+        "Written notice: brief, official, displayed on notice board",
+        "Telephone invitation: oral, immediate, polite spoken language",
+        "Personal invitation: face-to-face, warmest and most direct",
+        "The choice of invitation type depends on the occasion and the person being invited"
+      ],
+      "funFact": "For weddings in India, families often use ALL four types: printed cards, WhatsApp notices, phone calls, and personal visits — because weddings are very important occasions!",
+      "textbookRef": "Pages 19-20: Comparing invitation types"
+    },
+    {
+      "id": 5,
+      "title": "Punctuation Rules",
+      "emoji": "✏️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Punctuation marks help us read and understand sentences correctly. A full stop (.) ends a statement. A comma (,) separates items in a list or clauses. A question mark (?) ends a question. An exclamation mark (!) shows strong feeling. A hyphen (-) joins parts of a compound word (e.g., well-known). A dash (–) shows a pause or adds information.",
+      "pageReference": "20",
+      "examples": [
+        {
+          "icon": ".",
+          "text": "Full stop: The school is clean. (ends a statement)"
+        },
+        {
+          "icon": ",",
+          "text": "Comma: I like mangoes, bananas, and apples."
+        },
+        {
+          "icon": "?",
+          "text": "Question mark: What time is the programme?"
+        },
+        {
+          "icon": "!",
+          "text": "Exclamation mark: What a beautiful day!"
+        }
+      ],
+      "keyPoints": [
+        "Full stop (.): ends a statement or abbreviation",
+        "Comma (,): separates items in a list, or clauses in a sentence",
+        "Question mark (?): ends a question",
+        "Exclamation mark (!): shows strong emotion — surprise, joy, anger",
+        "Hyphen (-): joins parts of a compound word (e.g., well-known)",
+        "Dash (–): adds information or shows a pause in a sentence"
+      ],
+      "funFact": "In Marathi writing (Devanagari script), we use a 'purnaviram' (|) instead of a full stop! Punctuation varies across languages and scripts.",
+      "textbookRef": "Page 20: Grammar — Punctuation"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "What is the name of the school project in the chapter?",
+      "options": [
+        "Seeing Eyes, Helping Hands",
+        "Helping Eyes, Seeing Hands",
+        "Reading Eyes, Writing Hands",
+        "Open Eyes, Kind Hands"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The school project in the chapter is called 'Seeing Eyes, Helping Hands'. The chapter is about its inauguration and the different invitations used for the event.",
+      "conceptIds": [1],
+      "pageReference": "16"
+    },
+    {
+      "id": "q2",
+      "question": "How many key points does a formal invitation cover?",
+      "options": [
+        "Eight",
+        "Four",
+        "Six",
+        "Ten"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A formal invitation covers 8 key points: who is organizing, what the event is, programme, inaugurator, presiding person, time, venue, and names.",
+      "conceptIds": [1],
+      "pageReference": "16-17"
+    },
+    {
+      "id": "q3",
+      "question": "Which type of invitation is displayed on a notice board?",
+      "options": [
+        "Written notice",
+        "Formal printed invitation",
+        "Oral personal invitation",
+        "Telephone invitation"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A written notice is typically displayed on a school or office notice board. It is shorter and more concise than a formal printed invitation.",
+      "conceptIds": [2],
+      "pageReference": "17-18"
+    },
+    {
+      "id": "q4",
+      "question": "What must you do at the end of a telephone invitation?",
+      "options": [
+        "Confirm the guest's attendance",
+        "Hang up immediately",
+        "Read out the full formal invitation",
+        "Send a written letter"
+      ],
+      "correctAnswer": "A",
+      "explanation": "After giving a telephone invitation, it is polite to confirm whether the guest will be attending the event.",
+      "conceptIds": [3],
+      "pageReference": "18-19"
+    },
+    {
+      "id": "q5",
+      "question": "Which type of invitation is given face-to-face?",
+      "options": [
+        "Oral personal invitation",
+        "Written notice",
+        "Formal printed invitation",
+        "Telephone invitation"
+      ],
+      "correctAnswer": "A",
+      "explanation": "An oral personal invitation is given face-to-face, which makes it the most direct and warm of all invitation types.",
+      "conceptIds": [3, 4],
+      "pageReference": "19"
+    },
+    {
+      "id": "q6",
+      "question": "Which punctuation mark ends a question?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Exclamation mark (!)",
+        "Comma (,)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A question mark (?) is placed at the end of every question. For example: 'What time is the programme?'",
+      "conceptIds": [5],
+      "pageReference": "20"
+    },
+    {
+      "id": "q7",
+      "question": "Which punctuation mark is used in a compound word like 'well-known'?",
+      "options": [
+        "Hyphen (-)",
+        "Dash (–)",
+        "Comma (,)",
+        "Full stop (.)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A hyphen (-) is used to join the parts of a compound word. For example: well-known, mother-in-law, twenty-one.",
+      "conceptIds": [5],
+      "pageReference": "20"
+    },
+    {
+      "id": "q8",
+      "question": "Which sentence uses punctuation correctly?",
+      "options": [
+        "What a wonderful programme!",
+        "What a wonderful programme.",
+        "What a wonderful programme?",
+        "What, a wonderful programme"
+      ],
+      "correctAnswer": "A",
+      "explanation": "An exclamation mark (!) is used to show strong feeling. 'What a wonderful programme!' expresses great admiration, so the exclamation mark is correct.",
+      "conceptIds": [5],
+      "pageReference": "20"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Four types of invitations: formal printed, written notice, telephone, personal",
+      "A formal invitation covers 8 key points: who, what, programme, inaugurator, presiding person, time, venue, names",
+      "Written notice is brief and displayed on a notice board",
+      "Telephone invitation uses polite spoken language and confirms attendance",
+      "Personal invitation is face-to-face and most direct",
+      "Full stop (.) ends a statement",
+      "Comma (,) separates items in a list or clauses",
+      "Question mark (?) ends a question",
+      "Exclamation mark (!) shows strong emotion",
+      "Hyphen (-) joins parts of a compound word",
+      "Dash (–) adds information or shows a pause"
+    ],
+    "commonMisconceptions": [
+      "A hyphen and a dash are the same — FALSE (a hyphen (-) joins words; a dash (–) adds information or pause in a sentence)",
+      "Exclamation marks are only for angry sentences — FALSE (they show any strong emotion: joy, surprise, excitement)",
+      "A written notice and a formal invitation are the same — FALSE (a notice is shorter and displayed on board; a formal invitation is printed and distributed)",
+      "Questions always start with question words — FALSE (e.g., 'Is this the venue?' is a question without a question word)"
+    ],
+    "realWorldExamples": [
+      "School Annual Day invitations in Maharashtra schools — often use all four types",
+      "Diwali and Eid party invitations — families in India use printed cards and WhatsApp",
+      "Wedding invitation cards in India — most detailed and elaborate formal invitations",
+      "School notice boards in Pune and Mumbai schools — displaying events and announcements",
+      "Telephone invitations are common in Indian families for family gatherings and festivals"
+    ],
+    "formulas": []
+  }
+}

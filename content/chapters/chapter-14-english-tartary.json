@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "chapterNumber": 14,
+    "title": "Tartary",
+    "subject": "English",
+    "pages": "55-57",
+    "description": "A poem by Walter de la Mare about an imaginary magical kingdom called Tartary. The poet dreams of being a lord of this kingdom filled with golden thrones, peacocks, tigers, zebras, and wonderful music. The chapter also teaches the literary device Consonance."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_14_1",
+      "question": "Who is the poet of the poem 'Tartary'?",
+      "options": ["A) William Shakespeare", "B) Walter de la Mare", "C) Alfred Lord Tennyson", "D) Rudyard Kipling"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_14_1"
+    },
+    {
+      "id": "pre_14_2",
+      "question": "What is an imaginary kingdom?",
+      "options": ["A) A real country on a map", "B) A kingdom that exists only in someone's mind or dreams", "C) A kingdom with a real king", "D) A kingdom in ancient history"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_14_1"
+    },
+    {
+      "id": "pre_14_3",
+      "question": "What would pull the poet's car (carriage) in Tartary?",
+      "options": ["A) Seven horses", "B) Seven elephants", "C) Seven zebras", "D) Seven camels"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_14_3"
+    },
+    {
+      "id": "pre_14_4",
+      "question": "Which of the following is an example of Consonance?",
+      "options": ["A) 'The sun shines brightly'", "B) 'Pitter-patter'", "C) 'A big blue ball'", "D) 'The moon is full'"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_14_5"
+    },
+    {
+      "id": "pre_14_5",
+      "question": "What instrument is NOT mentioned in the poem 'Tartary'?",
+      "options": ["A) Harp", "B) Flute", "C) Mandoline", "D) Violin"],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "conceptId": "concept_14_2"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_14_1",
+      "title": "Poet and Poem Introduction",
+      "emoji": "✍️",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Walter de la Mare (1873–1956) was an English poet who loved writing about fantasy, dreams, and imaginary worlds. 'Tartary' is one of his most famous poems. In it, the poet imagines being the all-powerful lord of a magical kingdom called Tartary. Tartary was a historical name used in Europe for a vast region of central Asia, which felt mysterious and exotic. De la Mare uses it as the name of his dream kingdom. The poem has four stanzas and is written in first person — the poet speaks directly saying 'If I were lord of Tartary...' He describes all the wonderful, luxurious, and magical things he would have if he ruled this kingdom.",
+      "pageReference": "Pages 55-57",
+      "examples": [
+        "Walter de la Mare also wrote 'The Listeners' and 'Silver' — both famous fantasy poems.",
+        "Tartary as a real place was a vast region of Asia and Europe used on old maps.",
+        "The poem is written in first person: 'If I were lord of Tartary, Myself, and me alone...'"
+      ],
+      "keyPoints": [
+        "Poet: Walter de la Mare (1873–1956), English poet",
+        "Poem is about an imaginary magical kingdom called Tartary",
+        "Written in first person — poet speaks as the would-be lord",
+        "The poem has 4 stanzas full of vivid, colourful images",
+        "Theme: the power of imagination and longing for a perfect world"
+      ],
+      "funFact": "Walter de la Mare once said he found poetry in everyday things — even a cup of tea! He believed imagination was the greatest gift a person could have.",
+      "textbookRef": "Chapter 14, Pages 55-57, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_14_2",
+      "title": "Stanza 1 and 2 — The Riches of Tartary",
+      "emoji": "👑",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "In the first two stanzas, the poet describes the palace and its grandeur. He would sleep on an ivory bed — ivory is the precious white material from elephant tusks, making the bed rare and beautiful. He would sit on a golden throne to rule his land. Every day, trumpeters would blow their trumpets to announce him. Musicians would play three instruments — harp, flute, and mandoline — creating sweet music around him. He would wear a robe (a long gown) made of shining beads. Peacocks (known for their gorgeous tails) would flaunt (show off) their feathers in his gardens. Tigers would haunt (roam freely) in his dark forests. All these images create a picture of a wild, luxurious, magical kingdom.",
+      "pageReference": "Pages 55-56",
+      "examples": [
+        "Ivory bed: imagine a bed made of the most expensive white material — precious and rare.",
+        "Peacocks flaunting: like peacocks in an Indian garden during the monsoon, spreading their beautiful feathers.",
+        "Trumpeters daily: like a band playing at a school function to announce the chief guest's arrival."
+      ],
+      "keyPoints": [
+        "Ivory bed — a precious, rare bed made from elephant tusks",
+        "Golden throne — where the poet would sit as king",
+        "Harp, flute, and mandoline — three musical instruments played daily",
+        "Robe of beads — a royal shining dress",
+        "Peacocks flaunt and tigers haunt — contrast of beauty and wildness"
+      ],
+      "funFact": "Peacocks are India's national bird! In the poem, peacocks represent beauty and royalty — just like they do in Indian culture where they are considered auspicious.",
+      "textbookRef": "Chapter 14, Pages 55-56, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_14_3",
+      "title": "Stanza 3 and 4 — Nature in Tartary",
+      "emoji": "🦓",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "In the last two stanzas, the poet describes the nature of his kingdom. Seven zebras would pull his royal car (chariot/carriage) — a very exotic image! The rivers in Tartary would be silver-pale, glittering like silver in the moonlight. The night sky would be full of flashing stars. A scented breeze (a wind carrying sweet fragrance) would blow gently. There would be a trembling lake — a lake that shimmers and ripples beautifully. The poet says that at midnight (dead of night), in the still silence, he alone (myself, and me alone) would be the absolute lord of this magical kingdom. The repetition of 'myself, and me alone' at the end shows how this is purely a private, personal dream world.",
+      "pageReference": "Pages 56-57",
+      "examples": [
+        "Seven zebras pulling a carriage — like how kings in ancient India used elephants or horses for royal processions.",
+        "Silver-pale rivers: like the Godavari River glittering silver in moonlight.",
+        "Trembling lake: like Dal Lake in Kashmir shimmering gently in the breeze."
+      ],
+      "keyPoints": [
+        "Seven zebras pull the royal car (chariot) — an exotic, magical image",
+        "Rivers are silver-pale — shining and beautiful",
+        "Stars flash and a scented breeze blows — a magical night atmosphere",
+        "Trembling lake — a shimmering, beautiful lake",
+        "At midnight, the poet would be lord of all — it is a private dream"
+      ],
+      "funFact": "Zebras are found in Africa, not India! The poet chose zebras because they sound exotic and magical — perfect for an imaginary kingdom. Their black-and-white stripes make them look like they belong in a fantasy world.",
+      "textbookRef": "Chapter 14, Pages 56-57, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_14_4",
+      "title": "Rich Vocabulary of the Poem",
+      "emoji": "📖",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The poem 'Tartary' is packed with rich, descriptive words that paint vivid pictures in our minds. Understanding these words helps us enjoy the poem better. 'Ivory' means precious white material from elephant tusks. 'Flaunt' means to show off proudly. 'Haunt' means to visit or roam a place regularly (here the tigers roam the forests). 'Mandoline' is a musical instrument like a small guitar. 'Robe' is a long flowing garment worn by royalty. 'Scented' means having a beautiful smell or fragrance. 'Trembling' means shaking or shimmering gently. 'Silver-pale' describes something that looks pale and silvery, like moonlit water. These words together create a rich, luxurious, magical atmosphere.",
+      "pageReference": "Pages 55-57",
+      "examples": [
+        "Ivory: Ivory-white sarees and jewellery are considered very elegant in Indian traditions.",
+        "Flaunt: When a peacock spreads its feathers at the zoo, it is flaunting its beauty.",
+        "Scented: The scented breeze during jasmine season in Maharashtra — that's the kind of breeze the poet imagines."
+      ],
+      "keyPoints": [
+        "Ivory — precious white material; here used for the poet's bed",
+        "Flaunt — to show off; peacocks flaunt their feathers",
+        "Haunt — to roam or visit regularly; tigers haunt the forests",
+        "Mandoline — a small stringed musical instrument",
+        "Scented / Trembling / Silver-pale — adjectives that make the poem magical and vivid"
+      ],
+      "funFact": "The word 'haunt' usually makes us think of ghosts! But in old English, 'haunt' simply meant 'to visit regularly.' That's why it says tigers 'haunt' the forests — they roam there regularly.",
+      "textbookRef": "Chapter 14, Pages 55-57, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_14_5",
+      "title": "Grammar — Consonance",
+      "emoji": "🔤",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Consonance is the repetition of the same consonant sounds in nearby words, especially at the end of words. It is a literary and sound device that makes language musical and pleasing to the ear. It is different from rhyme — in rhyme, the vowel sounds match too, but in consonance, only the consonant sounds repeat. For example, in 'pitter-patter', both words end with the 't-r' sound. In 'Rivers silver-pale', the 'r' sound repeats. Consonance is used in poetry, songs, and everyday expressions. It gives writing a musical quality. Another example: 'All's well that ends well' — the 'l' sound repeats at the end of 'well' and 'well'.",
+      "pageReference": "Pages 55-57",
+      "examples": [
+        "'Pitter-patter' — the 't' and 'r' sounds repeat — this is consonance.",
+        "'Rivers silver-pale' — the 'r' sound repeats throughout these words.",
+        "'All's well that ends well' — the 'l' sound at the end of 'well' repeats — consonance."
+      ],
+      "keyPoints": [
+        "Consonance = repetition of the same consonant sounds, especially at word endings",
+        "It is different from rhyme because vowel sounds do not need to match",
+        "Makes language musical and pleasing to hear",
+        "Example from poem: 'Rivers silver-pale' — repeating 'r' sound",
+        "Common examples: 'pitter-patter', 'All's well that ends well'"
+      ],
+      "funFact": "Many Indian film songs use consonance to make them catchy. Think of songs where similar ending sounds repeat — that's consonance making the song stick in your head!",
+      "textbookRef": "Chapter 14, Pages 55-57, Maharashtra Board 7th Grade English"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_14_1",
+      "question": "Who is the poet of 'Tartary'?",
+      "options": ["A) Rudyard Kipling", "B) Walter de la Mare", "C) Alfred Lord Tennyson", "D) William Blake"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Walter de la Mare (1873–1956) is the poet of 'Tartary'. He was a famous English poet known for his poems about fantasy and imagination."
+    },
+    {
+      "id": "test_14_2",
+      "question": "What kind of bed would the poet sleep in if he were lord of Tartary?",
+      "options": ["A) A golden bed", "B) A silver bed", "C) An ivory bed", "D) A wooden bed"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "The poet says he would sleep on an ivory bed. Ivory is precious white material from elephant tusks, making it a rare and luxurious bed."
+    },
+    {
+      "id": "test_14_3",
+      "question": "Which three musical instruments are mentioned in the poem?",
+      "options": ["A) Sitar, tabla, flute", "B) Harp, flute, mandoline", "C) Guitar, piano, harp", "D) Flute, violin, mandoline"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The poem mentions harp, flute, and mandoline as the three instruments that musicians would play daily in Tartary."
+    },
+    {
+      "id": "test_14_4",
+      "question": "What would pull the poet's royal car in Tartary?",
+      "options": ["A) Seven horses", "B) Seven tigers", "C) Seven peacocks", "D) Seven zebras"],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "explanation": "Seven zebras would pull the poet's royal car (chariot) in Tartary. This is an exotic, magical image that shows how different and wonderful the kingdom would be."
+    },
+    {
+      "id": "test_14_5",
+      "question": "What does the word 'flaunt' mean as used in the poem?",
+      "options": ["A) To hide carefully", "B) To show off proudly", "C) To fly high", "D) To eat greedily"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "In the poem, peacocks 'flaunt' their feathers, which means they show off their beautiful feathers proudly. Flaunt means to display something with pride."
+    },
+    {
+      "id": "test_14_6",
+      "question": "What does 'consonance' mean?",
+      "options": ["A) Repetition of vowel sounds", "B) Repetition of whole words", "C) Repetition of consonant sounds especially at the end of words", "D) Repetition of the first letter of each word"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Consonance is the repetition of the same consonant sounds in nearby words, especially at the end of words. Example: 'pitter-patter' where 't-r' sounds repeat."
+    },
+    {
+      "id": "test_14_7",
+      "question": "Which phrase from the poem is an example of consonance?",
+      "options": ["A) 'Golden throne'", "B) 'Rivers silver-pale'", "C) 'Ivory bed'", "D) 'Golden stars'"],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": "'Rivers silver-pale' is an example of consonance because the 'r' consonant sound repeats in 'rivers' and 'silver', making the phrase musical."
+    },
+    {
+      "id": "test_14_8",
+      "question": "At what time would the poet be lord of Tartary in the poem?",
+      "options": ["A) At sunrise", "B) At noon", "C) At sunset", "D) At midnight"],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "explanation": "The poet says 'In the dead of night' (midnight) he would be the lord of Tartary. The phrase 'myself, and me alone' at midnight shows it is a private, personal dream."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Walter de la Mare — English fantasy poet",
+      "Tartary — imaginary magical kingdom",
+      "Imagery — ivory bed, golden throne, peacocks, tigers, zebras",
+      "Stanza structure — 4 stanzas in first person",
+      "Consonance — repetition of consonant sounds at end of words",
+      "Rich vocabulary: ivory, flaunt, haunt, mandoline, scented, trembling, silver-pale"
+    ],
+    "commonMisconceptions": [
+      "Students may confuse Consonance with Alliteration — Alliteration repeats sounds at the START of words, while Consonance repeats consonant sounds especially at the END of words.",
+      "Students may think 'haunt' only means ghosts — in old English, haunt means to visit or roam regularly.",
+      "Tartary was a real historical place name but in the poem it is used as an entirely imaginary dream kingdom.",
+      "Seven zebras pull a 'car' — in the poem 'car' means chariot/carriage, not a motor car."
+    ],
+    "realWorldExamples": [
+      "Indian royal palaces like Mysore Palace or Amber Fort in Rajasthan are real examples of golden thrones and luxurious royal halls like Tartary.",
+      "Peacocks in Indian gardens, especially during monsoon, flaunt their feathers just as described in the poem.",
+      "Trumpeters are used even today at Indian weddings and royal functions to announce important people — just like in Tartary.",
+      "Consonance in Indian film songs — many Bollywood songs use repeating consonant sounds to make lyrics catchy."
+    ],
+    "formulas": []
+  }
+}

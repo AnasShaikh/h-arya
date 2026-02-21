@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "chapterNumber": 11,
+    "title": "Learn Yoga from Animals",
+    "subject": "English",
+    "pages": "37-42",
+    "description": "Yoga is an ancient Indian discipline. Animal yoga poses and their benefits. Biomimicry. International Yoga Day: 21 June. Grammar: Conjunctions and Interjections."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "On which date is International Yoga Day celebrated?",
+      "options": [
+        "21 June",
+        "15 August",
+        "26 January",
+        "2 October"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What is biomimicry?",
+      "options": [
+        "Solving human problems using nature's solutions",
+        "A type of yoga done in water",
+        "A branch of biology that studies animals",
+        "A medicine made from plants"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which yoga pose is named after a cobra?",
+      "options": [
+        "Bhujangasana",
+        "Simhasana",
+        "Garudasana",
+        "Ustrasana"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following is a conjunction?",
+      "options": [
+        "Because",
+        "Wow",
+        "Quickly",
+        "Beautiful"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 5
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is an interjection?",
+      "options": [
+        "Hurrah!",
+        "And",
+        "But",
+        "Because"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 5
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "What Is Yoga and Biomimicry",
+      "emoji": "🧘",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Yoga is an ancient Indian physical, mental, and spiritual discipline. It originated in India thousands of years ago and is now practised by millions worldwide. International Yoga Day is celebrated on 21 June every year since 2015, following India's proposal at the United Nations. Biomimicry is the concept of solving human problems by observing and imitating nature's solutions — animal yoga poses are an example of biomimicry.",
+      "pageReference": "37-38",
+      "examples": [
+        {
+          "icon": "🇮🇳",
+          "text": "Yoga originated in India thousands of years ago"
+        },
+        {
+          "icon": "🌍",
+          "text": "International Yoga Day: 21 June — celebrated worldwide"
+        },
+        {
+          "icon": "🦁",
+          "text": "Biomimicry: yoga poses inspired by animal postures"
+        },
+        {
+          "icon": "🌱",
+          "text": "Ancient Indian sages observed animals and developed asanas"
+        }
+      ],
+      "keyPoints": [
+        "Yoga is an ancient Indian physical, mental, and spiritual practice",
+        "International Yoga Day: 21 June (since 2015)",
+        "India proposed International Yoga Day at the United Nations",
+        "Biomimicry: solving human problems by imitating nature's solutions",
+        "Many yoga asanas are named after and inspired by animals"
+      ],
+      "funFact": "Prime Minister Narendra Modi proposed International Yoga Day at the UN in 2014, and 177 countries co-sponsored it. It was passed unanimously — the largest ever co-sponsorship of a UN resolution!",
+      "textbookRef": "Pages 37-38: Introduction to yoga and biomimicry"
+    },
+    {
+      "id": 2,
+      "title": "Bhujangasana — The Cobra Pose",
+      "emoji": "🐍",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Bhujangasana (cobra pose) is inspired by the way a cobra raises its hood. To do this pose, you lie on your stomach, place your palms on the floor near your chest, and gently lift your head and chest — like a cobra raising its head. This pose strengthens the back, stretches the spine, and improves posture. 'Bhujanga' means cobra in Sanskrit.",
+      "pageReference": "38-39",
+      "examples": [
+        {
+          "icon": "🐍",
+          "text": "Inspired by a cobra raising its hood — Bhujanga means cobra in Sanskrit"
+        },
+        {
+          "icon": "💪",
+          "text": "Strengthens the back muscles and spine"
+        },
+        {
+          "icon": "🧍",
+          "text": "Improves posture and reduces back pain"
+        },
+        {
+          "icon": "📐",
+          "text": "Lie on stomach, palms flat, and gently raise head and chest"
+        }
+      ],
+      "keyPoints": [
+        "Bhujangasana = cobra pose (Bhujanga = cobra in Sanskrit)",
+        "Inspired by the way a cobra raises its hood",
+        "Lie on stomach, lift head and chest like a cobra",
+        "Benefits: strengthens back, stretches spine, improves posture",
+        "Good for students who sit for long hours studying"
+      ],
+      "funFact": "The cobra is one of India's most recognisable animals. The King Cobra is found in the Western Ghats of Maharashtra and is the world's longest venomous snake. Bhujangasana pays homage to its graceful posture!",
+      "textbookRef": "Pages 38-39: Bhujangasana — cobra pose"
+    },
+    {
+      "id": 3,
+      "title": "Simhasana (Lion) and Marjaryasana (Cat)",
+      "emoji": "🦁",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Simhasana (lion pose) involves kneeling, leaning forward slightly, stretching your tongue out as far as possible, and letting out a roar. This pose exercises the throat, tongue, and facial muscles, and helps release tension. Marjaryasana (cat pose) involves going on all fours and alternately arching and rounding the spine — like a cat stretching. It improves spinal flexibility and relieves back tension.",
+      "pageReference": "39-40",
+      "examples": [
+        {
+          "icon": "🦁",
+          "text": "Simhasana: kneel, lean forward, stretch tongue out and ROAR!"
+        },
+        {
+          "icon": "😛",
+          "text": "Benefits: exercises face, throat, tongue; releases tension"
+        },
+        {
+          "icon": "🐱",
+          "text": "Marjaryasana: on all fours, arch spine up then curve down — like a cat"
+        },
+        {
+          "icon": "🔄",
+          "text": "Benefits: improves spinal flexibility and relieves back pain"
+        }
+      ],
+      "keyPoints": [
+        "Simhasana = lion pose (Simha = lion in Sanskrit)",
+        "Kneel, lean forward, stretch tongue out, and roar like a lion",
+        "Benefits of Simhasana: exercises face and throat, releases tension",
+        "Marjaryasana = cat pose (Marjara = cat in Sanskrit)",
+        "Benefits of Marjaryasana: improves spine flexibility, relieves back tension"
+      ],
+      "funFact": "Cats do a full body stretch every time they wake up — this is exactly what Marjaryasana imitates! Scientists now know this cat stretch prevents muscle injuries and improves flexibility!",
+      "textbookRef": "Pages 39-40: Simhasana and Marjaryasana"
+    },
+    {
+      "id": 4,
+      "title": "Garudasana (Eagle) and Ustrasana (Camel)",
+      "emoji": "🦅",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Garudasana (eagle pose) involves balancing on one leg with the other leg wrapped around it, and both arms entwined. It improves balance, concentration, and strengthens leg muscles. Ustrasana (camel pose) involves kneeling and bending backwards to touch your heels, opening the chest and shoulders. It stretches the front of the body and improves posture.",
+      "pageReference": "40-41",
+      "examples": [
+        {
+          "icon": "🦅",
+          "text": "Garudasana: balance on one leg, other leg wrapped around — like an eagle perching"
+        },
+        {
+          "icon": "⚖️",
+          "text": "Garudasana benefits: improves balance and concentration"
+        },
+        {
+          "icon": "🐪",
+          "text": "Ustrasana: kneel and bend back to touch heels — like a camel's hump shape"
+        },
+        {
+          "icon": "💪",
+          "text": "Ustrasana benefits: opens chest and shoulders, improves posture"
+        }
+      ],
+      "keyPoints": [
+        "Garudasana = eagle pose (Garuda = eagle in Sanskrit — Vishnu's vehicle)",
+        "Stand on one leg with other leg and arms entwined for balance",
+        "Benefits of Garudasana: improves balance, concentration, leg strength",
+        "Ustrasana = camel pose (Ustra = camel in Sanskrit)",
+        "Kneel and bend backwards to touch heels — opens chest and shoulders"
+      ],
+      "funFact": "Garuda (the eagle) is the divine vehicle (vahana) of Lord Vishnu in Hindu mythology! Garudasana is named after this sacred bird — so practicing this pose has a spiritual dimension too.",
+      "textbookRef": "Pages 40-41: Garudasana and Ustrasana"
+    },
+    {
+      "id": 5,
+      "title": "Conjunctions and Interjections",
+      "emoji": "🔗",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Conjunctions are words that join two words, phrases, or sentences. Common conjunctions: and, but, or, if, because, when. Interjections are words that express strong feelings or emotions, usually followed by an exclamation mark. Common interjections: Hurrah! (joy), Ouch! (pain), Wow! (surprise), Bravo! (appreciation), Alas! (sorrow).",
+      "pageReference": "41-42",
+      "examples": [
+        {
+          "icon": "🔗",
+          "text": "Conjunction 'and': Yoga is healthy and fun."
+        },
+        {
+          "icon": "↔️",
+          "text": "Conjunction 'but': I tried yoga, but it was difficult."
+        },
+        {
+          "icon": "🎉",
+          "text": "Interjection 'Hurrah!': Hurrah! We won the match!"
+        },
+        {
+          "icon": "😲",
+          "text": "Interjection 'Wow!': Wow! What a beautiful pose!"
+        }
+      ],
+      "keyPoints": [
+        "Conjunctions: words that join words, phrases, or sentences",
+        "Common conjunctions: and, but, or, if, because, when",
+        "Interjections: words expressing strong emotions, followed by !",
+        "Hurrah! = joy; Ouch! = pain; Wow! = surprise; Alas! = sorrow",
+        "Interjections stand alone or at the start of a sentence"
+      ],
+      "funFact": "Interjections are used very often in Indian languages! In Marathi: 'Shabba!' (well done!), 'Are va!' (wow!), 'Hai!' (oh no!) — just like English interjections, they express feeling instantly!",
+      "textbookRef": "Pages 41-42: Grammar — Conjunctions and Interjections"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "When is International Yoga Day celebrated?",
+      "options": [
+        "21 June",
+        "15 August",
+        "26 January",
+        "21 March"
+      ],
+      "correctAnswer": "A",
+      "explanation": "International Yoga Day is celebrated on 21 June every year since 2015. India proposed this day at the United Nations.",
+      "conceptIds": [1],
+      "pageReference": "37"
+    },
+    {
+      "id": "q2",
+      "question": "What does 'biomimicry' mean?",
+      "options": [
+        "Solving human problems by imitating nature's solutions",
+        "A type of dance inspired by animals",
+        "A medicine made from animal products",
+        "A way of painting pictures of animals"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Biomimicry means solving human problems by observing and imitating solutions found in nature. Animal yoga poses are an example.",
+      "conceptIds": [1],
+      "pageReference": "37-38"
+    },
+    {
+      "id": "q3",
+      "question": "What does 'Bhujanga' mean in Sanskrit?",
+      "options": [
+        "Cobra",
+        "Eagle",
+        "Lion",
+        "Camel"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bhujanga means cobra in Sanskrit. Bhujangasana is the cobra pose, inspired by the way a cobra raises its hood.",
+      "conceptIds": [2],
+      "pageReference": "38-39"
+    },
+    {
+      "id": "q4",
+      "question": "What are the benefits of Bhujangasana (cobra pose)?",
+      "options": [
+        "Strengthens the back and stretches the spine",
+        "Improves balance and concentration",
+        "Opens the chest and shoulders",
+        "Exercises the face and throat"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bhujangasana (cobra pose) strengthens the back muscles and stretches the spine. It is especially beneficial for people who sit for long hours.",
+      "conceptIds": [2],
+      "pageReference": "38-39"
+    },
+    {
+      "id": "q5",
+      "question": "What do you do in Simhasana (lion pose)?",
+      "options": [
+        "Kneel, lean forward, stretch tongue out, and roar",
+        "Stand on one leg with arms entwined",
+        "Lie on stomach and raise head and chest",
+        "Kneel and bend backwards to touch heels"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In Simhasana (lion pose), you kneel, lean forward slightly, stretch your tongue out as far as possible, and let out a roar like a lion.",
+      "conceptIds": [3],
+      "pageReference": "39-40"
+    },
+    {
+      "id": "q6",
+      "question": "What is the benefit of Garudasana (eagle pose)?",
+      "options": [
+        "Improves balance and concentration",
+        "Strengthens the back and spine",
+        "Exercises the face and throat",
+        "Opens the chest and shoulders"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Garudasana (eagle pose) improves balance, concentration, and strengthens the legs. You balance on one leg with the other wrapped around it.",
+      "conceptIds": [4],
+      "pageReference": "40-41"
+    },
+    {
+      "id": "q7",
+      "question": "In which yoga pose do you kneel and bend backwards to touch your heels?",
+      "options": [
+        "Ustrasana (camel pose)",
+        "Bhujangasana (cobra pose)",
+        "Simhasana (lion pose)",
+        "Garudasana (eagle pose)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In Ustrasana (camel pose), you kneel and bend backwards to touch your heels, opening the chest and shoulders.",
+      "conceptIds": [4],
+      "pageReference": "40-41"
+    },
+    {
+      "id": "q8",
+      "question": "Which word is a conjunction?",
+      "options": [
+        "Because",
+        "Hurrah",
+        "Quickly",
+        "Ouch"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Because' is a conjunction — it joins two clauses and shows reason. 'Hurrah' and 'Ouch' are interjections.",
+      "conceptIds": [5],
+      "pageReference": "41-42"
+    },
+    {
+      "id": "q9",
+      "question": "Which sentence contains an interjection?",
+      "options": [
+        "Wow! That was an amazing yoga performance!",
+        "Yoga is both healthy and fun.",
+        "We do yoga because it is good for us.",
+        "If you practise daily, you will improve."
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Wow!' is an interjection expressing strong surprise and admiration. Interjections express emotions and are usually followed by an exclamation mark.",
+      "conceptIds": [5],
+      "pageReference": "41-42"
+    },
+    {
+      "id": "q10",
+      "question": "Which conjunction would best fill the blank: 'Yoga is good for the body _____ the mind.'?",
+      "options": [
+        "And",
+        "But",
+        "Or",
+        "Because"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'And' is the correct conjunction here — it joins two things (body and mind) that go together. 'And' is used to add information.",
+      "conceptIds": [5],
+      "pageReference": "41-42"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Yoga is an ancient Indian physical, mental, and spiritual discipline",
+      "International Yoga Day: 21 June (since 2015)",
+      "Biomimicry: solving human problems by imitating nature",
+      "Bhujangasana (cobra): strengthens back/spine",
+      "Simhasana (lion): exercises face, throat, tongue; releases tension",
+      "Marjaryasana (cat): improves spine flexibility",
+      "Garudasana (eagle): improves balance and concentration",
+      "Ustrasana (camel): opens chest and shoulders",
+      "Conjunctions: and, but, or, if, because, when — join words/clauses",
+      "Interjections: Hurrah!, Ouch!, Wow!, Bravo! — express strong emotions"
+    ],
+    "commonMisconceptions": [
+      "Yoga is only about physical exercise — FALSE (it is physical, mental, and spiritual)",
+      "Interjections must always be at the start of a sentence — NOT ALWAYS (they can appear in other positions)",
+      "Conjunctions and prepositions are the same — FALSE (conjunctions join; prepositions show relationships between nouns)"
+    ],
+    "realWorldExamples": [
+      "Mass yoga sessions on 21 June at Rajpath, Delhi and schools across Maharashtra",
+      "Yoga classes in Maharashtra schools — part of the daily PT schedule",
+      "King Cobra found in Western Ghats of Maharashtra — inspiration for Bhujangasana",
+      "Garuda (eagle) — vehicle of Lord Vishnu, found in temples across India",
+      "Camels of Rajasthan Desert — inspiration for Ustrasana",
+      "ISHA Yoga Foundation and Art of Living — popular yoga organisations in India"
+    ],
+    "formulas": []
+  }
+}

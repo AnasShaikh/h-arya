@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "chapterNumber": 8,
+    "title": "The Souvenir",
+    "subject": "English",
+    "pages": "24-28",
+    "description": "A science-fiction story about a school trip to the moon. Covers moon facts: gravity, settlements, sky view. Grammar: Collective nouns and punctuation review."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Who is the main character in 'The Souvenir'?",
+      "options": [
+        "Sayali",
+        "Neil Armstrong",
+        "Arjun",
+        "Priya"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What is the moon's gravity compared to Earth's gravity?",
+      "options": [
+        "1/6th of Earth's gravity",
+        "Same as Earth's gravity",
+        "Double Earth's gravity",
+        "1/10th of Earth's gravity"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "Who was the first person to walk on the moon?",
+      "options": [
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Buzz Aldrin",
+        "Rakesh Sharma"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "What mistake does Sayali make on the moon?",
+      "options": [
+        "She buys earrings from an unauthorized seller outside the settlement",
+        "She forgets her space suit",
+        "She gets lost in the moon settlement",
+        "She breaks a telescope"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 4
+    },
+    {
+      "id": "q5",
+      "question": "What shape are the moon settlements described as in the story?",
+      "options": [
+        "Dome-shaped like igloos",
+        "Pyramid-shaped",
+        "Cube-shaped",
+        "Cylinder-shaped"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Story Setting and Plot",
+      "emoji": "🌙",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The Souvenir is a science-fiction story translated from Marathi by Lakshman Londhe. It is set in the future, when school trips to the moon are possible. The main character Sayali goes on a school trip to the moon. She is excited to see the moon settlements, experience low gravity, and see the stars. The story blends imagination with real moon science.",
+      "pageReference": "24-25",
+      "examples": [
+        {
+          "icon": "🚀",
+          "text": "School trip to the moon — set in the future"
+        },
+        {
+          "icon": "👧",
+          "text": "Sayali is the protagonist — a curious, excited student"
+        },
+        {
+          "icon": "🌍",
+          "text": "Translated from Marathi — originally a Marathi science-fiction story"
+        },
+        {
+          "icon": "🏙️",
+          "text": "Moon settlements exist in the story — dome-shaped like igloos"
+        }
+      ],
+      "keyPoints": [
+        "The story is science-fiction — set in the future",
+        "Translated from Marathi by Lakshman Londhe",
+        "Sayali is the main character who goes on a school moon trip",
+        "The story imagines a future where moon settlements exist",
+        "Science-fiction uses real science to imagine the future"
+      ],
+      "funFact": "Marathi literature has a rich tradition of science fiction! Many Marathi writers have imagined space travel and futuristic technology long before it became reality.",
+      "textbookRef": "Pages 24-25: The Souvenir — story introduction"
+    },
+    {
+      "id": 2,
+      "title": "Moon Facts — Gravity, Settlements, and Sky",
+      "emoji": "🔭",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The story includes real moon science. The moon's gravity is 1/6th of Earth's gravity — so you feel much lighter and can jump much higher. Moon settlements are dome-shaped like igloos to withstand pressure. From the moon, the sky appears black (no atmosphere), stars are dazzlingly bright, and Earth appears 13 times bigger than the moon appears from Earth.",
+      "pageReference": "25-26",
+      "examples": [
+        {
+          "icon": "🏋️",
+          "text": "Moon gravity = 1/6th Earth's gravity — a gymnast can jump 27 metres!"
+        },
+        {
+          "icon": "🏠",
+          "text": "Moon settlements are dome-shaped like igloos"
+        },
+        {
+          "icon": "⭐",
+          "text": "Stars on the moon are dazzlingly bright — no atmosphere to scatter light"
+        },
+        {
+          "icon": "🌏",
+          "text": "Earth looks 13 times bigger from the moon than the moon looks from Earth"
+        }
+      ],
+      "keyPoints": [
+        "Moon's gravity is 1/6th of Earth's gravity",
+        "Lower gravity means you can jump much higher on the moon",
+        "Moon settlements are dome-shaped like igloos",
+        "The sky on the moon is always black (no atmosphere)",
+        "Stars are dazzlingly bright on the moon",
+        "Earth appears 13 times bigger from the moon than the moon from Earth"
+      ],
+      "funFact": "Because the moon's gravity is 1/6th of Earth's, a person weighing 60 kg on Earth would weigh only 10 kg on the moon! Indian astronaut training would be very different on the moon!",
+      "textbookRef": "Pages 25-26: Moon facts in the story"
+    },
+    {
+      "id": 3,
+      "title": "Neil Armstrong and Moon History",
+      "emoji": "👨‍🚀",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "In the story, Sayali sees the preserved footprint of Neil Armstrong, the first human to walk on the moon. Neil Armstrong landed on the moon on 20 July 1969 as part of the NASA Apollo 11 mission. His famous words were: 'That's one small step for man, one giant leap for mankind.' Because the moon has no wind or rain, his footprint is still preserved today.",
+      "pageReference": "26-27",
+      "examples": [
+        {
+          "icon": "👣",
+          "text": "Armstrong's footprint preserved on the moon — no wind or rain to erase it"
+        },
+        {
+          "icon": "🚀",
+          "text": "Apollo 11 mission — landed on moon on 20 July 1969"
+        },
+        {
+          "icon": "💬",
+          "text": "'One small step for man, one giant leap for mankind' — Armstrong's famous words"
+        },
+        {
+          "icon": "🌍",
+          "text": "First human being to walk on another world"
+        }
+      ],
+      "keyPoints": [
+        "Neil Armstrong was the first human to walk on the moon",
+        "Apollo 11 mission landed on moon on 20 July 1969",
+        "His famous quote: 'One small step for man, one giant leap for mankind'",
+        "His footprint is preserved on the moon because there is no wind or rain",
+        "Sayali visits the preserved footprint on her school trip"
+      ],
+      "funFact": "India's own Rakesh Sharma became the first Indian to go to space in 1984! When Prime Minister Indira Gandhi asked how India looked from space, he replied 'Saare Jahan Se Accha' (the best in all the world)!",
+      "textbookRef": "Pages 26-27: Neil Armstrong's footprint"
+    },
+    {
+      "id": 4,
+      "title": "Sayali's Mistake — The Heavy Earrings",
+      "emoji": "💎",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Outside the authorized moon settlement, an unauthorized seller tries to sell souvenirs to tourists. Sayali buys earrings from this seller. On the moon, due to low gravity, the earrings feel light. But when she returns to Earth, the earrings are impossibly heavy because Earth's gravity is 6 times stronger! This is the clever twist in the story — a lesson about buying from unauthorized sellers and understanding gravity.",
+      "pageReference": "27-28",
+      "examples": [
+        {
+          "icon": "🛍️",
+          "text": "Sayali buys earrings from an unauthorized seller outside the settlement"
+        },
+        {
+          "icon": "🌙",
+          "text": "On the moon the earrings feel light because gravity is 1/6th"
+        },
+        {
+          "icon": "🌍",
+          "text": "On Earth the earrings are too heavy to wear — Earth's gravity is 6x stronger"
+        },
+        {
+          "icon": "⚠️",
+          "text": "Lesson: do not buy from unauthorized sellers, and understand the science of gravity"
+        }
+      ],
+      "keyPoints": [
+        "Sayali buys earrings from an unauthorized seller outside the moon settlement",
+        "On the moon, the earrings feel light due to 1/6th gravity",
+        "Back on Earth, the earrings are impossibly heavy — full Earth gravity acts on them",
+        "The story teaches that moon objects weigh much more when brought to Earth",
+        "It also teaches the lesson: do not buy from unauthorized sellers"
+      ],
+      "funFact": "This is why moon rocks brought back by NASA astronauts are kept in special containers! Even dust from the moon behaves differently on Earth because of the difference in gravity.",
+      "textbookRef": "Pages 27-28: Sayali's earrings — the story's twist"
+    },
+    {
+      "id": 5,
+      "title": "Collective Nouns — Continued",
+      "emoji": "👥",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Collective nouns name a group of people, animals, or things. The chapter continues the study of collective nouns from the previous chapter. Examples include: a crew of astronauts, a fleet of ships, a bunch of flowers, a pack of wolves. Each collective noun gives a specific and accurate name to a particular group, making language richer and more precise.",
+      "pageReference": "28",
+      "examples": [
+        {
+          "icon": "👨‍🚀",
+          "text": "A crew of astronauts boarded the spacecraft"
+        },
+        {
+          "icon": "🚢",
+          "text": "A fleet of ships sailed across the ocean"
+        },
+        {
+          "icon": "🌸",
+          "text": "A bunch of flowers was placed on the table"
+        },
+        {
+          "icon": "🐺",
+          "text": "A pack of wolves roamed the forest"
+        }
+      ],
+      "keyPoints": [
+        "Collective noun: names a group as a single unit",
+        "Crew — a crew of astronauts, sailors, workers",
+        "Fleet — a fleet of ships, cars, aircraft",
+        "Bunch — a bunch of flowers, keys, grapes",
+        "Pack — a pack of wolves, cards, lies",
+        "Collective nouns make language more precise and interesting"
+      ],
+      "funFact": "The Indian Space Research Organisation (ISRO) has a team of brilliant scientists. When we say 'the ISRO team', 'team' is our collective noun — and what a proud team it is for India!",
+      "textbookRef": "Page 28: Grammar — Collective Nouns (continued)"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "From which language was 'The Souvenir' translated?",
+      "options": [
+        "Marathi",
+        "Hindi",
+        "Bengali",
+        "Tamil"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The Souvenir was translated from Marathi by Lakshman Londhe. It is originally a Marathi science-fiction story.",
+      "conceptIds": [1],
+      "pageReference": "24"
+    },
+    {
+      "id": "q2",
+      "question": "Why can a gymnast jump 27 metres on the moon?",
+      "options": [
+        "Because the moon's gravity is only 1/6th of Earth's",
+        "Because the moon has more oxygen",
+        "Because the moon's surface is very soft",
+        "Because the gymnast practises harder on the moon"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The moon's gravity is 1/6th of Earth's, so objects and people feel much lighter and can jump much higher than on Earth.",
+      "conceptIds": [2],
+      "pageReference": "25-26"
+    },
+    {
+      "id": "q3",
+      "question": "How many times bigger does Earth appear from the moon compared to how the moon appears from Earth?",
+      "options": [
+        "13 times bigger",
+        "6 times bigger",
+        "2 times bigger",
+        "Same size"
+      ],
+      "correctAnswer": "A",
+      "explanation": "From the moon, Earth appears 13 times bigger than the moon appears when seen from Earth.",
+      "conceptIds": [2],
+      "pageReference": "26"
+    },
+    {
+      "id": "q4",
+      "question": "Why is Neil Armstrong's footprint still preserved on the moon?",
+      "options": [
+        "There is no wind or rain on the moon to erase it",
+        "The moon's soil is very hard like rock",
+        "Someone covers it with glass",
+        "The moon is too cold to change"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The moon has no atmosphere, so there is no wind or rain to disturb the surface. Armstrong's footprint made in 1969 is still perfectly preserved.",
+      "conceptIds": [3],
+      "pageReference": "26-27"
+    },
+    {
+      "id": "q5",
+      "question": "When did Neil Armstrong first walk on the moon?",
+      "options": [
+        "20 July 1969",
+        "4 October 1957",
+        "12 April 1961",
+        "21 July 1984"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Neil Armstrong first walked on the moon on 20 July 1969 as part of the NASA Apollo 11 mission.",
+      "conceptIds": [3],
+      "pageReference": "26-27"
+    },
+    {
+      "id": "q6",
+      "question": "Why were Sayali's earrings too heavy when she returned to Earth?",
+      "options": [
+        "Earth's gravity is 6 times stronger than moon's gravity",
+        "The earrings were made of heavy moon rock",
+        "The earrings expanded when she came back to Earth",
+        "Sayali was tired from the journey"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The earrings felt light on the moon because of low gravity, but on Earth with full gravity (6 times stronger), the same earrings became impossibly heavy.",
+      "conceptIds": [4],
+      "pageReference": "27-28"
+    },
+    {
+      "id": "q7",
+      "question": "What is the collective noun for a group of astronauts?",
+      "options": [
+        "Crew",
+        "Flock",
+        "Herd",
+        "Pack"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A crew of astronauts is the correct collective noun. 'Crew' is also used for sailors and workers.",
+      "conceptIds": [5],
+      "pageReference": "28"
+    },
+    {
+      "id": "q8",
+      "question": "What shape are the moon settlements described as in the story?",
+      "options": [
+        "Dome-shaped like igloos",
+        "Box-shaped like containers",
+        "Pyramid-shaped",
+        "Flat like tents"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The moon settlements in the story are described as dome-shaped, like igloos, to maintain pressure and protect inhabitants.",
+      "conceptIds": [2],
+      "pageReference": "25"
+    },
+    {
+      "id": "q9",
+      "question": "What mistake does the story warn against?",
+      "options": [
+        "Buying from unauthorized sellers",
+        "Going on school trips",
+        "Looking at the stars",
+        "Forgetting to wear a space suit"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sayali buys earrings from an unauthorized seller outside the moon settlement. The story teaches us not to buy from unauthorized sellers.",
+      "conceptIds": [4],
+      "pageReference": "27-28"
+    },
+    {
+      "id": "q10",
+      "question": "What is the collective noun for a group of ships?",
+      "options": [
+        "Fleet",
+        "Crew",
+        "Class",
+        "Team"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A fleet of ships is the correct collective noun. Fleet is also used for a group of aircraft or cars.",
+      "conceptIds": [5],
+      "pageReference": "28"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "The Souvenir is a science-fiction story translated from Marathi by Lakshman Londhe",
+      "Sayali goes on a school trip to the moon",
+      "Moon's gravity = 1/6th of Earth's gravity",
+      "Moon settlements are dome-shaped like igloos",
+      "Stars are dazzlingly bright on the moon; sky is black; no atmosphere",
+      "Earth appears 13 times bigger from the moon",
+      "Neil Armstrong was first human to walk on the moon (20 July 1969, Apollo 11)",
+      "Armstrong's footprint preserved — no wind or rain on moon",
+      "Sayali's earrings feel light on moon but too heavy on Earth — gravity difference",
+      "Collective nouns: crew (astronauts), fleet (ships), bunch (flowers), pack (wolves)"
+    ],
+    "commonMisconceptions": [
+      "The moon has weather like Earth — FALSE (no atmosphere means no wind, rain, or weather)",
+      "You would float away on the moon — NOT EXACTLY (you feel lighter but still stay on the ground)",
+      "Armstrong's footprint would have been erased by now — FALSE (no wind or rain to erase it)",
+      "Objects weigh the same on the moon and Earth — FALSE (objects weigh 1/6th as much on the moon)"
+    ],
+    "realWorldExamples": [
+      "ISRO's Chandrayaan missions — India's lunar exploration programme",
+      "Chandrayaan-3 successfully landed near the moon's south pole in 2023 — India became 4th country to land on moon",
+      "Rakesh Sharma — first Indian in space (1984, aboard Soviet Soyuz T-11)",
+      "Science fiction in Marathi literature — examples include works by S.D. Panvalkar",
+      "Indian Space Research Organisation (ISRO) headquarters in Bengaluru"
+    ],
+    "formulas": []
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "chapterNumber": 16,
+    "title": "A Crow in the House",
+    "subject": "English",
+    "pages": "64-67",
+    "description": "A delightful story by Ruskin Bond about a young crow named Caesar who falls from his nest and is rescued by the narrator and his Grandfather. Caesar proceeds to cause delightful chaos in the household. The chapter also covers Subject Complement and Object Complement."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_16_1",
+      "question": "Who wrote the story 'A Crow in the House'?",
+      "options": ["A) Rabindranath Tagore", "B) Ruskin Bond", "C) R.K. Narayan", "D) Vikram Seth"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_16_1"
+    },
+    {
+      "id": "pre_16_2",
+      "question": "What was the young crow named?",
+      "options": ["A) Brutus", "B) Julius", "C) Caesar", "D) Nero"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_16_1"
+    },
+    {
+      "id": "pre_16_3",
+      "question": "What did Caesar collect and hide on top of the cupboard?",
+      "options": ["A) Coins", "B) Buttons", "C) Pens", "D) Toothbrushes"],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "conceptId": "concept_16_3"
+    },
+    {
+      "id": "pre_16_4",
+      "question": "In 'I am hungry', what is the Subject Complement?",
+      "options": ["A) I", "B) am", "C) hungry", "D) There is no subject complement"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_16_5"
+    },
+    {
+      "id": "pre_16_5",
+      "question": "What did the Grandfather use to help feed the baby crow?",
+      "options": ["A) Tea and biscuits", "B) Milk and honey", "C) Bread and milk and Grandmother's plum wine", "D) Rice and fish"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_16_1"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_16_1",
+      "title": "Caesar's Rescue",
+      "emoji": "🐦",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The story 'A Crow in the House' is written by Ruskin Bond, one of India's most beloved English authors, famous for his stories set in the Himalayan region. The story begins when a young crow falls from its nest. The narrator and his Grandfather find it and decide to rescue it. They feed it bread and milk and even some of Grandmother's plum wine to revive it. The crow survives and is named Caesar — a powerful and amusing name for a cheeky crow! The Grandfather has a soft heart for animals, and together they nurse Caesar back to health. Caesar quickly becomes a member of the household. The rescue shows the kindness and love of the family for animals — a theme common in Ruskin Bond's stories.",
+      "pageReference": "Pages 64-67",
+      "examples": [
+        "Ruskin Bond has written many animal stories for children — including stories about mongooses, pythons, and deer.",
+        "Naming a crow 'Caesar' (after the great Roman ruler Julius Caesar) is funny because crows are ordinary birds, not grand emperors!",
+        "In India, many families keep injured birds and animals and nurse them back to health before releasing them."
+      ],
+      "keyPoints": [
+        "Author: Ruskin Bond — famous Indian English writer, known for stories about nature and animals",
+        "A young crow falls from its nest and is rescued by the narrator and Grandfather",
+        "Fed bread, milk, and Grandmother's plum wine to revive it",
+        "Named Caesar — a humorous name for a crow",
+        "The story shows kindness towards animals"
+      ],
+      "funFact": "Ruskin Bond has been writing for over 60 years! He lives in Landour near Mussoorie in Uttarakhand and still writes every day. He received the Padma Shri award from the Indian government for his contribution to literature.",
+      "textbookRef": "Chapter 16, Pages 64-67, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_16_2",
+      "title": "Caesar's Tricks at Home",
+      "emoji": "😈",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Once Caesar settles in, he becomes an absolute chaos-creator in the house! He loves dancing on the dining table — hopping and strutting around at mealtimes. He empties matchboxes — pulling out all the matchsticks and scattering them. He tears newspapers to shreds — just for fun! He tugs the dog's tail repeatedly, making the dog yelp and run away. He also learns to speak! Caesar learns to say 'Hello hello' and 'Kiss Kiss' — which surprises and delights everyone. Crows are very intelligent birds and can mimic human speech. Caesar becomes the star of the household but also its biggest troublemaker. The family finds his antics amusing even when he creates mess and mischief.",
+      "pageReference": "Pages 64-67",
+      "examples": [
+        "Like Caesar, pet parrots in Indian homes also learn to say greetings like 'Kem cho' or 'Namaste' — birds are great mimics!",
+        "Tearing newspapers is what puppies and kittens also do — Caesar behaves like a naughty pet baby!",
+        "Crows are scientifically proven to be among the most intelligent birds — as smart as some monkeys."
+      ],
+      "keyPoints": [
+        "Caesar dances on the dining table at mealtimes",
+        "Empties matchboxes and scatters matchsticks everywhere",
+        "Tears newspapers into shreds",
+        "Tugs the dog's tail, annoying it",
+        "Learns to say 'Hello hello' and 'Kiss Kiss' — shows how intelligent crows are"
+      ],
+      "funFact": "Crows can recognise human faces! Scientists have proven that crows remember people who were kind to them and people who were mean. They even bring small gifts to people they like — just like Caesar!",
+      "textbookRef": "Chapter 16, Pages 64-67, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_16_3",
+      "title": "Caesar's Anti-Social Behaviour with Neighbours",
+      "emoji": "🏘️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Caesar does not limit his mischief to the narrator's house — he extends it to the whole neighbourhood! His most famous trick is stealing toothbrushes from the neighbours' bathrooms and balconies. He collects all these stolen toothbrushes and hides them on top of a cupboard — his private 'treasure collection'. He also steals clothes pegs from the neighbours' clotheslines, causing laundry to fall down. The neighbours are naturally annoyed. This section of the story is very funny — the image of a crow flying away with toothbrushes is hilarious! It shows that crows are naturally attracted to shiny and colourful objects. Caesar's collection of toothbrushes becomes his proudest possession.",
+      "pageReference": "Pages 64-67",
+      "examples": [
+        "Crows and magpies both love collecting shiny objects — scientists believe they think these items are food or gifts for mates.",
+        "In many Indian neighbourhoods, crows steal small food items, hair clips, and even mobile charger cables left outside!",
+        "Caesar hiding his toothbrush collection is like a child hiding sweets — he thinks no one knows, but everyone does."
+      ],
+      "keyPoints": [
+        "Caesar steals toothbrushes from neighbours' bathrooms and balconies",
+        "He hides all the toothbrushes on top of a cupboard — his 'treasure collection'",
+        "He steals clothes pegs from neighbours' clotheslines",
+        "Neighbours are annoyed by his behaviour",
+        "Shows how crows are attracted to collecting objects"
+      ],
+      "funFact": "In 2015, a girl in Seattle, USA, reported that her local crows were bringing her small gifts — buttons, earrings, and pieces of glass — in exchange for food she left for them. Crows really do collect and share treasures!",
+      "textbookRef": "Chapter 16, Pages 64-67, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_16_4",
+      "title": "Caesar's Sad End",
+      "emoji": "💔",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Caesar's end is both sad and funny. One day he wanders into a neighbour's garden and starts breaking beans — pulling the bean plants and breaking them for fun. A neighbour hits him with a stick, breaking Caesar's leg. Despite the family's care, Caesar does not recover and dies. The family is genuinely heartbroken. They bury Caesar in the garden with great care — and importantly, they bury him along with his beloved collection of stolen toothbrushes. This final detail is very touching and funny at the same time. It shows that Caesar was truly a member of the family, loved and respected for his unique personality. The story is a sweet, warm tribute to the joy that animals bring into our lives.",
+      "pageReference": "Pages 64-67",
+      "examples": [
+        "Many Indian families bury or perform last rites for beloved pets when they pass away — it is an expression of love.",
+        "Breaking beans in the neighbour's garden shows Caesar's naughty curiosity — he couldn't resist investigating everything.",
+        "The toothbrush collection being buried with Caesar is like a child being buried with their favourite toy — a deeply touching idea."
+      ],
+      "keyPoints": [
+        "Caesar breaks beans in a neighbour's garden and is hit with a stick",
+        "His leg is broken and he does not recover",
+        "Caesar dies and the family is heartbroken",
+        "He is buried in the garden with his collection of stolen toothbrushes",
+        "The story ends with both sadness and warmth — Caesar was truly loved"
+      ],
+      "funFact": "Ruskin Bond has written about many real animals he has known in his life. He believes that animals teach us about joy, loyalty, and living in the present moment — all lessons Caesar taught his family!",
+      "textbookRef": "Chapter 16, Pages 64-67, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_16_5",
+      "title": "Grammar — Subject and Object Complements",
+      "emoji": "📝",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "A complement completes the meaning of a sentence. There are two types: Subject Complement and Object Complement. A Subject Complement describes or identifies the subject and comes after a linking verb (am, is, are, was, were, became, seems, looks). It can be an adjective or noun. Examples: 'I am hungry' — 'hungry' is the subject complement (describes 'I'). 'My sister became a teacher' — 'a teacher' is the subject complement (identifies what she became). An Object Complement describes or identifies the object of the sentence. It comes after the direct object. Example: 'The class made her the monitor' — 'the monitor' is the object complement (it tells us what 'her' — the object — became). Think of it as: Subject Complement talks about the SUBJECT; Object Complement talks about the OBJECT.",
+      "pageReference": "Pages 64-67",
+      "examples": [
+        "'I am hungry' — Subject: I; Linking verb: am; Subject Complement: hungry (adjective)",
+        "'My sister became a teacher' — Subject: my sister; Linking verb: became; Subject Complement: a teacher (noun)",
+        "'The class made her the monitor' — Object: her; Object Complement: the monitor (noun)"
+      ],
+      "keyPoints": [
+        "Subject Complement = describes or identifies the SUBJECT after a linking verb",
+        "Linking verbs: am, is, are, was, were, became, seems, looks, feels",
+        "Object Complement = describes or identifies the OBJECT of the sentence",
+        "Subject Complement example: 'She looks tired' — 'tired' describes the subject 'she'",
+        "Object Complement example: 'They elected him captain' — 'captain' tells what 'him' became"
+      ],
+      "funFact": "In Sanskrit grammar (which influenced Hindi and Marathi), there is also a concept called 'Vidheyatavisheshana' which is similar to Subject Complement — describing the subject! English and Indian languages share surprising grammatical similarities.",
+      "textbookRef": "Chapter 16, Pages 64-67, Maharashtra Board 7th Grade English"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_16_1",
+      "question": "Who wrote 'A Crow in the House'?",
+      "options": ["A) Vikram Seth", "B) R.K. Narayan", "C) Ruskin Bond", "D) Khushwant Singh"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Ruskin Bond is the author of 'A Crow in the House'. He is one of India's most loved English writers, famous for his stories about nature, animals, and the Himalayan region."
+    },
+    {
+      "id": "test_16_2",
+      "question": "What was the young crow named?",
+      "options": ["A) Brutus", "B) Caesar", "C) Marcus", "D) Apollo"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "The young crow was named Caesar — a humorous and grand name for a small crow, named after the famous Roman ruler Julius Caesar."
+    },
+    {
+      "id": "test_16_3",
+      "question": "What did Caesar learn to say?",
+      "options": ["A) 'Good morning' and 'Goodbye'", "B) 'Hello hello' and 'Kiss Kiss'", "C) 'Pretty bird' and 'Thank you'", "D) 'Caesar' and 'Help'"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Caesar learned to say 'Hello hello' and 'Kiss Kiss', showing how intelligent crows are and how they can mimic human speech."
+    },
+    {
+      "id": "test_16_4",
+      "question": "Where did Caesar hide his collection of stolen toothbrushes?",
+      "options": ["A) Under the bed", "B) In the garden", "C) On top of the cupboard", "D) In the narrator's bag"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Caesar hid all the stolen toothbrushes on top of a cupboard — his private treasure collection. He stole toothbrushes from the neighbours' bathrooms and balconies."
+    },
+    {
+      "id": "test_16_5",
+      "question": "What caused Caesar's death?",
+      "options": ["A) He fell from a tall tree", "B) He was hit by a car", "C) His leg was broken by a stick while breaking beans in a neighbour's garden", "D) He ate something poisonous"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Caesar was breaking beans in a neighbour's garden when the neighbour hit him with a stick, breaking his leg. Despite the family's care, he did not recover and died."
+    },
+    {
+      "id": "test_16_6",
+      "question": "In 'My sister became a teacher', what is the Subject Complement?",
+      "options": ["A) My sister", "B) became", "C) a teacher", "D) There is none"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "'A teacher' is the Subject Complement. It comes after the linking verb 'became' and identifies what the subject (my sister) became."
+    },
+    {
+      "id": "test_16_7",
+      "question": "In 'The class made her the monitor', what is the Object Complement?",
+      "options": ["A) The class", "B) made", "C) her", "D) the monitor"],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": "'The monitor' is the Object Complement. It describes or identifies the direct object 'her' — it tells us what 'her' became or was made into."
+    },
+    {
+      "id": "test_16_8",
+      "question": "What did Caesar do with matchboxes?",
+      "options": ["A) He set fire to them", "B) He collected them", "C) He emptied them by pulling out all the matchsticks", "D) He used them as toys"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Caesar loved to empty matchboxes — he would pull out all the matchsticks from the boxes and scatter them around, creating a mess."
+    },
+    {
+      "id": "test_16_9",
+      "question": "What was Caesar buried with when he died?",
+      "options": ["A) His favourite food", "B) His stolen toothbrush collection", "C) A newspaper", "D) The dog's toy"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Caesar was buried with his beloved collection of stolen toothbrushes — showing how much the family respected and loved him as a true member of their family."
+    },
+    {
+      "id": "test_16_10",
+      "question": "Which linking verb is used in 'She looks tired'?",
+      "options": ["A) She", "B) looks", "C) tired", "D) None of these"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "'Looks' is the linking verb in this sentence. 'Tired' is the Subject Complement — it describes the subject 'she' by coming after the linking verb 'looks'."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Author Ruskin Bond — Indian English author, Padma Shri awardee",
+      "Caesar — young crow rescued by narrator and Grandfather",
+      "Caesar's tricks: dancing on table, emptying matchboxes, tearing newspapers, tugging dog's tail",
+      "Caesar's speech: learned to say 'Hello hello' and 'Kiss Kiss'",
+      "Stolen toothbrush collection hidden on cupboard",
+      "Caesar's sad end — leg broken by stick, dies, buried with toothbrushes",
+      "Subject Complement — describes subject after linking verb",
+      "Object Complement — describes object after direct object"
+    ],
+    "commonMisconceptions": [
+      "Students may think a Subject Complement must always be an adjective — it can be a noun too (e.g., 'She became a doctor').",
+      "Students may confuse Subject Complement with Direct Object — the difference is that Subject Complement comes after a LINKING verb (am, is, became), not an action verb.",
+      "Students may think Object Complement is the same as Indirect Object — they are different. Object Complement DESCRIBES the object; Indirect Object is a person receiving the action.",
+      "Caesar is described as 'anti-social' with neighbours — but the term means he disturbed social harmony, not that he was shy or unfriendly."
+    ],
+    "realWorldExamples": [
+      "Ruskin Bond's stories are set in Uttarakhand and Himachal Pradesh — just like many Indian children who keep pet birds and nurse them back to health.",
+      "Crows in India are very common and considered sacred in some traditions — the annual 'Shradh' ceremony involves feeding crows to honour ancestors.",
+      "In Pune and Mumbai, crows famously steal food from plates on balconies — Caesar's behaviour would be very familiar to Maharashtra students!",
+      "Naming a pet after a historical figure (like Caesar) is a common and fun Indian tradition — many pets are named after famous people."
+    ],
+    "formulas": []
+  }
+}

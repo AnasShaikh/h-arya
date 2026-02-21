@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "chapterNumber": 19,
+    "title": "Think Before You Speak",
+    "subject": "English",
+    "pages": "75-77",
+    "description": "A wisdom-filled lesson about the importance of thinking carefully before speaking. The chapter uses the analogy of a funnel (ears always open) and scattered paper (words can't be taken back), and Socrates' three-question test for speech. Grammar focus: Adverbials."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_19_1",
+      "question": "Who said 'Nature gave us two ears and one mouth — we should listen more'?",
+      "options": ["A) Mahatma Gandhi", "B) Benjamin Disraeli", "C) Socrates", "D) Shakespeare"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_19_1"
+    },
+    {
+      "id": "pre_19_2",
+      "question": "What does 'Of the unspoken word you are master, of the spoken word you are a slave' mean?",
+      "options": ["A) Speaking is better than silence", "B) You cannot control words once they are spoken", "C) Masters speak more than slaves", "D) Words are more powerful than actions"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_19_2"
+    },
+    {
+      "id": "pre_19_3",
+      "question": "What is the FIRST of Socrates' three questions to ask before speaking?",
+      "options": ["A) Is it pleasant?", "B) Is it useful?", "C) Is it true?", "D) Is it kind?"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_19_3"
+    },
+    {
+      "id": "pre_19_4",
+      "question": "In the spiritual teacher's story, what does the scattering of torn paper pieces represent?",
+      "options": ["A) Freedom of expression", "B) The impossibility of taking back harsh words once spoken", "C) How words spread good news", "D) The power of writing letters"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_19_2"
+    },
+    {
+      "id": "pre_19_5",
+      "question": "Which of these is an adverbial phrase?",
+      "options": ["A) 'the bright sun'", "B) 'she and I'", "C) 'on the playground'", "D) 'a tall building'"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_19_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_19_1",
+      "title": "Listen More, Talk Less",
+      "emoji": "👂",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The chapter begins with a wise quote from Benjamin Disraeli, the famous British Prime Minister: 'Nature gave us two ears and one mouth — we should listen twice as much as we speak.' The message is clear: we should listen more and speak less. Our ears are always open — they have no doors, no off switch. They are like funnels, always receiving sounds and information. But our mouths need to be controlled. Before speaking, words must pass through two 'fences' — the teeth and the lips. This is a beautiful metaphor meaning that we should pause and think before the words come out. The chapter encourages children to be good listeners — a skill that is just as important as speaking.",
+      "pageReference": "Pages 75-77",
+      "examples": [
+        "Benjamin Disraeli was twice Prime Minister of England — a great leader who believed that listening was more important than speaking.",
+        "In a classroom, a student who listens carefully will understand the lesson better than one who is busy talking.",
+        "In Indian tradition, elders are respected partly because they listen patiently before giving advice — like a guru listening to a disciple."
+      ],
+      "keyPoints": [
+        "Benjamin Disraeli: 'Nature gave us two ears and one mouth — listen more'",
+        "Ears are like funnels — always open, always receiving",
+        "Words must pass through two fences: teeth and lips — think before speaking",
+        "Listening is a skill as important as speaking",
+        "Good listeners understand and respond better than hasty speakers"
+      ],
+      "funFact": "Benjamin Disraeli and his rival William Gladstone were both British Prime Ministers in the 1800s. They had completely different personalities — Disraeli was witty and quick, Gladstone was formal and serious. Their rivalry was one of the greatest in British political history!",
+      "textbookRef": "Chapter 19, Pages 75-77, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_19_2",
+      "title": "Words are Like Scattered Paper",
+      "emoji": "📄",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The chapter includes a powerful story from a spiritual teacher. A young man had hurt his friend with harsh, unkind words. Feeling sorry, he went to his teacher. The teacher told him: write down all the harsh things you said on a piece of paper, then tear the paper into small pieces and throw them into the wind. The young man did this. Then the teacher said: now go and collect all the pieces. Of course, it was impossible — the pieces had scattered in the wind. The teacher's lesson: just as you cannot collect scattered paper pieces, you cannot take back harsh words once spoken. They go out into the world and hurt people, and no apology can completely undo that hurt. This is why we must think carefully before we speak.",
+      "pageReference": "Pages 75-77",
+      "examples": [
+        "If you call a classmate a hurtful name in front of others, even if you apologise later, they may still feel hurt — the word has already left its mark.",
+        "Words spread on social media are also like scattered paper — once a harsh message is shared, it cannot be taken back even if deleted.",
+        "In Marathi, there is a saying: 'Bolalela shabd ani sodlelela ban yenashat mage' — a spoken word and a shot arrow cannot return."
+      ],
+      "keyPoints": [
+        "Spiritual teacher's lesson: harsh words are like scattered paper pieces — impossible to take back",
+        "Quote: 'Of the unspoken word you are master, of the spoken word you are a slave'",
+        "Once words are spoken, they go out into the world and affect people",
+        "An apology can express regret but cannot fully undo the hurt caused by harsh words",
+        "Think before you speak — especially when angry or upset"
+      ],
+      "funFact": "Scientists have found that the brain processes emotional pain (from harsh words) in the same area as physical pain. So hurtful words literally cause a kind of pain that can last a long time — which is why the scattered paper lesson is so true!",
+      "textbookRef": "Chapter 19, Pages 75-77, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_19_3",
+      "title": "Socrates' Three Questions",
+      "emoji": "🏛️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Socrates was one of the greatest philosophers of ancient Greece. He gave us a simple but powerful test for deciding whether something should be spoken. Before speaking, ask yourself three questions: (1) Is it TRUE? — Does it contain accurate, verified information? (2) Is it PLEASANT? — Will it make the listener feel good, or will it cause hurt? (3) Is it USEFUL? — Does saying this serve a good purpose? If what you are about to say fails all three tests — if it is not true, not pleasant, and not useful — then do not say it at all. This three-question filter helps us avoid spreading lies, hurting people unnecessarily, or wasting words on things that serve no purpose.",
+      "pageReference": "Pages 75-77",
+      "examples": [
+        "Before telling a rumour about a classmate, ask: Is it TRUE? (Do I know for sure?) Is it PLEASANT? (Will it hurt them?) Is it USEFUL? (Does it need to be said?) — If all three are 'No', stay silent.",
+        "Giving feedback to a friend: Is it TRUE? Yes. Is it PLEASANT? Maybe not. Is it USEFUL? Yes. — Then say it kindly.",
+        "In Gandhi's philosophy of Satya (truth) and Ahimsa (non-violence in words and actions), these same three principles are present."
+      ],
+      "keyPoints": [
+        "Socrates — ancient Greek philosopher",
+        "Three questions before speaking: (1) Is it TRUE? (2) Is it PLEASANT? (3) Is it USEFUL?",
+        "If the answer to all three is 'No', do not speak",
+        "This filter prevents lies, unnecessary hurt, and purposeless speech",
+        "A simple but powerful guide for responsible communication"
+      ],
+      "funFact": "Socrates never wrote anything down! All his wisdom was recorded by his student Plato. The famous Socratic method — asking questions to find truth — is still used in universities and law courts around the world, including in India!",
+      "textbookRef": "Chapter 19, Pages 75-77, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_19_4",
+      "title": "The Young Man's Lesson",
+      "emoji": "🌬️",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The story of the young man in the chapter brings together all the chapter's wisdom in a practical, memorable lesson. The young man used harsh words against a friend in a moment of anger. He regretted it and went to his spiritual teacher. The teacher did not lecture him with long speeches. Instead, he gave him a practical experience: write, tear, throw — and then try to collect. The impossible task of collecting scattered paper made the lesson unforgettable. The young man realised that words, once released, are beyond our control. The lesson for all of us: anger is temporary, but the damage caused by words spoken in anger can last a long time. The best solution is to pause, think, and speak only after applying Socrates' three questions.",
+      "pageReference": "Pages 75-77",
+      "examples": [
+        "The young man's experience is similar to what many of us have faced — saying something in anger and then wishing we hadn't.",
+        "The teacher chose a practical lesson over a lecture — showing that experiencing something is more powerful than just hearing about it.",
+        "Mahatma Gandhi believed in 'pause before you speak' — he would often take a few seconds before responding to difficult questions."
+      ],
+      "keyPoints": [
+        "Young man hurt friend with harsh words — felt guilty and went to teacher",
+        "Teacher's lesson: write harsh words, tear them, throw in the wind, then try to collect",
+        "The impossible collection = impossible to take back spoken words",
+        "Anger is temporary; word-hurt can last long",
+        "Best practice: pause, think, apply Socrates' three questions before speaking"
+      ],
+      "funFact": "Research shows that the human brain takes about 6 seconds for an emotional reaction to pass through the logical thinking part. So literally pausing for just 6 seconds before responding to something that upsets you can prevent you from saying something you'll regret!",
+      "textbookRef": "Chapter 19, Pages 75-77, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_19_5",
+      "title": "Grammar — Adverbials",
+      "emoji": "📐",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "An adverbial is a word, phrase, or clause that functions as an adverb — it modifies (gives more information about) a verb, adjective, or another adverb. It answers questions like: When? Where? How? Why? How much? An adverbial can be: (1) A single adverb: 'She ran quickly.' — 'quickly' is an adverb. (2) An adverbial phrase: 'We played on the playground.' — 'on the playground' is a phrase acting as an adverb (tells where). (3) An adverbial clause: 'I will go when the bell rings.' — 'when the bell rings' is a clause acting as an adverb (tells when). Adverbials make sentences more informative by adding details about time, place, manner, and reason.",
+      "pageReference": "Pages 75-77",
+      "examples": [
+        "'We played on the playground.' — 'on the playground' is an adverbial PHRASE (tells WHERE we played).",
+        "'I will go when the bell rings.' — 'when the bell rings' is an adverbial CLAUSE (tells WHEN I will go).",
+        "'She spoke very softly.' — 'very softly' is an adverbial phrase (tells HOW she spoke)."
+      ],
+      "keyPoints": [
+        "Adverbial = a word, phrase, or clause that functions like an adverb",
+        "Answers: When? Where? How? Why? How much?",
+        "Adverbial word: 'She ran quickly' — 'quickly'",
+        "Adverbial phrase: 'We played on the playground' — 'on the playground'",
+        "Adverbial clause: 'I will go when the bell rings' — 'when the bell rings'"
+      ],
+      "funFact": "In Marathi, adverbials are called 'Kriyavisheshane' (words that modify the verb). Both in English and Marathi, these words answer the same questions: When? (Keव्हा?), Where? (Kुठे?), How? (Kसा?). Grammar is similar across languages!",
+      "textbookRef": "Chapter 19, Pages 75-77, Maharashtra Board 7th Grade English"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_19_1",
+      "question": "Who said 'Nature gave us two ears and one mouth — we should listen more'?",
+      "options": ["A) Socrates", "B) Benjamin Disraeli", "C) Mahatma Gandhi", "D) Shakespeare"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "Benjamin Disraeli, the famous British Prime Minister, said this. He emphasized the importance of listening over speaking, noting that we have two ears but only one mouth."
+    },
+    {
+      "id": "test_19_2",
+      "question": "In the spiritual teacher's story, what was the young man asked to do with the paper?",
+      "options": ["A) Read it, fold it, and keep it", "B) Write harsh words, burn the paper, and scatter the ashes", "C) Write harsh words, tear the paper, throw the pieces in the wind, then try to collect them", "D) Write kind words and give them to his friend"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "The spiritual teacher asked the young man to write his harsh words on paper, tear it into pieces, throw them into the wind, and then try to collect all the pieces — which proved impossible, just like taking back spoken words."
+    },
+    {
+      "id": "test_19_3",
+      "question": "What does 'Of the unspoken word you are master, of the spoken word you are a slave' mean?",
+      "options": ["A) You are in control of words you haven't spoken, but once spoken you cannot take them back", "B) Masters speak; slaves are silent", "C) Speaking is more powerful than silence", "D) Slaves are not allowed to speak"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "explanation": "This quote means: you are in control (master) of words you haven't spoken yet. But once you speak them, you become a slave to the consequences — you cannot take them back."
+    },
+    {
+      "id": "test_19_4",
+      "question": "What is the THIRD of Socrates' three questions?",
+      "options": ["A) Is it true?", "B) Is it pleasant?", "C) Is it useful?", "D) Is it kind?"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Socrates' three questions before speaking are: (1) Is it true? (2) Is it pleasant? (3) Is it useful? If none of these is 'yes', then the words should not be spoken."
+    },
+    {
+      "id": "test_19_5",
+      "question": "The ears are compared to a funnel in the chapter. What does this comparison mean?",
+      "options": ["A) Ears are shaped exactly like funnels", "B) Ears are always open and receiving — like a funnel with no door to close", "C) Funnels are used to clean ears", "D) Ears make a funnel-like sound"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "Ears are compared to funnels because both are always open — you cannot close your ears the way you can close your mouth. The funnel is open at both ends and always receiving, just like our ears."
+    },
+    {
+      "id": "test_19_6",
+      "question": "In 'We played on the playground', what type of adverbial is 'on the playground'?",
+      "options": ["A) Adverbial word", "B) Adverbial phrase", "C) Adverbial clause", "D) It is not an adverbial"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "'On the playground' is an adverbial phrase. It is a group of words (not a complete clause with a verb) that functions as an adverb, telling us WHERE we played."
+    },
+    {
+      "id": "test_19_7",
+      "question": "In 'I will go when the bell rings', what type of adverbial is 'when the bell rings'?",
+      "options": ["A) Adverbial word", "B) Adverbial phrase", "C) Adverbial clause", "D) It is an adjective clause"],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": "'When the bell rings' is an adverbial clause — it has a subject ('the bell') and a verb ('rings') and functions as an adverb, telling us WHEN I will go."
+    },
+    {
+      "id": "test_19_8",
+      "question": "What is the main lesson of the chapter 'Think Before You Speak'?",
+      "options": ["A) Speak as much as possible to share your thoughts", "B) Never speak at all", "C) Words once spoken cannot be taken back, so think carefully before you speak", "D) Only wise people should speak in public"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "The main lesson is that words, once spoken, cannot be taken back — like scattered pieces of paper in the wind. So we should always think carefully before speaking, using the guidance of Socrates' three questions."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Benjamin Disraeli — two ears, one mouth — listen more",
+      "Ears like funnels — always open, no door",
+      "Two fences before speaking: teeth and lips — think before you speak",
+      "Spiritual teacher's story — scattered paper = words that can't be taken back",
+      "Quote: 'Of the unspoken word you are master, of the spoken word you are a slave'",
+      "Socrates' three questions: Is it true? Is it pleasant? Is it useful?",
+      "Adverbials: word (quickly), phrase (on the playground), clause (when the bell rings)"
+    ],
+    "commonMisconceptions": [
+      "Students may confuse an adverbial PHRASE with an adverbial CLAUSE — a phrase has no verb, a clause has its own subject and verb.",
+      "Students may think Socrates' test means you should never say anything unpleasant — sometimes necessary feedback is unpleasant but useful and true (it passes 2 out of 3 tests).",
+      "The 'two fences' metaphor (teeth and lips) does not mean we should never speak — it means we should pause and think, not stay silent all the time.",
+      "Adverbials can modify not just verbs but also adjectives ('very tall') and other adverbs ('very quickly') — students often think they only modify verbs."
+    ],
+    "realWorldExamples": [
+      "In Indian culture, the concept of 'Maunam' (silence/mindful speech) in yoga and spirituality echoes the chapter's message about thinking before speaking.",
+      "Cyberbullying in India — harsh words sent on social media are also like scattered paper, impossible to take back once shared.",
+      "Marathi saying: 'Bolalela shabd ani sodlelela ban yenashat mage' — a spoken word and a shot arrow cannot return — same lesson as the scattered paper story.",
+      "Panchayat meetings and village councils in India value the elder who listens patiently before giving wise advice — Disraeli's principle in action."
+    ],
+    "formulas": []
+  }
+}

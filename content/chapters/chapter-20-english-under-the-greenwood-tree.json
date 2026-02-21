@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "chapterNumber": 20,
+    "title": "Under the Greenwood Tree",
+    "subject": "English",
+    "pages": "79-80",
+    "description": "A song by William Shakespeare from the play 'As You Like It'. The song invites those who have given up ambition and worldly pursuits to come live a simple, free life in the forest, singing to the birds, with no enemy but winter and rough weather."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_20_1",
+      "question": "Who wrote 'Under the Greenwood Tree'?",
+      "options": ["A) John Milton", "B) William Shakespeare", "C) Charles Dickens", "D) Walter de la Mare"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_20_1"
+    },
+    {
+      "id": "pre_20_2",
+      "question": "From which play is the song 'Under the Greenwood Tree' taken?",
+      "options": ["A) A Midsummer Night's Dream", "B) Hamlet", "C) As You Like It", "D) Romeo and Juliet"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_20_1"
+    },
+    {
+      "id": "pre_20_3",
+      "question": "What does the old English word 'hither' mean?",
+      "options": ["A) Away", "B) Here", "C) There", "D) Far"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_20_4"
+    },
+    {
+      "id": "pre_20_4",
+      "question": "Who is invited in the song to come under the greenwood tree?",
+      "options": ["A) Rich and ambitious people", "B) Those who have given up ambition", "C) Kings and queens", "D) Children going to school"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_20_3"
+    },
+    {
+      "id": "pre_20_5",
+      "question": "According to the song, what is the only enemy in the greenwood forest life?",
+      "options": ["A) Wild animals", "B) Hunger and poverty", "C) Winter and rough weather", "D) Other people"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_20_2"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_20_1",
+      "title": "Shakespeare and 'As You Like It'",
+      "emoji": "🎭",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "William Shakespeare (1564–1616) is widely considered the greatest writer in the English language. He wrote 37 plays, 154 sonnets, and many poems. 'As You Like It' is one of his famous comedies, written around 1599. The play is set partly in the Forest of Arden, a magical place where characters who have been unfairly treated in court (real life) escape to live freely and honestly. 'Under the Greenwood Tree' is a song sung in this play by a character named Amiens. The song captures the play's central idea: the simple, free forest life is more joyful and honest than the complicated, corrupt life at court with all its ambition, politics, and competition.",
+      "pageReference": "Pages 79-80",
+      "examples": [
+        "Shakespeare's plays are performed all over the world — in London's Globe Theatre, in Mumbai's Prithvi Theatre, and in schools across Maharashtra.",
+        "'As You Like It' is a comedy — it has misunderstandings, disguises, and a happy ending, unlike his tragedies like Hamlet.",
+        "The Forest of Arden in the play represents a place of freedom and honest living — like India's forest ashrams where saints lived simply."
+      ],
+      "keyPoints": [
+        "William Shakespeare (1564–1616) — greatest English writer, wrote 37 plays",
+        "'As You Like It' is a comedy set partly in the Forest of Arden",
+        "The forest = freedom from ambition, politics, and corruption",
+        "'Under the Greenwood Tree' is sung by character Amiens in the play",
+        "The song expresses the play's theme: simple life > ambitious worldly life"
+      ],
+      "funFact": "William Shakespeare was born and died on the same date — April 23rd! He was born on April 23, 1564 and died on April 23, 1616. April 23 is now celebrated as World Book Day in his honour!",
+      "textbookRef": "Chapter 20, Pages 79-80, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_20_2",
+      "title": "Meaning of the Song",
+      "emoji": "🌳",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The song invites people to come under the greenwood tree (a large, shady tree in the forest) and sing along with the sweet bird's throat — meaning to sing as freely and naturally as birds do. The singer says: here, there is no enemy except winter and rough weather. This means: in the forest, the only challenges are natural ones like cold and storms. There are no human enemies — no jealousy, competition, backstabbing, false friends, or political rivals. The song paints a picture of a paradise where life is simple, honest, and free. The repeated invitation 'Come hither, come hither, come hither!' (Come here!) is a warm, enthusiastic call to anyone who is tired of the world's complications.",
+      "pageReference": "Pages 79-80",
+      "examples": [
+        "Like a picnic in the forest — no homework, no competition, just enjoying nature and singing together.",
+        "The 'sweet bird's throat' is a beautiful way of saying — sing as freely as a bird, without self-consciousness.",
+        "In India, saints like Tukaram and Kabir also preferred simple, forest-like lives over the royal court's complexities — the same message as this song."
+      ],
+      "keyPoints": [
+        "Come under the greenwood tree — come to the forest for simple, free living",
+        "Sing to the sweet bird's throat — sing as freely and joyfully as birds",
+        "No enemy but winter and rough weather — no human rivalry, jealousy, or politics",
+        "Repeated 'Come hither, come hither, come hither!' — enthusiastic, warm invitation",
+        "The song = paradise of simple living vs complicated ambitious worldly life"
+      ],
+      "funFact": "Many people who are stressed by city life in India go to forest retreats and eco-villages — exactly what Shakespeare's song invites. The Forest Research Institute in Dehradun even has a beautiful campus where people can walk among ancient trees for peace of mind!",
+      "textbookRef": "Chapter 20, Pages 79-80, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_20_3",
+      "title": "Who is Invited — The Free Spirit",
+      "emoji": "🕊️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The song specifically invites 'who doth ambition shun' — those who avoid or reject ambition. Ambition means a strong desire for wealth, power, or fame. The song does not invite just anyone — it invites those who have made a conscious choice to step away from the rat race of ambition, competition, and worldly success. These are people who prefer honesty and simplicity over power and wealth. 'Doth' is the old English form of 'does'. So 'who doth ambition shun' = 'whoever avoids ambition'. The song says: if you are that kind of person — free-spirited, content, preferring a simple life — then come, this forest is for you. The forest is a place for those who are free in spirit.",
+      "pageReference": "Pages 79-80",
+      "examples": [
+        "A person who leaves a high-paying city job to become a farmer or teacher in a village — they 'shun ambition' and prefer a simpler life.",
+        "India's Vanprastha tradition (third stage of life in Hinduism) where people leave worldly life for the forest — the same spirit as this song.",
+        "Mahatma Gandhi gave up a successful legal career to live simply — a real example of someone who chose to shun ambition."
+      ],
+      "keyPoints": [
+        "'Who doth ambition shun' = whoever avoids/rejects ambition (the rat race)",
+        "Ambition = strong desire for wealth, power, fame — the song invites those who reject this",
+        "The forest is for free spirits — people content with simple, honest living",
+        "The song does NOT say ambition is always wrong — it invites those who CHOOSE simplicity",
+        "This is a personal invitation to those whose nature is free and content"
+      ],
+      "funFact": "Today, many young people worldwide are choosing 'downshifting' — deliberately choosing less stressful, lower-income jobs to have more free time and happiness. Shakespeare described this choice 400 years ago in 'Under the Greenwood Tree'!",
+      "textbookRef": "Chapter 20, Pages 79-80, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_20_4",
+      "title": "Old English Words in the Song",
+      "emoji": "📜",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Shakespeare wrote around 1600 AD — over 400 years ago. The English language has changed a great deal since then. The poem uses several Old English words that are no longer used in modern English. 'Hither' means 'here' — 'Come hither' = 'Come here'. 'Doth' means 'does' — 'who doth ambition shun' = 'who does shun ambition'. 'I'the' (or 'i' the) means 'in the' — a shortened, contracted form. These old words are called archaic words. Reading archaic language helps us understand what English sounded like centuries ago, and also helps us read Shakespeare's original texts more easily. These words may look strange at first, but they are simply older forms of words we already know.",
+      "pageReference": "Pages 79-80",
+      "examples": [
+        "'Come hither, come hither' = 'Come here, come here' — simple once you know the meaning.",
+        "'Who doth ambition shun' = 'Who does avoid ambition' — 'doth' is just the old form of 'does'.",
+        "Like how Marathi has changed over centuries — old Marathi texts use different forms of words that are not used in modern Marathi."
+      ],
+      "keyPoints": [
+        "'Hither' = here (old English)",
+        "'Doth' = does (old English)",
+        "'I'the' = in the (old contraction)",
+        "These are called archaic words — no longer in common use",
+        "Shakespeare's language is 400+ years old, so many words look unfamiliar today"
+      ],
+      "funFact": "Many archaic English words are still used in legal documents in India! Words like 'hereby', 'therein', 'aforesaid' in legal contracts are old English words similar to 'hither' and 'doth' — old-fashioned formal English preserved in law!",
+      "textbookRef": "Chapter 20, Pages 79-80, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_20_5",
+      "title": "Theme — Simple Life vs Ambition",
+      "emoji": "⚖️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "The central theme of the song is the contrast between two kinds of life: (1) The ambitious, worldly life — full of competition, political games, greed, jealousy, and enemies. (2) The simple, natural life in the forest — free, honest, peaceful, with only nature's challenges (winter, rough weather). Shakespeare uses the greenwood tree as a symbol of freedom and natural happiness. The song suggests that true contentment comes not from wealth or power, but from living simply and honestly, in harmony with nature. This theme connects with many Indian philosophical traditions — the idea that the 'material world' causes suffering, and simplicity brings peace. The forest represents moksha (liberation) from the cycle of worldly competition.",
+      "pageReference": "Pages 79-80",
+      "examples": [
+        "In the Ramayana, Ram chooses to live in the forest (vanavasa) where his life becomes purer and more heroic than it was in the palace.",
+        "India's tribal communities who live in forests and have very few material possessions often report high levels of contentment and community happiness.",
+        "The 'Slow Life' movement in modern India encourages people to leave busy cities for quieter, simpler village or forest lifestyles."
+      ],
+      "keyPoints": [
+        "Theme: Simple, natural life > ambitious, competitive worldly life",
+        "Greenwood tree = symbol of freedom, contentment, natural happiness",
+        "Worldly life has human enemies; forest life has only natural ones (winter, weather)",
+        "Connects with Indian philosophy: material world causes stress; simplicity brings peace",
+        "The song is an invitation to choose inner freedom over outer success"
+      ],
+      "funFact": "The concept of 'Thoreau's Walden' — a famous American author who went to live alone in the forest for two years to simplify his life — is exactly the experience Shakespeare sings about. People across centuries and cultures have longed for this greenwood tree life!",
+      "textbookRef": "Chapter 20, Pages 79-80, Maharashtra Board 7th Grade English"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_20_1",
+      "question": "Who wrote the song 'Under the Greenwood Tree'?",
+      "options": ["A) John Keats", "B) William Shakespeare", "C) Robert Frost", "D) Walter de la Mare"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "William Shakespeare wrote 'Under the Greenwood Tree'. It is a song from his famous comedy 'As You Like It', written around 1599."
+    },
+    {
+      "id": "test_20_2",
+      "question": "From which play is 'Under the Greenwood Tree' taken?",
+      "options": ["A) Hamlet", "B) Macbeth", "C) As You Like It", "D) The Tempest"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "'Under the Greenwood Tree' is a song from Shakespeare's comedy 'As You Like It'. The play is set partly in the magical Forest of Arden."
+    },
+    {
+      "id": "test_20_3",
+      "question": "What does the old English word 'hither' mean?",
+      "options": ["A) There", "B) Far away", "C) Here", "D) Beyond"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "'Hither' is an old English word meaning 'here'. 'Come hither' means 'Come here'. It is an archaic word no longer used in modern everyday English."
+    },
+    {
+      "id": "test_20_4",
+      "question": "What does the old English word 'doth' mean?",
+      "options": ["A) Will", "B) Does", "C) Has", "D) Was"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "'Doth' is the old English form of 'does'. So 'who doth ambition shun' = 'whoever does shun ambition' in modern English."
+    },
+    {
+      "id": "test_20_5",
+      "question": "Who is invited in the song to come under the greenwood tree?",
+      "options": ["A) Wealthy merchants", "B) Those who have given up worldly ambition", "C) Kings and princes", "D) Warriors returning from battle"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The song invites 'who doth ambition shun' — those who have chosen to give up or avoid worldly ambition, competition, and the rat race. These are free-spirited people who prefer simple living."
+    },
+    {
+      "id": "test_20_6",
+      "question": "According to the song, what is the only enemy in the forest life?",
+      "options": ["A) Wild animals and snakes", "B) Hunger and thirst", "C) Winter and rough weather", "D) Evil kings and enemies"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "In the forest, the song says the only enemy is winter and rough weather — natural challenges. There are no human enemies like jealousy, competition, or political rivals."
+    },
+    {
+      "id": "test_20_7",
+      "question": "What does the song invite people to sing to?",
+      "options": ["A) The sound of the river", "B) The sweet bird's throat", "C) Musical instruments", "D) The wind in the trees"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The song invites people to 'sing...unto the sweet bird's throat' — meaning to sing as freely and naturally as birds do, in harmony with nature."
+    },
+    {
+      "id": "test_20_8",
+      "question": "What is the main theme of 'Under the Greenwood Tree'?",
+      "options": ["A) The importance of being ambitious and successful", "B) The joys of a simple, free, natural life over a life of ambition", "C) The dangers of living in the forest", "D) How singing improves your voice"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The main theme is that a simple, free life in nature is more joyful and peaceful than an ambitious, complicated worldly life. The greenwood tree symbolises freedom and natural contentment."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "William Shakespeare (1564–1616) — greatest English playwright",
+      "'As You Like It' — comedy set in Forest of Arden",
+      "Song theme: simple forest life vs ambitious worldly life",
+      "Invited: those who shun ambition ('who doth ambition shun')",
+      "No enemy but winter and rough weather in forest life",
+      "Old English words: hither=here, doth=does, i'the=in the",
+      "Greenwood tree = symbol of freedom and contentment"
+    ],
+    "commonMisconceptions": [
+      "Students may think the song is against all ambition — it simply says that SOME people choose simplicity and the song invites THEM; it doesn't condemn ambition for everyone.",
+      "Old English words look difficult but are simple once explained — 'doth', 'hither', 'i'the' just mean 'does', 'here', 'in the'.",
+      "The forest in the song is symbolic — it represents any life of simplicity, not literally moving to a forest.",
+      "Students may confuse 'As You Like It' with other Shakespeare plays — it is a COMEDY (happy ending), not a tragedy."
+    ],
+    "realWorldExamples": [
+      "India's forest ashrams (like those of Ramana Maharshi or Sri Aurobindo) represent exactly the greenwood tree ideal — simple living for inner peace.",
+      "India's tribal communities in Maharashtra's Sahyadri hills live close to nature with very few material possessions — a real-life greenwood tree existence.",
+      "The contrast of ambitious Mumbai city life vs peaceful Konkan village life is a very Maharashtra-specific example of the song's theme.",
+      "Gandhian philosophy of simple living and high thinking ('Sade jiyo, uchch vichar karo') perfectly captures the essence of this song."
+    ],
+    "formulas": []
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "chapterNumber": 15,
+    "title": "Compere a Programme",
+    "subject": "English",
+    "pages": "58-62",
+    "description": "This chapter teaches students how to compere (host/MC) a school programme — specifically an Art Festival. It covers the proper order of events, key phrases for welcoming guests, the meaning of 'Atithi Devo Bhava', and grammar on Direct and Indirect Objects."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_15_1",
+      "question": "What does 'compere' mean?",
+      "options": ["A) A person who participates in a competition", "B) A person who hosts and announces a programme", "C) A person who judges a competition", "D) A person who organises the decorations"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_15_1"
+    },
+    {
+      "id": "pre_15_2",
+      "question": "What is the meaning of 'Atithi Devo Bhava'?",
+      "options": ["A) God is great", "B) Welcome to our school", "C) Guest is God", "D) Thank you for coming"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_15_4"
+    },
+    {
+      "id": "pre_15_3",
+      "question": "In the sentence 'He gave me a pen', what is the direct object?",
+      "options": ["A) He", "B) me", "C) pen", "D) gave"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_15_5"
+    },
+    {
+      "id": "pre_15_4",
+      "question": "What is the first thing a compere does when a school programme starts?",
+      "options": ["A) Introduce the chief guest", "B) Welcome the audience", "C) Sing the school song", "D) Give a vote of thanks"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_15_2"
+    },
+    {
+      "id": "pre_15_5",
+      "question": "What does the phrase 'butterflies in your stomach' mean?",
+      "options": ["A) A stomach-ache after eating", "B) A nervous or excited feeling", "C) Insects entering your body", "D) A very good meal"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "concept_15_3"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_15_1",
+      "title": "What is a Compere?",
+      "emoji": "🎤",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "A compere is the person who hosts or anchors a programme. Also called an MC (Master of Ceremonies), the compere introduces speakers, announces events, keeps the programme running smoothly, and engages the audience. In a school function, a student compere plays a very important role — they are the link between the audience and the events on stage. A good compere must speak clearly, be confident, smile, know the order of events, and use polite and respectful language. In India, school comperes often introduce cultural programmes, sports days, and annual functions. The word 'compere' comes from the French word meaning 'godfather' — someone who guides and supports an event.",
+      "pageReference": "Pages 58-62",
+      "examples": [
+        "At your school's Annual Day function, the student who announces 'Ladies and gentlemen, please welcome our Principal...' is acting as a compere.",
+        "On television, the anchor of a news show or a game show like Kaun Banega Crorepati is also a kind of compere.",
+        "At cricket matches, the stadium announcer who introduces players is performing a compere's role."
+      ],
+      "keyPoints": [
+        "Compere = host or MC (Master of Ceremonies) of a programme",
+        "The compere introduces speakers and events, keeps the programme moving",
+        "A good compere is confident, clear, polite, and smiling",
+        "In schools, students often compere cultural programmes and annual functions",
+        "The compere is the connection between audience and the stage events"
+      ],
+      "funFact": "The word 'compere' comes from French. In France, it originally meant 'godfather' — someone trusted to guide important events. That's why the compere of a show is so important!",
+      "textbookRef": "Chapter 15, Pages 58-62, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_15_2",
+      "title": "Order of a School Programme",
+      "emoji": "📋",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The Art Festival programme in the chapter follows a specific order. First, the compere welcomes the audience. Then dignitaries (important guests) arrive and are escorted to their seats. The school song is sung. The compere introduces the chief guest — Shri. Charudatta Diwan. The lamp is lit (a traditional Indian ceremony to begin an auspicious event). The Principal gives her speech. A book is released. Cultural programmes follow: Taal Kacheri (classical music performance), Koli Dance (a traditional Maharashtra fishermen's dance), and a comedy play. Then prizes are distributed. The chief guest gives his address (speech). Finally, the Vote of Thanks is given — thanking everyone who participated and attended.",
+      "pageReference": "Pages 58-62",
+      "examples": [
+        "Lamp lighting is a traditional Indian way to begin important events — you will see this at most school functions, temple events, and government ceremonies.",
+        "Koli Dance is a famous dance from Maharashtra performed by the Koli fishing community — it shows pride in Maharashtra's culture.",
+        "Vote of Thanks at the end is like saying a formal 'thank you' to everyone — it is the polite way to close a programme."
+      ],
+      "keyPoints": [
+        "Order: Welcome → Arrival of dignitaries → School song → Introduction of chief guest → Lamp lighting → Principal's speech → Book release → Cultural programmes → Prize distribution → Chief guest's address → Vote of thanks",
+        "Lamp lighting is a traditional Indian ceremony to begin auspicious events",
+        "Chief guest: Shri. Charudatta Diwan",
+        "Cultural items: Taal Kacheri, Koli Dance, Comedy play",
+        "Vote of Thanks closes the programme — thanks all participants and guests"
+      ],
+      "funFact": "Koli Dance is named after the Koli community of Maharashtra — a fishing community known for their colourful costumes and energetic dancing. It is often performed at Maharashtra state functions and school cultural events!",
+      "textbookRef": "Chapter 15, Pages 58-62, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_15_3",
+      "title": "Key Phrases for Hosting",
+      "emoji": "💬",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "A compere needs to know the right phrases for different parts of a programme. 'We solicit your presence' means 'we respectfully request your attendance' — a formal, polite invitation. 'I extend a hearty welcome' means 'I warmly and sincerely welcome you' — 'hearty' means full of warmth and sincerity. 'Butterflies in your stomach' is an idiom meaning a nervous, fluttery feeling in your tummy when you are anxious or excited — like before performing on stage. A compere should use formal and respectful language, speak clearly and slowly, pause at the right places, and maintain eye contact with the audience. Good compering requires practice and confidence.",
+      "pageReference": "Pages 58-62",
+      "examples": [
+        "'We solicit your presence' — used in formal school invitations and wedding cards in India.",
+        "'I extend a hearty welcome to our chief guest' — a standard phrase used at school functions all over Maharashtra.",
+        "'Butterflies in your stomach' — every student feels this before going on stage for the first time!"
+      ],
+      "keyPoints": [
+        "'We solicit your presence' = formal way to invite someone to attend",
+        "'I extend a hearty welcome' = warm and sincere welcome",
+        "'Butterflies in your stomach' = idiom meaning nervous/anxious feeling",
+        "Good compere: speaks clearly, uses formal language, maintains eye contact",
+        "Practice is the key to becoming a confident compere"
+      ],
+      "funFact": "The idiom 'butterflies in your stomach' exists in many languages! In Hindi, people say 'pet mein chuhe daur rahe hain' (mice are running in the stomach) for the same nervous feeling. Different cultures, same human emotion!",
+      "textbookRef": "Chapter 15, Pages 58-62, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_15_4",
+      "title": "Atithi Devo Bhava — Honouring Guests",
+      "emoji": "🙏",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Atithi Devo Bhava is a Sanskrit phrase meaning 'Guest is God'. It comes from the ancient Indian scripture Taittiriya Upanishad. This principle teaches that guests must be welcomed with the highest respect and honour — just as one would honour God. In a school programme, this principle is shown through: escorting guests to their seats, garlanding the chief guest, lighting the lamp together, offering flowers or shawls as a mark of respect, and ensuring the guest is comfortable throughout. This is not just a phrase — it is a way of life in Indian culture. The famous Indian tourism tagline 'Incredible India' is also based on this Atithi Devo Bhava spirit of hospitality.",
+      "pageReference": "Pages 58-62",
+      "examples": [
+        "When you garland a teacher or important guest at school, you are practising Atithi Devo Bhava.",
+        "India's Ministry of Tourism uses 'Atithi Devo Bhava' as their campaign slogan to encourage Indians to treat foreign tourists with great respect.",
+        "At weddings in Maharashtra, the bride and groom wash the feet of elderly guests — a deep expression of Atithi Devo Bhava."
+      ],
+      "keyPoints": [
+        "Atithi Devo Bhava = 'Guest is God' — from Taittiriya Upanishad",
+        "Guests are to be welcomed with the highest respect and honour",
+        "In school programmes: garlanding, lamp lighting, escorting to seats",
+        "It is a core principle of Indian culture and hospitality",
+        "India's tourism campaign also uses this phrase"
+      ],
+      "funFact": "The Indian government's Ministry of Tourism launched an 'Atithi Devo Bhava' campaign with famous film stars to remind all Indians to treat tourists and visitors with warmth and respect. Aamir Khan was one of its brand ambassadors!",
+      "textbookRef": "Chapter 15, Pages 58-62, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_15_5",
+      "title": "Grammar — Direct and Indirect Objects",
+      "emoji": "✏️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "An object is the part of a sentence that receives the action of the verb. There are two types: Direct Object and Indirect Object. The Direct Object is the thing that is directly affected by the verb — it answers the question 'What?' or 'Whom?' The Indirect Object is the person to whom or for whom the action is done — it answers 'To whom?' or 'For whom?' Example: 'He gave me a pen.' Here, 'pen' is the Direct Object (he gave WHAT? — a pen). 'Me' is the Indirect Object (he gave to WHOM? — me). Another example: 'She told us a story.' — 'story' is direct object, 'us' is indirect object. Usually the Indirect Object comes before the Direct Object in a sentence.",
+      "pageReference": "Pages 58-62",
+      "examples": [
+        "'He gave me a pen.' — Direct Object: pen (gave what?); Indirect Object: me (gave to whom?)",
+        "'Mother cooked us dinner.' — Direct Object: dinner (cooked what?); Indirect Object: us (cooked for whom?)",
+        "'The teacher gave Priya a prize.' — Direct Object: prize (gave what?); Indirect Object: Priya (gave to whom?)"
+      ],
+      "keyPoints": [
+        "Direct Object = the thing directly affected by the verb (answers 'What?' or 'Whom?')",
+        "Indirect Object = the person for whom the action is done (answers 'To whom?' or 'For whom?')",
+        "Example: 'He gave me a pen' — pen = direct, me = indirect",
+        "The Indirect Object usually comes BEFORE the Direct Object in a sentence",
+        "Not all sentences have an Indirect Object, but all action sentences have a Direct Object"
+      ],
+      "funFact": "In Hindi, the indirect object is marked by 'ko' or 'ke liye' — for example, 'Usne mujhe kitab di' (He gave me a book). 'Mujhe' (me) is the indirect object and 'kitab' (book) is the direct object — same pattern as in English!",
+      "textbookRef": "Chapter 15, Pages 58-62, Maharashtra Board 7th Grade English"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_15_1",
+      "question": "What does the word 'compere' mean?",
+      "options": ["A) A person who competes in a show", "B) A person who hosts and announces a programme", "C) A person who decorates the stage", "D) A person who judges performances"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "A compere is the host or MC (Master of Ceremonies) of a programme. They introduce speakers, announce events, and keep the programme running smoothly."
+    },
+    {
+      "id": "test_15_2",
+      "question": "What is the correct order? Which event comes FIRST in the school Art Festival programme?",
+      "options": ["A) Lamp lighting", "B) School song", "C) Welcome to the audience", "D) Introduction of chief guest"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "The compere first welcomes the audience. Then dignitaries arrive, followed by the school song, introduction of the chief guest, and then the lamp lighting ceremony."
+    },
+    {
+      "id": "test_15_3",
+      "question": "What is the name of the chief guest in the Art Festival programme?",
+      "options": ["A) Shri. Ramesh Patil", "B) Shri. Charudatta Diwan", "C) Shri. Suresh Mehta", "D) Shri. Anil Sharma"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The chief guest in the chapter's Art Festival programme is Shri. Charudatta Diwan, who is formally introduced by the compere."
+    },
+    {
+      "id": "test_15_4",
+      "question": "What does 'Atithi Devo Bhava' mean?",
+      "options": ["A) Education is God", "B) Nature is God", "C) Guest is God", "D) Teacher is God"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "Atithi Devo Bhava is a Sanskrit phrase from the Taittiriya Upanishad meaning 'Guest is God'. It teaches that guests must be welcomed and honoured with the utmost respect."
+    },
+    {
+      "id": "test_15_5",
+      "question": "What does 'butterflies in your stomach' mean?",
+      "options": ["A) Eating too much food", "B) A stomach disease", "C) Feeling nervous or excited", "D) Feeling hungry"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "'Butterflies in your stomach' is an idiom meaning a nervous or excited fluttery feeling — like the feeling you get before going on stage or taking an important test."
+    },
+    {
+      "id": "test_15_6",
+      "question": "In 'She told us a story', what is the direct object?",
+      "options": ["A) She", "B) told", "C) us", "D) story"],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "explanation": "The direct object answers 'What did she tell?' — she told a STORY. 'Story' is the direct object. 'Us' is the indirect object (told to whom? — to us)."
+    },
+    {
+      "id": "test_15_7",
+      "question": "In 'Mother cooked us dinner', what is the indirect object?",
+      "options": ["A) Mother", "B) cooked", "C) us", "D) dinner"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "The indirect object answers 'For whom did Mother cook?' — cooked for US. 'Us' is the indirect object. 'Dinner' is the direct object (what did she cook? — dinner)."
+    },
+    {
+      "id": "test_15_8",
+      "question": "Which dance from Maharashtra is performed in the Art Festival programme?",
+      "options": ["A) Bharatanatyam", "B) Lavani", "C) Koli Dance", "D) Kathak"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "Koli Dance is performed in the Art Festival programme. It is a traditional dance of the Koli fishing community of Maharashtra, known for their colourful costumes and energetic performance."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Compere / MC — the host of a programme",
+      "Order of school programme events",
+      "Key phrases: 'We solicit your presence', 'I extend a hearty welcome', 'butterflies in stomach'",
+      "Atithi Devo Bhava — Guest is God (Sanskrit, Indian hospitality)",
+      "Direct Object — directly receives verb action (answers What/Whom)",
+      "Indirect Object — person for whom action is done (answers To whom/For whom)"
+    ],
+    "commonMisconceptions": [
+      "Students may think the Indirect Object always comes after the Direct Object — actually, the Indirect Object usually comes BEFORE the Direct Object ('He gave ME a PEN').",
+      "Students may confuse 'solicit' with 'solicitor' (a lawyer) — in this context 'solicit' simply means 'to respectfully request'.",
+      "Lamp lighting is not just decorative — it is a sacred traditional Indian ritual that formally begins an auspicious event.",
+      "Not every sentence has an Indirect Object, but sentences that do always have a Direct Object too."
+    ],
+    "realWorldExamples": [
+      "School Annual Day functions in Maharashtra follow the exact same programme order described in this chapter.",
+      "India's tourism campaign 'Atithi Devo Bhava' is seen at airports, hotels, and tourist spots across India.",
+      "Koli Dance is performed at Maharashtra state functions, school cultural events, and even at international events to showcase Maharashtra's culture.",
+      "The formal phrases used by the compere (like 'I extend a hearty welcome') are used in real invitation cards, school notices, and official letters in Maharashtra."
+    ],
+    "formulas": []
+  }
+}

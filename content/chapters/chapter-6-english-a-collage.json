@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "chapterNumber": 6,
+    "title": "A Collage",
+    "subject": "English",
+    "pages": "21",
+    "description": "About Swami Vivekananda — his life, his famous speech at the Parliament of World's Religions, his teachings, and the activity of making a collage about a great person."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "What was the original name of Swami Vivekananda?",
+      "options": [
+        "Narendra Datta",
+        "Narendranath Bose",
+        "Ramakrishna Das",
+        "Viveka Nanda"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "At which conference did Swami Vivekananda give his famous speech?",
+      "options": [
+        "Parliament of World's Religions",
+        "United Nations Conference",
+        "World Peace Summit",
+        "Indian National Congress"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "With which words did Swami Vivekananda begin his famous speech?",
+      "options": [
+        "Sisters and Brothers of America!",
+        "Ladies and Gentlemen of the World!",
+        "Friends and Colleagues!",
+        "Citizens of the Earth!"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "q4",
+      "question": "What is a collage?",
+      "options": [
+        "An artwork made by pasting photos, quotes, and descriptions",
+        "A type of poem with rhyming words",
+        "A formal letter to a famous person",
+        "A short story about a real person"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 4
+    },
+    {
+      "id": "q5",
+      "question": "What did Swami Vivekananda emphasise in his teachings?",
+      "options": [
+        "Selflessness and service to others",
+        "Earning money and wealth",
+        "Winning battles and wars",
+        "Building temples and mosques"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Who Was Swami Vivekananda",
+      "emoji": "🙏",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Swami Vivekananda was born Narendra Datta in Calcutta (now Kolkata) in 1863. He became one of India's greatest spiritual leaders and thinkers. He was a disciple of the great saint Ramakrishna Paramahansa. He made the world aware of Indian philosophy, especially the teachings of Vedanta and yoga. He believed that serving human beings is the highest form of serving God.",
+      "pageReference": "21",
+      "examples": [
+        {
+          "icon": "🎂",
+          "text": "Born as Narendra Datta in Calcutta, 1863"
+        },
+        {
+          "icon": "🧘",
+          "text": "Disciple of saint Ramakrishna Paramahansa"
+        },
+        {
+          "icon": "🌍",
+          "text": "Introduced Indian philosophy and Vedanta to the world"
+        },
+        {
+          "icon": "🇮🇳",
+          "text": "Inspired generations of Indians to work for the uplift of the poor"
+        }
+      ],
+      "keyPoints": [
+        "Born as Narendra Datta in Calcutta in 1863",
+        "Disciple of saint Ramakrishna Paramahansa",
+        "Became known as Swami Vivekananda after becoming a monk",
+        "Spread Indian philosophy, Vedanta, and yoga to the world",
+        "Founded the Ramakrishna Mission for social service"
+      ],
+      "funFact": "Swami Vivekananda's birthday (12 January) is celebrated as National Youth Day in India! The Government of India chose this date to inspire youth with his ideals.",
+      "textbookRef": "Page 21: A Collage — Swami Vivekananda"
+    },
+    {
+      "id": 2,
+      "title": "The Parliament of World's Religions Speech",
+      "emoji": "🎤",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "In 1893, Swami Vivekananda represented India at the Parliament of World's Religions in Chicago, USA. When he addressed the audience with the words 'Sisters and Brothers of America!', the audience responded with a two-minute standing ovation. His speech introduced the world to Indian philosophy and the message of universal brotherhood and tolerance.",
+      "pageReference": "21",
+      "examples": [
+        {
+          "icon": "🇺🇸",
+          "text": "Speech given in Chicago, USA in 1893"
+        },
+        {
+          "icon": "👏",
+          "text": "Two-minute standing ovation from the audience"
+        },
+        {
+          "icon": "🗣️",
+          "text": "Opening words: 'Sisters and Brothers of America!'"
+        },
+        {
+          "icon": "🌏",
+          "text": "Represented India and Indian philosophy on the world stage"
+        }
+      ],
+      "keyPoints": [
+        "The Parliament of World's Religions was held in Chicago in 1893",
+        "Vivekananda's opening words were 'Sisters and Brothers of America!'",
+        "The audience gave a two-minute standing ovation",
+        "His speech spread the message of religious tolerance and unity",
+        "He made India proud by representing Indian wisdom to the world"
+      ],
+      "funFact": "The words 'Sisters and Brothers of America!' were so powerful that the audience immediately stood up and applauded for two full minutes — even before he had said anything else!",
+      "textbookRef": "Page 21: Parliament of World's Religions"
+    },
+    {
+      "id": 3,
+      "title": "His Teachings and Famous Quotes",
+      "emoji": "💬",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Swami Vivekananda's teachings focused on selflessness, service, and the power of the human mind. His most famous quote is 'Arise! Awake! And stop not until the goal is reached.' He also said, 'Whatever you think, that you will be.' He believed that every person has unlimited potential and that helping others is the true purpose of life.",
+      "pageReference": "21",
+      "examples": [
+        {
+          "icon": "⚡",
+          "text": "'Arise! Awake! And stop not until the goal is reached.'"
+        },
+        {
+          "icon": "🧠",
+          "text": "'Whatever you think, that you will be.' — the power of thought"
+        },
+        {
+          "icon": "🤲",
+          "text": "Service to mankind is service to God — his core belief"
+        },
+        {
+          "icon": "💪",
+          "text": "He inspired India's youth to be strong and fearless"
+        }
+      ],
+      "keyPoints": [
+        "Key teaching: Selflessness and service to others",
+        "Famous quote: 'Arise! Awake! And stop not until the goal is reached.'",
+        "Quote: 'Whatever you think, that you will be.'",
+        "He believed serving human beings is the highest worship",
+        "His teachings continue to inspire millions of Indians today"
+      ],
+      "funFact": "Netaji Subhas Chandra Bose and Lokmanya Bal Gangadhar Tilak were both inspired by Vivekananda's teachings — his words shaped many of India's freedom fighters!",
+      "textbookRef": "Page 21: Vivekananda's teachings and quotes"
+    },
+    {
+      "id": 4,
+      "title": "What Is a Collage and How to Make One",
+      "emoji": "🎨",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "A collage is an artwork or project created by pasting together photographs, drawings, quotes, and descriptive text about a person or topic. For the chapter activity, students make a collage about a great personality. A good collage about a person includes their photo, important quotes, key achievements, and a brief description of their life and contribution.",
+      "pageReference": "21",
+      "examples": [
+        {
+          "icon": "📸",
+          "text": "Photo of the great person in the centre of the collage"
+        },
+        {
+          "icon": "💬",
+          "text": "Famous quotes written in bold or decorative text"
+        },
+        {
+          "icon": "📝",
+          "text": "Brief description of their achievements and contributions"
+        },
+        {
+          "icon": "🎨",
+          "text": "Decorative borders, colours, and designs to make it visually appealing"
+        }
+      ],
+      "keyPoints": [
+        "A collage combines photos, quotes, and descriptions on one page",
+        "It is a creative way to present information about a person or topic",
+        "A collage about a great person should include their photo, quotes, and achievements",
+        "Use colours and designs to make the collage visually attractive",
+        "The activity helps practise researching and presenting information"
+      ],
+      "funFact": "The word 'collage' comes from the French word 'coller' meaning 'to glue'. Famous artists like Pablo Picasso used collage as an art form in their paintings!",
+      "textbookRef": "Page 21: Activity — Make a collage"
+    },
+    {
+      "id": 5,
+      "title": "Great Historical Personalities",
+      "emoji": "🏛️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "India has been home to many great personalities who changed the world with their ideas, sacrifices, and service. Making a collage about a great person helps us learn about their life and be inspired by their achievements. Examples of great personalities include freedom fighters, scientists, poets, saints, and social reformers.",
+      "pageReference": "21",
+      "examples": [
+        {
+          "icon": "🇮🇳",
+          "text": "Mahatma Gandhi — Father of the Nation, champion of non-violence"
+        },
+        {
+          "icon": "🔬",
+          "text": "Dr. A.P.J. Abdul Kalam — scientist, President of India, 'Missile Man'"
+        },
+        {
+          "icon": "✍️",
+          "text": "Rabindranath Tagore — first Asian Nobel Prize winner for literature"
+        },
+        {
+          "icon": "🙏",
+          "text": "Mother Teresa — served the poorest of the poor in Kolkata"
+        }
+      ],
+      "keyPoints": [
+        "Great personalities are people who have made a positive difference in the world",
+        "India has contributed many great thinkers, leaders, and reformers to history",
+        "A collage helps us research and learn about these personalities",
+        "Learning about great people inspires us to work hard and serve others",
+        "Swami Vivekananda is one of India's greatest and most inspiring personalities"
+      ],
+      "funFact": "Every year in India, we celebrate the birth and death anniversaries of great personalities — Jayanti and Punyatithi — to keep their memory and teachings alive in new generations.",
+      "textbookRef": "Page 21: Collage activity — choosing a great personality"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "What was Swami Vivekananda's original name?",
+      "options": [
+        "Narendra Datta",
+        "Ramakrishna Datta",
+        "Viveka Nanda",
+        "Narendranath Bose"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Swami Vivekananda was born Narendra Datta in Calcutta. He took the name Vivekananda when he became a monk and disciple of Ramakrishna Paramahansa.",
+      "conceptIds": [1],
+      "pageReference": "21"
+    },
+    {
+      "id": "q2",
+      "question": "In which city was the Parliament of World's Religions held?",
+      "options": [
+        "Chicago",
+        "New York",
+        "London",
+        "Paris"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The Parliament of World's Religions was held in Chicago, USA in 1893. Swami Vivekananda represented India at this event.",
+      "conceptIds": [2],
+      "pageReference": "21"
+    },
+    {
+      "id": "q3",
+      "question": "How long was the standing ovation Vivekananda received?",
+      "options": [
+        "Two minutes",
+        "Five minutes",
+        "Ten minutes",
+        "One minute"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When Vivekananda addressed the audience with 'Sisters and Brothers of America!', the audience gave him a two-minute standing ovation.",
+      "conceptIds": [2],
+      "pageReference": "21"
+    },
+    {
+      "id": "q4",
+      "question": "Complete Vivekananda's famous quote: 'Arise! Awake! And _____ until the goal is reached.'",
+      "options": [
+        "Stop not",
+        "Look not",
+        "Rest not",
+        "Fear not"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The complete quote is 'Arise! Awake! And stop not until the goal is reached.' It is one of Vivekananda's most famous and inspiring sayings.",
+      "conceptIds": [3],
+      "pageReference": "21"
+    },
+    {
+      "id": "q5",
+      "question": "What is the second famous quote by Vivekananda mentioned in the chapter?",
+      "options": [
+        "Whatever you think, that you will be",
+        "Knowledge is power",
+        "Service is worship",
+        "Truth alone triumphs"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Whatever you think, that you will be' is Vivekananda's quote emphasising the power of thought and positive thinking.",
+      "conceptIds": [3],
+      "pageReference": "21"
+    },
+    {
+      "id": "q6",
+      "question": "What did Vivekananda emphasise as the highest form of service?",
+      "options": [
+        "Selflessness and service to human beings",
+        "Building temples and religious institutions",
+        "Winning debates and arguments",
+        "Acquiring great wealth"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vivekananda taught that serving human beings is the highest form of serving God. Selflessness and service to others was his core message.",
+      "conceptIds": [3],
+      "pageReference": "21"
+    },
+    {
+      "id": "q7",
+      "question": "What does a collage include?",
+      "options": [
+        "Photos, quotes, and descriptions pasted together",
+        "Only a long essay about a person",
+        "A formal invitation card",
+        "A poem written in rhyming couplets"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A collage is created by pasting together photographs, quotes, and descriptions about a person or topic. It is a creative way to present information.",
+      "conceptIds": [4],
+      "pageReference": "21"
+    },
+    {
+      "id": "q8",
+      "question": "What was Swami Vivekananda's main message to the world?",
+      "options": [
+        "Universal brotherhood, tolerance, and service",
+        "India should conquer other countries",
+        "Only Hinduism is the true religion",
+        "Science is more important than spirituality"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vivekananda's main message was universal brotherhood, religious tolerance, and selfless service to humanity. This is what made his speech at Chicago so impactful.",
+      "conceptIds": [3],
+      "pageReference": "21"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Swami Vivekananda's original name was Narendra Datta",
+      "He was born in Calcutta in 1863",
+      "He was a disciple of saint Ramakrishna Paramahansa",
+      "He represented India at the Parliament of World's Religions in Chicago in 1893",
+      "His opening words 'Sisters and Brothers of America!' received a two-minute standing ovation",
+      "Famous quote: 'Arise! Awake! And stop not until the goal is reached.'",
+      "Quote: 'Whatever you think, that you will be.'",
+      "He emphasised selflessness, service, and universal brotherhood",
+      "A collage is made by pasting photos, quotes, and descriptions together"
+    ],
+    "commonMisconceptions": [
+      "Vivekananda and Ramakrishna Paramahansa were the same person — FALSE (Vivekananda was Ramakrishna's disciple)",
+      "Vivekananda went to Parliament of World's Religions as a politician — FALSE (he went as a spiritual representative of India)",
+      "A collage is just a scrapbook — NOT EXACTLY (a collage is a deliberate artistic/informational arrangement of elements)"
+    ],
+    "realWorldExamples": [
+      "National Youth Day in India: 12 January (Vivekananda's birthday) celebrated across schools",
+      "Ramakrishna Mission schools and hospitals across India — Vivekananda's legacy of service",
+      "Students in Maharashtra schools make collages for school project exhibitions",
+      "Mumbai's Belur Math — headquarters of Ramakrishna Mission, inspired by Vivekananda",
+      "School bulletin boards and Science Fair posters are a form of collage display"
+    ],
+    "formulas": []
+  }
+}

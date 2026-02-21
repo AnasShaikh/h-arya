@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "chapterNumber": 2,
+    "title": "Odd One In",
+    "subject": "English",
+    "pages": "3-7",
+    "description": "Story by Tithi Tavora — prejudice, acceptance, inner worth; Common and Proper Nouns"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Why did Rima initially dislike Malti?",
+      "options": ["She judged Malti by her appearance and accent", "Malti was rude to her", "Malti scored higher in exams", "Their teacher preferred Malti"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What was Malti's greatest strength?",
+      "options": ["Mathematics", "English speaking", "Cricket", "Dancing"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "Which of these is a proper noun?",
+      "options": ["Mumbai", "city", "river", "school"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 4
+    },
+    {
+      "id": "q4",
+      "question": "What is a 'clique'?",
+      "options": ["A small exclusive group that does not allow others in", "A loud voice", "A type of accent", "A singing competition"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "q5",
+      "question": "How did Rima feel after coming first in her singing category?",
+      "options": ["No joy — she knew she had been unkind to Malti", "Very happy and proud", "Jealous of Malti", "Sad that Malti also won"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Story Summary — Prejudice and Acceptance",
+      "emoji": "🤝",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Rima mocks Malti — a new girl from another state — for her appearance (oily hair, long skirt) and poor English accent. Rima's clique (small exclusive group) bullies Malti. But Malti wins the singing competition and excels at maths. When Malti asks Rima for help with English, Rima refuses cruelly. Even Rima's friends turn against her, showing she has gone too far.",
+      "pageReference": "3-6",
+      "examples": [
+        { "icon": "🎵", "text": "Malti sings beautifully — even the Principal applauds first" },
+        { "icon": "📐", "text": "Malti's forte: maths — classmates seek her help" },
+        { "icon": "😔", "text": "Malti asks Rima for English help — Rima refuses rudely" },
+        { "icon": "💔", "text": "Rima's own friends say 'That was horrid, Rima'" }
+      ],
+      "keyPoints": [
+        "Prejudice: judging others without knowing them",
+        "Forte: a person's area of greatest strength",
+        "Clique: small exclusive group that excludes others",
+        "Judging by appearance or accent is wrong",
+        "True worth is shown through actions, not looks"
+      ],
+      "funFact": "🌍 India has 22 official languages — every Indian is 'Malti' in some language other than their own!",
+      "textbookRef": "Pages 3-6: Odd One In by Tithi Tavora"
+    },
+    {
+      "id": 2,
+      "title": "Character Analysis — Malti and Rima",
+      "emoji": "👤",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Malti: quiet, studious, intelligent, gifted singer, maths genius, generous (helps classmates), dignified under bullying. Rima: stylish, good at English singing, but proud and unkind — a snob. Her parents are worried: 'We put Rima into a good school to make her smart and confident. I am afraid she is turning into quite a little snob!'",
+      "pageReference": "4-6",
+      "examples": [
+        { "icon": "📚", "text": "Malti: bright, studious, fares well in sports and studies" },
+        { "icon": "🎭", "text": "Malti: 'Her simple appearance belied a sharp and nimble brain'" },
+        { "icon": "😤", "text": "Rima: snob, clique-leader, stubborn dislike of Malti" },
+        { "icon": "💬", "text": "Mr Sen: 'The same may be said of your Hindi' — sharp reply to Rima" }
+      ],
+      "keyPoints": [
+        "Malti: belied = appearance hid her true intelligence",
+        "Rima: atrocious = very poor quality (she said Malti's English)",
+        "Snob: person who looks down on those considered inferior",
+        "Rima came first in singing but felt 'no joy'",
+        "Inner conflict: Rima knew she was wrong but was too proud to admit it"
+      ],
+      "funFact": "🎭 The story's title 'Odd One In' (not 'Odd One Out') is intentional — Malti is different but she BELONGS in the group!",
+      "textbookRef": "Pages 4-6: Character descriptions"
+    },
+    {
+      "id": 3,
+      "title": "Message of the Story",
+      "emoji": "💡",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The story teaches us never to judge people by their appearance, accent, clothing or state of origin. Intelligence, talent and character are what truly matter. Speaking good English is not the only mark of intelligence. Being kind and helping others shows real character. The story ends before Rima apologises — we are left to imagine what happens next.",
+      "pageReference": "6-7",
+      "examples": [
+        { "icon": "🏆", "text": "Malti's talent proved itself — singing prize, maths genius" },
+        { "icon": "🤝", "text": "Lesson: judge by character, not by appearance or accent" },
+        { "icon": "📝", "text": "Workshop: write about your own strengths and weaknesses" },
+        { "icon": "🔍", "text": "Words ending in '-ly' from passage: roundly, uncharitably, stubbornly" }
+      ],
+      "keyPoints": [
+        "Never judge by appearance, accent, dress or origin",
+        "Talent and character are more important than language skills",
+        "Language learning takes time — be patient and kind",
+        "List adverbs ending in '-ly': roundly, snidely, stubbornly",
+        "Workshop: compare Malti and Rima — appearance, studies, singing, attitude"
+      ],
+      "funFact": "🌐 English has only been India's language for ~200 years. Sanskrit, Tamil and other Indian languages are thousands of years older!",
+      "textbookRef": "Page 7: English Workshop and Language Study"
+    },
+    {
+      "id": 4,
+      "title": "Common Nouns vs Proper Nouns",
+      "emoji": "📝",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Common nouns are general names for people, places or things (girl, city, river, table). Proper nouns are the specific names of particular persons, places or organisations — always written with a capital letter (Rima, Mumbai, Ahmednagar, Seva Hospital, The Times of India).",
+      "pageReference": "7",
+      "examples": [
+        { "icon": "📝", "text": "Common: girl, boy, town, river, table, pencil" },
+        { "icon": "🏙️", "text": "Proper: Sangeeta, Rahul, London, Nashik, Sahyadri" },
+        { "icon": "📰", "text": "Multi-word proper nouns: Seva Hospital, The Times of India" },
+        { "icon": "✅", "text": "Rule: Proper nouns always start with a capital letter" }
+      ],
+      "keyPoints": [
+        "Common noun: general name (not specific): girl, city, river",
+        "Proper noun: specific name (always capitalised): Mumbai, Rima",
+        "Multi-word proper nouns also capitalised: Indian Ocean, New Delhi",
+        "Proper nouns can be people, places, organisations, brands",
+        "Test: Would you use 'the' before it? Common nouns usually yes; proper nouns no"
+      ],
+      "funFact": "📌 Your own name is a proper noun — that's why it's always written with a capital letter, in every language!",
+      "textbookRef": "Page 7: Language Study — Common and Proper Nouns"
+    },
+    {
+      "id": 5,
+      "title": "Vocabulary from the Story",
+      "emoji": "🔤",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Key vocabulary from 'Odd One In': sniffed = said in a scornful way; insufferable = unbearable; atrocious = extremely poor; forte = greatest strength; clique = small exclusive group; belied = contradicted/hid; recounted = told again; snidely = in a nasty manner; jeer = make rude remarks; roundly = in an emphatic manner.",
+      "pageReference": "3-6",
+      "examples": [
+        { "icon": "🔤", "text": "Smart: intelligent (general) vs smart = stylish (context-specific)" },
+        { "icon": "💪", "text": "Forte: 'Her forte was mathematics' = her greatest strength" },
+        { "icon": "🤫", "text": "Snob: a person who looks down on others" },
+        { "icon": "🎯", "text": "Belied: 'Her simple appearance belied a sharp brain' = hid/contradicted" }
+      ],
+      "keyPoints": [
+        "forte (n): one's strong point or talent",
+        "clique (n): small exclusive social group",
+        "atrocious (adj): extremely bad",
+        "belied (v): gave a false impression of",
+        "Adverbs ending '-ly': snidely, roundly, stubbornly, uncharitably"
+      ],
+      "funFact": "🌐 The word 'snob' may come from Latin 'sine nobilitate' meaning 'without nobility' — ironically, real nobles were rarely snobbish!",
+      "textbookRef": "Pages 3-6: Vocabulary in context"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "Why did Rima and her gang chorus 'Gud marning!' to Malti?",
+      "options": ["To mock Malti's accent", "To welcome her kindly", "Because they liked her", "Their teacher asked them to"],
+      "correctAnswer": "A",
+      "explanation": "Rima and her gang were making fun of Malti's accent and pronunciation of 'Good morning'.",
+      "conceptIds": [1],
+      "pageReference": "3"
+    },
+    {
+      "id": "q2",
+      "question": "What happened at the Inter-House singing competition?",
+      "options": ["Malti won first prize with her beautiful singing", "Rima won the Hindi singing prize", "Malti did not participate", "Both Malti and Rima lost"],
+      "correctAnswer": "A",
+      "explanation": "Malti sang beautifully and won first prize. Even Rima's gang was silenced by the performance.",
+      "conceptIds": [2],
+      "pageReference": "5"
+    },
+    {
+      "id": "q3",
+      "question": "Why did Rima feel no joy after winning her singing category?",
+      "options": ["She knew she had been cruel to Malti", "She wanted to win the Hindi category too", "Her parents weren't present", "The prize was small"],
+      "correctAnswer": "A",
+      "explanation": "Rima won first in her English song category but she knew she had been unkind to Malti, so she felt no real happiness.",
+      "conceptIds": [3],
+      "pageReference": "5"
+    },
+    {
+      "id": "q4",
+      "question": "Which is a proper noun?",
+      "options": ["Ahmednagar", "town", "river", "school"],
+      "correctAnswer": "A",
+      "explanation": "Ahmednagar is the specific name of a place — it is a proper noun and always written with a capital letter.",
+      "conceptIds": [4],
+      "pageReference": "7"
+    },
+    {
+      "id": "q5",
+      "question": "What did Mr Sen mean by 'The same may be said of your Hindi'?",
+      "options": ["Rima's Hindi is also not perfect, so she should not mock others' English", "Hindi is more important than English", "Malti should learn Hindi", "Rima should study harder"],
+      "correctAnswer": "A",
+      "explanation": "Mr Sen was pointing out that Rima mocks Malti's English but her own Hindi is probably also imperfect — we should not judge others for language weaknesses we may also have.",
+      "conceptIds": [3],
+      "pageReference": "4"
+    },
+    {
+      "id": "q6",
+      "question": "What is a 'clique'?",
+      "options": ["A small group of friends who do not allow others to join them", "A type of singing competition", "A new student in class", "A style of speaking"],
+      "correctAnswer": "A",
+      "explanation": "A clique is a small group of friends who do not allow others to join them. Rima and her gang formed a clique that excluded Malti.",
+      "conceptIds": [1],
+      "pageReference": "5"
+    },
+    {
+      "id": "q7",
+      "question": "'Her simple appearance belied a sharp and nimble brain' means _____.",
+      "options": ["Her appearance hid how intelligent she really was", "She looked smart and was also smart", "Her appearance matched her brain", "She pretended to be simple"],
+      "correctAnswer": "A",
+      "explanation": "Belied means 'gave a false impression of'. Malti looked simple but she had a sharp brain — her appearance hid her intelligence.",
+      "conceptIds": [5],
+      "pageReference": "5"
+    },
+    {
+      "id": "q8",
+      "question": "Which of these is a common noun?",
+      "options": ["river", "Nashik", "Rima", "India"],
+      "correctAnswer": "A",
+      "explanation": "River is a common noun — a general name for a type of water body. Nashik, Rima and India are proper nouns.",
+      "conceptIds": [4],
+      "pageReference": "7"
+    },
+    {
+      "id": "q9",
+      "question": "Malti asked Rima for help with _____.",
+      "options": ["Improving her English", "Mathematics homework", "Learning the school song", "Making friends"],
+      "correctAnswer": "A",
+      "explanation": "Malti said: 'I know my English is weak. Yours is good. Please, will you help me to improve it?' — she asked Rima for help with English.",
+      "conceptIds": [1],
+      "pageReference": "5"
+    },
+    {
+      "id": "q10",
+      "question": "What did Rima's parents mean by 'she is turning into quite a little snob'?",
+      "options": ["Rima was looking down on others and judging them unfairly", "Rima was becoming more intelligent", "Rima was spending too much money", "Rima was too quiet"],
+      "correctAnswer": "A",
+      "explanation": "A snob looks down on people they consider inferior. Rima judged Malti by her appearance, accent and origin — exactly what a snob does.",
+      "conceptIds": [3],
+      "pageReference": "4"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Story: Rima bullies Malti for appearance/accent; Malti proves her worth through talent",
+      "Forte: greatest strength; Clique: exclusive group; Belied: hid true nature",
+      "Message: judge by character, not appearance or language skills",
+      "Common nouns: general names (girl, city); Proper nouns: specific names (Mumbai, Rima)",
+      "Proper nouns always start with a capital letter",
+      "Multi-word proper nouns: The Times of India, Seva Hospital"
+    ],
+    "commonMisconceptions": [
+      "Proper nouns are only people's names — FALSE, places, brands, organisations too",
+      "Rima was a bad student — FALSE, she won her singing category",
+      "Malti was weak — FALSE, her forte was mathematics; she was studious and talented"
+    ],
+    "realWorldExamples": [
+      "New student from another state — happens in every school in India",
+      "Mumbai is a proper noun; 'city' is a common noun",
+      "India has 22 official languages — being fluent in English doesn't define intelligence"
+    ],
+    "formulas": []
+  }
+}

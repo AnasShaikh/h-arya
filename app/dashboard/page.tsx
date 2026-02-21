@@ -13,6 +13,15 @@ interface Chapter {
   isActive: boolean;
 }
 
+// Visual config per subject — add new subjects here as needed
+const SUBJECT_CONFIG: Record<string, { emoji: string; subtitle: string; color: string }> = {
+  Science:     { emoji: '🔬', subtitle: 'Physics, Chemistry, Biology',   color: 'from-green-500 to-emerald-600' },
+  Mathematics: { emoji: '📐', subtitle: 'Numbers, Algebra, Geometry',    color: 'from-blue-500 to-indigo-600'  },
+  English:     { emoji: '📖', subtitle: 'Literature, Grammar, Writing',  color: 'from-purple-500 to-pink-600'  },
+};
+
+const DEFAULT_CONFIG = { emoji: '📚', subtitle: 'Grade 7 Maharashtra Board', color: 'from-gray-500 to-gray-600' };
+
 export default function Dashboard() {
   const [userName, setUserName] = useState('');
   const [chapters, setChapters] = useState<Chapter[]>([]);
@@ -20,15 +29,9 @@ export default function Dashboard() {
   const router = useRouter();
 
   useEffect(() => {
-    // Check if user is logged in
     const userId = sessionStorage.getItem('userId');
     const name = sessionStorage.getItem('name');
-
-    if (!userId) {
-      router.push('/login');
-      return;
-    }
-
+    if (!userId) { router.push('/login'); return; }
     setUserName(name || 'Student');
     fetchCurriculum();
   }, [router]);
@@ -52,17 +55,13 @@ export default function Dashboard() {
     router.push('/login');
   };
 
-  // Group chapters by subject
-  const subjects = chapters.reduce((acc, chapter) => {
-    if (!acc[chapter.subject]) {
-      acc[chapter.subject] = [];
-    }
-    acc[chapter.subject].push(chapter);
-    return {};
-  }, {} as Record<string, Chapter[]>);
-
-  const scienceChapters = chapters.filter(c => c.subject === 'Science');
-  const mathChapters = chapters.filter(c => c.subject === 'Mathematics');
+  // Group chapters by subject, preserving insertion order
+  const subjectMap: Record<string, Chapter[]> = {};
+  for (const chapter of chapters) {
+    if (!subjectMap[chapter.subject]) subjectMap[chapter.subject] = [];
+    subjectMap[chapter.subject].push(chapter);
+  }
+  const subjects = Object.entries(subjectMap);
 
   if (isLoading) {
     return (
@@ -100,113 +99,69 @@ export default function Dashboard() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {/* Welcome Section */}
         <div className="mb-8">
-          <h2 className="text-3xl font-bold text-gray-900 mb-2">
-            Your Learning Dashboard
-          </h2>
-          <p className="text-gray-800">
-            Grade 7 - Maharashtra Board
-          </p>
+          <h2 className="text-3xl font-bold text-gray-900 mb-2">Your Learning Dashboard</h2>
+          <p className="text-gray-800">Grade 7 - Maharashtra Board</p>
         </div>
 
-        {/* Subjects Grid */}
         <div className="grid gap-8">
-          {/* Science */}
-          <div className="bg-white rounded-2xl shadow-lg p-6">
-            <div className="flex items-center mb-6">
-              <span className="text-4xl mr-3">🔬</span>
-              <div>
-                <h3 className="text-2xl font-bold text-gray-900">Science</h3>
-                <p className="text-gray-700">Physics, Chemistry, Biology</p>
-              </div>
-            </div>
-
-            <div className="grid gap-4">
-              {scienceChapters.map((chapter) => (
-                <div
-                  key={chapter.id}
-                  className={`p-4 rounded-lg border-2 ${
-                    chapter.isActive
-                      ? 'border-indigo-200 bg-indigo-50'
-                      : 'border-gray-200 bg-gray-50'
-                  }`}
-                >
-                  <div className="flex items-center justify-between">
-                    <div className="flex-1">
-                      <div className="flex items-center">
-                        <span className="font-semibold text-gray-900 mr-2">
-                          Ch {chapter.chapterNumber}:
-                        </span>
-                        <span className="text-gray-900">{chapter.chapterName}</span>
-                      </div>
-                      <p className="text-sm text-gray-700 mt-1">{chapter.description}</p>
-                    </div>
-                    {chapter.isActive ? (
-                      <Link
-                        href={`/chapter/${chapter.id}`}
-                        className="ml-4 px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition text-sm font-semibold"
-                      >
-                        Start
-                      </Link>
-                    ) : (
-                      <span className="ml-4 px-4 py-2 bg-gray-300 text-gray-600 rounded-lg text-sm">
-                        Coming Soon
-                      </span>
-                    )}
+          {subjects.map(([subject, subjectChapters]) => {
+            const config = SUBJECT_CONFIG[subject] ?? DEFAULT_CONFIG;
+            return (
+              <div key={subject} className="bg-white rounded-2xl shadow-lg p-6">
+                {/* Subject Header */}
+                <div className="flex items-center mb-6">
+                  <span className="text-4xl mr-3">{config.emoji}</span>
+                  <div>
+                    <h3 className="text-2xl font-bold text-gray-900">{subject}</h3>
+                    <p className="text-gray-700">{config.subtitle}</p>
                   </div>
                 </div>
-              ))}
-            </div>
-          </div>
 
-          {/* Mathematics */}
-          <div className="bg-white rounded-2xl shadow-lg p-6">
-            <div className="flex items-center mb-6">
-              <span className="text-4xl mr-3">📐</span>
-              <div>
-                <h3 className="text-2xl font-bold text-gray-900">Mathematics</h3>
-                <p className="text-gray-700">Numbers, Algebra, Geometry</p>
-              </div>
-            </div>
-
-            <div className="grid gap-4">
-              {mathChapters.map((chapter) => (
-                <div
-                  key={chapter.id}
-                  className={`p-4 rounded-lg border-2 ${
-                    chapter.isActive
-                      ? 'border-indigo-200 bg-indigo-50'
-                      : 'border-gray-200 bg-gray-50'
-                  }`}
-                >
-                  <div className="flex items-center justify-between">
-                    <div className="flex-1">
-                      <div className="flex items-center">
-                        <span className="font-semibold text-gray-900 mr-2">
-                          Ch {chapter.chapterNumber}:
-                        </span>
-                        <span className="text-gray-900">{chapter.chapterName}</span>
+                {/* Chapter List */}
+                <div className="grid gap-4">
+                  {subjectChapters.map((chapter) => (
+                    <div
+                      key={chapter.id}
+                      className={`p-4 rounded-lg border-2 ${
+                        chapter.isActive
+                          ? 'border-indigo-200 bg-indigo-50'
+                          : 'border-gray-200 bg-gray-50'
+                      }`}
+                    >
+                      <div className="flex items-center justify-between">
+                        <div className="flex-1">
+                          <div className="flex items-center">
+                            <span className="font-semibold text-gray-900 mr-2">
+                              {chapter.chapterName === `Unit ${chapter.chapterNumber}`
+                                ? chapter.chapterName
+                                : `Ch ${chapter.chapterNumber}:`}
+                            </span>
+                            {chapter.chapterName !== `Unit ${chapter.chapterNumber}` && (
+                              <span className="text-gray-900">{chapter.chapterName}</span>
+                            )}
+                          </div>
+                          <p className="text-sm text-gray-700 mt-1">{chapter.description}</p>
+                        </div>
+                        {chapter.isActive ? (
+                          <Link
+                            href={`/chapter/${chapter.id}`}
+                            className="ml-4 px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition text-sm font-semibold"
+                          >
+                            Start
+                          </Link>
+                        ) : (
+                          <span className="ml-4 px-4 py-2 bg-gray-300 text-gray-600 rounded-lg text-sm">
+                            Coming Soon
+                          </span>
+                        )}
                       </div>
-                      <p className="text-sm text-gray-700 mt-1">{chapter.description}</p>
                     </div>
-                    {chapter.isActive ? (
-                      <Link
-                        href={`/chapter/${chapter.id}`}
-                        className="ml-4 px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition text-sm font-semibold"
-                      >
-                        Start
-                      </Link>
-                    ) : (
-                      <span className="ml-4 px-4 py-2 bg-gray-300 text-gray-600 rounded-lg text-sm">
-                        Coming Soon
-                      </span>
-                    )}
-                  </div>
+                  ))}
                 </div>
-              ))}
-            </div>
-          </div>
+              </div>
+            );
+          })}
         </div>
       </main>
     </div>

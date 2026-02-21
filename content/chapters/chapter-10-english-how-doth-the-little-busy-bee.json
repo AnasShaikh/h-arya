@@ -1,0 +1,398 @@
+{
+  "metadata": {
+    "chapterNumber": 10,
+    "title": "How Doth the Little Busy Bee",
+    "subject": "English",
+    "pages": "35-36",
+    "description": "Original bee poem by Isaac Watts versus Lewis Carroll's crocodile parody. Teaches what a parody is and how to compare original and parody. Grammar: finding key words."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Who wrote the original poem 'How Doth the Little Busy Bee'?",
+      "options": [
+        "Isaac Watts",
+        "Lewis Carroll",
+        "R.L. Stevenson",
+        "Langston Hughes"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "Who wrote the parody poem about the crocodile?",
+      "options": [
+        "Lewis Carroll",
+        "Isaac Watts",
+        "R.L. Stevenson",
+        "Langston Hughes"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "What is a parody?",
+      "options": [
+        "A playful, comic imitation of a writer's style",
+        "A serious poem about nature",
+        "A letter written to a poet",
+        "A poem that does not rhyme"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "What does the bee in Isaac Watts' poem represent?",
+      "options": [
+        "Industry and hard work",
+        "Laziness and play",
+        "Cunning and tricks",
+        "Sadness and loss"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 4
+    },
+    {
+      "id": "q5",
+      "question": "What does Lewis Carroll's crocodile do in his poem?",
+      "options": [
+        "Grins cheerfully and welcomes little fishes with smiling jaws",
+        "Works hard to gather honey like a bee",
+        "Flies through the air with golden wings",
+        "Sings songs to the children"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "The Original Bee Poem by Isaac Watts",
+      "emoji": "🐝",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Isaac Watts wrote 'How Doth the Little Busy Bee' as a moral poem about hard work and diligence. The bee works all day — it improves each shining hour, gathers honey from every opening flower, builds its cells neatly, and stores honey carefully. The poem teaches children that they should be industrious like the busy bee and use their time wisely.",
+      "pageReference": "35",
+      "examples": [
+        {
+          "icon": "🐝",
+          "text": "The bee improves each shining hour — uses every moment well"
+        },
+        {
+          "icon": "🌸",
+          "text": "Gathers honey from every opening flower"
+        },
+        {
+          "icon": "🏠",
+          "text": "Builds its cells neatly and with skill"
+        },
+        {
+          "icon": "🍯",
+          "text": "Stores sweet honey to be used later"
+        }
+      ],
+      "keyPoints": [
+        "Isaac Watts wrote the original bee poem",
+        "The bee is a symbol of industry and diligence",
+        "The bee improves each shining hour — uses time wisely",
+        "It gathers honey from flowers, builds neat cells, stores honey",
+        "The poem's moral: be industrious and use your time well"
+      ],
+      "funFact": "Honey bees in India are very important for agriculture! They pollinate mango, guava, and litchi trees. Without bees, many of India's favourite fruits would not grow!",
+      "textbookRef": "Page 35: Original poem by Isaac Watts"
+    },
+    {
+      "id": 2,
+      "title": "Lewis Carroll's Crocodile Parody",
+      "emoji": "🐊",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Lewis Carroll, author of 'Alice in Wonderland', wrote a comic parody of Watts' bee poem. Instead of a hardworking bee, Carroll writes about a crocodile that 'improves his shining tail', 'pours Nile waters on his golden scales', 'cheerfully grins', and 'gently smiles' to welcome little fishes into his open jaws. The joke is that the crocodile is actually eating the fish, not welcoming them!",
+      "pageReference": "35-36",
+      "examples": [
+        {
+          "icon": "🐊",
+          "text": "The crocodile improves his shining tail — just like the bee improves each hour"
+        },
+        {
+          "icon": "💧",
+          "text": "Pours Nile waters on his golden scales"
+        },
+        {
+          "icon": "😁",
+          "text": "Cheerfully grins with gently smiling jaws — but he is about to eat the fish!"
+        },
+        {
+          "icon": "🐟",
+          "text": "Little fishes are 'welcomed' into his jaws — the comic irony"
+        }
+      ],
+      "keyPoints": [
+        "Lewis Carroll wrote the crocodile parody",
+        "The crocodile imitates the bee's actions but in a completely different context",
+        "The crocodile's 'gentle smile' is actually a predator's grin",
+        "The humour comes from the contrast between the polite language and the dangerous reality",
+        "Carroll's poem appears in 'Alice's Adventures in Wonderland'"
+      ],
+      "funFact": "Lewis Carroll was a mathematics professor at Oxford! He loved wordplay and logic puzzles. Alice's Adventures in Wonderland is full of clever riddles and funny parodies.",
+      "textbookRef": "Pages 35-36: Lewis Carroll's parody poem"
+    },
+    {
+      "id": 3,
+      "title": "What Is a Parody — Comparing Original and Parody",
+      "emoji": "😄",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "A parody is a playful, comic imitation of a writer's style. The parody uses the same structure, rhythm, and style as the original but changes the content to create humour. Carroll's crocodile poem follows the same pattern as Watts' bee poem but replaces the noble bee with a cunning crocodile. This creates a funny, ironic effect — the dangerous crocodile is described using the language usually reserved for the good, hardworking bee.",
+      "pageReference": "36",
+      "examples": [
+        {
+          "icon": "🐝",
+          "text": "Original (bee): Works hard, gathers honey, builds neatly"
+        },
+        {
+          "icon": "🐊",
+          "text": "Parody (crocodile): Improves his tail, grins cheerfully, eats fish"
+        },
+        {
+          "icon": "🎭",
+          "text": "Same rhythm, different meaning — that is the art of parody"
+        },
+        {
+          "icon": "😂",
+          "text": "The humour comes from applying the bee's virtuous language to a predator"
+        }
+      ],
+      "keyPoints": [
+        "Parody: a playful, comic imitation of another writer's style",
+        "A parody uses the same structure but creates humour by changing content",
+        "Carroll's poem follows the rhythm and pattern of Watts' poem",
+        "The comic effect comes from the contrast between language and reality",
+        "Parodies are a form of literary humour used throughout history"
+      ],
+      "funFact": "Parodies are very popular in India too! Many Bollywood songs have been parodied for comedy shows. When you imitate a famous song but change the words to make it funny, that is a parody!",
+      "textbookRef": "Page 36: Understanding parody"
+    },
+    {
+      "id": 4,
+      "title": "The Bee as a Symbol of Hard Work",
+      "emoji": "🍯",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The bee in Isaac Watts' poem is a symbol of industry (hard work) and diligence (careful, consistent effort). The bee does not waste a single moment — it is always working, always building, always gathering. Watts wrote this poem as a lesson for children to be like the bee: work hard, use your time well, and the result will be sweet (like honey).",
+      "pageReference": "35",
+      "examples": [
+        {
+          "icon": "⏰",
+          "text": "Bee improves each shining hour — never wastes time"
+        },
+        {
+          "icon": "🌸",
+          "text": "Bee gathers from every opening flower — takes every opportunity"
+        },
+        {
+          "icon": "🏗️",
+          "text": "Bee builds cells with great skill and neatness"
+        },
+        {
+          "icon": "🍯",
+          "text": "The honey stored = the reward for hard work"
+        }
+      ],
+      "keyPoints": [
+        "The bee symbolises industry and diligence",
+        "It uses every moment productively — 'each shining hour'",
+        "The bee's neat cells represent careful, skilled work",
+        "Stored honey = reward that comes from consistent hard work",
+        "The crocodile is the opposite — it represents cunning and predation"
+      ],
+      "funFact": "The Sanskrit phrase 'Parishrameva hi kevalam' means 'hard work alone is the key'. This ancient Indian wisdom perfectly matches the lesson of the bee poem!",
+      "textbookRef": "Page 35: The bee as a symbol"
+    },
+    {
+      "id": 5,
+      "title": "Grammar — Finding Key Words",
+      "emoji": "🔑",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Key words are the most important words in a sentence or passage — they carry the main meaning. In a poem, finding key words helps us understand the central message. For example, in the bee poem, key words are: 'busy', 'improves', 'gathers', 'builds', 'stores'. In Carroll's parody, key words like 'gently smiling jaws' are ironic — they say the opposite of what we expect.",
+      "pageReference": "36",
+      "examples": [
+        {
+          "icon": "🐝",
+          "text": "Key words in bee poem: busy, improves, gathers, builds, stores"
+        },
+        {
+          "icon": "🐊",
+          "text": "Key words in parody: cheerfully, gently, smiling — all ironic"
+        },
+        {
+          "icon": "🔑",
+          "text": "Finding key words helps identify the theme and message of a poem"
+        }
+      ],
+      "keyPoints": [
+        "Key words are the most important words that carry the main meaning",
+        "Identifying key words helps understand a poem or passage",
+        "In poems, look for words that are repeated or emphasised",
+        "Ironic key words mean the opposite of their literal meaning",
+        "Practice: underline words that seem most important in a poem"
+      ],
+      "funFact": "When students in India prepare for competitive exams like JEE or NEET, one key strategy is identifying key words in questions and passages — the same skill taught through this poem!",
+      "textbookRef": "Page 36: Grammar — Key Words activity"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "Who wrote the original poem about the little busy bee?",
+      "options": [
+        "Isaac Watts",
+        "Lewis Carroll",
+        "Langston Hughes",
+        "R.L. Stevenson"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Isaac Watts wrote 'How Doth the Little Busy Bee' as a moral poem about hard work and diligence.",
+      "conceptIds": [1],
+      "pageReference": "35"
+    },
+    {
+      "id": "q2",
+      "question": "What does the busy bee do in Watts' poem?",
+      "options": [
+        "Gathers honey from flowers, builds cells neatly, and stores honey",
+        "Sings songs and dances in the garden",
+        "Sleeps all day and rests in the hive",
+        "Flies away to a distant land"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The bee improves each shining hour, gathers honey from opening flowers, builds its cells neatly, and stores honey.",
+      "conceptIds": [1],
+      "pageReference": "35"
+    },
+    {
+      "id": "q3",
+      "question": "In Carroll's parody, what does the crocodile pour on its scales?",
+      "options": [
+        "Nile waters",
+        "Golden honey",
+        "River Ganga water",
+        "Silver rain"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In Lewis Carroll's parody poem, the crocodile pours Nile waters on its golden scales — imitating the bee's action of gathering, but in a comic, ironic way.",
+      "conceptIds": [2],
+      "pageReference": "35-36"
+    },
+    {
+      "id": "q4",
+      "question": "What is the humour in Carroll's crocodile poem?",
+      "options": [
+        "The crocodile uses gentle, welcoming language but is actually eating the fish",
+        "The crocodile is afraid of the little fishes",
+        "The crocodile tries to be a bee but fails",
+        "The crocodile sings like a bird"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The humour comes from the irony: the crocodile is described as 'cheerfully' smiling and 'gently' welcoming fish — but it is actually eating them!",
+      "conceptIds": [2, 3],
+      "pageReference": "35-36"
+    },
+    {
+      "id": "q5",
+      "question": "What is a parody?",
+      "options": [
+        "A playful, comic imitation of a writer's style",
+        "A serious poem about a historical event",
+        "A letter written to a famous person",
+        "A poem that does not have a rhyme scheme"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A parody is a playful, comic imitation of a writer's style. It follows the same structure but changes content to create humour.",
+      "conceptIds": [3],
+      "pageReference": "36"
+    },
+    {
+      "id": "q6",
+      "question": "What does the bee symbolise in Isaac Watts' poem?",
+      "options": [
+        "Industry and diligence",
+        "Cunning and trickery",
+        "Playfulness and joy",
+        "Sadness and loss"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The bee is a symbol of industry (hard work) and diligence (careful, consistent effort). The poem uses the bee to teach children to work hard.",
+      "conceptIds": [4],
+      "pageReference": "35"
+    },
+    {
+      "id": "q7",
+      "question": "What does the crocodile symbolise in Carroll's parody?",
+      "options": [
+        "Cunning and predation",
+        "Hard work and honesty",
+        "Joy and celebration",
+        "Wisdom and kindness"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The crocodile represents cunning and predation — it appears gentle and welcoming but is actually a dangerous predator, the opposite of the virtuous bee.",
+      "conceptIds": [2],
+      "pageReference": "35-36"
+    },
+    {
+      "id": "q8",
+      "question": "Which book does Lewis Carroll's crocodile poem appear in?",
+      "options": [
+        "Alice's Adventures in Wonderland",
+        "Treasure Island",
+        "A Child's Garden of Verses",
+        "The Jungle Book"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lewis Carroll's crocodile poem appears in 'Alice's Adventures in Wonderland', the famous story about a girl who falls into a magical world.",
+      "conceptIds": [2],
+      "pageReference": "35-36"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Isaac Watts wrote the original bee poem as a moral lesson about hard work",
+      "The bee gathers honey, builds neat cells, and stores honey — symbol of industry",
+      "Lewis Carroll wrote a parody replacing the bee with a cunning crocodile",
+      "The crocodile's gently smiling jaws are ironic — it is actually eating the fish",
+      "A parody is a playful, comic imitation of another writer's style",
+      "Bee = industry and diligence; Crocodile = cunning and predation",
+      "Key words carry the main meaning of a sentence or poem",
+      "Ironic key words mean the opposite of their literal meaning"
+    ],
+    "commonMisconceptions": [
+      "A parody is disrespectful to the original author — NOT NECESSARILY (good parody pays tribute by imitating the style carefully)",
+      "The crocodile poem is a serious poem — FALSE (it is comic and ironic)",
+      "Both poems have the same message — FALSE (bee = hard work; crocodile = ironic opposite of that message)"
+    ],
+    "realWorldExamples": [
+      "Bollywood song parodies in comedy shows like The Kapil Sharma Show",
+      "School skit parodies during Annual Day functions across Maharashtra",
+      "Bees pollinating mango and guava orchards in Maharashtra — importance of bees",
+      "Crocodiles in Indian rivers — mugger crocodiles found in Chambal River and Bhitarkanika",
+      "Indian proverb equivalent: 'Karke dekho' (try and see) — same message as the bee poem"
+    ],
+    "formulas": []
+  }
+}

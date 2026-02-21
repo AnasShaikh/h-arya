@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "chapterNumber": 13,
+    "title": "Great Scientists",
+    "subject": "English",
+    "pages": "49-54",
+    "description": "From A.P.J. Abdul Kalam's 'Reignited'. The story of Michael Faraday — from poor bookbinder's apprentice to inventor of the induction motor and electrical generator. Grammar: Subject and Predicate."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "From whose book is the chapter 'Great Scientists' taken?",
+      "options": [
+        "A.P.J. Abdul Kalam",
+        "Jules Verne",
+        "Michael Faraday",
+        "Humphry Davy"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "Where was Michael Faraday born?",
+      "options": [
+        "London (poor family)",
+        "Paris (wealthy family)",
+        "Munich (middle class)",
+        "New York (working class)"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "What did Faraday invent that is used in fans, cars, and trains today?",
+      "options": [
+        "The induction motor",
+        "The telephone",
+        "The electric bulb",
+        "The steam engine"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "What is the subject in the sentence 'The scientist discovered electricity'?",
+      "options": [
+        "The scientist",
+        "Discovered",
+        "Electricity",
+        "The"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 5
+    },
+    {
+      "id": "q5",
+      "question": "Complete Faraday's quote: 'In order to succeed, your desire for success should be greater than your _____ of failure.'",
+      "options": [
+        "Fear",
+        "Love",
+        "Knowledge",
+        "Memory"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 4
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Faraday's Difficult Childhood",
+      "emoji": "👦",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Michael Faraday was born into poverty in London. As a child, he had a speech defect — he said 'wabbit' instead of 'rabbit'. He had to leave school at the age of 12 because his family could not afford to continue his education. He became an apprentice at a bookbinder's shop. However, he secretly read the books he was supposed to be binding, teaching himself science at night.",
+      "pageReference": "49-51",
+      "examples": [
+        {
+          "icon": "🏚️",
+          "text": "Born into poverty in London"
+        },
+        {
+          "icon": "🗣️",
+          "text": "Speech defect: said 'wabbit' instead of 'rabbit' as a child"
+        },
+        {
+          "icon": "🏫",
+          "text": "Left school at age 12 — family too poor to continue"
+        },
+        {
+          "icon": "📚",
+          "text": "Became a bookbinder's apprentice and read books secretly at night"
+        }
+      ],
+      "keyPoints": [
+        "Michael Faraday was born into a poor family in London",
+        "He had a speech defect as a child — said 'wabbit' for 'rabbit'",
+        "Left school at 12 years old due to family poverty",
+        "Became an apprentice at a bookbinder's shop",
+        "Secretly read books at night to teach himself — especially science"
+      ],
+      "funFact": "Many of India's greatest scientists also came from humble backgrounds. Dr. A.P.J. Abdul Kalam sold newspapers as a child in Rameswaram, Tamil Nadu, and went on to become India's 'Missile Man' and President!",
+      "textbookRef": "Pages 49-51: Faraday's childhood"
+    },
+    {
+      "id": 2,
+      "title": "Meeting Humphry Davy — From Bookbinder to Lab Assistant",
+      "emoji": "🔬",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Faraday became obsessed with the famous scientist Humphry Davy's lectures on electricity. He meticulously took notes and sent them to Davy, asking to work for him. Davy was impressed and made Faraday his laboratory assistant. This was the turning point in Faraday's life — a poor bookbinder's apprentice had entered the world of science through his own passionate self-effort.",
+      "pageReference": "51-52",
+      "examples": [
+        {
+          "icon": "⚡",
+          "text": "Obsessed with Humphry Davy's lectures on electricity"
+        },
+        {
+          "icon": "✍️",
+          "text": "Took meticulous notes of Davy's lectures and bound them neatly"
+        },
+        {
+          "icon": "💌",
+          "text": "Sent his notes to Davy, asking to work for him"
+        },
+        {
+          "icon": "🔭",
+          "text": "Davy made him a laboratory assistant — beginning of his scientific career"
+        }
+      ],
+      "keyPoints": [
+        "Humphry Davy was a famous scientist who gave public electricity lectures",
+        "Faraday took careful notes of Davy's lectures",
+        "He sent his bound notes to Davy as a job application",
+        "Davy was impressed and appointed Faraday as his lab assistant",
+        "This is how a bookbinder's apprentice entered the world of science"
+      ],
+      "funFact": "Today, students can email professors asking to work in their labs! Faraday did the same thing — but by hand-writing and binding his notes. The principle is the same: show your passion and effort!",
+      "textbookRef": "Pages 51-52: Faraday meets Davy"
+    },
+    {
+      "id": 3,
+      "title": "The Induction Motor and Its Impact",
+      "emoji": "⚡",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Faraday invented the induction motor — a device that uses electricity and magnetism to create mechanical movement. The induction motor is used in almost every modern machine: fans, air conditioners, electric cars, trains, and aircraft. Before the induction motor, machines relied on steam power. Faraday's invention transformed the world and brought electricity into everyday life.",
+      "pageReference": "52-53",
+      "examples": [
+        {
+          "icon": "💨",
+          "text": "Ceiling fans in every Indian home use the induction motor"
+        },
+        {
+          "icon": "🚆",
+          "text": "Electric trains and metro railways use induction motors"
+        },
+        {
+          "icon": "✈️",
+          "text": "Aircraft engines use principles from Faraday's work"
+        },
+        {
+          "icon": "🚗",
+          "text": "Electric cars like those made by Tesla use induction motors"
+        }
+      ],
+      "keyPoints": [
+        "Faraday invented the induction motor",
+        "An induction motor converts electricity into mechanical movement",
+        "Used in: fans, ACs, electric trains, cars, aircraft",
+        "Before this invention, machines relied on steam power",
+        "Faraday's induction motor helped bring electricity into everyday life"
+      ],
+      "funFact": "India's Mumbai Metro, Pune Metro, and Delhi Metro all use induction motors to run! Every time you ride the metro, you benefit from Faraday's invention from 200 years ago!",
+      "textbookRef": "Pages 52-53: The induction motor invention"
+    },
+    {
+      "id": 4,
+      "title": "The Generator, Electromagnetic Theory, and Davy's Test",
+      "emoji": "🧲",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Faraday also invented the electrical generator — a device that converts mechanical energy into electricity. The jealous Davy gave Faraday an impossible task: reverse-engineer a piece of Bavarian glass (recreate it without being told how it was made). Faraday failed but kept the glass as a souvenir of the experience. After Davy's death, Faraday became head of the laboratory. Together with James Maxwell, Faraday developed the electromagnetic theory, which forms the foundation of all modern electronics.",
+      "pageReference": "53-54",
+      "examples": [
+        {
+          "icon": "🔋",
+          "text": "Electrical generator: converts mechanical energy into electricity"
+        },
+        {
+          "icon": "🪟",
+          "text": "Davy's impossible task: recreate Bavarian glass without instructions"
+        },
+        {
+          "icon": "🎁",
+          "text": "Faraday kept the glass as a souvenir of failure — learning from mistakes"
+        },
+        {
+          "icon": "📡",
+          "text": "Electromagnetic theory by Faraday and Maxwell → modern electronics"
+        }
+      ],
+      "keyPoints": [
+        "Faraday invented the electrical generator — converts motion to electricity",
+        "The jealous Davy gave him an impossible task: reverse-engineer Bavarian glass",
+        "Faraday failed but kept the glass as a souvenir — lesson: learn from failure",
+        "After Davy's death, Faraday became head of the laboratory",
+        "Faraday and James Maxwell: electromagnetic theory → basis of all modern electronics"
+      ],
+      "funFact": "The 'Farad' — the unit of electrical capacitance — is named after Michael Faraday! His name is permanently embedded in the language of science, just like Newton, Watt, and Ohm.",
+      "textbookRef": "Pages 53-54: Generator, electromagnetic theory, and Davy's test"
+    },
+    {
+      "id": 5,
+      "title": "Subject and Predicate",
+      "emoji": "📝",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Every sentence has two parts: the subject and the predicate. The subject is the person or thing the sentence is about. The predicate is everything the sentence says about the subject — it always includes the verb. For example: 'Michael Faraday / invented the induction motor.' Subject = Michael Faraday; Predicate = invented the induction motor.",
+      "pageReference": "54",
+      "examples": [
+        {
+          "icon": "👤",
+          "text": "Subject: Michael Faraday | Predicate: invented the induction motor"
+        },
+        {
+          "icon": "🐝",
+          "text": "Subject: The busy bee | Predicate: gathers honey from flowers"
+        },
+        {
+          "icon": "🚂",
+          "text": "Subject: The train | Predicate: moved faster than fairies"
+        },
+        {
+          "icon": "🦁",
+          "text": "Subject: The lion king | Predicate: befriended the camel"
+        }
+      ],
+      "keyPoints": [
+        "Every sentence has a subject and a predicate",
+        "Subject: who or what the sentence is about",
+        "Predicate: what the subject does or is — always contains the verb",
+        "To find subject: ask 'Who or what is doing this?'",
+        "To find predicate: ask 'What does the subject do?' — this is the predicate"
+      ],
+      "funFact": "In Sanskrit grammar, the same concept exists — 'Kartru' (subject) and 'Kriya' (verb/predicate). Ancient Indian grammarians like Panini developed these rules 2,500 years ago — long before English grammar was formalised!",
+      "textbookRef": "Page 54: Grammar — Subject and Predicate"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "From which book is 'Great Scientists' taken?",
+      "options": [
+        "Reignited by A.P.J. Abdul Kalam",
+        "Wings of Fire by A.P.J. Abdul Kalam",
+        "My Experiments with Truth by Mahatma Gandhi",
+        "Discovery of India by Jawaharlal Nehru"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Great Scientists' is from 'Reignited' by A.P.J. Abdul Kalam. The chapter includes the story of Michael Faraday.",
+      "conceptIds": [1],
+      "pageReference": "49"
+    },
+    {
+      "id": "q2",
+      "question": "What was Faraday's speech problem as a child?",
+      "options": [
+        "He said 'wabbit' instead of 'rabbit'",
+        "He could not speak at all",
+        "He spoke very slowly",
+        "He could not hear properly"
+      ],
+      "correctAnswer": "A",
+      "explanation": "As a child, Faraday had a speech defect and said 'wabbit' instead of 'rabbit'. Despite this, he became one of the world's greatest scientists.",
+      "conceptIds": [1],
+      "pageReference": "49-50"
+    },
+    {
+      "id": "q3",
+      "question": "How did Faraday get Humphry Davy to notice him?",
+      "options": [
+        "He sent Davy his neatly bound notes from Davy's lectures",
+        "He broke into the laboratory",
+        "He was recommended by a famous professor",
+        "He won a national science competition"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Faraday took careful notes of Davy's electricity lectures, bound them neatly (using his bookbinding skills), and sent them to Davy asking for work. Davy was impressed and made him his lab assistant.",
+      "conceptIds": [2],
+      "pageReference": "51-52"
+    },
+    {
+      "id": "q4",
+      "question": "What did Faraday invent that is found in fans, trains, and electric cars today?",
+      "options": [
+        "The induction motor",
+        "The telephone",
+        "The electric light bulb",
+        "The steam engine"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Faraday invented the induction motor, which is used in fans, electric trains, cars, and aircraft. It converts electricity into mechanical movement.",
+      "conceptIds": [3],
+      "pageReference": "52-53"
+    },
+    {
+      "id": "q5",
+      "question": "What impossible task did the jealous Davy give Faraday?",
+      "options": [
+        "Reverse-engineer a piece of Bavarian glass",
+        "Build a submarine without instructions",
+        "Create electricity from thin air",
+        "Write a book on chemistry in one week"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Davy, jealous of Faraday's growing fame, gave him an impossible task: reverse-engineer a piece of Bavarian glass (recreate it without knowing how it was made).",
+      "conceptIds": [4],
+      "pageReference": "53"
+    },
+    {
+      "id": "q6",
+      "question": "What did Faraday do with the Bavarian glass after failing the task?",
+      "options": [
+        "He kept it as a souvenir of his failure",
+        "He threw it away in anger",
+        "He gave it back to Davy",
+        "He sold it to a museum"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Faraday kept the glass as a souvenir of the experience. This shows he viewed failure as a learning experience rather than something to be ashamed of.",
+      "conceptIds": [4],
+      "pageReference": "53"
+    },
+    {
+      "id": "q7",
+      "question": "Complete Faraday's famous quote: 'In order to succeed, your desire for success should be greater than your _____ of failure.'",
+      "options": [
+        "Fear",
+        "Memory",
+        "Knowledge",
+        "Experience"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Faraday's famous quote is: 'In order to succeed, your desire for success should be greater than your fear of failure.'",
+      "conceptIds": [4],
+      "pageReference": "54"
+    },
+    {
+      "id": "q8",
+      "question": "What is the subject of the sentence: 'Michael Faraday invented the induction motor.'?",
+      "options": [
+        "Michael Faraday",
+        "Invented",
+        "The induction motor",
+        "Motor"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The subject of the sentence is 'Michael Faraday' — he is the person the sentence is about. The predicate is 'invented the induction motor'.",
+      "conceptIds": [5],
+      "pageReference": "54"
+    },
+    {
+      "id": "q9",
+      "question": "What is the predicate of the sentence: 'The bee gathers honey from flowers.'?",
+      "options": [
+        "Gathers honey from flowers",
+        "The bee",
+        "Honey",
+        "Flowers"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The predicate is 'gathers honey from flowers' — this is what the subject (the bee) does. The predicate always includes the verb.",
+      "conceptIds": [5],
+      "pageReference": "54"
+    },
+    {
+      "id": "q10",
+      "question": "With which scientist did Faraday develop the electromagnetic theory?",
+      "options": [
+        "James Maxwell",
+        "Isaac Newton",
+        "Humphry Davy",
+        "Thomas Edison"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Faraday and James Maxwell together developed the electromagnetic theory, which is the foundation of all modern electronics including phones, computers, and televisions.",
+      "conceptIds": [4],
+      "pageReference": "53-54"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "'Great Scientists' is from 'Reignited' by A.P.J. Abdul Kalam",
+      "Faraday was born poor in London, had speech defect (said 'wabbit' for 'rabbit')",
+      "Left school at 12, became bookbinder's apprentice, read books secretly at night",
+      "Obsessed with Humphry Davy's lectures — sent bound notes, became lab assistant",
+      "Invented the induction motor — used in fans, trains, cars, aircraft",
+      "Invented the electrical generator — converts motion into electricity",
+      "Davy gave impossible task (reverse-engineer Bavarian glass) out of jealousy",
+      "Faraday kept glass as souvenir — learned from failure",
+      "After Davy's death, became head of lab",
+      "Faraday + James Maxwell = electromagnetic theory — basis of modern electronics",
+      "Quote: 'In order to succeed, your desire for success should be greater than your fear of failure.'",
+      "Subject: who or what the sentence is about",
+      "Predicate: what the subject does or is — contains the verb"
+    ],
+    "commonMisconceptions": [
+      "The predicate is just the verb — FALSE (the predicate is the verb plus all its objects and complements)",
+      "The subject is always the first word — FALSE (the subject can come after the verb in some sentences)",
+      "Faraday invented electricity — FALSE (he invented the induction motor and generator; electricity was already known)"
+    ],
+    "realWorldExamples": [
+      "Dr. A.P.J. Abdul Kalam — sold newspapers as a child in Rameswaram, became India's President",
+      "Mumbai Metro, Delhi Metro, Pune Metro — use induction motors invented by Faraday",
+      "TATA Power and other electricity companies use generators based on Faraday's principles",
+      "Indian schoolchildren learning despite poverty — similar to Faraday's story of self-learning",
+      "Bharat Heavy Electricals Limited (BHEL) in India manufactures electric motors and generators"
+    ],
+    "formulas": []
+  }
+}

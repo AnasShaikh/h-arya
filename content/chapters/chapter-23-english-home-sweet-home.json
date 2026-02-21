@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "chapterNumber": 23,
+    "title": "Home Sweet Home",
+    "subject": "English",
+    "pages": "95-96",
+    "description": "A deeply moving poem by John Howard Payne about a poet in exile who longs for his simple home — the thatched cottage, singing birds, smiling father, and caring mother. The famous line 'Be it ever so humble, there's no place like home!' captures the universal feeling of homesickness and love for one's home. Grammar focus: Synonyms, Antonyms, and Homonyms."
+  },
+  "preAssessment": [
+    {
+      "id": "pre_23_1",
+      "question": "Who wrote the poem 'Home Sweet Home'?",
+      "options": ["A) Alfred Lord Tennyson", "B) John Howard Payne", "C) William Shakespeare", "D) Rudyard Kipling"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_23_1"
+    },
+    {
+      "id": "pre_23_2",
+      "question": "What is the most famous line from the poem?",
+      "options": ["A) 'Home is where the heart is'", "B) 'My home is a castle'", "C) 'Be it ever so humble, there's no place like home!'", "D) 'East or West, home is best'"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_23_1"
+    },
+    {
+      "id": "pre_23_3",
+      "question": "What are synonyms?",
+      "options": ["A) Words that sound the same but have different meanings", "B) Words that have the same or similar meaning", "C) Words that have opposite meanings", "D) Words that are spelled the same but have different meanings"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "concept_23_5"
+    },
+    {
+      "id": "pre_23_4",
+      "question": "What does the poet gaze at while away from home, imagining his mother thinks of him?",
+      "options": ["A) The sun", "B) The stars", "C) The moon", "D) A river"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "concept_23_3"
+    },
+    {
+      "id": "pre_23_5",
+      "question": "Which is a pair of antonyms?",
+      "options": ["A) big and large", "B) happy and joyful", "C) strong and weak", "D) beautiful and pretty"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "concept_23_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept_23_1",
+      "title": "Poet and Poem",
+      "emoji": "🏡",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "John Howard Payne (1791–1852) was an American playwright, actor, and poet. He wrote the song 'Home! Sweet Home!' as part of a musical play called 'Clari, or the Maid of Milan' in 1823. The poem became instantly famous worldwide and is still one of the most recognised poems in the English language. The most quoted line is: 'Be it ever so humble, there's no place like home!' This means: no matter how simple or plain your home may be, it is still the best place in the world to you. The poem has five stanzas and each stanza ends with the refrain: 'Home, home, sweet, sweet home! / There's no place like home! / There's no place like home!'",
+      "pageReference": "Pages 95-96",
+      "examples": [
+        "John Howard Payne himself spent many years travelling away from home — which is why his poem is so full of genuine longing.",
+        "The phrase 'Be it ever so humble' = 'No matter how simple or poor it may be' — 'humble' means modest and simple.",
+        "This poem has been translated into many Indian languages including Hindi, Marathi, and Bengali — the feeling of missing home is universal."
+      ],
+      "keyPoints": [
+        "Poet: John Howard Payne (1791–1852) — American playwright and poet",
+        "Poem from musical play 'Clari, or the Maid of Milan' (1823)",
+        "Famous line: 'Be it ever so humble, there's no place like home!'",
+        "Five stanzas, each ending with refrain: 'Home, home, sweet, sweet home!'",
+        "Theme: no matter how far or how grand the world is, home is best"
+      ],
+      "funFact": "The expression 'There's no place like home' became even more famous because of the 1939 American film 'The Wizard of Oz' — where Dorothy clicks her ruby shoes and repeats this line to magically return home! People worldwide know this phrase.",
+      "textbookRef": "Chapter 23, Pages 95-96, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_23_2",
+      "title": "What the Poet Misses — Cottage, Birds, Peace",
+      "emoji": "🌄",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The poet is far from home (in exile — forced or chosen absence from one's homeland). He describes the home he misses with great detail and emotion. He misses his simple thatched cottage — a small house with a roof made of dried grass or straw. A thatched cottage is simple and humble, but to the poet it is priceless. He misses the birds that sang in and around his home — their sweet voices filled the house with music. He misses the peace of mind — the deep mental comfort and calm that only home provides. Though he may visit palaces and mansions in his travels, none of them give him the peace and warmth of his humble cottage. The contrast between grand palaces and the simple cottage is the heart of the poem.",
+      "pageReference": "Pages 95-96",
+      "examples": [
+        "A thatched cottage is like the mud houses in rural Maharashtra — simple, but filled with warmth, love, and memories.",
+        "The birds singing at home — like the morning sounds in an Indian village: sparrows, crows, koels — familiar and comforting.",
+        "Peace of mind: many people in big cities (Mumbai, Pune) travel to their ancestral villages during Diwali to feel exactly this kind of peace."
+      ],
+      "keyPoints": [
+        "Poet is in exile — far from home, longing to return",
+        "Misses: thatched cottage (simple home with grass/straw roof)",
+        "Misses: birds singing — natural music of home",
+        "Misses: peace of mind — the deep comfort only home gives",
+        "Contrast: grand palaces he visits vs humble cottage he loves"
+      ],
+      "funFact": "Thatched cottages are still found in Irish and English villages and are considered heritage buildings. In Maharashtra, many old farmhouses have tiled roofs that give the same warm, humble feeling. These simple homes are often more cherished than grand buildings!",
+      "textbookRef": "Chapter 23, Pages 95-96, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_23_3",
+      "title": "The Mother Connection",
+      "emoji": "🌕",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "One of the most touching moments in the poem is when the poet gazes at the moon. The moon is the same moon that shines over his home and over his mother. When he looks at the moon, he feels connected to his mother — he imagines that she too is looking at the moon and thinking of him. This is a beautiful and emotional image: two people separated by great distance, connected by the same moon. The poet also misses his father's smile and his mother's loving care. The poem shows that home is not just a building — it is the people in it. Father's smile and mother's care make the house a true home. This powerful emotional connection to parents is something every child and every person feels.",
+      "pageReference": "Pages 95-96",
+      "examples": [
+        "In India, students who go to hostel or boarding school often call home every night — the same feeling of missing mother and father that the poet describes.",
+        "Looking at the same moon — in many Indian cultures, couples and families separated by distance are connected by looking at the moon on the same night (like Karva Chauth).",
+        "Mother's care: the smell of home-cooked food, the sound of mother's voice — small things that mean everything when you're far away."
+      ],
+      "keyPoints": [
+        "Poet gazes at the moon from far away — imagines mother also looks at the same moon",
+        "The moon = universal connector between people separated by distance",
+        "Misses: father's smile and mother's loving care",
+        "Home = the people in it, not just the building",
+        "The emotional bond with parents is what makes home truly 'home'"
+      ],
+      "funFact": "The Chinese Mid-Autumn Festival (Mooncake Festival) is celebrated by 1.4 billion people by looking at the full moon and thinking of family members who are far away — the SAME idea as John Howard Payne's moon image, across cultures!",
+      "textbookRef": "Chapter 23, Pages 95-96, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_23_4",
+      "title": "The Refrain and Its Effect",
+      "emoji": "🎵",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The poem's refrain is: 'Home, home, sweet, sweet home! / There's no place like home! / There's no place like home!' A refrain is a group of lines repeated at regular intervals in a poem or song. In 'Home Sweet Home', the refrain appears at the end of each of the five stanzas. The repetition creates several important effects: (1) Musical effect — repeating the lines makes the poem sound like a song with a chorus. (2) Emotional emphasis — repeating 'no place like home' drives the message deep into the listener's heart. (3) Unity — it ties all the stanzas together with one central feeling. The doubling — 'sweet, sweet home' (not just 'sweet home') intensifies the emotion. The poem feels like a song of yearning and love.",
+      "pageReference": "Pages 95-96",
+      "examples": [
+        "Like the chorus of a Hindi film song ('Vande Mataram' repeated again and again) — repetition makes the message stronger and more memorable.",
+        "The refrain 'Home, home, sweet, sweet home' — saying 'sweet' twice (sweet, sweet) is like saying 'bahut bahut pyara' in Hindi — the doubling intensifies the feeling.",
+        "When we sing the national anthem, repeating 'Jai Hind' at the end reinforces the patriotic feeling — same effect as a refrain."
+      ],
+      "keyPoints": [
+        "Refrain: 'Home, home, sweet, sweet home! / There's no place like home! / There's no place like home!'",
+        "Appears at the end of each of the five stanzas",
+        "Effects: musical (like a chorus), emotional emphasis, unity across the poem",
+        "Repetition of 'sweet, sweet' intensifies the emotion",
+        "The poem was originally written as a SONG for a musical — hence the song-like refrain"
+      ],
+      "funFact": "John Howard Payne wrote the music and lyrics for 'Home! Sweet Home!' for a stage musical in London in 1823. It became a hit song worldwide before it became a famous poem — showing that great art can be both musical and literary at the same time!",
+      "textbookRef": "Chapter 23, Pages 95-96, Maharashtra Board 7th Grade English"
+    },
+    {
+      "id": "concept_23_5",
+      "title": "Grammar — Synonyms, Antonyms, Homonyms",
+      "emoji": "🔄",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Synonyms are words that have the same or very similar meaning. Example: good = nice = pretty. Using synonyms makes writing more varied and interesting — instead of repeating 'good' again and again, we can use 'excellent', 'wonderful', 'great'. Antonyms are words that have opposite meanings. Example: strong ≠ weak; happy ≠ sad; hot ≠ cold. Antonyms help us express contrasts and comparisons clearly. Homonyms are words that sound the same and/or are spelled the same but have different meanings. Example: 'round' — as an adjective: a round ball; as a noun: a round of applause; as a verb: to round a corner. Another example: 'bat' — cricket bat / a bat that flies at night. Homonyms often cause confusion so context is very important.",
+      "pageReference": "Pages 95-96",
+      "examples": [
+        "Synonyms: good = nice = pretty = wonderful = excellent — all mean something positive",
+        "Antonyms: strong ≠ weak; loud ≠ quiet; day ≠ night; love ≠ hate",
+        "Homonyms: 'round' (circular shape / to go around a corner / a round of applause — same word, three meanings!)"
+      ],
+      "keyPoints": [
+        "Synonyms = words with same/similar meaning (good = nice = pretty)",
+        "Antonyms = words with opposite meanings (strong ≠ weak, happy ≠ sad)",
+        "Homonyms = same spelling/sound, different meanings (round, bat, match, light)",
+        "Use synonyms for variety in writing; antonyms for contrast",
+        "Context is crucial for homonyms — the surrounding words tell us which meaning is intended"
+      ],
+      "funFact": "English has more homonyms than almost any other language! The word 'set' has over 430 different meanings in the Oxford English Dictionary — making it the word with the MOST meanings in all of English. That's a lot of homonym confusion!",
+      "textbookRef": "Chapter 23, Pages 95-96, Maharashtra Board 7th Grade English"
+    }
+  ],
+  "test": [
+    {
+      "id": "test_23_1",
+      "question": "Who wrote the poem 'Home Sweet Home'?",
+      "options": ["A) William Wordsworth", "B) John Howard Payne", "C) Alfred Lord Tennyson", "D) Rabindranath Tagore"],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": "John Howard Payne (1791–1852) was an American playwright and poet who wrote 'Home! Sweet Home!' as part of a musical play in 1823. It became one of the world's most famous poems."
+    },
+    {
+      "id": "test_23_2",
+      "question": "Complete the famous line: 'Be it ever so humble, ___'",
+      "options": ["A) 'a house is a house'", "B) 'home is where friends are'", "C) 'there's no place like home!'", "D) 'home fills your heart'"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "The complete famous line is 'Be it ever so humble, there's no place like home!' It means: no matter how simple or plain your home is, it is still the most precious place in the world to you."
+    },
+    {
+      "id": "test_23_3",
+      "question": "What does the poet gaze at while thinking of his mother from far away?",
+      "options": ["A) The sun", "B) The stars", "C) The moon", "D) The river"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "The poet gazes at the moon from far away and imagines that his mother is also looking at the same moon and thinking of him — a beautiful image of connection across distance."
+    },
+    {
+      "id": "test_23_4",
+      "question": "What type of home does the poet describe missing?",
+      "options": ["A) A grand marble palace", "B) A large city apartment", "C) A thatched cottage", "D) A riverside mansion"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "The poet misses his simple thatched cottage — a small home with a grass/straw roof. Though humble, it represents warmth, love, and peace that no grand palace can replace."
+    },
+    {
+      "id": "test_23_5",
+      "question": "What is the refrain of the poem?",
+      "options": ["A) 'Home is where the heart is, home is where love stays'", "B) 'Home, home, sweet, sweet home! There's no place like home!'", "C) 'No matter where I go, I will return to my home'", "D) 'Sweet home, sweet home, I miss my sweet home'"],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "explanation": "The refrain is 'Home, home, sweet, sweet home! / There's no place like home! / There's no place like home!' It appears at the end of each stanza, creating a musical, emotional emphasis."
+    },
+    {
+      "id": "test_23_6",
+      "question": "Which pair of words are SYNONYMS?",
+      "options": ["A) strong and weak", "B) happy and sad", "C) good and nice", "D) day and night"],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": "'Good' and 'nice' are synonyms — they have the same or similar meaning. Strong/weak and happy/sad are antonyms (opposites), and day/night are antonyms."
+    },
+    {
+      "id": "test_23_7",
+      "question": "Which pair of words are ANTONYMS?",
+      "options": ["A) big and large", "B) happy and joyful", "C) loud and noisy", "D) strong and weak"],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": "'Strong' and 'weak' are antonyms — they have opposite meanings. Big/large and happy/joyful are synonyms (similar meaning), and loud/noisy are synonyms."
+    },
+    {
+      "id": "test_23_8",
+      "question": "The word 'round' in 'a round ball' and 'a round of applause' — what type of word is this?",
+      "options": ["A) Synonym", "B) Antonym", "C) Homonym", "D) Compound word"],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "explanation": "'Round' is a homonym — the same word with different meanings. 'A round ball' (circular shape) and 'a round of applause' (a session of clapping) use the same word with completely different meanings."
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "John Howard Payne (1791–1852) — American poet, wrote 'Home! Sweet Home!' for a musical",
+      "Famous line: 'Be it ever so humble, there's no place like home!'",
+      "Poet in exile, missing: thatched cottage, singing birds, peace of mind",
+      "Misses father's smile and mother's care",
+      "Gazes at moon — feels mother is thinking of him too",
+      "Refrain: 'Home, home, sweet, sweet home! There's no place like home!'",
+      "Synonyms = same meaning (good=nice=pretty)",
+      "Antonyms = opposite meaning (strong≠weak)",
+      "Homonyms = same word, different meanings (round, bat, match)"
+    ],
+    "commonMisconceptions": [
+      "Students may confuse homonyms with homophones — homonyms have the same spelling AND sound but different meanings; homophones sound the same but are spelled differently (know/no, here/hear).",
+      "Students may think synonyms are exact replacements — synonyms have SIMILAR but not always IDENTICAL meanings (happy=joyful but in some contexts they feel slightly different).",
+      "'Humble' in 'Be it ever so humble' means SIMPLE or MODEST — not embarrassed (which is another meaning of humble). Context matters!",
+      "The refrain in this poem is from a SONG originally — students should understand it has a musical quality, not just poetic."
+    ],
+    "realWorldExamples": [
+      "Homesickness is very real for Maharashtra students who go to Navodaya Vidyalaya residential schools or city hostels — the feeling Payne describes is completely relatable.",
+      "In Diwali, millions of Indians travel home from cities — the same longing Payne describes drives one of the world's biggest annual human migrations.",
+      "The moon as a connector: in Maharashtra, Karva Chauth and other festivals involve looking at the moon together — exactly the image the poet uses.",
+      "Marathi literature has many poems about 'ghar' (home) and 'aai' (mother) — Shanta Shelke's poems, for instance, capture the same emotions as Home Sweet Home."
+    ],
+    "formulas": []
+  }
+}

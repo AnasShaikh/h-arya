@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "chapterNumber": 4,
+    "title": "The King's Choice",
+    "subject": "English",
+    "pages": "10-15",
+    "description": "A fable about a lion king whose courtiers act selfishly. The lion befriends a loyal camel. Moral: To be king is good, but to be kind is better. Grammar: Countable and Uncountable Nouns."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "What type of story is 'The King's Choice'?",
+      "options": [
+        "A fable",
+        "A poem",
+        "A biography",
+        "A news report"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "Who was the king in 'The King's Choice'?",
+      "options": [
+        "A lion",
+        "A tiger",
+        "An elephant",
+        "A horse"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following is an uncountable noun?",
+      "options": [
+        "Water",
+        "Boy",
+        "Chair",
+        "Book"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 5
+    },
+    {
+      "id": "q4",
+      "question": "Which is a countable noun?",
+      "options": [
+        "Apple",
+        "Rice",
+        "Milk",
+        "Sand"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 5
+    },
+    {
+      "id": "q5",
+      "question": "What is the moral of 'The King's Choice'?",
+      "options": [
+        "To be king is good, but to be kind is better",
+        "Never trust strangers",
+        "Hard work always pays",
+        "Slow and steady wins the race"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 4
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Story Summary and Characters",
+      "emoji": "🦁",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The King's Choice is a fable about a lion king who has three courtiers: a fox (adviser), a leopard (bodyguard), and a vulture (messenger). All three courtiers serve the king selfishly — they think only about their own benefit. The story shows how the lion, with wisdom and kindness, makes a better choice than his selfish courtiers expect.",
+      "pageReference": "10-11",
+      "examples": [
+        {
+          "icon": "🦊",
+          "text": "Fox — the adviser: clever but selfish"
+        },
+        {
+          "icon": "🐆",
+          "text": "Leopard — the bodyguard: strong but selfish"
+        },
+        {
+          "icon": "🦅",
+          "text": "Vulture — the messenger: swift but selfish"
+        },
+        {
+          "icon": "🦁",
+          "text": "Lion — the king: powerful and ultimately kind"
+        }
+      ],
+      "keyPoints": [
+        "The lion is the king of the forest",
+        "Three courtiers: fox (adviser), leopard (bodyguard), vulture (messenger)",
+        "All three courtiers serve the king for their own benefit",
+        "A fable is a story with a moral lesson, often with animals as characters",
+        "The story contrasts selfishness with kindness"
+      ],
+      "funFact": "In Indian traditions, the Panchatantra and Jataka Tales are ancient collections of animal fables, just like 'The King's Choice'! Animals like lions and foxes appear often in these stories.",
+      "textbookRef": "Pages 10-11: The King's Choice — introduction and characters"
+    },
+    {
+      "id": 2,
+      "title": "The Clever Fox's Plan",
+      "emoji": "🦊",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "When the lion king becomes ill and needs food, the selfish courtiers each want to be rewarded. The fox, being the cleverest, ventures into the desert and brings back a camel. The fox's plan was clever but motivated by selfishness — he hoped the king would be so grateful that the fox would receive special rewards and privileges.",
+      "pageReference": "11-12",
+      "examples": [
+        {
+          "icon": "🏜️",
+          "text": "The fox travels into the desert to find the camel"
+        },
+        {
+          "icon": "🐪",
+          "text": "The camel is brought from the desert to the lion's court"
+        },
+        {
+          "icon": "🎁",
+          "text": "The fox hopes to receive rewards for bringing the camel"
+        }
+      ],
+      "keyPoints": [
+        "The fox is described as clever — he finds a solution no others could",
+        "The fox brings a camel from the desert to feed the sick king",
+        "However, the fox's motive is selfish — personal reward, not loyalty",
+        "Cleverness without kindness is not true virtue",
+        "The fox's plan sets up the moral conflict of the story"
+      ],
+      "funFact": "The fox is traditionally seen as a symbol of cleverness in animal stories across many cultures — from Aesop's Fables in Greece to Indian Panchatantra stories!",
+      "textbookRef": "Pages 11-12: The fox's plan to bring the camel"
+    },
+    {
+      "id": 3,
+      "title": "The Camel's Loyalty and the Lion's Wisdom",
+      "emoji": "🐪",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The courtiers devise a trick to make the camel offer itself as food for the lion. The kind-hearted camel, not understanding the trick, is about to offer itself. But the wise lion sees through the courtiers' cruel plan. Instead of eating the camel, the lion befriends the camel and makes him a courtier. The lion shows that true greatness lies in kindness, not power.",
+      "pageReference": "12-14",
+      "examples": [
+        {
+          "icon": "🤝",
+          "text": "The lion befriends the camel instead of eating him"
+        },
+        {
+          "icon": "👁️",
+          "text": "The lion sees through the courtiers' trick"
+        },
+        {
+          "icon": "👑",
+          "text": "The camel is made a member of the royal court"
+        }
+      ],
+      "keyPoints": [
+        "The courtiers trick the camel into offering itself as food",
+        "The camel is innocent and trusting — he does not understand the trick",
+        "The lion's wisdom allows him to see through the selfish courtiers",
+        "The lion chooses kindness over self-interest",
+        "The camel becomes a loyal courtier — loyalty is rewarded with loyalty"
+      ],
+      "funFact": "The camel is known as the 'ship of the desert' in many cultures. In Rajasthan, India, camels are treasured animals that help people travel across the Thar Desert!",
+      "textbookRef": "Pages 12-14: The camel trick and the lion's decision"
+    },
+    {
+      "id": 4,
+      "title": "Moral of the Fable",
+      "emoji": "💡",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The moral of 'The King's Choice' is: 'To be king is good. But to be kind is better.' This means that having power is valuable, but using that power with kindness and wisdom is far more important. A true leader cares for those who are weak and sees through selfishness. The lion earns real respect not by his strength but by his kindness.",
+      "pageReference": "14-15",
+      "examples": [
+        {
+          "icon": "👑",
+          "text": "Being a king = having power and authority"
+        },
+        {
+          "icon": "❤️",
+          "text": "Being kind = caring for others regardless of personal gain"
+        },
+        {
+          "icon": "🏛️",
+          "text": "Great leaders in history are remembered for their kindness, not just their power"
+        }
+      ],
+      "keyPoints": [
+        "Moral: 'To be king is good. But to be kind is better.'",
+        "Power alone does not make a great leader",
+        "Kindness and wisdom together make a truly great ruler",
+        "The courtiers had power but no kindness — they were not great",
+        "The lion proved that kindness is stronger than selfishness"
+      ],
+      "funFact": "Emperor Ashoka of India, after the Kalinga war, gave up violence and ruled with kindness and dharma. He is remembered more for his kindness than for his conquests!",
+      "textbookRef": "Page 14-15: Moral and workshop activities"
+    },
+    {
+      "id": 5,
+      "title": "Countable vs Uncountable Nouns",
+      "emoji": "🔢",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Countable nouns are things we can count — they have singular and plural forms. For example: one boy, two boys; one chair, three chairs. Uncountable nouns are things we cannot count individually — they do not have a plural form. For example: water, hair, fun, milk, rice, sand. We use 'some', 'much', or 'a little' with uncountable nouns.",
+      "pageReference": "15",
+      "examples": [
+        {
+          "icon": "🍎",
+          "text": "Countable: one apple, two apples, three apples"
+        },
+        {
+          "icon": "💧",
+          "text": "Uncountable: water (we cannot say 'one water, two waters')"
+        },
+        {
+          "icon": "💇",
+          "text": "Uncountable: hair (we say 'some hair', not 'one hair, two hairs' in general"
+        },
+        {
+          "icon": "😄",
+          "text": "Uncountable: fun (we say 'so much fun', not 'three funs')"
+        }
+      ],
+      "keyPoints": [
+        "Countable nouns: can be counted — have singular and plural forms",
+        "Uncountable nouns: cannot be counted individually — no plural form",
+        "Examples of countable nouns: boy/boys, book/books, mango/mangoes",
+        "Examples of uncountable nouns: water, milk, rice, sand, air, fun, hair",
+        "Use 'some/much/a little' with uncountable nouns; 'a/an/many' with countable nouns"
+      ],
+      "funFact": "In Hindi, we also have countable and uncountable nouns! 'Paani' (water) is uncountable, but 'kitab' (book) is countable — just like in English!",
+      "textbookRef": "Page 15: Grammar — Countable and Uncountable Nouns"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "Who was the adviser (courtier) to the lion king in the story?",
+      "options": [
+        "The fox",
+        "The leopard",
+        "The vulture",
+        "The camel"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The fox was the adviser to the lion king. The leopard was the bodyguard and the vulture was the messenger.",
+      "conceptIds": [1],
+      "pageReference": "10-11"
+    },
+    {
+      "id": "q2",
+      "question": "What was the role of the vulture in the lion's court?",
+      "options": [
+        "Messenger",
+        "Adviser",
+        "Bodyguard",
+        "Cook"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The vulture served as the messenger in the lion king's court. The fox was the adviser and the leopard was the bodyguard.",
+      "conceptIds": [1],
+      "pageReference": "10-11"
+    },
+    {
+      "id": "q3",
+      "question": "Where did the fox find the camel?",
+      "options": [
+        "In the desert",
+        "In the forest",
+        "In the river",
+        "In the mountains"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The clever fox ventured into the desert and brought back a camel to feed the sick lion king.",
+      "conceptIds": [2],
+      "pageReference": "11-12"
+    },
+    {
+      "id": "q4",
+      "question": "Why did the courtiers trick the camel into offering itself as food?",
+      "options": [
+        "They were selfish and wanted to please the king for their own benefit",
+        "They genuinely cared for the king's health",
+        "The camel asked them to help him",
+        "The lion ordered them to do so"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The courtiers were selfish — they did not truly care about the king. Their trick was motivated by self-interest, hoping to receive rewards.",
+      "conceptIds": [3],
+      "pageReference": "12-13"
+    },
+    {
+      "id": "q5",
+      "question": "What did the lion do when he saw through the courtiers' trick?",
+      "options": [
+        "He befriended the camel and made him a courtier",
+        "He punished the courtiers severely",
+        "He sent the camel back to the desert",
+        "He ate the camel as his courtiers planned"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The wise lion saw through the trick and chose kindness over selfishness. He befriended the camel and made him a member of his court.",
+      "conceptIds": [3],
+      "pageReference": "13-14"
+    },
+    {
+      "id": "q6",
+      "question": "What is the moral of 'The King's Choice'?",
+      "options": [
+        "To be king is good, but to be kind is better",
+        "Never trust animals from the desert",
+        "A clever fox always wins",
+        "Strength is the most important quality"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The moral of the fable is 'To be king is good. But to be kind is better.' The lion's kindness made him a truly great ruler.",
+      "conceptIds": [4],
+      "pageReference": "14-15"
+    },
+    {
+      "id": "q7",
+      "question": "Which of the following is a countable noun?",
+      "options": [
+        "Mango",
+        "Water",
+        "Rice",
+        "Milk"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mango is countable — we can say one mango, two mangoes. Water, rice, and milk are uncountable nouns.",
+      "conceptIds": [5],
+      "pageReference": "15"
+    },
+    {
+      "id": "q8",
+      "question": "Which of the following is an uncountable noun?",
+      "options": [
+        "Sand",
+        "Chair",
+        "Book",
+        "Pen"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sand is uncountable — we cannot say 'one sand, two sands'. Chair, book, and pen are all countable nouns.",
+      "conceptIds": [5],
+      "pageReference": "15"
+    },
+    {
+      "id": "q9",
+      "question": "Which sentence uses an uncountable noun correctly?",
+      "options": [
+        "Please give me some water",
+        "I have three milks",
+        "She has many funs",
+        "There are two airs in the room"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Some water' is correct because water is uncountable. We use 'some', 'much', or 'a little' with uncountable nouns.",
+      "conceptIds": [5],
+      "pageReference": "15"
+    },
+    {
+      "id": "q10",
+      "question": "Why is 'The King's Choice' called a fable?",
+      "options": [
+        "It is a story with animal characters that teaches a moral lesson",
+        "It is a poem about a king",
+        "It is a biography of a real lion king",
+        "It is a news report about animals"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A fable is a short story — usually with animal characters — that teaches a moral lesson. 'The King's Choice' features a lion, fox, leopard, vulture, and camel, and teaches the moral about kindness.",
+      "conceptIds": [1],
+      "pageReference": "10"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "The King's Choice is a fable with a moral lesson",
+      "Characters: Lion (king), Fox (adviser), Leopard (bodyguard), Vulture (messenger), Camel",
+      "All three courtiers serve the king selfishly for personal benefit",
+      "The fox cleverly brings a camel from the desert",
+      "The courtiers trick the camel into offering itself as food",
+      "The wise lion sees through the trick and befriends the camel",
+      "Moral: To be king is good, but to be kind is better",
+      "Countable nouns can be counted and have plural forms",
+      "Uncountable nouns cannot be counted individually — no plural form",
+      "Examples of uncountable nouns: water, milk, rice, sand, hair, fun, air"
+    ],
+    "commonMisconceptions": [
+      "Hair is always uncountable — SOMETIMES FALSE (we can say 'a hair' for one strand, but generally 'hair' is uncountable in context of all hair on your head)",
+      "Countable nouns must always have 's' in plural — FALSE (some have irregular plurals)",
+      "The lion was wrong to not eat the camel — FALSE (the story praises the lion's kindness as wisdom)",
+      "The fox's plan was evil — NOT ENTIRELY (the fox was clever but motivated by selfishness, not pure evil)"
+    ],
+    "realWorldExamples": [
+      "Panchatantra and Jataka Tales — ancient Indian fables with animal characters and moral lessons",
+      "Emperor Ashoka of India chose kindness over power after the Kalinga war",
+      "Camels in Rajasthan — the 'ships of the desert' used for transportation across the Thar Desert",
+      "Countable nouns in daily life: books in a bag, mangoes in a basket, students in a class",
+      "Uncountable nouns in daily life: water in a glass, rice in a bowl, milk in a bottle"
+    ],
+    "formulas": []
+  }
+}
