@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "chapterNumber": 10,
+    "title": "पंडिता रमाबाई (Pandita Ramabai)",
+    "subject": "Marathi",
+    "pages": "35-37",
+    "description": "A biographical chapter about Pandita Ramabai Sarasvati (1858–1922), one of India's greatest social reformers, educators, and early feminist thinkers. Born in Maharashtra, she learned Sanskrit from her father — unusual for women of that era. Widowed young, she devoted her life to educating women and child widows, founded the Mukti Mission in Kedgaon near Pune, wrote the groundbreaking book 'The High-Caste Hindu Woman,' and was the first Indian woman to receive the Kaisar-i-Hind medal. Her life story is a powerful lesson about courage, education, and social change."
+  },
+  "preAssessment": [
+    {
+      "id": "pa10_1",
+      "question": "When was Pandita Ramabai born?",
+      "options": {
+        "A": "1899",
+        "B": "1858",
+        "C": "1832",
+        "D": "1900"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "c10_1"
+    },
+    {
+      "id": "pa10_2",
+      "question": "What unusual achievement did Pandita Ramabai have regarding Sanskrit?",
+      "options": {
+        "A": "She wrote a Sanskrit dictionary",
+        "B": "She translated the Bible into Sanskrit",
+        "C": "She learned Sanskrit from her father — rare for women of her time",
+        "D": "She taught Sanskrit at a university"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c10_1"
+    },
+    {
+      "id": "pa10_3",
+      "question": "What organization did Pandita Ramabai found near Pune for the welfare of women?",
+      "options": {
+        "A": "Arya Mahila Samaj",
+        "B": "Mukti Mission at Kedgaon",
+        "C": "National Women's School",
+        "D": "Brahmo Samaj"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c10_3"
+    },
+    {
+      "id": "pa10_4",
+      "question": "What was the title of Pandita Ramabai's famous book about the condition of women?",
+      "options": {
+        "A": "The Status of Women in India",
+        "B": "Women of Maharashtra",
+        "C": "The High-Caste Hindu Woman",
+        "D": "Stri Dharma Niti"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c10_4"
+    },
+    {
+      "id": "pa10_5",
+      "question": "The Kaisar-i-Hind medal was awarded to Pandita Ramabai for:",
+      "options": {
+        "A": "Her contribution to Indian sports",
+        "B": "Her exceptional work for the welfare of India's people",
+        "C": "Her military bravery",
+        "D": "Her skills in Sanskrit poetry"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c10_4"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c10_1",
+      "title": "Early Life and Education",
+      "emoji": "👶",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Pandita Ramabai was born on April 23, 1858, in a forest in the Gangamul area of the Western Ghats (Karnataka-Maharashtra border). Her father, Anant Shastri Dongre, was a remarkable man for his time — he believed that women should be educated just like men. Against the prevailing social norms, he taught his wife and his daughter Ramabai Sanskrit — the language of sacred texts, traditionally reserved for upper-caste men. The family was devout and travelled as pilgrims across India, visiting sacred sites. This early life of learning, travel, and strong values shaped Ramabai's extraordinary character. When her parents died during a famine, Ramabai and her brother walked thousands of miles as penniless pilgrims.",
+      "pageReference": "35",
+      "examples": [
+        { "icon": "📜", "text": "Father taught her Sanskrit — a revolutionary act in the 1860s when women's education was nearly non-existent." },
+        { "icon": "🌍", "text": "Family travelled all over India as pilgrims — giving Ramabai a broad, practical knowledge of different people and places." },
+        { "icon": "🌿", "text": "Born in a forest near the Western Ghats — her early life was unconventional from the very beginning." },
+        { "icon": "😔", "text": "Parents died in a famine — she faced poverty and loss early, which deepened her empathy for the suffering." }
+      ],
+      "keyPoints": [
+        "Born April 23, 1858, in the Western Ghats region (Karnataka-Maharashtra border).",
+        "Father Anant Shastri Dongre was progressive — he taught his wife and daughter Sanskrit.",
+        "Sanskrit was traditionally only for upper-caste Brahmin males — her father's teaching was revolutionary.",
+        "Family travelled India as pilgrims — Ramabai gained direct knowledge of poverty and women's suffering.",
+        "Parents died in famine — she experienced firsthand the devastation of poverty and loss."
+      ],
+      "funFact": "The 19th century saw a revolution in Maharashtra's social thought. Reformers like Mahatma Jyotirao Phule (1827-1890) and his wife Savitribai Phule established the first school for girls in Pune in 1848 — just a decade before Ramabai was born. Maharashtra was at the forefront of women's education in India!",
+      "textbookRef": "Chapter 10, Pages 35-37 — Maharashtra Board 7th Grade Marathi (Second Language)"
+    },
+    {
+      "id": "c10_2",
+      "title": "Her Work for Women's Education",
+      "emoji": "🎓",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Pandita Ramabai's deep mission was to educate women — especially widows and the women from poor and marginalized backgrounds. In 19th-century India, widows (especially child widows) faced extreme discrimination: they were considered bad luck, denied education, forced to shave heads, and barred from social life. Ramabai fought against this injustice. She established schools and residential institutions where widows could learn skills, read, and become self-reliant. She believed education was the key to liberation — both from poverty and from social oppression. Her work directly inspired the lives of thousands of women who would otherwise have been condemned to misery.",
+      "pageReference": "35-36",
+      "examples": [
+        { "icon": "👩‍🎓", "text": "She opened schools for women — especially child widows who had been abandoned by society." },
+        { "icon": "🚫", "text": "In her time, widows were considered inauspicious — denied education, forced into poverty and loneliness." },
+        { "icon": "📚", "text": "Her vision: education makes women self-sufficient, free, and able to live with dignity." },
+        { "icon": "💪", "text": "She trained widows in practical skills (weaving, printing) alongside academic education — true empowerment." }
+      ],
+      "keyPoints": [
+        "Widows in 19th-century India faced severe social discrimination — Ramabai dedicated her life to changing this.",
+        "She founded educational institutions specifically for widows and poor women.",
+        "Her approach: combine practical skills training with formal education for complete empowerment.",
+        "She challenged the idea that women's suffering was 'natural' — she proved it was a social construct.",
+        "Her work is an early form of feminism rooted in education and social action."
+      ],
+      "funFact": "Savitribai Phule (1831-1897) of Pune was India's first female teacher — she and her husband Jyotirao Phule opened the first school for girls in India in 1848. Savitribai had to walk through crowds who threw stones and dung at her on her way to school — she would simply carry a spare sari and change when she arrived! The tradition of brave Maharashtra women educators continues with Pandita Ramabai.",
+      "textbookRef": "Chapter 10, Pages 35-36 — Women's education work"
+    },
+    {
+      "id": "c10_3",
+      "title": "Mukti Mission — Kedgaon",
+      "emoji": "🏠",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Pandita Ramabai's most important institution was the 'Mukti Mission' (Mukti = liberation/freedom), established in Kedgaon near Pune, Maharashtra, in 1898. 'Mukti' means liberation — a powerful name for an institution meant to free women from social oppression. The Mukti Mission was a residential community that housed hundreds of women and girls — widows, orphans, abandoned women, famine victims. The mission provided shelter, food, healthcare, education, and vocational training. It had a school, a printing press (managed by women), a farm, and a medical unit. During the terrible famine of 1896-97, Ramabai personally rescued hundreds of starving women and children and brought them to the Mukti Mission.",
+      "pageReference": "36",
+      "examples": [
+        { "icon": "🏘️", "text": "Mukti Mission — a residential community for hundreds of women, providing food, shelter, education, and training." },
+        { "icon": "📰", "text": "The mission had a printing press run by women — they printed Christian literature and educational materials." },
+        { "icon": "🌾", "text": "The mission had a farm — residents grew their own food, learning self-sufficiency." },
+        { "icon": "🆘", "text": "During the 1896-97 famine, Ramabai personally rescued hundreds of starving women from the streets." }
+      ],
+      "keyPoints": [
+        "Mukti Mission was founded in 1898 in Kedgaon, near Pune, Maharashtra.",
+        "'Mukti' means liberation/freedom — the name reflects the mission's goal of freeing women from oppression.",
+        "The mission housed widows, orphans, and famine victims — providing complete holistic care.",
+        "During the 1896-97 famine, the mission rescued hundreds of dying women and children.",
+        "The Mukti Mission still operates in Kedgaon today — over 120 years after it was founded!"
+      ],
+      "funFact": "The Mukti Mission in Kedgaon continues to operate today, providing education, healthcare, and rehabilitation services to thousands. It is one of the oldest continuously operating welfare institutions in Maharashtra — a living legacy of Pandita Ramabai's vision from 1898!",
+      "textbookRef": "Chapter 10, Page 36 — Mukti Mission"
+    },
+    {
+      "id": "c10_4",
+      "title": "Books, Recognition, and Legacy",
+      "emoji": "📜",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Pandita Ramabai was not only a social reformer but also a prolific writer. Her most famous book, 'The High-Caste Hindu Woman' (1887), written in English for an American audience, exposed the terrible conditions faced by high-caste Hindu women — child marriage, forced widowhood, denial of education. The book shocked Western readers and raised funds for her work in India. She also translated the Bible into Marathi from the original Hebrew and Greek texts — a remarkable linguistic achievement showing her mastery of multiple languages. She was awarded the Kaisar-i-Hind medal — the highest civilian honour of British India — making her the first Indian woman to receive this medal. She passed away on April 5, 1922.",
+      "pageReference": "36-37",
+      "examples": [
+        { "icon": "📘", "text": "'The High-Caste Hindu Woman' (1887) — exposed the suffering of women in India, raising awareness worldwide." },
+        { "icon": "📖", "text": "She translated the Bible into Marathi from Hebrew and Greek — showing mastery of 6+ languages!" },
+        { "icon": "🏅", "text": "Kaisar-i-Hind medal — the highest civilian award in British India; she was the first Indian woman to receive it." },
+        { "icon": "🌍", "text": "She visited England and the USA to raise funds for her work — one of India's first international advocates." }
+      ],
+      "keyPoints": [
+        "'The High-Caste Hindu Woman' (1887) — groundbreaking book exposing women's suffering in India.",
+        "She translated the Bible into Marathi from original Hebrew and Greek — a remarkable achievement.",
+        "Known languages: Marathi, Sanskrit, Hebrew, Greek, English — a truly extraordinary polyglot.",
+        "Kaisar-i-Hind medal — highest civilian honour in British India; she was the first Indian woman recipient.",
+        "Passed away April 5, 1922, having transformed thousands of lives through education and love."
+      ],
+      "funFact": "The Government of India released a commemorative postal stamp in her honour in 1989 and she is recognized in the 'List of Eminent Indians' in school textbooks across India. The Maharashtra government has named schools, roads, and institutions after her. In 2021, she was proposed for inclusion in the list of great Indians whose names are featured in Parliament!",
+      "textbookRef": "Chapter 10, Pages 36-37 — Books and recognition"
+    },
+    {
+      "id": "c10_5",
+      "title": "Her Legacy and Importance",
+      "emoji": "🌟",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Pandita Ramabai's legacy is immense. She lived over 100 years ago in a society that severely restricted women — yet she defied every limitation to become a Sanskrit scholar, multilingual author, social reformer, and institution builder. Her life teaches us three lessons: (1) Education is the foundation of all freedom — she devoted her entire life to educating women; (2) One person can change society — through her work, she directly improved thousands of lives; (3) Courage to challenge unjust social norms — she converted to Christianity, wrote openly critical books, and travelled internationally at a time when none of this was accepted for Indian women. She is rightly considered a pioneer of Indian feminism and women's education.",
+      "pageReference": "35-37",
+      "examples": [
+        { "icon": "📚", "text": "She proved: education is the most powerful tool for social change and personal liberation." },
+        { "icon": "💪", "text": "She defied caste, gender, and religious barriers — an extraordinary achievement in 19th-century India." },
+        { "icon": "🌱", "text": "Her Mukti Mission continues today — her direct legacy still benefits people more than 100 years later." },
+        { "icon": "🇮🇳", "text": "She is recognized as one of India's great social reformers — her image appears on commemorative Indian stamps." }
+      ],
+      "keyPoints": [
+        "Pandita Ramabai is considered a pioneer of Indian feminism and women's education.",
+        "Her life story shows that one person with courage and vision can transform society.",
+        "She challenged three powerful barriers: caste, gender discrimination, and religious orthodoxy.",
+        "Her institution (Mukti Mission) is her most tangible legacy, still operating after 125+ years.",
+        "Maharashtra's tradition of women's reform (Savitribai Phule, Ramabai, Tarabai Shinde) is a source of great pride."
+      ],
+      "funFact": "There is a remarkable connection between Maharashtra's 19th-century reformers: Mahatma Jyotirao Phule (opened girls' schools), Savitribai Phule (India's first female teacher), Pandita Ramabai (women's education and rescue), and Dr. Babasaheb Ambedkar (women's rights in the Indian Constitution) — all from Maharashtra. Maharashtra has the most impressive tradition of women's rights advocacy in India!",
+      "textbookRef": "Chapter 10, Pages 35-37 — Legacy and importance"
+    }
+  ],
+  "test": [
+    {
+      "id": "t10_1",
+      "question": "Why is it significant that Pandita Ramabai's father taught her Sanskrit?",
+      "options": {
+        "A": "Because Sanskrit is very easy to learn",
+        "B": "Because Sanskrit was traditionally reserved for upper-caste men — teaching it to a woman was revolutionary",
+        "C": "Because Sanskrit was needed for English translations",
+        "D": "Because all girls were required to learn Sanskrit in those days"
+      },
+      "correctAnswer": "B",
+      "explanation": "In 19th-century India, Sanskrit was the exclusive domain of upper-caste Brahmin males — women and lower castes were traditionally forbidden from studying it. Ramabai's father broke this rule by teaching his wife and daughter Sanskrit, making it a revolutionary act. It also showed Ramabai's own extraordinary ability to master this complex language.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t10_2",
+      "question": "What does 'Mukti' (मुक्ती) mean?",
+      "options": {
+        "A": "Education",
+        "B": "Service",
+        "C": "Liberation / Freedom",
+        "D": "Prayer"
+      },
+      "correctAnswer": "C",
+      "explanation": "'मुक्ती' (Mukti) means liberation or freedom — freedom from bondage, suffering, or social oppression. Pandita Ramabai chose this powerful name for her mission because her goal was to FREE women — widows, orphans, and the destitute — from the social chains that bound them.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t10_3",
+      "question": "Where is the Mukti Mission (founded by Pandita Ramabai) located?",
+      "options": {
+        "A": "Mumbai",
+        "B": "Nagpur",
+        "C": "Kedgaon, near Pune",
+        "D": "Nashik"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Mukti Mission is located in Kedgaon village near Pune, Maharashtra. It was established in 1898 and became a community providing shelter, education, and vocational training to hundreds of widows, orphans, and famine victims. The mission still operates today.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t10_4",
+      "question": "Pandita Ramabai translated the Bible into Marathi from which original languages?",
+      "options": {
+        "A": "Latin and Greek",
+        "B": "Hebrew and Greek",
+        "C": "Sanskrit and Pali",
+        "D": "English and French"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pandita Ramabai translated the Bible from the original Hebrew (Old Testament) and Greek (New Testament) into Marathi — a monumental linguistic achievement. This was not a translation from an existing English translation, but directly from the source languages. She knew Sanskrit, Marathi, English, Hebrew, and Greek — at least 5 languages!",
+      "difficulty": "hard"
+    },
+    {
+      "id": "t10_5",
+      "question": "What was the name of Pandita Ramabai's famous book about the condition of women in India?",
+      "options": {
+        "A": "Indian Women's Status",
+        "B": "The High-Caste Hindu Woman",
+        "C": "Women of Maharashtra",
+        "D": "Education and Freedom"
+      },
+      "correctAnswer": "B",
+      "explanation": "'The High-Caste Hindu Woman' (1887) was Pandita Ramabai's groundbreaking book written in English for an American audience. It exposed the terrible conditions faced by high-caste Hindu women — child marriage, forced widowhood, denial of education and property rights. The book shocked Western readers and helped raise international awareness and funds for her work.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t10_6",
+      "question": "During which natural disaster did Pandita Ramabai personally rescue hundreds of women?",
+      "options": {
+        "A": "The 1905 earthquake",
+        "B": "The 1900 flood",
+        "C": "The 1896-97 famine",
+        "D": "The 1899 cyclone"
+      },
+      "correctAnswer": "C",
+      "explanation": "During the devastating famine of 1896-97 in Maharashtra, Pandita Ramabai personally went to famine-affected areas to rescue starving women and children, bringing them to the Mukti Mission in Kedgaon. This act of direct physical rescue during a catastrophe shows her extraordinary personal courage.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t10_7",
+      "question": "What distinguished Pandita Ramabai's Kaisar-i-Hind medal achievement?",
+      "options": {
+        "A": "She was the first person to receive it",
+        "B": "She was the first Indian woman to receive this highest civilian award",
+        "C": "She received it twice",
+        "D": "She refused it as a protest against British rule"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Kaisar-i-Hind medal was the British Indian government's highest civilian honour. Pandita Ramabai was the first Indian woman to receive this prestigious medal, recognizing her exceptional service to India's people — particularly her work educating and rescuing thousands of women and children.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t10_8",
+      "question": "What three barriers did Pandita Ramabai challenge in 19th-century India?",
+      "options": {
+        "A": "Language, poverty, and education barriers",
+        "B": "Caste restrictions, gender discrimination, and religious orthodoxy",
+        "C": "Age, physical weakness, and foreign opposition",
+        "D": "Language, law, and army restrictions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pandita Ramabai broke three powerful barriers: (1) Caste — she was born Brahmin but worked for all women regardless of caste; (2) Gender — she insisted women deserved education and rights in a deeply patriarchal society; (3) Religious orthodoxy — she converted to Christianity, which was strongly criticized in her time. Breaking all three simultaneously took extraordinary courage.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "t10_9",
+      "question": "Which Maharashtra reformer was the FIRST to open a school for girls in India, inspiring Pandita Ramabai's tradition?",
+      "options": {
+        "A": "Bal Gangadhar Tilak",
+        "B": "Lokmanya Tilak",
+        "C": "Savitribai Phule (with Jyotirao Phule)",
+        "D": "Gopal Krishna Gokhale"
+      },
+      "correctAnswer": "C",
+      "explanation": "Savitribai Phule and her husband Jyotirao Phule opened India's first school for girls in Pune in 1848. Savitribai became India's first female teacher. Their work preceded Pandita Ramabai by about a decade and created a tradition of women's education in Maharashtra that Ramabai and others continued to build.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t10_10",
+      "question": "What is Pandita Ramabai's most important lesson for students today?",
+      "options": {
+        "A": "Education is only important for men",
+        "B": "Education is the foundation of freedom and one courageous person can change society",
+        "C": "Converting religion is the path to success",
+        "D": "Only people from rich backgrounds can become reformers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pandita Ramabai's life teaches that education is the most powerful tool for personal and social liberation — and that one person with courage, knowledge, and compassion can change thousands of lives. She came from poverty, lost her parents early, was widowed young — yet became one of India's greatest social reformers. Her life is proof that determination and love can overcome any obstacle.",
+      "difficulty": "easy"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Pandita Ramabai (1858-1922) — social reformer, educator, feminist pioneer",
+      "Sanskrit scholar — unusual for women in 19th-century India",
+      "Mukti Mission, Kedgaon near Pune — founded 1898, still operating",
+      "'The High-Caste Hindu Woman' (1887) — book exposing women's suffering",
+      "Kaisar-i-Hind medal — first Indian woman to receive it",
+      "Widows' rehabilitation — rescuing women during 1896-97 famine",
+      "Maharashtra's tradition of women's reform: Savitribai Phule, Ramabai, Tarabai Shinde"
+    ],
+    "commonMisconceptions": [
+      "Students may confuse Pandita Ramabai with Ramabai Ranade (another Maharashtra reformer) — they are different people.",
+      "Some students think Mukti Mission = Pune, but it is in Kedgaon (near Pune, but a separate village).",
+      "Students may think 'The High-Caste Hindu Woman' was written in Marathi — it was written in English for American readers.",
+      "The Kaisar-i-Hind medal should not be confused with Bharat Ratna — the Kaisar-i-Hind was a British-era medal; Bharat Ratna is independent India's highest award."
+    ],
+    "realWorldExamples": [
+      "Mukti Mission in Kedgaon continues to operate — students can visit the historic site near Pune.",
+      "National Women's Day (India) — celebrated on February 13 to honour Sarojini Naidu; Maharashtra celebrates women reformers through school programs.",
+      "Savitribai Phule Pune University — named after Maharashtra's first female teacher, showing the state's commitment to women's education.",
+      "Government postage stamp: India Post issued a stamp honouring Pandita Ramabai in 1989 — a way to find her image for projects."
+    ],
+    "formulas": []
+  }
+}

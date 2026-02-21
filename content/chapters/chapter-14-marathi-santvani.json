@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "chapterNumber": 14,
+    "title": "संतवाणी (Words of Saints)",
+    "subject": "Marathi",
+    "pages": "51-52",
+    "description": "The final chapter features two abhang (devotional poems) by great Maharashtra saints: (1) Sant Janabai (13th century) — a poem about motherly love using the image of birds feeding chicks, a mother monkey keeping her baby close, and comparing God (Vitthal) to a mother who always watches over us; (2) Sant Tukaram (17th century) — a poem warning against hypocrites (भोंदू) who put ash on their bodies but commit sins inside, pretend renunciation (वैराग्य) but enjoy worldly pleasures. The chapter also includes a Suvichar (motivational thought) about courage in facing adversity. It introduces the Abhang form and Maharashtra's Sant Parampara (saint tradition)."
+  },
+  "preAssessment": [
+    {
+      "id": "pa14_1",
+      "question": "Who is Sant Janabai and when did she live?",
+      "options": {
+        "A": "A 17th-century Marathi poet",
+        "B": "A 13th-century Marathi female saint and devotional poet",
+        "C": "A 19th-century social reformer",
+        "D": "A 20th-century Marathi teacher"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "c14_1"
+    },
+    {
+      "id": "pa14_2",
+      "question": "What is an 'Abhang' (अभंग) in Marathi literature?",
+      "options": {
+        "A": "A type of Marathi festival song",
+        "B": "A traditional devotional poem form used by Maharashtra's saints",
+        "C": "A Marathi folktale",
+        "D": "A type of Marathi drama"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c14_3"
+    },
+    {
+      "id": "pa14_3",
+      "question": "In Sant Tukaram's abhang, what is a 'भोंदू' (bhondu)?",
+      "options": {
+        "A": "A very wise person",
+        "B": "A generous donor",
+        "C": "A hypocrite who pretends spirituality but lives sinfully",
+        "D": "A devoted monk"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c14_2"
+    },
+    {
+      "id": "pa14_4",
+      "question": "The Suvichar 'संकटांना घाबरून न जाता जो जीवन यशस्वी करतो तोच खरा पराक्रमी' means:",
+      "options": {
+        "A": "Only physically strong people can succeed in life",
+        "B": "Those who succeed in life without being afraid of challenges are the truly brave",
+        "C": "Avoiding problems is the key to success",
+        "D": "Brave people never feel fear"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c14_5"
+    },
+    {
+      "id": "pa14_5",
+      "question": "Maharashtra's Sant Parampara (saint tradition) began most powerfully with which 13th-century saint?",
+      "options": {
+        "A": "Sant Tukaram",
+        "B": "Sant Eknath",
+        "C": "Sant Dnyaneshwar",
+        "D": "Sant Namdev"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c14_4"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c14_1",
+      "title": "Sant Janabai and Motherly Love",
+      "emoji": "🕊️",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Sant Janabai (approximately 1263–1350 CE) was one of Maharashtra's most beloved female saints. She lived in Pandharpur (the holy city on the Bhima river, Solapur district) as a domestic servant in the household of Sant Namdev, another great saint. Despite her humble social position, she was a devoted bhakta (devotee) of Vitthal (Lord Vishnu at Pandharpur) and wrote approximately 300 abhangs. Her abhang in this chapter uses three images of motherly love to describe God's protective care: (1) birds carrying food to their chicks in the nest, (2) a monkey (माकड) keeping her baby pressed against her belly even while jumping between trees, and (3) herself — comparing these natural mother-images to how Vitthal (God) constantly watches over and protects devotees.",
+      "pageReference": "51",
+      "examples": [
+        { "icon": "🐦", "text": "Birds bring food to their chicks in the nest — mother's tireless effort and care for her young." },
+        { "icon": "🐒", "text": "A monkey never lets go of her baby even while swinging through trees — mother's constant, physical protection." },
+        { "icon": "🙏", "text": "Janabai compares God (Vitthal) to this mother: always watching, always caring, never letting go." },
+        { "icon": "🏠", "text": "Janabai lived in Pandharpur — the holy city in Solapur where millions of pilgrims (Warkari) travel to see Lord Vitthal." }
+      ],
+      "keyPoints": [
+        "Sant Janabai (c. 1263-1350) — female saint, devotee of Vitthal, domestic servant of Sant Namdev's household.",
+        "She wrote approximately 300 abhangs — extraordinary for a woman of her social class in the 13th century.",
+        "Her poem uses mother-images (birds, monkey with baby) to describe God's constant, unconditional protective love.",
+        "Vitthal (विठ्ठल) = the presiding deity of Pandharpur; also called Pandurang, Vithoba — Lord Vishnu.",
+        "The poem's message: God's love for devotees is like the most devoted mother's love — unconditional, constant, protective."
+      ],
+      "funFact": "Sant Janabai's abhangs are still sung by millions of Warkari pilgrims on their way to Pandharpur during the Ashadhi Ekadashi and Kartiki Ekadashi festivals. Every year, nearly 1 million pilgrims walk hundreds of kilometres to Pandharpur singing abhangs by Janabai, Tukaram, Dnyaneshwar, and other saints. It is the world's largest devotional pilgrimage on foot!",
+      "textbookRef": "Chapter 14, Pages 51-52 — Maharashtra Board 7th Grade Marathi (Second Language)"
+    },
+    {
+      "id": "c14_2",
+      "title": "Sant Tukaram and Social Criticism",
+      "emoji": "⚠️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Sant Tukaram (1598–1650 CE) is Maharashtra's most beloved and celebrated saint-poet. A trader (warkari) from Dehu near Pune, he wrote over 4,000 abhangs, most of them about devotion to Vitthal, social justice, and the true nature of spirituality. His abhang in this chapter is a powerful warning about 'भोंदू' (hypocrites or frauds who pretend to be spiritual). These people: put sacred ash (vibhuti/भस्म) on their bodies as a sign of renunciation; claim to have abandoned worldly pleasures (वैराग्य = renunciation); but in reality, they sin, lie, cheat, and enjoy all worldly pleasures secretly. Tukaram's message: 'Avoid the company (संगत) of such hypocritical people — their false spirituality is dangerous and corrupting.' True devotion is internal, not external display.",
+      "pageReference": "51-52",
+      "examples": [
+        { "icon": "🧡", "text": "'भस्म लावती अंगाला' — they put sacred ash on the body to LOOK like a saint, while sinning inside." },
+        { "icon": "🎭", "text": "Hypocrisy (ढोंग) = showing something on the outside that is the opposite of what you are inside." },
+        { "icon": "⚠️", "text": "Tukaram's warning: avoid such people — their company corrupts good values and genuine spirituality." },
+        { "icon": "❤️", "text": "Tukaram's positive message: true devotion (भक्ती) is honest, internal, and shown through actions, not appearances." }
+      ],
+      "keyPoints": [
+        "Sant Tukaram (1598-1650) — from Dehu near Pune; Maharashtra's most celebrated saint-poet.",
+        "'भोंदू' = hypocrite/fraud who pretends spirituality but lives the opposite.",
+        "The abhang warns: don't be fooled by external religious symbols (ash, ochre robes) without internal virtue.",
+        "Tukaram championed the lower castes and ordinary people against Brahmin orthodoxy and religious hypocrisy.",
+        "His message remains relevant: judge people by their actions and character, not by their religious appearance."
+      ],
+      "funFact": "Sant Tukaram's abhangs were transcribed on palm leaf manuscripts (पोथ्या) which were thrown into the Indrayani river by his Brahmin opponents! According to tradition, the manuscripts emerged undamaged from the river after 13 days — and Tukaram continued writing. The Indrayani river in Dehu (near Pune) is still considered sacred because of this miracle!",
+      "textbookRef": "Chapter 14, Pages 51-52 — Sant Tukaram's abhang"
+    },
+    {
+      "id": "c14_3",
+      "title": "What is an Abhang (अभंग)?",
+      "emoji": "🎵",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Abhang (अभंग) is a traditional Marathi devotional verse form used primarily by the saints of the Varkari tradition (वारकरी संप्रदाय). 'अभंग' = अ (not) + भंग (breaking/ending) = that which does not break — the unbroken, continuous flow of devotion. Structural features of an Abhang: (1) Usually 4 lines per stanza; (2) The first line ends with a rhyming tag (often the signature of the saint); (3) Specific syllabic patterns (छंद); (4) The poem always ends with the saint's signature (टोपण नाव), e.g., Tukaram ends with 'म्हणे तुका' (says Tuka) and Janabai ends with 'जनी म्हणे' (Jani says). Abhangs were composed to be SUNG — they have a specific musical structure called 'चाल' (tune/melody) and are traditionally accompanied by टाळ (cymbals) and मृदंग (drum).",
+      "pageReference": "51-52",
+      "examples": [
+        { "icon": "🎶", "text": "Abhangs are sung (not just recited) — often to specific tunes; Tukaram's abhangs have been set to music and recorded." },
+        { "icon": "🔔", "text": "Accompanied by: टाळ (bronze cymbals), मृदंग (barrel drum), आणि वीणा (veena) — creating a devotional music experience." },
+        { "icon": "✍️", "text": "Signature: every saint ends their abhang with their own name: 'म्हणे तुका' (Tukaram), 'जनी म्हणे' (Janabai)." },
+        { "icon": "🙏", "text": "Purpose: abhangs are sung in devotional gatherings (भजन, कीर्तन) to experience union with God through music and words." }
+      ],
+      "keyPoints": [
+        "Abhang = traditional Marathi devotional verse: अ (not) + भंग (breaking) = unbroken flow of devotion.",
+        "4-line stanzas with specific rhyme and syllable patterns.",
+        "Each saint signs their abhang with their name at the end: 'म्हणे तुका', 'जनी म्हणे', 'ज्ञानदेव म्हणे'.",
+        "Abhangs are sung — with टाळ (cymbals) and मृदंग (drum) — in devotional kirtans and Wari pilgrimages.",
+        "The Abhang form spans the 13th to 17th centuries — from Dnyaneshwar to Tukaram — an extraordinary 400-year tradition."
+      ],
+      "funFact": "Tukaram's abhangs have been translated into over 30 languages worldwide — including English, French, German, Japanese, and Spanish! His poem 'Aamhi Gharche Ladke' (We are God's darling children) has been described as one of the most beautiful religious poems ever written. His work is studied in universities across Europe and America as examples of world poetry!",
+      "textbookRef": "Chapter 14, Pages 51-52 — What is Abhang?"
+    },
+    {
+      "id": "c14_4",
+      "title": "Maharashtra's Sant Parampara (Saint Tradition)",
+      "emoji": "🙏",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Maharashtra's Sant Parampara (सांत परंपरा / संत परंपरा) is a continuous tradition of saint-poets from the 13th to 18th centuries who transformed Maharashtra's spiritual, social, and literary landscape. Key saints in chronological order: (1) Sant Dnyaneshwar (ज्ञानेश्वर, 1275-1296) — wrote Dnyaneshwari (commentary on the Bhagavad Gita in Marathi) at age 16; founded the Warkari tradition; (2) Sant Namdev (नामदेव, 1270-1350) — devotee of Vitthal, his abhangs are in the Sikh holy book (Guru Granth Sahib); (3) Sant Janabai (जनाबाई, c. 1263-1350) — first great female saint poet; (4) Sant Eknath (एकनाथ, 1533-1599) — social reformer saint; (5) Sant Tukaram (तुकाराम, 1598-1650) — Maharashtra's most beloved saint.",
+      "pageReference": "51-52",
+      "examples": [
+        { "icon": "📖", "text": "Dnyaneshwar: wrote Dnyaneshwari at age 16 — a commentary on the Bhagavad Gita in Marathi that is 700+ years old and still read daily." },
+        { "icon": "🏛️", "text": "Namdev: his abhangs are in the Guru Granth Sahib (Sikh holy scripture) — showing how Maharashtra's saints influenced all India." },
+        { "icon": "🚶", "text": "Warkari Tradition: millions of devotees walk to Pandharpur twice a year (Ashadhi and Kartiki Ekadashi) singing abhangs." },
+        { "icon": "⚖️", "text": "Eknath: broke caste barriers — he ate with untouchables, asserting that God sees no caste. Revolutionary in his time." }
+      ],
+      "keyPoints": [
+        "Dnyaneshwar (1275-1296) — founder of Warkari tradition; Dnyaneshwari at age 16.",
+        "Namdev (1270-1350) — abhangs in the Guru Granth Sahib; shows pan-Indian influence.",
+        "Janabai (c. 1263-1350) — first great female saint poet; 300 abhangs.",
+        "Eknath (1533-1599) — social reformer saint who challenged caste discrimination.",
+        "Tukaram (1598-1650) — Maharashtra's most beloved saint; 4000+ abhangs; Jnanpith-level impact on Marathi."
+      ],
+      "funFact": "Sant Dnyaneshwar wrote the Dnyaneshwari at age 16 and then took 'Samadhi' (voluntary death in meditation) at age 21 — he lived only 21 years! Yet his Dnyaneshwari (a 9,000-verse commentary on the 700-verse Bhagavad Gita) is considered one of the greatest literary works of any world literature. Sometimes the most extraordinary things are created in the shortest time!",
+      "textbookRef": "Chapter 14, Pages 51-52 — Maharashtra's Saint tradition"
+    },
+    {
+      "id": "c14_5",
+      "title": "Suvichar — Motivational Thoughts",
+      "emoji": "💡",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "A Suvichar (सुविचार = सु/good + विचार/thought = good thought / motivational thought) is a short, inspiring statement that encourages good values and positive thinking. Unlike म्हणी (proverbs — anonymous folk wisdom), सुविचार are usually attributed to known thinkers, writers, or leaders. The Suvichar in this chapter: 'संकटांना घाबरून न जाता जो जीवन यशस्वी करतो तोच खरा पराक्रमी' — 'He who makes his life successful without being afraid of challenges is the truly brave one.' This thought teaches that real bravery is not the absence of fear but the ability to face fear and move forward. 'पराक्रमी' = truly brave/heroic person; 'संकट' = challenge/adversity; 'यशस्वी' = successful.",
+      "pageReference": "52",
+      "examples": [
+        { "icon": "💪", "text": "'पराक्रमी' does not mean someone who has no challenges — it means someone who faces challenges and succeeds anyway." },
+        { "icon": "😨", "text": "Real courage: feeling afraid but doing what is necessary anyway. Fear is normal; letting fear stop you is the problem." },
+        { "icon": "🏆", "text": "Examples: Pandita Ramabai (faced widowhood, poverty), Gopal (faced wildfire), Savitribai (faced stone-throwers) — all truly पराक्रमी." },
+        { "icon": "📣", "text": "Suvichar are used to start school days (morning assembly), decorate classrooms, and inspire essays and speeches." }
+      ],
+      "keyPoints": [
+        "सुविचार = motivational thought / inspirational quote (सु = good + विचार = thought).",
+        "Difference: म्हणी = anonymous folk proverbs; सुविचार = attributed inspirational thoughts.",
+        "The specific Suvichar: true bravery (पराक्रम) means succeeding IN SPITE OF challenges, not in the absence of them.",
+        "'संकट' = adversity/challenge; 'पराक्रमी' = truly brave/heroic; 'यशस्वी' = successful.",
+        "Suvichar are used widely in Maharashtra schools — morning assemblies, classroom walls, essay writing."
+      ],
+      "funFact": "In Maharashtra, every school morning assembly includes a 'Suvichar' (motivational thought) read by a student. This tradition means that every student in Maharashtra hears an inspiring thought every single school morning — that's over 200 Suvichars per year! Over 12 years of school, that's over 2,400 motivational thoughts. The cumulative effect on a young person's character is enormous!",
+      "textbookRef": "Chapter 14, Page 52 — Suvichar and motivational thoughts"
+    }
+  ],
+  "test": [
+    {
+      "id": "t14_1",
+      "question": "Who is Sant Janabai and what was special about her social position?",
+      "options": {
+        "A": "She was a princess who wrote poetry for entertainment",
+        "B": "She was a domestic servant in Sant Namdev's household who became a great devotional poet",
+        "C": "She was a teacher who taught Sanskrit to women",
+        "D": "She was a warrior queen who was also a poet"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sant Janabai (c. 1263-1350) was a domestic servant (dasi) in the household of Sant Namdev in Pandharpur. Despite her humble social position, she was an intense devotee of Vitthal and wrote approximately 300 abhangs. Her elevation from servant to saint shows that in Maharashtra's Bhakti tradition, devotion mattered more than social status.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t14_2",
+      "question": "In Sant Janabai's abhang, which animals are used to illustrate motherly love?",
+      "options": {
+        "A": "Cows and goats",
+        "B": "Lions and tigers",
+        "C": "Birds (feeding chicks) and a monkey (holding baby while jumping)",
+        "D": "Elephants and horses"
+      },
+      "correctAnswer": "C",
+      "explanation": "Janabai's abhang uses two animal images of motherly love: (1) birds that fly to find food and bring it back to feed their chicks in the nest — tireless care; (2) a monkey that never lets go of her baby even while jumping from branch to branch — constant physical protection. Both images show God (Vitthal) as a mother who always watches over devotees.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t14_3",
+      "question": "What does the word 'अभंग' literally mean?",
+      "options": {
+        "A": "A holy song",
+        "B": "That which does not break — the unbroken flow of devotion",
+        "C": "A four-line poem",
+        "D": "A devotional dance"
+      },
+      "correctAnswer": "B",
+      "explanation": "'अभंग' = अ (not) + भंग (breaking) = that which does not break. It refers to the unbroken, continuous nature of devotion — the endless, flowing quality of love for God. This beautiful name captures the idea that true devotion never breaks, never stops, like a river that always flows toward the ocean.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t14_4",
+      "question": "What is a 'भोंदू' (bhondu) as described in Sant Tukaram's abhang?",
+      "options": {
+        "A": "A simple, honest devotee",
+        "B": "A scholar of Sanskrit",
+        "C": "A hypocrite who displays outward religious signs while committing sins inside",
+        "D": "A pilgrim going to Pandharpur"
+      },
+      "correctAnswer": "C",
+      "explanation": "A 'भोंदू' is a hypocrite or religious fraud — someone who displays outward symbols of spirituality (sacred ash on the body, ochre robes, renunciation claims) while actually living a sinful, deceptive life inside. Tukaram's abhang warns us to recognise and avoid such people because their hypocrisy corrupts genuine spirituality.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t14_5",
+      "question": "Who wrote the Dnyaneshwari, and at what age?",
+      "options": {
+        "A": "Sant Tukaram, at age 30",
+        "B": "Sant Eknath, at age 25",
+        "C": "Sant Dnyaneshwar, at age 16",
+        "D": "Sant Namdev, at age 20"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sant Dnyaneshwar wrote the Dnyaneshwari — a Marathi commentary on the Sanskrit Bhagavad Gita — at the extraordinary age of 16, around 1290 CE. This 9,000-verse work translated the Gita's teachings into simple Marathi, making it accessible to ordinary people regardless of Sanskrit knowledge. It is considered one of the greatest literary works in any Indian language.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t14_6",
+      "question": "The Suvichar in this chapter says 'तोच खरा पराक्रमी' — what does 'पराक्रमी' mean?",
+      "options": {
+        "A": "A good student",
+        "B": "A physically strong person",
+        "C": "A truly brave/heroic person who faces challenges",
+        "D": "A wealthy person"
+      },
+      "correctAnswer": "C",
+      "explanation": "'पराक्रमी' = पराक्रम (heroism/great feat/courage) + मी (one who has it) = a truly brave, heroic person. The Suvichar says that the one who makes life successful WITHOUT being afraid of challenges is the truly 'पराक्रमी' (brave). This redefines bravery as mental and moral courage in the face of adversity, not just physical strength.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t14_7",
+      "question": "Sant Namdev's abhangs appear in which SIKH holy scripture — showing the pan-India influence of Maharashtra's saints?",
+      "options": {
+        "A": "The Vedas",
+        "B": "The Mahabharata",
+        "C": "The Guru Granth Sahib",
+        "D": "The Upanishads"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sant Namdev's (1270-1350) devotional compositions appear in the Guru Granth Sahib — the Sikh holy scripture compiled by Guru Arjan Dev in 1604. Namdev's inclusion shows how Maharashtra's bhakti saints were recognized and respected across all of India, transcending regional and religious boundaries. It is one of the most remarkable examples of India's composite culture.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "t14_8",
+      "question": "What is 'वैराग्य' (vairaagya) as mentioned in Sant Tukaram's abhang?",
+      "options": {
+        "A": "Deep anger",
+        "B": "Renunciation of worldly pleasures and attachments",
+        "C": "The joy of festivals",
+        "D": "Devotion to a particular God"
+      },
+      "correctAnswer": "B",
+      "explanation": "'वैराग्य' means renunciation — the voluntary giving up of worldly pleasures, attachments, and desires. In spiritual life, वैराग्य is considered a virtue. Tukaram criticizes भोंदू (hypocrites) who CLAIM to have वैराग्य (showing external signs like ash, ochre robes) while secretly enjoying all worldly pleasures — making their वैराग्य a fraud.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "t14_9",
+      "question": "What is the Warkari Pilgrimage (वारकरी यात्रा) in Maharashtra?",
+      "options": {
+        "A": "A yearly school trip to historical forts",
+        "B": "A government-organized tour of Maharashtra",
+        "C": "A devotional pilgrimage walk to Pandharpur twice a year, singing abhangs",
+        "D": "A market fair held near Pune"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Warkari pilgrimage is a devotional tradition where hundreds of thousands (sometimes millions) of devotees walk to Pandharpur (Solapur district) twice a year — during Ashadhi Ekadashi (July) and Kartiki Ekadashi (November). They walk in processions (पालख्या) singing abhangs by Janabai, Tukaram, Dnyaneshwar, and other saints. It is the world's largest devotional walking pilgrimage.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t14_10",
+      "question": "How is सुविचार (suvichar) different from म्हणी (mhani)?",
+      "options": {
+        "A": "Suvichar are longer than mhani",
+        "B": "Suvichar are anonymous folk wisdom; mhani are attributed to known people",
+        "C": "Suvichar are motivational thoughts (often attributed); mhani are anonymous traditional folk proverbs",
+        "D": "There is no difference — they are the same thing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Suvichar (सुविचार = good thoughts) are inspirational, motivational quotes that are often attributed to known thinkers, leaders, or writers. म्हणी (proverbs) are short, anonymous folk wisdom accumulated over generations — no single author is known. Both are short and meaningful, but their origin is different: म्हणी = folk/collective wisdom; सुविचार = specific known (or unknown) inspirational statements.",
+      "difficulty": "medium"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Sant Janabai (c. 1263-1350) — female saint, domestic servant, devotee of Vitthal, 300 abhangs",
+      "Sant Tukaram (1598-1650) — most beloved Maharashtra saint, 4000+ abhangs, from Dehu near Pune",
+      "Abhang (अभंग) = traditional Marathi devotional verse: 4-line stanzas, signed by saint, sung with टाळ and मृदंग",
+      "भोंदू = hypocrite / religious fraud — Tukaram's warning",
+      "वैराग्य = renunciation of worldly pleasures",
+      "Maharashtra's Sant Parampara: Dnyaneshwar (1275), Namdev (1270), Janabai (1263), Eknath (1533), Tukaram (1598)",
+      "Warkari pilgrimage to Pandharpur — twice yearly, millions of devotees walking and singing abhangs",
+      "Suvichar vs म्हणी: suvichar = attributed motivational thought; mhani = anonymous folk proverb",
+      "सुविचार: संकटांना घाबरून न जाता यशस्वी = truly पराक्रमी (brave)"
+    ],
+    "commonMisconceptions": [
+      "Students often confuse सुविचार with म्हणी — both are short meaningful statements but म्हणी are anonymous folk proverbs while सुविचार are motivational quotes (often attributed).",
+      "Some students think abhangs are only sung in temples — abhangs are also recited/sung in school assemblies, family gatherings, and during the Warkari pilgrimage.",
+      "Janabai is sometimes confused with Janabai the saint from another region — this Janabai specifically lived in Pandharpur, Maharashtra.",
+      "Students may confuse 'Vitthal' (Lord of Pandharpur, a form of Vishnu) with other deities — Vitthal/Vithoba/Pandurang are all names for the same deity at Pandharpur."
+    ],
+    "realWorldExamples": [
+      "Warkari Pilgrimage: Every year in July (Ashadhi Ekadashi), 1 million+ Warkari walk to Pandharpur from all over Maharashtra, singing abhangs — visible on Pune-Solapur highways.",
+      "Tukaram Gatha: the collected abhangs of Tukaram are published in a book called 'गाथा' — every Marathi household traditionally has a copy.",
+      "Dnyaneshwari: the 13th-century text is still recited in Maharashtra households during devotional practices — 730 years old and still actively used!",
+      "Pandharpur temple: the Vitthal temple in Pandharpur (Solapur) is the most important pilgrimage site in Maharashtra — students in Maharashtra often visit with their families."
+    ],
+    "formulas": []
+  }
+}

@@ -18,6 +18,7 @@ const SUBJECT_CONFIG: Record<string, { emoji: string; subtitle: string; color: s
   Science:     { emoji: '🔬', subtitle: 'Physics, Chemistry, Biology',   color: 'from-green-500 to-emerald-600' },
   Mathematics: { emoji: '📐', subtitle: 'Numbers, Algebra, Geometry',    color: 'from-blue-500 to-indigo-600'  },
   English:     { emoji: '📖', subtitle: 'Literature, Grammar, Writing',  color: 'from-purple-500 to-pink-600'  },
+  Marathi:     { emoji: '🌸', subtitle: 'कथा, कविता, व्याकरण',            color: 'from-orange-500 to-amber-600' },
 };
 
 const DEFAULT_CONFIG = { emoji: '📚', subtitle: 'Grade 7 Maharashtra Board', color: 'from-gray-500 to-gray-600' };

@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "chapterNumber": 6,
+    "title": "टप् टप् पडती (Drops Fall)",
+    "subject": "Marathi",
+    "pages": "17",
+    "description": "A gentle, lyrical Marathi poem that describes the parijat (night jasmine) flowers — white flowers with orange stems — falling drop by drop (टप् टप्) in the early morning. The parijat is a special flower in Maharashtra: it falls by itself, cannot be plucked, and is associated with dawn devotion. The poem introduces students to nature imagery in Marathi poetry, the specific cultural significance of the parijat flower, and the poetic device of onomatopoeia (ध्वनि अनुकरण) — where words imitate the sounds of what they describe."
+  },
+  "preAssessment": [
+    {
+      "id": "pa6_1",
+      "question": "What is the Marathi name for the night jasmine flower (a white flower with an orange stem)?",
+      "options": {
+        "A": "जाई",
+        "B": "मोगरा",
+        "C": "प्राजक्त",
+        "D": "कमळ"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "c6_1"
+    },
+    {
+      "id": "pa6_2",
+      "question": "What does 'टप् टप्' imitate in the poem?",
+      "options": {
+        "A": "The sound of rain falling",
+        "B": "The sound of flowers gently falling/dropping",
+        "C": "The sound of footsteps",
+        "D": "The sound of someone clapping"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "c6_5"
+    },
+    {
+      "id": "pa6_3",
+      "question": "The Marathi word 'सुगंध' (Sugandh) means:",
+      "options": {
+        "A": "Colour",
+        "B": "Shape",
+        "C": "Fragrance / pleasant smell",
+        "D": "Sound"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "c6_4"
+    },
+    {
+      "id": "pa6_4",
+      "question": "What is special about the parijat (प्राजक्त) flower?",
+      "options": {
+        "A": "It is a very large flower",
+        "B": "It can only be found underwater",
+        "C": "It falls by itself — it cannot be plucked while on the tree",
+        "D": "It only blooms in winter"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c6_1"
+    },
+    {
+      "id": "pa6_5",
+      "question": "The poetic device where words imitate sounds (like टप् टप्, भूं भूं, छप् छप्) is called:",
+      "options": {
+        "A": "यमक (rhyme)",
+        "B": "रूपक (metaphor)",
+        "C": "ध्वनि अनुकरण (onomatopoeia)",
+        "D": "उपमा (simile)"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c6_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c6_1",
+      "title": "The Parijat (प्राजक्त) — Night Jasmine Flower",
+      "emoji": "🌸",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The parijat (प्राजक्त), also known as night jasmine (botanical name: Nyctanthes arbor-tristis), is a beloved flower in Maharashtra and across India. It has small, delicate white petals with a bright orange/saffron-coloured hollow stem. The flower has a beautiful, gentle fragrance. What makes the parijat truly special is that it falls from the tree by itself — you cannot pluck it from the branch. It falls overnight or at dawn, carpeting the ground with white and orange. This is why it is associated with purity, devotion, and the quiet beauty of early morning (पहाट). The parijat is used in worship (पूजा) offerings to Gods, particularly to Lord Vishnu.",
+      "pageReference": "17",
+      "examples": [
+        { "icon": "🌼", "text": "The parijat flower is tiny — smaller than a rupee coin — but its fragrance fills an entire garden." },
+        { "icon": "🌅", "text": "It blooms and falls at night/dawn — the morning ground beneath a parijat tree is covered in white flowers." },
+        { "icon": "🙏", "text": "Used in Hindu puja (worship) — collecting fallen parijat flowers for puja is a morning ritual in many Maharashtra homes." },
+        { "icon": "🔶", "text": "The orange hollow stem is distinctive — it makes the white petals look like tiny cups on orange stalks." }
+      ],
+      "keyPoints": [
+        "प्राजक्त = parijat = night jasmine — small white fragrant flower with orange hollow stem.",
+        "Special quality: it falls by itself — you cannot pluck it from the branch.",
+        "It blooms and falls at night and dawn — morning courtyards are carpeted with fallen flowers.",
+        "Used in puja (worship) as an offering to Gods, especially Lord Vishnu.",
+        "Associated with: purity, devotion, dawn (पहाट), and gentle beauty."
+      ],
+      "funFact": "In Hindu mythology, the parijat tree (known as Harsingar or Parijata) is said to be one of the five divine trees (कल्पवृक्ष) from the ocean of milk (क्षीरसागर). It was brought to Earth by Lord Krishna and planted in his wife Satyabhama's garden — a mythological story that shows how special this flower is!",
+      "textbookRef": "Chapter 6, Page 17 — Maharashtra Board 7th Grade Marathi (Second Language)"
+    },
+    {
+      "id": "c6_2",
+      "title": "Poem Meaning — Flowers Falling Gently",
+      "emoji": "🍂",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The poem 'टप् टप् पडती' describes the gentle, delicate falling of parijat flowers onto a person — 'टप् टप् पडती अंगावरती' (they fall drop by drop onto the body). The flowers fall with the lightness of drops (टप् टप्), tickling and touching the person's skin. The poet captures the quiet joy of standing under a parijat tree at dawn, feeling the gentle rain of fragrant flowers. The poem creates a mood of peaceful, devotional morning — cool air, fragrant flowers falling, the world just waking up. It is a meditation on the quiet beauty that nature offers freely every morning.",
+      "pageReference": "17",
+      "examples": [
+        { "icon": "🌤️", "text": "Imagine standing in a courtyard at dawn — cool air, birds chirping, and white fragrant flowers falling on you." },
+        { "icon": "💧", "text": "'टप् टप्' — the repetition creates the rhythm of drops, making you feel the gentle touch of falling flowers." },
+        { "icon": "😌", "text": "The mood of the poem is calm, peaceful, and devotional — like the feeling of morning prayer." },
+        { "icon": "🎵", "text": "The poem has a musical quality — 'टप् टप्' creates a gentle beat that matches the soft falling of flowers." }
+      ],
+      "keyPoints": [
+        "'टप् टप् पडती अंगावरती' — flowers fall drop by drop onto the body, like gentle rain.",
+        "The poem captures the magic of early morning (पहाट) under a parijat tree.",
+        "The mood is peaceful, devotional, and joyful — a celebration of simple natural beauty.",
+        "The repetition of 'टप् टप्' creates rhythm and a musical feel in the poem.",
+        "Marathi poetry often celebrates the quiet, everyday moments of nature — this is a beautiful example."
+      ],
+      "funFact": "Maharashtra's morning culture (पहाट संस्कृती) is unique — many people wake before sunrise for daily worship, yoga, walks, and to collect parijat flowers for puja. The Warkari devotees (those who go on pilgrimage to Pandharpur) wake at 3-4 AM and sing devotional songs (भजन) — the parijat-scented dawn is deeply spiritual for them.",
+      "textbookRef": "Chapter 6, Page 17 — Poem meaning"
+    },
+    {
+      "id": "c6_3",
+      "title": "Nature Imagery in Marathi Poetry",
+      "emoji": "🌿",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Marathi poetry has a rich tradition of using nature images (निसर्ग प्रतिमा) — flowers, rivers, rain, seasons, birds, trees — to express human emotions and ideas. The parijat poem is a perfect example: the falling flowers are not just flowers — they are a symbol of grace, gentleness, and divine blessing. In Marathi literature (from the ancient Varkari saints like Dnyaneshwar and Tukaram to modern poets), nature is not just a background but an active participant in human life. The monsoon (पाऊस), the mango tree (आंबा), the basil plant (तुळस), the bullock, the parijat — all are characters in Marathi literature.",
+      "pageReference": "17",
+      "examples": [
+        { "icon": "🌧️", "text": "Monsoon (पाऊस) in Marathi poetry — represents hope, renewal, longing, and the joy of life returning to dry earth." },
+        { "icon": "🌾", "text": "Harvest fields (शेत) — symbol of hard work, abundance, and the cycle of seasons in Marathi rural poetry." },
+        { "icon": "🌺", "text": "Flowers — parijat, mogra, jai, rose — each carries specific meanings in Marathi poetry and culture." },
+        { "icon": "🐦", "text": "Birds — sparrow (चिमणी), cuckoo (कोकिळा), crow (कावळा) — common characters in Marathi poems and folk songs." }
+      ],
+      "keyPoints": [
+        "Nature imagery (निसर्ग प्रतिमा) is central to Marathi poetry tradition.",
+        "Common nature images: पाऊस (monsoon), फूल (flower), नदी (river), झाड (tree), पक्षी (bird).",
+        "Nature in Marathi poetry is not just decoration — it is a symbol and participant in human emotions.",
+        "Marathi Saints like Dnyaneshwar, Tukaram, and Janabai used nature images to express devotion.",
+        "Understanding nature imagery helps students read and appreciate Marathi poems deeply."
+      ],
+      "funFact": "Sant Dnyaneshwar (13th century, Alandi, Maharashtra) wrote 'Pasayadan' — considered the greatest prayer in Marathi literature — in which he wishes for the whole world to become like a garden of blooming plants and all people to live like bees gathering sweetness. His poetry is full of nature images!",
+      "textbookRef": "Chapter 6, Page 17 — Nature in Marathi poetry"
+    },
+    {
+      "id": "c6_4",
+      "title": "Marathi Words for Nature",
+      "emoji": "📚",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "This poem introduces important Marathi vocabulary related to nature and flowers. Building this vocabulary helps students read Marathi poems and appreciate nature writing. Key words from this poem and the natural world: फूल = flower, सुगंध = fragrance, पहाट = dawn, झाड = tree, पाकळी = petal, देठ = stem, माती = soil, आकाश = sky, वारा = wind, ढग = cloud, दवबिंदू = dewdrop, रात = night, सकाळ = morning, नदी = river, डोंगर = mountain/hill.",
+      "pageReference": "17",
+      "examples": [
+        { "icon": "🌺", "text": "फूल = flower | पाकळी = petal | देठ = stem | कळी = bud | सुगंध = fragrance" },
+        { "icon": "🌅", "text": "पहाट = dawn/very early morning | सकाळ = morning | दुपार = afternoon | संध्याकाळ = evening" },
+        { "icon": "🌳", "text": "झाड = tree | फांदी = branch | पान = leaf | मूळ = root | खोड = trunk" },
+        { "icon": "☁️", "text": "आकाश = sky | ढग = cloud | वारा = wind | पाऊस = rain | दवबिंदू = dewdrop" }
+      ],
+      "keyPoints": [
+        "फूल = flower | सुगंध = fragrance | पहाट = dawn | पाकळी = petal | देठ = stem",
+        "झाड = tree | फांदी = branch | पान = leaf | कळी = bud | मूळ = root",
+        "पाऊस = rain | वारा = wind | ढग = cloud | आकाश = sky | नदी = river",
+        "दव / दवबिंदू = dew / dewdrop | सकाळ = morning | रात / रात्र = night",
+        "Learning nature vocabulary in Marathi helps with reading poetry, conversations, and environmental topics."
+      ],
+      "funFact": "Marathi has very specific words for different types of rain! 'पाऊस' is general rain, but 'सर' is a brief shower, 'धार' is heavy pouring rain, and 'शिरशिर' is a light drizzle. This shows how closely Marathi language is connected to Maharashtra's monsoon culture!",
+      "textbookRef": "Chapter 6, Page 17 — Marathi nature vocabulary"
+    },
+    {
+      "id": "c6_5",
+      "title": "Poetic Device: ध्वनि अनुकरण (Onomatopoeia)",
+      "emoji": "🎵",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Onomatopoeia (ध्वनि अनुकरण) is a literary device where a word imitates or sounds like the sound it describes. In Marathi, this is called 'ध्वनि अनुकरण' (dhvani anukaraN) — dhvani means sound and anukaraN means imitation. In the poem, 'टप् टप्' imitates the soft sound of drops falling. This makes the poem more vivid and sensory — you can almost hear the flowers falling when you read or hear the poem. Marathi literature and folk songs are rich in such sound-imitating words.",
+      "pageReference": "17",
+      "examples": [
+        { "icon": "💧", "text": "'टप् टप्' — imitates the sound of drops or small objects falling softly (flowers, rain drops on leaves)." },
+        { "icon": "🐝", "text": "'भूं भूं' — imitates the buzzing sound of a bee or insect." },
+        { "icon": "💦", "text": "'छप् छप्' — imitates the sound of splashing in water (walking through puddles, playing in rain)." },
+        { "icon": "🍃", "text": "'सरसर' — imitates the sound of wind rustling through leaves or paper being moved quickly." }
+      ],
+      "keyPoints": [
+        "ध्वनि अनुकरण = onomatopoeia — words that imitate the sound they describe.",
+        "'टप् टप्' in the poem imitates the soft sound of drops/flowers falling gently.",
+        "Other Marathi examples: भूं भूं (bee), छप् छप् (splash), गुरगुर (growling/thunder), सरसर (rustling).",
+        "Onomatopoeia makes poetry more vivid and sensory — readers can almost hear what is being described.",
+        "Marathi folk songs (लोकगीत) and children's songs are especially rich in onomatopoeic words."
+      ],
+      "funFact": "Marathi has some wonderful onomatopoeic words! 'खळखळ' imitates the sound of water flowing over pebbles in a brook. 'गडगड' imitates thunder. 'किरकिर' imitates a child's whining or a door creaking. These words are so expressive that even someone who doesn't know the language can guess their meaning from the sound!",
+      "textbookRef": "Chapter 6, Page 17 — Grammar: ध्वनि अनुकरण (Onomatopoeia)"
+    }
+  ],
+  "test": [
+    {
+      "id": "t6_1",
+      "question": "What is the Marathi name for the night jasmine flower?",
+      "options": {
+        "A": "मोगरा",
+        "B": "प्राजक्त",
+        "C": "कमळ",
+        "D": "जाई"
+      },
+      "correctAnswer": "B",
+      "explanation": "'प्राजक्त' is the Marathi name for the night jasmine (also called parijat or Harsingar). It is a small, white, fragrant flower with a distinctive orange hollow stem. It is unique because it falls from the tree by itself — it cannot be plucked while on the branch.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t6_2",
+      "question": "What does 'ध्वनि अनुकरण' mean in English?",
+      "options": {
+        "A": "Rhyme",
+        "B": "Metaphor",
+        "C": "Simile",
+        "D": "Onomatopoeia — words that imitate sounds"
+      },
+      "correctAnswer": "D",
+      "explanation": "'ध्वनि अनुकरण' = ध्वनि (sound) + अनुकरण (imitation) = onomatopoeia. It is the poetic device where words sound like what they describe. 'टप् टप्' imitates the soft sound of drops falling, making the poem feel vivid and sensory.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t6_3",
+      "question": "The parijat flower is associated with which time of day?",
+      "options": {
+        "A": "Noon",
+        "B": "Midnight",
+        "C": "Dawn / very early morning (पहाट)",
+        "D": "Afternoon"
+      },
+      "correctAnswer": "C",
+      "explanation": "The parijat flowers fall at night and early morning (पहाट — dawn). By sunrise, the ground beneath a parijat tree is covered with white flowers. Collecting parijat flowers for morning puja (worship) is a common ritual in Maharashtra homes — it connects the flower firmly to the devotional dawn hours.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t6_4",
+      "question": "What is the Marathi word for fragrance?",
+      "options": {
+        "A": "पाकळी",
+        "B": "सुगंध",
+        "C": "देठ",
+        "D": "फांदी"
+      },
+      "correctAnswer": "B",
+      "explanation": "'सुगंध' means fragrance or pleasant smell. 'पाकळी' means petal, 'देठ' means stem, and 'फांदी' means branch. The parijat flower is famous for its gentle, sweet सुगंध — it perfumes an entire garden even though it is a tiny flower.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t6_5",
+      "question": "Which of these is an example of ध्वनि अनुकरण (onomatopoeia) in Marathi?",
+      "options": {
+        "A": "मोठा (big)",
+        "B": "शाळा (school)",
+        "C": "भूं भूं (buzzing sound of a bee)",
+        "D": "सुंदर (beautiful)"
+      },
+      "correctAnswer": "C",
+      "explanation": "'भूं भूं' imitates the buzzing sound of a bee — when you say it aloud, it sounds like the buzzing noise an insect makes. This makes it an example of ध्वनि अनुकरण (onomatopoeia). The other words (मोठा, शाळा, सुंदर) are regular descriptive words that do not imitate any sound.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t6_6",
+      "question": "Why can't you pluck a parijat flower from the branch?",
+      "options": {
+        "A": "Because the tree has thorns",
+        "B": "Because the flower falls on its own and cannot be picked while attached to the branch",
+        "C": "Because it is a protected species",
+        "D": "Because the flower is too high up to reach"
+      },
+      "correctAnswer": "B",
+      "explanation": "The parijat flower is unique because it falls by itself when fully bloomed — it detaches naturally from the branch overnight or at dawn. Even if you try to pick an unripe flower, it won't smell the same. Puja tradition says that fallen parijat flowers are purer for worship than plucked ones.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t6_7",
+      "question": "The Marathi word 'पहाट' means:",
+      "options": {
+        "A": "Afternoon",
+        "B": "Midnight",
+        "C": "Evening",
+        "D": "Dawn / very early morning"
+      },
+      "correctAnswer": "D",
+      "explanation": "'पहाट' means dawn or very early morning — the time just before or around sunrise. It is a word with a beautiful, peaceful feeling associated with it in Marathi poetry and culture. 'रात्र' = night, 'दुपार' = afternoon, 'संध्याकाळ' = evening.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t6_8",
+      "question": "In the poem 'टप् टप् पडती', what is falling 'टप् टप्'?",
+      "options": {
+        "A": "Rain drops",
+        "B": "Parijat (night jasmine) flowers",
+        "C": "Mango fruits",
+        "D": "Leaves"
+      },
+      "correctAnswer": "B",
+      "explanation": "In the poem, parijat (प्राजक्त) flowers fall gently, described as 'टप् टप् पडती अंगावरती' — falling drop by drop onto the body. The 'टप् टप्' sound word (onomatopoeia) captures the soft, delicate way in which tiny parijat flowers drift down from the tree.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t6_9",
+      "question": "What is the Marathi word for 'petal' (of a flower)?",
+      "options": {
+        "A": "देठ (stalk)",
+        "B": "फांदी (branch)",
+        "C": "पाकळी (petal)",
+        "D": "मूळ (root)"
+      },
+      "correctAnswer": "C",
+      "explanation": "'पाकळी' is the Marathi word for petal — the individual colorful (or white) leaf-like parts of a flower. 'देठ' means stem, 'फांदी' means branch, and 'मूळ' means root. The parijat has delicate white पाकळ्या (plural of पाकळी) with a saffron-orange hollow stem.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t6_10",
+      "question": "The sound word 'छप् छप्' in Marathi imitates which sound?",
+      "options": {
+        "A": "The sound of bells ringing",
+        "B": "The sound of splashing in water",
+        "C": "The sound of birds singing",
+        "D": "The sound of a drum"
+      },
+      "correctAnswer": "B",
+      "explanation": "'छप् छप्' is an onomatopoeic word (ध्वनि अनुकरण) that imitates the sound of splashing in water — like walking through puddles, playing in rain, or jumping into a shallow stream. Like 'टप् टप्' in the poem, it shows how Marathi uses sound-words to bring descriptions to life.",
+      "difficulty": "medium"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "प्राजक्त = parijat = night jasmine — white flower with orange stem, falls by itself",
+      "टप् टप् — onomatopoeia for the sound of dropping/falling",
+      "ध्वनि अनुकरण = onomatopoeia — words that imitate sounds",
+      "पहाट = dawn — time when parijat falls, associated with devotion",
+      "सुगंध = fragrance — the distinctive quality of the parijat flower",
+      "Nature imagery in Marathi poetry — flowers, seasons, birds, rain",
+      "Nature vocabulary: फूल, पाकळी, देठ, झाड, पाऊस, वारा, आकाश, सकाळ"
+    ],
+    "commonMisconceptions": [
+      "Students may confuse 'प्राजक्त' with 'मोगरा' (mogra/jasmine) — both are white fragrant flowers but different plants. Mogra is usually worn in hair while parijat is used in puja.",
+      "Some students think 'टप् टप्' always means rain — in this poem it refers to flowers falling, not raindrops.",
+      "'पहाट' and 'सकाळ' are sometimes confused — पहाट is specifically very early morning/dawn (before full sunrise), while सकाळ is morning in general.",
+      "Onomatopoeia (ध्वनि अनुकरण) is sometimes confused with rhyme (यमक) — rhyme is about matching end sounds, while onomatopoeia is about words that sound like what they describe."
+    ],
+    "realWorldExamples": [
+      "Parijat trees in Maharashtra homes: Many Maharashtra families plant a parijat tree in their courtyard for daily worship. Collecting fallen flowers every morning is a common devotional practice.",
+      "Ganesh Chaturthi decorations: Parijat flowers are used to decorate Ganesh idols during the festival.",
+      "Harsingar festival in Uttar Pradesh: In North India, the same flower (called Harsingar) is celebrated as a seasonal festival marker — showing this flower's pan-India cultural significance.",
+      "Botanical gardens: The Empress Botanical Garden in Pune and various Maharashtra university campuses have parijat trees that students can visit and observe."
+    ],
+    "formulas": []
+  }
+}

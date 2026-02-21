@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "chapterNumber": 11,
+    "title": "लेक (Daughter)",
+    "subject": "Marathi",
+    "pages": "37-41",
+    "description": "A powerful Marathi poem celebrating the birth and value of a daughter. The poem uses rich metaphors: 'लेक तांबडं कुंदन, लेक हिरवं गोंदण / लेक झाडाची पालवी, लेक हाडाचं चंदन' — daughter is red gold, green tattoo, new leaf on a tree, and sandalwood from the bones. The poem also describes the daughter as the grandfather's inherited qualities and the grandmother's favourite. It ends with a powerful message of gender equality: 'मुलगा-मुलगी एकसमान, दोघांनाही द्या सन्मान' (Boy and girl are equal, give both respect). A chapter about values, poetry, and social equality."
+  },
+  "preAssessment": [
+    {
+      "id": "pa11_1",
+      "question": "What is the Marathi word 'लेक' (lek) used to mean?",
+      "options": {
+        "A": "Son",
+        "B": "Child (sometimes specifically daughter)",
+        "C": "Grandmother",
+        "D": "Teacher"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "c11_1"
+    },
+    {
+      "id": "pa11_2",
+      "question": "In the poem, 'लेक तांबडं कुंदन' compares a daughter to:",
+      "options": {
+        "A": "Red cloth",
+        "B": "A red flower",
+        "C": "Red/pure gold",
+        "D": "A red star"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c11_2"
+    },
+    {
+      "id": "pa11_3",
+      "question": "The Marathi word 'पालवी' (paalvi) means:",
+      "options": {
+        "A": "Bird's feather",
+        "B": "Rain",
+        "C": "New leaf / fresh shoot on a tree",
+        "D": "Fruit"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c11_2"
+    },
+    {
+      "id": "pa11_4",
+      "question": "What is the key message of the poem about gender equality?",
+      "options": {
+        "A": "Girls should stay at home",
+        "B": "Boys are more important than girls",
+        "C": "Girls and boys are equal — both deserve equal respect",
+        "D": "Girls are better than boys"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "c11_3"
+    },
+    {
+      "id": "pa11_5",
+      "question": "What is 'गोंदण' (gondaN) in the poem's metaphor 'हिरवं गोंदण'?",
+      "options": {
+        "A": "A type of flower",
+        "B": "A tattoo / traditional body decoration",
+        "C": "Green cloth",
+        "D": "A musical instrument"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c11_2"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c11_1",
+      "title": "The Poem and Its Social Message",
+      "emoji": "👧",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The poem 'लेक' celebrates the birth and existence of a daughter in language that is so rich and beautiful that it directly counters the deep-rooted problem of female foeticide (the practice of aborting female foetuses because daughters are not wanted). In Maharashtra and across India, many families historically preferred sons — daughters were seen as a burden (because of dowry demands, perceived lower social value). This poem powerfully says: a daughter is not a burden — she is gold, a tattoo, a new leaf, sandalwood, the family's treasure. 'लेक' in Marathi can mean child generally, but in this context it means specifically daughter. The poem's message is: welcome and celebrate every daughter.",
+      "pageReference": "37-38",
+      "examples": [
+        { "icon": "💛", "text": "The poem's richness of metaphor says: a daughter is not just 'okay' — she is gold, precious, beautiful, and essential." },
+        { "icon": "📊", "text": "Maharashtra's female child sex ratio has historically been a concern — poems and campaigns like this counter that trend." },
+        { "icon": "🌱", "text": "The poem says a daughter is 'पालवी' (new leaf) — fresh growth, hope, and renewal for the family." },
+        { "icon": "🙌", "text": "The ending message — 'मुलगा-मुलगी एकसमान' (boy and girl are equal) — is a direct social declaration." }
+      ],
+      "keyPoints": [
+        "'लेक' means child, but in this poem it specifically celebrates daughters.",
+        "The poem counters the social problem of female foeticide and son preference with powerful positive imagery.",
+        "Maharashtra had/has issues with skewed female-to-male sex ratios, especially in some districts.",
+        "The poem uses rich metaphors to say: a daughter is MORE valuable than people realize — she is gold, new life, precious.",
+        "The closing message 'मुलगा-मुलगी एकसमान' (boys and girls are equal) is a powerful declaration for gender equality."
+      ],
+      "funFact": "The Government of India launched 'Beti Bachao, Beti Padhao' (Save the Daughter, Educate the Daughter) in 2015, primarily in Maharashtra, Haryana, and Rajasthan — states where the female-to-male birth ratio was most imbalanced. This poem in the school textbook is part of the same cultural movement to change mindsets about daughters!",
+      "textbookRef": "Chapter 11, Pages 37-41 — Maharashtra Board 7th Grade Marathi (Second Language)"
+    },
+    {
+      "id": "c11_2",
+      "title": "Metaphors for Daughters in the Poem",
+      "emoji": "💎",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The poem uses four powerful metaphors in its opening: (1) 'तांबडं कुंदन' — red/pure gold (कुंदन = refined pure gold, तांबडं = red/warm coloured, associated with auspiciousness). Daughter = precious, pure, like gold. (2) 'हिरवं गोंदण' — green tattoo (गोंदण = traditional decorative tattoo design on the body, हिरवं = green, associated with life/fertility). Daughter = permanent mark on the family, like a beautiful tattoo that stays forever. (3) 'झाडाची पालवी' — new leaf on a tree (पालवी = fresh shoot or new growth). Daughter = new life, renewal, hope, freshness. (4) 'हाडाचं चंदन' — sandalwood of the bones (चंदन = sandalwood — deeply fragrant, precious, used in worship). Daughter = fragrance that comes from the deepest part of the family.",
+      "pageReference": "37-39",
+      "examples": [
+        { "icon": "✨", "text": "'तांबडं कुंदन' (red/pure gold): Daughters are as precious as the finest pure gold — invaluable and beautiful." },
+        { "icon": "🎨", "text": "'हिरवं गोंदण' (green tattoo): A daughter is permanently and beautifully part of the family — like a tattoo that lasts forever." },
+        { "icon": "🌿", "text": "'झाडाची पालवी' (new leaf on a tree): A daughter is fresh growth — she brings new life, hope, and energy to the family." },
+        { "icon": "🪵", "text": "'हाडाचं चंदन' (sandalwood from bones): Like sandalwood — the more you rub it, the more fragrance it gives. A daughter gives more the more you involve her in family life." }
+      ],
+      "keyPoints": [
+        "'तांबडं कुंदन' = red pure gold — daughter is precious and pure like the finest gold.",
+        "'हिरवं गोंदण' = green tattoo — daughter is permanent, beautiful, part of the family forever.",
+        "'झाडाची पालवी' = new leaf/shoot on a tree — daughter represents fresh hope and new life.",
+        "'हाडाचं चंदन' = sandalwood from bones — deepest, most essential fragrance of the family.",
+        "All four metaphors communicate: a daughter is not a burden but a treasure — precious, permanent, life-giving."
+      ],
+      "funFact": "गोंदण (tattoo/traditional body art) is an ancient tradition in Maharashtra's tribal and rural communities. Women from the Gondi, Koli, and Mahadeo Koli communities traditionally wore elaborate गोंदण designs on arms and faces as identity markers. The poem's use of this image connects daughter-love with deep Maharashtra cultural traditions!",
+      "textbookRef": "Chapter 11, Pages 37-40 — Metaphors in the poem"
+    },
+    {
+      "id": "c11_3",
+      "title": "Gender Equality — मुलगा-मुलगी एकसमान",
+      "emoji": "⚖️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The poem ends with one of the most direct statements of gender equality in Marathi poetry: 'मुलगा-मुलगी एकसमान, दोघांनाही द्या सन्मान' — 'Boy and girl are equal; give respect to both.' This simple, powerful couplet is a direct rejection of the idea that daughters are less valuable than sons. 'एकसमान' = equal (एक = one, समान = same/equal). 'सन्मान' = respect/honour (सत् = good + मान = esteem). Gender equality (लिंग समानता) is a fundamental value in democratic societies and is protected by India's Constitution — every child, regardless of gender, has equal rights to education, safety, and opportunity.",
+      "pageReference": "39-40",
+      "examples": [
+        { "icon": "⚖️", "text": "'मुलगा-मुलगी एकसमान' — both deserve the same education, opportunities, safety, and love." },
+        { "icon": "📚", "text": "Equal education rights: Article 21-A of India's Constitution guarantees education for all children aged 6-14, regardless of gender." },
+        { "icon": "🏃‍♀️", "text": "Maharashtra has many examples of women excelling in sports: Saina Nehwal, P.V. Sindhu, Mary Kom — all proving gender equality in achievement." },
+        { "icon": "🌟", "text": "'सन्मान' = respect — real gender equality is not just legal rights but also social respect and recognition." }
+      ],
+      "keyPoints": [
+        "'मुलगा-मुलगी एकसमान, दोघांनाही द्या सन्मान' — the poem's climactic message of gender equality.",
+        "Article 15 of India's Constitution prohibits discrimination based on gender.",
+        "Maharashtra has historically produced great women reformers (Savitribai Phule, Pandita Ramabai) who fought for this equality.",
+        "Beti Bachao Beti Padhao campaign (2015) — India's government initiative to save and educate girl children.",
+        "Real gender equality means: equal education, opportunities, safety, career choices, and social respect."
+      ],
+      "funFact": "Maharashtra's Chandrayaan-3 mission to the Moon (2023) had many women scientists at ISRO — showing the outcomes when girls receive equal education and opportunity. Including: mission specialist Dr. Muthayya Vanitha and others. These women are literally 'पालवी' (new shoots) of Indian science who grew because they were given equal opportunity!",
+      "textbookRef": "Chapter 11, Pages 39-40 — Gender equality message"
+    },
+    {
+      "id": "c11_4",
+      "title": "Vocabulary: तांबडं, कुंदन, गोंदण, पालवी, चंदन",
+      "emoji": "📖",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The poem introduces rich Marathi vocabulary that students should understand: (1) 'लेक' = child (often daughter); (2) 'तांबडं' = red/reddish-warm colour (also means auspicious, like the colour of kumkum); (3) 'कुंदन' = pure/refined gold (highest quality); (4) 'गोंदण' = traditional tattoo/body art; (5) 'पालवी' = new leaf/fresh shoot on a tree — the first green growth after winter; (6) 'चंदन' = sandalwood — fragrant wood used in worship and medicine; (7) 'हाड' = bone; (8) 'सन्मान' = respect/honour; (9) 'आजोबा' = grandfather; (10) 'आजी' = grandmother.",
+      "pageReference": "37-41",
+      "examples": [
+        { "icon": "🔴", "text": "तांबडं = red/warm red. In Marathi culture, red (like kumkum/sindoor) is auspicious and celebratory." },
+        { "icon": "✨", "text": "कुंदन = the finest, purest form of gold — 24-carat gold used in the best jewelry. Daughters are कुंदन-precious." },
+        { "icon": "🌿", "text": "पालवी = new leaf shoot — the tender, fresh green growth on a bare branch after winter or dry season. Full of hope." },
+        { "icon": "🪵", "text": "चंदन = sandalwood — one of India's most fragrant and precious woods, used in temple worship and Ayurvedic medicine." }
+      ],
+      "keyPoints": [
+        "तांबडं = red (warm, auspicious) | कुंदन = finest pure gold | गोंदण = traditional tattoo",
+        "पालवी = new leaf/fresh growth on tree | चंदन = sandalwood (fragrant and precious)",
+        "हाड = bone | सन्मान = respect/honour | लेक = child (daughter)",
+        "आजोबा = grandfather | आजी = grandmother | कुटुंब = family",
+        "Understanding these words enriches not just this poem but many Marathi poems and songs."
+      ],
+      "funFact": "Chandan (sandalwood / चंदन) from Karnataka and Mysore is among the world's most expensive woods. It is used in temples (sandalwood paste for God's idol), Ayurvedic medicine, incense sticks (अगरबत्ती), and perfumes. The famous Mysore Palace in Karnataka is built with sandalwood furniture! In Marathi poetry, चंदन always symbolizes the most precious, enduring, and fragrant things.",
+      "textbookRef": "Chapter 11, Pages 37-41 — Vocabulary"
+    },
+    {
+      "id": "c11_5",
+      "title": "Women in Maharashtra — Historical Context",
+      "emoji": "🏆",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Maharashtra has the proudest history of women's empowerment in India. Key figures: (1) Savitribai Phule (1831-1897) — India's first female teacher, opened the first girls' school in Pune (1848); (2) Pandita Ramabai (1858-1922) — Sanskrit scholar, social reformer, women's education pioneer; (3) Tarabai Shinde (1850-1910) — wrote 'Stri Purush Tulna' (1882), considered India's first feminist text; (4) Anandibai Joshi (1865-1887) — first Indian woman to earn an MD (medical degree) in the USA; (5) Ahilyabai Holkar (1725-1795) — ruler of Malwa, one of history's greatest female administrators; (6) Jijabai (Jijamata) — Chhatrapati Shivaji's mother, who shaped his character and values.",
+      "pageReference": "37-41",
+      "examples": [
+        { "icon": "👩‍🏫", "text": "Savitribai Phule — walked to school through stone-throwing crowds to teach girls in 1848. Her courage opened education to women." },
+        { "icon": "👩‍⚕️", "text": "Anandibai Joshi — first Indian woman to get a medical degree (1886, USA) — at age 21, pioneering women in medicine." },
+        { "icon": "👑", "text": "Ahilyabai Holkar — built temples and roads across India, administered justice, beloved ruler. A model of female leadership." },
+        { "icon": "⚔️", "text": "Jijabai — Shivaji Maharaj's mother who taught him courage, ethics, and nationalism — 'behind every great man is a great mother!'" }
+      ],
+      "keyPoints": [
+        "Maharashtra has the richest tradition of women's empowerment in India — multiple 'firsts'.",
+        "Savitribai Phule (1831-1897) — India's first female teacher; opened first girls' school in Pune, 1848.",
+        "Tarabai Shinde — wrote India's first feminist text 'Stri Purush Tulna' in 1882.",
+        "Anandibai Joshi — first Indian woman MD (medical doctor), age 21, University of Pennsylvania, USA.",
+        "Jijamata (Jijabai) — mother of Chhatrapati Shivaji Maharaj; a symbol of strength and values."
+      ],
+      "funFact": "Anandibai Joshi from Pune went to America in 1883 to study medicine when she was just 17 — without any family support, without money, in a country she had never visited, in an era when Indian women rarely left their homes. She got her MD degree in 1886 but died of tuberculosis at just 22 years old. Maharashtra's women have always shown extraordinary courage!",
+      "textbookRef": "Chapter 11, Pages 37-41 — Women of Maharashtra"
+    }
+  ],
+  "test": [
+    {
+      "id": "t11_1",
+      "question": "What does the metaphor 'लेक तांबडं कुंदन' compare a daughter to?",
+      "options": {
+        "A": "A red flower",
+        "B": "Pure, refined gold — precious and beautiful",
+        "C": "A red sun",
+        "D": "A red sari"
+      },
+      "correctAnswer": "B",
+      "explanation": "'तांबडं कुंदन' = red/warm-toned pure gold (कुंदन = the finest quality refined gold). The metaphor compares a daughter to the most precious, purest form of gold — saying she is invaluable and beautiful. 'तांबडं' also suggests warmth and auspiciousness — the colour of kumkum/celebration.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t11_2",
+      "question": "The Marathi word 'पालवी' (paalvi) in the poem means:",
+      "options": {
+        "A": "Fruit of a tree",
+        "B": "Root of a tree",
+        "C": "New leaf / fresh shoot on a tree",
+        "D": "Shade of a tree"
+      },
+      "correctAnswer": "C",
+      "explanation": "'पालवी' means new leaf or fresh shoot — the tender, fresh green growth on a tree, especially after winter or a dry period. Comparing a daughter to 'पालवी' says she represents new life, hope, and renewal for the family — just as new leaves signal the return of life to a tree.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t11_3",
+      "question": "What is the key concluding message of the poem 'लेक'?",
+      "options": {
+        "A": "Daughters are more important than sons",
+        "B": "Boys and girls are equal — give both respect (मुलगा-मुलगी एकसमान, दोघांनाही द्या सन्मान)",
+        "C": "Daughters should be protected at home",
+        "D": "Sons carry on the family name"
+      },
+      "correctAnswer": "B",
+      "explanation": "The poem concludes with the powerful couplet: 'मुलगा-मुलगी एकसमान, दोघांनाही द्या सन्मान' — 'Boy and girl are equal; give respect to both.' This is a direct, clear declaration of gender equality — the poem's most important message for students and families.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t11_4",
+      "question": "What does 'चंदन' (chandan) mean?",
+      "options": {
+        "A": "Moonlight",
+        "B": "Sandalwood — fragrant and precious wood",
+        "C": "Gold ornament",
+        "D": "Lotus flower"
+      },
+      "correctAnswer": "B",
+      "explanation": "'चंदन' is sandalwood — one of India's most fragrant and precious woods, used in temples, Ayurvedic medicine, and perfumes. In the poem, the metaphor 'हाडाचं चंदन' says the daughter is like sandalwood that comes from the very bones of the family — the deepest, most essential fragrance and value.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t11_5",
+      "question": "The Marathi word 'सन्मान' (sanmaan) in the poem means:",
+      "options": {
+        "A": "Education",
+        "B": "Property/wealth",
+        "C": "Respect/honour",
+        "D": "Celebration"
+      },
+      "correctAnswer": "C",
+      "explanation": "'सन्मान' = सत् (good) + मान (esteem/regard) = respect or honour. The poem asks us to give 'सन्मान' (respect) to both boys and girls equally. This is not just about legal rights — it is about genuine social respect, treating daughters as valued, important members of the family and society.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t11_6",
+      "question": "Who was Savitribai Phule and why is she important in the context of this poem?",
+      "options": {
+        "A": "A warrior queen who fought the British",
+        "B": "India's first female teacher — she opened the first school for girls in Pune (1848)",
+        "C": "A Marathi film actress",
+        "D": "A doctor who treated women patients"
+      },
+      "correctAnswer": "B",
+      "explanation": "Savitribai Phule (1831-1897) and her husband Jyotirao Phule opened India's first school for girls in Pune in 1848. She became India's first female teacher, facing stones and abuse from those who opposed girls' education. Her story perfectly embodies the poem's message — daughters deserve education and equal respect.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t11_7",
+      "question": "What is 'गोंदण' (gondaN) as used in traditional Maharashtra culture?",
+      "options": {
+        "A": "A traditional sweet/dessert",
+        "B": "A type of musical instrument",
+        "C": "Traditional tattoo/body art decoration",
+        "D": "A green plant"
+      },
+      "correctAnswer": "C",
+      "explanation": "'गोंदण' is a traditional form of tattoo or body decoration — decorative patterns applied to the skin as a form of identity or beauty. In Maharashtra's tribal and rural communities, elaborate गोंदण designs on arms and faces were traditional. The poem uses 'हिरवं गोंदण' (green tattoo) to say a daughter is permanently and beautifully part of the family.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t11_8",
+      "question": "The poem describes the daughter as 'आजोबांचा गुणांचा ठेवा' — what does this mean?",
+      "options": {
+        "A": "The grandfather's wealth and property",
+        "B": "The grandfather's treasure of qualities/virtues passed down",
+        "C": "The grandfather's favourite story",
+        "D": "The grandfather's traditional occupation"
+      },
+      "correctAnswer": "B",
+      "explanation": "'आजोबांचा गुणांचा ठेवा' means 'the grandfather's treasure of qualities' — the daughter carries forward the grandfather's best qualities, character traits, and virtues. 'ठेवा' = treasure/inheritance. 'गुण' = qualities/virtues. This shows how daughters are not a break from family heritage but carriers and preservers of it.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "t11_9",
+      "question": "Which Indian government campaign relates directly to the message of this poem?",
+      "options": {
+        "A": "Swachh Bharat Abhiyan (Clean India)",
+        "B": "Beti Bachao, Beti Padhao (Save the Daughter, Educate the Daughter)",
+        "C": "Digital India",
+        "D": "Make in India"
+      },
+      "correctAnswer": "B",
+      "explanation": "'Beti Bachao, Beti Padhao' (Save the Daughter, Educate the Daughter) launched by the Indian government in 2015 directly addresses the problem of declining female birth ratio and girls' education. The poem 'लेक' has the same message: daughters are precious, equal, and deserving of education and respect. The poem in schools supports the campaign's cultural change goals.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t11_10",
+      "question": "What does 'एकसमान' (eksaman) mean in 'मुलगा-मुलगी एकसमान'?",
+      "options": {
+        "A": "Different from each other",
+        "B": "One is better than the other",
+        "C": "Equal / the same",
+        "D": "Like one person"
+      },
+      "correctAnswer": "C",
+      "explanation": "'एकसमान' = एक (one) + समान (same/equal) = completely equal, the same in value and importance. 'मुलगा-मुलगी एकसमान' means 'boy and girl are completely equal' — in value, importance, worth, and deserving of respect. This is the poem's final and most powerful message.",
+      "difficulty": "easy"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "लेक = child / daughter — the subject of the poem",
+      "तांबडं कुंदन = pure gold | हिरवं गोंदण = green tattoo | पालवी = new leaf | चंदन = sandalwood",
+      "मुलगा-मुलगी एकसमान = boys and girls are equal",
+      "सन्मान = respect/honour — both genders deserve equal respect",
+      "Gender equality in India — Beti Bachao, Beti Padhao campaign",
+      "Women of Maharashtra: Savitribai Phule, Pandita Ramabai, Tarabai Shinde, Anandibai Joshi",
+      "गोंदण = traditional Marathi tattoo — cultural body art"
+    ],
+    "commonMisconceptions": [
+      "Students may think 'लेक' only means daughter — it means child generally but is used specifically for daughter in this poem's context.",
+      "'कुंदन' might be confused with any gold — it specifically refers to the FINEST, purest refined gold (24-carat equivalent).",
+      "Some students may confuse 'पालवी' (new leaf/shoot) with 'पान' (leaf) — पालवी specifically means NEW, fresh growth, while पान is a general leaf.",
+      "'गोंदण' may be confused with 'मेहंदी' (henna) — both are body decoration but गोंदण is a permanent tattoo tradition, while मेहंदी is temporary."
+    ],
+    "realWorldExamples": [
+      "Beti Bachao Beti Padhao: Launched in 2015 in Maharashtra, Haryana, and Rajasthan — where sex ratio at birth was most imbalanced.",
+      "Savitribai Phule Pune University — named after Maharashtra's first female teacher, a daily reminder of women's contributions.",
+      "PV Sindhu, Sania Mirza, Mary Kom — women sports stars who prove what 'मुलगी' (girl) can achieve with equal opportunity.",
+      "Maharashtra's 'Ladki Bahin Yojana' (2024) — state government scheme to support women financially, based on the same principle of valuing daughters."
+    ],
+    "formulas": []
+  }
+}

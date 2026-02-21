@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "chapterNumber": 7,
+    "title": "आजारी पडण्याचा प्रयोग (Getting Sick Experiment)",
+    "subject": "Marathi",
+    "pages": "18-25",
+    "description": "A humorous Marathi story about a child who tries desperately to get sick so they can skip an upcoming exam. The child eats cold things, stands in the rain, stays up all night — but their body stubbornly stays perfectly healthy! The story ends with the child having to go to school and take the exam. The humour comes from the gap between the child's desperate efforts and the body's natural resilience. The chapter introduces grammar: शब्दयोगी अव्यये (Postpositions) — words used after nouns to show spatial or relational connections, like वर (on), खाली (under), जवळ (near), आत (inside)."
+  },
+  "preAssessment": [
+    {
+      "id": "pa7_1",
+      "question": "Why does the child in the story try to get sick?",
+      "options": {
+        "A": "To avoid helping with household chores",
+        "B": "To get out of going to school and avoid an upcoming exam",
+        "C": "To get sympathy and gifts from parents",
+        "D": "To avoid playing sports"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "c7_1"
+    },
+    {
+      "id": "pa7_2",
+      "question": "In Marathi grammar, 'शब्दयोगी अव्यये' (Shabdayogi Avyaye) are:",
+      "options": {
+        "A": "Adjectives that describe nouns",
+        "B": "Postpositions — words used AFTER nouns to show relationships",
+        "C": "Verbs that show action",
+        "D": "Adverbs that describe verbs"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c7_4"
+    },
+    {
+      "id": "pa7_3",
+      "question": "What is the Marathi postposition for 'on top of' or 'on'?",
+      "options": {
+        "A": "खाली",
+        "B": "जवळ",
+        "C": "वर",
+        "D": "आत"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "c7_5"
+    },
+    {
+      "id": "pa7_4",
+      "question": "What is the humorous message of the story 'आजारी पडण्याचा प्रयोग'?",
+      "options": {
+        "A": "Getting sick is easy if you try hard enough",
+        "B": "The body is designed to stay healthy — it is hard to get sick on purpose!",
+        "C": "Exams should be cancelled",
+        "D": "Parents always know when children are faking sickness"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c7_2"
+    },
+    {
+      "id": "pa7_5",
+      "question": "The word 'मागे' (mage) as a Marathi postposition means:",
+      "options": {
+        "A": "In front of",
+        "B": "Under",
+        "C": "Inside",
+        "D": "Behind / at the back of"
+      },
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "conceptId": "c7_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c7_1",
+      "title": "Story Summary — The Failed Experiment",
+      "emoji": "😅",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The story is told with gentle, funny irony. A student has an exam the next day and absolutely does not want to take it. The child hatches a plan: get sick tonight, so that tomorrow's absence is completely justified! The 'experiment' begins: eating cold ice cream, drinking icy water, standing barefoot in the rain, sleeping near the open window, staying up all night. Despite all these determined efforts, the child wakes up the next morning completely healthy — rested, energetic, and with no choice but to go to school. The story is a comedy of the human body's natural defences frustrating the child's best-laid plans.",
+      "pageReference": "18-19",
+      "examples": [
+        { "icon": "🍦", "text": "Eating cold ice cream and icy water — the child hopes to catch a cold or upset stomach." },
+        { "icon": "🌧️", "text": "Standing in the rain barefoot — another classic 'method' children try to get sick." },
+        { "icon": "🌙", "text": "Staying up all night near an open window — hoping to catch a chill." },
+        { "icon": "😤", "text": "The ironic result: wakes up perfectly healthy, refreshed, and has to go to school!" }
+      ],
+      "keyPoints": [
+        "The story uses humour (विनोद) to make a serious point — the body naturally resists illness.",
+        "Every child will relate to the desperate feeling of wanting to avoid an exam!",
+        "The story is written in first-person style — the narrator is also the child protagonist.",
+        "The title 'आजारी पडण्याचा प्रयोग' (Experiment in Getting Sick) sets up the ironic experiment.",
+        "The climax: despite all efforts, the body remains stubbornly healthy — nature defeats the plan."
+      ],
+      "funFact": "The story cleverly references a real fact: children try many methods to get sick but rarely succeed because the immune system is designed to fight off common threats quickly. In fact, some of the things the child does (like getting fresh air near an open window) might actually be HEALTHY!",
+      "textbookRef": "Chapter 7, Pages 18-25 — Maharashtra Board 7th Grade Marathi (Second Language)"
+    },
+    {
+      "id": "c7_2",
+      "title": "Why the Experiment Fails — The Body's Defences",
+      "emoji": "🛡️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The story teaches us something important about human biology: the body is designed to maintain health (homeostasis). Our immune system is constantly working to fight off bacteria and viruses. Getting sick requires exposure to specific germs — you can't get sick just by eating ice cream or standing in rain if your immune system is working well. Common cold is caused by rhinovirus — not by cold weather itself (though cold conditions can weaken some defences). The story humorously shows that the body is not a machine you can break on command — it has its own intelligence and defence systems.",
+      "pageReference": "19-22",
+      "examples": [
+        { "icon": "🦠", "text": "Getting sick requires exposure to specific germs (viruses or bacteria) — not just cold weather." },
+        { "icon": "💪", "text": "A healthy child's immune system fights off most threats quickly — within hours in many cases." },
+        { "icon": "🥶", "text": "Cold weather doesn't directly cause colds — the rhinovirus (cold virus) does. Cold weather may reduce some defences, but a healthy person resists it." },
+        { "icon": "🌙", "text": "Staying up all night might make you tired — but your immune system doesn't just switch off overnight." }
+      ],
+      "keyPoints": [
+        "The immune system (प्रतिकार शक्ती) is the body's defence against disease — it works 24 hours.",
+        "Sickness is caused by specific germs (viruses, bacteria) — not simply by being cold or wet.",
+        "The body has natural mechanisms to maintain health — this is called homeostasis.",
+        "Eating ice cream or standing in rain won't make you sick if you have good immunity.",
+        "The story uses this biological fact to create the comedy — the experiment always fails!"
+      ],
+      "funFact": "The famous saying 'Laughter is the best medicine' has scientific backing! Research shows that laughter boosts the immune system, reduces stress hormones, and increases immune cells. So reading this funny story is literally good for your health!",
+      "textbookRef": "Chapter 7, Pages 19-22 — Health and body's defences"
+    },
+    {
+      "id": "c7_3",
+      "title": "Health and Immunity",
+      "emoji": "💊",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The story, through humour, gives us a chance to think about health and immunity. Good health is built through: regular sleep (झोप), good nutrition (पोषण), exercise (व्यायाम), hygiene (स्वच्छता), and avoiding harmful habits. The immune system is strengthened by: eating fruits and vegetables (especially Vitamin C rich foods like amla/आवळा, oranges/संत्री), staying hydrated, regular physical activity, and adequate sleep. Conversely, the immune system is weakened by: lack of sleep, poor diet, stress, smoking, and excessive sugar intake. The child in the story ironically does things (staying up all night, eating cold things) that weaken immunity!",
+      "pageReference": "18-25",
+      "examples": [
+        { "icon": "😴", "text": "Good sleep (8 hours for children): essential for immune system repair and strengthening." },
+        { "icon": "🍊", "text": "Vitamin C (oranges, lemons, amla/आवळा) strengthens the immune system — Maharashtra is famous for Nagpur oranges!" },
+        { "icon": "🏃", "text": "Daily exercise: even 30 minutes of outdoor play boosts immunity significantly." },
+        { "icon": "🫧", "text": "Hand washing (हात धुणे): the single most effective way to prevent the spread of germs — simple but powerful." }
+      ],
+      "keyPoints": [
+        "Immune system (प्रतिकार शक्ती) = the body's defence against illness.",
+        "Strengthens immunity: sleep, exercise, fruits/vegetables, hydration, hygiene.",
+        "Weakens immunity: sleep deprivation, poor diet, stress, lack of exercise.",
+        "Ironically, what the child in the story does (staying up late, cold food) is exactly what weakens immunity long-term.",
+        "Maharashtra health connection: Nagpur oranges (rich in Vitamin C) are famous for their immune-boosting properties!"
+      ],
+      "funFact": "Nagpur, Maharashtra, is called the 'Orange City' (नारंगी नगरी) — it is one of India's largest orange producers. Maharashtra's Vidarbha region produces millions of tonnes of oranges every year. Oranges are rich in Vitamin C, which is essential for a strong immune system. So Nagpur oranges are literally 'health' from Maharashtra!",
+      "textbookRef": "Chapter 7, Pages 18-25 — Health education"
+    },
+    {
+      "id": "c7_4",
+      "title": "Grammar: शब्दयोगी अव्यये (Postpositions) — Definition",
+      "emoji": "📝",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "In Marathi grammar, 'शब्दयोगी अव्यये' (Shabdayogi Avyaye) are postpositions — words placed AFTER a noun to show the relationship between that noun and other parts of the sentence. In English, these would be prepositions (words like on, under, near, inside), but in Marathi they come AFTER the noun, not before — making them 'postpositions.' The word 'शब्दयोगी' = शब्द (word) + योगी (joining/connecting). So a शब्दयोगी अव्यय is a word that connects/joins to another word to show a relationship. Examples: 'टेबलावर' (on the table) = टेबल (table) + वर (on). 'घरात' (inside the house) = घर (house) + आत (inside).",
+      "pageReference": "18-25",
+      "examples": [
+        { "icon": "📍", "text": "'पुस्तक टेबलावर आहे' — The book is ON the table. 'वर' (on) is a शब्दयोगी अव्यय used after 'टेबल'." },
+        { "icon": "🏠", "text": "'मुलगा घरात आहे' — The boy is INSIDE the house. 'आत' (inside) comes after 'घर'." },
+        { "icon": "🌳", "text": "'मांजर झाडाजवळ आहे' — The cat is NEAR the tree. 'जवळ' (near) comes after 'झाड'." },
+        { "icon": "📦", "text": "'पिशवी खुर्चीखाली आहे' — The bag is UNDER the chair. 'खाली' (under/below) comes after 'खुर्ची'." }
+      ],
+      "keyPoints": [
+        "शब्दयोगी अव्यये are Marathi postpositions — they come AFTER the noun (unlike English prepositions which come before).",
+        "They show the spatial or relational connection between a noun and the rest of the sentence.",
+        "They are 'अव्यये' — they do not change their form regardless of gender, number, or case.",
+        "Common शब्दयोगी अव्यये: वर (on), खाली (under), जवळ (near), आत (inside), बाहेर (outside), मागे (behind), पुढे (in front).",
+        "In Marathi, these words attach to the noun: टेबल + वर = टेबलावर (on the table)."
+      ],
+      "funFact": "In English, prepositions come BEFORE nouns: 'on the table.' In Marathi, postpositions come AFTER nouns: 'टेबल + वर' = 'टेबलावर.' This is a fundamental difference between Indo-European (English) and Dravidian/Sanskrit-derived languages. Many Indian languages (Hindi, Tamil, Telugu, Kannada) also use postpositions!",
+      "textbookRef": "Chapter 7, Pages 18-25 — Grammar: शब्दयोगी अव्यये"
+    },
+    {
+      "id": "c7_5",
+      "title": "Common Marathi Postpositions",
+      "emoji": "🗺️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Here are the most commonly used शब्दयोगी अव्यये (postpositions) in Marathi with their meanings and usage examples: वर = on/above; खाली = under/below; जवळ = near; मागे = behind; पुढे = in front of; आत = inside; बाहेर = outside; वरून = from above; खालून = from below; जवळून = from nearby; मधून = through/from the middle; शिवाय = without/except; साठी = for; बरोबर = with/along with; पर्यंत = until/up to; पासून = from.",
+      "pageReference": "18-25",
+      "examples": [
+        { "icon": "⬆️", "text": "वर (on/above): 'पुस्तक कपाटावर आहे' — The book is on the cupboard." },
+        { "icon": "⬇️", "text": "खाली (under/below): 'कुत्रा पलंगाखाली आहे' — The dog is under the bed." },
+        { "icon": "↩️", "text": "मागे (behind): 'मुलगा झाडामागे लपला' — The boy hid behind the tree." },
+        { "icon": "➡️", "text": "पुढे (in front of): 'शाळेपुढे खेळाचे मैदान आहे' — There is a playground in front of the school." }
+      ],
+      "keyPoints": [
+        "वर = on/above | खाली = under/below | जवळ = near | मागे = behind | पुढे = in front of",
+        "आत = inside | बाहेर = outside | मधून = through | वरून = from above",
+        "साठी = for (purpose) | बरोबर = with | पर्यंत = until/up to | पासून = from (starting point)",
+        "These words attach directly to the noun in spoken/written Marathi: घर + आत = घरात (inside the house).",
+        "Mastering postpositions is essential for constructing correct Marathi sentences."
+      ],
+      "funFact": "Marathi postposition 'पासून' (from) and 'पर्यंत' (until/up to) are very commonly used in daily speech. For example, 'मुंबईपासून पुण्यापर्यंत' means 'from Mumbai to Pune' — every Maharashtra train or bus announcement uses these two words!",
+      "textbookRef": "Chapter 7, Pages 18-25 — Grammar: Common शब्दयोगी अव्यये"
+    }
+  ],
+  "test": [
+    {
+      "id": "t7_1",
+      "question": "What methods does the child use to try to get sick in the story?",
+      "options": {
+        "A": "Eating spicy food and drinking hot tea",
+        "B": "Eating cold things, standing in rain, and staying up all night",
+        "C": "Running barefoot and jumping in puddles",
+        "D": "Skipping meals and sleeping all day"
+      },
+      "correctAnswer": "B",
+      "explanation": "The child tries classic 'methods' to get sick: eating cold ice cream and icy water, standing barefoot in the rain, and staying up all night near an open window. Despite these determined efforts, the immune system keeps the child perfectly healthy — leading to the humorous situation of having to go to school after all.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t7_2",
+      "question": "What is the correct Marathi translation of 'The cat is under the table'?",
+      "options": {
+        "A": "मांजर टेबलावर आहे",
+        "B": "मांजर टेबलाजवळ आहे",
+        "C": "मांजर टेबलाखाली आहे",
+        "D": "मांजर टेबलामागे आहे"
+      },
+      "correctAnswer": "C",
+      "explanation": "'खाली' means under/below — it is used as a postposition in 'टेबलाखाली' (under the table). 'वर' = on (so टेबलावर = on the table), 'जवळ' = near (so टेबलाजवळ = near the table), 'मागे' = behind (so टेबलामागे = behind the table).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t7_3",
+      "question": "In Marathi grammar, what is a 'शब्दयोगी अव्यय'?",
+      "options": {
+        "A": "A word that describes a verb (adverb)",
+        "B": "A word placed after a noun to show its relationship with other parts of the sentence (postposition)",
+        "C": "A word that names a person or place (noun)",
+        "D": "A word that joins two sentences (conjunction)"
+      },
+      "correctAnswer": "B",
+      "explanation": "A शब्दयोगी अव्यय is a postposition — a word placed AFTER a noun to show the spatial or relational connection between that noun and the rest of the sentence. Unlike English prepositions (which come before nouns), Marathi postpositions come after: 'टेबलावर' (on the table), not 'on the table'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t7_4",
+      "question": "What does the Marathi postposition 'साठी' (sathi) mean?",
+      "options": {
+        "A": "Without",
+        "B": "Near",
+        "C": "For / for the purpose of",
+        "D": "Inside"
+      },
+      "correctAnswer": "C",
+      "explanation": "'साठी' means 'for' or 'for the purpose of.' Example: 'आईसाठी भेटवस्तू' = 'a gift for mother.' 'शाळेसाठी दप्तर' = 'school bag (bag for school).' It is one of the most commonly used Marathi postpositions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t7_5",
+      "question": "Which postposition (शब्दयोगी अव्यय) would you use to say 'The bird is in front of the house'?",
+      "options": {
+        "A": "मागे (behind)",
+        "B": "खाली (under)",
+        "C": "पुढे (in front of)",
+        "D": "आत (inside)"
+      },
+      "correctAnswer": "C",
+      "explanation": "'पुढे' means 'in front of.' So 'The bird is in front of the house' = 'पक्षी घराच्या पुढे आहे.' 'मागे' = behind, 'खाली' = under, 'आत' = inside. Knowing direction-related postpositions is essential for describing locations in Marathi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t7_6",
+      "question": "What does 'प्रतिकार शक्ती' mean in the context of health?",
+      "options": {
+        "A": "Blood pressure",
+        "B": "Immune system / the body's ability to resist disease",
+        "C": "Physical strength and muscles",
+        "D": "Digestive system"
+      },
+      "correctAnswer": "B",
+      "explanation": "'प्रतिकार शक्ती' = प्रतिकार (resistance/fighting back) + शक्ती (power/strength). It literally means 'power of resistance' — the immune system. The story shows that the child's immune system is so strong that all the deliberate attempts to get sick fail completely.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t7_7",
+      "question": "What is the Marathi postposition 'पासून' used for?",
+      "options": {
+        "A": "To show location above something",
+        "B": "To show a starting point (from)",
+        "C": "To show something is inside",
+        "D": "To show purpose"
+      },
+      "correctAnswer": "B",
+      "explanation": "'पासून' means 'from' — showing a starting point. Example: 'मुंबईपासून पुण्यापर्यंत' = 'from Mumbai to Pune.' 'पासून' marks where something starts; 'पर्यंत' marks where it ends. Together they are one of the most useful Marathi postposition pairs.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t7_8",
+      "question": "Translate to Marathi: 'The children are playing outside the school.'",
+      "options": {
+        "A": "मुले शाळेत खेळत आहेत",
+        "B": "मुले शाळेबाहेर खेळत आहेत",
+        "C": "मुले शाळेवर खेळत आहेत",
+        "D": "मुले शाळेमागे खेळत आहेत"
+      },
+      "correctAnswer": "B",
+      "explanation": "'बाहेर' means outside. 'शाळेबाहेर' = outside the school (शाळा + बाहेर). So 'The children are playing outside the school' = 'मुले शाळेबाहेर खेळत आहेत.' 'शाळेत' = inside the school (शाळा + आत → shortened to 'शाळेत'), 'शाळेवर' = on top of the school (wrong here).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "t7_9",
+      "question": "The humour in 'आजारी पडण्याचा प्रयोग' comes from:",
+      "options": {
+        "A": "The teacher's funny behaviour",
+        "B": "The gap between the child's desperate efforts and the body's stubbornly remaining healthy",
+        "C": "The parents discovering the child's plan and punishing them",
+        "D": "The child actually getting very sick and missing a whole month of school"
+      },
+      "correctAnswer": "B",
+      "explanation": "The irony and humour arise from the huge gap between the child's elaborate, determined efforts to get sick and the body's complete refusal to cooperate. The more desperately the child tries, the more stubbornly healthy they remain — a perfect comic situation that all students can relate to.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t7_10",
+      "question": "In the sentence 'पुस्तक कपाटावर आहे' (The book is on the cupboard), which word is the शब्दयोगी अव्यय?",
+      "options": {
+        "A": "पुस्तक",
+        "B": "कपाट",
+        "C": "वर (part of कपाटावर)",
+        "D": "आहे"
+      },
+      "correctAnswer": "C",
+      "explanation": "'वर' (on/above) is the शब्दयोगी अव्यय — it is the postposition that joins to 'कपाट' (cupboard) to show the spatial relationship. In Marathi, the postposition merges with the noun: कपाट + वर = कपाटावर (on the cupboard). 'पुस्तक' is the noun (subject), 'कपाट' is the noun (reference point), and 'आहे' is the verb.",
+      "difficulty": "hard"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "आजारी पडण्याचा प्रयोग — humorous story about trying to get sick to avoid exam",
+      "Humour (विनोद) as a literary device in Marathi stories",
+      "Immune system (प्रतिकार शक्ती) — the body's natural defences",
+      "शब्दयोगी अव्यये = Postpositions (come AFTER noun, unlike English prepositions)",
+      "Common postpositions: वर (on), खाली (under), जवळ (near), मागे (behind), पुढे (in front), आत (inside), बाहेर (outside)",
+      "साठी (for), बरोबर (with), पासून (from), पर्यंत (until/up to)",
+      "Health vocabulary: प्रतिकार शक्ती, आजारी, ताप, औषध"
+    ],
+    "commonMisconceptions": [
+      "Students often confuse शब्दयोगी अव्यये (postpositions) with क्रियाविशेषण अव्यये (adverbs) — both are 'avyaye' but postpositions relate nouns while adverbs describe verbs.",
+      "In Marathi, postpositions merge with the noun (कपाट + वर = कपाटावर) — students sometimes write them separately, which is incorrect.",
+      "Students may think cold weather CAUSES colds — the common cold is caused by a virus (rhinovirus), not cold temperature itself.",
+      "'आत' and 'मध्ये' can both mean 'inside/in' but have slightly different uses — 'घरात' (inside the house) and 'वर्गात' (in the class) both use 'आत/त' suffix."
+    ],
+    "realWorldExamples": [
+      "Exam avoidance is a universal experience — this story resonates with every student in Maharashtra and beyond!",
+      "Nagpur oranges (संत्री) — Maharashtra's famous immunity booster, rich in Vitamin C.",
+      "Maharashtra school exam culture: The SSC Board exams in March are the most feared — just like the unnamed exam in the story!",
+      "Train announcements in Marathi: 'पुण्यापासून मुंबईपर्यंत' (from Pune to Mumbai) — postpositions in real-world usage."
+    ],
+    "formulas": []
+  }
+}

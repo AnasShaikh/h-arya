@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "chapterNumber": 12,
+    "title": "आपली समस्या आपले उपाय (Our Solutions)",
+    "subject": "Marathi",
+    "pages": "41-45",
+    "description": "An activity-based chapter focused on practical problem-solving. It features a conversation between Jordan and his/her mother about upcycling old clothes into useful items — purses, torans (decorative hangings), doormats. The core lesson is Reduce-Reuse-Recycle (3R). It also addresses computer safety rules in the Marathi context. Grammar focus: Marathi Spelling Rules (शुद्धलेखनाचे नियम) — specifically the rule that in Marathi words, the vowel before the final consonant (in अकारान्त words) takes a long form for इकार and उकार. Also introduces Marathi proverbs (म्हणी) with their meanings."
+  },
+  "preAssessment": [
+    {
+      "id": "pa12_1",
+      "question": "What is the '3R' principle in environmental sustainability?",
+      "options": {
+        "A": "Read, Rest, Repeat",
+        "B": "Reduce, Reuse, Recycle",
+        "C": "Report, Respond, Recover",
+        "D": "Research, Record, Review"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "c12_1"
+    },
+    {
+      "id": "pa12_2",
+      "question": "What is a 'तोरण' (torana) in the Marathi cultural context?",
+      "options": {
+        "A": "A musical instrument",
+        "B": "A decorative hanging made from leaves, flowers, or cloth — used to decorate doorways",
+        "C": "A type of Marathi sweet",
+        "D": "A traditional game"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c12_2"
+    },
+    {
+      "id": "pa12_3",
+      "question": "The Marathi proverb 'अति तेथे माती' (ati tethe mati) means:",
+      "options": {
+        "A": "Hard work always pays off",
+        "B": "Excess of anything leads to harm / too much of anything is bad",
+        "C": "The earth is everyone's mother",
+        "D": "Be careful with money"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c12_5"
+    },
+    {
+      "id": "pa12_4",
+      "question": "According to Marathi spelling rules, what should the vowel 'इ' or 'उ' become when it appears before the final consonant in a Marathi word?",
+      "options": {
+        "A": "It stays short (ह्रस्व)",
+        "B": "It becomes long/दीर्घ (ई or ऊ)",
+        "C": "It is removed",
+        "D": "It becomes अ"
+      },
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "conceptId": "c12_4"
+    },
+    {
+      "id": "pa12_5",
+      "question": "The Marathi proverb 'थेंबे थेंबे तळे साचे' means:",
+      "options": {
+        "A": "The sea is made of salt",
+        "B": "Drop by drop, a lake is formed — small savings/efforts accumulate into something big",
+        "C": "Swimming is an important skill",
+        "D": "Rain is needed for farming"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c12_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c12_1",
+      "title": "Reduce, Reuse, Recycle in Daily Life",
+      "emoji": "♻️",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The 3R principle — Reduce (कमी करा), Reuse (पुन्हा वापरा), Recycle (पुनर्वापर करा) — is the foundation of sustainable living. (1) Reduce means buying and consuming less — only get what you truly need; (2) Reuse means finding new uses for old items instead of throwing them away; (3) Recycle means processing old materials (paper, glass, plastic, metal) into new products. In the chapter, Jordan's conversation with his mother shows how old, worn clothes — instead of being thrown away — can be repurposed into useful items. This saves money, reduces waste, and is good for the environment. The Marathi concept is: 'जे आहे ते वापरा' (use what you have).",
+      "pageReference": "41-42",
+      "examples": [
+        { "icon": "👕", "text": "Old cotton clothes → cut into strips → woven into a doormat (चटई) — a practical reuse of worn fabric." },
+        { "icon": "👜", "text": "Old jeans or thick cloth → stitched into a purse (पर्स) — creative upcycling, saves money on buying new bags." },
+        { "icon": "🌿", "text": "Old fabric strips → tied and woven into a decorative toran (तोरण) for the door — beautiful and eco-friendly." },
+        { "icon": "🌍", "text": "India produces 1 million tonnes of textile waste per year — reusing old clothes makes a significant environmental impact." }
+      ],
+      "keyPoints": [
+        "3R principle: Reduce (less consumption), Reuse (new uses for old items), Recycle (process into new materials).",
+        "Priority order: REDUCE is best (don't create waste), then REUSE, then RECYCLE.",
+        "Upcycling (creative reuse) gives old items new life and value — not just recycling but upgrading.",
+        "Maharashtra's 'rag pickers' (कचरा वेचणारे) do important recycling work — they deserve respect for their environmental contribution.",
+        "Every family can practice 3R — it saves money AND protects the environment."
+      ],
+      "funFact": "The city of Pune, Maharashtra, has one of India's best waste management systems, partly because of organisations like SWaCH (Solid Waste Collection and Handling) — a cooperative of waste pickers (कचरावेचक) who collect and segregate recyclable materials. They have inspired similar models across India!",
+      "textbookRef": "Chapter 12, Pages 41-45 — Maharashtra Board 7th Grade Marathi (Second Language)"
+    },
+    {
+      "id": "c12_2",
+      "title": "What Jordan and Mother Make from Old Clothes",
+      "emoji": "🧵",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "In the chapter's core conversation, Jordan and mother transform old, unusable clothes into three beautiful and useful items: (1) Purse (पर्स) — old jeans or thick fabric is cut and stitched into a carrying bag. (2) Toran (तोरण) — old colourful fabric strips are tied and twisted into a decorative hanging for the door. In Maharashtra's tradition, torans (made from mango leaves, marigolds, or cloth) are hung on doorways for auspicious occasions and festivals. (3) Doormat (पायपुसणी / चटई) — old cotton clothes are cut into strips and woven or braided into a doormat. These activities show that creativity + old materials = useful products, saving money and reducing waste.",
+      "pageReference": "42-43",
+      "examples": [
+        { "icon": "👜", "text": "Purse from old denim: cut two rectangular pieces, stitch three sides, add a zip or button — done! Functional and unique." },
+        { "icon": "🎊", "text": "Toran from old saree strips: cut colourful cloth into strips, tie them along a string — beautiful door decoration." },
+        { "icon": "🏠", "text": "Doormat from old towels/cotton clothes: cut into long strips, braid them together — a thick, durable mat." },
+        { "icon": "💰", "text": "Cost to make: almost zero (using waste material). Cost to buy: ₹150-500 per item. Clear financial benefit!" }
+      ],
+      "keyPoints": [
+        "Three products from old clothes: purse (पर्स), toran (तोरण), doormat (पायपुसणी).",
+        "Toran = decorative hanging for doorways — traditional in Maharashtra's home decoration for festivals.",
+        "These activities develop creativity, practical skills, and environmental responsibility simultaneously.",
+        "The conversation format (Jordan + mother) shows this as a family activity — involving children in eco-friendly practices.",
+        "Marathi households traditionally hated waste — old saris became floor cloths, old dhotis became cleaning rags. This is that tradition updated!"
+      ],
+      "funFact": "Traditional Maharashtra homes used old saris creatively: worn-out saris became 'रंगपट्ट' (painting cloths), 'आसन' (floor seating), or were torn into cleaning rags ('फडके'). Marathi proverb: 'जुनी साडी, नवी कामे' — an old sari, many new uses! This wisdom perfectly matches today's sustainability goals.",
+      "textbookRef": "Chapter 12, Pages 42-43 — Upcycling activities"
+    },
+    {
+      "id": "c12_3",
+      "title": "Computer Safety Rules",
+      "emoji": "💻",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The chapter includes important computer and internet safety rules, presented in a Marathi context for students. Key rules: (1) Do not share your passwords (संकेतशब्द) with anyone — not even friends; (2) Do not talk to strangers online or share personal information (name, address, school, phone number); (3) Tell a trusted adult immediately if you see something uncomfortable or disturbing online; (4) Do not click on unknown links or download files from unknown sources; (5) Use the computer only for the time permitted by parents; (6) Never upload personal photos to public websites without parent permission. These rules apply to mobile phones, tablets, and computers equally.",
+      "pageReference": "43-44",
+      "examples": [
+        { "icon": "🔒", "text": "Passwords: 'संकेतशब्द' (password) should be secret — like a house key, never share it with anyone." },
+        { "icon": "🚫", "text": "No personal info online: never share address, school name, phone number with people you haven't met in person." },
+        { "icon": "👁️", "text": "Cyberbullying: if someone online is rude, threatening, or making you uncomfortable — tell a parent or teacher immediately." },
+        { "icon": "⏰", "text": "Screen time: balanced use — parents and children agree on usage time. Too much screen time affects sleep and study." }
+      ],
+      "keyPoints": [
+        "संकेतशब्द (password) = never share with anyone including friends.",
+        "Personal information is private: name, address, school, phone, photos — never share online with strangers.",
+        "If uncomfortable online: tell a trusted adult (parent, teacher) immediately — never ignore it.",
+        "Unknown links and downloads are dangerous — they may contain viruses or lead to scams.",
+        "Balanced screen time: technology is a tool, not a lifestyle — use it wisely and with parental guidance."
+      ],
+      "funFact": "India has the world's second-largest internet user base (after China) — and millions of school students use the internet daily. Maharashtra's Cyber Crime Department received over 5,000 complaints from minors in one recent year alone. Learning cyber safety is as important as learning road safety — the digital world has its own 'traffic rules'!",
+      "textbookRef": "Chapter 12, Pages 43-44 — Computer safety"
+    },
+    {
+      "id": "c12_4",
+      "title": "Marathi Spelling Rule — अकारान्तापूर्वीचे दीर्घ इकार/उकार",
+      "emoji": "📝",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "An important Marathi spelling rule: In native Marathi words (not Sanskrit-origin words), when a word ends in a consonant (अकारान्त = ending in the अ sound), the 'इ' (short i) or 'उ' (short u) vowel that comes just BEFORE the final consonant should be written as LONG: 'ई' (long i) or 'ऊ' (long u). In simple terms: the vowel right before the LAST consonant in many Marathi words is long. Examples: माणूस (person — ऊ before स), गरीब (poor — ई before ब), फूल (flower — ऊ before ल), पाऊल (step/footstep — ऊ before ल), काचूळ, मासूल. EXCEPTION: Sanskrit-origin words (तत्सम शब्द) keep their original Sanskrit spelling: विद्यार्थी, कवी, गुरु (not गूरू).",
+      "pageReference": "44-45",
+      "examples": [
+        { "icon": "📖", "text": "माणूस (person): the ऊ before final स is LONG — write माणूस, NOT माणुस." },
+        { "icon": "💐", "text": "फूल (flower): the ऊ before final ल is LONG — write फूल, NOT फुल." },
+        { "icon": "😢", "text": "गरीब (poor): the ई before final ब is LONG — write गरीब, NOT गरिब." },
+        { "icon": "👣", "text": "पाऊल (step): the ऊ before final ल is LONG — write पाऊल, NOT पाउल." }
+      ],
+      "keyPoints": [
+        "Rule: In Marathi words, the इ/उ vowel before the last consonant is written LONG (दीर्घ) — as ई/ऊ.",
+        "Examples: माणूस (person), फूल (flower), गरीब (poor), पाऊल (step), काळूक, दूध (milk).",
+        "Exception: Sanskrit-origin (तत्सम) words keep their original Sanskrit spelling — विद्यार्थी, कवी, साहित्य.",
+        "This rule helps in correct Marathi spelling (शुद्धलेखन) — a frequent exam topic.",
+        "Check: Is the word a native Marathi word? If yes, apply the दीर्घ rule. If Sanskrit-origin, keep original."
+      ],
+      "funFact": "Marathi spelling standardization (शुद्धलेखन) was a major project in the 20th century. The Maharashtra government's Marathi Language Department worked to create standard spelling rules so that all textbooks, newspapers, and government documents would have consistent spelling. Before standardization, the same word could be spelled differently by different authors!",
+      "textbookRef": "Chapter 12, Pages 44-45 — Spelling rule: दीर्घ इकार/उकार"
+    },
+    {
+      "id": "c12_5",
+      "title": "Marathi Proverbs (म्हणी) and Their Meanings",
+      "emoji": "💬",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Marathi proverbs (म्हणी) are short, traditional sayings that carry deep wisdom in very few words. They are used in daily speech, stories, and essays. Three important म्हणी from this chapter: (1) 'अति तेथे माती' — 'where there is excess, there is ruin'; too much of anything leads to harm. (2) 'थेंबे थेंबे तळे साचे' — 'drop by drop, a lake is formed'; small, consistent efforts accumulate into great results. (3) 'गर्वाचे घर खाली' — 'pride's house is empty'; arrogance/pride leads to downfall. These three proverbs capture values of moderation, patience, and humility — core values of Maharashtra's cultural wisdom.",
+      "pageReference": "45",
+      "examples": [
+        { "icon": "⚠️", "text": "'अति तेथे माती': Eating too much makes you sick; studying too little makes you fail — excess in either direction harms." },
+        { "icon": "💧", "text": "'थेंबे थेंबे तळे साचे': Saving ₹10 daily = ₹3,650 per year. Small consistent savings become a significant amount." },
+        { "icon": "😤", "text": "'गर्वाचे घर खाली': A student who is overconfident before an exam and doesn't study ends up failing — pride's downfall." },
+        { "icon": "📚", "text": "Proverbs (म्हणी) are different from quotes (सुविचार) — म्हणी are anonymous folk wisdom; सुविचार are attributed to specific people." }
+      ],
+      "keyPoints": [
+        "'अति तेथे माती' — Excess leads to harm; moderation is wise in all things.",
+        "'थेंबे थेंबे तळे साचे' — Small consistent efforts/savings accumulate into big results.",
+        "'गर्वाचे घर खाली' — Arrogance/overconfidence leads to downfall.",
+        "म्हणी are traditional folk wisdom — anonymous, tested by generations of Marathi speakers.",
+        "Using appropriate म्हणी in Marathi essays (निबंध) and speeches makes them richer and more persuasive."
+      ],
+      "funFact": "Maharashtra has thousands of documented म्हणी! The famous Marathi scholar Yashwant Sohoni collected and published a book of over 5,000 Marathi proverbs. Many म्हणी are specifically about farming, seasons, family, and village life — reflecting Maharashtra's predominantly rural heritage.",
+      "textbookRef": "Chapter 12, Page 45 — Marathi proverbs (म्हणी)"
+    }
+  ],
+  "test": [
+    {
+      "id": "t12_1",
+      "question": "In the correct priority order, what does the 3R principle stand for?",
+      "options": {
+        "A": "Reuse, Reduce, Recycle",
+        "B": "Reduce, Reuse, Recycle",
+        "C": "Recycle, Reuse, Reduce",
+        "D": "Reduce, Recycle, Reuse"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 3R stands for Reduce (reduce consumption first — the most impactful), then Reuse (find new uses for existing items), then Recycle (process materials into new products). Reducing is prioritized because it prevents waste from being created in the first place. Recycling is last because it still uses energy and resources.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t12_2",
+      "question": "A 'तोरण' (torana) is traditionally used in Maharashtra as:",
+      "options": {
+        "A": "A cooking vessel",
+        "B": "A decorative hanging placed at doorways for festivals and auspicious occasions",
+        "C": "A musical instrument",
+        "D": "A type of floor mat"
+      },
+      "correctAnswer": "B",
+      "explanation": "A तोरण is a decorative hanging placed at the doorway of a home, especially during festivals, celebrations, or auspicious occasions. Traditional torans are made from mango leaves (आम्रपल्लव), marigold flowers (झेंडू), or colourful cloth. In the chapter, Jordan makes a toran from strips of old cloth — a creative and eco-friendly version of this traditional decoration.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t12_3",
+      "question": "According to Marathi spelling rules, which of these is spelled CORRECTLY?",
+      "options": {
+        "A": "मानुस",
+        "B": "माणूस",
+        "C": "मानूस",
+        "D": "माणुस"
+      },
+      "correctAnswer": "B",
+      "explanation": "'माणूस' (person) is spelled correctly with a long ऊ before the final consonant 'स'. The rule states: in native Marathi words, the इ/उ before the final consonant takes its long form (ई/ऊ). So माणूस (not माणुस). The 'ण' is the second-last consonant; 'ऊ' is the vowel before the final 'स'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t12_4",
+      "question": "What does the Marathi proverb 'थेंबे थेंबे तळे साचे' teach us?",
+      "options": {
+        "A": "Lakes are dangerous",
+        "B": "Water is precious",
+        "C": "Small, consistent efforts accumulate into great results",
+        "D": "Rain is more valuable than wells"
+      },
+      "correctAnswer": "C",
+      "explanation": "'थेंब' means drop (of water), 'तळे' means lake/pond, 'साचे' means accumulates/fills up. Drop by drop, a lake fills. The lesson: small, regular efforts (saving money daily, studying a little every day, making small improvements) accumulate into significant achievements. This is the philosophy of consistent effort.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t12_5",
+      "question": "According to computer safety rules, what should you NEVER do with your password (संकेतशब्द)?",
+      "options": {
+        "A": "Use a password with numbers",
+        "B": "Share it with anyone, including friends",
+        "C": "Change it occasionally",
+        "D": "Use capital letters in it"
+      },
+      "correctAnswer": "B",
+      "explanation": "A password (संकेतशब्द = secret word) should NEVER be shared with anyone — not even with friends or classmates. If someone else knows your password, they can access your account, misuse it, or harm your privacy. Good digital safety practice: keep your password secret, use strong passwords, and change them if you suspect someone knows them.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t12_6",
+      "question": "The Marathi proverb 'गर्वाचे घर खाली' warns against which attitude?",
+      "options": {
+        "A": "Laziness",
+        "B": "Honesty",
+        "C": "Hard work",
+        "D": "Pride / arrogance / overconfidence"
+      },
+      "correctAnswer": "D",
+      "explanation": "'गर्व' = pride/arrogance, 'घर' = house, 'खाली' = empty/falls down. The proverb means: 'The house of pride is empty' (collapses/is hollow). It warns that arrogance and overconfidence lead to failure and downfall. An overconfident student, a proud person who doesn't listen to advice — they end up failing. Humility is the wiser path.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t12_7",
+      "question": "Which of these words follows the Marathi spelling rule (दीर्घ इकार/उकार before final consonant)?",
+      "options": {
+        "A": "फुल (without long ऊ)",
+        "B": "फूल (with long ऊ)",
+        "C": "फ़ुल",
+        "D": "फोल"
+      },
+      "correctAnswer": "B",
+      "explanation": "'फूल' (flower) is spelled with a long ऊ before the final consonant 'ल' — following the Marathi spelling rule. 'फुल' (with short u) would be incorrect spelling. This rule applies to native Marathi words: the उ or इ vowel before the final consonant is written long (ऊ or ई).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t12_8",
+      "question": "What is 'उपसाय' (upaaya) in Marathi? (As used in the chapter title 'आपले उपाय')",
+      "options": {
+        "A": "Problem",
+        "B": "Opportunity",
+        "C": "Solution / remedy",
+        "D": "Question"
+      },
+      "correctAnswer": "C",
+      "explanation": "'उपाय' means solution, remedy, or way out of a problem. 'समस्या' means problem. 'आपली समस्या आपले उपाय' = 'Our problems, our solutions' — the chapter title says: instead of waiting for someone else to solve our problems, let's find our own solutions. This is the spirit of resourcefulness (साधनशूचिता) that the chapter promotes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t12_9",
+      "question": "The word 'गरीब' (poor) is spelled with a long ई before the final 'ब'. This follows the Marathi spelling rule because:",
+      "options": {
+        "A": "It is a Sanskrit word",
+        "B": "It is a native Marathi word where the इ/उ before the final consonant is written long",
+        "C": "All words with 'ब' at the end use long ई",
+        "D": "It is spelled the same way in Hindi"
+      },
+      "correctAnswer": "B",
+      "explanation": "'गरीब' follows the rule: in native Marathi words, the इ/उ before the final consonant becomes ई/ऊ. Here, 'ई' before the final consonant 'ब' is written long — so गरीब, not गरिब. This is the शुद्धलेखन (correct spelling) rule for native Marathi words.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "t12_10",
+      "question": "The message 'अति तेथे माती' can be applied to which real-life situation?",
+      "options": {
+        "A": "Sleeping 8 hours every night",
+        "B": "Playing video games for 8 hours straight every day",
+        "C": "Reading for 30 minutes daily",
+        "D": "Drinking 8 glasses of water daily"
+      },
+      "correctAnswer": "B",
+      "explanation": "'अति तेथे माती' (excess leads to harm) directly applies to playing video games for 8 hours straight daily — this excess harms eyesight, disrupts sleep, interferes with studies, and affects physical health. Moderation (8 hours sleep, 30 minutes reading, adequate water) is healthy; excess gaming is the 'माती' (harm). The proverb teaches the wisdom of balance.",
+      "difficulty": "medium"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "3R principle: Reduce (कमी करा), Reuse (पुन्हा वापरा), Recycle (पुनर्वापर करा)",
+      "Upcycling old clothes: पर्स (purse), तोरण (decorative hanging), पायपुसणी (doormat)",
+      "Computer safety: संकेतशब्द = password (never share); online safety rules",
+      "Marathi spelling rule: अकारान्त words — इ/उ before final consonant → ई/ऊ (दीर्घ)",
+      "Examples: माणूस, फूल, गरीब, पाऊल",
+      "म्हणी: अति तेथे माती | थेंबे थेंबे तळे साचे | गर्वाचे घर खाली",
+      "Exception to spelling rule: Sanskrit-origin words (तत्सम) keep original spelling"
+    ],
+    "commonMisconceptions": [
+      "Students often confuse 3R order — Reduce is MORE important than Recycle (reduce > reuse > recycle in priority).",
+      "The spelling rule exception trips students: Sanskrit-origin words (विद्यार्थी, साहित्य) DON'T follow the दीर्घ rule — they keep original Sanskrit spelling.",
+      "Some students confuse म्हणी (proverbs — anonymous folk sayings) with सुविचार (inspirational quotes — attributed to specific people).",
+      "तोरण is sometimes confused with 'पडदा' (curtain) — a तोरण is specifically a door-hanging decoration for auspicious occasions."
+    ],
+    "realWorldExamples": [
+      "SWaCH Cooperative, Pune — waste pickers who collect and sort recyclables, doing vital environmental work.",
+      "Scrapyard markets in Maharashtra: old cloth, paper, and metal are collected by 'भंगारवाले' (scrap collectors) for recycling.",
+      "Maharashtra government's 'सिंगल यूज प्लास्टिक बंदी' (Single-use plastic ban) — Maharashtra was one of India's first states to ban single-use plastic (2018), showing Reduce in action.",
+      "School projects: making torans and bags from old cloth is a popular craft activity in Maharashtra government schools during environment day celebrations."
+    ],
+    "formulas": []
+  }
+}

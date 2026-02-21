@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "chapterNumber": 8,
+    "title": "शब्दांचे घर (House of Words)",
+    "subject": "Marathi",
+    "pages": "27-28",
+    "description": "This chapter marks the beginning of Part 2 (भाग-२) of the textbook and focuses on vocabulary building. Words are compared to a house with many rooms — each word has multiple meanings, related forms, and connections to other words. The chapter covers word families (शब्दकुटुंब), synonyms (समानार्थी शब्द), antonyms (विरुद्धार्थी शब्द), words with multiple meanings (अनेकार्थी शब्द), and introduces students to the Marathi dictionary (शब्दकोश). Activities in this chapter help students explore the rich vocabulary of the Marathi language."
+  },
+  "preAssessment": [
+    {
+      "id": "pa8_1",
+      "question": "The Marathi word 'समानार्थी शब्द' (Samanarthi Shabd) refers to:",
+      "options": {
+        "A": "Words with opposite meanings (antonyms)",
+        "B": "Words with similar/same meanings (synonyms)",
+        "C": "Words that sound the same but have different meanings",
+        "D": "Words borrowed from Sanskrit"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "c8_2"
+    },
+    {
+      "id": "pa8_2",
+      "question": "What is the Marathi term for antonyms (words with opposite meanings)?",
+      "options": {
+        "A": "समानार्थी शब्द",
+        "B": "अनेकार्थी शब्द",
+        "C": "विरुद्धार्थी शब्द",
+        "D": "शब्दकुटुंब"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "c8_3"
+    },
+    {
+      "id": "pa8_3",
+      "question": "Which of the following is a synonym (समानार्थी) of the Marathi word 'घर' (home/house)?",
+      "options": {
+        "A": "शाळा (school)",
+        "B": "निवास / वास्तू (dwelling/residence)",
+        "C": "रस्ता (road)",
+        "D": "दुकान (shop)"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c8_2"
+    },
+    {
+      "id": "pa8_4",
+      "question": "The Marathi term 'अनेकार्थी शब्द' refers to:",
+      "options": {
+        "A": "Words that are synonyms of each other",
+        "B": "Words from a common root (word family)",
+        "C": "A single word that has many different meanings",
+        "D": "Words borrowed from English"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c8_4"
+    },
+    {
+      "id": "pa8_5",
+      "question": "What is the Marathi word for 'dictionary'?",
+      "options": {
+        "A": "शब्दकोश",
+        "B": "पुस्तक",
+        "C": "व्याकरण",
+        "D": "साहित्य"
+      },
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": "c8_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c8_1",
+      "title": "What is a Word Family? (शब्दकुटुंब)",
+      "emoji": "👨‍👩‍👧‍👦",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "A word family (शब्दकुटुंब) is a group of words that are related because they come from the same root word (मूळ शब्द). Just like a family has parents, children, and relatives — a word family has a root word and many derived forms. For example, the root 'विद्या' (learning/knowledge) gives rise to a whole family: विद्यार्थी (student), विद्यालय (school), विद्वान (learned/scholar), महाविद्यालय (college), विद्यापीठ (university). Understanding word families helps students guess the meaning of new words and greatly expands Marathi vocabulary.",
+      "pageReference": "27",
+      "examples": [
+        { "icon": "📖", "text": "Root 'विद्या' (knowledge): विद्यार्थी (student), विद्यालय (school), विद्वान (scholar), विद्यापीठ (university)." },
+        { "icon": "💪", "text": "Root 'शक्ती' (power): शक्तिमान (powerful), शक्तिशाली (strong), अशक्त (weak/powerless)." },
+        { "icon": "🌊", "text": "Root 'जल' (water): जलचर (aquatic creature), जलाशय (reservoir), जलमार्ग (waterway)." },
+        { "icon": "🌞", "text": "Root 'सूर्य' (sun): सूर्यास्त (sunset), सूर्योदय (sunrise), सौर (solar)." }
+      ],
+      "keyPoints": [
+        "शब्दकुटुंब = word family — all words derived from the same root (मूळ शब्द).",
+        "Knowing root words helps understand the meaning of related words without a dictionary.",
+        "Sanskrit roots are very common in Marathi — understanding them unlocks many Marathi words.",
+        "Example family: विद्या → विद्यार्थी, विद्यालय, विद्वान, विद्यापीठ, सर्वविद्या.",
+        "Building word families in vocabulary practice is an effective way to learn Marathi."
+      ],
+      "funFact": "Marathi is closely related to Sanskrit — about 50% of Marathi vocabulary comes directly from Sanskrit! This means that if you know a Sanskrit root word, you can often guess the meaning of many Marathi words. For example, 'नमस्कार' in Marathi comes from Sanskrit 'नमस' (bow) + 'कार' (act of) — 'the act of bowing in respect!'",
+      "textbookRef": "Chapter 8, Pages 27-28 — Maharashtra Board 7th Grade Marathi (Second Language)"
+    },
+    {
+      "id": "c8_2",
+      "title": "Synonyms in Marathi (समानार्थी शब्द)",
+      "emoji": "🔄",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Synonyms (समानार्थी शब्द) are words that have the same or very similar meanings. 'समान' means same/similar, 'अर्थ' means meaning — so समानार्थी = having the same meaning. Having synonyms is very important for good writing — using different words for the same thing makes writing more interesting and varied. In Marathi, synonyms often come from different origins (Sanskrit, Prakrit, Apabhramsha, regional dialects), which gives writers a choice of formal and informal words for the same thing. Example: Water = पाणी (common/informal), जल (formal/Sanskrit), नीर (poetic), उदक (archaic/religious).",
+      "pageReference": "27-28",
+      "examples": [
+        { "icon": "💧", "text": "Water: पाणी (common), जल (formal/Sanskrit), नीर (poetic), उदक (religious texts)." },
+        { "icon": "🏠", "text": "House/Home: घर (common), निवास (formal), वास्तू (traditional), गृह (Sanskrit-formal)." },
+        { "icon": "😊", "text": "Happy: आनंदी, सुखी, प्रसन्न, खूश — all mean happy, with slight differences in formality and nuance." },
+        { "icon": "🌞", "text": "Sun: सूर्य (formal), रवी (poetic), दिनकर (poetic = day-maker), भास्कर (poetic = shining one)." }
+      ],
+      "keyPoints": [
+        "समानार्थी शब्द = synonyms — words with the same or similar meanings.",
+        "Marathi has many synonyms because words come from Sanskrit, Prakrit, and regional dialects.",
+        "Using synonyms in writing makes the language richer and avoids boring repetition.",
+        "Synonyms can differ in formality: पाणी (everyday), जल (formal) — same meaning, different register.",
+        "Learning synonyms expands vocabulary and helps understand formal Marathi texts."
+      ],
+      "funFact": "The Marathi word for elephant has many synonyms because elephants were considered royal and sacred: हत्ती (common), गज (poetic/formal), द्विप (Sanskrit — two-drinker, because elephants drink with trunk and mouth), नाग (also means elephant in some contexts — same as snake, showing word complexity!). Marathi poetry loves using the rare and beautiful synonyms!",
+      "textbookRef": "Chapter 8, Pages 27-28 — Synonyms"
+    },
+    {
+      "id": "c8_3",
+      "title": "Antonyms in Marathi (विरुद्धार्थी शब्द)",
+      "emoji": "↔️",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Antonyms (विरुद्धार्थी शब्द) are words with opposite meanings. 'विरुद्ध' means opposite, 'अर्थ' means meaning — so विरुद्धार्थी = having opposite meaning. Understanding antonyms helps students think about concepts and their opposites, which is important for logical thinking and writing. In Marathi, many antonyms are formed by: (1) Adding the prefix 'अ-' (making it negative): सुंदर → असुंदर, ज्ञान → अज्ञान. (2) Completely different words: मोठा (big) → लहान (small). Key antonym pairs: मोठा/लहान, काळा/पांढरा, उजेड/अंधार, सुख/दुःख, आनंद/दुःख, जड/हलका, जुना/नवा.",
+      "pageReference": "27-28",
+      "examples": [
+        { "icon": "⬆️⬇️", "text": "मोठा (big) ↔ लहान (small) | वर (up) ↔ खाली (down) | उजेड (light) ↔ अंधार (darkness)." },
+        { "icon": "😊😢", "text": "आनंद (happiness/joy) ↔ दुःख (sorrow/sadness) — two fundamental human emotions." },
+        { "icon": "🌞🌙", "text": "दिवस (day) ↔ रात्र (night) | उन्हाळा (summer) ↔ हिवाळा (winter)." },
+        { "icon": "📚", "text": "Adding 'अ-' prefix: ज्ञान (knowledge) → अज्ञान (ignorance) | सत्य (truth) → असत्य (untruth/lie)." }
+      ],
+      "keyPoints": [
+        "विरुद्धार्थी शब्द = antonyms — words with opposite meanings.",
+        "Method 1: Add prefix 'अ-' to make a negative: सत्य → असत्य, शक्य → अशक्य.",
+        "Method 2: Completely different antonym words: मोठा ↔ लहान, जुना ↔ नवा.",
+        "Common pairs: दिवस/रात्र, उन्हाळा/हिवाळा, काळा/पांढरा, सुख/दुःख, जड/हलका.",
+        "Learning antonyms in pairs is an effective way to double your Marathi vocabulary!"
+      ],
+      "funFact": "In Marathi literature and proverbs (म्हणी), antonyms are used for beautiful effect. 'सुख-दुःख' (joy-sorrow) is used together so often it has become a compound: 'जीवनाचे सुख-दुःख' means the joys and sorrows of life. Pairing opposites to show the full range of an experience is a classic Marathi literary technique!",
+      "textbookRef": "Chapter 8, Pages 27-28 — Antonyms"
+    },
+    {
+      "id": "c8_4",
+      "title": "Words with Multiple Meanings (अनेकार्थी शब्द)",
+      "emoji": "🎭",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "अनेकार्थी शब्द (Anekarthi Shabd) are single words that have multiple different meanings — the context tells you which meaning is intended. 'अनेक' means many, 'अर्थ' means meaning. These words can be tricky for learners because the same word can mean completely different things! Examples: 'अर्थ' itself means (1) meaning/definition AND (2) money/wealth. 'कान' means (1) ear AND (2) the letter-marker 'ा' in Marathi script. 'तीर' means (1) arrow AND (2) riverbank/shore. 'नाग' means (1) cobra/snake AND (2) elephant (in classical poetry). Understanding context is key.",
+      "pageReference": "27-28",
+      "examples": [
+        { "icon": "💰", "text": "'अर्थ': (1) meaning/definition (याचा अर्थ काय? = What is the meaning of this?) (2) money/wealth (अर्थशास्त्र = economics)." },
+        { "icon": "👂", "text": "'कान': (1) ear (कान साफ करा = clean your ears) (2) the Marathi vowel marker 'ा' (the 'aa' kaana)." },
+        { "icon": "🏹", "text": "'तीर': (1) arrow (शिवाजीने तीर मारला = Shivaji shot an arrow) (2) riverbank (नदीचा तीर = river bank)." },
+        { "icon": "🌱", "text": "'पान': (1) leaf of a tree (झाडाचे पान = tree leaf) (2) betel leaf for eating (पान खाणे = eating betel)." }
+      ],
+      "keyPoints": [
+        "अनेकार्थी शब्द = words with multiple meanings — context determines which meaning is intended.",
+        "Important examples: अर्थ (meaning/money), कान (ear/kaana marker), तीर (arrow/riverbank), पान (leaf/betel).",
+        "Reading the full sentence context always helps determine which meaning is correct.",
+        "These words are common in Marathi riddles (कोडी) and wordplay — poets love them!",
+        "Marathi dictionaries (शब्दकोश) list all the different meanings of अनेकार्थी words."
+      ],
+      "funFact": "The Marathi word 'मोर' can mean peacock (the bird) — but in certain dialects and older texts, it can also refer to a specific type of pot or vessel! Similarly, the word 'हार' means (1) a garland/necklace AND (2) defeat. So 'हार घालणे' = to put a garland on someone (honour), but 'हार मानणे' = to accept defeat! Same word, wildly different meanings!",
+      "textbookRef": "Chapter 8, Pages 27-28 — Multiple meaning words"
+    },
+    {
+      "id": "c8_5",
+      "title": "Using a Marathi Dictionary (शब्दकोश)",
+      "emoji": "📖",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "A Marathi dictionary (शब्दकोश) is an essential tool for any student of the language. 'शब्द' = word, 'कोश' = treasury/store — so शब्दकोश literally means 'treasury of words.' Marathi dictionaries are arranged alphabetically (अकारविल्हे) according to the Marathi alphabet (अ, आ, इ, ई, उ, ऊ, ए, ऐ, ओ, औ, क, ख, ग...). Each entry gives: the word, its pronunciation/spelling, its grammatical category (noun, verb, etc.), its meaning(s), and sometimes examples of usage. Famous Marathi dictionaries include: Molesworth's Marathi-English Dictionary (1831 — still used by scholars) and the Marathi Vishwakosh (Maharashtra's Encyclopaedia).",
+      "pageReference": "28",
+      "examples": [
+        { "icon": "🔤", "text": "Marathi dictionaries are arranged अकारविल्हे (alphabetically) — starting with अ and going through the full alphabet." },
+        { "icon": "📝", "text": "Dictionary entries show: word → category (नाम/क्रियापद etc.) → meaning(s) → usage examples." },
+        { "icon": "🌐", "text": "Online Marathi dictionaries are now available — shabdakosh.com is a popular free Marathi dictionary website." },
+        { "icon": "📚", "text": "J.T. Molesworth's 1831 Marathi-English dictionary has 20,000+ words and is still a scholarly reference!" }
+      ],
+      "keyPoints": [
+        "शब्दकोश = dictionary; शब्द (word) + कोश (treasury) = 'treasury of words.'",
+        "Marathi dictionaries are arranged अकारविल्हे — alphabetically following the Devanagari alphabet order.",
+        "A dictionary entry gives: spelling, pronunciation, grammatical category, meanings, and examples.",
+        "Famous Marathi dictionaries: Molesworth (1831), Maharashtra Government's Marathi Vishwakosh.",
+        "Learning to use a Marathi dictionary is an important skill — it makes you independent in learning."
+      ],
+      "funFact": "The largest Marathi reference work is the 'मराठी विश्वकोश' (Marathi Encyclopaedia) — a 20-volume work published by the Maharashtra Government that covers everything from history and science to culture and geography in the Marathi language. It is one of the most comprehensive encyclopaedias in any Indian language!",
+      "textbookRef": "Chapter 8, Page 28 — Marathi dictionary skills"
+    }
+  ],
+  "test": [
+    {
+      "id": "t8_1",
+      "question": "What does 'समानार्थी शब्द' mean?",
+      "options": {
+        "A": "Words with opposite meanings",
+        "B": "Words with the same or similar meanings (synonyms)",
+        "C": "Words that belong to the same word family",
+        "D": "Words with multiple meanings"
+      },
+      "correctAnswer": "B",
+      "explanation": "'समानार्थी' = समान (same/equal) + अर्थ (meaning) — so synonyms are words with the same or similar meanings. For example: पाणी and जल are समानार्थी (both mean water). 'विरुद्धार्थी' = antonyms (opposite), 'अनेकार्थी' = multiple meanings, 'शब्दकुटुंब' = word family.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t8_2",
+      "question": "Which of these is an antonym (विरुद्धार्थी) of 'उजेड' (light)?",
+      "options": {
+        "A": "प्रकाश",
+        "B": "दिवा",
+        "C": "अंधार",
+        "D": "चमक"
+      },
+      "correctAnswer": "C",
+      "explanation": "'अंधार' means darkness — the opposite (विरुद्धार्थी) of उजेड (light). 'प्रकाश' means light/brightness (synonym of उजेड, not antonym). 'दिवा' means lamp. 'चमक' means shine/sparkle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t8_3",
+      "question": "The Marathi word 'पान' (paan) is an example of 'अनेकार्थी शब्द' because it means:",
+      "options": {
+        "A": "Only betel leaf for eating",
+        "B": "Both a tree leaf AND a betel leaf",
+        "C": "Only a tree leaf",
+        "D": "A type of Marathi alphabet"
+      },
+      "correctAnswer": "B",
+      "explanation": "'पान' is an अनेकार्थी शब्द (word with multiple meanings): (1) पान = leaf of a tree (झाडाचे पान); (2) पान = betel leaf used for eating (विडा/पान खाणे). Context tells you which meaning is intended. In a poem about a tree, 'पान' = leaf; in a reference to someone chewing, 'पान' = betel leaf.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t8_4",
+      "question": "The root word 'विद्या' (knowledge) belongs to a word family. Which of these is NOT a member of this word family?",
+      "options": {
+        "A": "विद्यार्थी (student)",
+        "B": "विद्यालय (school)",
+        "C": "विद्वान (scholar)",
+        "D": "विजय (victory)"
+      },
+      "correctAnswer": "D",
+      "explanation": "'विजय' (victory) comes from a completely different root — 'जय' (victory/win). It is not related to 'विद्या' (knowledge). The विद्या word family includes: विद्यार्थी (student — 'seeker of knowledge'), विद्यालय (school — 'place of knowledge'), विद्वान (scholar — 'one with knowledge'), विद्यापीठ (university).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t8_5",
+      "question": "What is the Marathi word 'शब्दकोश' made up of?",
+      "options": {
+        "A": "शब्द (word) + कोश (treasury) = dictionary",
+        "B": "शब्द (word) + कोश (garden) = word garden",
+        "C": "शाब्दिक (verbal) + कोश (book)",
+        "D": "शब्द (word) + कोशिश (attempt)"
+      },
+      "correctAnswer": "A",
+      "explanation": "'शब्दकोश' = शब्द (word) + कोश (treasury/store). It literally means 'treasury of words' — a perfect description of a dictionary, which stores and preserves the meanings of all words. 'कोश' also means 'womb' in Sanskrit (suggesting something that holds and nourishes), which is poetically fitting for a dictionary.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t8_6",
+      "question": "Which of the following is a synonym (समानार्थी) of 'आनंद' (happiness/joy)?",
+      "options": {
+        "A": "दुःख (sorrow)",
+        "B": "भीती (fear)",
+        "C": "सुख (pleasure/happiness)",
+        "D": "राग (anger)"
+      },
+      "correctAnswer": "C",
+      "explanation": "'सुख' (pleasure/happiness/well-being) is a समानार्थी (synonym) of 'आनंद' (joy/happiness) — both express positive emotional states. 'दुःख' is the antonym (opposite), 'भीती' = fear, and 'राग' = anger are completely different emotions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t8_7",
+      "question": "In which order are words arranged in a Marathi dictionary (शब्दकोश)?",
+      "options": {
+        "A": "By word length (shortest to longest)",
+        "B": "By topic/subject",
+        "C": "Alphabetically (अकारविल्हे) according to the Devanagari alphabet",
+        "D": "By the last letter of the word"
+      },
+      "correctAnswer": "C",
+      "explanation": "Marathi dictionaries are arranged 'अकारविल्हे' — alphabetically according to the Devanagari alphabet, starting with अ, आ, इ, ई, उ, ऊ, then consonants: क, ख, ग, घ... This is the same system used in most Indian language dictionaries. Knowing the Marathi alphabet order is essential for using a dictionary.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t8_8",
+      "question": "The prefix 'अ-' in Marathi creates which type of words?",
+      "options": {
+        "A": "Synonyms",
+        "B": "Antonyms (by making the word negative)",
+        "C": "Word families",
+        "D": "Multiple meaning words"
+      },
+      "correctAnswer": "B",
+      "explanation": "Adding 'अ-' prefix to a Marathi word creates its antonym (opposite) by making it negative. Examples: सत्य (truth) → असत्य (untruth/lie), ज्ञान (knowledge) → अज्ञान (ignorance), शक्य (possible) → अशक्य (impossible), स्वस्थ (healthy) → अस्वस्थ (unwell/uneasy).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t8_9",
+      "question": "The Marathi word 'तीर' (teer) is an अनेकार्थी शब्द because it means both:",
+      "options": {
+        "A": "Happiness and sadness",
+        "B": "Arrow and riverbank/shore",
+        "C": "Flower and fruit",
+        "D": "Day and night"
+      },
+      "correctAnswer": "B",
+      "explanation": "'तीर' is an अनेकार्थी शब्द (multiple meanings): (1) तीर = arrow (used in 'धनुष्यबाण/तीर मारणे' = to shoot an arrow); (2) तीर = riverbank or shore (used in 'नदीचा तीर' = the bank of a river). Context always determines which meaning is intended.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t8_10",
+      "question": "In the metaphor of this chapter's title 'शब्दांचे घर' (House of Words), what does the 'house with many rooms' represent?",
+      "options": {
+        "A": "The classroom where Marathi is taught",
+        "B": "The many meanings, related words, synonyms, and antonyms that a word connects to",
+        "C": "A physical building where dictionaries are stored",
+        "D": "The teacher's house full of books"
+      },
+      "correctAnswer": "B",
+      "explanation": "The metaphor 'शब्दांचे घर' (House of Words) compares a word to a house with many rooms. Each 'room' represents a different aspect of the word: its synonyms, antonyms, related words (word family), and multiple meanings. Just as a house has many rooms, each word has many dimensions of meaning and connection.",
+      "difficulty": "hard"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "शब्दकुटुंब = word family — words from the same root",
+      "समानार्थी शब्द = synonyms — words with same/similar meanings",
+      "विरुद्धार्थी शब्द = antonyms — words with opposite meanings",
+      "अनेकार्थी शब्द = words with multiple meanings",
+      "शब्दकोश = dictionary — treasure house of words",
+      "Prefix 'अ-' creates negatives/antonyms in Marathi",
+      "अकारविल्हे = alphabetical order in Devanagari",
+      "Root 'विद्या': विद्यार्थी, विद्यालय, विद्वान, विद्यापीठ"
+    ],
+    "commonMisconceptions": [
+      "Students often confuse समानार्थी (synonyms) and विरुद्धार्थी (antonyms) — memorize: समान = same, विरुद्ध = opposite.",
+      "Not all 'अ-' prefix words are antonyms formed from their base — 'अंगण' (courtyard) has nothing to do with a negative prefix!",
+      "Students may think synonyms are perfectly interchangeable — they have similar but often slightly different meanings and registers (formal vs informal).",
+      "अनेकार्थी शब्द are sometimes confused with शब्दकुटुंब — in a word family, words are related in meaning; in अनेकार्थी, ONE word has MULTIPLE unrelated meanings."
+    ],
+    "realWorldExamples": [
+      "Online Marathi dictionary: shabdakosh.com provides free Marathi word meanings, synonyms, and translations.",
+      "Maharashtra Government's Marathi Vishwakosh (Encyclopedia) — 20 volumes, available in libraries across Maharashtra.",
+      "Pune's Balbharati (Maharashtra State Bureau of Textbook Production) — the organization that publishes school textbooks, also produces vocabulary resources.",
+      "Marathi newspapers like Loksatta, Maharashtra Times, Sakal — reading newspapers regularly builds vocabulary organically."
+    ],
+    "formulas": []
+  }
+}

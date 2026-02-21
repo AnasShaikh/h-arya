@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "chapterNumber": 3,
+    "title": "माझ्या अंगणात (In My Courtyard)",
+    "subject": "Marathi",
+    "pages": "6",
+    "description": "A beautiful Marathi poem by Dnyaneshwar Koli (1956–2019) that celebrates the joy of harvest in a farmer's courtyard. Wheat grains are compared to pearls scattered on black soil by moonlight. The five stanzas describe: the harvest spread like jewels, the community sharing in harmony, a mother's care for the tired worker, and birds pecking grain — followed by tears when they fly away. The poem is rich in agricultural imagery and introduces students to Marathi farming vocabulary and the emotional bond between farmer and land."
+  },
+  "preAssessment": [
+    {
+      "id": "pa3_1",
+      "question": "Who is the poet of the Marathi poem 'माझ्या अंगणात' (In My Courtyard)?",
+      "options": {
+        "A": "Sane Guruji",
+        "B": "Jagdish Khebdukar",
+        "C": "Dnyaneshwar Koli",
+        "D": "Sant Tukaram"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "c3_1"
+    },
+    {
+      "id": "pa3_2",
+      "question": "In the poem, wheat grains scattered in the courtyard are compared to which precious object?",
+      "options": {
+        "A": "Diamonds",
+        "B": "Pearls (मोती)",
+        "C": "Rubies",
+        "D": "Gold coins"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "c3_2"
+    },
+    {
+      "id": "pa3_3",
+      "question": "The Marathi word 'शेतकरी' (Shetkari) means:",
+      "options": {
+        "A": "Teacher",
+        "B": "Merchant",
+        "C": "Farmer",
+        "D": "Doctor"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "c3_5"
+    },
+    {
+      "id": "pa3_4",
+      "question": "The Marathi phrase 'गुण्यागोविंदानं' in the poem means:",
+      "options": {
+        "A": "With sadness and grief",
+        "B": "Very quickly",
+        "C": "In harmony and friendship / peacefully together",
+        "D": "With great effort"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c3_3"
+    },
+    {
+      "id": "pa3_5",
+      "question": "How many stanzas does the poem 'माझ्या अंगणात' have?",
+      "options": {
+        "A": "Three",
+        "B": "Four",
+        "C": "Six",
+        "D": "Five"
+      },
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "conceptId": "c3_1"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c3_1",
+      "title": "About the Poet — Dnyaneshwar Koli",
+      "emoji": "🌾",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Dnyaneshwar Koli (1956–2019) was a Marathi poet who wrote primarily about rural life, farmers, and the natural beauty of Maharashtra's countryside. His poems celebrate the bond between the farmer and the land, the rhythms of agricultural seasons, and the simple joys of village life. He belonged to a farming community and wrote from direct personal experience. His poetry is known for its vivid imagery and the way it elevates the ordinary scenes of farm life into something beautiful and poetic. The poem 'माझ्या अंगणात' is one of his most celebrated works for school children.",
+      "pageReference": "6",
+      "examples": [
+        { "icon": "🌿", "text": "Dnyaneshwar Koli wrote from lived experience — he knew firsthand the beauty and hardship of farming life." },
+        { "icon": "🎨", "text": "His poetry uses vivid visual imagery — wheat like pearls, black soil, moonlight — creating pictures with words." },
+        { "icon": "🏘️", "text": "His poems celebrate village life (ग्रामीण जीवन) and rural Maharashtra's culture and nature." },
+        { "icon": "📅", "text": "He lived from 1956 to 2019 — a poet of modern Maharashtra who kept rural traditions alive through verse." }
+      ],
+      "keyPoints": [
+        "Dnyaneshwar Koli (1956–2019) was a Marathi poet known for his rural and agricultural themes.",
+        "He wrote from personal experience as part of a farming community in Maharashtra.",
+        "His poetry uses beautiful imagery to describe ordinary farm life in extraordinary terms.",
+        "'माझ्या अंगणात' celebrates the harvest — the most joyful event in a farmer's year.",
+        "His style is accessible and vivid — ideal for young students to appreciate Marathi poetry."
+      ],
+      "funFact": "Maharashtra is one of India's most important farming states! It produces wheat, sugarcane, cotton, onions, and grapes. The state has over 13 million farming families — nearly half the population depends on agriculture.",
+      "textbookRef": "Chapter 3, Page 6 — Maharashtra Board 7th Grade Marathi (Second Language)"
+    },
+    {
+      "id": "c3_2",
+      "title": "Stanzas 1 and 2 — Harvest Imagery (Pearls and Jewels)",
+      "emoji": "💎",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "In the first two stanzas, the poet describes the breathtaking sight of the freshly harvested wheat (गहू) spread across the courtyard (अंगण) under moonlight. The wheat grains on the dark, rich black soil (काळी माती) look like scattered pearls (मोती). In stanza 2, the harvest is called 'मोती-पवळ्याची रास' — a heap of pearls and coral — showing that the harvest is like precious treasure to the farmer. This comparison of grain to gems is a beautiful poetic device called a metaphor (रूपक), used to convey how valuable the harvest is to the farmer's family.",
+      "pageReference": "6",
+      "examples": [
+        { "icon": "🌕", "text": "Moonlight (चंद्रप्रकाश) falling on wheat grains makes them glisten like pearls — a breathtaking harvest night scene." },
+        { "icon": "🟤", "text": "Black soil (काळी माती) is Maharashtra's famous 'regur' soil — very fertile and ideal for crops like wheat and cotton." },
+        { "icon": "🫘", "text": "गहू = wheat; मोती = pearls; the comparison shows how precious grain is to a farming family." },
+        { "icon": "💰", "text": "'मोती-पवळ्याची रास' — heap of pearls and coral — the harvest is the farmer's real wealth and treasure." }
+      ],
+      "keyPoints": [
+        "The first two stanzas use the metaphor of pearls (मोती) for wheat grains to show their preciousness.",
+        "'अंगण' means courtyard — traditionally, grain was dried and threshed in the home courtyard.",
+        "Black soil (काळी माती / कापूस माती) is Maharashtra's fertile soil, especially common in Vidarbha and Marathwada.",
+        "'मोती-पवळ्याची रास' — heap of pearls and coral — is a vivid image of the harvest's abundance.",
+        "Moonlight harvest scenes are common in Maharashtra — farmers often work at night during harvest season."
+      ],
+      "funFact": "Maharashtra's black soil (called 'regur' or 'black cotton soil') is so fertile that it swells with water in the monsoon and cracks in summer — this movement actually helps aerate the soil naturally! It is found across Vidarbha, Marathwada, and Western Maharashtra.",
+      "textbookRef": "Chapter 3, Page 6 — Stanzas 1 and 2"
+    },
+    {
+      "id": "c3_3",
+      "title": "Stanzas 3 and 4 — Sharing Together and Mother's Care",
+      "emoji": "🤝",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Stanza 3 describes sharing the harvest with others in harmony — the Marathi phrase 'गुण्यागोविंदानं' (gunnyagovindann) beautifully expresses living and sharing together in friendship and peace. This stanza reflects the cooperative spirit of Maharashtra's villages, where harvests were traditionally shared with neighbors, workers, and the community. Stanza 4 describes the tired farmer (थकलेला कामगार) being lovingly fed by the mother, who serves him like cream in milk (दुधातले साय). The mother's care is compared to the richest, most nourishing part of milk — the cream — showing how her love restores the tired worker.",
+      "pageReference": "6",
+      "examples": [
+        { "icon": "🤲", "text": "'गुण्यागोविंदानं' — an idiom meaning to live/work together in harmony, like close friends without conflict." },
+        { "icon": "🍚", "text": "In Maharashtra villages, after harvest, families share food and grain with farm workers and neighbors." },
+        { "icon": "🥛", "text": "'दुधातले साय' — cream in milk — the richest, most nourishing part; the mother's care is like this for the tired worker." },
+        { "icon": "🌙", "text": "After a long, hard day of harvest work, the mother feeds the farmer with love and attention." }
+      ],
+      "keyPoints": [
+        "'गुण्यागोविंदानं' is a Marathi idiom meaning to live and share together in harmony and goodwill.",
+        "Stanza 3 shows the communal, sharing nature of traditional Maharashtra village life.",
+        "'साय' means cream — the best, richest part of milk; comparing mother's care to cream shows its nourishing quality.",
+        "Stanza 4 highlights the mother's central role in the family — caring for the hard-working farmer.",
+        "These stanzas show that the harvest is not just material — it is also about community love and family bonds."
+      ],
+      "funFact": "The tradition of 'गुण्यागोविंदाने राहणे' (living in harmony) is deeply valued in Maharashtra. Village festivals after harvest (like Bhondla, Hadga) are celebrations of community sharing — everyone participates and shares food together!",
+      "textbookRef": "Chapter 3, Page 6 — Stanzas 3 and 4"
+    },
+    {
+      "id": "c3_4",
+      "title": "Stanza 5 — Birds Pecking Grain and Tears of Separation",
+      "emoji": "🐦",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The final stanza is the most emotionally powerful. Small birds come and peck at the grain scattered in the courtyard. The farmer watches with affection — not chasing them away, but smiling as they eat. But when the birds fly away (when the season ends and they migrate or leave), the farmer's eyes fill with tears. This scene is deeply emotional: the birds represent the fleeting joys of harvest time, the brief season of abundance. Their departure signals that the hard work must begin again. The farmer's tears show the deep, loving connection between people and nature in Marathi rural culture.",
+      "pageReference": "6",
+      "examples": [
+        { "icon": "🌾", "text": "Birds naturally come to courtyards during harvest — sparrows, crows, and pigeons peck at scattered grain." },
+        { "icon": "😊", "text": "The farmer watches the birds eat with joy — showing generosity and love for all living beings, not just humans." },
+        { "icon": "😢", "text": "When the birds fly away, the farmer cries — showing that their presence was a source of joy and companionship." },
+        { "icon": "🍂", "text": "The birds' departure symbolizes the end of the harvest season — a bittersweet moment of joy giving way to longing." }
+      ],
+      "keyPoints": [
+        "The fifth stanza introduces the emotional peak of the poem — birds eating grain and then flying away.",
+        "The farmer does not shoo the birds away — he watches with joy and love, showing generosity.",
+        "When the birds leave, the farmer cries — showing that nature provides emotional companionship, not just food.",
+        "This stanza uses the poetic technique of personification — treating the birds as companions of the farmer.",
+        "The cycle of joy and separation in nature is a recurring theme in Marathi poetry and folk songs."
+      ],
+      "funFact": "In Maharashtra, there is a tradition called 'पक्षी तर्पण' — feeding birds grain and water as an act of devotion. Many farmers deliberately leave some grain in the field for birds after harvest, considering it a sacred duty to share with nature.",
+      "textbookRef": "Chapter 3, Page 6 — Stanza 5"
+    },
+    {
+      "id": "c3_5",
+      "title": "Marathi Agricultural Vocabulary",
+      "emoji": "🌱",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "This poem introduces important Marathi vocabulary related to farming and agriculture. Learning these words helps students understand not just this poem but the wider context of Maharashtra's farming culture. Key words: शेतकरी (farmer), पीक (crop), धान्य (grain), गहू (wheat), अंगण (courtyard), माती (soil), काळी माती (black soil), मोती (pearl), पाऊस (rain), सुगी/कापणी (harvest), शेत (farm/field), बैल (ox/bull). Maharashtra's economy is still heavily dependent on agriculture, and these words appear throughout Marathi literature, songs, and daily life.",
+      "pageReference": "6",
+      "examples": [
+        { "icon": "👨‍🌾", "text": "शेतकरी = farmer; पीक = crop; शेत = farm/field — the three most basic farming words in Marathi." },
+        { "icon": "🌾", "text": "धान्य = grain (general term); गहू = wheat; ज्वारी = sorghum; बाजरी = millet — Maharashtra's main crops." },
+        { "icon": "🏡", "text": "अंगण = courtyard — the open space in front of a traditional Maharashtra house, used for drying grain." },
+        { "icon": "🌧️", "text": "पाऊस = rain; सुगी = harvest season — two words that define the farmer's life cycle." }
+      ],
+      "keyPoints": [
+        "शेतकरी = farmer | शेत = field | पीक = crop | धान्य = grain | गहू = wheat",
+        "अंगण = courtyard | काळी माती = black soil | मोती = pearl | सुगी = harvest time",
+        "Maharashtra grows wheat (गहू), sorghum (ज्वारी), bajra (बाजरी), sugarcane (ऊस), and cotton (कापूस).",
+        "The ox/bull (बैल) is a traditional farming partner — the famous Maharashtra 'bullock cart' (बैलगाडी) is used in fields.",
+        "Understanding farming vocabulary helps decode Marathi poetry, folk songs, and stories."
+      ],
+      "funFact": "Maharashtra's Onion (कांदा) belt in Nashik is one of the largest onion-growing regions in the world! Maharashtra also produces about 80% of India's grape crop — the wine industry in Nashik has made 'Maharashtra wine' famous internationally.",
+      "textbookRef": "Chapter 3, Page 6 — Vocabulary section"
+    }
+  ],
+  "test": [
+    {
+      "id": "t3_1",
+      "question": "What is the meaning of the Marathi word 'अंगण' (angan)?",
+      "options": {
+        "A": "Kitchen",
+        "B": "Courtyard (open space in front of house)",
+        "C": "Bedroom",
+        "D": "School playground"
+      },
+      "correctAnswer": "B",
+      "explanation": "'अंगण' means courtyard — the open space in front of (or around) a traditional Maharashtrian home. In farming families, the अंगण was used for drying grain, threshing, and community activities. The title 'माझ्या अंगणात' means 'In My Courtyard.'",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t3_2",
+      "question": "In the poem, the harvest of wheat is compared to:",
+      "options": {
+        "A": "Stars in the sky",
+        "B": "Scattered pearls (मोती) on black soil",
+        "C": "Flowers in a garden",
+        "D": "Fish in a river"
+      },
+      "correctAnswer": "B",
+      "explanation": "The poet compares wheat grains to pearls (मोती) scattered on black soil (काळी माती). This metaphor shows how precious and beautiful the harvest looks to a farmer — like priceless jewels laid out in the courtyard under moonlight.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t3_3",
+      "question": "What does the Marathi idiom 'गुण्यागोविंदानं' express?",
+      "options": {
+        "A": "Extreme sadness",
+        "B": "Living and sharing together in harmony and friendship",
+        "C": "Working alone without help",
+        "D": "Celebrating with loud music"
+      },
+      "correctAnswer": "B",
+      "explanation": "'गुण्यागोविंदानं' is a Marathi idiom that expresses living, sharing, and cooperating together in harmony, goodwill, and friendship — like the name of Lord Krishna (Govinda), who is associated with peace and togetherness. It captures the spirit of community cooperation in Maharashtra's village culture.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t3_4",
+      "question": "In stanza 4, the mother's care for the tired worker is compared to:",
+      "options": {
+        "A": "Sunshine in winter",
+        "B": "Cream (साय) in milk",
+        "C": "Honey in a flower",
+        "D": "Rain in summer"
+      },
+      "correctAnswer": "B",
+      "explanation": "'दुधातले साय' means cream in milk. Cream is the richest, most nourishing, and most valuable part of milk. By comparing the mother's care to cream in milk, the poet says her love and feeding is the most valuable and nourishing part of the farmer's exhausting day.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t3_5",
+      "question": "What happens in the final (fifth) stanza of the poem?",
+      "options": {
+        "A": "The farmer celebrates with dance and song",
+        "B": "It starts to rain heavily",
+        "C": "Birds peck at the grain, then fly away, making the farmer cry",
+        "D": "The children help with the harvest"
+      },
+      "correctAnswer": "C",
+      "explanation": "In the final stanza, small birds come and eat the scattered grain. The farmer watches them with joy and affection. But when the birds fly away, the farmer's eyes fill with tears. This emotional scene symbolizes the end of the harvest season and the deep bond between the farmer and all living beings.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t3_6",
+      "question": "The Marathi word for 'crop' is:",
+      "options": {
+        "A": "शेतकरी",
+        "B": "अंगण",
+        "C": "पाऊस",
+        "D": "पीक"
+      },
+      "correctAnswer": "D",
+      "explanation": "'पीक' means crop in Marathi. 'शेतकरी' means farmer, 'अंगण' means courtyard, and 'पाऊस' means rain. Understanding these basic agricultural words is important for reading Marathi poetry and literature about rural life.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t3_7",
+      "question": "The comparison of wheat grains to pearls in the poem is an example of which literary device?",
+      "options": {
+        "A": "Rhyme (यमक)",
+        "B": "Metaphor (रूपक) — comparing one thing to another",
+        "C": "Repetition (पुनरुक्ती)",
+        "D": "Question (प्रश्न)"
+      },
+      "correctAnswer": "B",
+      "explanation": "A metaphor (रूपक) is a literary device that compares two things by saying one IS the other, without using 'like' or 'as.' In this poem, wheat grains ARE called pearls — not 'like pearls.' This direct comparison is a metaphor, used to show how precious the harvest is to the farmer.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t3_8",
+      "question": "Which crop does the poem primarily celebrate?",
+      "options": {
+        "A": "Rice (भात)",
+        "B": "Wheat (गहू)",
+        "C": "Sugarcane (ऊस)",
+        "D": "Cotton (कापूस)"
+      },
+      "correctAnswer": "B",
+      "explanation": "The poem 'माझ्या अंगणात' primarily celebrates the harvest of wheat (गहू). The wheat grains scattered in the courtyard are the central image of the poem, compared to pearls (मोती) and jewels (पवळे) on the black soil.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t3_9",
+      "question": "What does the farmer's tears (when birds fly away) symbolize in the poem?",
+      "options": {
+        "A": "The farmer is sick and weak",
+        "B": "The farmer is angry at the birds for eating grain",
+        "C": "The deep emotional connection between the farmer and nature, and sadness at the end of harvest season",
+        "D": "The farmer has lost his crop to birds"
+      },
+      "correctAnswer": "C",
+      "explanation": "The farmer does not chase the birds away — he watches them with love. When they fly away, his tears are not of anger but of love and longing. The birds symbolize the joy of harvest time — their departure marks the end of abundance and celebration. The poem uses this to show the farmer's deep, emotional bond with nature.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "t3_10",
+      "question": "When did poet Dnyaneshwar Koli live?",
+      "options": {
+        "A": "1899–1950",
+        "B": "1932–2011",
+        "C": "1956–2019",
+        "D": "1800–1858"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dnyaneshwar Koli lived from 1956 to 2019. He was a modern Marathi poet who focused on rural life and farming themes. His poem 'माझ्या अंगणात' is among his best-known works for school students.",
+      "difficulty": "easy"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "माझ्या अंगणात — poem about harvest joy in the courtyard",
+      "Dnyaneshwar Koli (1956–2019) — poet of rural Maharashtra",
+      "गहू = wheat, मोती = pearl, काळी माती = black soil",
+      "Harvest metaphors: grain as pearls/jewels",
+      "गुण्यागोविंदानं — living in harmony together",
+      "Mother's care compared to cream (साय) in milk",
+      "Birds and separation — emotional bond with nature",
+      "Agricultural vocabulary: शेतकरी, पीक, धान्य, अंगण, सुगी"
+    ],
+    "commonMisconceptions": [
+      "Students may think 'मोती' in the poem refers to actual pearls being in the field — it is a metaphor for wheat grains.",
+      "'गुण्यागोविंदानं' may be mistaken as a personal name — it is an idiom meaning to live in harmony.",
+      "Students may not understand why the farmer cries for birds — the tears are of love and longing, not anger or loss.",
+      "'साय' (cream) may be confused with 'शाई' (ink) by students — different words with very different meanings."
+    ],
+    "realWorldExamples": [
+      "Maharashtra's famous black soil (regur) belt — Vidarbha, Marathwada, and Western Maharashtra are major wheat and cotton growing areas.",
+      "The Nashik valley is India's grape and wine capital — another example of Maharashtra's rich agricultural tradition.",
+      "The Wari pilgrimage — thousands of Maharashtra farmers and villagers walk hundreds of kilometres to Pandharpur singing devotional songs, showing the spiritual connection to land.",
+      "Pola festival (बैलपोळा) in Maharashtra — a day when farmers celebrate and decorate their oxen with gratitude for their work in the fields."
+    ],
+    "formulas": []
+  }
+}

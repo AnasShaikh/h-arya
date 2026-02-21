@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "chapterNumber": 2,
+    "title": "श्यामचे बंधुप्रेम (Shyam's Brotherly Love)",
+    "subject": "Marathi",
+    "pages": "2-5",
+    "description": "An inspiring story extracted from 'Shyamchi Aai' (Shyam's Mother), the famous autobiographical novel by Sane Guruji (Pandurang Sadashiv Sane, 1899–1950). Young Shyam saves every paisa of his pocket money over three months to buy a coat for his younger brother Purushottam before the Ganesh Chaturthi festival. He bravely walks through floodwaters to reach home. The story ends with the mother's powerful words about Shyam being 'big in heart.' The chapter also introduces grammar: क्रियाविशेषण अव्यये (Adverbs) with four types."
+  },
+  "preAssessment": [
+    {
+      "id": "pa2_1",
+      "question": "Who is the author of 'Shyamchi Aai' (Shyam's Mother)?",
+      "options": {
+        "A": "Jagdish Khebdukar",
+        "B": "Sane Guruji (Pandurang Sadashiv Sane)",
+        "C": "Lakshmikamala Gedam",
+        "D": "Pannalal Patel"
+      },
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": "c2_1"
+    },
+    {
+      "id": "pa2_2",
+      "question": "What did Shyam save money to buy for his younger brother Purushottam?",
+      "options": {
+        "A": "A new school bag",
+        "B": "Books and stationery",
+        "C": "A coat",
+        "D": "Sweets for the festival"
+      },
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": "c2_2"
+    },
+    {
+      "id": "pa2_3",
+      "question": "For which festival did Shyam want his brother to have new clothes?",
+      "options": {
+        "A": "Diwali",
+        "B": "Holi",
+        "C": "Eid",
+        "D": "Ganesh Chaturthi"
+      },
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "conceptId": "c2_2"
+    },
+    {
+      "id": "pa2_4",
+      "question": "In Marathi grammar, 'क्रियाविशेषण अव्यये' refers to which part of speech?",
+      "options": {
+        "A": "Nouns",
+        "B": "Adverbs",
+        "C": "Adjectives",
+        "D": "Pronouns"
+      },
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": "c2_5"
+    },
+    {
+      "id": "pa2_5",
+      "question": "Which type of adverb (क्रियाविशेषण) tells us about TIME — words like आधी (before), नेहमी (always)?",
+      "options": {
+        "A": "स्थलवाचक (place)",
+        "B": "रीतिवाचक (manner)",
+        "C": "कालवाचक (time)",
+        "D": "परिमाणवाचक (quantity)"
+      },
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": "c2_5"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c2_1",
+      "title": "About Sane Guruji and 'Shyamchi Aai'",
+      "emoji": "📖",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Sane Guruji (full name: Pandurang Sadashiv Sane, 1899–1950) was one of the most beloved Marathi writers and social reformers. He was a freedom fighter, teacher, and deeply compassionate human being. His most famous book is 'Shyamchi Aai' — the story of Shyam's mother and the lessons she taught her son through love and wisdom. The book was written while Sane Guruji was in prison during the freedom movement. It became one of the most celebrated books in Marathi literature and was also made into a Marathi film that won the Golden Bear award at the Berlin Film Festival in 1954.",
+      "pageReference": "2-3",
+      "examples": [
+        { "icon": "✍️", "text": "'Shyamchi Aai' (Shyam's Mother) is his masterpiece — written in prison during India's freedom movement." },
+        { "icon": "🎬", "text": "The film based on 'Shyamchi Aai' won the Golden Bear at the Berlin International Film Festival in 1954." },
+        { "icon": "🇮🇳", "text": "Sane Guruji was a freedom fighter who participated in the movement against British rule." },
+        { "icon": "❤️", "text": "He was known for his extreme compassion — 'Sane Guruji' (teacher Sane) was the loving title given to him by people." }
+      ],
+      "keyPoints": [
+        "Sane Guruji's full name was Pandurang Sadashiv Sane (1899–1950).",
+        "'Shyamchi Aai' is an autobiographical novel — Shyam is based on Sane Guruji himself as a child.",
+        "The book was written in Nasik Central Prison — showing his dedication to literature even under difficult circumstances.",
+        "The story 'श्यामचे बंधुप्रेम' is one chapter from this famous book.",
+        "'Shyamchi Aai' teaches values of love, sacrifice, honesty, and compassion through simple stories."
+      ],
+      "funFact": "Sane Guruji wrote 'Shyamchi Aai' in just a few weeks while imprisoned by the British! The book has been translated into more than 10 Indian languages and has influenced generations of readers across India.",
+      "textbookRef": "Chapter 2, Pages 2-5 — Maharashtra Board 7th Grade Marathi (Second Language)"
+    },
+    {
+      "id": "c2_2",
+      "title": "Shyam's Sacrifice — Saving Money for His Brother",
+      "emoji": "💰",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Shyam's father worked at a court (कोर्ट) and occasionally took Shyam along. On these visits, the father gave Shyam pocket money to buy snacks. Instead of spending this money on himself, Shyam had a secret plan: he saved every single paisa for three months! His goal was to buy a coat for his younger brother Purushottam before the Ganesh Chaturthi festival — because Purushottam had been wearing old, torn clothes while their neighbour's children had new clothes. Shyam could not bear to see his little brother feel left out. This act of love and self-sacrifice shows the pure, selfless nature of बंधुप्रेम (brotherly love).",
+      "pageReference": "2-4",
+      "examples": [
+        { "icon": "🪙", "text": "Shyam saved the money his father gave him for snacks — choosing his brother's happiness over his own pleasure." },
+        { "icon": "📅", "text": "He saved for three full months — showing tremendous patience and determination for a young boy." },
+        { "icon": "👕", "text": "His goal: to buy Purushottam a coat for Ganesh Chaturthi so he wouldn't feel sad seeing other children in new clothes." },
+        { "icon": "🎊", "text": "Ganesh Chaturthi is a major festival in Maharashtra — new clothes are an important part of the celebration." }
+      ],
+      "keyPoints": [
+        "Shyam's sacrifice: he did NOT spend his own pocket money for three months, saving every paisa.",
+        "His motivation was pure love (बंधुप्रेम) — he wanted his brother to have new clothes for Ganesh Chaturthi.",
+        "The story shows that real love means putting others' happiness before your own desires.",
+        "Ganesh Chaturthi (गणेश चतुर्थी) is the biggest festival in Maharashtra — celebrated with great joy for 10 days.",
+        "Shyam's action teaches us that even children can make big sacrifices when motivated by love."
+      ],
+      "funFact": "Ganesh Chaturthi was revived as a public festival by Bal Gangadhar Tilak in 1893 in Pune, Maharashtra! It brought communities together during the freedom movement. Today it is celebrated across India and even in many countries worldwide.",
+      "textbookRef": "Chapter 2, Pages 2-4 — Shyam's saving plan"
+    },
+    {
+      "id": "c2_3",
+      "title": "Shyam's Journey Home Through the Floods",
+      "emoji": "🌊",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "When Shyam finally had enough money saved, he bought the coat. But on his way back home, he had to cross a flooded path — the rains had swollen the roads and rivers. Despite the danger and difficulty, Shyam did not give up. He waded through the floodwaters, clutching the coat tightly so it wouldn't get wet. This part of the story adds a powerful dimension to his love — it was not just an easy gift, it came with real physical hardship and risk. The flood represents all the obstacles that love can overcome when it is genuine and strong.",
+      "pageReference": "4-5",
+      "examples": [
+        { "icon": "🌧️", "text": "Heavy monsoon rains in Maharashtra often flood roads and low-lying paths — a real danger for travellers." },
+        { "icon": "💪", "text": "Shyam waded through the flooded path, holding the coat high above the water — bravery driven by love." },
+        { "icon": "😰", "text": "Despite fear and difficulty, he did not turn back — his determination shows the strength of brotherly love." },
+        { "icon": "🎁", "text": "He wanted the coat to arrive safely and undamaged — a sign of how much he cared about giving a good gift." }
+      ],
+      "keyPoints": [
+        "The flood journey is a test of Shyam's love — real love overcomes obstacles and hardships.",
+        "Maharashtra experiences heavy monsoon rains (June–September) which cause frequent flooding.",
+        "Shyam's physical struggle through floodwaters makes his gift even more meaningful and special.",
+        "This scene teaches us that sacrifice and effort make a gift truly precious.",
+        "The author uses this scene to contrast the easy path (giving up) with the loving path (pushing through)."
+      ],
+      "funFact": "The Konkan and Western Maharashtra regions receive some of India's heaviest rainfall! The Sahyadri mountain range (Western Ghats) forces monsoon clouds to release rain, with some places getting over 6,000 mm of rainfall per year. Flooding is a common monsoon experience for Maharashtra children.",
+      "textbookRef": "Chapter 2, Pages 4-5 — Journey through the flood"
+    },
+    {
+      "id": "c2_4",
+      "title": "The Emotional Reunion — Mother's Powerful Words",
+      "emoji": "👩‍👦",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "When Shyam finally arrives home and presents the coat to his younger brother Purushottam, the family is overwhelmed with emotion. The mother's words are the emotional climax of the story. She says (in meaning): 'You are not big in age, you are not big in money, you are not big in education — but you have become big in HEART!' (तू वयाने मोठा नाहीस, पैशाने मोठा नाहीस, विद्येने मोठा नाहीस — पण मनाने मोठा झालास!) These simple but profound words teach us the most important lesson of the story: true greatness is not measured by age, wealth, or academic achievement — it is measured by the size of your heart and the depth of your love.",
+      "pageReference": "5",
+      "examples": [
+        { "icon": "😭", "text": "The mother's tears of joy show how deeply Shyam's selfless act moved her." },
+        { "icon": "❤️", "text": "'मनाने मोठा' means 'big in heart' — the highest compliment a mother can give her child." },
+        { "icon": "👶", "text": "Purushottam's happiness at receiving the coat is what made Shyam's sacrifice completely worthwhile." },
+        { "icon": "📣", "text": "The mother's words become the moral lesson of the story — inner greatness is more important than external greatness." }
+      ],
+      "keyPoints": [
+        "The mother's words — 'you have become big in heart' — are the central message of the entire story.",
+        "'मन' (man) in Marathi means heart/mind — 'मनाने मोठा' means great in heart and spirit.",
+        "The story argues that true greatness comes from love, sacrifice, and compassion — not from wealth or age.",
+        "This scene shows the importance of a mother's role in recognizing and praising her child's virtues.",
+        "Sane Guruji's own mother inspired his values — 'Shyamchi Aai' is a tribute to her teachings."
+      ],
+      "funFact": "The phrase 'मनाने मोठा' (big in heart) has become a popular expression in Marathi. People use it today to describe someone who is generous, kind, and selfless — a legacy of Sane Guruji's beautiful story!",
+      "textbookRef": "Chapter 2, Page 5 — Mother's emotional words"
+    },
+    {
+      "id": "c2_5",
+      "title": "Grammar: क्रियाविशेषण अव्यये (Adverbs) — 4 Types",
+      "emoji": "📝",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "An adverb (क्रियाविशेषण अव्यय) is a word that modifies or describes a verb (क्रियापद). It tells us MORE about the action — when, where, how, or how much something happens. In Marathi, there are 4 types of adverbs: (1) कालवाचक — related to TIME; (2) स्थलवाचक — related to PLACE; (3) रीतिवाचक — related to MANNER (how); (4) परिमाणवाचक — related to QUANTITY/DEGREE. The word 'अव्यय' means 'that which does not change' — adverbs do not change their form for gender or number, unlike nouns or adjectives in Marathi.",
+      "pageReference": "2-5",
+      "examples": [
+        { "icon": "⏰", "text": "कालवाचक (Time): आधी (before), नेहमी (always), आता (now), कधी (when/ever) — 'Shyam ALWAYS thought about his brother.'" },
+        { "icon": "📍", "text": "स्थलवाचक (Place): इथे (here), तिथे (there), सर्वत्र (everywhere), वर (up) — 'He looked EVERYWHERE for the shop.'" },
+        { "icon": "🏃", "text": "रीतिवाचक (Manner): पटपट (quickly), जलद (fast), हळूहळू (slowly) — 'He walked QUICKLY through the flood.'" },
+        { "icon": "📊", "text": "परिमाणवाचक (Quantity): अत्यंत (extremely), किंचित (a little), खूप (a lot) — 'He was EXTREMELY happy to give the gift.'" }
+      ],
+      "keyPoints": [
+        "क्रियाविशेषण (adverb) describes how, when, where, or how much a verb/action is performed.",
+        "Type 1 — कालवाचक (time adverbs): आधी, नेहमी, आता, कधी, केव्हा, रोज",
+        "Type 2 — स्थलवाचक (place adverbs): इथे, तिथे, सर्वत्र, वर, खाली, जवळ",
+        "Type 3 — रीतिवाचक (manner adverbs): पटपट, जलद, हळूहळू, व्यवस्थित",
+        "Type 4 — परिमाणवाचक (quantity adverbs): अत्यंत, किंचित, खूप, थोडे, जास्त"
+      ],
+      "funFact": "The Marathi word 'अव्यय' literally means 'not declining/changing' — क्रियाविशेषण अव्यये are called this because unlike Marathi nouns (which change for case) and adjectives (which change for gender), adverbs stay the same regardless of what they describe!",
+      "textbookRef": "Chapter 2, Pages 2-5 — Grammar section: क्रियाविशेषण अव्यये"
+    }
+  ],
+  "test": [
+    {
+      "id": "t2_1",
+      "question": "What is the full name of 'Sane Guruji', the author of 'Shyamchi Aai'?",
+      "options": {
+        "A": "Sadashiv Hari Sane",
+        "B": "Pandurang Sadashiv Sane",
+        "C": "Vishwas Pandurang Sane",
+        "D": "Raghunath Sane"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sane Guruji's full name was Pandurang Sadashiv Sane (1899–1950). 'Guruji' (teacher/respected teacher) was an affectionate title given to him by the people. He was a freedom fighter, teacher, and one of the most beloved Marathi writers of the 20th century.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t2_2",
+      "question": "Why did Shyam save his pocket money instead of spending it on snacks?",
+      "options": {
+        "A": "He was saving to buy a bicycle",
+        "B": "He wanted to donate to charity",
+        "C": "He was saving to buy a coat for his younger brother Purushottam for Ganesh Chaturthi",
+        "D": "He was putting money in the bank"
+      },
+      "correctAnswer": "C",
+      "explanation": "Shyam saw that his younger brother Purushottam had old, worn clothes while neighbours' children had new clothes for Ganesh Chaturthi. Out of love (बंधुप्रेम), he saved the snack money his father gave him during court visits — every paisa, for three months — to buy Purushottam a coat.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t2_3",
+      "question": "What obstacle did Shyam face on his way home after buying the coat?",
+      "options": {
+        "A": "He got lost in the jungle",
+        "B": "He had to walk through flooded roads",
+        "C": "He was robbed by thieves",
+        "D": "He missed the last bus home"
+      },
+      "correctAnswer": "B",
+      "explanation": "On his return journey, Shyam encountered flooded roads due to heavy monsoon rains. Despite the danger, he waded through the floodwater, carefully protecting the coat. This brave act makes his love for his brother even more meaningful and memorable.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t2_4",
+      "question": "What did Shyam's mother say about him after he brought the coat?",
+      "options": {
+        "A": "You are the cleverest boy in school",
+        "B": "You wasted your money on useless things",
+        "C": "You are not big in age, money or education — but you have become big in heart",
+        "D": "You should have asked father for the money"
+      },
+      "correctAnswer": "C",
+      "explanation": "The mother's memorable words were that Shyam may not be big in age, wealth, or education, but he had become 'big in heart' (मनाने मोठा). This is the moral lesson of the story — inner greatness through love and sacrifice matters more than external achievements.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t2_5",
+      "question": "Identify the type of adverb (क्रियाविशेषण) of the word 'नेहमी' (always):",
+      "options": {
+        "A": "स्थलवाचक (place)",
+        "B": "कालवाचक (time)",
+        "C": "रीतिवाचक (manner)",
+        "D": "परिमाणवाचक (quantity)"
+      },
+      "correctAnswer": "B",
+      "explanation": "'नेहमी' means 'always' — it tells us WHEN something happens. Any adverb that gives time information (when, how often, how long) is a कालवाचक (time adverb). Other examples: आधी (before), आता (now), कधी (when), रोज (daily).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t2_6",
+      "question": "Which Marathi adverb means 'everywhere' and is a स्थलवाचक (place) adverb?",
+      "options": {
+        "A": "अत्यंत",
+        "B": "पटपट",
+        "C": "सर्वत्र",
+        "D": "नेहमी"
+      },
+      "correctAnswer": "C",
+      "explanation": "'सर्वत्र' means 'everywhere' and describes the PLACE or location aspect of an action, making it a स्थलवाचक (place adverb). 'अत्यंत' means 'extremely' (परिमाणवाचक), 'पटपट' means 'quickly' (रीतिवाचक), and 'नेहमी' means 'always' (कालवाचक).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t2_7",
+      "question": "The word 'हळूहळू' (haluhalu) meaning 'slowly' is which type of adverb?",
+      "options": {
+        "A": "कालवाचक",
+        "B": "परिमाणवाचक",
+        "C": "स्थलवाचक",
+        "D": "रीतिवाचक"
+      },
+      "correctAnswer": "D",
+      "explanation": "'हळूहळू' means 'slowly' — it tells us HOW something is done (in a slow manner). Any adverb that tells us about the manner or way of performing an action is रीतिवाचक (manner adverb). Other examples: पटपट (quickly), जलद (fast), व्यवस्थित (properly).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "t2_8",
+      "question": "What does the Marathi term 'बंधुप्रेम' (bandhuprema) mean?",
+      "options": {
+        "A": "Love for God",
+        "B": "Love for one's country",
+        "C": "Love between friends",
+        "D": "Love between brothers / brotherly love"
+      },
+      "correctAnswer": "D",
+      "explanation": "'बंधुप्रेम' = बंधु (brother) + प्रेम (love). So it means brotherly love — the deep affection and care between siblings. The title 'श्यामचे बंधुप्रेम' (Shyam's Brotherly Love) refers to the selfless love Shyam showed for his younger brother Purushottam.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t2_9",
+      "question": "For how long did Shyam save his money before he had enough to buy the coat?",
+      "options": {
+        "A": "One week",
+        "B": "One month",
+        "C": "Three months",
+        "D": "Six months"
+      },
+      "correctAnswer": "C",
+      "explanation": "Shyam saved his pocket money for three months — showing remarkable patience and determination for a young boy. Every time his father took him to court and gave him money for snacks, he resisted temptation and saved the money instead. This three-month discipline makes his gift even more precious.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t2_10",
+      "question": "In Marathi grammar, why are adverbs called 'अव्यय' (avyay)?",
+      "options": {
+        "A": "Because they are always at the start of a sentence",
+        "B": "Because they describe nouns",
+        "C": "Because they do not change their form for gender, number, or case",
+        "D": "Because they always come after verbs"
+      },
+      "correctAnswer": "C",
+      "explanation": "'अव्यय' means 'that which does not decline/change' (अ = not + व्यय = change/spending). Adverbs (क्रियाविशेषण अव्यये) in Marathi are called अव्यये because unlike nouns and adjectives (which change for gender, number, and case), adverbs always remain in the same form regardless of context.",
+      "difficulty": "hard"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Sane Guruji (Pandurang Sadashiv Sane, 1899-1950) — author of Shyamchi Aai",
+      "बंधुप्रेम — brotherly love / selfless love for a sibling",
+      "Ganesh Chaturthi (गणेश चतुर्थी) — major Maharashtra festival",
+      "मनाने मोठा — being big/great in heart (inner greatness)",
+      "क्रियाविशेषण अव्यये — Adverbs (4 types)",
+      "कालवाचक (time), स्थलवाचक (place), रीतिवाचक (manner), परिमाणवाचक (quantity)",
+      "Monsoon floods — real danger in Maharashtra during rainy season",
+      "'Shyamchi Aai' film won Golden Bear at Berlin Film Festival (1954)"
+    ],
+    "commonMisconceptions": [
+      "Students may confuse adverbs (क्रियाविशेषण) with adjectives (विशेषण) — adverbs describe VERBS, adjectives describe NOUNS.",
+      "The word 'खूप' (a lot) is often mistaken as an adjective — but when it modifies a verb (e.g., 'तो खूप धावला' = he ran a lot), it is a परिमाणवाचक adverb.",
+      "Students may think 'अव्यय' means a specific type of word — it actually means 'indeclinable word' (one that doesn't change form).",
+      "Some students think the story is fully fictional — but it is autobiographical. Shyam is Sane Guruji himself as a child."
+    ],
+    "realWorldExamples": [
+      "Ganesh Chaturthi is celebrated for 10 days in Maharashtra — Lalbaugcha Raja in Mumbai is one of the most famous Ganesh idols.",
+      "The Central Prison in Nashik where Sane Guruji wrote 'Shyamchi Aai' still stands — a historical landmark.",
+      "Maharashtra monsoon floods — every year, cities like Kolhapur, Sangli, and even Mumbai experience flooding, similar to what Shyam faced.",
+      "The film 'Shyamchi Aai' (1953, directed by P.K. Atre) is available on Doordarshan and YouTube — students can watch it."
+    ],
+    "formulas": []
+  }
+}
