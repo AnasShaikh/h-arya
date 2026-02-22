@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "chapterNumber": 5,
+    "title": "Winds",
+    "subject": "Geography",
+    "pages": "21-29",
+    "description": "Generation of winds, planetary winds (trade winds, westerlies, polar winds), seasonal winds, local winds (land/sea breezes, valley/mountain breezes), Coriolis effect"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Winds are generated because _____.",
+      "options": [
+        "Air moves from high pressure areas to low pressure areas",
+        "The Earth rotates from west to east",
+        "The Sun heats the ocean",
+        "Mountains deflect air currents"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "In the Northern Hemisphere, winds deflect to the _____.",
+      "options": ["Right of their original direction (Coriolis effect)", "Left of their original direction", "They blow straight without deflection", "North always"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "Trade winds (Easterlies) blow from the _____.",
+      "options": [
+        "Subtropical high pressure belt towards the equatorial low pressure belt",
+        "Equatorial belt towards the poles",
+        "Sub-polar low towards the equator",
+        "Polar high towards the equator"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "Sea breeze blows from _____.",
+      "options": [
+        "Sea to land during the day (sea is cooler → higher pressure → wind blows to land)",
+        "Land to sea during the day",
+        "Sea to land at night",
+        "Always from the north"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 5
+    },
+    {
+      "id": "q5",
+      "question": "The 'Roaring Forties' are _____.",
+      "options": [
+        "Very strong westerly winds around 40°S latitude in the Southern Hemisphere",
+        "Seasonal winds of India",
+        "Polar winds near the North Pole",
+        "Trade winds near the equator"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 4
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "How Winds are Generated — Pressure Gradient",
+      "emoji": "💨",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Wind is the horizontal movement of air. Air moves from high pressure areas to low pressure areas — this movement is called wind. The greater the difference in pressure, the stronger the wind. Wind velocity (speed) is measured in knots or km/h. Wind direction is named after the direction FROM which it blows (e.g., Westerlies blow FROM the west). Earth's rotation changes the original direction of winds — this is the Coriolis effect.",
+      "pageReference": "21",
+      "examples": [
+        { "icon": "💨", "text": "Paper rolls blown by blowing air — demonstrates air moving from high to low pressure" },
+        { "icon": "🌡️", "text": "Hot land (low pressure) in summer → cool sea air (high pressure) rushes in = monsoon wind!" },
+        { "icon": "🌪️", "text": "Cyclone: air spirals into a very low pressure centre — extreme version of pressure-driven wind" }
+      ],
+      "keyPoints": [
+        "Wind = horizontal movement of air from high pressure to low pressure",
+        "Greater pressure difference = stronger wind",
+        "Wind velocity measured in knots or km/h",
+        "Wind direction named after the direction FROM which it blows",
+        "Earth's rotation (Coriolis effect) deflects wind direction"
+      ],
+      "funFact": "🌊 The word 'trade winds' comes from medieval English 'trade' meaning 'path/track' — these winds were so reliable that old sailing ships used them as predictable 'trade routes' for commerce across the Atlantic and Pacific oceans. Columbus used trade winds to reach the Americas!",
+      "textbookRef": "Page 21: Generation of Winds"
+    },
+    {
+      "id": 2,
+      "title": "Coriolis Effect — Why Winds Change Direction",
+      "emoji": "🔄",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Due to Earth's rotation (west to east), winds get deflected from their straight path. This is called the Coriolis effect (named after French scientist Gaspard-Gustave Coriolis). In the Northern Hemisphere: winds deflect to the RIGHT of their original direction. In the Southern Hemisphere: winds deflect to the LEFT. This causes winds blowing straight from high to low pressure to curve, creating the recognizable wind patterns we see on weather maps.",
+      "pageReference": "21-22",
+      "examples": [
+        { "icon": "🔄", "text": "N. Hemisphere: cyclones spin anticlockwise (air deflects right as it spirals inward)" },
+        { "icon": "🔁", "text": "S. Hemisphere: cyclones spin clockwise (air deflects left as it spirals inward)" },
+        { "icon": "💨", "text": "Trade winds in N. Hemisphere: should blow south but Coriolis deflects them to blow southwest" }
+      ],
+      "keyPoints": [
+        "Coriolis effect: Earth's rotation causes winds to deflect from straight paths",
+        "Northern Hemisphere: winds deflect to the RIGHT",
+        "Southern Hemisphere: winds deflect to the LEFT",
+        "This determines the direction of all planetary winds",
+        "Also causes cyclones to spin anticlockwise (N. Hemisphere) or clockwise (S. Hemisphere)"
+      ],
+      "funFact": "🌪️ The Coriolis effect even affects your bathroom drain! Water swirls anticlockwise in drains in the Northern Hemisphere (like India) and clockwise in the Southern Hemisphere. But this effect is so tiny for a bathtub that the shape of your drain usually dominates. The Coriolis effect really matters only at the scale of hurricanes and ocean currents!",
+      "textbookRef": "Pages 21-22: Coriolis Effect"
+    },
+    {
+      "id": 3,
+      "title": "Planetary Winds — Trade Winds, Westerlies, Polar Winds",
+      "emoji": "🌐",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Planetary winds blow throughout the year across large areas. (1) Trade Winds / Easterlies: blow from subtropical high pressure (25°–35°) to equatorial low (0°–5°). In N. Hemisphere they blow from NE; in S. Hemisphere from SE. (2) Westerlies: blow from subtropical high (25°–35°) to sub-polar low (55°–65°). In N. Hemisphere: SW to NE; in S. Hemisphere: NW to SE. (3) Polar Winds: blow from polar high (80°–90°) to sub-polar low (55°–65°). Generally blow from east to west.",
+      "pageReference": "22-23",
+      "examples": [
+        { "icon": "🌬️", "text": "Trade Winds: historically used by Columbus and Vasco da Gama for Atlantic/Indian Ocean voyages" },
+        { "icon": "🌊", "text": "Westerlies: carry warm/moist air to Western Europe — reason W Europe is warmer than its latitude suggests" },
+        { "icon": "❄️", "text": "Polar winds: very cold; bring Arctic/Antarctic air to temperate regions in winter" }
+      ],
+      "keyPoints": [
+        "Trade Winds (Easterlies): subtropical high → equatorial low; NE in N. Hemisphere, SE in S. Hemisphere",
+        "Westerlies: subtropical high → sub-polar low; SW-NE in N. Hemisphere, NW-SE in S. Hemisphere",
+        "Polar Winds: polar high → sub-polar low; generally blow east to west",
+        "All three are PLANETARY winds — blow consistently throughout the year",
+        "Coriolis effect determines the specific direction of each planetary wind"
+      ],
+      "funFact": "⛵ Portuguese explorer Vasco da Gama used the trade winds and westerlies cleverly when sailing to India in 1498 — he went far south into the Atlantic to catch the westerlies, swung east around Africa, then used the NE trade winds to reach India. His navigator's knowledge of planetary winds made the voyage possible!",
+      "textbookRef": "Pages 22-23: Planetary Winds"
+    },
+    {
+      "id": 4,
+      "title": "Roaring Forties, Furious Fifties and Screeching Sixties",
+      "emoji": "🌊",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "In the Southern Hemisphere, westerly winds blow with extraordinary force because there is almost no land mass (only oceans) to slow them down — unlike the Northern Hemisphere with its large landmasses. Around 40°S: Roaring Forties — very strong westerlies. Around 50°S: Furious Fifties — stormy winds. Around 60°S: Screeching Sixties — wind noise can be heard from miles away. These strong winds make the Southern Ocean one of the most dangerous sailing routes in the world.",
+      "pageReference": "23",
+      "examples": [
+        { "icon": "⛵", "text": "Sailors going around the world: avoid 'Roaring Forties' by staying north of them" },
+        { "icon": "🌊", "text": "Southern Ocean storms: largest waves on Earth, some over 20 metres high!" },
+        { "icon": "🌍", "text": "Cape Horn (southern tip of South America): most feared sailing route — where Furious Fifties rage" }
+      ],
+      "keyPoints": [
+        "Southern Hemisphere has vast unobstructed ocean — no land to slow westerlies",
+        "Roaring Forties (40°S): extremely strong westerly winds",
+        "Furious Fifties (50°S): stormy, life-threatening winds",
+        "Screeching Sixties (60°S): highest wind speeds — make tremendous noise",
+        "Absent in Northern Hemisphere because continents (Europe, N America) obstruct the winds"
+      ],
+      "funFact": "⛵ The Cape Horn route (around the southern tip of South America) is so feared that sailors who successfully navigate it are allowed to wear a gold earring in their left ear — a centuries-old sailor's tradition! Many ships and sailors were lost attempting it before the Panama Canal was built.",
+      "textbookRef": "Page 23: Roaring Forties, Furious Fifties, Screeching Sixties"
+    },
+    {
+      "id": 5,
+      "title": "Local Winds — Sea/Land Breezes and Valley/Mountain Breezes",
+      "emoji": "🏖️",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Local winds blow over small areas for short durations. (1) Sea Breeze: During the day, land heats faster → land = low pressure → cooler sea air blows toward land. Felt along coastlines on summer afternoons. (2) Land Breeze: At night, land cools faster → land = high pressure → cooler land air blows toward sea. (3) Valley Breeze: During the day, valley air heats up → rises → cooler mountain air flows down into valley. (4) Mountain Breeze: At night, mountain air cools quickly → denser, heavier → flows down into valley.",
+      "pageReference": "23-24",
+      "examples": [
+        { "icon": "🌅", "text": "Mumbai afternoon: refreshing sea breeze from Arabian Sea makes the city cooler than Pune" },
+        { "icon": "🌙", "text": "Coastal fishermen: sail out to sea in the morning on land breeze; return in the afternoon on sea breeze" },
+        { "icon": "🏔️", "text": "Valley breeze in Sahyadri hills: cool downhill winds in the morning are valley breezes" }
+      ],
+      "keyPoints": [
+        "Sea breeze: day — land hot (low pressure) → sea air blows to land; afternoon breeze on coasts",
+        "Land breeze: night — sea warmer (low pressure) → land air blows to sea; fishing boats use this",
+        "Valley breeze: day — valley air rises → cool mountain air flows down into valley",
+        "Mountain breeze: night — mountain cools quickly → cold air sinks down into valley",
+        "All local winds driven by pressure differences created by unequal heating/cooling"
+      ],
+      "funFact": "🌊 Mumbai's sea breeze is so reliable that the city is noticeably cooler than inland cities like Pune despite being at the same latitude. The sea breeze from the Arabian Sea starts blowing around 10 AM every day in summer — a natural air conditioner for Mumbai's millions! That's why Mumbai doesn't get as hot as Nagpur in summer.",
+      "textbookRef": "Pages 23-24: Local Winds — Sea/Land and Valley/Mountain Breezes"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "Why does air move from place to place (generating wind)?",
+      "options": [
+        "Air moves from high pressure to low pressure areas horizontally",
+        "Air is pulled by the Moon's gravity",
+        "Air moves from cold to hot areas",
+        "Air moves from mountains to plains"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Wind is generated because air flows horizontally from areas of high pressure to areas of low pressure. The greater the pressure difference, the stronger the wind.",
+      "conceptIds": [1],
+      "pageReference": "21"
+    },
+    {
+      "id": "q2",
+      "question": "In the Northern Hemisphere, the Coriolis effect deflects winds to the _____.",
+      "options": ["Right of their original direction", "Left of their original direction", "Upward", "Downward"],
+      "correctAnswer": "A",
+      "explanation": "Earth rotates west to east. This rotation causes a deflecting force (Coriolis effect) on moving air. In the Northern Hemisphere, this deflects winds to the RIGHT of their original direction. (Left in Southern Hemisphere.)",
+      "conceptIds": [2],
+      "pageReference": "21-22"
+    },
+    {
+      "id": "q3",
+      "question": "Trade winds in the Northern Hemisphere blow from _____.",
+      "options": [
+        "Northeast to southwest (from subtropical high to equatorial low, deflected right by Coriolis)",
+        "Northwest to southeast",
+        "South to north",
+        "West to east"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trade winds blow from the subtropical high pressure belt (25°–35°N) to the equatorial low pressure belt. Their original southward direction gets deflected to the right (Coriolis effect in N. Hemisphere), making them blow from northeast to southwest.",
+      "conceptIds": [3],
+      "pageReference": "22"
+    },
+    {
+      "id": "q4",
+      "question": "Why are the Roaring Forties, Furious Fifties, and Screeching Sixties NOT found in the Northern Hemisphere?",
+      "options": [
+        "Large landmasses (Europe, N America, Asia) in the Northern Hemisphere obstruct and slow down the westerly winds",
+        "Northern Hemisphere has no westerlies",
+        "Southern Hemisphere is colder so winds are stronger",
+        "Northern Hemisphere winds blow the opposite direction"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The Southern Hemisphere is dominated by ocean south of 40°S — with no large land masses to obstruct the westerlies. They build up tremendous speed unhindered. In the Northern Hemisphere, continents (Europe, North America, Asia) break up and slow these winds.",
+      "conceptIds": [4],
+      "pageReference": "23"
+    },
+    {
+      "id": "q5",
+      "question": "Sea breeze blows from sea to land during the day because _____.",
+      "options": [
+        "Land heats faster → land = low pressure → cool, dense sea air (high pressure) rushes toward land",
+        "Sea is always warmer than land",
+        "Sun heats the sea more than land",
+        "Sea is at higher elevation than land"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Land heats up faster than sea during the day (land has lower specific heat capacity). Hot land air rises → low pressure over land. Cooler sea air (higher pressure) flows toward the low pressure over land = sea breeze.",
+      "conceptIds": [5],
+      "pageReference": "23-24"
+    },
+    {
+      "id": "q6",
+      "question": "Land breeze blows from land to sea _____.",
+      "options": [
+        "At night — land cools faster, sea stays warmer; land = high pressure, sea = low pressure",
+        "During the day",
+        "During rain",
+        "In winter only"
+      ],
+      "correctAnswer": "A",
+      "explanation": "At night, land cools much faster than the sea. The cooler land creates high pressure; the relatively warmer sea creates low pressure. Wind flows from high (land) to low (sea) = land breeze at night.",
+      "conceptIds": [5],
+      "pageReference": "24"
+    },
+    {
+      "id": "q7",
+      "question": "Westerlies blow from _____.",
+      "options": [
+        "West to east — from mid-latitude high pressure (25°–35°) to sub-polar low pressure (55°–65°)",
+        "East to west",
+        "Equator to poles",
+        "Poles to equator"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Westerlies blow from the mid-latitude (subtropical) high pressure belt to the sub-polar low pressure belt. Due to the Coriolis effect, they blow from southwest to northeast in the N. Hemisphere and northwest to southeast in the S. Hemisphere — from the west overall.",
+      "conceptIds": [3],
+      "pageReference": "22"
+    },
+    {
+      "id": "q8",
+      "question": "A valley breeze occurs during the day because _____.",
+      "options": [
+        "Valley air heats up and rises; cooler mountain air flows down into the valley",
+        "Mountain air heats up faster",
+        "Cold air flows from valley up to the mountain",
+        "Valley breezes only occur at night"
+      ],
+      "correctAnswer": "A",
+      "explanation": "During the day, the valley floor heats up faster than mountain slopes. Hot valley air rises (low pressure), and cooler mountain air flows down to replace it — creating a valley breeze that blows FROM the mountain INTO the valley during daytime.",
+      "conceptIds": [5],
+      "pageReference": "23"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Wind = horizontal movement of air from high to low pressure",
+      "Coriolis effect: N. Hemisphere → deflects RIGHT; S. Hemisphere → deflects LEFT",
+      "Trade Winds: subtropical high → equatorial low (NE in N. Hemisphere, SE in S. Hemisphere)",
+      "Westerlies: subtropical high → sub-polar low (SW-NE in N. Hemisphere)",
+      "Polar winds: polar high → sub-polar low (generally east to west)",
+      "Roaring Forties (40°S), Furious Fifties (50°S), Screeching Sixties (60°S): strong S. Hemisphere westerlies",
+      "Sea breeze: day — land hot (low pressure) → sea air blows to land",
+      "Land breeze: night — land cold (high pressure) → land air blows to sea",
+      "Valley breeze (day) and Mountain breeze (night): caused by unequal heating of valley and mountain"
+    ],
+    "commonMisconceptions": [
+      "Winds are named after where they blow TO — FALSE, named after where they blow FROM (Westerlies blow FROM west)",
+      "Sea breeze blows at night — FALSE, sea breeze is a daytime phenomenon",
+      "Cyclones in N and S hemispheres spin the same way — FALSE, anticlockwise in N (Coriolis right), clockwise in S (Coriolis left)",
+      "Strong winds (Roaring Forties) are found in both hemispheres — FALSE, only in S. Hemisphere due to open ocean"
+    ],
+    "realWorldExamples": [
+      "Mumbai sea breeze: arrives ~10 AM daily in summer, cools the city",
+      "Kerala fishermen: use land breeze at dawn to sail out, sea breeze to return in afternoon",
+      "Trade winds: Columbus used them to cross the Atlantic to reach the Americas in 1492",
+      "Vasco da Gama used westerlies and trade winds to navigate to India in 1498",
+      "India's Southwest Monsoon: seasonal version of trade winds, reversed in summer"
+    ],
+    "formulas": [
+      { "formula": "Wind direction: FROM high pressure TO low pressure", "explanation": "All winds move from high pressure zones to low pressure zones" },
+      { "formula": "N. Hemisphere: original direction deflects RIGHT (Coriolis)", "explanation": "Earth's west-to-east rotation deflects winds right in N. Hemisphere" }
+    ]
+  }
+}

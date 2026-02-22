@@ -1,0 +1,297 @@
+{
+  "metadata": {
+    "chapterNumber": 3,
+    "title": "Tides",
+    "subject": "Geography",
+    "pages": "9-15",
+    "description": "High and low tides, gravitational and centrifugal forces, spring tides, neap tides, tidal range, uses of tides"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Tides are _____.",
+      "options": ["Regular rise and fall of sea water level occurring daily", "Ocean storms", "Ocean currents", "Underwater earthquakes"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "How often does a complete cycle of high tide and low tide get completed?",
+      "options": ["Every 12 hours and 25 minutes", "Every 24 hours", "Every 6 hours", "Every 7 days"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "Spring tides occur on _____.",
+      "options": ["New Moon and Full Moon days", "First and Third Quarter Moon days", "Only in spring season", "Any day when it rains"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "q4",
+      "question": "Neap tides occur when _____.",
+      "options": ["Moon is at 90° to Sun-Earth line (Quarter Moon days)", "Sun, Moon and Earth are aligned", "Moon is at perigee", "It is the rainy season"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 4
+    },
+    {
+      "id": "q5",
+      "question": "The highest tidal range in India is found at _____.",
+      "options": ["Gulf of Khambhat (~1100 cm)", "Mumbai harbour", "Goa beaches", "Andaman Islands"],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 5
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "What are Tides?",
+      "emoji": "🌊",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Tides are the regular, daily rise and fall of sea water level along coastlines. High tide is when the water level rises to its maximum; low tide is when it falls to its minimum. After every 12 hours and 25 minutes, one complete cycle of high tide and low tide gets completed. Tides are caused by the gravitational pull of the Moon and Sun, the revolution of the Earth around the Sun, and the centrifugal force from Earth's rotation.",
+      "pageReference": "9",
+      "examples": [
+        { "icon": "🏖️", "text": "Mumbai's Juhu beach: area of sand visible at low tide is much larger than at high tide" },
+        { "icon": "⏰", "text": "Mumbai high tides: if high tide is at 6 AM today, next high tide is approximately 6:25 PM" },
+        { "icon": "🐠", "text": "Fishermen in Goa check tide tables before going to sea — high tide helps boats float" }
+      ],
+      "keyPoints": [
+        "Tides = regular, daily rise and fall of sea water level",
+        "High tide: maximum water level; Low tide: minimum water level",
+        "One complete tide cycle = 12 hours 25 minutes",
+        "Caused by: Moon's gravity + Sun's gravity + centrifugal force of Earth's rotation",
+        "Moon's gravitational pull is more effective (closer to Earth than Sun)"
+      ],
+      "funFact": "🌊 The Moon's gravitational pull on Earth is so strong that it also causes 'earth tides' — the solid land surface rises and falls by up to 30 cm every day! We can't feel it but sensitive instruments can detect it.",
+      "textbookRef": "Page 9: What are Tides"
+    },
+    {
+      "id": 2,
+      "title": "Gravitational and Centrifugal Forces",
+      "emoji": "⚖️",
+      "colorTheme": "from-purple-400 to-pink-500",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Two opposing forces create tides: Gravitational force pulls objects towards a centre. Centrifugal force pushes objects away from a centre. Earth's rotation creates centrifugal force. This force would throw objects off Earth, but Earth's much stronger gravity keeps everything in place. For tides: the Moon's gravity pulls the ocean water on the side facing the Moon (creating a bulge = high tide). At the same time, the centrifugal force creates another bulge on the opposite side of Earth. This is why there are two high tides and two low tides every day.",
+      "pageReference": "9-10",
+      "examples": [
+        { "icon": "🎡", "text": "Ferris wheel: your seat leans outward at the top — that's centrifugal force!" },
+        { "icon": "⛓️", "text": "Keyring whirled around finger: the ring flies outward = centrifugal force" },
+        { "icon": "🌍", "text": "Two high tides daily: one on Moon-side (gravity), one on opposite side (centrifugal force)" }
+      ],
+      "keyPoints": [
+        "Gravitational force: pulls towards centre (Moon pulls Earth's water toward it)",
+        "Centrifugal force: pushes away from centre (Earth's rotation pushes water outward)",
+        "Two high tide bulges: one towards Moon (gravity), one away from Moon (centrifugal)",
+        "The two high tide bulges result in 2 high tides and 2 low tides daily",
+        "Moon is closer than Sun — Moon's gravity more effective for tides"
+      ],
+      "funFact": "🎢 Centrifugal force is why water bulges outward when you spin a glass of water. At Earth's equator, the centrifugal force from Earth's rotation makes you slightly lighter than at the poles — you actually weigh very slightly less at the equator!",
+      "textbookRef": "Pages 9-10: Centrifugal and Gravitational Forces"
+    },
+    {
+      "id": 3,
+      "title": "Spring Tides — Highest High Tides",
+      "emoji": "🌕",
+      "colorTheme": "from-green-400 to-emerald-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Spring tides are the highest high tides. They occur on New Moon and Full Moon days when the Sun, Moon and Earth are aligned. On these days, the gravitational pulls of both the Sun and Moon act in the same direction, increasing the total gravitational pull. This creates exceptionally high high-tides and very low low-tides. Spring tides have nothing to do with the spring season — 'spring' here means 'to leap' (water leaps higher than usual).",
+      "pageReference": "11",
+      "examples": [
+        { "icon": "🌑", "text": "New Moon (Amavasya): Sun-Moon-Earth aligned → combined gravity → very high tide" },
+        { "icon": "🌕", "text": "Full Moon (Pournima): Sun-Earth-Moon aligned → combined gravity → very high tide" },
+        { "icon": "⚠️", "text": "Mumbai: flooding risk during spring tide + monsoon combined — Mumbai floods in July!" }
+      ],
+      "keyPoints": [
+        "Spring tides occur on New Moon and Full Moon days",
+        "Sun and Moon's gravity act in the SAME direction — total pull increases",
+        "Result: exceptionally HIGH high-tides and very LOW low-tides",
+        "Nothing to do with spring season — 'spring' means 'leap' (water leaps higher)",
+        "Coastal flooding risk is highest during spring tides"
+      ],
+      "funFact": "🌊 Mumbai's famous flooding is partly due to spring tides! When the July monsoon rains coincide with spring tides on Full Moon or New Moon day, the sea water cannot drain back into the ocean — causing severe waterlogging. The 26 July 2005 Mumbai flood was worsened by a spring tide.",
+      "textbookRef": "Page 11: Spring Tides"
+    },
+    {
+      "id": 4,
+      "title": "Neap Tides — Lowest High Tides",
+      "emoji": "🌓",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Neap tides are the lowest high tides. They occur on the First Quarter and Third Quarter Moon days when the Moon is at 90° to the Sun-Earth line. On these days, the Sun and Moon's gravitational forces act at right angles to each other — they partially cancel each other out. The result: lower than usual high tides and higher than usual low tides. The tidal range (difference between high and low tide) is smallest during neap tides.",
+      "pageReference": "11-12",
+      "examples": [
+        { "icon": "🌓", "text": "First Quarter Moon: Moon at 90° to Sun-Earth line → forces at right angles → smaller tide" },
+        { "icon": "🌗", "text": "Third Quarter Moon: same 90° position on the other side → neap tide again" },
+        { "icon": "⚖️", "text": "Neap tide: high tide is lower than average, low tide is higher than average" }
+      ],
+      "keyPoints": [
+        "Neap tides occur on First Quarter and Third Quarter Moon days",
+        "Moon at 90° to Sun-Earth line — gravity forces at RIGHT ANGLES",
+        "Forces partially cancel — result: below-average high tides and above-average low tides",
+        "Tidal range (high-low difference) is smallest during neap tides",
+        "From Old English 'nep' meaning 'scanty/scarce' — scarce water rise"
+      ],
+      "funFact": "⚓ Neap tides are the safest time for large ships to enter shallow ports — the low tide isn't as dangerously low, reducing the risk of grounding. Port authorities schedule large ship movements around tide tables!",
+      "textbookRef": "Pages 11-12: Neap Tides"
+    },
+    {
+      "id": 5,
+      "title": "Tidal Range and Uses of Tides",
+      "emoji": "📏",
+      "colorTheme": "from-indigo-400 to-purple-500",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Tidal range = difference in water level between high tide and low tide. In open seas: ~30 cm. Along Indian coasts: 100-150 cm. Highest in world: Bay of Fundy, North America: ~1600 cm. Highest in India: Gulf of Khambhat: ~1100 cm. Uses of tides: cleans coasts, keeps ports free of sediment, ships can enter ports at high tide, salt production from tide-filled salt pans, tidal energy generation, supports mangroves and coastal biodiversity.",
+      "pageReference": "12-15",
+      "examples": [
+        { "icon": "🧂", "text": "Salt pans along Gujarat coast fill with seawater at high tide — salt harvested as water evaporates" },
+        { "icon": "⚡", "text": "Tidal power plants convert tidal energy into electricity — La Rance, France produces 240 MW" },
+        { "icon": "🌿", "text": "Mangroves in Mumbai (Bandra, Versova) survive because tides bring nutrients and clear waste" }
+      ],
+      "keyPoints": [
+        "Tidal range = height difference between high and low tide",
+        "World's highest tidal range: Bay of Fundy, Canada (~1600 cm)",
+        "India's highest tidal range: Gulf of Khambhat, Gujarat (~1100 cm)",
+        "Uses: coastal cleaning, port maintenance, ship navigation, salt production, tidal energy, biodiversity support",
+        "Timings of tides change daily — advance by ~25 minutes each day"
+      ],
+      "funFact": "⚡ France's La Rance tidal power plant has been generating clean electricity since 1966 — it captures energy from tides twice a day. India's Gulf of Khambhat has one of the world's highest tidal ranges, making it ideal for tidal energy — a clean energy resource waiting to be fully developed!",
+      "textbookRef": "Pages 12-15: Tidal Range and Uses"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "How long does one complete cycle of high tide and low tide take?",
+      "options": ["12 hours 25 minutes", "24 hours", "6 hours", "7 days"],
+      "correctAnswer": "A",
+      "explanation": "A complete cycle of one high tide and one low tide takes 12 hours 25 minutes. Since there are two cycles per day, tides occur approximately every 6 hours 12 minutes — but the timing shifts 25 minutes later each day.",
+      "conceptIds": [1],
+      "pageReference": "9"
+    },
+    {
+      "id": "q2",
+      "question": "The main force responsible for creating the high tide bulge on the side facing the Moon is _____.",
+      "options": ["Moon's gravitational force", "Centrifugal force", "Earth's rotation", "Sun's heat"],
+      "correctAnswer": "A",
+      "explanation": "The Moon's gravitational force directly pulls the ocean water on the side of Earth facing the Moon, creating a bulge. On the opposite side, centrifugal force creates another bulge.",
+      "conceptIds": [2],
+      "pageReference": "10"
+    },
+    {
+      "id": "q3",
+      "question": "Why are there TWO high tides per day on opposite sides of Earth?",
+      "options": [
+        "Moon's gravity creates a bulge on the Moon-facing side; centrifugal force creates a bulge on the opposite side",
+        "The Moon is so large it affects both sides equally",
+        "The Sun creates the second high tide",
+        "Earth's rotation creates two waves"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Two forces create two bulges: Moon's gravity pulls water toward the Moon (one high tide), and the centrifugal force from Earth's rotation pushes water away on the opposite side (second high tide simultaneously).",
+      "conceptIds": [2],
+      "pageReference": "10"
+    },
+    {
+      "id": "q4",
+      "question": "Spring tides are HIGHER than usual because _____.",
+      "options": [
+        "On New/Full Moon days, Sun and Moon's gravity act in the same direction — combined pull is greater",
+        "They occur only in spring season when seas are warmer",
+        "The Moon is at perigee",
+        "Strong winds push the water up"
+      ],
+      "correctAnswer": "A",
+      "explanation": "On New Moon and Full Moon days, the Sun, Earth, and Moon are aligned. Both the Sun's and Moon's gravitational forces act in the same direction, creating a greater combined pull — resulting in higher than usual high tides (spring tides).",
+      "conceptIds": [3],
+      "pageReference": "11"
+    },
+    {
+      "id": "q5",
+      "question": "Neap tides occur when _____.",
+      "options": [
+        "Moon is at 90° to the Sun-Earth line (First and Third Quarter days) — forces partially cancel",
+        "Moon is at perigee",
+        "It is the spring season",
+        "Moon and Sun are aligned"
+      ],
+      "correctAnswer": "A",
+      "explanation": "On Quarter Moon days, the Moon is at 90° to the Sun-Earth line. The Sun's and Moon's gravitational forces act at right angles — they partially cancel each other, resulting in smaller tidal range (neap tides).",
+      "conceptIds": [4],
+      "pageReference": "11-12"
+    },
+    {
+      "id": "q6",
+      "question": "The world's highest tidal range (~1600 cm) is found at _____.",
+      "options": ["Bay of Fundy, Canada", "Gulf of Khambhat, India", "Gulf of Mexico", "Mumbai, India"],
+      "correctAnswer": "A",
+      "explanation": "The highest tidal range in the world (~1600 cm = 16 metres!) is at the Bay of Fundy on the Atlantic coast of Canada/USA. India's highest is Gulf of Khambhat, Gujarat (~1100 cm).",
+      "conceptIds": [5],
+      "pageReference": "12"
+    },
+    {
+      "id": "q7",
+      "question": "Which of these is a use of tides?",
+      "options": [
+        "All of these: salt production, tidal energy, ship navigation, coastal cleaning",
+        "Only salt production",
+        "Only ship navigation",
+        "Only coastal cleaning"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tides have many uses: salt production (water fills salt pans at high tide), tidal energy generation, ships enter shallow ports at high tide, tides clean coastlines and keep ports free of sediment, and they support coastal ecosystems (mangroves).",
+      "conceptIds": [5],
+      "pageReference": "12"
+    },
+    {
+      "id": "q8",
+      "question": "The centrifugal force involved in tides acts _____.",
+      "options": ["Away from the centre (opposite to gravitational force)", "Towards the centre", "Sideways", "Only at the poles"],
+      "correctAnswer": "A",
+      "explanation": "Centrifugal force acts away from the centre of rotation — in the direction opposite to gravitational force. It's this outward push (from Earth's rotation) that creates the high tide bulge on the side of Earth opposite to the Moon.",
+      "conceptIds": [2],
+      "pageReference": "10"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Tides: regular, daily rise and fall of sea water level",
+      "One complete tide cycle = 12 hours 25 minutes",
+      "Caused by: Moon's gravity + Sun's gravity + centrifugal force from Earth's rotation",
+      "Two high tides daily: Moon-side (Moon's gravity) + opposite side (centrifugal force)",
+      "Spring tides: New/Full Moon days — Sun and Moon gravity aligned — highest high tides",
+      "Neap tides: Quarter Moon days — forces at 90° — lowest high tides",
+      "Tidal range: difference between high and low tide water level",
+      "World's highest tidal range: Bay of Fundy, Canada (~1600 cm)",
+      "India's highest tidal range: Gulf of Khambhat (~1100 cm)"
+    ],
+    "commonMisconceptions": [
+      "Spring tides happen in spring season — FALSE, 'spring' means to leap, they happen on New/Full Moon days",
+      "There is only one high tide per day — FALSE, there are two (12 hrs 25 min apart)",
+      "Tides are caused only by the Moon — FALSE, both Sun and Moon contribute; centrifugal force also involved",
+      "Tidal range is the same everywhere — FALSE, varies from 30 cm in open sea to 1600 cm in Bay of Fundy"
+    ],
+    "realWorldExamples": [
+      "Mumbai July flooding: monsoon rains + spring tide (Full Moon day) = severe waterlogging",
+      "Goa fishing: fishermen plan sea trips around tide tables",
+      "Gujarat salt industry: uses tidal inflow into salt pans — major part of India's salt production",
+      "Versova/Bandra mangroves, Mumbai: thrive because tides bring nutrients twice daily",
+      "Gulf of Khambhat: proposed site for India's tidal energy power project"
+    ],
+    "formulas": [
+      { "formula": "Tidal range = High tide level − Low tide level", "explanation": "Measure of the difference in water height between high and low tide" },
+      { "formula": "Tide cycle = 12 hours 25 minutes", "explanation": "Time for one complete high-tide to low-tide to high-tide cycle" }
+    ]
+  }
+}
