@@ -1,18 +1,48 @@
 version: '3.8'
 
 services:
-  postgres:
-    image: postgres:16-alpine
-    container_name: ai-tutor-db
+  app:
+    container_name: h-arya-app
+    build:
+      context: .
+      dockerfile: Dockerfile
     restart: unless-stopped
-    environment:
-      POSTGRES_USER: aitutor
-      POSTGRES_PASSWORD: aitutor_dev_pass
-      POSTGRES_DB: aitutor
     ports:
-      - '5433:5432'
+      - "127.0.0.1:3000:3000"
+    environment:
+      - DATABASE_URL=postgresql://postgres:${POSTGRES_PASSWORD}@db:5432/h_arya?schema=public
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - ELEVEN_LABS_KEY=${ELEVEN_LABS_KEY}
+      - OPENAI_KEY=${OPENAI_KEY}
+      - NEXTAUTH_SECRET=${NEXTAUTH_SECRET}
+      - NEXTAUTH_URL=https://h-arya.duckdns.org
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - h-arya-net
+
+  db:
+    container_name: h-arya-db
+    image: postgres:15-alpine
+    restart: unless-stopped
     volumes:
       - postgres_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=h_arya
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - h-arya-net
+
+networks:
+  h-arya-net:
+    driver: bridge
 
 volumes:
   postgres_data:

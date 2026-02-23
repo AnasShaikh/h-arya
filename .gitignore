@@ -49,3 +49,5 @@ database.db-wal
 *.db-wal
 
 /lib/generated/prisma
+.env
+prisma/.env

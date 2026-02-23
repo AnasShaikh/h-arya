@@ -1,0 +1,3 @@
+h-arya.duckdns.org {
+    reverse_proxy localhost:3000
+}
