@@ -253,7 +253,7 @@ export default function ChatSession() {
       <header className="bg-white shadow-sm p-4">
         <div className="max-w-4xl mx-auto flex justify-between items-center">
           <div>
-            <h1 className="text-xl font-bold text-gray-900">Chat with AI Tutor</h1>
+            <h1 className="text-xl font-bold text-gray-900">Chat with H-Arya</h1>
             <p className="text-sm text-gray-700">Stage 3 of 5 • {chapterName || 'Loading...'}</p>
           </div>
           <div className="flex items-center gap-3">
@@ -308,7 +308,7 @@ export default function ChatSession() {
                 {message.role === 'assistant' && (
                   <div className="flex items-center mb-2">
                     <span className="text-2xl mr-2">🤖</span>
-                    <span className="font-semibold text-indigo-600">AI Tutor</span>
+                    <span className="font-semibold text-indigo-600">H-Arya</span>
                   </div>
                 )}
                 <p className="whitespace-pre-wrap">{message.content}</p>

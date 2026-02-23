@@ -13,7 +13,7 @@ export default function Home() {
               <span className="text-4xl">🎓</span>
             </div>
             <h1 className="text-3xl font-bold text-gray-900 mb-2">
-              AI Tutor
+              H-Arya
             </h1>
             <p className="text-gray-800 mb-4">
               Your personal learning companion for 7th Grade Maharashtra Board

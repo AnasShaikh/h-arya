@@ -87,7 +87,7 @@ export default function Register() {
               Create Account
             </h1>
             <p className="text-gray-800">
-              Join AI Tutor and start learning!
+              Join H-Arya and start learning!
             </p>
           </div>
 

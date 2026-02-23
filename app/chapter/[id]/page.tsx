@@ -144,7 +144,7 @@ export default function ChapterPage() {
             </Link>
             <div className="flex items-center">
               <span className="text-2xl mr-2">🎓</span>
-              <h1 className="text-xl font-bold text-gray-900">AI Tutor</h1>
+              <h1 className="text-xl font-bold text-gray-900">H-Arya</h1>
             </div>
           </div>
         </div>

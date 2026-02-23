@@ -86,7 +86,7 @@ export default function Dashboard() {
           <div className="flex justify-between items-center">
             <div className="flex items-center">
               <span className="text-2xl mr-2">🎓</span>
-              <h1 className="text-2xl font-bold text-gray-900">AI Tutor</h1>
+              <h1 className="text-2xl font-bold text-gray-900">H-Arya</h1>
             </div>
             <div className="flex items-center space-x-4">
               <span className="text-gray-800">Welcome, {userName}!</span>
