@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 4,
+    "title": "Nutrition in Living Organisms",
+    "subject": "Science",
+    "pages": "26-33",
+    "description": "Autotrophic and Heterotrophic nutrition, Photosynthesis, and nutrition in animals."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "The process of taking in and using food is called:",
+      "options": ["Digestion", "Respiration", "Nutrition", "Excretion"],
+      "correctAnswer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "Which of these are macro-nutrients?",
+      "options": ["Vitamins and Minerals", "Carbohydrates, Proteins, and Fats", "Water and Fiber", "Chlorophyll and Sunlight"],
+      "correctAnswer": "B",
+      "difficulty": "medium"
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Nutrition and its Needs",
+      "emoji": "🥗",
+      "colorTheme": "from-green-400 to-green-600",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Nutrition is the process of taking in and using food for energy, growth, and health. Nutrients are classified into macro-nutrients (required in large quantities like carbohydrates, proteins, fats) and micro-nutrients (required in small quantities like minerals, vitamins).",
+      "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=1000",
+      "pageReference": "26",
+      "examples": [
+        { "icon": "⚡", "text": "Energy for doing work" },
+        { "icon": "📈", "text": "Growth and development" },
+        { "icon": "🛠️", "text": "Repairing damaged cells" }
+      ],
+      "keyPoints": [
+        "Macro-nutrients: Carbohydrates, Proteins, Fats",
+        "Micro-nutrients: Minerals, Vitamins",
+        "Nutrition helps to fight diseases"
+      ],
+      "funFact": "The process of nutrition is continuous in all living organisms to maintain life processes!",
+      "textbookRef": "Page 26: Nutrition"
+    },
+    {
+      "id": 2,
+      "title": "Autotrophic Plants & Photosynthesis",
+      "emoji": "☀️",
+      "colorTheme": "from-yellow-400 to-green-500",
+      "bgColor": "bg-yellow-50",
+      "borderColor": "border-yellow-300",
+      "content": "Plants produce their own food using sunlight, chlorophyll, carbon dioxide from air, and water/minerals from soil. This process is called photosynthesis. The chemical equation is: 6 CO2 + 6 H2O + Sunlight -> C6H12O6 + 6 O2.",
+      "imageUrl": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&q=80&w=1000",
+      "videoUrl": "https://www.youtube.com/embed/UPBMG5EYydo",
+      "pageReference": "26-27",
+      "examples": [
+        { "icon": "🌿", "text": "Chlorophyll in leaves" },
+        { "icon": "💧", "text": "Water from roots" },
+        { "icon": "🌬️", "text": "CO2 from air" }
+      ],
+      "keyPoints": [
+        "Light energy is converted into chemical energy",
+        "Oxygen is released as a byproduct",
+        "Phloem transports food to other parts of the plant"
+      ],
+      "funFact": "While most plants are green due to chlorophyll, some have other pigments but still carry out photosynthesis!",
+      "textbookRef": "Page 26: Photosynthesis"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Which pigment is necessary for photosynthesis?",
+      "options": ["Hemoglobin", "Chlorophyll", "Melanin", "Xanthophyll"],
+      "correctAnswer": "B",
+      "difficulty": "easy"
+    }
+  ]
+}

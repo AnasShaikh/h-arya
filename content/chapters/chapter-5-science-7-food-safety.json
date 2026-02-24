@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 5,
+    "title": "Food Safety",
+    "subject": "Science",
+    "pages": "34-40",
+    "description": "Food spoilage, preservation methods, and preventing wastage."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Which of these is a factor causing food spoilage?",
+      "options": ["Proper storage", "Improper handling", "Washing vegetables", "Fresh air"],
+      "correctAnswer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "The method of heating milk to 80°C and cooling it quickly is:",
+      "options": ["Freezing", "Irradiation", "Pasteurization", "Smoking"],
+      "correctAnswer": "C",
+      "difficulty": "medium"
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Food Spoilage Factors",
+      "emoji": "🍌",
+      "colorTheme": "from-red-400 to-orange-500",
+      "bgColor": "bg-red-50",
+      "borderColor": "border-red-300",
+      "content": "Food materials can be spoiled by wrong handling, over-cooking, or improper storage in damp places. Qualitative wastage of food occurs due to wrong protection methods or excessive use of preservatives. Food is considered spoiled if there is a change in its color, odor, texture, or taste.",
+      "imageUrl": "https://images.unsplash.com/photo-1611080626919-7cf5a9caab53?auto=format&fit=crop&q=80&w=1000",
+      "pageReference": "34-36",
+      "examples": [
+        { "icon": "🛒", "text": "Over-buying beyond need" },
+        { "icon": "🚿", "text": "Washing vegetables after cutting" },
+        { "icon": "📦", "text": "Damp storage conditions" }
+      ],
+      "keyPoints": [
+        "16th October is World Food Day",
+        "Standardization is controlled by FSSAI",
+        "Avoid throwing away leftovers"
+      ],
+      "funFact": "The Food Safety and Standards Authority of India (FSSAI) was established under the Act of 2006 to ensure safe food for all!",
+      "textbookRef": "Page 34: Factors responsible for food spoilage"
+    },
+    {
+      "id": 2,
+      "title": "Food Preservation Methods",
+      "emoji": "🧊",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Various methods prevent microbial growth: Freezing (slows reactions), Smoking (uses aluminum phosphide), Irradiation (uses ionizing radiation), and Pasteurization (heating and rapid cooling). Nitrogen gas is often used in air-tight packets to prevent fungus.",
+      "imageUrl": "https://images.unsplash.com/photo-1584263343327-a452061f1816?auto=format&fit=crop&q=80&w=1000",
+      "videoUrl": "https://www.youtube.com/embed/n_vJ5Iu0X0c",
+      "pageReference": "37",
+      "examples": [
+        { "icon": "❄️", "text": "Refrigerators slow down spoilage" },
+        { "icon": "💨", "text": "Smoking for long-term storage" },
+        { "icon": "🧂", "text": "Natural preservatives: Salt, sugar, oil" }
+      ],
+      "keyPoints": [
+        "Louis Pasteur developed the pasteurization technique",
+        "Vinegar and Citric Acid are chemical preservatives",
+        "Irradiation plants are located at Lasalgaon and Navi Mumbai"
+      ],
+      "funFact": "Nitrogen gas in your potato chip packet isn't just 'air'—it prevents the chips from becoming rancid and keeps them crispy!",
+      "textbookRef": "Page 37: Methods of Food Protection"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Which gas is used in air-tight packets of potato wafers?",
+      "options": ["Oxygen", "Nitrogen", "Hydrogen", "Argon"],
+      "correctAnswer": "B",
+      "difficulty": "medium"
+    }
+  ]
+}

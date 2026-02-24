@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 6,
+    "title": "Measurement of Physical Quantities",
+    "subject": "Science",
+    "pages": "41-45",
+    "description": "Mass, Weight, Scalars, Vectors, and the International System of Units."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "A quantity expressed by magnitude alone is called:",
+      "options": ["Scalar", "Vector", "Distance", "Weight"],
+      "correctAnswer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "The SI unit of mass is:",
+      "options": ["Gram", "Kilogram", "Newton", "Pound"],
+      "correctAnswer": "B",
+      "difficulty": "medium"
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Mass and Weight",
+      "emoji": "⚖️",
+      "colorTheme": "from-indigo-500 to-blue-600",
+      "bgColor": "bg-indigo-50",
+      "borderColor": "border-indigo-300",
+      "content": "Mass is the amount of matter in a substance; it is a scalar quantity and remains constant everywhere. Weight is the gravitational force by which the earth attracts an object; it is a vector quantity and changes depending on location (e.g., poles vs. equator).",
+      "imageUrl": "https://images.unsplash.com/photo-1594473859544-706f85108f97?auto=format&fit=crop&q=80&w=1000",
+      "pageReference": "41",
+      "examples": [
+        { "icon": "📦", "text": "Measuring grains in kg (Mass)" },
+        { "icon": "🛰️", "text": "Weight decreasing at high altitude" },
+        { "icon": "📉", "text": "Weight is minimum at the equator" }
+      ],
+      "keyPoints": [
+        "Inertia is directly proportional to mass",
+        "Gravitational force acts on mass to create weight",
+        "Weight is measured in Newtons (N)"
+      ],
+      "funFact": "The gravitational force on the moon is 1/6th of that on earth, so your weight on the moon would be significantly less, but your mass stays exactly the same!",
+      "textbookRef": "Page 41: Mass and Weight"
+    },
+    {
+      "id": 2,
+      "title": "Scalar and Vector Quantities",
+      "emoji": "📏",
+      "colorTheme": "from-teal-400 to-green-500",
+      "bgColor": "bg-teal-50",
+      "borderColor": "border-teal-300",
+      "content": "Scalar quantities only have magnitude (e.g., length, area, temperature). Vector quantities have both magnitude and direction (e.g., displacement, velocity, force). The International System of Units (SI) is based on seven fundamental quantities.",
+      "imageUrl": "https://images.unsplash.com/photo-1502945015378-0e28404a5da4?auto=format&fit=crop&q=80&w=1000",
+      "videoUrl": "https://www.youtube.com/embed/fW_0N_S7bLw",
+      "pageReference": "41-42",
+      "examples": [
+        { "icon": "🧭", "text": "Displacement: 20 km North" },
+        { "icon": "🌡️", "text": "Temperature: 101° Fahrenheit" },
+        { "icon": "🕒", "text": "Time: 2 hours (Scalar)" }
+      ],
+      "keyPoints": [
+        "SI units are used worldwide",
+        "Length (Metre), Time (Second), Mass (Kilogram) are fundamental",
+        "Accuracy in measurement is vital for science"
+      ],
+      "funFact": "In 1799, the first standard meter and kilogram were created in France, made of platinum, to ensure measurements were identical across the country!",
+      "textbookRef": "Page 41: Physical Quantities"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Which of these is a vector quantity?",
+      "options": ["Mass", "Velocity", "Temperature", "Density"],
+      "correctAnswer": "B",
+      "difficulty": "medium"
+    }
+  ]
+}
