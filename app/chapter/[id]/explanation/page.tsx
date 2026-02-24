@@ -22,6 +22,8 @@ interface Concept {
   keyPoints: string[];
   funFact: string;
   textbookRef: string;
+  imageUrl?: string;
+  videoUrl?: string;
 }
 
 // Learning mode types
@@ -457,6 +459,28 @@ export default function Explanation() {
                   <p className="text-gray-900 leading-relaxed text-base">
                     {concept.content}
                   </p>
+                  
+                  {concept.imageUrl && (
+                    <div className="mt-6 rounded-xl overflow-hidden border-2 border-indigo-100 shadow-sm">
+                      <img 
+                        src={concept.imageUrl} 
+                        alt={concept.title}
+                        className="w-full h-auto object-cover max-h-[400px]"
+                      />
+                    </div>
+                  )}
+
+                  {concept.videoUrl && (
+                    <div className="mt-6 rounded-xl overflow-hidden border-2 border-indigo-100 shadow-sm aspect-video">
+                      <iframe
+                        src={concept.videoUrl}
+                        className="w-full h-full"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                      ></iframe>
+                    </div>
+                  )}
+
                   <p className="text-sm text-gray-600 mt-3 italic">
                     Reference: {concept.textbookRef}
                   </p>
