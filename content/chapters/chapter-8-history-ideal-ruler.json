@@ -10,12 +10,12 @@
     {
       "id": "pre_8_1",
       "question": "What was Shivaji's attitude toward other religions like Islam and Christianity?",
-      "options": {
-        "A": "He demolished mosques and churches",
-        "B": "He forced conversions to Hinduism",
-        "C": "He protected mosques and churches and respected all religions equally",
-        "D": "He banned all non-Hindu religious practices"
-      },
+      "options": [
+        "He demolished mosques and churches",
+        "He forced conversions to Hinduism",
+        "He protected mosques and churches and respected all religions equally",
+        "He banned all non-Hindu religious practices"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_8_1"
@@ -23,12 +23,12 @@
     {
       "id": "pre_8_2",
       "question": "What title means 'a king who is also a saint' — often given to Shivaji?",
-      "options": {
-        "A": "Chhatrapati",
-        "B": "Rajarshi",
-        "C": "Maharaja",
-        "D": "Samrat"
-      },
+      "options": [
+        "Chhatrapati",
+        "Rajarshi",
+        "Maharaja",
+        "Samrat"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_8_5"
@@ -36,12 +36,12 @@
     {
       "id": "pre_8_3",
       "question": "When Shivaji's soldiers brought the daughter-in-law of the Muslim governor of Kalyan as a prize, what did Shivaji do?",
-      "options": {
-        "A": "He accepted her as a prize of war",
-        "B": "He punished the soldiers and treated her with full respect, sending her back safely",
-        "C": "He added her to his court",
-        "D": "He exchanged her for a fort"
-      },
+      "options": [
+        "He accepted her as a prize of war",
+        "He punished the soldiers and treated her with full respect, sending her back safely",
+        "He added her to his court",
+        "He exchanged her for a fort"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_8_2"
@@ -49,12 +49,12 @@
     {
       "id": "pre_8_4",
       "question": "Shivaji's personal orders (aadnyapatra) showed his care for subjects by:",
-      "options": {
-        "A": "Increasing taxes in enemy territories",
-        "B": "Banning trade with Europeans",
-        "C": "Protecting trees, wells, and travelers — attending to everyday needs of people",
-        "D": "Ordering compulsory military service for all men"
-      },
+      "options": [
+        "Increasing taxes in enemy territories",
+        "Banning trade with Europeans",
+        "Protecting trees, wells, and travelers — attending to everyday needs of people",
+        "Ordering compulsory military service for all men"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_8_4"
@@ -62,12 +62,12 @@
     {
       "id": "pre_8_5",
       "question": "Which European company's records praised Shivaji's discipline and fairness during the sack of Surat?",
-      "options": {
-        "A": "Portuguese traders",
-        "B": "French East India Company",
-        "C": "English East India Company",
-        "D": "Dutch traders"
-      },
+      "options": [
+        "Portuguese traders",
+        "French East India Company",
+        "English East India Company",
+        "Dutch traders"
+      ],
       "correctAnswer": "C",
       "difficulty": "hard",
       "conceptId": "concept_8_5"
@@ -199,12 +199,12 @@
     {
       "id": "test_8_1",
       "question": "What was Shivaji's response when soldiers brought the Muslim governor's daughter-in-law from Kalyan as a war prize?",
-      "options": {
-        "A": "He accepted her as a prize of war",
-        "B": "He punished the soldiers and returned her home with respect and gifts",
-        "C": "He exchanged her for captured forts",
-        "D": "He converted her to Hinduism"
-      },
+      "options": [
+        "He accepted her as a prize of war",
+        "He punished the soldiers and returned her home with respect and gifts",
+        "He exchanged her for captured forts",
+        "He converted her to Hinduism"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "Shivaji reprimanded the soldiers who brought the woman before him, treated her with complete dignity, said she was like a mother to him, provided her with gifts, and sent her back safely to her home. This legendary episode showed his absolute respect for women."
@@ -212,12 +212,12 @@
     {
       "id": "test_8_2",
       "question": "What does the title 'Rajarshi' mean?",
-      "options": {
-        "A": "King of Kings",
-        "B": "Great Warrior",
-        "C": "A king who has the qualities of a saint",
-        "D": "Protector of the realm"
-      },
+      "options": [
+        "King of Kings",
+        "Great Warrior",
+        "A king who has the qualities of a saint",
+        "Protector of the realm"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Rajarshi combines 'Raja' (king) and 'Rishi' (sage/saint) — meaning a king with saintly virtues. Shivaji earned this title for his combination of military genius and extraordinary moral character."
@@ -225,12 +225,12 @@
     {
       "id": "test_8_3",
       "question": "Which statement best describes Shivaji's attitude toward Muslim places of worship?",
-      "options": {
-        "A": "He demolished all mosques in captured territories",
-        "B": "He ignored mosques — neither protecting nor harming them",
-        "C": "He issued written orders specifically protecting mosques and Sufi shrines",
-        "D": "He converted mosques into temples"
-      },
+      "options": [
+        "He demolished all mosques in captured territories",
+        "He ignored mosques — neither protecting nor harming them",
+        "He issued written orders specifically protecting mosques and Sufi shrines",
+        "He converted mosques into temples"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "Shivaji issued specific aadnyapatra (royal orders) protecting mosques and Muslim holy sites from being damaged during military campaigns. Soldiers who violated these orders were punished. He had Muslim officers in his own army."
@@ -238,12 +238,12 @@
     {
       "id": "test_8_4",
       "question": "What happened to soldiers in Shivaji's army who mistreated civilians?",
-      "options": {
-        "A": "They were given a warning",
-        "B": "They were reassigned to a different fort",
-        "C": "They were severely punished, sometimes with execution",
-        "D": "Nothing — soldiers were above civilian law"
-      },
+      "options": [
+        "They were given a warning",
+        "They were reassigned to a different fort",
+        "They were severely punished, sometimes with execution",
+        "Nothing — soldiers were above civilian law"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "Shivaji had strict military discipline. Soldiers who looted, damaged farmers' property, or disrespected civilians — especially women — faced severe punishment including execution. This discipline made his army uniquely respectful of non-combatants."
@@ -251,12 +251,12 @@
     {
       "id": "test_8_5",
       "question": "Why did contemporary European observers praise Shivaji during the sack of Surat?",
-      "options": {
-        "A": "Because he shared the loot with them",
-        "B": "Because his soldiers showed remarkable discipline and did not harm foreign traders or non-combatants",
-        "C": "Because he converted to Christianity",
-        "D": "Because he signed a trade agreement with European companies"
-      },
+      "options": [
+        "Because he shared the loot with them",
+        "Because his soldiers showed remarkable discipline and did not harm foreign traders or non-combatants",
+        "Because he converted to Christianity",
+        "Because he signed a trade agreement with European companies"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "English East India Company records and other European sources were astonished by the discipline of Shivaji's soldiers during the sacking of Surat — they specifically protected foreign traders and did not harm non-combatants. This was extraordinary for a military action of that era."
@@ -264,12 +264,12 @@
     {
       "id": "test_8_6",
       "question": "Shivaji's environmental care was demonstrated by:",
-      "options": {
-        "A": "Building botanical gardens at Raigad",
-        "B": "Issuing orders protecting trees, forests, and wells near forts and villages",
-        "C": "Banning the use of wood for construction",
-        "D": "Taxing tree-cutters heavily"
-      },
+      "options": [
+        "Building botanical gardens at Raigad",
+        "Issuing orders protecting trees, forests, and wells near forts and villages",
+        "Banning the use of wood for construction",
+        "Taxing tree-cutters heavily"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "Shivaji's administrative letters specifically ordered the protection of forests and trees near forts and villages — understanding that deforestation damaged water sources and agricultural land. This shows a remarkably modern ecological awareness."
@@ -277,12 +277,12 @@
     {
       "id": "test_8_7",
       "question": "Which Mughal historian, despite being an enemy of Shivaji, recorded his respect for religious sites and women?",
-      "options": {
-        "A": "Abul Fazl",
-        "B": "Birbal",
-        "C": "Khafi Khan",
-        "D": "Todar Mal"
-      },
+      "options": [
+        "Abul Fazl",
+        "Birbal",
+        "Khafi Khan",
+        "Todar Mal"
+      ],
       "correctAnswer": "C",
       "difficulty": "hard",
       "explanation": "Khafi Khan was a Mughal historian who wrote unfavorably about Shivaji overall, but even he recorded that Shivaji had strict orders not to harm mosques or women. When even an enemy historian records such virtue, it carries special weight as historical evidence."
@@ -290,12 +290,12 @@
     {
       "id": "test_8_8",
       "question": "How did Shivaji's care for subjects differ from the Deccan Sultanates' approach?",
-      "options": {
-        "A": "There was no difference — all rulers were equally just",
-        "B": "Shivaji focused on people's welfare — fair taxes, food security, safe roads, equal justice — unlike the extractive approach of the sultans",
-        "C": "The sultans were actually more caring toward common people",
-        "D": "Shivaji collected higher taxes but spent more on public works"
-      },
+      "options": [
+        "There was no difference — all rulers were equally just",
+        "Shivaji focused on people's welfare — fair taxes, food security, safe roads, equal justice — unlike the extractive approach of the sultans",
+        "The sultans were actually more caring toward common people",
+        "Shivaji collected higher taxes but spent more on public works"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "The Deccan Sultanates primarily used Maharashtra's population for revenue extraction and soldiers. Shivaji created a system focused on the welfare of the people — fair taxation, care during famines, safe roads, equal justice — making Swaraj a kingdom that served its subjects rather than exploiting them."
