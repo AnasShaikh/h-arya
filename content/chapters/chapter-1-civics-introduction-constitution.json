@@ -79,9 +79,9 @@
       "content": "Every society needs rules for people to live together peacefully. Without rules, the stronger would dominate the weaker and there would be disorder. A Constitution provides the most fundamental rules that everyone — including the government — must follow. It prevents the misuse of power by any person or group and protects the rights of all citizens.",
       "pageReference": "63-64",
       "examples": [
-        "A cricket match needs rules so no team can cheat — similarly a country needs a Constitution so no group can misuse power.",
-        "Traffic rules prevent accidents on roads; the Constitution prevents chaos in governance.",
-        "In a school, the school rules guide student behaviour — the Constitution guides how the entire country is run."
+        { "icon": "🏏", "text": "A cricket match needs rules so no team can cheat — similarly a country needs a Constitution so no group can misuse power." },
+        { "icon": "🚦", "text": "Traffic rules prevent accidents on roads; the Constitution prevents chaos in governance." },
+        { "icon": "🏫", "text": "In a school, the school rules guide student behaviour — the Constitution guides how the entire country is run." }
       ],
       "keyPoints": [
         "Rules are necessary for any group of people to live together peacefully.",
@@ -103,9 +103,9 @@
       "content": "The Indian Constitution was not written by one person — it was the result of the collective effort of the Constituent Assembly. The Constituent Assembly was formed in 1946 and included representatives from across India. After extensive discussions and debates, the Constitution was adopted on 26 November 1949 and came into effect on 26 January 1950. This day is celebrated as Republic Day every year.",
       "pageReference": "64-65",
       "examples": [
-        "The Constituent Assembly held 11 sessions over nearly 3 years to debate and finalise every article.",
-        "Members studied constitutions of countries like the USA, UK, Ireland, and France before drafting India's own.",
-        "26 November is celebrated as Constitution Day (Samvidhan Divas) to honour the adoption of the Constitution."
+        { "icon": "📝", "text": "The Constituent Assembly held 11 sessions over nearly 3 years to debate and finalise every article." },
+        { "icon": "🌍", "text": "Members studied constitutions of countries like the USA, UK, Ireland, and France before drafting India's own." },
+        { "icon": "🗓️", "text": "26 November is celebrated as Constitution Day (Samvidhan Divas) to honour the adoption of the Constitution." }
       ],
       "keyPoints": [
         "The Constituent Assembly was formed in 1946 to draft the Constitution.",
@@ -127,9 +127,9 @@
       "content": "Dr. Bhimrao Ramji Ambedkar was the Chairman of the Drafting Committee of the Constitution. He is called the 'Father of the Indian Constitution.' He ensured that the Constitution gave equal rights to all Indians, especially to those who had been discriminated against for centuries. He strongly fought for the abolition of untouchability and equal rights for all citizens regardless of caste, religion, or gender.",
       "pageReference": "65",
       "examples": [
-        "Dr. Ambedkar personally drafted and revised many articles to ensure they protected the rights of the most vulnerable citizens.",
-        "He insisted that Fundamental Rights should be enforceable in courts so citizens could actually use them.",
-        "His work on the Constitution is considered one of the greatest contributions to Indian democracy."
+        { "icon": "✍️", "text": "Dr. Ambedkar personally drafted and revised many articles to ensure they protected the rights of the most vulnerable citizens." },
+        { "icon": "👨‍⚖️", "text": "He insisted that Fundamental Rights should be enforceable in courts so citizens could actually use them." },
+        { "icon": "🇮🇳", "text": "His work on the Constitution is considered one of the greatest contributions to Indian democracy." }
       ],
       "keyPoints": [
         "Dr. B.R. Ambedkar was Chairman of the Drafting Committee of the Constitution.",
@@ -151,9 +151,9 @@
       "content": "The Constituent Assembly was a special body of elected representatives formed to write the Constitution of India. It had 299 members who represented all regions and communities of India. The Assembly first met on 9 December 1946. After years of debate and deliberation, it adopted the Constitution on 26 November 1949. On 26 January 1950, the Constitution came into force and India became a Republic.",
       "pageReference": "64-65",
       "examples": [
-        "Dr. Rajendra Prasad was the President of the Constituent Assembly and later became India's first President.",
-        "Jawaharlal Nehru moved the Objectives Resolution in the Constituent Assembly which formed the basis of the Preamble.",
-        "The Constituent Assembly had members from diverse backgrounds — lawyers, professors, freedom fighters, and social reformers."
+        { "icon": "👨‍👩‍👧‍👦", "text": "Dr. Rajendra Prasad was the President of the Constituent Assembly and later became India's first President." },
+        { "icon": "📜", "text": "Jawaharlal Nehru moved the Objectives Resolution in the Constituent Assembly which formed the basis of the Preamble." },
+        { "icon": "🤝", "text": "The Constituent Assembly had members from diverse backgrounds — lawyers, professors, freedom fighters, and social reformers." }
       ],
       "keyPoints": [
         "The Constituent Assembly was formed in 1946 with 299 members.",
@@ -175,9 +175,9 @@
       "content": "The Indian Constitution is the supreme law of the land. This means every other law, rule, or government action must follow the Constitution. If any law goes against the Constitution, the Supreme Court can declare it invalid. The Constitution currently has 448 articles, 12 schedules, and 25 parts. It is the longest written Constitution of any country in the world, which makes it unique.",
       "pageReference": "66-67",
       "examples": [
-        "If Parliament passes a law that takes away a citizen's Fundamental Rights, the Supreme Court can strike it down.",
-        "Even the Prime Minister and the President must act within the limits set by the Constitution.",
-        "The 12 schedules in the Constitution contain important lists, such as the list of Union Territories and languages."
+        { "icon": "🏛️", "text": "If Parliament passes a law that takes away a citizen's Fundamental Rights, the Supreme Court can strike it down." },
+        { "icon": "👨‍👩‍👧‍👦", "text": "Even the Prime Minister and the President must act within the limits set by the Constitution." },
+        { "icon": "⚖️", "text": "The 12 schedules in the Constitution contain important lists, such as the list of Union Territories and languages." }
       ],
       "keyPoints": [
         "The Indian Constitution is the supreme law — all other laws must follow it.",
