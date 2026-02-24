@@ -18,7 +18,7 @@
       ],
       "correctAnswer": "C",
       "difficulty": "easy",
-      "conceptId": "concept_8_1"
+      "conceptId": 1
     },
     {
       "id": "pre_8_2",
@@ -31,7 +31,7 @@
       ],
       "correctAnswer": "B",
       "difficulty": "medium",
-      "conceptId": "concept_8_5"
+      "conceptId": 5
     },
     {
       "id": "pre_8_3",
@@ -44,7 +44,7 @@
       ],
       "correctAnswer": "B",
       "difficulty": "easy",
-      "conceptId": "concept_8_2"
+      "conceptId": 2
     },
     {
       "id": "pre_8_4",
@@ -57,7 +57,7 @@
       ],
       "correctAnswer": "C",
       "difficulty": "medium",
-      "conceptId": "concept_8_4"
+      "conceptId": 4
     },
     {
       "id": "pre_8_5",
@@ -70,7 +70,7 @@
       ],
       "correctAnswer": "C",
       "difficulty": "hard",
-      "conceptId": "concept_8_5"
+      "conceptId": 5
     }
   ],
   "concepts": [
