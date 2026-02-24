@@ -3,351 +3,111 @@
     "chapterNumber": 1,
     "title": "Sources of History",
     "subject": "History",
-    "pages": "1-4",
-    "description": "An introduction to medieval Indian history and the various sources used to study it — material, written, and oral — along with how historians evaluate their authenticity."
+    "grade": 7,
+    "pages": "1-6",
+    "description": "Material, Written, and Oral sources of Medieval Indian History."
   },
   "preAssessment": [
     {
-      "id": "pre_1_1",
-      "question": "Which of the following is an example of a material source of history?",
-      "options": {
-        "A": "Akbarnama",
-        "B": "Folk songs",
-        "C": "Coins",
-        "D": "Bakhar"
-      },
-      "correctAnswer": "C",
-      "difficulty": "easy",
-      "conceptId": "concept_1_2"
+      "id": "q1",
+      "question": "Which of the following is a material source of history?",
+      "options": ["Forts", "Powadas", "Bakhars", "Stories"],
+      "correctAnswer": "A",
+      "difficulty": "easy"
     },
     {
-      "id": "pre_1_2",
-      "question": "What is a 'Bakhar'?",
-      "options": {
-        "A": "A type of coin used in medieval India",
-        "B": "A Marathi chronicle or historical narrative",
-        "C": "A hill fort in Maharashtra",
-        "D": "A religious hymn sung by Bhakti saints"
-      },
+      "id": "q2",
+      "question": "The period from the 9th century AD to the end of the 18th century AD is considered as:",
+      "options": ["Ancient Period", "Medieval Period", "Modern Period", "Pre-historic Period"],
       "correctAnswer": "B",
-      "difficulty": "easy",
-      "conceptId": "concept_1_3"
-    },
-    {
-      "id": "pre_1_3",
-      "question": "Which book is a chronicle written about the life of Akbar?",
-      "options": {
-        "A": "Ain-i-Akbari",
-        "B": "Akbarnama",
-        "C": "Baburnama",
-        "D": "Humayunnama"
-      },
-      "correctAnswer": "B",
-      "difficulty": "medium",
-      "conceptId": "concept_1_3"
-    },
-    {
-      "id": "pre_1_4",
-      "question": "What are 'oral sources' of history?",
-      "options": {
-        "A": "Books and manuscripts written by scholars",
-        "B": "Coins, inscriptions, and forts",
-        "C": "Folk songs, ballads, and proverbs passed down verbally",
-        "D": "Copper plates with royal decrees"
-      },
-      "correctAnswer": "C",
-      "difficulty": "easy",
-      "conceptId": "concept_1_4"
-    },
-    {
-      "id": "pre_1_5",
-      "question": "Which of the four important factors must be considered while studying history?",
-      "options": {
-        "A": "Language, Religion, Art, Music",
-        "B": "Individuals, Society, Place, Time",
-        "C": "Kings, Wars, Trade, Agriculture",
-        "D": "Food, Clothing, Shelter, Transport"
-      },
-      "correctAnswer": "B",
-      "difficulty": "medium",
-      "conceptId": "concept_1_1"
+      "difficulty": "medium"
     }
   ],
   "concepts": [
     {
-      "id": "concept_1_1",
-      "title": "What is History and Why Study Sources?",
-      "emoji": "📜",
-      "colorTheme": "from-blue-400 to-cyan-500",
-      "bgColor": "bg-blue-50",
-      "borderColor": "border-blue-300",
-      "content": "History is the systematic study of the past — events, people, societies, and changes over time. To understand the medieval period in India (roughly 9th to 18th century), historians depend on sources. Without sources, we cannot verify what actually happened. Four important factors guide historical study: Individuals (who acted), Society (the community involved), Place (where it happened), and Time (when it happened). All sources must be carefully examined for authenticity — a source can be forged, biased, or incomplete. A good historian cross-checks multiple sources before drawing conclusions.",
+      "id": 1,
+      "title": "Material Sources: The Physical Evidence",
+      "emoji": "🏰",
+      "colorTheme": "from-amber-600 to-orange-700",
+      "bgColor": "bg-amber-50",
+      "borderColor": "border-amber-300",
+      "content": "Material sources include forts, memorials, buildings, cave sculptures, inscriptions, coins, and weapons. In Medieval India, forts like Raigad and coins like the Shivrai or the Hon are crucial for understanding the economic condition and administration of the time.",
+      "imageUrl": "https://images.unsplash.com/photo-1623945359620-63198089408e?auto=format&fit=crop&q=80&w=1000",
       "pageReference": "1-2",
       "examples": [
-        "Studying a coin helps us know the name of the king, the era, and the economy.",
-        "A folk song about Shivaji tells us how people felt about him emotionally.",
-        "An inscription on a temple wall records a royal donation — but we must check if it was later altered."
+        { "icon": "🪙", "text": "Coins (Shivrai, Hon)" },
+        { "icon": "🚩", "text": "Forts (Raigad, Pratapgad)" },
+        { "icon": "📜", "text": "Inscriptions on stone or copper" }
       ],
       "keyPoints": [
-        "History requires evidence — we cannot rely on memory or imagination alone.",
-        "Four factors: Individuals, Society, Place, and Time must all be considered.",
-        "Sources must be verified for authenticity before being accepted as fact.",
-        "Different types of sources give different perspectives on the same event.",
-        "Medieval India spans roughly from the 9th to the 18th century."
+        "Forts have an important place among material sources",
+        "Coins tell us about the Emperor's reign and religion",
+        "Inscriptions are considered very reliable as they are permanent"
       ],
-      "funFact": "Some historical sources were deliberately destroyed by invaders or rulers who wanted to erase the memory of previous kingdoms — making the surviving sources even more precious!",
-      "textbookRef": "Maharashtra Board Class 7 History, Chapter 1, Pages 1-2"
+      "funFact": "Shivrai coins were made of copper, while the Hon was a gold coin used in the Maratha Empire!",
+      "textbookRef": "Page 1: Material Sources"
     },
     {
-      "id": "concept_1_2",
-      "title": "Material Sources",
-      "emoji": "🪙",
-      "colorTheme": "from-purple-400 to-pink-500",
-      "bgColor": "bg-purple-50",
-      "borderColor": "border-purple-300",
-      "content": "Material sources are physical objects left behind from the past. They include coins, forts, cave sculptures, copper plates, inscriptions, memorials, and buildings. Coins are particularly valuable — they tell us the name and title of rulers, the language used, and economic conditions. Medieval coins had specific denominations: kavadi (smallest), damadi, dhela, pai, and paisa. Forts are another major source — Maharashtra has three types: hill forts (Raigad, Sinhagad), sea forts (Sindhudurg, Janjira), and forest forts. Inscriptions carved on stone or metal record royal grants, victories, and religious dedications. Copper plates (tamrapat) preserved legal records of land grants.",
-      "pageReference": "2-3",
-      "examples": [
-        "A gold coin of Akbar shows his name in Persian and Arabic, telling us about Mughal trade and language.",
-        "The fort of Raigad reveals Shivaji's administrative planning — it had palace, market, and public spaces.",
-        "Ashoka's inscriptions on rocks across India spread his message of non-violence and good governance."
-      ],
-      "keyPoints": [
-        "Material sources are physical objects: coins, forts, sculptures, copper plates, inscriptions, buildings.",
-        "Coin denominations: kavadi < damadi < dhela < pai < paisa.",
-        "Three types of forts in Maharashtra: hill forts, sea forts, forest forts.",
-        "Inscriptions on stone and copper plates record royal grants and proclamations.",
-        "Cave sculptures (like Ajanta and Ellora) reveal art, religion, and daily life."
-      ],
-      "funFact": "The fort of Janjira (a sea fort near Murud) was so well-designed that even the mighty Maratha navy and the British could not capture it for centuries!",
-      "textbookRef": "Maharashtra Board Class 7 History, Chapter 1, Pages 2-3"
-    },
-    {
-      "id": "concept_1_3",
-      "title": "Written Sources",
-      "emoji": "📖",
-      "colorTheme": "from-green-400 to-emerald-500",
-      "bgColor": "bg-green-50",
-      "borderColor": "border-green-300",
-      "content": "Written sources include manuscripts, chronicles, royal orders, letters, and account books. Chronicles are detailed historical narratives written about kings and their reigns. The Akbarnama (written by Abul Fazl) narrates the reign of Akbar, while the Ain-i-Akbari describes Akbar's administration in detail. Bakhars are Marathi chronicles that record the history of Maratha rulers, especially Shivaji Maharaj. Letters and royal orders (farmans and aadnyapatra) also provide direct insight into the decisions of rulers. Manuscripts preserved in libraries — often on palm leaves or paper — contain literature, science, religion, and history of the medieval period.",
-      "pageReference": "3",
-      "examples": [
-        "The Akbarnama by Abul Fazl describes Akbar's campaigns, administration, and personality.",
-        "The Shivdigvijay Bakhar narrates the life and conquests of Shivaji Maharaj.",
-        "Royal farmans (orders) issued by Mughal emperors are preserved and help us understand their governance."
-      ],
-      "keyPoints": [
-        "Written sources include manuscripts, chronicles, letters, and royal orders.",
-        "Akbarnama: chronicle of Akbar's reign written by Abul Fazl.",
-        "Ain-i-Akbari: detailed account of Akbar's administration and court.",
-        "Bakhar: Marathi historical narrative about Maratha rulers.",
-        "Written sources can be biased — they were often written by people loyal to the ruler."
-      ],
-      "funFact": "The Ain-i-Akbari is so detailed that it even lists the salaries of court musicians, the varieties of mangoes grown in Akbar's gardens, and the exact weight of elephants in his army!",
-      "textbookRef": "Maharashtra Board Class 7 History, Chapter 1, Page 3"
-    },
-    {
-      "id": "concept_1_4",
-      "title": "Oral Sources",
-      "emoji": "🎶",
-      "colorTheme": "from-orange-400 to-red-500",
-      "bgColor": "bg-orange-50",
-      "borderColor": "border-orange-300",
-      "content": "Oral sources are historical information passed down through word of mouth across generations. They include folk songs, ballads (povadas), proverbs, and legends. In Maharashtra, povadas (ballads) were composed and sung by shahirs (bards) to celebrate the bravery of Shivaji Maharaj and other Maratha heroes. Folk songs and proverbs preserve the feelings, values, and social conditions of common people who did not leave behind written records. Oral sources are valuable because they capture the perspective of ordinary people — farmers, soldiers, women — who are often absent from official written records. However, oral sources can change over time as they are retold, so they must be verified with other sources.",
+      "id": 2,
+      "title": "Written Sources: The Recorded Word",
+      "emoji": "📜",
+      "colorTheme": "from-yellow-600 to-amber-700",
+      "bgColor": "bg-yellow-50",
+      "borderColor": "border-yellow-300",
+      "content": "Written sources include the script (Modi, Devanagari, Arabic, Persian), biographies of kings, travelogues by foreign travelers (like Ibn Battuta), and official documents. Bakhars are a unique type of written source from the Medieval period, containing chronicles of heroic deeds.",
+      "imageUrl": "https://images.unsplash.com/photo-1585779034823-7e9ac8faec70?auto=format&fit=crop&q=80&w=1000",
       "pageReference": "3-4",
       "examples": [
-        "Povadas composed by Agindas and Tulsidas celebrated Shivaji's victories and character.",
-        "Proverbs about farming seasons preserved knowledge of agriculture even among illiterate communities.",
-        "Legends about Jijabai teaching young Shivaji stories from the Ramayana and Mahabharata reflect her role in shaping his values."
+        { "icon": "✍️", "text": "Bakhars (Sabhasad Bakhar)" },
+        { "icon": "🐪", "text": "Travelogues (Ibn Battuta)" },
+        { "icon": "🖋️", "text": "Royal Decrees (Farman)" }
       ],
       "keyPoints": [
-        "Oral sources include folk songs, ballads (povadas), proverbs, and legends.",
-        "Shahirs (bards) composed and performed povadas about Maratha heroes.",
-        "Oral sources capture perspectives of common people not found in official records.",
-        "Over time, oral sources can become exaggerated or altered — they need cross-checking.",
-        "They are especially important in societies with low literacy rates."
+        "Bakhars help us understand the political happenings and social life",
+        "Modi and Persian were major scripts used in administration",
+        "Travelogues provide an outsider's view of Indian society"
       ],
-      "funFact": "The shahir Agindas composed a famous povada about the Battle of Pratapgad so vividly that historians use it alongside written records to reconstruct the event!",
-      "textbookRef": "Maharashtra Board Class 7 History, Chapter 1, Pages 3-4"
+      "funFact": "'Tawarikh' means the sequence of events (dates) in Arabic!",
+      "textbookRef": "Page 3: Written Sources"
     },
     {
-      "id": "concept_1_5",
-      "title": "How to Evaluate Sources Critically",
-      "emoji": "🔍",
-      "colorTheme": "from-indigo-400 to-purple-500",
-      "bgColor": "bg-indigo-50",
-      "borderColor": "border-indigo-300",
-      "content": "Not all historical sources are equally reliable. Historians must critically evaluate every source before using it. Key questions to ask: Who created this source? When was it created? What was the purpose? Is the author a direct witness or writing much later? Is there a political or personal bias? Can it be verified by other independent sources? A source written by an enemy of a ruler may exaggerate their faults, while one written by a loyal minister may only praise them. Material sources like coins and inscriptions are generally more reliable as physical evidence. However, even material sources can be faked (forged coins existed in medieval India). Cross-referencing multiple types of sources — material, written, and oral — gives the most complete picture of the past.",
-      "pageReference": "4",
+      "id": 3,
+      "title": "Oral Sources: The Living History",
+      "emoji": "🗣️",
+      "colorTheme": "from-orange-500 to-red-600",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Oral sources consist of folk songs, Powadas, stories, myths, and legends passed down from generation to generation. Powadas were particularly important during the Maratha period to inspire soldiers and describe the bravery of leaders like Chhatrapati Shivaji Maharaj.",
+      "videoUrl": "https://www.youtube.com/embed/fA-n_O-p0Wc",
+      "pageReference": "5-6",
       "examples": [
-        "The Akbarnama was written by Abul Fazl, Akbar's close friend — so it naturally praises Akbar and should be read with this bias in mind.",
-        "A coin found in an archaeological dig with a known ruler's name and date is strong material evidence of that ruler's reign.",
-        "A povada about a battle must be compared with eyewitness accounts to separate heroic exaggeration from factual description."
+        { "icon": "🎶", "text": "Powadas (Heroic Ballads)" },
+        { "icon": "👵", "text": "Grandmother's Tales (Folklore)" },
+        { "icon": "🎭", "text": "Traditional Bhajans and Abhangs" }
       ],
       "keyPoints": [
-        "All sources must be evaluated for authenticity, purpose, and bias.",
-        "Consider: who wrote it, when, why, and whether they were a direct witness.",
-        "Official sources often reflect the ruler's perspective; common people's views come from oral sources.",
-        "Cross-referencing multiple sources — material, written, oral — is essential for accuracy.",
-        "Even material sources like coins can be forged and must be verified scientifically."
+        "Oral sources preserve history that isn't written down",
+        "Powadas are rhythmic and highly motivating",
+        "They reflect the emotions and values of the people"
       ],
-      "funFact": "Modern historians use carbon dating, chemical analysis of metals, and handwriting analysis to verify whether ancient manuscripts and coins are genuine or forgeries!",
-      "textbookRef": "Maharashtra Board Class 7 History, Chapter 1, Page 4"
+      "funFact": "The Powada on the life of Tanaji Malusare is one of the most famous examples of oral history!",
+      "textbookRef": "Page 5: Oral Sources"
     }
   ],
   "test": [
     {
-      "id": "test_1_1",
-      "question": "Which of the following is NOT a material source of history?",
-      "options": {
-        "A": "Copper plates",
-        "B": "Inscriptions",
-        "C": "Bakhar",
-        "D": "Coins"
-      },
-      "correctAnswer": "C",
-      "difficulty": "easy",
-      "explanation": "A Bakhar is a Marathi written chronicle, making it a written source. Copper plates, inscriptions, and coins are all physical objects — material sources."
+      "id": "t1",
+      "question": "What does the term 'Tawarikh' mean?",
+      "options": ["Dates/Sequence of events", "Heroic songs", "Copper plates", "Forts"],
+      "correctAnswer": "A",
+      "difficulty": "medium"
     },
     {
-      "id": "test_1_2",
-      "question": "What is the correct order of medieval coin denominations from smallest to largest?",
-      "options": {
-        "A": "Paisa, pai, dhela, damadi, kavadi",
-        "B": "Kavadi, damadi, dhela, pai, paisa",
-        "C": "Dhela, kavadi, paisa, pai, damadi",
-        "D": "Pai, paisa, dhela, kavadi, damadi"
-      },
-      "correctAnswer": "B",
-      "difficulty": "medium",
-      "explanation": "The correct ascending order is: kavadi (smallest), damadi, dhela, pai, paisa (largest). This was the monetary denomination system in medieval Maharashtra."
-    },
-    {
-      "id": "test_1_3",
-      "question": "The Akbarnama was written by:",
-      "options": {
-        "A": "Birbal",
-        "B": "Todar Mal",
-        "C": "Abul Fazl",
-        "D": "Faizi"
-      },
-      "correctAnswer": "C",
-      "difficulty": "easy",
-      "explanation": "The Akbarnama was written by Abul Fazl, one of Akbar's nine gems (Navratnas) and his close confidant. It is a detailed chronicle of Akbar's reign."
-    },
-    {
-      "id": "test_1_4",
-      "question": "Which type of fort is Sindhudurg?",
-      "options": {
-        "A": "Hill fort",
-        "B": "Forest fort",
-        "C": "Sea fort",
-        "D": "Cave fort"
-      },
-      "correctAnswer": "C",
-      "difficulty": "easy",
-      "explanation": "Sindhudurg is a famous sea fort built by Shivaji Maharaj off the coast of Malvan in the Arabian Sea. It is one of Maharashtra's most important sea forts."
-    },
-    {
-      "id": "test_1_5",
-      "question": "What are the four important factors that must be considered while studying history?",
-      "options": {
-        "A": "Religion, Caste, Trade, Wars",
-        "B": "Individuals, Society, Place, Time",
-        "C": "Language, Art, Music, Architecture",
-        "D": "Kings, Ministers, Army, Treasury"
-      },
-      "correctAnswer": "B",
-      "difficulty": "medium",
-      "explanation": "According to the textbook, the four important factors for historical study are: Individuals (who were involved), Society (the social context), Place (where events occurred), and Time (when they occurred)."
-    },
-    {
-      "id": "test_1_6",
-      "question": "Why must oral sources be verified with other sources?",
-      "options": {
-        "A": "Because oral sources are always false",
-        "B": "Because oral sources can change or get exaggerated as they are retold over generations",
-        "C": "Because oral sources are only useful for music history",
-        "D": "Because governments do not allow oral sources in history books"
-      },
-      "correctAnswer": "B",
-      "difficulty": "medium",
-      "explanation": "Oral sources like folk songs and ballads can change over time as they are passed down. Storytellers may exaggerate or add details. Therefore, they must be cross-checked with written and material sources."
-    },
-    {
-      "id": "test_1_7",
-      "question": "What is a 'povada'?",
-      "options": {
-        "A": "A type of coin used in the Maratha period",
-        "B": "A copper plate recording land grants",
-        "C": "A Marathi ballad celebrating the bravery of heroes",
-        "D": "A manuscript written on palm leaves"
-      },
-      "correctAnswer": "C",
-      "difficulty": "easy",
-      "explanation": "A povada is a Marathi ballad — a type of oral source — composed and performed by shahirs (bards) to celebrate the bravery and achievements of Maratha heroes like Shivaji Maharaj."
-    },
-    {
-      "id": "test_1_8",
-      "question": "Which of the following helps historians understand the economy and rulers of a kingdom most directly?",
-      "options": {
-        "A": "Folk songs",
-        "B": "Coins",
-        "C": "Cave paintings",
-        "D": "Proverbs"
-      },
-      "correctAnswer": "B",
-      "difficulty": "medium",
-      "explanation": "Coins carry the name, title, and image of the ruler, the language of the kingdom, and reflect trade and economic conditions. They are one of the most direct and reliable material sources."
-    },
-    {
-      "id": "test_1_9",
-      "question": "What is the Ain-i-Akbari?",
-      "options": {
-        "A": "A Marathi chronicle about Shivaji",
-        "B": "A book describing Akbar's administration, court, and empire in detail",
-        "C": "A collection of Akbar's poetry",
-        "D": "A record of battles fought by Akbar"
-      },
-      "correctAnswer": "B",
-      "difficulty": "medium",
-      "explanation": "The Ain-i-Akbari is a detailed account of Akbar's administration, court organization, provinces, and culture, also written by Abul Fazl. It is different from the Akbarnama, which is a narrative chronicle."
-    },
-    {
-      "id": "test_1_10",
-      "question": "Which method do modern historians use to verify whether a source is genuine?",
-      "options": {
-        "A": "Asking the king's descendants",
-        "B": "Using carbon dating, chemical analysis, and cross-referencing multiple sources",
-        "C": "Counting the number of pages in a manuscript",
-        "D": "Only trusting sources written in Sanskrit"
-      },
-      "correctAnswer": "B",
-      "difficulty": "hard",
-      "explanation": "Modern historians use scientific methods like carbon dating (for age), chemical analysis of metals (for coins), handwriting analysis, and most importantly cross-referencing multiple independent sources to verify authenticity."
+      "id": "t2",
+      "question": "Which of these is an oral source?",
+      "options": ["Powada", "Inscription", "Coin", "Manuscript"],
+      "correctAnswer": "A",
+      "difficulty": "easy"
     }
-  ],
-  "aiContext": {
-    "keyConcepts": [
-      "Material sources of history: coins, forts, inscriptions, copper plates, cave sculptures, buildings",
-      "Written sources: manuscripts, chronicles (Akbarnama, Ain-i-Akbari, Bakhars)",
-      "Oral sources: folk songs, povadas (ballads), proverbs",
-      "Four factors of historical study: Individuals, Society, Place, Time",
-      "Critical evaluation and verification of historical sources",
-      "Medieval coin denominations: kavadi, damadi, dhela, pai, paisa",
-      "Types of forts: hill forts, sea forts, forest forts"
-    ],
-    "commonMisconceptions": [
-      "Students often think oral sources are unreliable and should be ignored — in fact they are important for understanding common people's perspectives.",
-      "Students may confuse Akbarnama (narrative chronicle) with Ain-i-Akbari (administrative account) — both were written by Abul Fazl but serve different purposes.",
-      "Many think material sources are always 100% reliable — but coins can be forged and inscriptions can be altered.",
-      "Students may think history is only about kings and wars — the four factors remind us it includes all of society."
-    ],
-    "realWorldExamples": [
-      "Just like we use photos, videos, and text messages as evidence today, medieval people left behind coins, buildings, and songs as their evidence.",
-      "A WhatsApp message is a 'written source'; a selfie in front of a monument is a 'material source'; a story your grandmother tells is an 'oral source'.",
-      "Archaeologists excavating medieval sites in Pune or Aurangabad are collecting material sources just as described in this chapter."
-    ],
-    "formulas": []
-  }
+  ]
 }
