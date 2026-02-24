@@ -32,7 +32,7 @@ export async function generateAudioResponse(
             } 
           }
         }
-      }
+      } as any
     });
 
     const response = result.response;
