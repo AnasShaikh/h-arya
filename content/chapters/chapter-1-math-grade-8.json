@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "grade": 8,
+    "chapterNumber": 1,
+    "title": "Rational and Irrational numbers",
+    "subject": "Mathematics",
+    "pages": "1-5",
+    "description": "Understanding rational numbers, irrational numbers, and their representation on the number line"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "What is a rational number?",
+      "options": ["A number that can be expressed as p/q", "Only whole numbers", "Only negative numbers", "A number that cannot be written"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following is an irrational number?",
+      "options": ["√2", "2/3", "0.5", "5"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Rational Numbers",
+      "emoji": "🔢",
+      "colorTheme": "from-blue-400 to-blue-600",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "A number that can be expressed in the form p/q, where p and q are integers and q ≠ 0, is called a rational number. Examples: 2/3, -5/7, 0, 4, etc.",
+      "pageReference": "1-2",
+      "keyTakeaways": [
+        "All integers are rational numbers",
+        "Terminating and recurring decimals are rational"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Irrational Numbers",
+      "emoji": "🌀",
+      "colorTheme": "from-red-400 to-red-600",
+      "bgColor": "bg-red-50",
+      "borderColor": "border-red-300",
+      "content": "Numbers that cannot be expressed in the form p/q are called irrational numbers. Their decimal representation is non-terminating and non-recurring. Examples: √2, √3, π.",
+      "pageReference": "3-4",
+      "keyTakeaways": [
+        "√n is irrational if n is not a perfect square",
+        "Irrational numbers can also be represented on a number line"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "The sum of a rational and an irrational number is always:",
+      "options": ["Irrational", "Rational", "Integer", "Zero"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    }
+  ]
+}

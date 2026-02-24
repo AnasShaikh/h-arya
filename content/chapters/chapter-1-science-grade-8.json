@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "grade": 8,
+    "chapterNumber": 1,
+    "title": "Living World and Classification of Microbes",
+    "subject": "Science",
+    "pages": "1-6",
+    "description": "Classification of living organisms and study of microbes (Bacteria, Viruses, Fungi)"
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Who proposed the five-kingdom system of classification?",
+      "options": ["Robert Whittaker", "Carl Linnaeus", "Charles Darwin", "Gregor Mendel"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following is a prokaryotic organism?",
+      "options": ["Bacteria", "Fungi", "Algae", "Protozoa"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q3",
+      "question": "What is the primary characteristic of Kingdom Monera?",
+      "options": ["Prokaryotic and Unicellular", "Eukaryotic and Multicellular", "Autotrophic and Eukaryotic", "Heterotrophic and Multicellular"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "q4",
+      "question": "Which microbe is considered to be at the edge of living and non-living?",
+      "options": ["Virus", "Bacteria", "Fungi", "Protozoa"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "q5",
+      "question": "Binary fission is a common method of reproduction in:",
+      "options": ["Bacteria", "Mushrooms", "Bread Mold", "Mosses"],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 2
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Five-Kingdom Classification",
+      "emoji": "🌳",
+      "colorTheme": "from-green-400 to-green-600",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "In 1969, Robert Whittaker divided living organisms into 5 kingdoms: Monera, Protista, Fungi, Plantae, and Animalia. This was based on cell structure (Prokaryotic/Eukaryotic), complexity of organism (Unicellular/Multicellular), and mode of nutrition (Autotrophic/Heterotrophic).",
+      "pageReference": "1-2",
+      "examples": [
+        { "icon": "🦠", "text": "Monera: Bacteria" },
+        { "icon": "🌊", "text": "Protista: Amoeba" },
+        { "icon": "🍄", "text": "Fungi: Mushroom" }
+      ],
+      "keyTakeaways": [
+        "Classification helps in systematic study",
+        "Eukaryotes have a well-defined nucleus",
+        "Prokaryotes lack a nuclear membrane"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Classification of Microbes",
+      "emoji": "🔬",
+      "colorTheme": "from-blue-400 to-blue-600",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Microbes are classified into Bacteria, Protozoa, Fungi, Algae, and Viruses. Bacteria are prokaryotic and multiply by binary fission. Viruses are the smallest and require a host cell to reproduce. Fungi and Algae can be eukaryotic.",
+      "pageReference": "3-5",
+      "examples": [
+        { "icon": "🧫", "text": "Bacteria: Unicellular" },
+        { "icon": "🕷️", "text": "Viruses: Edge of life" },
+        { "icon": "🍞", "text": "Fungi: Saprotrophic" }
+      ],
+      "keyTakeaways": [
+        "Microbes are measured in micrometers (μm) and nanometers (nm)",
+        "Most bacteria are beneficial, but some cause diseases",
+        "Viruses cause diseases like Flu, COVID-19, and Polio"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Which kingdom includes all multicellular, eukaryotic, and autotrophic organisms?",
+      "options": ["Plantae", "Animalia", "Fungi", "Protista"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "t2",
+      "question": "The study of microscopic organisms is called:",
+      "options": ["Microbiology", "Biology", "Zoology", "Botany"],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "t3",
+      "question": "Amoeba and Paramoecium belong to which kingdom?",
+      "options": ["Protista", "Monera", "Fungi", "Animalia"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "t4",
+      "question": "Which of these lacks a cell wall?",
+      "options": ["Animalia", "Plantae", "Fungi", "Bacteria"],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "t5",
+      "question": "Viruses are made up of long strands of:",
+      "options": ["DNA or RNA", "Starch", "Sugar", "Fat"],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "conceptId": 2
+    }
+  ]
+}

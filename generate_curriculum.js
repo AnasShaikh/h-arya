@@ -14,13 +14,15 @@ files.forEach(file => {
     const metadata = content.metadata;
     
     if (metadata && metadata.subject && metadata.chapterNumber && metadata.title) {
-      const key = `${metadata.subject}-${metadata.chapterNumber}`;
+      const grade = metadata.grade || 7;
+      const key = `${grade}-${metadata.subject}-${metadata.chapterNumber}`;
       
       // If conflict, prefer specific names over "Unit X"
       if (curriculumMap.has(key)) {
         const existing = curriculumMap.get(key);
         if (existing.chapterName.toLowerCase().startsWith('unit ')) {
            curriculumMap.set(key, {
+            grade: grade,
             subject: metadata.subject,
             chapterNumber: metadata.chapterNumber,
             chapterName: metadata.title,
@@ -30,6 +32,7 @@ files.forEach(file => {
         }
       } else {
         curriculumMap.set(key, {
+          grade: grade,
           subject: metadata.subject,
           chapterNumber: metadata.chapterNumber,
           chapterName: metadata.title,
@@ -45,10 +48,10 @@ const curriculum = Array.from(curriculumMap.values());
 
 // Generate SQL
 console.log('DELETE FROM "curriculum";');
-console.log('INSERT INTO "curriculum" ("subject", "chapter_number", "chapter_name", "description", "is_active") VALUES');
+console.log('INSERT INTO "curriculum" ("grade", "subject", "chapter_number", "chapter_name", "description", "is_active") VALUES');
 
 const values = curriculum.map(c => 
-  `('${c.subject}', ${c.chapterNumber}, '${c.chapterName.replace(/'/g, "''")}', '${c.description.replace(/'/g, "''")}', true)`
+  `(${c.grade}, '${c.subject}', ${c.chapterNumber}, '${c.chapterName.replace(/'/g, "''")}', '${c.description.replace(/'/g, "''")}', true)`
 );
 
 console.log(values.join(',\n') + ';');

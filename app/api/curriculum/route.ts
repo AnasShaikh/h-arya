@@ -1,9 +1,13 @@
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import prisma from '@/lib/db/prisma';
 
-export async function GET() {
+export async function GET(request: NextRequest) {
   try {
+    const searchParams = request.nextUrl.searchParams;
+    const grade = parseInt(searchParams.get('grade') || '7');
+
     const chapters = await prisma.curriculum.findMany({
+      where: { grade },
       orderBy: [{ subject: 'asc' }, { chapterNumber: 'asc' }],
     });
     return NextResponse.json({ chapters });

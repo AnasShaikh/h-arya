@@ -56,7 +56,8 @@ export default function Dashboard() {
 
   const fetchCurriculum = async () => {
     try {
-      const response = await fetch('/api/curriculum');
+      const grade = sessionStorage.getItem('grade') || '7';
+      const response = await fetch(`/api/curriculum?grade=${grade}`);
       if (response.ok) {
         const data = await response.json();
         setChapters(data.chapters);

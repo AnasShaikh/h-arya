@@ -99,12 +99,13 @@ model PasswordResetToken {
 
 model Curriculum {
   id            Int     @id @default(autoincrement())
+  grade         Int     @default(7)
   subject       String
   chapterNumber Int     @map("chapter_number")
   chapterName   String  @map("chapter_name")
   description   String?
   isActive      Boolean @default(true) @map("is_active")
 
-  @@unique([subject, chapterNumber])
+  @@unique([grade, subject, chapterNumber])
   @@map("curriculum")
 }

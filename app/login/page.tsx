@@ -59,6 +59,7 @@ function LoginForm() {
       sessionStorage.setItem('userId', data.userId);
       sessionStorage.setItem('username', data.username);
       sessionStorage.setItem('name', data.name);
+      sessionStorage.setItem('grade', data.grade.toString());
 
       // Redirect to dashboard
       router.push('/dashboard');
