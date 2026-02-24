@@ -84,9 +84,9 @@
       "content": "Shivaji Maharaj's approach to religion was remarkably enlightened for his era. He treated all religions equally — Hinduism, Islam, and Christianity. He protected mosques, dargahs (Sufi shrines), and churches in his territory with the same vigor as he protected temples. His written orders (aadnyapatra) specifically instructed his soldiers to never damage mosques or harm Muslim clergy. He had many Muslim officers in his army — including Ibrahim Khan who commanded part of his artillery, and Siddi Ibrahim who served in his navy. He respected the Quran — when a copy was once brought to him as loot, he treated it with reverence and returned it. His Ashtapradhan included the Panditrao who managed religious affairs of all communities. Shivaji saw religious violence as not only morally wrong but also politically damaging — a ruler who respected all faiths earned loyalty from all subjects.",
       "pageReference": "33-34",
       "examples": [
-        "Shivaji issued written orders that mosques were not to be disturbed during military campaigns — and soldiers who violated this were punished.",
-        "He built a mosque near Raigad for his Muslim soldiers — providing a place of worship on his own capital.",
-        "His fleet included sailors from various communities — Hindu Marathas, Muslim sailors from the Konkan, and African (Habshi/Siddi) fighters."
+        { "icon": "🕌", "text": "Shivaji issued written orders that mosques were not to be disturbed during military campaigns — and soldiers who violated this were punished." },
+        { "icon": "🙏", "text": "He built a mosque near Raigad for his Muslim soldiers — providing a place of worship on his own capital." },
+        { "icon": "🤝", "text": "His fleet included sailors from various communities — Hindu Marathas, Muslim sailors from the Konkan, and African (Habshi/Siddi) fighters." }
       ],
       "keyPoints": [
         "Shivaji protected mosques, dargahs, and churches with the same care as temples.",
@@ -108,9 +108,9 @@
       "content": "Shivaji had extraordinary respect for women — a value instilled by his mother Jijabai. He issued strict orders that women captured in war were to be treated with absolute dignity and returned safely. Any soldier who disrespected a woman faced severe punishment, including execution. The most famous example: after capturing Kalyan, his soldiers brought the beautiful daughter-in-law of the local Muslim governor Mullah Ahmed as a prize of war (a common practice of the time). When she was presented before Shivaji, he said: 'If my mother had been so beautiful, I would also have been handsome!' He reprimanded the soldiers, treated her with complete respect, provided her with gifts and an escort, and sent her back to her home safely. This act was so extraordinary that it became legendary even among his enemies — Mughal and European sources both recorded it as remarkable.",
       "pageReference": "34",
       "examples": [
-        "The Kalyan episode: respecting and returning the Muslim governor's daughter-in-law is one of the most cited examples of Shivaji's character.",
-        "His military code specifically mentioned that women in captured territories should not be harmed — violators faced the death penalty.",
-        "Even women of enemies were protected — showing that his respect for women was not conditional on religion or political allegiance."
+        { "icon": "✨", "text": "The Kalyan episode: respecting and returning the Muslim governor's daughter-in-law is one of the most cited examples of Shivaji's character." },
+        { "icon": "🛡️", "text": "His military code specifically mentioned that women in captured territories should not be harmed — violators faced the death penalty." },
+        { "icon": "👸", "text": "Even women of enemies were protected — showing that his respect for women was not conditional on religion or political allegiance." }
       ],
       "keyPoints": [
         "Shivaji had strict orders against any disrespect toward women.",
@@ -132,9 +132,9 @@
       "content": "Justice was a cornerstone of Shivaji's governance. He believed that a king who is unjust loses both his legitimacy and people's loyalty. The principle was clear: rich and poor, high caste and low caste, Hindu and Muslim — all were equal before the law. His Nyayadhish (Chief Justice) ensured that complaints from ordinary farmers received the same attention as those from nobles. Shivaji himself would sometimes attend to grievances personally. He punished soldiers who looted or misbehaved with civilians, regardless of their rank or past service. He punished his own kinsmen when they acted unjustly. One famous story: Shivaji received a complaint from a poor widow that his soldiers had damaged her crops. He investigated, found it was true, and compensated the widow — and punished the soldiers involved. This approach built fierce loyalty among the common people who had never experienced such just governance.",
       "pageReference": "34-35",
       "examples": [
-        "A farmer's complaint received the same attention as a noble's grievance — the Nyayadhish system ensured this.",
-        "Soldiers who looted or damaged farmers' property were punished regardless of military rank.",
-        "When a relative of Shivaji behaved unjustly, Shivaji did not protect him — showing his commitment to equal law."
+        { "icon": "👨‍⚖️", "text": "A farmer's complaint received the same attention as a noble's grievance — the Nyayadhish system ensured this." },
+        { "icon": "🚫", "text": "Soldiers who looted or damaged farmers' property were punished regardless of military rank." },
+        { "icon": "👑", "text": "When a relative of Shivaji behaved unjustly, Shivaji did not protect him — showing his commitment to equal law." }
       ],
       "keyPoints": [
         "Equal justice for all — rich and poor, high and low caste, Hindu and Muslim.",
@@ -156,9 +156,9 @@
       "content": "Shivaji's care for his subjects went far beyond just fair taxation. He saw himself as a caretaker responsible for the well-being of every person in his kingdom. During famines and droughts, he reduced taxes and sometimes distributed food from state reserves. He ensured roads were safe from dacoits and thieves. He issued orders protecting forests — understanding that deforestation damaged water sources and farming. Wells were maintained and kept clean. Travelers and traders were protected on roads. Artisans and craftsmen were supported. He personally attended to complaints from farmers and ordinary people. His administrative letters show him concerned with practical details — whether granaries near forts were properly stocked, whether water cisterns were clean, whether market prices were fair. This paternalistic care (in the best sense) created a kingdom where the common person felt protected and valued — a completely different experience from life under the foreign sultans.",
       "pageReference": "35",
       "examples": [
-        "Shivaji's orders specifically protected mango groves and other trees near forts — he understood ecology before the modern term existed.",
-        "During the famine of the 1670s, Shivaji reduced taxes across his territory and organized relief measures.",
-        "Roads between forts were patrolled and maintained — traders from across India preferred traveling through Maratha territory because it was safe."
+        { "icon": "🌳", "text": "Shivaji's orders specifically protected mango groves and other trees near forts — he understood ecology before the modern term existed." },
+        { "icon": "💧", "text": "During the famine of the 1670s, Shivaji reduced taxes across his territory and organized relief measures." },
+        { "icon": "🛣️", "text": "Roads between forts were patrolled and maintained — traders from across India preferred traveling through Maratha territory because it was safe." }
       ],
       "keyPoints": [
         "Reduced taxes during famines; distributed food from state reserves.",
@@ -180,9 +180,9 @@
       "content": "The title 'Rajarshi' means 'a king who has the qualities of a saint' — combining 'Raja' (king) and 'Rishi' (sage/saint). Shivaji earned this title because he combined extraordinary military and political ability with equally extraordinary moral virtue. What made Shivaji unique in the history of Indian (and world) rulers was the combination: brilliant military strategist AND administrator AND man of justice AND religiously tolerant AND respectful of women. Contemporary European observers — English East India Company officials who recorded the sacking of Surat — were astonished by the discipline of his army and his protection of non-combatants. Mughal officials, even enemies, recorded his fairness and courage with admiration. Bhakti saints like Tukaram praised him in poetry. Modern Indians remember him as the founder of the first people-centered Swaraj — a kingdom that existed to serve its people. His legacy influenced Bal Gangadhar Tilak, Mahatma Gandhi, and the Indian freedom movement.",
       "pageReference": "35-36",
       "examples": [
-        "The English East India Company's factory records from Surat describe Shivaji's soldiers as unusually disciplined — not harming non-combatants even while sacking the city.",
-        "Khafi Khan, a Mughal historian and no friend of Shivaji, still recorded his respect for religious sites and women in his chronicles.",
-        "Bal Gangadhar Tilak popularized the Ganesh festival partly as a way to connect people with the memory of Shivaji and his Swaraj ideals."
+        { "icon": "🛡️", "text": "The English East India Company's factory records from Surat describe Shivaji's soldiers as unusually disciplined — not harming non-combatants even while sacking the city." },
+        { "icon": "📝", "text": "Khafi Khan, a Mughal historian and no friend of Shivaji, still recorded his respect for religious sites and women in his chronicles." },
+        { "icon": "🥁", "text": "Bal Gangadhar Tilak popularized the Ganesh festival partly as a way to connect people with the memory of Shivaji and his Swaraj ideals." }
       ],
       "keyPoints": [
         "Rajarshi: a king with the qualities of a saint — Shivaji earned this unique title.",
