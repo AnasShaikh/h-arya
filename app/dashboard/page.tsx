@@ -25,11 +25,12 @@ const SUBJECT_CONFIG: Record<string, { emoji: string; subtitle: string; color: s
   Hindi:       { emoji: '📔', subtitle: 'सुलभभारती - सुवचन, कथा, व्याकरण',   color: 'from-red-500 to-orange-600'   },
 };
 
-const DEFAULT_CONFIG = { emoji: '📚', subtitle: 'Grade 7 Maharashtra Board', color: 'from-gray-500 to-gray-600' };
+const DEFAULT_CONFIG = { emoji: '📚', subtitle: 'Maharashtra State Board', color: 'from-gray-500 to-gray-600' };
 
 export default function Dashboard() {
   const [userName, setUserName] = useState('');
   const [chapters, setChapters] = useState<Chapter[]>([]);
+  const [currentGrade, setCurrentGrade] = useState('7');
   const [isLoading, setIsLoading] = useState(true);
   const [expandedSubjects, setExpandedSubjects] = useState<Set<string>>(new Set());
   const router = useRouter();
@@ -37,9 +38,11 @@ export default function Dashboard() {
   useEffect(() => {
     const userId = sessionStorage.getItem('userId');
     const name = sessionStorage.getItem('name');
+    const grade = sessionStorage.getItem('grade') || '7';
     if (!userId) { router.push('/login'); return; }
     setUserName(name || 'Student');
-    fetchCurriculum();
+    setCurrentGrade(grade);
+    fetchCurriculum(grade);
   }, [router]);
 
   const toggleSubject = (subject: string) => {
@@ -54,9 +57,15 @@ export default function Dashboard() {
     });
   };
 
-  const fetchCurriculum = async () => {
+  const handleGradeChange = (grade: string) => {
+    sessionStorage.setItem('grade', grade);
+    setCurrentGrade(grade);
+    setIsLoading(true);
+    fetchCurriculum(grade);
+  };
+
+  const fetchCurriculum = async (grade: string) => {
     try {
-      const grade = sessionStorage.getItem('grade') || '7';
       const response = await fetch(`/api/curriculum?grade=${grade}`);
       if (response.ok) {
         const data = await response.json();
@@ -118,9 +127,27 @@ export default function Dashboard() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="mb-8">
-          <h2 className="text-3xl font-bold text-gray-900 mb-2">Your Learning Dashboard</h2>
-          <p className="text-gray-800">Grade 7 - Maharashtra Board</p>
+        <div className="flex flex-col md:flex-row md:items-end justify-between mb-8 gap-4">
+          <div>
+            <h2 className="text-3xl font-bold text-gray-900 mb-2">Your Learning Dashboard</h2>
+            <p className="text-gray-800">Maharashtra State Board Curriculum</p>
+          </div>
+          
+          <div className="flex bg-white rounded-xl shadow-sm p-1 border border-gray-200">
+            {['7', '8'].map((g) => (
+              <button
+                key={g}
+                onClick={() => handleGradeChange(g)}
+                className={`px-6 py-2 rounded-lg font-bold transition ${
+                  currentGrade === g
+                    ? 'bg-indigo-600 text-white shadow-md'
+                    : 'text-gray-600 hover:bg-gray-50'
+                }`}
+              >
+                Grade {g}
+              </button>
+            ))}
+          </div>
         </div>
 
         <div className="grid gap-8">
