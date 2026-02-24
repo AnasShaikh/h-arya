@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 2,
+    "title": "Plants: Structure and Function",
+    "subject": "Science",
+    "pages": "10-15",
+    "description": "The structure and functions of root, stem, leaf, flower, and fruit."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Which part of the plant grows towards the water?",
+      "options": ["Stem", "Root", "Leaf", "Flower"],
+      "correctAnswer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "The broad, spread-out part of the leaf is called the:",
+      "options": ["Petiole", "Lamina", "Stipule", "Midrib"],
+      "correctAnswer": "B",
+      "difficulty": "medium"
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Structure of a Root",
+      "emoji": "🥕",
+      "colorTheme": "from-orange-500 to-amber-600",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "The part of the plant that grows from the seed into the soil is the root. The radical grows into the root. Roots have root hairs to absorb water and a root cap to protect the tip as it pushes through the soil.",
+      "imageUrl": "https://images.unsplash.com/photo-1599342502660-8f244583b271?auto=format&fit=crop&q=80&w=1000",
+      "pageReference": "10-11",
+      "examples": [
+        { "icon": "🌳", "text": "Taproot: Hibiscus, Banyan" },
+        { "icon": "🌾", "text": "Fibrous roots: Grass, Onion" },
+        { "icon": "🌽", "text": "Adventitious roots: Maize, Sugarcane" }
+      ],
+      "keyPoints": [
+        "Roots provide support and absorb water/minerals",
+        "The root cap protects the delicate growing tip",
+        "Roots like carrot and radish also store food"
+      ],
+      "funFact": "Banyan trees have 'prop roots' that grow from branches into the ground to support their massive weight!",
+      "textbookRef": "Page 10: Root"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Which part of the flower attracts insects for pollination?",
+      "options": ["Sepals", "Petals", "Stamen", "Carpel"],
+      "correctAnswer": "B",
+      "difficulty": "easy"
+    }
+  ]
+}

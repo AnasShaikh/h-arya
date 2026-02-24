@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 3,
+    "title": "Properties of Natural Resources",
+    "subject": "Science",
+    "pages": "16-25",
+    "description": "Properties of Air, Water, and Soil, and their importance."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Which gas is most abundant in the air?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+      "correctAnswer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "Water is often called a 'Universal ______' because it dissolves many substances.",
+      "options": ["Solute", "Solvent", "Mixture", "Acid"],
+      "correctAnswer": "B",
+      "difficulty": "medium"
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Properties of Air",
+      "emoji": "💨",
+      "colorTheme": "from-blue-400 to-indigo-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Air is a mixture of several gases. It has mass and weight. Air exerts pressure in all directions, known as atmospheric pressure. At sea level, it is about 1,01,300 Newtons per square meter.",
+      "imageUrl": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?auto=format&fit=crop&q=80&w=1000",
+      "videoUrl": "https://www.youtube.com/embed/S9V0E-v5_mY",
+      "pageReference": "16-19",
+      "examples": [
+        { "icon": "🎈", "text": "Inflated balloon has more mass" },
+        { "icon": "🥤", "text": "Drinking through a straw uses air pressure" },
+        { "icon": "🚲", "text": "Bicycle tires filled with compressed air" }
+      ],
+      "keyPoints": [
+        "Air pressure decreases as we go higher from sea level",
+        "Bernoulli's Principle: High velocity air has low pressure",
+        "Humidity is the amount of water vapor in the air"
+      ],
+      "funFact": "Daniel Bernoulli, a Swedish scientist, discovered in 1738 that air pressure decreases when its velocity increases!",
+      "textbookRef": "Page 16: Properties of Air"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "What happens to the density of water as it freezes?",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctAnswer": "B",
+      "difficulty": "hard"
+    }
+  ]
+}

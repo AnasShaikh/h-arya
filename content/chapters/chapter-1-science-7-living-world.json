@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 1,
+    "title": "The Living World: Adaptations and Classification",
+    "subject": "Science",
+    "pages": "1-9",
+    "description": "Adaptations in plants and animals in various regions and the hierarchy of classification."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Which of these is an adaptation of desert plants?",
+      "options": ["Broad leaves", "Fleshy stems", "Large flowers", "Thin bark"],
+      "correctAnswer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "The scientific name of an organism consists of Genus and:",
+      "options": ["Family", "Species", "Order", "Class"],
+      "correctAnswer": "B",
+      "difficulty": "medium"
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Adaptation in Plants",
+      "emoji": "🌵",
+      "colorTheme": "from-green-500 to-emerald-600",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Adaptation is the gradual change in the body parts and behavior of organisms which help them to survive, breed, and maintain their existence in a particular environment. For example, desert plants have thorns instead of leaves to reduce water loss.",
+      "imageUrl": "https://images.unsplash.com/photo-1520302630591-fd1c66edc19d?auto=format&fit=crop&q=80&w=1000",
+      "videoUrl": "https://www.youtube.com/embed/fRL8T0O9uTM",
+      "pageReference": "1-5",
+      "examples": [
+        { "icon": "🪷", "text": "Aquatic plants: Waxy layer on leaves" },
+        { "icon": "🐪", "text": "Desert plants: Deep roots, fleshy stems" },
+        { "icon": "🏔️", "text": "Snowy regions: Conical shape to shed snow" }
+      ],
+      "keyPoints": [
+        "Adaptation is not a sudden process; it takes thousands of years",
+        "Plants in snowy regions are conical to prevent snow accumulation",
+        "Lotus stalks are hollow and flexible to survive in water"
+      ],
+      "funFact": "The world's largest flower, Rafflesia, is found in the jungles of Indonesia and is a parasitic plant!",
+      "textbookRef": "Page 1: Adaptation"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Which scientist proposed the Binomial nomenclature?",
+      "options": ["Robert Whittaker", "Carl Linnaeus", "Charles Darwin", "Gregor Mendel"],
+      "correctAnswer": "B",
+      "difficulty": "medium"
+    }
+  ]
+}
