@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "grade": 8,
     "chapterNumber": 1,
     "title": "Living World and Classification of Microbes",
     "subject": "Science",
+    "grade": 8,
     "pages": "1-6",
-    "description": "Biological diversity, Classification of living organisms, and Characteristics of Microbes"
+    "description": "Biological diversity and the Five-Kingdom system of classification."
   },
   "preAssessment": [
     {
@@ -13,144 +13,49 @@
       "question": "Who proposed the five-kingdom system of classification?",
       "options": ["Carl Linnaeus", "Robert Whittaker", "Charles Darwin", "Gregor Mendel"],
       "correctAnswer": "B",
-      "difficulty": "easy",
-      "conceptId": 1
+      "difficulty": "easy"
     },
     {
       "id": "q2",
-      "question": "Which kingdom includes organisms that are unicellular and prokaryotic?",
-      "options": ["Monera", "Protista", "Fungi", "Plantae"],
-      "correctAnswer": "A",
-      "difficulty": "medium",
-      "conceptId": 2
-    },
-    {
-      "id": "q3",
-      "question": "Amoeba and Paramoecium belong to which kingdom?",
-      "options": ["Monera", "Protista", "Fungi", "Animalia"],
+      "question": "Organisms in Kingdom Monera are:",
+      "options": ["Multicellular", "Prokaryotic and Unicellular", "Eukaryotic", "Autotrophic only"],
       "correctAnswer": "B",
-      "difficulty": "easy",
-      "conceptId": 2
-    },
-    {
-      "id": "q4",
-      "question": "Fungi are primarily:",
-      "options": ["Autotrophic", "Saprophytic", "Parasitic", "Chemotrophic"],
-      "correctAnswer": "B",
-      "difficulty": "medium",
-      "conceptId": 2
-    },
-    {
-      "id": "q5",
-      "question": "What is the unit of size for measuring microbes?",
-      "options": ["Meter (m)", "Millimeter (mm)", "Micrometer (μm)", "Kilometer (km)"],
-      "correctAnswer": "C",
-      "difficulty": "medium",
-      "conceptId": 3
+      "difficulty": "medium"
     }
   ],
   "concepts": [
     {
       "id": 1,
-      "title": "Biological Classification",
+      "title": "Robert Whittaker's 5-Kingdom System",
       "emoji": "🌳",
-      "colorTheme": "from-green-400 to-green-600",
+      "colorTheme": "from-green-500 to-emerald-600",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
-      "content": "Classification is the process of grouping organisms based on similarities and differences. Robert Whittaker (1969) proposed the 5-Kingdom system using criteria like complexity of cell structure, complexity of organisms, mode of nutrition, and life style.",
+      "content": "In 1969, Robert Whittaker divided living organisms into 5 kingdoms: Monera, Protista, Fungi, Plantae, and Animalia. This classification is based on cell complexity, body organization, and mode of nutrition.",
+      "imageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&q=80&w=1000",
+      "videoUrl": "https://www.youtube.com/embed/S2CclmO2u80",
       "pageReference": "1-2",
       "examples": [
-        { "icon": "🧬", "text": "Prokaryotic vs Eukaryotic cells" },
-        { "icon": "🌿", "text": "Autotrophic (Plantae)" },
-        { "icon": "🍄", "text": "Saprophytic (Fungi)" }
+        { "icon": "🦠", "text": "Bacteria (Monera)" },
+        { "icon": "💧", "text": "Amoeba (Protista)" },
+        { "icon": "🍄", "text": "Mushrooms (Fungi)" }
       ],
-      "keyTakeaways": [
-        "Whittaker's 5 kingdoms: Monera, Protista, Fungi, Plantae, Animalia",
-        "Hierarchy: Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species",
-        "Classification helps in systematic study of vast diversity"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "The Five Kingdoms",
-      "emoji": "🔬",
-      "colorTheme": "from-blue-400 to-blue-600",
-      "bgColor": "bg-blue-50",
-      "borderColor": "border-blue-300",
-      "content": "1. Monera: All unicellular prokaryotic organisms (e.g. Bacteria). 2. Protista: Unicellular eukaryotic organisms (e.g. Amoeba). 3. Fungi: Multicellular saprophytic eukaryotes. 4. Plantae: Autotrophic multicellular eukaryotes. 5. Animalia: Heterotrophic multicellular eukaryotes lacking cell walls.",
-      "pageReference": "2-3",
-      "examples": [
-        { "icon": "🦠", "text": "Monera: Lactobacilli" },
-        { "icon": "💧", "text": "Protista: Euglena" },
-        { "icon": "🍞", "text": "Fungi: Mushroom, Yeast" }
+      "keyPoints": [
+        "Monera: Prokaryotic, Unicellular",
+        "Protista: Eukaryotic, Unicellular",
+        "Fungi: Saprophytic, Multicellular"
       ],
-      "keyTakeaways": [
-        "Monera have no well-defined nucleus",
-        "Protista have a well-defined nucleus",
-        "Fungi cell walls are made of Chitin"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Classification of Microbes",
-      "emoji": "🦠",
-      "colorTheme": "from-purple-400 to-purple-600",
-      "bgColor": "bg-purple-50",
-      "borderColor": "border-purple-300",
-      "content": "Microbes are classified into Bacteria, Protozoa, Fungi, Algae, and Viruses. Viruses are considered on the edge of living and non-living. Microbes are measured in micrometers (μm) and nanometers (nm).",
-      "pageReference": "4-6",
-      "examples": [
-        { "icon": "🌡️", "text": "Bacteria: Multiply by binary fission" },
-        { "icon": "🦟", "text": "Protozoa: Plasmodium (Malaria)" },
-        { "icon": "💻", "text": "Viruses: Extremely small, need host cell" }
-      ],
-      "keyTakeaways": [
-        "Bacteria are unicellular and independent",
-        "Viruses are 10 to 100 times smaller than bacteria",
-        "Most microbes are beneficial, but some are pathogenic"
-      ]
+      "funFact": "Whittaker used 'Mode of Nutrition' as a key criteria for this widely accepted system!",
+      "textbookRef": "Page 1: Classification criteria"
     }
   ],
   "test": [
     {
       "id": "t1",
-      "question": "Which kingdom contains bacteria?",
-      "options": ["Monera", "Protista", "Fungi", "Plantae"],
-      "correctAnswer": "A",
-      "difficulty": "easy",
-      "conceptId": 2
-    },
-    {
-      "id": "t2",
-      "question": "Fungi cell walls are made of:",
-      "options": ["Cellulose", "Chitin", "Lignin", "Protein"],
+      "question": "Which kingdom is mostly saprophytic?",
+      "options": ["Monera", "Fungi", "Plantae", "Animalia"],
       "correctAnswer": "B",
-      "difficulty": "medium",
-      "conceptId": 2
-    },
-    {
-      "id": "t3",
-      "question": "Which of these is considered at the edge of living and non-living?",
-      "options": ["Bacteria", "Viruses", "Algae", "Protozoa"],
-      "correctAnswer": "B",
-      "difficulty": "medium",
-      "conceptId": 3
-    },
-    {
-      "id": "t4",
-      "question": "Robert Whittaker proposed classification in the year:",
-      "options": ["1859", "1969", "1999", "2005"],
-      "correctAnswer": "B",
-      "difficulty": "hard",
-      "conceptId": 1
-    },
-    {
-      "id": "t5",
-      "question": "Euglena and Volvox are autotrophic members of which kingdom?",
-      "options": ["Monera", "Protista", "Fungi", "Animalia"],
-      "correctAnswer": "B",
-      "difficulty": "hard",
-      "conceptId": 2
+      "difficulty": "easy"
     }
   ]
 }
