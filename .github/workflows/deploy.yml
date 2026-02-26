@@ -23,6 +23,9 @@ jobs:
             
             # Rebuild and restart containers
             docker compose up -d --build
+
+            # Wait for app healthcheck to turn healthy (max 90s)
+            timeout 90 bash -c 'until [ "$(docker inspect --format="{{.State.Health.Status}}" h-arya-app 2>/dev/null)" = "healthy" ]; do echo "Waiting for h-arya-app to become healthy..."; sleep 3; done'
             
             # Run migrations (using the explicit URL fix we found earlier)
             DATABASE_URL=$(grep DATABASE_URL .env | cut -d '=' -f2-)
