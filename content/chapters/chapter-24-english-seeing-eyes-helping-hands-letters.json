@@ -10,7 +10,12 @@
     {
       "id": "pre_24_1",
       "question": "What project did the students complete as part of 'Seeing Eyes Helping Hands'?",
-      "options": ["A) They planted trees in the school garden", "B) They visited a Home for the Aged and helped the residents", "C) They collected donations for flood victims", "D) They cleaned their neighbourhood"],
+      "options": [
+        "A) They planted trees in the school garden",
+        "B) They visited a Home for the Aged and helped the residents",
+        "C) They collected donations for flood victims",
+        "D) They cleaned their neighbourhood"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_24_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_24_2",
       "question": "Who wrote the formal thank-you letter to the Principal?",
-      "options": ["A) Mr Bendre (a parent)", "B) A student named Priya", "C) Kiran Somalwar, the school Secretary", "D) The principal of another school"],
+      "options": [
+        "A) Mr Bendre (a parent)",
+        "B) A student named Priya",
+        "C) Kiran Somalwar, the school Secretary",
+        "D) The principal of another school"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_24_1"
@@ -26,7 +36,12 @@
     {
       "id": "pre_24_3",
       "question": "What is the closing phrase used in an informal letter?",
-      "options": ["A) Yours faithfully", "B) With warm regards", "C) To Whomsoever It May Concern", "D) Respectfully yours"],
+      "options": [
+        "A) Yours faithfully",
+        "B) With warm regards",
+        "C) To Whomsoever It May Concern",
+        "D) Respectfully yours"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_24_4"
@@ -34,7 +49,12 @@
     {
       "id": "pre_24_4",
       "question": "In a formal letter, what comes right after the date?",
-      "options": ["A) The body of the letter", "B) The refrain", "C) The receiver's address", "D) The signature"],
+      "options": [
+        "A) The body of the letter",
+        "B) The refrain",
+        "C) The receiver's address",
+        "D) The signature"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_24_5"
@@ -42,7 +62,12 @@
     {
       "id": "pre_24_5",
       "question": "What change did Mr Bendre notice in his son and nephew after the school project?",
-      "options": ["A) They became better at sports", "B) They started reading more books", "C) Their thinking and behaviour changed positively", "D) They began helping in the kitchen"],
+      "options": [
+        "A) They became better at sports",
+        "B) They started reading more books",
+        "C) Their thinking and behaviour changed positively",
+        "D) They began helping in the kitchen"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_24_2"
@@ -174,7 +199,12 @@
     {
       "id": "test_24_1",
       "question": "What did students do in the 'Seeing Eyes Helping Hands' project?",
-      "options": ["A) They planted a forest near the school", "B) They visited a Home for the Aged, helped residents, and did story-telling", "C) They collected old clothes for donation", "D) They organised a school sports day"],
+      "options": [
+        "A) They planted a forest near the school",
+        "B) They visited a Home for the Aged, helped residents, and did story-telling",
+        "C) They collected old clothes for donation",
+        "D) They organised a school sports day"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "The students visited a Home for the Aged, helped the elderly residents with daily tasks, did story-telling sessions, and spent quality time with them as their school project."
@@ -182,7 +212,12 @@
     {
       "id": "test_24_2",
       "question": "Who is Kiran Somalwar?",
-      "options": ["A) A student who participated in the project", "B) A teacher at the school", "C) A Secretary who wrote a formal thank-you letter to the Principal", "D) The principal of the Home for the Aged"],
+      "options": [
+        "A) A student who participated in the project",
+        "B) A teacher at the school",
+        "C) A Secretary who wrote a formal thank-you letter to the Principal",
+        "D) The principal of the Home for the Aged"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "Kiran Somalwar is the Secretary (of an organisation related to the Home for the Aged) who writes a formal thank-you letter to the school Principal after the students' visit."
@@ -190,7 +225,12 @@
     {
       "id": "test_24_3",
       "question": "Why did Mr Bendre visit the Principal?",
-      "options": ["A) To complain about homework given to his son", "B) To thank the Principal because his son and nephew's thinking and behaviour changed positively after the project", "C) To request a change in the school timetable", "D) To pay the school fees"],
+      "options": [
+        "A) To complain about homework given to his son",
+        "B) To thank the Principal because his son and nephew's thinking and behaviour changed positively after the project",
+        "C) To request a change in the school timetable",
+        "D) To pay the school fees"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "Mr Bendre visited the Principal personally to express his gratitude, noting that after participating in the project, his son and nephew showed positively changed thinking and behaviour."
@@ -198,7 +238,12 @@
     {
       "id": "test_24_4",
       "question": "What is the correct salutation for an INFORMAL letter to a friend?",
-      "options": ["A) Sir/Madam", "B) To Whomsoever It May Concern", "C) Dear Priya / My dear Aarav", "D) Respected Principal"],
+      "options": [
+        "A) Sir/Madam",
+        "B) To Whomsoever It May Concern",
+        "C) Dear Priya / My dear Aarav",
+        "D) Respected Principal"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "In an informal letter, the salutation is 'Dear [name]' or 'My dear [name]'. Formal letters use 'Sir/Madam'. 'Respected Principal' is used in formal school letters."
@@ -206,7 +251,12 @@
     {
       "id": "test_24_5",
       "question": "What is the closing phrase for a FORMAL letter?",
-      "options": ["A) With warm regards", "B) Your loving friend", "C) Lots of love", "D) Yours faithfully"],
+      "options": [
+        "A) With warm regards",
+        "B) Your loving friend",
+        "C) Lots of love",
+        "D) Yours faithfully"
+      ],
       "correctAnswer": "D",
       "difficulty": "easy",
       "explanation": "'Yours faithfully' is the closing phrase for formal letters. Informal letters use 'With warm regards', 'Your loving friend', or similar warm expressions."
@@ -214,7 +264,12 @@
     {
       "id": "test_24_6",
       "question": "In an informal letter format, what comes immediately after the date?",
-      "options": ["A) The subject line", "B) The receiver's address", "C) The salutation (Dear/My dear)", "D) The signature"],
+      "options": [
+        "A) The subject line",
+        "B) The receiver's address",
+        "C) The salutation (Dear/My dear)",
+        "D) The signature"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "In an informal letter, after the date comes the salutation (Dear/My dear [name]). Informal letters do not have a receiver's address or subject line like formal letters."
@@ -222,7 +277,12 @@
     {
       "id": "test_24_7",
       "question": "Which of these letters would be a FORMAL letter?",
-      "options": ["A) A letter to your cousin inviting them to your birthday party", "B) A letter to your friend about your school trip", "C) A letter to the Municipal Corporation requesting a road repair", "D) A letter to your grandmother telling her about your exam results"],
+      "options": [
+        "A) A letter to your cousin inviting them to your birthday party",
+        "B) A letter to your friend about your school trip",
+        "C) A letter to the Municipal Corporation requesting a road repair",
+        "D) A letter to your grandmother telling her about your exam results"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "A letter to the Municipal Corporation is a formal letter — it is to an official body, uses formal language, and requires proper format with Sir/Madam, subject line, and Yours faithfully."
@@ -230,7 +290,12 @@
     {
       "id": "test_24_8",
       "question": "What is the language style of an informal letter?",
-      "options": ["A) Stiff, formal, with no personal expressions", "B) Professional, using technical terms", "C) Warm, friendly, personal, and conversational", "D) Brief and to the point with bullet points"],
+      "options": [
+        "A) Stiff, formal, with no personal expressions",
+        "B) Professional, using technical terms",
+        "C) Warm, friendly, personal, and conversational",
+        "D) Brief and to the point with bullet points"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "Informal letters are written in a warm, friendly, personal, and conversational tone. You can share feelings, memories, jokes, and personal news — unlike formal letters which are stiff and professional."
@@ -258,5 +323,156 @@
       "The positive behaviour change in Mr Bendre's son and nephew reflects what educators call 'experiential learning' — learning through doing, which is far more powerful than textbook knowledge."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Seeing Eyes Helping Hands (Letters)",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "What did students do in the 'Seeing Eyes Helping Hands' project?",
+        "answer": "The students visited a Home for the Aged, helped the elderly residents with daily tasks, did story-telling sessions, and spent quality time with them as their school project.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who is Kiran Somalwar?",
+        "answer": "Kiran Somalwar is the Secretary (of an organisation related to the Home for the Aged) who writes a formal thank-you letter to the school Principal after the students' visit.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why did Mr Bendre visit the Principal?",
+        "answer": "Mr Bendre visited the Principal personally to express his gratitude, noting that after participating in the project, his son and nephew showed positively changed thinking and behaviour.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the correct salutation for an INFORMAL letter to a friend?",
+        "answer": "In an informal letter, the salutation is 'Dear [name]' or 'My dear [name]'. Formal letters use 'Sir/Madam'. 'Respected Principal' is used in formal school letters.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the closing phrase for a FORMAL letter?",
+        "answer": "'Yours faithfully' is the closing phrase for formal letters. Informal letters use 'With warm regards', 'Your loving friend', or similar warm expressions.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In an informal letter format, what comes immediately after the date?",
+        "answer": "In an informal letter, after the date comes the salutation (Dear/My dear [name]). Informal letters do not have a receiver's address or subject line like formal letters.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these letters would be a FORMAL letter?",
+        "answer": "A letter to the Municipal Corporation is a formal letter — it is to an official body, uses formal language, and requires proper format with Sir/Madam, subject line, and Yours faithfully.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the language style of an informal letter?",
+        "answer": "Informal letters are written in a warm, friendly, personal, and conversational tone. You can share feelings, memories, jokes, and personal news — unlike formal letters which are stiff and professional.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What did students do in the 'Seeing Eyes Helping Hands' project?",
+        "modelAnswer": "As part of the 'Seeing Eyes Helping Hands' project, the students visited a Home for the Aged. They actively helped the elderly residents with their daily tasks to make their lives easier. Additionally, the students conducted story-telling sessions and spent quality time listening to the residents' memories. This compassionate effort brought joy to the elderly and taught the students the value of empathy.",
+        "keyPoints": [
+          "Visited a Home for the Aged.",
+          "Helped elderly residents with daily tasks.",
+          "Conducted story-telling sessions and spent quality time.",
+          "Taught students empathy and brought joy to residents."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Why did Mr Bendre visit the Principal?",
+        "modelAnswer": "Mr Bendre, a parent whose son and nephew participated in the project, visited the Principal personally to express his deep gratitude. He noticed a remarkable positive change in the thinking and behaviour of his son and nephew at home. They had become more considerate, helpful, and empathetic towards elderly people after their visit. His visit highlighted that the project successfully transformed the students into better individuals.",
+        "keyPoints": [
+          "Visited to express gratitude for the project.",
+          "Noticed positive behavioral changes in his son and nephew.",
+          "The boys became more considerate, helpful, and empathetic.",
+          "Highlighted the transformational success of the project."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What is the correct salutation for an INFORMAL letter to a friend?",
+        "modelAnswer": "In an informal letter written to a friend, the salutation is warm, personal, and friendly. The correct salutation usually starts with 'Dear' or 'My dear' followed by the friend's first name, for example, 'Dear Priya' or 'My dear Aarav'. Unlike formal letters that use titles like 'Sir' or 'Madam', informal letters use a relaxed tone to show a personal connection. This sets a conversational and affectionate mood right from the beginning of the letter.",
+        "keyPoints": [
+          "Salutation is warm, personal, and friendly.",
+          "Starts with 'Dear' or 'My dear' followed by the first name.",
+          "Avoids formal titles like 'Sir' or 'Madam'.",
+          "Sets a conversational and affectionate mood."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What is the closing phrase for a FORMAL letter?",
+        "modelAnswer": "A formal letter is written to officials, strangers, or organizations, and it requires a polite and professional closing phrase. The standard closing phrase for a formal letter is 'Yours faithfully' or 'Yours sincerely'. This closing shows respect and maintains the business-like tone of the correspondence. It is completely different from informal letters, which use casual and warm closings like 'Yours lovingly'.",
+        "keyPoints": [
+          "Used for official and professional correspondence.",
+          "The standard closing is 'Yours faithfully' or 'Yours sincerely'.",
+          "Shows respect and maintains a business-like tone.",
+          "Contrasts with warm, casual closings of informal letters."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "In an informal letter format, what comes immediately after the date?",
+        "modelAnswer": "In the format of an informal letter, the salutation comes immediately after the date. Since informal letters are written to friends and family, there is no need to include the receiver's official address or a subject line. Instead, the writer directly greets the recipient using a warm salutation like 'Dear [Name]' or 'My dear [Name]'. This direct transition makes the letter feel more personal and conversational right from the start.",
+        "keyPoints": [
+          "The salutation comes immediately after the date.",
+          "Receiver's address and subject line are omitted.",
+          "Uses warm greetings like 'Dear' or 'My dear'.",
+          "Makes the letter feel personal and conversational."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What is the language style of an informal letter?",
+        "modelAnswer": "The language style of an informal letter is highly warm, friendly, and conversational, reflecting a close personal relationship. It allows the writer to share personal news, feelings, memories, and even light humour in a relaxed tone. Casual expressions and everyday vocabulary are encouraged, unlike the stiff and precise language used in formal letters. This style makes the recipient feel connected and cherished, as if they are having a direct conversation with the writer.",
+        "keyPoints": [
+          "Language is warm, friendly, and conversational.",
+          "Allows sharing of personal feelings, memories, and humour.",
+          "Casual expressions and everyday vocabulary are used.",
+          "Makes the recipient feel connected as in a direct conversation."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

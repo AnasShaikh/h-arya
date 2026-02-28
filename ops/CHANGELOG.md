@@ -1,0 +1,41 @@
+# CHANGELOG
+
+- 2026-02-27: Initialized mission-dedicated ops ledger in `/opt/h-arya/ops`.
+- 2026-02-27: Added strict content API subject/grade mapping safeguards.
+- 2026-02-27: Added science curriculum coverage audit command (`npm run audit:science`).
+- 2026-02-27: Added deterministic live QA script (`scripts/live-qa.sh`) and QA report outputs.
+- 2026-02-27: Added autonomous role contracts (`main`, `coding-agent`, `tester`, `reporter`) and autonomy policy.
+- 2026-02-27: Added recurring cron jobs for conductor, tester, chapter-crafter, and daily reporter.
+- 2026-02-27: Added Science chapter content files for chapter numbers 7, 8, and 9.
+- 2026-02-27: Patched TTS route to avoid build-time failure when ElevenLabs key is absent.
+- Perf(content): Upgraded Science chapter 1 to meet quality standards.
+- Perf(content): Upgraded Science chapter 2 to meet quality standards.
+- Perf(content): Upgraded Science chapter 3 to meet quality standards.
+- Perf(content): Upgraded Science chapter 4 to meet quality standards.
+- Perf(content): Upgraded Science chapter 5 to meet quality standards.
+- 2026-02-28: All 121 chapter JSONs updated with interactiveElement; InteractiveElement.tsx component built and deployed; Hindi (13 chapters), History Ch1, Science Ch6 quality fixed; all Grade 7 subjects now 100% passing quality gates
+- 2026-02-28: All 121 chapters got interactiveElement; InteractiveElement.tsx built (8 types); Hindi/History/Science Ch6 quality fixed; all Grade 7 subjects 100% passing; live QA pass
+- Feat(ui): Added interactiveElement rendering to chapter revision page with content-driven fetch.
+- Quality(content): Fixed 3 weak Grade 8 chapter files to pass pre/test/concepts thresholds.
+- UX(dashboard): Added subject-specific color accents to chapter cards and start buttons.
+- QA(e2e): Verified interactiveElement live; revision renders, explanation page missing render (regression).
+- Fix(ui): Restored interactiveElement rendering on explanation page and verified live.
+- Feat(ui): Added interactiveElement rendering to pre-assessment results page.
+- Feat(progress): Added interactiveElement completion tracking (new Stage 6) with persisted chapter progress updates.
+- Feat(progress): Wired interactive activity completion tracking via onComplete callbacks across activity types.
+- 2026-02-28: 72h sprint started; Memorize MVP shipped in explanation with real flashcards+recall; backfilled textbookExercise.qaCards across 121 chapters; deployed and QA pass
+- Feat(exam-mode): Added per-chapter Textbook Recall Test flow + Exam Mode CTA in chapter overview.
+- Feat(analytics): Added first-cohort analytics dashboard + cohort KPI API and linked it from dashboard.
+- Ops: Added non-science textbook-gap inventory report and marked source-replacement task blocked pending source books.
+- Feat(analytics): Added grade/board/date filters and cohort segmentation support to `/api/analytics/cohort` and `/analytics`.
+- Ops(pilot): Added v1 onboarding experiment brief with new_7d cohort conversion metrics and 24h measurement loop.
+- 2026-02-28: Replaced default Vercel favicon with H-Arya custom icon (app/icon.svg) and wired metadata icons; deployed.
+- Ops(analytics): Added `scripts/pilot-cohort-kpis.mjs` and generated baseline `new_7d` onboarding KPI snapshot report.
+- 2026-02-28: Added docs/RESOURCE_REGISTRY.md + docs/HANDOFF_LOWER_MODEL.md for resilient handoff under context/API limits.
+- 2026-02-28: Shipped Long Answer Practice in Memorize; generated textbookExercise.longAnswers for all chapters; deployed.
+- Content: Updated History Ch.1 JSON with exact textbook Q&A for long answers; processed history-7-en.pdf extraction.
+- Content: Refined History Ch1 long answers with exact textbook Q&A from PDF source.
+- Content: Extended refinement to History Ch2 with exact textbook Q&A from PDF source.
+- Content: Extended refinement to History Ch4 with exact textbook Q&A from PDF source.
+- 2026-02-28: Added Razorpay readiness pages (Pricing, Privacy Policy, Terms, Refund Policy, Contact), updated landing footer links, built successfully, and redeployed app container.
+- Content: Extended refinement to History Ch5 with exact textbook Q&A from PDF source.

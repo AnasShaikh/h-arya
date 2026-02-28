@@ -10,7 +10,12 @@
     {
       "id": "q1",
       "question": "Asmita's cycling times (Mon-Sat): 20,20,22,18,18,20 minutes. What is the average?",
-      "options": ["19⅔ minutes", "20 minutes", "18 minutes", "22 minutes"],
+      "options": [
+        "19⅔ minutes",
+        "20 minutes",
+        "18 minutes",
+        "22 minutes"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
@@ -18,7 +23,12 @@
     {
       "id": "q2",
       "question": "What is the formula for average?",
-      "options": ["Sum of all scores ÷ Number of scores", "Sum of all scores × Number of scores", "Highest score - Lowest score", "Middle score"],
+      "options": [
+        "Sum of all scores ÷ Number of scores",
+        "Sum of all scores × Number of scores",
+        "Highest score - Lowest score",
+        "Middle score"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "The number of times a score appears in data is called its _____.",
-      "options": ["Frequency", "Average", "Tally", "Total"],
+      "options": [
+        "Frequency",
+        "Average",
+        "Tally",
+        "Total"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 3
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "In a frequency table, the 5th tally mark is written as _____.",
-      "options": ["|||| (crossed)", "||||", "।।।।।", "|||||"],
+      "options": [
+        "|||| (crossed)",
+        "||||",
+        "।।।।।",
+        "|||||"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 4
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "The average of 9, 11, 8, 20, 10, 16, 12 is _____.",
-      "options": ["12.28", "11", "10", "14"],
+      "options": [
+        "12.28",
+        "11",
+        "10",
+        "14"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 1
@@ -59,10 +84,22 @@
       "content": "The average (or mean) gives a single representative value for a set of data. Average = Sum of all scores ÷ Total number of scores. For example, if Asmita cycles in 20, 20, 22, 18, 18, 20 minutes, the average = 118/6 = 19⅔ minutes. The average can be a fraction even when all scores are whole numbers.",
       "pageReference": "95",
       "examples": [
-        { "icon": "🚲", "text": "Asmita cycling times: (20+20+22+18+18+20)/6 = 118/6 = 19⅔ min" },
-        { "icon": "🏫", "text": "School distances: (950+800+700+1500+1000+750)/6 = 950m" },
-        { "icon": "🏆", "text": "Rutuja skips: (60+62+61+60+59+63+58)/7 = 60.42 jumps/min" },
-        { "icon": "📊", "text": "Average can be a fraction even if all scores are whole numbers" }
+        {
+          "icon": "🚲",
+          "text": "Asmita cycling times: (20+20+22+18+18+20)/6 = 118/6 = 19⅔ min"
+        },
+        {
+          "icon": "🏫",
+          "text": "School distances: (950+800+700+1500+1000+750)/6 = 950m"
+        },
+        {
+          "icon": "🏆",
+          "text": "Rutuja skips: (60+62+61+60+59+63+58)/7 = 60.42 jumps/min"
+        },
+        {
+          "icon": "📊",
+          "text": "Average can be a fraction even if all scores are whole numbers"
+        }
       ],
       "keyPoints": [
         "Average = Sum of all scores ÷ Number of scores",
@@ -84,10 +121,22 @@
       "content": "Steps to find average: 1) Express all values in the same unit. 2) Add all scores. 3) Divide by the count. Example: distances 950m, 800m, 700m, 1.5km, 1km, 750m — convert 1.5km=1500m, 1km=1000m first, then sum and divide by 6.",
       "pageReference": "95-96",
       "examples": [
-        { "icon": "📏", "text": "Mix of km and m: convert all to same unit first" },
-        { "icon": "💰", "text": "Sales: ₹960,830,945,800,847,970; average = (total)/6" },
-        { "icon": "🌧️", "text": "Rainfall: 9+11+8+20+10+16+12=86mm; average=86/7≈12.28mm" },
-        { "icon": "🌾", "text": "Vidarbha rainfall over 5 years: (900+650+450+733+400)/5 = 2133/5 = 426.6mm" }
+        {
+          "icon": "📏",
+          "text": "Mix of km and m: convert all to same unit first"
+        },
+        {
+          "icon": "💰",
+          "text": "Sales: ₹960,830,945,800,847,970; average = (total)/6"
+        },
+        {
+          "icon": "🌧️",
+          "text": "Rainfall: 9+11+8+20+10+16+12=86mm; average=86/7≈12.28mm"
+        },
+        {
+          "icon": "🌾",
+          "text": "Vidarbha rainfall over 5 years: (900+650+450+733+400)/5 = 2133/5 = 426.6mm"
+        }
       ],
       "keyPoints": [
         "Always convert to same units before averaging",
@@ -109,10 +158,22 @@
       "content": "When a score appears more than once in data, the number of times it appears is called its frequency. Instead of listing every occurrence, we record scores and their frequencies in a table — much more efficient for large datasets.",
       "pageReference": "97",
       "examples": [
-        { "icon": "🔢", "text": "Data: 1,3,2,4,5,4,1,3,4,5,6,4,6,4,6 — score 4 appears 5 times, frequency=5" },
-        { "icon": "🫛", "text": "Priya shelling peas: 50 pods, frequencies of 2,3,4,5,6,7,8 peas per pod" },
-        { "icon": "📊", "text": "Class distances: 15 students, 6 different distances (scores)" },
-        { "icon": "🎲", "text": "Dice: numbers 1-6, frequency of each number in 40 rolls" }
+        {
+          "icon": "🔢",
+          "text": "Data: 1,3,2,4,5,4,1,3,4,5,6,4,6,4,6 — score 4 appears 5 times, frequency=5"
+        },
+        {
+          "icon": "🫛",
+          "text": "Priya shelling peas: 50 pods, frequencies of 2,3,4,5,6,7,8 peas per pod"
+        },
+        {
+          "icon": "📊",
+          "text": "Class distances: 15 students, 6 different distances (scores)"
+        },
+        {
+          "icon": "🎲",
+          "text": "Dice: numbers 1-6, frequency of each number in 40 rolls"
+        }
       ],
       "keyPoints": [
         "Frequency = number of times a score occurs",
@@ -134,10 +195,22 @@
       "content": "A frequency table has three columns: Score, Tally marks, Frequency. Scores are written in ascending order. Tally marks are made one by one (groups of 5: four vertical, fifth diagonal). Count tallies to get frequency. Sum of all frequencies = N (total number of scores).",
       "pageReference": "97-98",
       "examples": [
-        { "icon": "📋", "text": "Scores in ascending order: 1,2,3,4,5,6" },
-        { "icon": "🖊️", "text": "Tally marks: ।, ।।, ।।।, ।।।।, then ।।।। (group of 5)" },
-        { "icon": "📊", "text": "Distance data: score 4 has frequency 5 (appears 5 times)" },
-        { "icon": "🫛", "text": "Pea pods: frequencies of 8,15,12,2,7,3,3 for 2,3,4,5,6,7,8 peas; N=50" }
+        {
+          "icon": "📋",
+          "text": "Scores in ascending order: 1,2,3,4,5,6"
+        },
+        {
+          "icon": "🖊️",
+          "text": "Tally marks: ।, ।।, ।।।, ।।।।, then ।।।। (group of 5)"
+        },
+        {
+          "icon": "📊",
+          "text": "Distance data: score 4 has frequency 5 (appears 5 times)"
+        },
+        {
+          "icon": "🫛",
+          "text": "Pea pods: frequencies of 8,15,12,2,7,3,3 for 2,3,4,5,6,7,8 peas; N=50"
+        }
       ],
       "keyPoints": [
         "Three columns: Score | Tally marks | Frequency",
@@ -159,10 +232,22 @@
       "content": "For large datasets, use the frequency table to find average efficiently. Instead of adding all 50 values individually, multiply each score by its frequency: sum(score × frequency) / N. Example: 8 pods with 2 peas: 2×8=16; 15 pods with 3 peas: 3×15=45; etc.",
       "pageReference": "98",
       "examples": [
-        { "icon": "⚡", "text": "Peas: 2×8+3×15+4×12+5×2+6×7+7×3+8×3 = 206; avg = 206/50 = 4.12" },
-        { "icon": "📊", "text": "Much faster than adding 50 individual numbers!" },
-        { "icon": "🧮", "text": "Average = Σ(score × frequency) / N" },
-        { "icon": "✅", "text": "N = total frequency = sum of all individual frequencies" }
+        {
+          "icon": "⚡",
+          "text": "Peas: 2×8+3×15+4×12+5×2+6×7+7×3+8×3 = 206; avg = 206/50 = 4.12"
+        },
+        {
+          "icon": "📊",
+          "text": "Much faster than adding 50 individual numbers!"
+        },
+        {
+          "icon": "🧮",
+          "text": "Average = Σ(score × frequency) / N"
+        },
+        {
+          "icon": "✅",
+          "text": "N = total frequency = sum of all individual frequencies"
+        }
       ],
       "keyPoints": [
         "Average = Σ(score × frequency) / N",
@@ -179,91 +264,163 @@
     {
       "id": "q1",
       "question": "The daily rainfall in a week: 9, 11, 8, 20, 10, 16, 12 mm. What is the average?",
-      "options": ["12.28 mm", "11 mm", "13 mm", "86 mm"],
+      "options": [
+        "12.28 mm",
+        "11 mm",
+        "13 mm",
+        "86 mm"
+      ],
       "correctAnswer": "A",
       "explanation": "Average = (9+11+8+20+10+16+12)/7 = 86/7 ≈ 12.28 mm",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "96"
     },
     {
       "id": "q2",
       "question": "Six students live at 950m, 800m, 700m, 1.5km, 1km, 750m from school. Average distance?",
-      "options": ["950 m", "800 m", "1000 m", "850 m"],
+      "options": [
+        "950 m",
+        "800 m",
+        "1000 m",
+        "850 m"
+      ],
       "correctAnswer": "A",
       "explanation": "Convert: 1.5km=1500m, 1km=1000m. Sum = 950+800+700+1500+1000+750=5700m. Average = 5700/6 = 950m.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "95"
     },
     {
       "id": "q3",
       "question": "Annual rainfall in Vidarbha over 5 years: 900, 650, 450, 733, 400 mm. Average?",
-      "options": ["626.6 mm", "500 mm", "900 mm", "2133 mm"],
+      "options": [
+        "626.6 mm",
+        "500 mm",
+        "900 mm",
+        "2133 mm"
+      ],
       "correctAnswer": "A",
       "explanation": "Average = (900+650+450+733+400)/5 = 3133/5 = 626.6 mm",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "96"
     },
     {
       "id": "q4",
       "question": "The number of times a particular score appears in data is called _____.",
-      "options": ["Frequency", "Average", "Mean", "Tally"],
+      "options": [
+        "Frequency",
+        "Average",
+        "Mean",
+        "Tally"
+      ],
       "correctAnswer": "A",
       "explanation": "Frequency is the number of times a particular score occurs in the data.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "97"
     },
     {
       "id": "q5",
       "question": "Scores: 1,2,3,4,5 appear 2,1,2,5,2 times. What is N?",
-      "options": ["12", "5", "10", "15"],
+      "options": [
+        "12",
+        "5",
+        "10",
+        "15"
+      ],
       "correctAnswer": "A",
       "explanation": "N = sum of all frequencies = 2+1+2+5+2 = 12 (total number of scores)",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "97"
     },
     {
       "id": "q6",
       "question": "Snacks stall hourly sales: ₹960, 830, 945, 800, 847, 970. Average hourly sales?",
-      "options": ["₹892", "₹960", "₹847", "₹900"],
+      "options": [
+        "₹892",
+        "₹960",
+        "₹847",
+        "₹900"
+      ],
       "correctAnswer": "A",
       "explanation": "Sum = 960+830+945+800+847+970 = 5352. Average = 5352/6 = ₹892.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "96"
     },
     {
       "id": "q7",
       "question": "Priya counts peas in pods. Frequency table shows 2 peas: 8 pods, 3 peas: 15 pods, 4 peas: 12 pods. How many total pods (these 3 scores)?",
-      "options": ["35", "50", "9", "25"],
+      "options": [
+        "35",
+        "50",
+        "9",
+        "25"
+      ],
       "correctAnswer": "A",
       "explanation": "Total for these 3 scores = 8+15+12 = 35 pods",
-      "conceptIds": [3, 4],
+      "conceptIds": [
+        3,
+        4
+      ],
       "pageReference": "98"
     },
     {
       "id": "q8",
       "question": "Using frequency table: score 3 appears 15 times, score 4 appears 12 times. Their combined contribution to sum is _____.",
-      "options": ["3×15 + 4×12 = 45+48 = 93", "3+4=7", "15+12=27", "3×4=12"],
+      "options": [
+        "3×15 + 4×12 = 45+48 = 93",
+        "3+4=7",
+        "15+12=27",
+        "3×4=12"
+      ],
       "correctAnswer": "A",
       "explanation": "For average from frequency table: each score × its frequency. 3×15=45 and 4×12=48. Combined = 93.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "98"
     },
     {
       "id": "q9",
       "question": "Average weights of sacks: 49.8, 49.7, 49.5, 49.3, 50, 48.9, 49.2, 48.8 kg. Average?",
-      "options": ["49.4 kg", "49.5 kg", "50 kg", "48.8 kg"],
+      "options": [
+        "49.4 kg",
+        "49.5 kg",
+        "50 kg",
+        "48.8 kg"
+      ],
       "correctAnswer": "A",
       "explanation": "Sum = 49.8+49.7+49.5+49.3+50+48.9+49.2+48.8 = 395.2. Average = 395.2/8 = 49.4 kg",
-      "conceptIds": [1, 2],
+      "conceptIds": [
+        1,
+        2
+      ],
       "pageReference": "96"
     },
     {
       "id": "q10",
       "question": "Rutuja's daily skipping jumps for 7 days: 60,62,61,60,59,63,58. What is her average?",
-      "options": ["60.43", "60", "62", "61"],
+      "options": [
+        "60.43",
+        "60",
+        "62",
+        "61"
+      ],
       "correctAnswer": "A",
       "explanation": "Sum = 60+62+61+60+59+63+58 = 423. Average = 423/7 = 60.43 jumps/minute.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "96"
     }
   ],
@@ -292,8 +449,138 @@
       "Average number of peas in peapods"
     ],
     "formulas": [
-      { "formula": "Average = Σ(scores) / n", "explanation": "Sum of all scores divided by number of scores" },
-      { "formula": "Average = Σ(score × frequency) / N", "explanation": "Efficient method when using frequency table" }
+      {
+        "formula": "Average = Σ(scores) / n",
+        "explanation": "Sum of all scores divided by number of scores"
+      },
+      {
+        "formula": "Average = Σ(score × frequency) / N",
+        "explanation": "Efficient method when using frequency table"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Arrange the pieces to form the correct mathematical expression.",
+    "data": {
+      "formula": "Mean = Sum of all values / Number of values",
+      "components": [
+        "Mean",
+        "=",
+        "Sum of values",
+        "/",
+        "Number of values"
+      ],
+      "explanation": "The mean (average) is calculated by dividing the total sum by the count of values."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Statistics",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "The daily rainfall in a week: 9, 11, 8, 20, 10, 16, 12 mm. What is the average?",
+        "answer": "Average = (9+11+8+20+10+16+12)/7 = 86/7 ≈ 12.28 mm",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Six students live at 950m, 800m, 700m, 1.5km, 1km, 750m from school. Average distance?",
+        "answer": "Convert: 1.5km=1500m, 1km=1000m. Sum = 950+800+700+1500+1000+750=5700m. Average = 5700/6 = 950m.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Annual rainfall in Vidarbha over 5 years: 900, 650, 450, 733, 400 mm. Average?",
+        "answer": "Average = (900+650+450+733+400)/5 = 3133/5 = 626.6 mm",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The number of times a particular score appears in data is called _____.",
+        "answer": "Frequency is the number of times a particular score occurs in the data.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Scores: 1,2,3,4,5 appear 2,1,2,5,2 times. What is N?",
+        "answer": "N = sum of all frequencies = 2+1+2+5+2 = 12 (total number of scores)",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Snacks stall hourly sales: ₹960, 830, 945, 800, 847, 970. Average hourly sales?",
+        "answer": "Sum = 960+830+945+800+847+970 = 5352. Average = 5352/6 = ₹892.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Priya counts peas in pods. Frequency table shows 2 peas: 8 pods, 3 peas: 15 pods, 4 peas: 12 pods. How many total pods (these 3 scores)?",
+        "answer": "Total for these 3 scores = 8+15+12 = 35 pods",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Using frequency table: score 3 appears 15 times, score 4 appears 12 times. Their combined contribution to sum is _____.",
+        "answer": "For average from frequency table: each score × its frequency. 3×15=45 and 4×12=48. Combined = 93.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Average weights of sacks: 49.8, 49.7, 49.5, 49.3, 50, 48.9, 49.2, 48.8 kg. Average?",
+        "answer": "Sum = 49.8+49.7+49.5+49.3+50+48.9+49.2+48.8 = 395.2. Average = 395.2/8 = 49.4 kg",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Rutuja's daily skipping jumps for 7 days: 60,62,61,60,59,63,58. What is her average?",
+        "answer": "Sum = 60+62+61+60+59+63+58 = 423. Average = 423/7 = 60.43 jumps/minute.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "The daily rainfall in a week: 9, 11, 8, 20, 10, 16, 12 mm. What is the average?",
+        "modelAnswer": "Answer: Average = (9+11+8+20+10+16+12)/7 = 86/7 ≈ 12.28 mm\nThis question belongs to the chapter \"Statistics\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Average = (9+11+8+20+10+16+12)/7 = 86/7 ≈ 12.28 mm",
+          "Concept link: Statistics (Mathematics).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Scores: 1,2,3,4,5 appear 2,1,2,5,2 times. What is N?",
+        "modelAnswer": "Answer: N = sum of all frequencies = 2+1+2+5+2 = 12 (total number of scores)\nThis question belongs to the chapter \"Statistics\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: N = sum of all frequencies = 2+1+2+5+2 = 12 (total number of scores)",
+          "Concept link: Statistics (Mathematics).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Priya counts peas in pods. Frequency table shows 2 peas: 8 pods, 3 peas: 15 pods, 4 peas: 12 pods. How many total pods (these 3 scores)?",
+        "modelAnswer": "Answer: Total for these 3 scores = 8+15+12 = 35 pods\nThis question belongs to the chapter \"Statistics\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Total for these 3 scores = 8+15+12 = 35 pods",
+          "Concept link: Statistics (Mathematics).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Rutuja's daily skipping jumps for 7 days: 60,62,61,60,59,63,58. What is her average?",
+        "modelAnswer": "Answer: Sum = 60+62+61+60+59+63+58 = 423. Average = 423/7 = 60.43 jumps/minute.\nThis question belongs to the chapter \"Statistics\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Sum = 60+62+61+60+59+63+58 = 423. Average = 423/7 = 60.43 jumps/minute.",
+          "Concept link: Statistics (Mathematics).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      }
     ]
   }
 }

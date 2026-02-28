@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-02-27T22:27:19.507Z",
+  "summary": {
+    "totalNonScienceChapters": 1,
+    "withQaCards": 1,
+    "withRawText": 0,
+    "needsSourceReplacement": 1
+  },
+  "rows": [
+    {
+      "file": "chapter-1-history-sources-of-history.json",
+      "subject": "History",
+      "chapter": 1,
+      "qaCards": 6,
+      "rawTextChars": 0
+    }
+  ]
+}

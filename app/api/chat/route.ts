@@ -22,6 +22,7 @@ export async function POST(request: NextRequest) {
     const systemPrompt = generateTutorPrompt(
       'Student',
       session.chapter ?? '',
+      session.subject ?? 'General',
       'Intermediate',
       conversationHistory
         .map((m: { role: string; content: string }) => `${m.role}: ${m.content}`)

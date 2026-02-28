@@ -1,0 +1,637 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 16,
+    "title": "Natural Resources",
+    "subject": "Science",
+    "pages": "148-158",
+    "description": "This chapter covers types of natural resources — air, water, soil, minerals, forests — and their importance, overuse, conservation, and the impact of human activities on these resources."
+  },
+  "preAssessment": [
+    {
+      "id": "pa1",
+      "question": "Which of the following is a renewable natural resource?",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Sunlight",
+        "Natural gas"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "pa2",
+      "question": "Which gas makes up about 78% of Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "pa3",
+      "question": "What is the thin layer of fertile soil at Earth's surface called?",
+      "options": [
+        "Bedrock",
+        "Subsoil",
+        "Topsoil",
+        "Gravel"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "pa4",
+      "question": "Which practice helps conserve soil by slowing water runoff?",
+      "options": [
+        "Deforestation",
+        "Overgrazing",
+        "Contour farming",
+        "Mining"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "conceptId": 4
+    },
+    {
+      "id": "pa5",
+      "question": "What is biodiversity?",
+      "options": [
+        "A type of fuel",
+        "Variety of life forms in an ecosystem",
+        "A conservation law",
+        "A type of farming"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": 5
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Types of Natural Resources",
+      "emoji": "🌍",
+      "colorTheme": "from-green-500 to-teal-600",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Natural resources are materials found in nature that are useful to humans. They are classified as renewable (can be replenished — sunlight, wind, water, forests) and non-renewable (cannot be replaced once used — coal, petroleum, natural gas, minerals).",
+      "pageReference": "148-150",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Solar energy is renewable — the sun will shine for billions of years"
+        },
+        {
+          "id": "ex2",
+          "text": "Coal took millions of years to form and cannot be quickly replaced"
+        },
+        {
+          "id": "ex3",
+          "text": "Forests are renewable if managed sustainably through replanting"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Renewable resources can be replenished in a human lifetime"
+        },
+        {
+          "id": "kp2",
+          "text": "Non-renewable resources take millions of years to form"
+        },
+        {
+          "id": "kp3",
+          "text": "Over-exploitation of renewable resources can make them non-renewable in practice"
+        }
+      ],
+      "funFact": "India is the 3rd largest producer of renewable energy in the world! The Kamuthi Solar Power Project in Tamil Nadu was once the world's largest single solar power plant.",
+      "textbookRef": "Pages 148-150"
+    },
+    {
+      "id": 2,
+      "title": "Air as a Natural Resource",
+      "emoji": "💨",
+      "colorTheme": "from-sky-500 to-blue-600",
+      "bgColor": "bg-sky-50",
+      "borderColor": "border-sky-300",
+      "content": "Air is a mixture of gases — 78% nitrogen, 21% oxygen, 0.9% argon, and 0.04% carbon dioxide. It is essential for all living organisms for respiration, photosynthesis, and many industrial processes.",
+      "pageReference": "150-152",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Nitrogen from air is fixed by bacteria to make fertilisers for plants"
+        },
+        {
+          "id": "ex2",
+          "text": "Vehicle emissions add harmful gases to the air, causing pollution"
+        },
+        {
+          "id": "ex3",
+          "text": "Wind energy harnesses moving air to generate electricity"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Air pollution from burning fuels and industries is a major global concern"
+        },
+        {
+          "id": "kp2",
+          "text": "The ozone layer in the stratosphere protects Earth from UV radiation"
+        },
+        {
+          "id": "kp3",
+          "text": "Trees purify air by absorbing CO2 and releasing oxygen"
+        }
+      ],
+      "funFact": "The air you breathe today contains some of the same air molecules that dinosaurs breathed 65 million years ago — air molecules are recycled continuously!",
+      "textbookRef": "Pages 150-152"
+    },
+    {
+      "id": 3,
+      "title": "Soil as a Natural Resource",
+      "emoji": "🌱",
+      "colorTheme": "from-amber-500 to-brown-600",
+      "bgColor": "bg-amber-50",
+      "borderColor": "border-amber-400",
+      "content": "Soil is a mixture of minerals, organic matter (humus), water, air, and living organisms. It is the foundation of agriculture and ecosystems. Topsoil — the most fertile layer — takes thousands of years to form.",
+      "pageReference": "153-155",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "It takes 1000 years to form just 1 cm of fertile topsoil"
+        },
+        {
+          "id": "ex2",
+          "text": "Earthworms improve soil by breaking down organic matter and creating channels"
+        },
+        {
+          "id": "ex3",
+          "text": "Alluvial soil in river plains is highly fertile for rice and wheat farming in India"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Soil erosion is caused by wind, water, and deforestation"
+        },
+        {
+          "id": "kp2",
+          "text": "Humus — decomposed organic matter — makes soil fertile"
+        },
+        {
+          "id": "kp3",
+          "text": "Soil conservation: planting trees, contour farming, preventing overgrazing"
+        }
+      ],
+      "funFact": "One teaspoon of healthy soil contains more living organisms than there are people on Earth! Bacteria, fungi, and tiny animals make soil alive.",
+      "textbookRef": "Pages 153-155"
+    },
+    {
+      "id": 4,
+      "title": "Water as a Natural Resource",
+      "emoji": "💧",
+      "colorTheme": "from-blue-500 to-cyan-600",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Water covers 71% of Earth's surface but only 3% is fresh water. It is essential for all life processes, agriculture, and industry. The water cycle continuously recycles water between the atmosphere, land, and ocean.",
+      "pageReference": "155-157",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "India depends on monsoon rains for about 70% of its agricultural water"
+        },
+        {
+          "id": "ex2",
+          "text": "Rainwater harvesting helps recharge groundwater in water-scarce regions"
+        },
+        {
+          "id": "ex3",
+          "text": "The Ganga and Brahmaputra rivers are vital resources for millions of people"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Water pollution from industrial waste and sewage threatens clean water supply"
+        },
+        {
+          "id": "kp2",
+          "text": "Groundwater replenishment requires years of monsoon rainfall"
+        },
+        {
+          "id": "kp3",
+          "text": "Water conservation: fixing leaks, rainwater harvesting, drip irrigation"
+        }
+      ],
+      "funFact": "A dripping tap wastes about 20 litres of water per day — that's 7,300 litres a year! Fixing leaks is one of the easiest ways to conserve water.",
+      "textbookRef": "Pages 155-157"
+    },
+    {
+      "id": 5,
+      "title": "Conservation of Natural Resources",
+      "emoji": "♻️",
+      "colorTheme": "from-emerald-500 to-green-600",
+      "bgColor": "bg-emerald-50",
+      "borderColor": "border-emerald-300",
+      "content": "Conservation means the careful and sustainable use of natural resources to ensure they remain available for future generations. The principle of Reduce, Reuse, and Recycle (3Rs) is key to sustainable resource management.",
+      "pageReference": "157-158",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "The Chipko Movement in India — villagers hugged trees to prevent deforestation"
+        },
+        {
+          "id": "ex2",
+          "text": "Using cloth bags instead of plastic bags reduces waste"
+        },
+        {
+          "id": "ex3",
+          "text": "Solar panels and wind turbines use renewable energy instead of coal"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "3Rs: Reduce (use less), Reuse (use again), Recycle (convert to new use)"
+        },
+        {
+          "id": "kp2",
+          "text": "National parks and wildlife sanctuaries protect biodiversity"
+        },
+        {
+          "id": "kp3",
+          "text": "Sustainable development meets present needs without harming future generations"
+        }
+      ],
+      "funFact": "Recycling one aluminium can saves enough energy to run a TV for 3 hours! Aluminium can be recycled infinitely without losing quality.",
+      "textbookRef": "Pages 157-158"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Which of the following is a non-renewable resource?",
+      "options": [
+        "Sunlight",
+        "Wind",
+        "Coal",
+        "Water"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Coal is a fossil fuel that took millions of years to form and cannot be replenished once used up.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "148-150"
+    },
+    {
+      "id": "t2",
+      "question": "What percentage of Earth's atmosphere is oxygen?",
+      "options": [
+        "78%",
+        "21%",
+        "0.04%",
+        "1%"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Oxygen makes up approximately 21% of Earth's atmosphere, while nitrogen accounts for 78%.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "150-152"
+    },
+    {
+      "id": "t3",
+      "question": "Which layer of soil is most fertile?",
+      "options": [
+        "Bedrock",
+        "Subsoil",
+        "Topsoil",
+        "Parent rock"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Topsoil is the uppermost layer of soil, rich in humus and minerals, making it the most fertile layer.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "153-155"
+    },
+    {
+      "id": "t4",
+      "question": "What is the main cause of soil erosion?",
+      "options": [
+        "Planting trees",
+        "Deforestation and overgrazing",
+        "Using fertilisers",
+        "Building dams"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Removing vegetation through deforestation and overgrazing exposes topsoil to wind and water, causing erosion.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "153-155"
+    },
+    {
+      "id": "t5",
+      "question": "What does 'sustainable development' mean?",
+      "options": [
+        "Using all resources as fast as possible",
+        "Meeting present needs without harming future generations",
+        "Only using renewable resources",
+        "Stopping all industrial development"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sustainable development means meeting current needs while ensuring that future generations can also meet their needs.",
+      "conceptIds": [
+        5
+      ],
+      "pageReference": "157-158"
+    },
+    {
+      "id": "t6",
+      "question": "The Chipko Movement in India was about:",
+      "options": [
+        "Water conservation",
+        "Protecting forests from deforestation",
+        "Solar energy",
+        "Wildlife protection"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Chipko Movement (1973) involved villagers in Uttarakhand hugging trees to prevent them from being cut down.",
+      "conceptIds": [
+        5
+      ],
+      "pageReference": "157-158"
+    },
+    {
+      "id": "t7",
+      "question": "Which of the following best represents the 3Rs of conservation?",
+      "options": [
+        "Read, Recite, Remember",
+        "Reduce, Reuse, Recycle",
+        "Restore, Revive, Regenerate",
+        "Run, Ride, Rest"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The 3Rs — Reduce, Reuse, Recycle — are the core principles of sustainable resource management.",
+      "conceptIds": [
+        5
+      ],
+      "pageReference": "157-158"
+    },
+    {
+      "id": "t8",
+      "question": "Rainwater harvesting helps in:",
+      "options": [
+        "Increasing air pollution",
+        "Recharging groundwater",
+        "Deforestation",
+        "Soil erosion"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rainwater harvesting collects and stores rainwater, allowing it to seep into the ground and replenish groundwater.",
+      "conceptIds": [
+        4
+      ],
+      "pageReference": "155-157"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Renewable vs non-renewable resources",
+      "Air composition and importance",
+      "Soil formation and conservation",
+      "Water cycle and conservation",
+      "3Rs and sustainable development"
+    ],
+    "commonMisconceptions": [
+      "Water is unlimited — only 3% of Earth's water is fresh",
+      "Trees only provide wood — they also purify air, prevent erosion, and provide habitat",
+      "All conservation is the government's job — individuals can make a big difference"
+    ],
+    "realWorldExamples": [
+      "Chipko Movement in Uttarakhand",
+      "Solar power plants in Gujarat and Tamil Nadu",
+      "Rainwater harvesting in Rajasthan (step wells/baoris)",
+      "Ganga cleaning missions in India",
+      "E-waste recycling drive in Indian cities"
+    ]
+  },
+  "interactiveElement": {
+    "type": "drag-drop",
+    "title": "Sort the Resources!",
+    "description": "Drag each natural resource to the correct category — Renewable or Non-Renewable.",
+    "data": {
+      "items": [
+        "Sunlight",
+        "Coal",
+        "Wind",
+        "Petroleum",
+        "Water",
+        "Natural Gas"
+      ],
+      "categories": [
+        "Renewable Resource",
+        "Non-Renewable Resource"
+      ],
+      "answers": {
+        "Sunlight": "Renewable Resource",
+        "Coal": "Non-Renewable Resource",
+        "Wind": "Renewable Resource",
+        "Petroleum": "Non-Renewable Resource",
+        "Water": "Renewable Resource",
+        "Natural Gas": "Non-Renewable Resource"
+      }
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Natural Resources",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 3,
+        "type": "give_reasons",
+        "question": "Describe natural resources with\nreference to the following three types.\n(a) Mineral resources\n(b) Forest resources\n(c) Ocean resources\nWrite answers to the following questions\nin your own words.\n(a) What is meant by fossil fuel ? What\nare their types ?\n(b) Make a list of the components we\nobtain fro",
+        "subQuestions": [
+          "Mineral resources",
+          "Forest resources",
+          "Ocean resources\nWrite answers to the following questions\nin your own words.",
+          "What is meant by fossil fuel ? What\nare their types ?",
+          "Make a list of the components we\nobtain from mineral oil.",
+          "What do we get from forests ?",
+          "What are the items included in\nocean resources? What are their\nuses ?",
+          "Why should we prevent the wastage\nof fuel used for vehicles ?"
+        ]
+      },
+      {
+        "number": 4,
+        "type": "activity",
+        "question": "Complete the flow chart.\nFuels\nFossil fuels\nSolid\nस्थायु\nरूप\nMineral oil\nNatural gas\nPeat,\nlignite,\nbituminous\ncoal,\nanthracite",
+        "subQuestions": []
+      },
+      {
+        "number": 5,
+        "type": "short_answer",
+        "question": "How does the economic condition of a\nnation depend on its natural resources?",
+        "subQuestions": []
+      },
+      {
+        "number": 6,
+        "type": "short_answer",
+        "question": "Which medicinal pants will you grow on\nyour school premises and near your\nhouse? Why?",
+        "subQuestions": []
+      }
+    ],
+    "rawText": "1.\n2.\n3.\nDescribe natural resources with\nreference to the following three types.\n(a) Mineral resources\n(b) Forest resources\n(c) Ocean resources\nWrite answers to the following questions\nin your own words.\n(a) What is meant by fossil fuel ? What\nare their types ?\n(b) Make a list of the components we\nobtain from mineral oil.\n(c) What do we get from forests ?\n(d) What are the items included in\nocean resources? What are their\nuses ?\n(e) Why should we prevent the wastage\nof fuel used for vehicles ?\n(f) Why is the diversity of plants and\nanimals in the forests declining ?\n(g) Write the names of five minerals\nand the useful substances obtained\nfrom them.\n(h) Name the two important stages in\nthe process of obtaining metals from\nores?\nWhat steps are taken for protection and\nconservation of natural resources ?\n4.\nComplete the flow chart.\nFuels\nFossil fuels\nSolid\nस्थायु\nरूप\nMineral oil\nNatural gas\nPeat,\nlignite,\nbituminous\ncoal,\nanthracite\n5.\nHow does the economic condition of a\nnation depend on its natural resources?\n6.\nWhich medicinal pants will you grow on\nyour school premises and near your\nhouse? Why?",
+    "qaCards": [
+      {
+        "question": "Which of the following is a non-renewable resource?",
+        "answer": "Coal is a fossil fuel that took millions of years to form and cannot be replenished once used up.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What percentage of Earth's atmosphere is oxygen?",
+        "answer": "Oxygen makes up approximately 21% of Earth's atmosphere, while nitrogen accounts for 78%.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which layer of soil is most fertile?",
+        "answer": "Topsoil is the uppermost layer of soil, rich in humus and minerals, making it the most fertile layer.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the main cause of soil erosion?",
+        "answer": "Removing vegetation through deforestation and overgrazing exposes topsoil to wind and water, causing erosion.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'sustainable development' mean?",
+        "answer": "Sustainable development means meeting current needs while ensuring that future generations can also meet their needs.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Chipko Movement in India was about:",
+        "answer": "The Chipko Movement (1973) involved villagers in Uttarakhand hugging trees to prevent them from being cut down.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following best represents the 3Rs of conservation?",
+        "answer": "The 3Rs — Reduce, Reuse, Recycle — are the core principles of sustainable resource management.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Rainwater harvesting helps in:",
+        "answer": "Rainwater harvesting collects and stores rainwater, allowing it to seep into the ground and replenish groundwater.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Describe natural resources with\nreference to the following three types.\n(a) Mineral resources\n(b) Forest resources\n(c) Ocean resources\nWrite answers to the following questions\nin your own words.\n(a) What is meant by fossil fuel ? What\nare their types ?\n(b) Make a list of the components we\nobtain fro",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Natural Resources\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Natural Resources (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Mineral resources",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Natural Resources\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Natural Resources (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Forest resources",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Natural Resources\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Natural Resources (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Ocean resources\nWrite answers to the following questions\nin your own words.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Natural Resources\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Natural Resources (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What is meant by fossil fuel ? What\nare their types ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Natural Resources\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Natural Resources (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Make a list of the components we\nobtain from mineral oil.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Natural Resources\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Natural Resources (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "What do we get from forests ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Natural Resources\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Natural Resources (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "What are the items included in\nocean resources? What are their\nuses ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Natural Resources\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Natural Resources (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      }
+    ]
+  }
+}

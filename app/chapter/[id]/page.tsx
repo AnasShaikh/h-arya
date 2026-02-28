@@ -55,6 +55,13 @@ const LEARNING_STAGES: Stage[] = [
     description: 'Review and strengthen weak areas',
     icon: '🔄',
     route: '/revision'
+  },
+  {
+    id: 6,
+    name: 'Interactive Practice',
+    description: 'Complete the chapter activity to lock in learning',
+    icon: '🎮',
+    route: '/revision'
   }
 ];
 
@@ -123,9 +130,9 @@ export default function ChapterPage() {
 
   if (isLoading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
+      <div className="min-h-screen bg-gradient-to-br from-violet-50 to-indigo-50 flex items-center justify-center">
         <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600 mx-auto"></div>
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-violet-600 mx-auto"></div>
           <p className="mt-4 text-gray-800">Loading chapter...</p>
         </div>
       </div>
@@ -133,12 +140,12 @@ export default function ChapterPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
+    <div className="min-h-screen bg-gradient-to-br from-violet-50 to-indigo-50">
       {/* Header */}
-      <header className="bg-white shadow-sm">
+      <header className="bg-white/80 backdrop-blur-sm sticky top-0 z-10 border-b border-violet-100">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex items-center justify-between">
-            <Link href="/dashboard" className="flex items-center text-indigo-600 hover:text-indigo-700">
+            <Link href="/dashboard" className="flex items-center text-violet-600 hover:text-violet-700 transition font-medium">
               <span className="mr-2">←</span>
               <span>Back to Dashboard</span>
             </Link>
@@ -152,95 +159,139 @@ export default function ChapterPage() {
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {/* Chapter Header */}
-        <div className="bg-white rounded-2xl shadow-xl p-8 mb-6">
-          <div className="mb-6">
-            <h1 className="text-3xl font-bold text-gray-900 mb-2">
+        {/* Chapter Header (Hero Card) */}
+        <div className="bg-gradient-to-r from-violet-600 to-indigo-600 rounded-3xl shadow-lg p-8 mb-8 text-white relative overflow-hidden">
+          <div className="relative z-10">
+            <div className="inline-block bg-white/20 backdrop-blur-md px-3 py-1 rounded-full text-sm font-semibold mb-4 border border-white/30">
+              {chapter?.subject}
+            </div>
+            <h1 className="text-3xl sm:text-4xl font-bold mb-3">
               Chapter {chapter?.chapterNumber}: {chapter?.chapterName}
             </h1>
-            <p className="text-gray-700">{chapter?.description}</p>
-            <p className="text-sm text-gray-600 mt-2">Subject: {chapter?.subject}</p>
+            <p className="text-violet-100 text-lg max-w-2xl">{chapter?.description}</p>
           </div>
+          
+          {/* Decorative background circle */}
+          <div className="absolute -bottom-10 -right-10 w-64 h-64 bg-white/10 rounded-full blur-3xl"></div>
+        </div>
 
-          {/* Progress Bar */}
-          <div>
-            <div className="flex justify-between items-center mb-2">
-              <span className="text-sm font-medium text-gray-900">Overall Progress</span>
-              <span className="text-sm font-semibold text-indigo-600">
+        {/* Progress Section */}
+        <div className="bg-white rounded-3xl shadow-sm border border-violet-100 p-6 mb-8">
+           <div className="flex justify-between items-end mb-3">
+              <div>
+                <h2 className="text-lg font-semibold text-gray-900">Chapter Progress</h2>
+                <p className="text-sm text-gray-500">Keep going, you're doing great!</p>
+              </div>
+              <span className="text-2xl font-bold text-violet-600">
                 {Math.round(progressPercentage)}%
               </span>
             </div>
-            <div className="w-full bg-gray-200 rounded-full h-3">
+            <div className="w-full bg-violet-100 rounded-full h-3">
               <div
-                className="bg-indigo-600 h-3 rounded-full transition-all duration-500"
+                className="bg-violet-600 h-3 rounded-full transition-all duration-700 ease-out shadow-[0_0_10px_rgba(108,63,198,0.3)]"
                 style={{ width: `${progressPercentage}%` }}
               ></div>
             </div>
-          </div>
         </div>
 
-        {/* Learning Stages */}
+        {/* Learning Stages (Stepper) */}
         <div className="space-y-4">
-          {LEARNING_STAGES.map((stage) => {
-            const status = getStageStatus(stage.id);
-            const isCompleted = status === 'completed';
-            const isCurrent = status === 'current';
-            const isLocked = status === 'locked';
+          <h3 className="text-xl font-bold text-gray-900 mb-4 px-2">Learning Path</h3>
+          <div className="relative">
+            {/* Vertical connecting line (optional visual aid, kept subtle) */}
+            <div className="absolute left-[2.25rem] top-6 bottom-6 w-0.5 bg-violet-100 -z-10 hidden sm:block"></div>
 
-            return (
-              <button
-                key={stage.id}
-                onClick={() => handleStageClick(stage)}
-                disabled={isLocked}
-                className={`w-full p-6 rounded-xl border-2 transition-all ${
-                  isCompleted
-                    ? 'bg-green-50 border-green-300 hover:border-green-400'
-                    : isCurrent
-                    ? 'bg-indigo-50 border-indigo-400 hover:border-indigo-500 shadow-md'
-                    : isLocked
-                    ? 'bg-gray-100 border-gray-300 opacity-60 cursor-not-allowed'
-                    : 'bg-white border-gray-300 hover:border-indigo-300'
-                }`}
-              >
-                <div className="flex items-center">
-                  {/* Icon */}
-                  <div className={`text-5xl mr-4 ${isLocked ? 'grayscale' : ''}`}>
-                    {isCompleted ? '✅' : isLocked ? '🔒' : stage.icon}
+            {LEARNING_STAGES.map((stage, index) => {
+              const status = getStageStatus(stage.id);
+              const isCompleted = status === 'completed';
+              const isCurrent = status === 'current';
+              const isLocked = status === 'locked';
+
+              return (
+                <button
+                  key={stage.id}
+                  onClick={() => handleStageClick(stage)}
+                  disabled={isLocked}
+                  className={`w-full group relative flex items-center p-5 rounded-2xl border-2 text-left transition-all duration-300 ${
+                    isCompleted
+                      ? 'bg-green-50 border-green-200 hover:border-green-300'
+                      : isCurrent
+                      ? 'bg-white border-violet-600 shadow-md transform scale-[1.02]'
+                      : isLocked
+                      ? 'bg-gray-50 border-transparent opacity-60 cursor-not-allowed'
+                      : 'bg-white border-transparent hover:border-violet-200 shadow-sm'
+                  }`}
+                >
+                  {/* Status Indicator / Icon */}
+                  <div className={`flex-shrink-0 w-14 h-14 rounded-xl flex items-center justify-center text-2xl mr-5 shadow-sm transition-colors ${
+                     isCompleted ? 'bg-green-100 text-green-600' :
+                     isCurrent ? 'bg-violet-600 text-white' :
+                     isLocked ? 'bg-gray-200 text-gray-400' : 'bg-violet-100 text-violet-600'
+                  }`}>
+                    {isCompleted ? '✓' : stage.icon}
                   </div>
 
                   {/* Content */}
-                  <div className="flex-1 text-left">
+                  <div className="flex-1 min-w-0">
                     <div className="flex items-center mb-1">
-                      <h3 className="text-xl font-bold text-gray-900">
-                        {stage.id}. {stage.name}
-                      </h3>
+                      <span className={`text-xs font-bold uppercase tracking-wider mr-2 ${
+                        isCurrent ? 'text-violet-600' : 'text-gray-400'
+                      }`}>
+                        Step {index + 1}
+                      </span>
                       {isCurrent && (
-                        <span className="ml-3 px-2 py-1 bg-indigo-600 text-white text-xs rounded-full">
+                        <span className="px-2 py-0.5 bg-violet-100 text-violet-700 text-[10px] font-bold uppercase rounded-full tracking-wide">
                           Current
                         </span>
                       )}
                     </div>
-                    <p className="text-gray-700">{stage.description}</p>
+                    <h3 className={`text-lg font-bold truncate ${isLocked ? 'text-gray-500' : 'text-gray-900'}`}>
+                      {stage.name}
+                    </h3>
+                    <p className={`text-sm truncate ${isLocked ? 'text-gray-400' : 'text-gray-600'}`}>
+                      {stage.description}
+                    </p>
                   </div>
 
-                  {/* Arrow */}
+                  {/* Arrow Action */}
                   {!isLocked && (
-                    <div className="ml-4 text-2xl text-indigo-600">
+                    <div className={`ml-4 text-xl transform transition-transform group-hover:translate-x-1 ${
+                      isCurrent ? 'text-violet-600' : 'text-gray-300 group-hover:text-violet-400'
+                    }`}>
                       →
                     </div>
                   )}
-                </div>
-              </button>
-            );
-          })}
+                </button>
+              );
+            })}
+          </div>
         </div>
 
-        {/* Help Text */}
-        <div className="mt-8 p-4 bg-white rounded-lg border border-indigo-200">
-          <p className="text-sm text-gray-800">
-            <span className="font-semibold">💡 Tip:</span> Complete each stage in order to unlock the next one.
-            {currentStage === 1 && ' Start with the Pre-Assessment to begin!'}
-          </p>
+        {/* Bottom Actions */}
+        <div className="mt-8 grid gap-4 sm:grid-cols-2">
+           {/* Begin/Continue Button (Dynamic based on progress) */}
+           <button 
+             onClick={() => {
+                const stageToStart = LEARNING_STAGES.find(s => s.id === currentStage);
+                if(stageToStart) handleStageClick(stageToStart);
+             }}
+             className="w-full bg-indigo-600 hover:bg-indigo-700 text-white rounded-xl px-6 py-4 font-bold text-lg shadow-lg shadow-indigo-200 transition-all active:scale-95 flex items-center justify-center gap-2"
+           >
+             <span>{currentStage === 1 ? 'Start Chapter' : 'Continue Chapter'}</span>
+             <span>→</span>
+           </button>
+
+           {/* Exam Mode CTA */}
+           <Link
+             href={`/chapter/${params.id}/recall`}
+             className="w-full bg-white border-2 border-amber-100 hover:border-amber-300 text-amber-900 rounded-xl px-6 py-4 font-semibold transition-all flex items-center justify-center gap-2 group"
+           >
+             <span className="text-xl">🎯</span>
+             <div className="text-left">
+               <span className="block text-sm font-bold text-amber-600 uppercase tracking-wide">Extra Practice</span>
+               <span className="block leading-none">Exam Mode Recall</span>
+             </div>
+           </Link>
         </div>
       </main>
     </div>

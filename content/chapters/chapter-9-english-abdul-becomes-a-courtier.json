@@ -268,7 +268,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Abdul works as a merchant's clerk not for money but to have access to books in the merchant's shop. His love of books drives all his actions.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "30-31"
     },
     {
@@ -282,7 +284,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Murgikhana means the royal poultry — the place where the Emperor's hens are kept. Abdul is first given charge of this.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "31-32"
     },
     {
@@ -296,7 +300,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Abdul feeds the hens on kitchen waste — a clever, resourceful solution that wastes nothing and is economical.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "32"
     },
     {
@@ -310,7 +316,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Abdul uses recycled silk from the Emperor's discarded request bags to cover the library books — a brilliant zero-waste solution.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "32-33"
     },
     {
@@ -324,7 +332,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The moral of the play is: 'Wits, brains, and perseverance win name and fame.' Abdul's intelligence, creativity, and persistence lead him from poverty to the royal court.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "33-34"
     },
     {
@@ -338,7 +348,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Honesty is an abstract noun — it is a quality or value that you cannot see or touch. Bag, table, and river are concrete nouns.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "34"
     },
     {
@@ -352,7 +364,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Butterfly is a concrete noun — you can see and touch a butterfly. Kindness, life, and goodness are abstract nouns.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "34"
     },
     {
@@ -366,7 +380,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The irregular plural of tooth is teeth. We do not say 'tooths' — the word changes form completely.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "34"
     },
     {
@@ -380,7 +396,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The irregular plural of leaf is leaves. The 'f' changes to 'v' and 'es' is added.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "34"
     },
     {
@@ -394,7 +412,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Abdul Becomes a Courtier is a verse play — a play written in verse (poetry) form. It is adapted from 'Enter Mulla Do-Piaza'.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "30"
     }
   ],
@@ -423,5 +443,154 @@
       "Government school libraries in Maharashtra — books are precious and carefully maintained"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Abdul Becomes a Courtier",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Why does Abdul work as a merchant's clerk?",
+        "answer": "Abdul works as a merchant's clerk not for money but to have access to books in the merchant's shop. His love of books drives all his actions.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is 'Murgikhana'?",
+        "answer": "Murgikhana means the royal poultry — the place where the Emperor's hens are kept. Abdul is first given charge of this.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What clever solution does Abdul use to feed the hens?",
+        "answer": "Abdul feeds the hens on kitchen waste — a clever, resourceful solution that wastes nothing and is economical.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does Abdul use to cover the library books?",
+        "answer": "Abdul uses recycled silk from the Emperor's discarded request bags to cover the library books — a brilliant zero-waste solution.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the moral of 'Abdul Becomes a Courtier'?",
+        "answer": "The moral of the play is: 'Wits, brains, and perseverance win name and fame.' Abdul's intelligence, creativity, and persistence lead him from poverty to the royal court.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is an abstract noun?",
+        "answer": "Honesty is an abstract noun — it is a quality or value that you cannot see or touch. Bag, table, and river are concrete nouns.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is a concrete noun?",
+        "answer": "Butterfly is a concrete noun — you can see and touch a butterfly. Kindness, life, and goodness are abstract nouns.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the irregular plural of 'tooth'?",
+        "answer": "The irregular plural of tooth is teeth. We do not say 'tooths' — the word changes form completely.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the irregular plural of 'leaf'?",
+        "answer": "The irregular plural of leaf is leaves. The 'f' changes to 'v' and 'es' is added.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What type of work is 'Abdul Becomes a Courtier'?",
+        "answer": "Abdul Becomes a Courtier is a verse play — a play written in verse (poetry) form. It is adapted from 'Enter Mulla Do-Piaza'.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Why does Abdul work as a merchant's clerk?",
+        "modelAnswer": "Abdul works as a merchant's clerk because he is a poor student who deeply loves reading but cannot afford to buy books. By working in the merchant's shop, he gains access to the wide variety of books sold there. This job allows him to read and learn as much as he wants without spending any of his own money. His intense desire for knowledge drives him to take this job despite the hard work.",
+        "keyPoints": [
+          "Abdul is a poor student who cannot afford to buy books.",
+          "He takes a job as a clerk in a merchant's shop to be near books.",
+          "The job gives him free access to read the books sold in the shop.",
+          "He does this out of a deep love for learning and knowledge."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What is 'Murgikhana'?",
+        "modelAnswer": "'Murgikhana' refers to the royal poultry house where the Emperor's hens are kept. In the play, this is the first responsibility the Emperor gives to Abdul to test his capabilities. Abdul is put in charge of feeding and taking care of the royal hens in this poultry house. Despite the humble nature of the task, Abdul approaches it with great dedication and intelligence.",
+        "keyPoints": [
+          "'Murgikhana' means the royal poultry or place where hens are kept.",
+          "It is the first job the Emperor gives to Abdul as a test of his abilities.",
+          "Abdul is put in charge of taking care of the royal hens.",
+          "He handles this humble task with immense dedication and creativity."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What clever solution does Abdul use to feed the hens?",
+        "modelAnswer": "When put in charge of the Murgikhana, Abdul decides to feed the hens using kitchen waste instead of buying expensive grains. He collects food scraps and vegetable waste from the royal kitchen, which would otherwise be thrown away. This resourceful solution ensures the hens are well-fed while saving the Emperor's money. It demonstrates his zero-waste thinking and practical intelligence, earning him a promotion.",
+        "keyPoints": [
+          "Abdul feeds the hens using scraps and waste from the royal kitchen.",
+          "This prevents food wastage and saves the Emperor's money.",
+          "It is a highly resourceful, economical, and zero-waste solution.",
+          "The clever approach demonstrates his practical intelligence."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What does Abdul use to cover the library books?",
+        "modelAnswer": "After being promoted to the royal library, Abdul notices that the books need protection and decides to cover them beautifully. He uses discarded silk fabrics from the Emperor's formal request bags, which were otherwise considered useless. By recycling this rich silk, he gives the books luxurious covers without spending any money. This shows his deep respect for books and his highly creative problem-solving skills.",
+        "keyPoints": [
+          "Abdul covers the library books with recycled silk fabrics.",
+          "The silk comes from the Emperor's discarded formal request bags.",
+          "He provides luxurious covers for the books without spending any money.",
+          "This demonstrates his creativity, resourcefulness, and deep love for books."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What is the moral of 'Abdul Becomes a Courtier'?",
+        "modelAnswer": "The central moral of the play is that wits, brains, and perseverance can win name and fame. Abdul proves that a person does not need to be born rich or powerful to achieve success in life. Through his intelligence, creativity, and persistent hard work, he rises from a poor clerk to a respected royal courtier. His journey shows that true merit and resourcefulness are always rewarded in the end.",
+        "keyPoints": [
+          "The moral is that wits, brains, and perseverance win name and fame.",
+          "Success comes from intelligence and hard work, not inherited wealth.",
+          "Abdul rises from poverty to the royal court through his pure merit.",
+          "Persistent effort and creative problem-solving are ultimately rewarded."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

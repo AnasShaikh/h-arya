@@ -274,7 +274,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The Souvenir was translated from Marathi by Lakshman Londhe. It is originally a Marathi science-fiction story.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "24"
     },
     {
@@ -288,7 +290,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The moon's gravity is 1/6th of Earth's, so objects and people feel much lighter and can jump much higher than on Earth.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "25-26"
     },
     {
@@ -302,7 +306,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "From the moon, Earth appears 13 times bigger than the moon appears when seen from Earth.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "26"
     },
     {
@@ -316,7 +322,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The moon has no atmosphere, so there is no wind or rain to disturb the surface. Armstrong's footprint made in 1969 is still perfectly preserved.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "26-27"
     },
     {
@@ -330,7 +338,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Neil Armstrong first walked on the moon on 20 July 1969 as part of the NASA Apollo 11 mission.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "26-27"
     },
     {
@@ -344,7 +354,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The earrings felt light on the moon because of low gravity, but on Earth with full gravity (6 times stronger), the same earrings became impossibly heavy.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "27-28"
     },
     {
@@ -358,7 +370,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A crew of astronauts is the correct collective noun. 'Crew' is also used for sailors and workers.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "28"
     },
     {
@@ -372,7 +386,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The moon settlements in the story are described as dome-shaped, like igloos, to maintain pressure and protect inhabitants.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "25"
     },
     {
@@ -386,7 +402,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Sayali buys earrings from an unauthorized seller outside the moon settlement. The story teaches us not to buy from unauthorized sellers.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "27-28"
     },
     {
@@ -400,7 +418,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A fleet of ships is the correct collective noun. Fleet is also used for a group of aircraft or cars.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "28"
     }
   ],
@@ -431,5 +451,166 @@
       "Indian Space Research Organisation (ISRO) headquarters in Bengaluru"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "The Souvenir",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "From which language was 'The Souvenir' translated?",
+        "answer": "The Souvenir was translated from Marathi by Lakshman Londhe. It is originally a Marathi science-fiction story.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why can a gymnast jump 27 metres on the moon?",
+        "answer": "The moon's gravity is 1/6th of Earth's, so objects and people feel much lighter and can jump much higher than on Earth.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many times bigger does Earth appear from the moon compared to how the moon appears from Earth?",
+        "answer": "From the moon, Earth appears 13 times bigger than the moon appears when seen from Earth.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why is Neil Armstrong's footprint still preserved on the moon?",
+        "answer": "The moon has no atmosphere, so there is no wind or rain to disturb the surface. Armstrong's footprint made in 1969 is still perfectly preserved.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "When did Neil Armstrong first walk on the moon?",
+        "answer": "Neil Armstrong first walked on the moon on 20 July 1969 as part of the NASA Apollo 11 mission.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why were Sayali's earrings too heavy when she returned to Earth?",
+        "answer": "The earrings felt light on the moon because of low gravity, but on Earth with full gravity (6 times stronger), the same earrings became impossibly heavy.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the collective noun for a group of astronauts?",
+        "answer": "A crew of astronauts is the correct collective noun. 'Crew' is also used for sailors and workers.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What shape are the moon settlements described as in the story?",
+        "answer": "The moon settlements in the story are described as dome-shaped, like igloos, to maintain pressure and protect inhabitants.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What mistake does the story warn against?",
+        "answer": "Sayali buys earrings from an unauthorized seller outside the moon settlement. The story teaches us not to buy from unauthorized sellers.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the collective noun for a group of ships?",
+        "answer": "A fleet of ships is the correct collective noun. Fleet is also used for a group of aircraft or cars.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Describe Sayali's initial excitement and her experience during the first day of the moon trip.",
+        "modelAnswer": "Sayali was extremely excited about her school trip to the moon, having waited a long time for this unique opportunity. On the first day, she was fascinated by the dome-shaped settlements and the extraordinary experience of walking in low gravity. She spent much of her time observing the dazzling stars and the enormous Earth, which appeared much larger than the moon does from Earth. Her joy was evident as she explored the futuristic environment with her friends, making the trip feel like a dream come true.",
+        "keyPoints": [
+          "Sayali's long-awaited excitement for the lunar trip.",
+          "Fascination with dome-shaped settlements and low gravity.",
+          "Observation of the dazzling stars and the massive Earth.",
+          "The sense of wonder and joy during her first day of exploration."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "Explain the scientific phenomenon that caused Sayali's earrings to feel light on the moon but heavy on Earth.",
+        "modelAnswer": "The change in the weight of Sayali's earrings is due to the significant difference in gravitational pull between the Moon and the Earth. The Moon's gravity is only one-sixth of the Earth's gravity, which means all objects weigh much less on the lunar surface. When Sayali bought the earrings on the moon, they felt light and easy to carry, but back on Earth, the stronger gravity made them feel six times heavier. This scientific fact provides a clever twist to the story, highlighting the physical realities of space travel.",
+        "keyPoints": [
+          "Difference in gravitational pull between Earth and the Moon.",
+          "Moon's gravity is 1/6th of Earth's gravity.",
+          "Earrings felt light on the moon but heavy on Earth due to 6x gravity.",
+          "Scientific explanation for the story's 'souvenir' twist."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "What was the significance of the 'First Footprint' on the moon, and why is it still preserved?",
+        "modelAnswer": "Visiting Neil Armstrong's footprint was a highlight of the trip, as it represented the first human contact with the lunar surface. This historic site is perfectly preserved on the moon because there is no atmosphere, and therefore no wind or rain to erode the surface. The story emphasizes the importance of this landmark, showing how it remains as a permanent tribute to human achievement. For Sayali and her classmates, seeing the footprint was a way to connect deeply with the history of space exploration.",
+        "keyPoints": [
+          "Significance of the footprint as the first human contact with the moon.",
+          "Lack of atmosphere means no wind or rain to disturb the site.",
+          "Permanent preservation of the footprint as a historical landmark.",
+          "Connection for the students between history and their current trip."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la4",
+        "question": "Describe the visual differences between the sky seen from Earth and the sky seen from the moon as mentioned in the story.",
+        "modelAnswer": "From the moon, the sky appears completely different than it does from Earth because the moon has no atmosphere to scatter sunlight. Consequently, the sky is always pitch black, even during the day, which makes the stars appear much brighter and more dazzling. Additionally, the Earth appears thirteen times larger from the moon's surface than the moon appears when viewed from Earth. This breathtaking view of the giant, blue planet hanging in a dark sky is one of the most memorable descriptions in the story.",
+        "keyPoints": [
+          "Moon's lack of atmosphere results in a pitch-black sky.",
+          "Stars appear dazzlingly bright without atmospheric interference.",
+          "Earth appears thirteen times larger than the moon appears from Earth.",
+          "The stunning visual contrast between the black sky and the large Earth."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la5",
+        "question": "How does the story portray the future of space travel and human settlements on the moon?",
+        "modelAnswer": "The story depicts a future where space travel has become accessible enough for routine school trips, making the moon a common tourist destination. Human settlements are described as dome-shaped structures, similar to igloos, which are designed to withstand pressures and the lack of atmosphere. Interestingly, the existence of unauthorized souvenir sellers suggests that human commerce and social issues have followed people to the moon. This vision of the future combines advanced technology with familiar human behaviors, creating a plausible science-fiction setting.",
+        "keyPoints": [
+          "Space travel portrayed as accessible for school educational trips.",
+          "Use of dome-shaped, igloo-like structures for pressurized living.",
+          "Extension of human commerce, including unauthorized sellers, to the moon.",
+          "Blending of futuristic technology with typical human social dynamics."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Why did Sayali buy the earrings from an unauthorized seller, and what lesson did she learn?",
+        "modelAnswer": "Sayali bought the earrings from an unauthorized seller outside the main settlement because she was eager to bring back a unique souvenir from her trip. She was warned not to leave the safe zones or buy from such vendors, but her curiosity and desire for a bargain led her to make the purchase anyway. However, the earrings became a source of trouble when their weight increased on Earth, making them useless as jewelry. This experience taught her the importance of following safety instructions and the consequences of buying from unreliable sources.",
+        "keyPoints": [
+          "Sayali's desire for a unique souvenir led her to an unauthorized seller.",
+          "Disregard for warnings about safety and authorized commerce zones.",
+          "The practical problem of the earrings' weight once back on Earth.",
+          "Lessons learned about following rules and the risks of unauthorized purchases."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

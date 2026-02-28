@@ -264,7 +264,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "R.L. Stevenson (Robert Louis Stevenson) wrote 'From a Railway Carriage'. He is a famous Scottish poet and author.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "22"
     },
     {
@@ -278,7 +280,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The poem begins 'Faster than fairies, faster than witches' — these opening words immediately establish the great speed of the train.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "22"
     },
     {
@@ -292,7 +296,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A boy flying a kite is not in the poem. The poem mentions a child gathering brambles, a tramp, a mill, a river, bridges, meadows, and hills.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "22-23"
     },
     {
@@ -306,7 +312,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "This phrase means that from a speeding train, every sight — people, fields, hills — is seen for only a moment and then disappears behind forever.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "23"
     },
     {
@@ -320,7 +328,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The poem's fast, bouncy rhythm mimics the clickety-clack of train wheels on a railway track. Reading it aloud feels like a train journey.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "22-23"
     },
     {
@@ -334,7 +344,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A flock is the collective noun for a group of birds. We also say a flock of sheep. A herd is used for cattle, a team for players, and a class for students.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "23"
     },
     {
@@ -348,7 +360,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A class of students is the correct collective noun. Class refers to a group of students studying together.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "23"
     },
     {
@@ -362,7 +376,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A collective noun names a group of people, animals, or things as a single unit. For example: team, class, herd, flock.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "23"
     }
   ],
@@ -390,5 +406,156 @@
       "A herd of elephants in Corbett National Park, a flock of flamingos in Mumbai's Flamingo Sanctuary"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "From a Railway Carriage",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who is the poet of 'From a Railway Carriage'?",
+        "answer": "R.L. Stevenson (Robert Louis Stevenson) wrote 'From a Railway Carriage'. He is a famous Scottish poet and author.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The poem begins with the words 'Faster than fairies, faster than _____.'",
+        "answer": "The poem begins 'Faster than fairies, faster than witches' — these opening words immediately establish the great speed of the train.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following sights is NOT mentioned in the poem?",
+        "answer": "A boy flying a kite is not in the poem. The poem mentions a child gathering brambles, a tramp, a mill, a river, bridges, meadows, and hills.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the phrase 'Each a glimpse and gone for ever' mean?",
+        "answer": "This phrase means that from a speeding train, every sight — people, fields, hills — is seen for only a moment and then disappears behind forever.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the rhythm of the poem feel like?",
+        "answer": "The poem's fast, bouncy rhythm mimics the clickety-clack of train wheels on a railway track. Reading it aloud feels like a train journey.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which is the correct collective noun for a group of birds?",
+        "answer": "A flock is the collective noun for a group of birds. We also say a flock of sheep. A herd is used for cattle, a team for players, and a class for students.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which is the correct collective noun for a group of students?",
+        "answer": "A class of students is the correct collective noun. Class refers to a group of students studying together.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is a collective noun?",
+        "answer": "A collective noun names a group of people, animals, or things as a single unit. For example: team, class, herd, flock.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Explain the meaning of the phrase 'Each a glimpse and gone for ever' in the context of the poem.",
+        "modelAnswer": "The phrase 'Each a glimpse and gone for ever' emphasizes the extreme speed at which the train is traveling. As the poet looks out the window, various sights like people, animals, and landscapes appear only for a split second before vanishing. Because the train is moving so rapidly, the poet cannot focus on any single object for long. This beautifully conveys the fleeting nature of the journey and the rapid, unstoppable passage of time.",
+        "keyPoints": [
+          "Emphasizes the extreme speed of the moving train.",
+          "Sights appear only for a split second before vanishing.",
+          "The poet cannot focus on any single object for long.",
+          "Conveys the fleeting nature of the journey and passage of time."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "How does the poet use rhythm to recreate the experience of a train journey?",
+        "modelAnswer": "The rhythm of the poem is carefully constructed to mimic the fast, steady movement of a speeding train. Through the use of a regular, galloping beat, the poet makes the reader feel the physical motion of the train wheels clicking along the tracks. The fast pace of the words matches the rapid blurring of the scenery passing by the window. This energetic rhythm successfully creates a highly realistic and immersive experience of train travel.",
+        "keyPoints": [
+          "The rhythm mimics the fast, steady movement of a train.",
+          "Uses a regular, galloping beat to reflect the train wheels.",
+          "The fast pace of words matches the blurring scenery outside.",
+          "Creates a highly realistic and immersive experience of travel."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Describe the various sights the poet observes from the railway carriage.",
+        "modelAnswer": "As the train rushes forward, the poet sees a rapidly changing landscape filled with diverse sights. He observes bridges, houses, hedges, and ditches flashing by faster than fairies or witches. Along the way, he spots a child scrambling to gather brambles, a tramp standing and gazing, and daisies being strung together. Finally, carts carrying loads, mills, and rivers appear briefly before being left behind forever.",
+        "keyPoints": [
+          "The poet sees a rapidly changing landscape moving past.",
+          "Observes bridges, houses, hedges, and ditches flashing by.",
+          "Spots a scrambling child, a gazing tramp, and daisies.",
+          "Notices carts, mills, and rivers appearing briefly before vanishing."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Describe the actions of the child and the tramp mentioned in the poem.",
+        "modelAnswer": "In the poem, the poet observes a young child who is clambering and scrambling up a steep bank. The child seems to be struggling all alone to gather wild blackberry bushes or brambles as the train speeds by. Further along the journey, the poet spots a homeless person, or a tramp, standing completely still by the tracks. The tramp is simply gazing at the rushing train in fascination, contrasting with the high-speed movement of the carriage.",
+        "keyPoints": [
+          "A young child is scrambling up a steep bank alone.",
+          "The child is struggling to gather wild blackberry bushes.",
+          "A tramp stands completely still by the railway tracks.",
+          "The tramp gazes at the fast-moving train in fascination."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la5",
+        "question": "What comparisons does the poet make to describe the speed of the train?",
+        "modelAnswer": "The poet uses vivid comparisons to illustrate the incredible speed of the train. He states that the train moves 'faster than fairies, faster than witches', emphasizing its magical and supernatural swiftness. He also compares the rushing train to 'troops in a fierce battle', highlighting its unstoppable and aggressive forward momentum. These comparisons help the reader vividly imagine the overwhelming pace and power of the railway carriage.",
+        "keyPoints": [
+          "Describes the train moving 'faster than fairies, faster than witches'.",
+          "Emphasizes the magical and supernatural swiftness of the train.",
+          "Compares the train to 'troops in a fierce battle'.",
+          "Highlights the unstoppable power and forward momentum of the carriage."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la6",
+        "question": "How does the poem 'From a Railway Carriage' capture the excitement of travel?",
+        "modelAnswer": "The poem captures the excitement of travel by focusing on the rapid succession of new and interesting sights. The constant motion and changing landscapes keep the poet, and the reader, thrilled and engaged throughout the journey. The dynamic rhythm of the poem adds to this excitement by replicating the physical sensation of speeding along the tracks. Ultimately, it portrays train travel as a fascinating adventure where every moment brings something new to see.",
+        "keyPoints": [
+          "Focuses on the rapid succession of new and interesting sights.",
+          "Constant motion and changing landscapes keep the reader thrilled.",
+          "Dynamic rhythm replicates the physical sensation of speeding.",
+          "Portrays train travel as a fascinating and fast-paced adventure."
+        ],
+        "marks": 3
+      }
+    ]
   }
 }

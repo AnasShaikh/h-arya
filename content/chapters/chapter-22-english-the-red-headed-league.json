@@ -10,7 +10,12 @@
     {
       "id": "pre_22_1",
       "question": "Who is the detective in 'The Red-Headed League'?",
-      "options": ["A) James Bond", "B) Hercule Poirot", "C) Sherlock Holmes", "D) Inspector Lestrade"],
+      "options": [
+        "A) James Bond",
+        "B) Hercule Poirot",
+        "C) Sherlock Holmes",
+        "D) Inspector Lestrade"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_22_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_22_2",
       "question": "Who wrote the Sherlock Holmes stories?",
-      "options": ["A) Agatha Christie", "B) Arthur Conan Doyle", "C) Edgar Allan Poe", "D) Charles Dickens"],
+      "options": [
+        "A) Agatha Christie",
+        "B) Arthur Conan Doyle",
+        "C) Edgar Allan Poe",
+        "D) Charles Dickens"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_22_1"
@@ -26,7 +36,12 @@
     {
       "id": "pre_22_3",
       "question": "What was Mr Wilson paid to do at the Red-Headed League?",
-      "options": ["A) Guard a vault", "B) Sell vegetables", "C) Copy the encyclopaedia from 10am to 2pm", "D) Clean the office"],
+      "options": [
+        "A) Guard a vault",
+        "B) Sell vegetables",
+        "C) Copy the encyclopaedia from 10am to 2pm",
+        "D) Clean the office"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_22_1"
@@ -34,7 +49,12 @@
     {
       "id": "pre_22_4",
       "question": "Which clue made Holmes suspect the assistant Spaulding?",
-      "options": ["A) Spaulding had red hair", "B) Spaulding had very dirty, worn knees on his trousers", "C) Spaulding was always late to work", "D) Spaulding was very tall"],
+      "options": [
+        "A) Spaulding had red hair",
+        "B) Spaulding had very dirty, worn knees on his trousers",
+        "C) Spaulding was always late to work",
+        "D) Spaulding was very tall"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_22_2"
@@ -42,7 +62,12 @@
     {
       "id": "pre_22_5",
       "question": "Which modal auxiliary verb shows ability?",
-      "options": ["A) Must", "B) Should", "C) Can", "D) Will"],
+      "options": [
+        "A) Must",
+        "B) Should",
+        "C) Can",
+        "D) Will"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_22_5"
@@ -175,7 +200,12 @@
     {
       "id": "test_22_1",
       "question": "Who wrote the Sherlock Holmes stories?",
-      "options": ["A) Agatha Christie", "B) Charles Dickens", "C) Arthur Conan Doyle", "D) Mark Twain"],
+      "options": [
+        "A) Agatha Christie",
+        "B) Charles Dickens",
+        "C) Arthur Conan Doyle",
+        "D) Mark Twain"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "Arthur Conan Doyle (1859–1930) created the Sherlock Holmes character. 'The Red-Headed League' is one of the most famous Sherlock Holmes short stories."
@@ -183,7 +213,12 @@
     {
       "id": "test_22_2",
       "question": "What job was Mr Wilson given by the Red-Headed League?",
-      "options": ["A) Guard a bank vault", "B) Copy the Encyclopaedia Britannica from 10am to 2pm", "C) Sort letters at the post office", "D) Clean the League's office"],
+      "options": [
+        "A) Guard a bank vault",
+        "B) Copy the Encyclopaedia Britannica from 10am to 2pm",
+        "C) Sort letters at the post office",
+        "D) Clean the League's office"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "Mr Wilson was paid £4 per week to copy the Encyclopaedia Britannica each day from 10am to 2pm. This was the fake job invented by John Clay (Spaulding) to keep Wilson away from his shop."
@@ -191,7 +226,12 @@
     {
       "id": "test_22_3",
       "question": "What clue did Holmes discover by thumping the pavement?",
-      "options": ["A) There was water under the pavement", "B) The pavement was hollow, suggesting a tunnel below", "C) The pavement was newly laid", "D) There were gold coins buried below"],
+      "options": [
+        "A) There was water under the pavement",
+        "B) The pavement was hollow, suggesting a tunnel below",
+        "C) The pavement was newly laid",
+        "D) There were gold coins buried below"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "When Holmes thumped the pavement outside Wilson's shop with his stick, it sounded hollow. This told him there was an empty tunnel dug below the pavement — part of the criminals' escape route."
@@ -199,7 +239,12 @@
     {
       "id": "test_22_4",
       "question": "What significant clue did Holmes notice about Spaulding (John Clay)?",
-      "options": ["A) He had red hair", "B) His trouser knees were very dirty and worn from kneeling and digging", "C) He walked with a limp", "D) He had ink stains on his hands"],
+      "options": [
+        "A) He had red hair",
+        "B) His trouser knees were very dirty and worn from kneeling and digging",
+        "C) He walked with a limp",
+        "D) He had ink stains on his hands"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "Holmes noticed that Spaulding's trouser knees were very dirty and worn — a clear sign that he had been spending many hours on his knees, digging the tunnel in Wilson's cellar."
@@ -207,7 +252,12 @@
     {
       "id": "test_22_5",
       "question": "What was John Clay's real plan?",
-      "options": ["A) To steal Wilson's pawn shop", "B) To dig a tunnel from Wilson's cellar to a nearby bank's gold vault and rob the bank", "C) To kidnap Mr Wilson for ransom", "D) To sell encyclopaedias illegally"],
+      "options": [
+        "A) To steal Wilson's pawn shop",
+        "B) To dig a tunnel from Wilson's cellar to a nearby bank's gold vault and rob the bank",
+        "C) To kidnap Mr Wilson for ransom",
+        "D) To sell encyclopaedias illegally"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "John Clay planned to dig a tunnel from Wilson's cellar to the vault of the bank next door, then rob the bank's gold at night. The Red-Headed League was invented to keep Wilson away during digging hours."
@@ -215,7 +265,12 @@
     {
       "id": "test_22_6",
       "question": "Which modal verb shows ABILITY?",
-      "options": ["A) Must", "B) Should", "C) Can", "D) May"],
+      "options": [
+        "A) Must",
+        "B) Should",
+        "C) Can",
+        "D) May"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "'Can' is the modal verb that shows ability. Example: 'She can swim' — 'can' tells us she has the ability to swim."
@@ -223,7 +278,12 @@
     {
       "id": "test_22_7",
       "question": "Which modal verb is used for giving ADVICE?",
-      "options": ["A) Will", "B) Can", "C) Should", "D) Might"],
+      "options": [
+        "A) Will",
+        "B) Can",
+        "C) Should",
+        "D) Might"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "'Should' is used for giving advice or showing what is the right or expected thing to do. Example: 'You should drink water regularly' — this gives advice."
@@ -231,7 +291,12 @@
     {
       "id": "test_22_8",
       "question": "Which of these is the CORRECT use of a modal verb?",
-      "options": ["A) She musts go home", "B) He cans run fast", "C) They should study hard", "D) You mays enter"],
+      "options": [
+        "A) She musts go home",
+        "B) He cans run fast",
+        "C) They should study hard",
+        "D) You mays enter"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "'They should study hard' is correct. Modal verbs (should, can, must, may, will) do NOT change form — they never take '-s'. So 'musts', 'cans', 'mays' are all incorrect."
@@ -239,7 +304,12 @@
     {
       "id": "test_22_9",
       "question": "What form of the main verb comes AFTER a modal verb?",
-      "options": ["A) Past tense (-ed form)", "B) Present continuous (-ing form)", "C) Base form (dictionary form)", "D) Past participle"],
+      "options": [
+        "A) Past tense (-ed form)",
+        "B) Present continuous (-ing form)",
+        "C) Base form (dictionary form)",
+        "D) Past participle"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Modal verbs are always followed by the BASE form of the verb (no -s, -ing, or -ed). For example: 'She can swim' (not 'swims'), 'He must leave' (not 'leaves')."
@@ -247,7 +317,12 @@
     {
       "id": "test_22_10",
       "question": "Who waited with Holmes in the bank cellar to catch John Clay?",
-      "options": ["A) Mr Wilson, Spaulding, and two police officers", "B) Dr Watson, banker Merryweather, and a police officer", "C) Dr Watson, Mr Wilson, and two police officers", "D) Holmes waited alone"],
+      "options": [
+        "A) Mr Wilson, Spaulding, and two police officers",
+        "B) Dr Watson, banker Merryweather, and a police officer",
+        "C) Dr Watson, Mr Wilson, and two police officers",
+        "D) Holmes waited alone"
+      ],
       "correctAnswer": "B",
       "difficulty": "hard",
       "explanation": "Holmes, Dr Watson (his friend and narrator), banker Mr Merryweather, and a police officer waited together in darkness in the bank cellar to catch John Clay in the act."
@@ -276,5 +351,166 @@
       "Bank security in India has evolved — today's bank vaults have multiple electronic security layers that would have detected Clay's tunnel immediately through seismic sensors!"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "The Red-Headed League",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who wrote the Sherlock Holmes stories?",
+        "answer": "Arthur Conan Doyle (1859–1930) created the Sherlock Holmes character. 'The Red-Headed League' is one of the most famous Sherlock Holmes short stories.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What job was Mr Wilson given by the Red-Headed League?",
+        "answer": "Mr Wilson was paid £4 per week to copy the Encyclopaedia Britannica each day from 10am to 2pm. This was the fake job invented by John Clay (Spaulding) to keep Wilson away from his shop.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What clue did Holmes discover by thumping the pavement?",
+        "answer": "When Holmes thumped the pavement outside Wilson's shop with his stick, it sounded hollow. This told him there was an empty tunnel dug below the pavement — part of the criminals' escape route.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What significant clue did Holmes notice about Spaulding (John Clay)?",
+        "answer": "Holmes noticed that Spaulding's trouser knees were very dirty and worn — a clear sign that he had been spending many hours on his knees, digging the tunnel in Wilson's cellar.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was John Clay's real plan?",
+        "answer": "John Clay planned to dig a tunnel from Wilson's cellar to the vault of the bank next door, then rob the bank's gold at night. The Red-Headed League was invented to keep Wilson away during digging hours.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which modal verb shows ABILITY?",
+        "answer": "'Can' is the modal verb that shows ability. Example: 'She can swim' — 'can' tells us she has the ability to swim.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which modal verb is used for giving ADVICE?",
+        "answer": "'Should' is used for giving advice or showing what is the right or expected thing to do. Example: 'You should drink water regularly' — this gives advice.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is the CORRECT use of a modal verb?",
+        "answer": "'They should study hard' is correct. Modal verbs (should, can, must, may, will) do NOT change form — they never take '-s'. So 'musts', 'cans', 'mays' are all incorrect.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What form of the main verb comes AFTER a modal verb?",
+        "answer": "Modal verbs are always followed by the BASE form of the verb (no -s, -ing, or -ed). For example: 'She can swim' (not 'swims'), 'He must leave' (not 'leaves').",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who waited with Holmes in the bank cellar to catch John Clay?",
+        "answer": "Holmes, Dr Watson (his friend and narrator), banker Mr Merryweather, and a police officer waited together in darkness in the bank cellar to catch John Clay in the act.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Describe the terms and conditions Mr. Jabez Wilson had to follow as a member of the Red-Headed League.",
+        "modelAnswer": "Mr. Jabez Wilson was hired by the Red-Headed League under the condition that he had to be at the office every day from ten in the morning until two in the afternoon. During these four hours, he was strictly forbidden from leaving the building for any reason, or he would lose his position forever. His primary duty was to copy out the 'Encyclopaedia Britannica' by hand using his own ink, pens, and paper. In return for this simple task, he received a very generous salary of four pounds a week, which was a significant amount of money at that time.",
+        "keyPoints": [
+          "Required to be in the office daily from 10 AM to 2 PM.",
+          "Strictly forbidden from leaving the premises during work hours.",
+          "Tasked with copying the 'Encyclopaedia Britannica' by hand.",
+          "Paid a handsome salary of four pounds per week for the work."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la2",
+        "question": "Why did Sherlock Holmes become suspicious of Mr. Wilson's assistant, Vincent Spaulding?",
+        "modelAnswer": "Sherlock Holmes found several things suspicious about the assistant, starting with the fact that he was willing to work for half the standard wages. Spaulding also spent a peculiar amount of time in the cellar, claiming he was developing photographs, which Holmes suspected was a cover for another activity. When Holmes visited the shop, he noticed that the knees of Spaulding's trousers were wrinkled, stained, and badly worn. This physical evidence confirmed Holmes' theory that the assistant was actually spending his time kneeling and digging a tunnel in the cellar.",
+        "keyPoints": [
+          "Spaulding agreed to work for half the usual salary.",
+          "He spent long hours alone in the cellar on the pretext of photography.",
+          "Holmes observed that his trouser knees were dirty and worn out.",
+          "The worn knees suggested he was involved in heavy manual digging."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "How did Sherlock Holmes use the hollow sound of the pavement and the shop's location to solve the mystery?",
+        "modelAnswer": "Upon arriving at Saxe-Coburg Square, Sherlock Holmes thumped the pavement outside Mr. Wilson’s shop with his heavy walking stick. The hollow sound produced by the stick confirmed his suspicion that a tunnel had been dug beneath the ground leading away from the shop. By then walking around the corner, Holmes observed that the shop shared a back wall with the City and Suburban Bank. He correctly deduced that the criminals were digging a passage from the pawnshop cellar directly into the bank's gold vault to commit a robbery.",
+        "keyPoints": [
+          "Holmes thumped the pavement with his cane to test for empty space.",
+          "The hollow sound proved the existence of an underground tunnel.",
+          "He identified that the shop was located directly behind a major bank.",
+          "He deduced the tunnel's purpose was to reach the bank's gold vault."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la4",
+        "question": "Explain the clever scheme John Clay used to attempt the bank robbery.",
+        "modelAnswer": "John Clay, a notorious criminal posing as the assistant Vincent Spaulding, invented the 'Red-Headed League' as a ruse to get Mr. Wilson out of his shop. He knew the bank next door held a large shipment of French gold and needed time to dig a tunnel from Wilson's cellar into the bank vault. By offering Wilson a high-paying job that required him to be away for four hours daily, Clay ensured the cellar was left unguarded for his excavation work. Once the tunnel was completed after eight weeks, the League was suddenly 'dissolved' so the criminals could perform the robbery during the weekend.",
+        "keyPoints": [
+          "The League was a trick to lure Mr. Wilson away from his shop daily.",
+          "John Clay used the empty shop to dig a tunnel from the cellar to the bank.",
+          "The target was a massive shipment of French gold stored in the bank vault.",
+          "The robbery was planned for a Saturday to allow for a two-day escape."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Describe the dramatic scene in the bank's cellar when the criminals were caught.",
+        "modelAnswer": "On the night of the robbery, Sherlock Holmes, Dr. Watson, a police inspector, and the bank director waited silently in total darkness inside the bank's vault. They watched as a stone in the floor was pushed aside and a hand appeared, followed by the notorious John Clay and his accomplice. As the criminals stepped into the vault, Holmes sprang forward and seized Clay by the collar while the police officer blocked the tunnel. The trap was successful, and the criminals were captured red-handed before they could touch the crates of gold.",
+        "keyPoints": [
+          "Holmes and his team waited in the dark cellar for the criminals to emerge.",
+          "They observed the thieves climbing through a hole in the vault floor.",
+          "Holmes acted quickly to capture John Clay as soon as he appeared.",
+          "The police intervention prevented the theft of thirty thousand gold coins."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What are Modal Auxiliary Verbs and how are they used to express ability and obligation?",
+        "modelAnswer": "Modal auxiliary verbs are special helping verbs like 'can', 'must', 'should', and 'may' that modify the meaning of the main verb in a sentence. To express ability, we use 'can' for present situations and 'could' for the past, such as 'Holmes can solve any case.' For expressing obligation or necessity, 'must' and 'should' are used, where 'must' indicates a strong requirement and 'should' suggests advice. These verbs are unique because they never change their form and are always followed by the base form of the main verb without the word 'to'.",
+        "keyPoints": [
+          "Modals like 'can' and 'could' are used to indicate physical or mental ability.",
+          "'Must' expresses a strong necessity, while 'should' is used for advice.",
+          "Modal verbs do not change for different subjects (no -s, -ed, or -ing).",
+          "They are always followed by the base form of the following main verb."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

@@ -1,0 +1,293 @@
+{
+  "timestamp": "2026-02-28T12:02:29.842Z",
+  "totalGrade7Chapters": 15,
+  "chaptersAudited": 15,
+  "totalFailures": 0,
+  "outliers": [
+    {
+      "id": "chapter-1-history-sources-of-history",
+      "endpoints": {
+        "/chapter/chapter-1-history-sources-of-history/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-1-history-sources-of-history/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-1-history-sources-of-history/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-1-science-7-living-world",
+      "endpoints": {
+        "/chapter/chapter-1-science-7-living-world/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-1-science-7-living-world/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-1-science-7-living-world/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-10-disasters",
+      "endpoints": {
+        "/chapter/chapter-10-disasters/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-10-disasters/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-10-disasters/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-11-cell-structure-micro-organisms",
+      "endpoints": {
+        "/chapter/chapter-11-cell-structure-micro-organisms/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-11-cell-structure-micro-organisms/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-11-cell-structure-micro-organisms/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-12-muscular-digestive-system",
+      "endpoints": {
+        "/chapter/chapter-12-muscular-digestive-system/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-12-muscular-digestive-system/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-12-muscular-digestive-system/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-13-physical-chemical-changes",
+      "endpoints": {
+        "/chapter/chapter-13-physical-chemical-changes/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-13-physical-chemical-changes/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-13-physical-chemical-changes/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-16-natural-resources",
+      "endpoints": {
+        "/chapter/chapter-16-natural-resources/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-16-natural-resources/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-16-natural-resources/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-2-science-7-plants",
+      "endpoints": {
+        "/chapter/chapter-2-science-7-plants/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-2-science-7-plants/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-2-science-7-plants/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-3-science-7-natural-resources",
+      "endpoints": {
+        "/chapter/chapter-3-science-7-natural-resources/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-3-science-7-natural-resources/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-3-science-7-natural-resources/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-4-science-7-nutrition",
+      "endpoints": {
+        "/chapter/chapter-4-science-7-nutrition/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-4-science-7-nutrition/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-4-science-7-nutrition/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-5-science-7-food-safety",
+      "endpoints": {
+        "/chapter/chapter-5-science-7-food-safety/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-5-science-7-food-safety/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-5-science-7-food-safety/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-6-science-7-measurement",
+      "endpoints": {
+        "/chapter/chapter-6-science-7-measurement/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-6-science-7-measurement/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-6-science-7-measurement/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-7-science-7-motion-force-work",
+      "endpoints": {
+        "/chapter/chapter-7-science-7-motion-force-work/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-7-science-7-motion-force-work/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-7-science-7-motion-force-work/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-8-science-7-static-electricity",
+      "endpoints": {
+        "/chapter/chapter-8-science-7-static-electricity/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-8-science-7-static-electricity/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-8-science-7-static-electricity/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    },
+    {
+      "id": "chapter-9-science-7-heat",
+      "endpoints": {
+        "/chapter/chapter-9-science-7-heat/chat": {
+          "status": "WARN",
+          "issues": [
+            "No sections for chat context"
+          ]
+        },
+        "/chapter/chapter-9-science-7-heat/test": {
+          "status": "OK",
+          "issues": []
+        },
+        "/chapter/chapter-9-science-7-heat/test/results?score=5&total=10": {
+          "status": "OK",
+          "issues": []
+        }
+      }
+    }
+  ]
+}

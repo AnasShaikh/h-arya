@@ -349,5 +349,154 @@
       "Weekly bazaars (sabji mandis and local markets) in rural Maharashtra today are the direct descendants of the medieval weekly markets where farmers sold their produce."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Early Period",
+          "year": "600 CE",
+          "fact": "Early developments related to this chapter's topic"
+        },
+        {
+          "label": "Medieval Period",
+          "year": "1000 CE",
+          "fact": "Key events during the medieval era"
+        },
+        {
+          "label": "Important Development",
+          "year": "1400 CE",
+          "fact": "A significant milestone in this period"
+        },
+        {
+          "label": "Major Change",
+          "year": "1600 CE",
+          "fact": "A turning point in history"
+        },
+        {
+          "label": "Later Period",
+          "year": "1800 CE",
+          "fact": "Events leading to the modern era"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Life of the People of Medieval Maharashtra",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "What was the dominant family structure in medieval Maharashtra?",
+        "answer": "Joint families — where multiple generations (grandparents, parents, children, and sometimes uncles and their families) all lived together — were the dominant family structure in medieval Maharashtra. This system provided economic security and social support.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was the staple crop of the Deccan plateau in medieval Maharashtra?",
+        "answer": "Jowar (sorghum) and bajra (millet) were the staple crops of the Deccan plateau — they could grow in the semi-arid soil with less water than rice. Rice was grown primarily in the wetter Konkan coastal region.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Paithani is a famous textile product associated with which craft?",
+        "answer": "Paithani is a famous silk saree woven in Paithan (near Aurangabad). It is known for its geometric borders, peacock motifs, and use of gold threads. Paithani sarees have been made for over 2,000 years and are still highly valued today.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which port city was the most important trade hub for medieval Maharashtra's overseas trade?",
+        "answer": "Surat (in neighboring Gujarat) was the most important trade port for medieval Maharashtra. Goods from Maharashtra — cotton, textiles, spices — flowed through Surat to Arabia, Persia, East Africa, and Europe.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was the 'Hemadpanthi' style of temple architecture known for?",
+        "answer": "Hemadpanthi style of temple architecture (named after the Yadava minister Hemadri) is characterized by black basalt stone construction, pointed towers (shikharas), and intricate stone carvings. Temples like Kopeshwar at Khidrapur are fine examples.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What are 'Bakhars' in medieval Marathi literature?",
+        "answer": "Bakhars are Marathi prose historical chronicles — the most important historical literature of medieval Maharashtra. They narrate the lives and deeds of Maratha rulers, especially Shivaji Maharaj, and are valuable written sources for historians.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The 'Dasbodh' — one of the greatest works of medieval Marathi literature — was written by:",
+        "answer": "The Dasbodh was written by Sant Ramdas — Shivaji's spiritual guru. It is a comprehensive guide covering spirituality, philosophy, governance, and practical life wisdom. It remains one of the greatest works of Marathi literature.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Ahilyabai Holkar was remarkable as a woman leader because:",
+        "answer": "Ahilyabai Holkar governed the Indore kingdom with extraordinary wisdom and justice. She renovated major temples (Kashi Vishwanath, Somnath), built roads and rest houses for pilgrims, maintained fair justice, and is remembered as one of India's greatest queens.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What were 'Pathshalas' and who primarily attended them?",
+        "answer": "Pathshalas were traditional schools where a guru (teacher) taught a group of students (primarily boys) reading, writing, arithmetic, and sometimes religious texts in a single-room setting. They were the primary form of education in medieval Maharashtra.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The 'Balutedar' system in medieval Maharashtra refers to:",
+        "answer": "The Balutedar system was a social-economic arrangement where 12 hereditary artisan and service castes (weavers, blacksmiths, carpenters, potters, etc.) served the village community throughout the year and received a portion of the annual harvest as compensation — creating a stable, self-sufficient village economy.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What was the dominant family structure in medieval Maharashtra?",
+        "modelAnswer": "Joint families — where multiple generations (grandparents, parents, children, and sometimes uncles and their families) all lived together — were the dominant family structure in medieval Maharashtra. This system provided economic security and social support. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Joint families — where multiple generations (grandparents, parents, children, and sometimes uncles and their families) all lived together — were the dominant family structure in medieval Maharashtra.",
+          "This system provided economic security and social support.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What was the staple crop of the Deccan plateau in medieval Maharashtra?",
+        "modelAnswer": "Jowar (sorghum) and bajra (millet) were the staple crops of the Deccan plateau — they could grow in the semi-arid soil with less water than rice. Rice was grown primarily in the wetter Konkan coastal region. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Jowar (sorghum) and bajra (millet) were the staple crops of the Deccan plateau — they could grow in the semi-arid soil with less water than rice.",
+          "Rice was grown primarily in the wetter Konkan coastal region.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What was the 'Hemadpanthi' style of temple architecture known for?",
+        "modelAnswer": "Hemadpanthi style of temple architecture (named after the Yadava minister Hemadri) is characterized by black basalt stone construction, pointed towers (shikharas), and intricate stone carvings. Temples like Kopeshwar at Khidrapur are fine examples. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Hemadpanthi style of temple architecture (named after the Yadava minister Hemadri) is characterized by black basalt stone construction, pointed towers (shikharas), and intricate stone carvings.",
+          "Temples like Kopeshwar at Khidrapur are fine examples.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What are 'Bakhars' in medieval Marathi literature?",
+        "modelAnswer": "Bakhars are Marathi prose historical chronicles — the most important historical literature of medieval Maharashtra. They narrate the lives and deeds of Maratha rulers, especially Shivaji Maharaj, and are valuable written sources for historians. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Bakhars are Marathi prose historical chronicles — the most important historical literature of medieval Maharashtra.",
+          "They narrate the lives and deeds of Maratha rulers, especially Shivaji Maharaj, and are valuable written sources for historians.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What were 'Pathshalas' and who primarily attended them?",
+        "modelAnswer": "Pathshalas were traditional schools where a guru (teacher) taught a group of students (primarily boys) reading, writing, arithmetic, and sometimes religious texts in a single-room setting. They were the primary form of education in medieval Maharashtra. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Pathshalas were traditional schools where a guru (teacher) taught a group of students (primarily boys) reading, writing, arithmetic, and sometimes religious texts in a single-room setting.",
+          "They were the primary form of education in medieval Maharashtra.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

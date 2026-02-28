@@ -336,5 +336,141 @@
       "Bijapur's Gol Gumbaz remains an architectural marvel still studied by engineers for its acoustic properties."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Shivaji born at Shivneri Fort",
+          "year": "1630",
+          "fact": "Shivaji Maharaj was born to Jijabai and Shahaji Bhosale"
+        },
+        {
+          "label": "Capture of Torna Fort",
+          "year": "1646",
+          "fact": "Young Shivaji captured his first fort at age 16"
+        },
+        {
+          "label": "Battle of Pratapgad",
+          "year": "1659",
+          "fact": "Shivaji defeated Afzal Khan, a powerful Adilshahi general"
+        },
+        {
+          "label": "Surat Sack",
+          "year": "1664",
+          "fact": "Shivaji raided the rich Mughal port city of Surat"
+        },
+        {
+          "label": "Coronation at Raigad",
+          "year": "1674",
+          "fact": "Shivaji was crowned Chhatrapati (King) of the Maratha Empire"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "India Before Shivaji",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "In which year did Timur invade and destroy Delhi?",
+        "answer": "Timur (Tamerlane) invaded Delhi in 1398, massacred the population, and looted the city, causing the collapse of the Delhi Sultanate's central authority.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who was defeated by Babur at the First Battle of Panipat (1526)?",
+        "answer": "Babur defeated Ibrahim Lodi, the last sultan of the Lodi dynasty of Delhi, at the First Battle of Panipat in 1526. This victory established the Mughal Empire in India.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'Sulh-e-kul' mean?",
+        "answer": "Sulh-e-kul means 'peace with all' — it was Akbar's principle of religious tolerance and harmony that guided his interactions with people of all religions in the empire.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Taj Mahal was built by Shah Jahan in memory of:",
+        "answer": "Shah Jahan built the Taj Mahal as a mausoleum for his beloved wife Mumtaz Mahal, who died in 1631 while giving birth to their 14th child.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which Deccan Sultanate had its capital at Ahmednagar?",
+        "answer": "Nizamshahi had its capital at Ahmednagar. Adilshahi was based at Bijapur, Qutbshahi at Golconda/Hyderabad, Imadshahi at Berar, and Baridshahi at Bidar.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which Mughal emperor spent 27 years fighting the Marathas in the Deccan?",
+        "answer": "Aurangzeb came to the Deccan in 1681 and fought the Marathas until his death in 1707 — a 27-year campaign that drained the Mughal treasury and hastened the empire's decline.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many Deccan Sultanates emerged from the breakup of the Bahmani Kingdom?",
+        "answer": "Five Deccan Sultanates emerged: Adilshahi (Bijapur), Nizamshahi (Ahmednagar), Qutbshahi (Golconda), Imadshahi (Berar), and Baridshahi (Bidar).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was unique about Akbar's attitude toward other religions?",
+        "answer": "Akbar was famous for his religious tolerance. He abolished the jizya (tax on non-Muslims), practiced Sulh-e-kul (peace with all), married a Rajput princess, and had Hindu, Muslim, and other scholars in his court.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which kingdom did the five Deccan Sultanates jointly defeat at the Battle of Talikota (1565)?",
+        "answer": "The five Deccan Sultanates allied together and defeated the great Hindu kingdom of Vijayanagar at the Battle of Talikota in 1565, effectively ending Vijayanagar's dominance in South India.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What was unique about Akbar's attitude toward other religions?",
+        "modelAnswer": "Akbar was known for his policy of religious tolerance and harmony. He believed in 'Sulh-e-kul', which means 'peace for all'. He treated people of all faiths with respect and abolished discriminatory taxes like the Jizya. Akbar even founded a new religious path called 'Din-i-Ilahi', which incorporated good elements from various religions. He held discussions with scholars of different religions in his 'Ibadat Khana' to understand their teachings.",
+        "keyPoints": [
+          "Followed the policy of Sulh-e-kul (peace for all).",
+          "Abolished discriminatory taxes on non-Muslims.",
+          "Founded Din-i-Ilahi based on universal virtues.",
+          "Encouraged inter-faith dialogue in the Ibadat Khana."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "Who was Maharana Pratap and why is he remembered in Indian history?",
+        "modelAnswer": "Maharana Pratap was the ruler of Mewar who is legendary for his fierce resistance against the Mughal Emperor Akbar. Despite having fewer resources, he refused to submit to Mughal authority and fought for the independence of his kingdom. He is remembered for his incredible bravery, self-respect, and sacrifice, especially during the Battle of Haldighati. His struggle represents the spirit of 'Swaraj' and patriotism.",
+        "keyPoints": [
+          "Ruler of Mewar who resisted Akbar's expansion.",
+          "Fought for the independence and honor of his kingdom.",
+          "Legendary for his bravery and sacrifice at the Battle of Haldighati.",
+          "Symbol of patriotism and resistance against foreign domination."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "Describe the contribution of Krishnadevaraya to the Vijayanagara Empire.",
+        "modelAnswer": "Krishnadevaraya was the most powerful ruler of the Vijayanagara Empire. He expanded the empire by defeating the Sultans of Bijapur and Golconda. He was not only a great warrior but also a scholar and a patron of art and literature. He wrote the Telugu work 'Amuktamalyada' and built the famous Hazar Rama and Vitthala temples. His reign is considered the 'Golden Age' of Telugu literature.",
+        "keyPoints": [
+          "Expanded the empire and defeated neighboring Sultans.",
+          "A great scholar and author of 'Amuktamalyada'.",
+          "Patronized art and built magnificent temples like Vitthala temple.",
+          "His reign marked the peak of the Vijayanagara Empire's glory."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "In which year did Timur invade and destroy Delhi?",
+        "modelAnswer": "Timur (Tamerlane) invaded Delhi in 1398, massacred the population, and looted the city, causing the collapse of the Delhi Sultanate's central authority. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines: In which year did Timur invade and destroy Delhi?",
+          "Explains textbook concept clearly.",
+          "Includes relevant chapter example."
+        ],
+        "marks": 3
+      }
+    ]
   }
 }

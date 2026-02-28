@@ -1,0 +1,7 @@
+severity,page,issue,repro,expected,actual
+Low,/,Title size slightly large on mobile,Check on 390px,Should wrap cleanly,May overflow or look cramped
+Low,/login,Excessive padding on mobile card,390px viewport,More content width,p-8 reduces usable width to <300px
+Low,/onboarding,Subject selection wrap alignment,Step 2 on 390px,Clean wrapping,Potential uneven gaps or crowding
+Medium,/dashboard,Header height on mobile,390px viewport,Compact header,Stacks vertically taking ~15% of screen height
+Low,/dashboard,Subject card badge wrapping,Mobile viewport,Badge wraps cleanly,Badge might squeeze title or overflow
+Low,/chapter/[id],Learning path item horizontal space,390px viewport,No truncation of titles,Padding+Icon consumes ~140px leaving <250px for text

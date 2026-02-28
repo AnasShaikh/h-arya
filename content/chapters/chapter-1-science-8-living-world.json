@@ -5,57 +5,407 @@
     "subject": "Science",
     "grade": 8,
     "pages": "1-6",
-    "description": "Biological diversity and the Five-Kingdom system of classification."
+    "description": "Biological diversity, five-kingdom classification, and major groups of microbes."
   },
   "preAssessment": [
     {
       "id": "q1",
-      "question": "Who proposed the five-kingdom system of classification?",
-      "options": ["Carl Linnaeus", "Robert Whittaker", "Charles Darwin", "Gregor Mendel"],
+      "question": "Who proposed the five-kingdom classification?",
+      "options": [
+        "Linnaeus",
+        "Whittaker",
+        "Darwin",
+        "Mendel"
+      ],
       "correctAnswer": "B",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "conceptId": 1
     },
     {
       "id": "q2",
-      "question": "Organisms in Kingdom Monera are:",
-      "options": ["Multicellular", "Prokaryotic and Unicellular", "Eukaryotic", "Autotrophic only"],
+      "question": "Monera organisms are mostly:",
+      "options": [
+        "Multicellular eukaryotes",
+        "Unicellular prokaryotes",
+        "Multicellular autotrophs",
+        "Only parasites"
+      ],
       "correctAnswer": "B",
-      "difficulty": "medium"
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which one is not a microbe group?",
+      "options": [
+        "Bacteria",
+        "Protozoa",
+        "Fungi",
+        "Bryophyta"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "q4",
+      "question": "Viruses can reproduce only inside:",
+      "options": [
+        "Water",
+        "Soil",
+        "Host cells",
+        "Food"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q5",
+      "question": "Amoeba belongs to kingdom:",
+      "options": [
+        "Monera",
+        "Protista",
+        "Fungi",
+        "Animalia"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 3
     }
   ],
   "concepts": [
     {
       "id": 1,
-      "title": "Robert Whittaker's 5-Kingdom System",
+      "title": "Five-Kingdom Classification",
       "emoji": "🌳",
       "colorTheme": "from-green-500 to-emerald-600",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
-      "content": "In 1969, Robert Whittaker divided living organisms into 5 kingdoms: Monera, Protista, Fungi, Plantae, and Animalia. This classification is based on cell complexity, body organization, and mode of nutrition.",
-      "imageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&q=80&w=1000",
-      "videoUrl": "https://www.youtube.com/embed/S2CclmO2u80",
+      "content": "Robert Whittaker (1969) classified living organisms into Monera, Protista, Fungi, Plantae and Animalia using criteria such as cell type, body organization and mode of nutrition.",
       "pageReference": "1-2",
       "examples": [
-        { "icon": "🦠", "text": "Bacteria (Monera)" },
-        { "icon": "💧", "text": "Amoeba (Protista)" },
-        { "icon": "🍄", "text": "Mushrooms (Fungi)" }
+        {
+          "id": "e1",
+          "text": "Monera: Bacteria"
+        },
+        {
+          "id": "e2",
+          "text": "Protista: Amoeba"
+        },
+        {
+          "id": "e3",
+          "text": "Fungi: Mushroom"
+        }
       ],
       "keyPoints": [
-        "Monera: Prokaryotic, Unicellular",
-        "Protista: Eukaryotic, Unicellular",
-        "Fungi: Saprophytic, Multicellular"
+        {
+          "id": "k1",
+          "text": "Prokaryotes lack a true nucleus."
+        },
+        {
+          "id": "k2",
+          "text": "Eukaryotes have a true nucleus."
+        },
+        {
+          "id": "k3",
+          "text": "Classification helps organized scientific study."
+        }
       ],
-      "funFact": "Whittaker used 'Mode of Nutrition' as a key criteria for this widely accepted system!",
-      "textbookRef": "Page 1: Classification criteria"
+      "funFact": "Earlier systems had only two kingdoms: plants and animals.",
+      "textbookRef": "Pages 1-2"
+    },
+    {
+      "id": 2,
+      "title": "Major Groups of Microbes",
+      "emoji": "🔬",
+      "colorTheme": "from-blue-500 to-cyan-600",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Microbes include bacteria, protozoa, fungi, algae and viruses. Many are useful (curd formation, decomposition), while some cause diseases.",
+      "pageReference": "3-4",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "Lactobacillus helps form curd."
+        },
+        {
+          "id": "e2",
+          "text": "Yeast helps in baking."
+        },
+        {
+          "id": "e3",
+          "text": "Virus can cause flu and polio."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "k1",
+          "text": "Viruses are acellular and need host cells."
+        },
+        {
+          "id": "k2",
+          "text": "Bacteria reproduce by binary fission."
+        },
+        {
+          "id": "k3",
+          "text": "Some microbes are beneficial in nutrient recycling."
+        }
+      ],
+      "funFact": "One gram of healthy soil may contain millions of microorganisms.",
+      "textbookRef": "Pages 3-4"
+    },
+    {
+      "id": 3,
+      "title": "Useful and Harmful Microbes",
+      "emoji": "⚖️",
+      "colorTheme": "from-purple-500 to-indigo-600",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Microbes have both advantages and disadvantages. They are used in food industry, medicine and environment, but can also cause infections in plants, animals and humans.",
+      "pageReference": "5-6",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "Antibiotics are produced by some fungi and bacteria."
+        },
+        {
+          "id": "e2",
+          "text": "Rhizobium fixes nitrogen in legume roots."
+        },
+        {
+          "id": "e3",
+          "text": "Pathogenic microbes can cause cholera, malaria, or rust disease in crops."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "k1",
+          "text": "Not all microbes are harmful."
+        },
+        {
+          "id": "k2",
+          "text": "Hygiene helps prevent microbial diseases."
+        },
+        {
+          "id": "k3",
+          "text": "Vaccination protects against many viral diseases."
+        }
+      ],
+      "funFact": "Penicillin, the first antibiotic, was discovered from a fungus.",
+      "textbookRef": "Pages 5-6"
     }
   ],
   "test": [
     {
       "id": "t1",
-      "question": "Which kingdom is mostly saprophytic?",
-      "options": ["Monera", "Fungi", "Plantae", "Animalia"],
+      "question": "Which kingdom has prokaryotic organisms?",
+      "options": [
+        "Protista",
+        "Monera",
+        "Fungi",
+        "Animalia"
+      ],
       "correctAnswer": "B",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "t2",
+      "question": "Amoeba is classified under:",
+      "options": [
+        "Monera",
+        "Protista",
+        "Plantae",
+        "Fungi"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "t3",
+      "question": "Which microbe helps in curd formation?",
+      "options": [
+        "Lactobacillus",
+        "Rhizobium",
+        "Plasmodium",
+        "Influenza virus"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "t4",
+      "question": "Viruses are called obligate parasites because they:",
+      "options": [
+        "Have chlorophyll",
+        "Cannot reproduce without host",
+        "Are very small",
+        "Live in water"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "t5",
+      "question": "Nitrogen fixation in legumes is done by:",
+      "options": [
+        "Yeast",
+        "Rhizobium",
+        "Lactobacillus",
+        "Amoeba"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "t6",
+      "question": "Which one is a fungal organism?",
+      "options": [
+        "Mushroom",
+        "Amoeba",
+        "Bacteria",
+        "Virus"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "t7",
+      "question": "Whittaker proposed 5-kingdom system in:",
+      "options": [
+        "1669",
+        "1769",
+        "1869",
+        "1969"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "t8",
+      "question": "A disease caused by microbes is:",
+      "options": [
+        "Scurvy",
+        "Night blindness",
+        "Cholera",
+        "Rickets"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 3
     }
-  ]
+  ],
+  "interactiveElement": {
+    "type": "label-diagram",
+    "title": "Label the Diagram!",
+    "description": "Tap on each blank label to reveal the correct name.",
+    "data": {
+      "image": "Animal cell diagram showing key organelles",
+      "labels": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 50,
+          "answer": "Nucleus",
+          "hint": "Controls all cell activities"
+        },
+        {
+          "id": 2,
+          "x": 70,
+          "y": 40,
+          "answer": "Mitochondria",
+          "hint": "Powerhouse of the cell"
+        },
+        {
+          "id": 3,
+          "x": 30,
+          "y": 40,
+          "answer": "Cell Membrane",
+          "hint": "Controls entry/exit of substances"
+        },
+        {
+          "id": 4,
+          "x": 50,
+          "y": 70,
+          "answer": "Cytoplasm",
+          "hint": "Jelly-like fluid filling the cell"
+        },
+        {
+          "id": 5,
+          "x": 60,
+          "y": 25,
+          "answer": "Ribosome",
+          "hint": "Site of protein synthesis"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Living World and Classification of Microbes",
+    "instructions": "Textbook-style long answer practice",
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Which kingdom has prokaryotic organisms?",
+        "modelAnswer": "Which kingdom has prokaryotic organisms? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Which kingdom has prokaryotic organisms?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Amoeba is classified under:",
+        "modelAnswer": "Amoeba is classified under: This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Amoeba is classified under:",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Which microbe helps in curd formation?",
+        "modelAnswer": "Which microbe helps in curd formation? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Which microbe helps in curd formation?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Viruses are called obligate parasites because they:",
+        "modelAnswer": "Viruses are called obligate parasites because they: This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Viruses are called obligate parasites because they:",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Nitrogen fixation in legumes is done by:",
+        "modelAnswer": "Nitrogen fixation in legumes is done by: This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Nitrogen fixation in legumes is done by:",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      }
+    ]
+  }
 }

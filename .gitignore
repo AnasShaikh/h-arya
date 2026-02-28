@@ -51,3 +51,13 @@ database.db-wal
 /lib/generated/prisma
 .env
 prisma/.env
+
+# OpenClaw runtime (local orchestration state)
+/.openclaw/
+/memory/
+/AGENTS.md
+/HEARTBEAT.md
+/IDENTITY.md
+/SOUL.md
+/TOOLS.md
+/USER.md

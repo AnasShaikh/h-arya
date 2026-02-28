@@ -23,7 +23,12 @@
     {
       "id": "q2",
       "question": "Closely spaced contour lines indicate a _____.",
-      "options": ["Steep slope", "Gentle slope", "Flat plain", "Valley floor"],
+      "options": [
+        "Steep slope",
+        "Gentle slope",
+        "Flat plain",
+        "Valley floor"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -79,9 +84,18 @@
       "content": "Contour lines are imaginary lines on a map that join all points of the same altitude (height above mean sea level). The textbook uses a potato as a model: cut a potato (representing a hill) in horizontal slices of equal thickness. Trace the outline of each slice on paper. These outlines are contour lines! The contour interval is the difference in altitude between consecutive contour lines. Contour maps help show the relief (shape) of the land in 2D on paper.",
       "pageReference": "69-71",
       "examples": [
-        { "icon": "🥔", "text": "Potato slices: each slice outline = one contour line; slices together = the hill in 2D on paper" },
-        { "icon": "🗺️", "text": "Topographic maps of India (Survey of India): use contour interval of 20m or 50m" },
-        { "icon": "🏔️", "text": "Sahyadri (Western Ghats): contours show steep western side and gentle eastern slope" }
+        {
+          "icon": "🥔",
+          "text": "Potato slices: each slice outline = one contour line; slices together = the hill in 2D on paper"
+        },
+        {
+          "icon": "🗺️",
+          "text": "Topographic maps of India (Survey of India): use contour interval of 20m or 50m"
+        },
+        {
+          "icon": "🏔️",
+          "text": "Sahyadri (Western Ghats): contours show steep western side and gentle eastern slope"
+        }
       ],
       "keyPoints": [
         "Contour lines: join all points of SAME altitude on a map",
@@ -103,9 +117,18 @@
       "content": "Key rules for reading contour lines: (1) Contour lines NEVER cross each other (each point has only one altitude). (2) Closely spaced contour lines = steep slope. (3) Widely spaced contour lines = gentle slope. (4) Concentric closed circles = hill or isolated peak. (5) V-shaped contours pointing upstream (into the hill) = valley or river valley. (6) Contour lines very close or touching = cliff (almost vertical). The direction of the V indicates upstream direction of a river.",
       "pageReference": "71-73",
       "examples": [
-        { "icon": "📐", "text": "Sahyadri western face (Konkan side): contours very close → very steep slope → heavy monsoon erosion" },
-        { "icon": "🔹", "text": "Deccan Plateau (eastern slope): contours widely spaced → gentle slope → easier farming, settlement" },
-        { "icon": "🏔️", "text": "Purandar Fort near Pune: concentric rings of close contours = steep, defensible hilltop" }
+        {
+          "icon": "📐",
+          "text": "Sahyadri western face (Konkan side): contours very close → very steep slope → heavy monsoon erosion"
+        },
+        {
+          "icon": "🔹",
+          "text": "Deccan Plateau (eastern slope): contours widely spaced → gentle slope → easier farming, settlement"
+        },
+        {
+          "icon": "🏔️",
+          "text": "Purandar Fort near Pune: concentric rings of close contours = steep, defensible hilltop"
+        }
       ],
       "keyPoints": [
         "Contour lines NEVER cross each other",
@@ -127,9 +150,18 @@
       "content": "Different landforms have distinctive contour patterns: Hill/Isolated Peak: concentric closed circles, smaller innermost. Valley: V-shaped contours pointing upstream (toward higher altitude). Ridge: elongated hill — contours form a long narrow oval, with lower values on both sides. Cliff: contour lines are touching or very close — nearly vertical face. Plateau: closely spaced contours around the edges (steep sides) but widely spaced or no contours on top (flat surface). Saddle/Col: low point between two higher points — contours form a figure-8 shape.",
       "pageReference": "72-74",
       "examples": [
-        { "icon": "⛰️", "text": "Sinhagad, Pune: concentric close-spaced contours — steep isolated hill used as fort" },
-        { "icon": "🏞️", "text": "River Karha valley near Saswad: V-shaped contours pointing upstream (toward Purandar hill)" },
-        { "icon": "🏔️", "text": "Sahyadri ridgeline: elongated contour pattern — ridge runs north-south for 1600 km!" }
+        {
+          "icon": "⛰️",
+          "text": "Sinhagad, Pune: concentric close-spaced contours — steep isolated hill used as fort"
+        },
+        {
+          "icon": "🏞️",
+          "text": "River Karha valley near Saswad: V-shaped contours pointing upstream (toward Purandar hill)"
+        },
+        {
+          "icon": "🏔️",
+          "text": "Sahyadri ridgeline: elongated contour pattern — ridge runs north-south for 1600 km!"
+        }
       ],
       "keyPoints": [
         "Hill: concentric closed circles (innermost = summit)",
@@ -152,9 +184,18 @@
       "content": "Contour maps are used by: Mountaineers and trekkers — to plan safe routes to peaks. Defense personnel — to understand terrain for military strategy. Farmers — to identify flat areas for farming, steep areas prone to erosion. Engineers — to plan roads, railways, dams, tunnels (route selection based on gradients). Urban planners — to understand drainage patterns. Scientists — to study river basins, soil erosion, groundwater. Historical use: India's hill forts like Raigad, Pratapgad, Sinhagad were strategically located because the terrain made them almost impregnable — visible on contour maps as isolated hills with steep sides.",
       "pageReference": "72",
       "examples": [
-        { "icon": "🧗", "text": "Trekkers studying Sahyadri maps: choose route avoiding near-vertical cliffs; plan campsite at saddle/flat area" },
-        { "icon": "🚂", "text": "Konkan Railway engineers used contour maps to plan 91 tunnels through Sahyadri — avoiding steep cliffs" },
-        { "icon": "🏰", "text": "Shivaji chose Raigad as capital: isolated hill (concentric contours) = nearly impregnable fortress" }
+        {
+          "icon": "🧗",
+          "text": "Trekkers studying Sahyadri maps: choose route avoiding near-vertical cliffs; plan campsite at saddle/flat area"
+        },
+        {
+          "icon": "🚂",
+          "text": "Konkan Railway engineers used contour maps to plan 91 tunnels through Sahyadri — avoiding steep cliffs"
+        },
+        {
+          "icon": "🏰",
+          "text": "Shivaji chose Raigad as capital: isolated hill (concentric contours) = nearly impregnable fortress"
+        }
       ],
       "keyPoints": [
         "Mountaineers: plan safe routes; avoid cliffs; locate campsites on flat areas",
@@ -176,9 +217,18 @@
       "content": "The textbook shows the Karha River Basin map (Saswad, Jejuri, Purandar area near Pune) as a real example. Key features visible: Katraj-Diveghat range (east-west hill range — elongated contour pattern). Purandar fort (isolated hill with concentric contours). Karha River valley (V-shaped contours pointing upstream). Mula-Mutha river basin (to the north). The map helps students practice identifying landforms, finding directions, and understanding how real geography of Maharashtra looks on a contour map.",
       "pageReference": "72-73",
       "examples": [
-        { "icon": "🗺️", "text": "Purandar fort: on isolated hill — Shivaji's first captured fort; visible as concentric rings on map" },
-        { "icon": "💧", "text": "Karha River: V-shaped contours in the map show river flowing through a valley south of Katraj-Diveghat range" },
-        { "icon": "🏔️", "text": "Katraj-Diveghat range: elongated contour pattern running east-west — the watershed between Pune and Saswad" }
+        {
+          "icon": "🗺️",
+          "text": "Purandar fort: on isolated hill — Shivaji's first captured fort; visible as concentric rings on map"
+        },
+        {
+          "icon": "💧",
+          "text": "Karha River: V-shaped contours in the map show river flowing through a valley south of Katraj-Diveghat range"
+        },
+        {
+          "icon": "🏔️",
+          "text": "Katraj-Diveghat range: elongated contour pattern running east-west — the watershed between Pune and Saswad"
+        }
       ],
       "keyPoints": [
         "Karha River Basin map covers Saswad, Jejuri, Purandar (Pune district)",
@@ -203,7 +253,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Contour lines connect all points of the same altitude. This allows us to show the three-dimensional shape of the land (hills, valleys, plateaus) on a flat 2D map.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "69"
     },
     {
@@ -217,7 +269,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Each horizontal slice of the potato represents one contour interval. When you trace the outline of each slice on paper, you get a contour line. Stacking all the traced outlines gives you a contour map of the potato hill.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "69-71"
     },
     {
@@ -231,7 +285,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Closely spaced contours mean that altitude changes rapidly over a short horizontal distance — which means a steep slope. Widely spaced contours mean gentle slope (altitude changes slowly over a long distance).",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "73"
     },
     {
@@ -245,7 +301,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A river valley is shown by V-shaped contour lines. The V always points upstream (toward the higher ground). This is because the river cuts into the hill creating a V-shaped valley, and contour lines must 'go into' the valley to represent the higher ground on either side.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "73"
     },
     {
@@ -259,7 +317,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "Each point on Earth's surface has only one altitude. If two contours crossed, it would mean that one point has two different heights at the same time — which is impossible. Hence contours never cross.",
-      "conceptIds": [1, 2],
+      "conceptIds": [
+        1,
+        2
+      ],
       "pageReference": "73"
     },
     {
@@ -273,7 +334,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A cliff is a near-vertical rock face. On a contour map, this means altitude changes dramatically over almost zero horizontal distance — so contour lines are extremely close together or actually touching.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "73"
     },
     {
@@ -287,7 +350,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Mountaineers use contour maps to plan their ascent: avoid steep cliffs (touching contours), find gentle slopes (widely spaced contours) for easier climbing, locate flat areas (few/no contours) for camping, and find the safest route to the summit.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "72"
     },
     {
@@ -301,7 +366,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Purandar fort is shown on an isolated hill east of Saswad in the textbook map. It appears as concentric contour rings (circles within circles) indicating a hill that rises prominently from the surrounding plateau — exactly the kind of defensible terrain Shivaji's forces used for forts.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "72-73"
     }
   ],
@@ -331,8 +398,161 @@
       "Trekkers in Sahyadri use Survey of India maps to plan routes like Rajmachi, Harishchandragad, Kalsubai"
     ],
     "formulas": [
-      { "formula": "Contour interval = altitude difference between two consecutive contour lines", "explanation": "Tells you how much height each contour line represents" },
-      { "formula": "Steep slope = closely spaced contours; Gentle slope = widely spaced contours", "explanation": "Key rule for reading slope from a contour map" }
+      {
+        "formula": "Contour interval = altitude difference between two consecutive contour lines",
+        "explanation": "Tells you how much height each contour line represents"
+      },
+      {
+        "formula": "Steep slope = closely spaced contours; Gentle slope = widely spaced contours",
+        "explanation": "Key rule for reading slope from a contour map"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "drag-drop",
+    "title": "Sort the Features!",
+    "description": "Drag each item to its correct geographical category.",
+    "data": {
+      "items": [
+        "Mountain",
+        "Plateau",
+        "Plain",
+        "Valley",
+        "Hill",
+        "Delta"
+      ],
+      "categories": [
+        "Highlands",
+        "Lowlands",
+        "Water-Formed"
+      ],
+      "answers": {
+        "Mountain": "Highlands",
+        "Plateau": "Highlands",
+        "Hill": "Highlands",
+        "Plain": "Lowlands",
+        "Valley": "Lowlands",
+        "Delta": "Water-Formed"
+      }
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Contour Maps and Landforms",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "What do contour lines show on a topographic map?",
+        "answer": "Contour lines connect all points of the same altitude. This allows us to show the three-dimensional shape of the land (hills, valleys, plateaus) on a flat 2D map.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In the potato slicing experiment, what does each horizontal slice of the potato represent?",
+        "answer": "Each horizontal slice of the potato represents one contour interval. When you trace the outline of each slice on paper, you get a contour line. Stacking all the traced outlines gives you a contour map of the potato hill.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Closely spaced contour lines on a map indicate _____.",
+        "answer": "Closely spaced contours mean that altitude changes rapidly over a short horizontal distance — which means a steep slope. Widely spaced contours mean gentle slope (altitude changes slowly over a long distance).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "On a contour map, a valley (river valley) is shown by _____.",
+        "answer": "A river valley is shown by V-shaped contour lines. The V always points upstream (toward the higher ground). This is because the river cuts into the hill creating a V-shaped valley, and contour lines must 'go into' the valley to represent the higher ground on either side.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why do contour lines never cross each other?",
+        "answer": "Each point on Earth's surface has only one altitude. If two contours crossed, it would mean that one point has two different heights at the same time — which is impossible. Hence contours never cross.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A cliff is shown on a contour map by _____.",
+        "answer": "A cliff is a near-vertical rock face. On a contour map, this means altitude changes dramatically over almost zero horizontal distance — so contour lines are extremely close together or actually touching.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How are contour maps useful for mountaineers?",
+        "answer": "Mountaineers use contour maps to plan their ascent: avoid steep cliffs (touching contours), find gentle slopes (widely spaced contours) for easier climbing, locate flat areas (few/no contours) for camping, and find the safest route to the summit.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In the Karha River Basin map, where is Fort Purandar located?",
+        "answer": "Purandar fort is shown on an isolated hill east of Saswad in the textbook map. It appears as concentric contour rings (circles within circles) indicating a hill that rises prominently from the surrounding plateau — exactly the kind of defensible terrain Shivaji's forces used for forts.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What do contour lines show on a topographic map?",
+        "modelAnswer": "Contour lines connect all points of the same altitude. This allows us to show the three-dimensional shape of the land (hills, valleys, plateaus) on a flat 2D map. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Contour lines connect all points of the same altitude.",
+          "This allows us to show the three-dimensional shape of the land (hills, valleys, plateaus) on a flat 2D map.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "In the potato slicing experiment, what does each horizontal slice of the potato represent?",
+        "modelAnswer": "Each horizontal slice of the potato represents one contour interval. When you trace the outline of each slice on paper, you get a contour line. Stacking all the traced outlines gives you a contour map of the potato hill. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Each horizontal slice of the potato represents one contour interval.",
+          "When you trace the outline of each slice on paper, you get a contour line.",
+          "Stacking all the traced outlines gives you a contour map of the potato hill.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "On a contour map, a valley (river valley) is shown by _____.",
+        "modelAnswer": "A river valley is shown by V-shaped contour lines. The V always points upstream (toward the higher ground). This is because the river cuts into the hill creating a V-shaped valley, and contour lines must 'go into' the valley to represent the higher ground on either side. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "A river valley is shown by V-shaped contour lines.",
+          "The V always points upstream (toward the higher ground).",
+          "This is because the river cuts into the hill creating a V-shaped valley, and contour lines must 'go into' the valley to represent the higher ground on either side.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Why do contour lines never cross each other?",
+        "modelAnswer": "Each point on Earth's surface has only one altitude. If two contours crossed, it would mean that one point has two different heights at the same time — which is impossible. Hence contours never cross. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Each point on Earth's surface has only one altitude.",
+          "If two contours crossed, it would mean that one point has two different heights at the same time — which is impossible.",
+          "Hence contours never cross.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "A cliff is shown on a contour map by _____.",
+        "modelAnswer": "A cliff is a near-vertical rock face. On a contour map, this means altitude changes dramatically over almost zero horizontal distance — so contour lines are extremely close together or actually touching. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "A cliff is a near-vertical rock face.",
+          "On a contour map, this means altitude changes dramatically over almost zero horizontal distance — so contour lines are extremely close together or actually touching.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "How are contour maps useful for mountaineers?",
+        "modelAnswer": "Mountaineers use contour maps to plan their ascent: avoid steep cliffs (touching contours), find gentle slopes (widely spaced contours) for easier climbing, locate flat areas (few/no contours) for camping, and find the safest route to the summit. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: How are contour maps useful for mountaineers?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      }
     ]
   }
 }

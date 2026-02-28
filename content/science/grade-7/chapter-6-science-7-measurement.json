@@ -1,0 +1,143 @@
+{
+  "chapterNumber": 6,
+  "chapterName": "Measurement of Physical Quantities",
+  "file": "chapter-6-science-7-measurement.json",
+  "grade": 7,
+  "subject": "Science",
+  "status": "weak_quality",
+  "objectives": [
+    "To understand the need for measurement.",
+    "To learn about the systems of units (CGS and MKS).",
+    "To study basic units of measurement for length, mass, and time.",
+    "To learn about measurement of temperature."
+  ],
+  "concepts": [
+    {
+      "title": "Need for Measurement",
+      "description": "Measurement allows us to quantify physical properties and compare them. It is essential in science, engineering, and everyday life.",
+      "keyPoints": [
+        "Measurements provide objective data.",
+        "Standard units ensure consistency.",
+        "Measurements are crucial for calculations and predictions."
+      ]
+    },
+    {
+      "title": "Systems of Units",
+      "description": "Two main systems of units are CGS and MKS (SI). SI is the modern form of MKS and is internationally accepted.",
+      "keyPoints": [
+        "CGS system: Centimeter, Gram, Second.",
+        "MKS system: Meter, Kilogram, Second.",
+        "SI system: Based on MKS, with additional base units for other physical quantities."
+      ]
+    },
+    {
+      "title": "Basic Units of Measurement",
+      "description": "Fundamental physical quantities have base units from which other units are derived.",
+      "keyPoints": [
+        "Length: Meter (m) in SI, Centimeter (cm) in CGS.",
+        "Mass: Kilogram (kg) in SI, Gram (g) in CGS.",
+        "Time: Second (s) in both CGS and SI."
+      ]
+    }
+  ],
+  "preAssessment": {
+    "questions": [
+      {
+        "id": "q6-1",
+        "text": "What is the SI unit for length?",
+        "options": [
+          "Kilogram",
+          "Second",
+          "Meter",
+          "Ampere"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The meter (m) is the base unit of length in the International System of Units (SI)."
+      },
+      {
+        "id": "q6-2",
+        "text": "Which instrument is used to measure time?",
+        "options": [
+          "Ruler",
+          "Beaker",
+          "Clock",
+          "Thermometer"
+        ],
+        "correctAnswer": 2,
+        "explanation": "A clock is used to measure time intervals."
+      },
+      {
+        "id": "q6-3",
+        "text": "Temperature is measured in which SI unit?",
+        "options": [
+          "Meter",
+          "Kilogram",
+          "Kelvin",
+          "Second"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The Kelvin (K) is the SI base unit for thermodynamic temperature."
+      }
+    ]
+  },
+  "test": {
+    "questions": [
+      {
+        "id": "t6-1",
+        "text": "Which unit is used for mass in the CGS system?",
+        "options": ["Meter", "Gram", "Second", "Liter"],
+        "correctAnswer": 1,
+        "explanation": "In the CGS system, mass is measured in grams (g)."
+      },
+      {
+        "id": "t6-2",
+        "text": "What is the primary function of measurement in science?",
+        "options": ["To make things more complicated", "To allow for quantification and comparison", "To confuse students", "To avoid calculations"],
+        "correctAnswer": 1,
+        "explanation": "Measurement provides objective data that can be used for comparisons and calculations."
+      },
+      {
+        "id": "t6-3",
+        "text": "Which of the following is a derived unit?",
+        "options": ["Meter", "Kilogram", "Newton", "Second"],
+        "correctAnswer": 2,
+        "explanation": "A Newton (N) is a derived unit of force, calculated from base units like mass, length, and time."
+      },
+      {
+        "id": "t6-4",
+        "text": "Why is the SI system preferred internationally?",
+        "options": ["It is older and more traditional", "It is simpler to use for all calculations", "It provides a standardized and consistent system for global scientific communication", "It is only used in a few countries"],
+        "correctAnswer": 2,
+        "explanation": "The SI system's standardization ensures consistency in measurements and facilitates international scientific collaboration."
+      },
+      {
+        "id": "t6-5",
+        "text": "What is the purpose of using a thermometer?",
+        "options": ["To measure length", "To measure mass", "To measure temperature", "To measure time"],
+        "correctAnswer": 2,
+        "explanation": "A thermometer is specifically designed to measure temperature."
+      },
+      {
+        "id": "t6-6",
+        "text": "Which SI unit is used for electric current?",
+        "options": ["Kelvin", "Watt", "Ampere", "Volt"],
+        "correctAnswer": 2,
+        "explanation": "The Ampere (A) is the SI unit for electric current."
+      },
+      {
+        "id": "t6-7",
+        "text": "Which of these is NOT a base unit in the SI system?",
+        "options": ["Meter", "Kilogram", "Liter", "Second"],
+        "correctAnswer": 2,
+        "explanation": "A Liter is a unit of volume, which is a derived unit, not a base unit. Base units include meter, kilogram, second, Kelvin, mole, ampere, and candela."
+      },
+      {
+        "id": "t6-8",
+        "text": "What does 'CGS' stand for in terms of measurement systems?",
+        "options": ["Centimeter, Gram, Second", "Celsius, Gallon, Second", "Count, Group, Sequence", "Custom, Global, Standard"],
+        "correctAnswer": 0,
+        "explanation": "CGS stands for Centimeter, Gram, and Second."
+      }
+    ]
+  }
+}

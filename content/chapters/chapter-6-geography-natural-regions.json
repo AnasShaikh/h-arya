@@ -23,7 +23,12 @@
     {
       "id": "q2",
       "question": "The Tundra region is found between _____.",
-      "options": ["65° and 90° N latitudes (near the Arctic)", "0° and 5° N/S (near the equator)", "25° and 35° N/S", "10° and 30° N/S"],
+      "options": [
+        "65° and 90° N latitudes (near the Arctic)",
+        "0° and 5° N/S (near the equator)",
+        "25° and 35° N/S",
+        "10° and 30° N/S"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -44,7 +49,12 @@
     {
       "id": "q4",
       "question": "Which natural region does India mainly belong to?",
-      "options": ["Monsoon region", "Mediterranean region", "Equatorial region", "Tundra region"],
+      "options": [
+        "Monsoon region",
+        "Mediterranean region",
+        "Equatorial region",
+        "Tundra region"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 4
@@ -74,9 +84,18 @@
       "content": "Natural regions are large areas of the Earth that have similar climate, vegetation (flora), animal life (fauna), and human adaptations. These similarities arise because of the availability of sunlight and water at specific latitudes. The entire land area of the Earth can be divided into 9+ natural regions. Understanding natural regions helps us explain why different parts of the world have such different plants, animals, and human cultures.",
       "pageReference": "30-31",
       "examples": [
-        { "icon": "🌡️", "text": "Availability of sunlight + water determines natural region type (equator gets most, poles get least)" },
-        { "icon": "🌿", "text": "Similar regions on different continents: Steppes (Eurasia), Prairies (N. America), Pampas (S. America) — all grasslands!" },
-        { "icon": "🐘", "text": "Africa's Savanna and Australia's Queensland have similar climate → similar animals and vegetation" }
+        {
+          "icon": "🌡️",
+          "text": "Availability of sunlight + water determines natural region type (equator gets most, poles get least)"
+        },
+        {
+          "icon": "🌿",
+          "text": "Similar regions on different continents: Steppes (Eurasia), Prairies (N. America), Pampas (S. America) — all grasslands!"
+        },
+        {
+          "icon": "🐘",
+          "text": "Africa's Savanna and Australia's Queensland have similar climate → similar animals and vegetation"
+        }
       ],
       "keyPoints": [
         "Natural regions = areas with similar climate, vegetation, animals and human life",
@@ -98,9 +117,18 @@
       "content": "Tundra (65°–90° N): Extremely cold, rainfall 25–300 mm/year. Short-lived plants (moss, lichen). Animals: caribou, reindeer, polar bear, seal. Human life: Eskimo/Inuit people — igloos (tupiks), sledges, hunting and fishing. Taiga (55°–65° N): Coniferous forests (spruce, fir, pine). Animals with thick fur. Main occupation: lumbering. Grasslands/Steppes/Prairies (25°–55° N/S): Extensive grass, 400–600 mm rainfall. Animals: bison, horse, kangaroo. Kirgiz people — traditionally nomadic, now wheat farming.",
       "pageReference": "31-33",
       "examples": [
-        { "icon": "🏠", "text": "Inuit/Eskimo people: igloos (ice houses) in winter — excellent insulation against Arctic cold" },
-        { "icon": "🌲", "text": "Taiga forests provide most of the world's timber for paper, furniture, construction" },
-        { "icon": "🌾", "text": "Prairie region (USA/Canada) called the 'wheat basket of the world' — huge wheat farms" }
+        {
+          "icon": "🏠",
+          "text": "Inuit/Eskimo people: igloos (ice houses) in winter — excellent insulation against Arctic cold"
+        },
+        {
+          "icon": "🌲",
+          "text": "Taiga forests provide most of the world's timber for paper, furniture, construction"
+        },
+        {
+          "icon": "🌾",
+          "text": "Prairie region (USA/Canada) called the 'wheat basket of the world' — huge wheat farms"
+        }
       ],
       "keyPoints": [
         "Tundra (65°–90°N): extreme cold, Eskimos/Inuit, igloos, reindeer, hunting/fishing",
@@ -122,9 +150,18 @@
       "content": "Hot Desert (20°–30° N/S, western sides of continents): Extreme heat (30°–45°C in summer), very low rainfall, cold nights. Plants: cactus, date palm, sisal. Animals: camels, snakes, lizards, scorpions. Human life: Bedouins (Sahara) — nomadic herders; Bushmen (Kalahari). Sudan-type Grasslands/Savanna (5°–20° N/S): Tall elephant grass (6m!), scattered umbrella-shaped acacia trees, hot/humid summer and dry winter (250–1000 mm rainfall). Home to Africa's spectacular megafauna: lions, elephants, giraffes, zebras. Zulu, Hausa, Masai tribes.",
       "pageReference": "32-33",
       "examples": [
-        { "icon": "🐪", "text": "Camel: 'ship of the desert' — can survive days without water; fat stored in hump for energy" },
-        { "icon": "🦁", "text": "Africa's Savanna: home to lions, elephants, giraffes, zebras — world's most diverse megafauna" },
-        { "icon": "🌵", "text": "Cactus: stores water in thick stem, small/no leaves to reduce water loss — perfect desert adaptation" }
+        {
+          "icon": "🐪",
+          "text": "Camel: 'ship of the desert' — can survive days without water; fat stored in hump for energy"
+        },
+        {
+          "icon": "🦁",
+          "text": "Africa's Savanna: home to lions, elephants, giraffes, zebras — world's most diverse megafauna"
+        },
+        {
+          "icon": "🌵",
+          "text": "Cactus: stores water in thick stem, small/no leaves to reduce water loss — perfect desert adaptation"
+        }
       ],
       "keyPoints": [
         "Hot desert: subtropical high pressure, western coasts, extreme heat, very low rainfall (<250 mm)",
@@ -146,9 +183,18 @@
       "content": "Equatorial Region (0°–5° N/S): Extremely hot and humid, 2500–3000 mm rainfall. Dense evergreen rainforest (mahogany, ebony, rosewood). Forest floor is dark — little sunlight. Animals: gorillas, chimpanzees, pythons. Pygmy tribes in Africa, Boro Indians in Amazon. Monsoon Region (10°–30° N/S): India's region! 250–2500 mm seasonal rainfall (SW Monsoon). Semi-evergreen/deciduous forests. Tigers, elephants, leopards, peacocks, teak trees. Main occupation: agriculture. India is one of the world's most agriculturally productive monsoon regions.",
       "pageReference": "33-34",
       "examples": [
-        { "icon": "🌿", "text": "Amazon Rainforest (equatorial): 50% of Earth's species in only 6% of land — extreme biodiversity" },
-        { "icon": "🌾", "text": "Indian monsoon: 1.4 billion people depend on monsoon rains for food — most critical weather event in Asia" },
-        { "icon": "🐯", "text": "Bengal Tiger: lives in India's monsoon forests — Sundarbans mangroves of West Bengal" }
+        {
+          "icon": "🌿",
+          "text": "Amazon Rainforest (equatorial): 50% of Earth's species in only 6% of land — extreme biodiversity"
+        },
+        {
+          "icon": "🌾",
+          "text": "Indian monsoon: 1.4 billion people depend on monsoon rains for food — most critical weather event in Asia"
+        },
+        {
+          "icon": "🐯",
+          "text": "Bengal Tiger: lives in India's monsoon forests — Sundarbans mangroves of West Bengal"
+        }
       ],
       "keyPoints": [
         "Equatorial: 0°–5°, hot and humid year-round, 2500–3000 mm rain, densest biodiversity on Earth",
@@ -170,9 +216,18 @@
       "content": "Mediterranean Region (30°–40° N/S, western coasts): Distinctive climate — dry summer (21°–27°C) and rainy winter (10°–14°C). Plants with thick, oily bark and small leaves (olive, oak, chestnut) — adapted to dry summers. Famous for fruit and flower cultivation. Cradle of Greek and Roman civilisations. Wheat staple diet. West European Region (45°–65° N/S, western coasts): Mild climate (5°–20°C), year-round rainfall, cyclones from Westerlies. Deciduous trees (oak, beech, maple, elm). Industrious, progressive people — sailors and explorers historically. Advanced secondary and tertiary industries.",
       "pageReference": "34-35",
       "examples": [
-        { "icon": "🫒", "text": "Olive trees in Mediterranean: oily leaves prevent water loss during dry summers — adaptation" },
-        { "icon": "🏛️", "text": "Ancient Greece and Rome — Mediterranean climate supported dense populations and great civilisations" },
-        { "icon": "🌊", "text": "West Europeans: Vasco da Gama (Portugal), Columbus (Spain) — Mediterranean/Atlantic sailors who discovered sea routes!" }
+        {
+          "icon": "🫒",
+          "text": "Olive trees in Mediterranean: oily leaves prevent water loss during dry summers — adaptation"
+        },
+        {
+          "icon": "🏛️",
+          "text": "Ancient Greece and Rome — Mediterranean climate supported dense populations and great civilisations"
+        },
+        {
+          "icon": "🌊",
+          "text": "West Europeans: Vasco da Gama (Portugal), Columbus (Spain) — Mediterranean/Atlantic sailors who discovered sea routes!"
+        }
       ],
       "keyPoints": [
         "Mediterranean: 30°–40°, DRY summer and RAINY winter — unique pattern!",
@@ -197,25 +252,42 @@
       ],
       "correctAnswer": "A",
       "explanation": "Natural regions are determined by the availability of sunlight and water (rainfall) at different latitudes. These factors create specific climates which support specific vegetation and animal life.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "30-31"
     },
     {
       "id": "q2",
       "question": "The Prairies, Steppes, Pampas, Velds and Downs are all types of _____.",
-      "options": ["Grasslands — same natural region type on different continents", "Deserts", "Tropical forests", "Tundra regions"],
+      "options": [
+        "Grasslands — same natural region type on different continents",
+        "Deserts",
+        "Tropical forests",
+        "Tundra regions"
+      ],
       "correctAnswer": "A",
       "explanation": "All these are grasslands — the same type of natural region found on different continents at similar latitudes (25°–55°N/S interior of continents). Different names, same ecological characteristics: moderate rainfall, grass-dominated vegetation.",
-      "conceptIds": [1, 2],
+      "conceptIds": [
+        1,
+        2
+      ],
       "pageReference": "31"
     },
     {
       "id": "q3",
       "question": "Inuit/Eskimo people live in _____.",
-      "options": ["Tundra region — near the Arctic, between 65°–90° N", "Hot Desert region", "Equatorial region", "Mediterranean region"],
+      "options": [
+        "Tundra region — near the Arctic, between 65°–90° N",
+        "Hot Desert region",
+        "Equatorial region",
+        "Mediterranean region"
+      ],
       "correctAnswer": "A",
       "explanation": "The Inuit (Eskimo) people live in the Tundra region — the extremely cold zone between 65°–90° N. They traditionally lived in igloos (ice houses), used sledges for transport, and survived by hunting and fishing.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "31"
     },
     {
@@ -229,16 +301,25 @@
       ],
       "correctAnswer": "A",
       "explanation": "Desert plants are specially adapted to save water: thick stems store water, small/no leaves reduce transpiration (water loss), and thick waxy bark prevents evaporation. Cactus can survive without rain for months using stored water.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "32"
     },
     {
       "id": "q5",
       "question": "Which natural region does most of India belong to?",
-      "options": ["Monsoon region — receives seasonal SW Monsoon rainfall and supports diverse agriculture", "Mediterranean region", "Equatorial region", "Grassland region"],
+      "options": [
+        "Monsoon region — receives seasonal SW Monsoon rainfall and supports diverse agriculture",
+        "Mediterranean region",
+        "Equatorial region",
+        "Grassland region"
+      ],
       "correctAnswer": "A",
       "explanation": "India lies between 10°–30° N — the monsoon region. It receives seasonal rainfall from the Southwest Monsoon and supports diverse crops (rice, wheat, cotton). India's agriculture, culture, and festivals are all deeply connected to the monsoon.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "33-34"
     },
     {
@@ -252,16 +333,25 @@
       ],
       "correctAnswer": "A",
       "explanation": "The Mediterranean climate is famous for its dry, hot summers and mild, rainy winters — the exact opposite of the Monsoon region (rainy summer, dry winter). This pattern supports specific plants like olive and oak with thick, oily leaves adapted to dry summers.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "34"
     },
     {
       "id": "q7",
       "question": "The main occupation in the Taiga region is _____.",
-      "options": ["Lumbering — vast coniferous forests provide timber", "Farming — fertile soil", "Fishing only", "Hunting wild animals"],
+      "options": [
+        "Lumbering — vast coniferous forests provide timber",
+        "Farming — fertile soil",
+        "Fishing only",
+        "Hunting wild animals"
+      ],
       "correctAnswer": "A",
       "explanation": "The Taiga region has vast coniferous forests (spruce, fir, pine) with soft, light wood. Lumbering (cutting and processing timber) is the main occupation here. The timber is used for paper, furniture, and construction worldwide.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "31"
     },
     {
@@ -275,7 +365,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The open grassland habitat allows fast predators (lions, cheetahs) to use their speed to catch prey. Dense forests would favour stealth over speed. Evolution has shaped Savanna animals for the open habitat: zebra's stripes (camouflage), giraffe's height (to see predators), cheetah's speed.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "33"
     }
   ],
@@ -305,5 +397,128 @@
       "Mediterranean agriculture: Italy, Greece, Spain produce most of world's olive oil and wine"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "drag-drop",
+    "title": "Sort the Features!",
+    "description": "Drag each item to its correct geographical category.",
+    "data": {
+      "items": [
+        "Amazon Rainforest",
+        "Sahara Desert",
+        "Tundra",
+        "Temperate Grassland",
+        "Mediterranean",
+        "Tropical Savanna"
+      ],
+      "categories": [
+        "Hot & Wet",
+        "Hot & Dry",
+        "Cold Region"
+      ],
+      "answers": {
+        "Amazon Rainforest": "Hot & Wet",
+        "Sahara Desert": "Hot & Dry",
+        "Tundra": "Cold Region",
+        "Temperate Grassland": "Hot & Dry",
+        "Mediterranean": "Hot & Dry",
+        "Tropical Savanna": "Hot & Wet"
+      }
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Natural Regions",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "What determines which natural region an area belongs to?",
+        "answer": "Natural regions are determined by the availability of sunlight and water (rainfall) at different latitudes. These factors create specific climates which support specific vegetation and animal life.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Prairies, Steppes, Pampas, Velds and Downs are all types of _____.",
+        "answer": "All these are grasslands — the same type of natural region found on different continents at similar latitudes (25°–55°N/S interior of continents). Different names, same ecological characteristics: moderate rainfall, grass-dominated vegetation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Inuit/Eskimo people live in _____.",
+        "answer": "The Inuit (Eskimo) people live in the Tundra region — the extremely cold zone between 65°–90° N. They traditionally lived in igloos (ice houses), used sledges for transport, and survived by hunting and fishing.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why do desert plants like cactus have thick stems, small leaves, and oily/thick bark?",
+        "answer": "Desert plants are specially adapted to save water: thick stems store water, small/no leaves reduce transpiration (water loss), and thick waxy bark prevents evaporation. Cactus can survive without rain for months using stored water.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which natural region does most of India belong to?",
+        "answer": "India lies between 10°–30° N — the monsoon region. It receives seasonal rainfall from the Southwest Monsoon and supports diverse crops (rice, wheat, cotton). India's agriculture, culture, and festivals are all deeply connected to the monsoon.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Mediterranean region is unique because _____.",
+        "answer": "The Mediterranean climate is famous for its dry, hot summers and mild, rainy winters — the exact opposite of the Monsoon region (rainy summer, dry winter). This pattern supports specific plants like olive and oak with thick, oily leaves adapted to dry summers.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The main occupation in the Taiga region is _____.",
+        "answer": "The Taiga region has vast coniferous forests (spruce, fir, pine) with soft, light wood. Lumbering (cutting and processing timber) is the main occupation here. The timber is used for paper, furniture, and construction worldwide.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why are carnivorous animals like lions and cheetahs mainly found in the Savanna (Sudan-type grassland) rather than dense forests?",
+        "answer": "The open grassland habitat allows fast predators (lions, cheetahs) to use their speed to catch prey. Dense forests would favour stealth over speed. Evolution has shaped Savanna animals for the open habitat: zebra's stripes (camouflage), giraffe's height (to see predators), cheetah's speed.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What determines which natural region an area belongs to?",
+        "modelAnswer": "Natural regions are determined by the availability of sunlight and water (rainfall) at different latitudes. These factors create specific climates which support specific vegetation and animal life. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Natural regions are determined by the availability of sunlight and water (rainfall) at different latitudes.",
+          "These factors create specific climates which support specific vegetation and animal life.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Why do desert plants like cactus have thick stems, small leaves, and oily/thick bark?",
+        "modelAnswer": "Desert plants are specially adapted to save water: thick stems store water, small/no leaves reduce transpiration (water loss), and thick waxy bark prevents evaporation. Cactus can survive without rain for months using stored water. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Desert plants are specially adapted to save water: thick stems store water, small/no leaves reduce transpiration (water loss), and thick waxy bark prevents evaporation.",
+          "Cactus can survive without rain for months using stored water.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Why are carnivorous animals like lions and cheetahs mainly found in the Savanna (Sudan-type grassland) rather than dense forests?",
+        "modelAnswer": "The open grassland habitat allows fast predators (lions, cheetahs) to use their speed to catch prey. Dense forests would favour stealth over speed. Evolution has shaped Savanna animals for the open habitat: zebra's stripes (camouflage), giraffe's height (to see predators), cheetah's speed. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The open grassland habitat allows fast predators (lions, cheetahs) to use their speed to catch prey.",
+          "Dense forests would favour stealth over speed.",
+          "Evolution has shaped Savanna animals for the open habitat: zebra's stripes (camouflage), giraffe's height (to see predators), cheetah's speed.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "The Prairies, Steppes, Pampas, Velds and Downs are all types of _____.",
+        "modelAnswer": "All these are grasslands — the same type of natural region found on different continents at similar latitudes (25°–55°N/S interior of continents). Different names, same ecological characteristics: moderate rainfall, grass-dominated vegetation. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "All these are grasslands — the same type of natural region found on different continents at similar latitudes (25°–55°N/S interior of continents).",
+          "Different names, same ecological characteristics: moderate rainfall, grass-dominated vegetation.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      }
+    ]
   }
 }

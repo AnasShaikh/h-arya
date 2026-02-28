@@ -120,25 +120,25 @@ export default function TestResults() {
       level: 'Excellent!',
       color: 'text-green-600',
       bgColor: 'bg-green-50',
-      borderColor: 'border-green-300',
+      borderColor: 'border-green-200',
       emoji: '🌟',
       message: 'Outstanding performance! You have mastered the Sound chapter!',
       action: 'complete'
     };
     if (score >= 60) return {
       level: 'Good!',
-      color: 'text-blue-600',
-      bgColor: 'bg-blue-50',
-      borderColor: 'border-blue-300',
+      color: 'text-amber-600',
+      bgColor: 'bg-amber-50',
+      borderColor: 'border-amber-200',
       emoji: '👍',
       message: 'Well done! A few topics need revision, but you\'re doing great!',
       action: 'revision'
     };
     return {
       level: 'Needs Improvement',
-      color: 'text-orange-600',
-      bgColor: 'bg-orange-50',
-      borderColor: 'border-orange-300',
+      color: 'text-red-600',
+      bgColor: 'bg-red-50',
+      borderColor: 'border-red-200',
       emoji: '💪',
       message: 'Don\'t worry! Let\'s review the concepts you found challenging.',
       action: 'revision'
@@ -149,73 +149,81 @@ export default function TestResults() {
   const wrongAnswers = TEST_QUESTIONS.filter(q => answers[q.id] !== q.correctAnswer);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
+    <div className="min-h-screen bg-gradient-to-br from-violet-50 to-indigo-50 p-4">
       <div className="max-w-3xl mx-auto py-8">
         {/* Score Card */}
-        <div className="bg-white rounded-2xl shadow-xl p-8 mb-6">
-          <div className="text-center mb-6">
-            <div className="w-24 h-24 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4">
-              <span className="text-5xl">{performance.emoji}</span>
-            </div>
-            <h1 className="text-3xl font-bold text-gray-900 mb-2">
-              Test Complete!
-            </h1>
+        <div className="bg-white rounded-3xl shadow-xl p-8 mb-8 text-center border border-violet-100">
+          <div className="w-24 h-24 bg-violet-100 rounded-full flex items-center justify-center mx-auto mb-6 shadow-inner">
+            <span className="text-5xl animate-bounce">{performance.emoji}</span>
           </div>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">
+            Test Complete!
+          </h1>
+          <p className="text-gray-500 mb-8 font-medium">Here's your summary</p>
 
           {/* Score Display */}
-          <div className={`${performance.bgColor} rounded-xl p-8 border-2 ${performance.borderColor} mb-6`}>
-            <div className="text-center">
-              <div className={`text-6xl font-bold ${performance.color} mb-2`}>
-                {Math.round(score)}%
-              </div>
-              <p className="text-xl text-gray-900 mb-3">
-                {correct} out of {total} questions correct
-              </p>
-              <p className={`text-2xl font-semibold ${performance.color}`}>
-                {performance.level}
-              </p>
-            </div>
+          <div className={`relative inline-block p-10 rounded-full border-8 mb-8 ${
+             score >= 80 ? 'border-green-100 bg-green-50' :
+             score >= 60 ? 'border-amber-100 bg-amber-50' :
+             'border-red-100 bg-red-50'
+          }`}>
+             <div className={`text-6xl font-black tracking-tight ${performance.color}`}>
+                {Math.round(score)}<span className="text-4xl align-top">%</span>
+             </div>
+             <p className="text-sm font-bold text-gray-500 uppercase tracking-widest mt-1">Score</p>
+          </div>
+          
+          <div className="flex justify-center gap-4 mb-6">
+             <div className="px-6 py-2 bg-green-50 text-green-700 rounded-full font-semibold border border-green-100">
+                Correct: {correct}
+             </div>
+             <div className="px-6 py-2 bg-red-50 text-red-700 rounded-full font-semibold border border-red-100">
+                Wrong: {total - correct}
+             </div>
           </div>
 
-          <p className="text-gray-900 text-center mb-6">
+          <p className="text-lg text-gray-700 max-w-lg mx-auto leading-relaxed">
             {performance.message}
           </p>
+        </div>
 
-          {/* Action Buttons */}
-          <div className="space-y-3">
-            {performance.action === 'revision' ? (
-              <Link
-                href={`/chapter/${params.id}/revision?wrong=${encodeURIComponent(JSON.stringify(wrongAnswers.map(q => q.id)))}&score=${score}`}
-                className="block w-full bg-orange-600 text-white py-4 rounded-lg font-semibold hover:bg-orange-700 transition text-center text-lg"
-              >
-                Continue to Revision →
-              </Link>
-            ) : (
-              <Link
-                href="/dashboard"
-                className="block w-full bg-green-600 text-white py-4 rounded-lg font-semibold hover:bg-green-700 transition text-center text-lg"
-              >
-                ✅ Complete Chapter → Dashboard
-              </Link>
-            )}
+        {/* Action Buttons */}
+        <div className="grid gap-4 sm:grid-cols-2 mb-10">
+          {performance.action === 'revision' ? (
             <Link
-              href={`/chapter/${params.id}`}
-              className="block w-full bg-white border-2 border-gray-300 text-gray-700 py-3 rounded-lg font-semibold hover:bg-gray-50 transition text-center"
+              href={`/chapter/${params.id}/revision?wrong=${encodeURIComponent(JSON.stringify(wrongAnswers.map(q => q.id)))}&score=${score}`}
+              className="bg-violet-600 text-white py-4 rounded-xl font-bold hover:bg-violet-700 transition text-center shadow-lg hover:shadow-xl active:scale-95 flex items-center justify-center gap-2"
             >
-              Back to Chapter Overview
+              <span>Continue to Revision</span>
+              <span>→</span>
             </Link>
-          </div>
+          ) : (
+            <Link
+              href="/dashboard"
+              className="bg-violet-600 text-white py-4 rounded-xl font-bold hover:bg-violet-700 transition text-center shadow-lg hover:shadow-xl active:scale-95 flex items-center justify-center gap-2"
+            >
+              <span>Back to Dashboard</span>
+              <span>✓</span>
+            </Link>
+          )}
+          <Link
+            href={`/chapter/${params.id}`}
+            className="bg-white border-2 border-gray-200 text-gray-600 py-4 rounded-xl font-bold hover:bg-gray-50 hover:text-gray-900 transition text-center active:scale-95"
+          >
+            Chapter Overview
+          </Link>
         </div>
 
         {/* Wrong Answers Review */}
         {wrongAnswers.length > 0 && (
-          <div className="bg-white rounded-2xl shadow-xl p-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">
-              📝 Review Your Mistakes
+          <div className="space-y-6">
+            <h2 className="text-2xl font-bold text-gray-900 px-2 flex items-center gap-2">
+              <span>📝</span>
+              <span>Review Mistakes</span>
+              <span className="text-sm font-normal text-gray-500 bg-gray-100 px-3 py-1 rounded-full ml-auto">
+                {wrongAnswers.length} Questions
+              </span>
             </h2>
-            <p className="text-gray-700 mb-6">
-              Let&apos;s learn from these {wrongAnswers.length} questions:
-            </p>
 
             <div className="space-y-6">
               {wrongAnswers.map((q, idx) => {
@@ -224,22 +232,46 @@ export default function TestResults() {
                 const correctAnswerIndex = q.correctAnswer.charCodeAt(0) - 65;
 
                 return (
-                  <div key={q.id} className="border-2 border-red-200 rounded-lg p-4 bg-red-50">
-                    <p className="font-semibold text-gray-900 mb-3">
-                      {idx + 1}. {q.question}
-                    </p>
-                    <div className="space-y-2 mb-3">
-                      <p className="text-red-600">
-                        ❌ Your answer: {userAnswerIndex >= 0 ? q.options[userAnswerIndex] : 'No answer'}
-                      </p>
-                      <p className="text-green-600">
-                        ✓ Correct answer: {q.options[correctAnswerIndex]}
-                      </p>
+                  <div key={q.id} className="bg-white rounded-2xl shadow-sm border border-red-100 overflow-hidden">
+                    <div className="bg-red-50/50 p-6 border-b border-red-50">
+                       <div className="flex gap-4">
+                          <span className="flex-shrink-0 w-8 h-8 bg-red-100 text-red-600 rounded-full flex items-center justify-center font-bold text-sm">
+                            {idx + 1}
+                          </span>
+                          <p className="font-bold text-gray-900 text-lg">
+                            {q.question}
+                          </p>
+                       </div>
                     </div>
-                    <div className="bg-blue-50 border-l-4 border-blue-500 p-3">
-                      <p className="text-sm text-gray-900">
-                        <span className="font-semibold">💡 Explanation:</span> {q.explanation}
-                      </p>
+                    
+                    <div className="p-6 space-y-4">
+                       <div className="grid gap-3 md:grid-cols-2">
+                          <div className="p-4 rounded-xl bg-red-50 border-2 border-red-200 text-red-800">
+                             <p className="text-xs font-bold uppercase tracking-wide text-red-500 mb-1">Your Answer</p>
+                             <div className="flex items-center gap-2 font-medium">
+                                <span>❌</span>
+                                <span>{userAnswerIndex >= 0 ? q.options[userAnswerIndex] : 'No answer'}</span>
+                             </div>
+                          </div>
+                          
+                          <div className="p-4 rounded-xl bg-green-50 border-2 border-green-200 text-green-800">
+                             <p className="text-xs font-bold uppercase tracking-wide text-green-600 mb-1">Correct Answer</p>
+                             <div className="flex items-center gap-2 font-bold">
+                                <span>✓</span>
+                                <span>{q.options[correctAnswerIndex]}</span>
+                             </div>
+                          </div>
+                       </div>
+
+                       <div className="bg-blue-50/50 rounded-xl p-4 border border-blue-100 flex gap-3">
+                          <span className="text-xl">💡</span>
+                          <div>
+                             <p className="text-xs font-bold uppercase tracking-wide text-blue-500 mb-1">Explanation</p>
+                             <p className="text-sm text-gray-700 leading-relaxed">
+                               {q.explanation}
+                             </p>
+                          </div>
+                       </div>
                     </div>
                   </div>
                 );

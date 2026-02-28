@@ -338,5 +338,149 @@
       "Article 19 — Freedom of Speech: Citizens use it to challenge government censorship of books, films, and online content."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "match-pairs",
+    "title": "Match the Pairs!",
+    "description": "Match each constitutional term to its correct meaning.",
+    "data": {
+      "pairs": [
+        {
+          "term": "Right to Equality",
+          "match": "Articles 14-18: No discrimination based on religion, caste, sex"
+        },
+        {
+          "term": "Right to Freedom",
+          "match": "Articles 19-22: Freedom of speech, expression, movement"
+        },
+        {
+          "term": "Right Against Exploitation",
+          "match": "Articles 23-24: No forced labour or child labour"
+        },
+        {
+          "term": "Right to Education",
+          "match": "Article 21A: Free and compulsory education for children 6-14"
+        },
+        {
+          "term": "Right to Constitutional Remedies",
+          "match": "Article 32: Right to approach Supreme Court for rights"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Fundamental Rights — Part 1",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "In which Part of the Indian Constitution are Fundamental Rights listed?",
+        "answer": "Fundamental Rights are listed in Part III of the Indian Constitution, under Articles 12 to 35.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which article of the Constitution abolishes untouchability?",
+        "answer": "Article 17 abolishes untouchability and makes its practice in any form a punishable offence.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many freedoms are guaranteed under Article 19?",
+        "answer": "Article 19 guarantees 6 freedoms: speech/expression, peaceful assembly, forming associations, free movement, residence anywhere in India, and choice of profession.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the writ of 'Habeas Corpus' mean?",
+        "answer": "Habeas Corpus (meaning 'produce the body') is a writ that orders that a person who has been detained be brought before the court to determine if the detention is legal.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which article prohibits child labour in hazardous industries?",
+        "answer": "Article 24 prohibits employment of children below 14 years of age in factories, mines, and other hazardous occupations.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is 'begar' as mentioned in the Right against Exploitation?",
+        "answer": "Begar refers to forced labour where a person is made to work without any payment. Article 23 prohibits begar and other similar forms of forced labour.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which writ orders a government official to perform their duty?",
+        "answer": "Mandamus is a writ that orders a public official or government body to perform a duty that they are legally required to do.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is NOT one of the six freedoms under Article 19?",
+        "answer": "The right to vote is not one of the six freedoms under Article 19. The six freedoms are: speech/expression, peaceful assembly, associations, movement, residence, and profession.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the correct meaning of the writ 'Quo Warranto'?",
+        "answer": "Quo Warranto means 'by what authority' — it is used to challenge the right of a person to hold a public office or franchise.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why are Fundamental Rights said to be not absolute?",
+        "answer": "Fundamental Rights are not absolute because the state can impose reasonable restrictions on them in the interest of national security, public order, morality, and the rights of others.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "How many freedoms are guaranteed under Article 19?",
+        "modelAnswer": "Article 19 guarantees 6 freedoms: speech/expression, peaceful assembly, forming associations, free movement, residence anywhere in India, and choice of profession. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: How many freedoms are guaranteed under Article 19?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What does the writ of 'Habeas Corpus' mean?",
+        "modelAnswer": "Habeas Corpus (meaning 'produce the body') is a writ that orders that a person who has been detained be brought before the court to determine if the detention is legal. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What does the writ of 'Habeas Corpus' mean?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What is 'begar' as mentioned in the Right against Exploitation?",
+        "modelAnswer": "Begar refers to forced labour where a person is made to work without any payment. Article 23 prohibits begar and other similar forms of forced labour. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Begar refers to forced labour where a person is made to work without any payment.",
+          "Article 23 prohibits begar and other similar forms of forced labour.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What is the correct meaning of the writ 'Quo Warranto'?",
+        "modelAnswer": "Quo Warranto means 'by what authority' — it is used to challenge the right of a person to hold a public office or franchise. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What is the correct meaning of the writ 'Quo Warranto'?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Why are Fundamental Rights said to be not absolute?",
+        "modelAnswer": "Fundamental Rights are not absolute because the state can impose reasonable restrictions on them in the interest of national security, public order, morality, and the rights of others. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Why are Fundamental Rights said to be not absolute?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

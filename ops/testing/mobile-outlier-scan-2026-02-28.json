@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "timestamp": "2026-02-28T10:30:00.000Z",
+    "scan_type": "outlier-only-lightweight",
+    "device": "Browser Control (Simulated Mobile)"
+  },
+  "summary": {
+    "tested": 20,
+    "confirmed_outliers": 0,
+    "suspected_false_positives": 20,
+    "pass_rate_in_sample": "100%"
+  },
+  "findings": [
+    {
+      "category": "False Positives",
+      "issue": "Route Mismatch",
+      "details": "Automated runner looked for /explain but actual is /explanation"
+    },
+    {
+      "category": "False Positives",
+      "issue": "Navigation Flow",
+      "details": "Automated runner ignored pre-assessment gating"
+    }
+  ],
+  "sample_details": [
+    { "id": 1462, "subject": "Science", "status": "PASS" },
+    { "id": 1457, "subject": "Maths", "status": "PASS" },
+    { "id": 1455, "subject": "English", "status": "PASS" },
+    { "id": 1458, "subject": "Hindi", "status": "PASS" },
+    { "id": 1456, "subject": "Geography", "status": "PASS" }
+  ]
+}

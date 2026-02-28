@@ -10,7 +10,12 @@
     {
       "id": "pre_21_1",
       "question": "Who wrote the story 'Unke Munke Timpetoo'?",
-      "options": ["A) Ruskin Bond", "B) Sigrun Srivastava", "C) R.K. Narayan", "D) Vikram Seth"],
+      "options": [
+        "A) Ruskin Bond",
+        "B) Sigrun Srivastava",
+        "C) R.K. Narayan",
+        "D) Vikram Seth"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_21_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_21_2",
       "question": "What did Rohan want for his birthday?",
-      "options": ["A) A cricket bat", "B) A bicycle", "C) A table tennis set", "D) A football"],
+      "options": [
+        "A) A cricket bat",
+        "B) A bicycle",
+        "C) A table tennis set",
+        "D) A football"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_21_1"
@@ -26,7 +36,12 @@
     {
       "id": "pre_21_3",
       "question": "How many times must 'Unke Munke Timpetoo' be chanted around the banyan tree?",
-      "options": ["A) 7 times", "B) 12 times", "C) 17 times", "D) 21 times"],
+      "options": [
+        "A) 7 times",
+        "B) 12 times",
+        "C) 17 times",
+        "D) 21 times"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_21_2"
@@ -34,7 +49,12 @@
     {
       "id": "pre_21_4",
       "question": "What is a prefix?",
-      "options": ["A) A group of letters added to the END of a word to change its meaning", "B) A group of letters added to the BEGINNING of a word to change its meaning", "C) A word that joins two sentences", "D) A word that describes a noun"],
+      "options": [
+        "A) A group of letters added to the END of a word to change its meaning",
+        "B) A group of letters added to the BEGINNING of a word to change its meaning",
+        "C) A word that joins two sentences",
+        "D) A word that describes a noun"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_21_5"
@@ -42,7 +62,12 @@
     {
       "id": "pre_21_5",
       "question": "What did Rohan do when Mrs Groover caught them in her garden?",
-      "options": ["A) He ran away", "B) He hid behind a tree", "C) He confessed honestly what he was doing", "D) He pretended to be sleepwalking"],
+      "options": [
+        "A) He ran away",
+        "B) He hid behind a tree",
+        "C) He confessed honestly what he was doing",
+        "D) He pretended to be sleepwalking"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_21_3"
@@ -175,7 +200,12 @@
     {
       "id": "test_21_1",
       "question": "What did Rohan want for his birthday?",
-      "options": ["A) A cricket bat", "B) A table tennis set", "C) A bicycle", "D) A skateboard"],
+      "options": [
+        "A) A cricket bat",
+        "B) A table tennis set",
+        "C) A bicycle",
+        "D) A skateboard"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "Rohan desperately wanted a table tennis set for his birthday. This is why Muk told him about the magical chant 'Unke Munke Timpetoo'."
@@ -183,7 +213,12 @@
     {
       "id": "test_21_2",
       "question": "How many times must 'Unke Munke Timpetoo' be chanted around the banyan tree?",
-      "options": ["A) 7 times", "B) 12 times", "C) 17 times", "D) 21 times"],
+      "options": [
+        "A) 7 times",
+        "B) 12 times",
+        "C) 17 times",
+        "D) 21 times"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Muk told Rohan that the chant 'Unke Munke Timpetoo' must be said 17 times while walking around the banyan tree at midnight for the wish to come true."
@@ -191,7 +226,12 @@
     {
       "id": "test_21_3",
       "question": "Who was Mrs Groover?",
-      "options": ["A) Rohan's grandmother", "B) A teacher at Rohan's school", "C) The feared former principal who lived near them", "D) Muk's mother"],
+      "options": [
+        "A) Rohan's grandmother",
+        "B) A teacher at Rohan's school",
+        "C) The feared former principal who lived near them",
+        "D) Muk's mother"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "Mrs Groover was the old, feared former principal of the children's school. She lived in the neighbourhood and the children were very afraid of her."
@@ -199,7 +239,12 @@
     {
       "id": "test_21_4",
       "question": "What did Rohan do when Mrs Groover caught them in her garden?",
-      "options": ["A) He ran away", "B) He pretended to be sleepwalking", "C) He confessed honestly what he was doing", "D) He hid behind the banyan tree"],
+      "options": [
+        "A) He ran away",
+        "B) He pretended to be sleepwalking",
+        "C) He confessed honestly what he was doing",
+        "D) He hid behind the banyan tree"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Rohan showed courage and honesty by confessing exactly what they were doing — chanting a magic phrase to get a birthday wish. His honesty is what moved Mrs Groover."
@@ -207,7 +252,12 @@
     {
       "id": "test_21_5",
       "question": "Who actually sent the table tennis set?",
-      "options": ["A) Muk's parents", "B) A magic spirit", "C) Mrs Groover", "D) Rohan's father"],
+      "options": [
+        "A) Muk's parents",
+        "B) A magic spirit",
+        "C) Mrs Groover",
+        "D) Rohan's father"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Mrs Groover sent the table tennis set. She was moved by Rohan's honesty and courage, and sent the gift addressed from 'Unke Munke Timpetoo' as a kind act."
@@ -215,7 +265,12 @@
     {
       "id": "test_21_6",
       "question": "What is the real meaning of 'Unke Munke Timpetoo' in the story?",
-      "options": ["A) A magical spell from an ancient book", "B) A traditional Indian chant", "C) The magic of human kindness and friendship", "D) Nonsense words with no meaning at all"],
+      "options": [
+        "A) A magical spell from an ancient book",
+        "B) A traditional Indian chant",
+        "C) The magic of human kindness and friendship",
+        "D) Nonsense words with no meaning at all"
+      ],
       "correctAnswer": "C",
       "difficulty": "hard",
       "explanation": "While 'Unke Munke Timpetoo' is made-up nonsense words, they symbolise the real magic of the story — human kindness and friendship. Mrs Groover's act of kindness was the true magic."
@@ -223,7 +278,12 @@
     {
       "id": "test_21_7",
       "question": "What does the prefix 'un-' mean?",
-      "options": ["A) Very", "B) Not or opposite of", "C) Above", "D) Before"],
+      "options": [
+        "A) Very",
+        "B) Not or opposite of",
+        "C) Above",
+        "D) Before"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "The prefix 'un-' means 'not' or the opposite of. For example: happy → unhappy (not happy), kind → unkind (not kind), known → unknown (not known)."
@@ -231,7 +291,12 @@
     {
       "id": "test_21_8",
       "question": "What does the suffix '-ness' do to a word?",
-      "options": ["A) Makes it a verb", "B) Makes it an adverb", "C) Makes it an adjective", "D) Makes it a noun (naming a quality or state)"],
+      "options": [
+        "A) Makes it a verb",
+        "B) Makes it an adverb",
+        "C) Makes it an adjective",
+        "D) Makes it a noun (naming a quality or state)"
+      ],
       "correctAnswer": "D",
       "difficulty": "medium",
       "explanation": "The suffix '-ness' turns an adjective into a noun. For example: kind (adjective) → kindness (noun), happy → happiness, dark → darkness."
@@ -239,7 +304,12 @@
     {
       "id": "test_21_9",
       "question": "Which word uses the suffix '-ship'?",
-      "options": ["A) Quickly", "B) Friendship", "C) Superhero", "D) Disagree"],
+      "options": [
+        "A) Quickly",
+        "B) Friendship",
+        "C) Superhero",
+        "D) Disagree"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "'Friendship' uses the suffix '-ship', which is added to 'friend'. The suffix '-ship' is used to create nouns meaning a state or quality (friendship, leadership, hardship)."
@@ -247,7 +317,12 @@
     {
       "id": "test_21_10",
       "question": "What is the theme of 'Unke Munke Timpetoo'?",
-      "options": ["A) Magic spells can make anything happen", "B) Children should never go out at night", "C) Old people are always scary", "D) True magic lies in human kindness, honesty, and friendship"],
+      "options": [
+        "A) Magic spells can make anything happen",
+        "B) Children should never go out at night",
+        "C) Old people are always scary",
+        "D) True magic lies in human kindness, honesty, and friendship"
+      ],
       "correctAnswer": "D",
       "difficulty": "medium",
       "explanation": "The story's theme is that true magic is not in spells or chants — it lies in human kindness (Mrs Groover's gift), honesty (Rohan's confession), and the power of friendship."
@@ -278,5 +353,166 @@
       "Prefixes and suffixes in Marathi words too — 'a-' prefix in Marathi (like 'asahmat' = not agree) works just like English 'dis-' prefix."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Unke Munke Timpetoo",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "What did Rohan want for his birthday?",
+        "answer": "Rohan desperately wanted a table tennis set for his birthday. This is why Muk told him about the magical chant 'Unke Munke Timpetoo'.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many times must 'Unke Munke Timpetoo' be chanted around the banyan tree?",
+        "answer": "Muk told Rohan that the chant 'Unke Munke Timpetoo' must be said 17 times while walking around the banyan tree at midnight for the wish to come true.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who was Mrs Groover?",
+        "answer": "Mrs Groover was the old, feared former principal of the children's school. She lived in the neighbourhood and the children were very afraid of her.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did Rohan do when Mrs Groover caught them in her garden?",
+        "answer": "Rohan showed courage and honesty by confessing exactly what they were doing — chanting a magic phrase to get a birthday wish. His honesty is what moved Mrs Groover.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who actually sent the table tennis set?",
+        "answer": "Mrs Groover sent the table tennis set. She was moved by Rohan's honesty and courage, and sent the gift addressed from 'Unke Munke Timpetoo' as a kind act.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the real meaning of 'Unke Munke Timpetoo' in the story?",
+        "answer": "While 'Unke Munke Timpetoo' is made-up nonsense words, they symbolise the real magic of the story — human kindness and friendship. Mrs Groover's act of kindness was the true magic.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the prefix 'un-' mean?",
+        "answer": "The prefix 'un-' means 'not' or the opposite of. For example: happy → unhappy (not happy), kind → unkind (not kind), known → unknown (not known).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the suffix '-ness' do to a word?",
+        "answer": "The suffix '-ness' turns an adjective into a noun. For example: kind (adjective) → kindness (noun), happy → happiness, dark → darkness.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which word uses the suffix '-ship'?",
+        "answer": "'Friendship' uses the suffix '-ship', which is added to 'friend'. The suffix '-ship' is used to create nouns meaning a state or quality (friendship, leadership, hardship).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the theme of 'Unke Munke Timpetoo'?",
+        "answer": "The story's theme is that true magic is not in spells or chants — it lies in human kindness (Mrs Groover's gift), honesty (Rohan's confession), and the power of friendship.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What did Rohan want for his birthday?",
+        "modelAnswer": "Rohan desperately wanted a table tennis set for his birthday. His friend Muk told him about a magical chant called 'Unke Munke Timpetoo' to make his wish come true. He wanted it so badly that he was willing to sneak out at midnight to perform the ritual. Ultimately, his wish was granted through an unexpected act of kindness.",
+        "keyPoints": [
+          "Rohan desperately wanted a table tennis set for his birthday.",
+          "He learned a magical chant from his friend Muk.",
+          "He was determined enough to perform the ritual at midnight.",
+          "His wish came true through Mrs Groover's kindness."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "How many times must 'Unke Munke Timpetoo' be chanted around the banyan tree?",
+        "modelAnswer": "According to his friend Muk, the chant 'Unke Munke Timpetoo' must be repeated exactly seventeen times. This ritual has to be performed while walking around a banyan tree at the stroke of midnight. Following these specific instructions is believed to make one's deepest wish come true. Rohan attempted this exact ritual in Mrs Groover's garden to get his birthday present.",
+        "keyPoints": [
+          "The chant must be repeated exactly seventeen times.",
+          "It must be done while walking around a banyan tree.",
+          "The ritual must take place at midnight.",
+          "Rohan attempted this to get his birthday present."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What did Rohan do when Mrs Groover caught them in her garden?",
+        "modelAnswer": "When Mrs Groover caught Rohan and Muk in her garden at midnight, Rohan displayed great courage by confessing honestly. Instead of running away or making up a lie, he explained that they were chanting a magic phrase to get a birthday wish. His honesty moved Mrs Groover, who surprisingly allowed him to finish the ritual. This sincere confession ultimately led to his wish being granted by her.",
+        "keyPoints": [
+          "Rohan showed courage by not running away when caught.",
+          "He honestly confessed to chanting for a birthday wish.",
+          "His sincere explanation moved Mrs Groover.",
+          "She was kind enough to let him finish the ritual."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What is the real meaning of 'Unke Munke Timpetoo' in the story?",
+        "modelAnswer": "On the surface, 'Unke Munke Timpetoo' is just a set of made-up, nonsense words with no literal translation. However, in the context of the story, it symbolises the true magic of human kindness and genuine friendship. It represents the courage to be honest and the unexpected warmth found in people like Mrs Groover. When Mrs Groover says she believes in it, she means she believes in kindness, hope, and making a child's wish come true.",
+        "keyPoints": [
+          "The phrase itself consists of made-up nonsense words.",
+          "It symbolises the true magic of human kindness and friendship.",
+          "It represents the courage to be honest and hopeful.",
+          "Mrs Groover's belief in it shows her belief in kindness."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What does the prefix 'un-' mean?",
+        "modelAnswer": "A prefix is a group of letters added to the beginning of a word to change its overall meaning. The prefix 'un-' specifically means 'not' or signifies the opposite of the original word. For example, adding 'un-' to 'happy' makes it 'unhappy', which means not happy. Other common examples include 'unkind' or 'unknown', demonstrating how this prefix reverses a word's original definition.",
+        "keyPoints": [
+          "A prefix is added to the beginning of a base word.",
+          "The prefix 'un-' means 'not' or the opposite.",
+          "It completely reverses the meaning of the original word.",
+          "Examples include unhappy, unkind, and unknown."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What does the suffix '-ness' do to a word?",
+        "modelAnswer": "A suffix is a group of letters added to the end of a word to change its meaning or grammatical function. The suffix '-ness' specifically turns an adjective into a noun, indicating a state, quality, or condition. For instance, adding '-ness' to the adjective 'kind' creates the noun 'kindness', which refers to the quality of being kind. This suffix is commonly used in English to form nouns from describing words, such as 'happiness' or 'darkness'.",
+        "keyPoints": [
+          "A suffix is added to the end of a base word.",
+          "The suffix '-ness' turns an adjective into a noun.",
+          "It indicates a state, quality, or condition of something.",
+          "Examples include kindness, happiness, and darkness."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

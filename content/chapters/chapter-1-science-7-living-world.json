@@ -5,57 +5,544 @@
     "title": "The Living World: Adaptations and Classification",
     "subject": "Science",
     "pages": "1-9",
-    "description": "Adaptations in plants and animals in various regions and the hierarchy of classification."
+    "description": "This chapter explores the incredible diversity of life and how organisms adapt to their surroundings. We will also learn about the scientific system used to classify all living things, developed by Carl Linnaeus."
   },
   "preAssessment": [
     {
-      "id": "q1",
-      "question": "Which of these is an adaptation of desert plants?",
-      "options": ["Broad leaves", "Fleshy stems", "Large flowers", "Thin bark"],
-      "correctAnswer": "B",
-      "difficulty": "easy"
+      "id": "pa1",
+      "question": "What is the primary purpose of adaptation for an organism?",
+      "options": [
+        "To find more food",
+        "To look different from others",
+        "To survive and reproduce in its environment",
+        "To move faster"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 1
     },
     {
-      "id": "q2",
-      "question": "The scientific name of an organism consists of Genus and:",
-      "options": ["Family", "Species", "Order", "Class"],
+      "id": "pa2",
+      "question": "A camel's hump is an adaptation for storing what?",
+      "options": [
+        "Water",
+        "Fat",
+        "Sand",
+        "Extra bones"
+      ],
       "correctAnswer": "B",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "pa3",
+      "question": "Why are the leaves of a lotus plant waxy?",
+      "options": [
+        "To make them shiny",
+        "To prevent them from rotting in water",
+        "To attract insects",
+        "To absorb more sunlight"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "pa4",
+      "question": "Who is known as the father of modern taxonomy?",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Aristotle",
+        "Carl Linnaeus"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "pa5",
+      "question": "In the scientific name *Mangifera indica* (mango), what does 'indica' represent?",
+      "options": [
+        "Genus",
+        "Kingdom",
+        "Family",
+        "Species"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "conceptId": 3
     }
   ],
   "concepts": [
     {
       "id": 1,
       "title": "Adaptation in Plants",
-      "emoji": "🌵",
+      "emoji": "\ud83c\udf3f",
       "colorTheme": "from-green-500 to-emerald-600",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
-      "content": "Adaptation is the gradual change in the body parts and behavior of organisms which help them to survive, breed, and maintain their existence in a particular environment. For example, desert plants have thorns instead of leaves to reduce water loss.",
-      "imageUrl": "https://images.unsplash.com/photo-1520302630591-fd1c66edc19d?auto=format&fit=crop&q=80&w=1000",
-      "videoUrl": "https://www.youtube.com/embed/fRL8T0O9uTM",
-      "pageReference": "1-5",
+      "content": "Plants have developed specific features to survive in diverse habitats. These gradual changes, called adaptations, can be seen in their roots, stems, leaves, and flowers, helping them thrive in aquatic, desert, snowy, or forest environments.",
+      "pageReference": "1-4",
       "examples": [
-        { "icon": "🪷", "text": "Aquatic plants: Waxy layer on leaves" },
-        { "icon": "🐪", "text": "Desert plants: Deep roots, fleshy stems" },
-        { "icon": "🏔️", "text": "Snowy regions: Conical shape to shed snow" }
+        {
+          "id": "ex1",
+          "text": "Cactus in the desert has leaves modified into spines to conserve water and a fleshy stem to store it."
+        },
+        {
+          "id": "ex2",
+          "text": "Pine and Deodar trees in snowy regions are conical to allow snow to slide off easily."
+        },
+        {
+          "id": "ex3",
+          "text": "The lotus has a waxy coating on its leaves to repel water and prevent decay."
+        }
       ],
       "keyPoints": [
-        "Adaptation is not a sudden process; it takes thousands of years",
-        "Plants in snowy regions are conical to prevent snow accumulation",
-        "Lotus stalks are hollow and flexible to survive in water"
+        {
+          "id": "kp1",
+          "text": "Adaptations are gradual, not sudden."
+        },
+        {
+          "id": "kp2",
+          "text": "Aquatic plants often have air spaces in stems to help them float."
+        },
+        {
+          "id": "kp3",
+          "text": "Forest plants adapt to compete for sunlight, with some becoming tall trees and others becoming climbing vines."
+        }
       ],
-      "funFact": "The world's largest flower, Rafflesia, is found in the jungles of Indonesia and is a parasitic plant!",
-      "textbookRef": "Page 1: Adaptation"
+      "funFact": "Some mangrove trees have special roots that grow upwards, out of the salty water, to breathe!",
+      "textbookRef": "Pages 1-4"
+    },
+    {
+      "id": 2,
+      "title": "Adaptation in Animals",
+      "emoji": "\ud83d\udc3e",
+      "colorTheme": "from-blue-500 to-sky-600",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Animals adapt to their environment to find food, escape predators, and reproduce. These adaptations can be structural (body parts) or behavioral (actions). They vary greatly between animals in different regions like snowy mountains, deserts, and oceans.",
+      "pageReference": "5-7",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "The polar bear has a thick layer of fur and a layer of fat (blubber) for insulation against the cold."
+        },
+        {
+          "id": "ex2",
+          "text": "The desert lizard has scaly skin to prevent water loss and can regulate its body temperature by basking or burrowing."
+        },
+        {
+          "id": "ex3",
+          "text": "Fish have gills for breathing underwater and fins for swimming."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Camouflage (blending in) is a common adaptation for both predators and prey."
+        },
+        {
+          "id": "kp2",
+          "text": "Animals in cold regions are often larger and have smaller extremities (ears, tails) to conserve heat."
+        },
+        {
+          "id": "kp3",
+          "text": "Nocturnal animals in the desert are a behavioral adaptation to avoid the daytime heat."
+        }
+      ],
+      "funFact": "The chameleon doesn't just change color to hide; it's also a way of communicating and regulating body temperature!",
+      "textbookRef": "Pages 5-7"
+    },
+    {
+      "id": 3,
+      "title": "Classification of Living Organisms",
+      "emoji": "\u5206\u985e",
+      "colorTheme": "from-purple-500 to-indigo-600",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "To study the vast diversity of life, scientists classify organisms into groups based on their similarities and differences. This systematic grouping is called biological classification. The modern system uses a hierarchy of levels, from kingdom down to species.",
+      "pageReference": "8-9",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Humans are in Kingdom Animalia, Phylum Chordata, Class Mammalia."
+        },
+        {
+          "id": "ex2",
+          "text": "A house cat and a lion belong to the same Family (Felidae) but are different species."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "The hierarchy is: Kingdom, Phylum, Class, Order, Family, Genus, Species."
+        },
+        {
+          "id": "kp2",
+          "text": "Carl Linnaeus developed the Binomial Nomenclature system."
+        },
+        {
+          "id": "kp3",
+          "text": "Binomial nomenclature gives each organism a unique, two-part scientific name (Genus and species)."
+        }
+      ],
+      "funFact": "There are an estimated 8.7 million species on Earth, but we have only discovered and classified about 1.2 million of them!",
+      "textbookRef": "Pages 8-9"
     }
   ],
   "test": [
     {
       "id": "t1",
-      "question": "Which scientist proposed the Binomial nomenclature?",
-      "options": ["Robert Whittaker", "Carl Linnaeus", "Charles Darwin", "Gregor Mendel"],
+      "question": "What is the primary function of a fish's gills?",
+      "options": [
+        "Seeing underwater",
+        "Steering",
+        "Breathing",
+        "Eating"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Gills are specialized organs that allow fish to extract dissolved oxygen from water.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t2",
+      "question": "Which of these is a behavioral adaptation?",
+      "options": [
+        "Thick fur on a bear",
+        "Sharp teeth of a lion",
+        "Birds migrating in winter",
+        "The long neck of a giraffe"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Migration is an action, a behavior that helps birds survive seasonal changes, unlike the other options which are physical traits.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t3",
+      "question": "Why are the trees in snowy regions often conical in shape?",
+      "options": [
+        "To get more sunlight",
+        "To look taller",
+        "To prevent snow from accumulating on their branches",
+        "To attract birds"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The sloping, conical shape helps heavy snow to slide off, preventing branches from breaking.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t4",
+      "question": "In the classification hierarchy, which level is broader (contains more organisms) than 'Family'?",
+      "options": [
+        "Genus",
+        "Species",
+        "Order",
+        "None of the above"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The hierarchy goes from broad to specific: Kingdom > Phylum > Class > Order > Family > Genus > Species. 'Order' is the level above 'Family'.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t5",
+      "question": "What is camouflage?",
+      "options": [
+        "A type of animal communication",
+        "An adaptation for blending in with the surroundings",
+        "A method for storing food",
+        "A way to stay warm"
+      ],
       "correctAnswer": "B",
+      "explanation": "Camouflage helps animals hide from predators or sneak up on prey by matching their environment.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t6",
+      "question": "What is the correct way to write the scientific name for humans?",
+      "options": [
+        "homo Sapiens",
+        "Homo sapiens",
+        "homo sapiens",
+        "Homo Sapiens"
+      ],
+      "correctAnswer": "B",
+      "explanation": "By convention, the Genus name ('Homo') is capitalized, and the species name ('sapiens') is in lowercase.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "t7",
+      "question": "The hollow bones of birds are an adaptation for:",
+      "options": [
+        "Swimming",
+        "Running",
+        "Flying",
+        "Burrowing"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hollow, lightweight bones reduce the bird's overall weight, making it easier to fly.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t8",
+      "question": "Why do cacti have spines instead of leaves?",
+      "options": [
+        "To look scary",
+        "To perform photosynthesis",
+        "To reduce water loss through transpiration",
+        "To store more food"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Spines have a much smaller surface area than leaves, which significantly reduces the amount of water lost to the desert air.",
+      "conceptIds": [
+        1
+      ],
       "difficulty": "medium"
     }
-  ]
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Adaptation (Plants & Animals)",
+      "Biological Classification",
+      "Binomial Nomenclature"
+    ],
+    "commonMisconceptions": [
+      "Adaptation is a choice an animal makes.",
+      "A camel's hump stores water.",
+      "Scientific names are just complicated versions of common names."
+    ],
+    "realWorldExamples": [
+      "A stick insect that looks like a twig.",
+      "A duck's webbed feet for swimming.",
+      "Giving a new species of insect a scientific name."
+    ]
+  },
+  "interactiveElement": {
+    "type": "label-diagram",
+    "title": "Label the Diagram!",
+    "description": "Tap on each blank label to reveal the correct name.",
+    "data": {
+      "image": "Diagram showing adaptation features of a cactus and polar bear",
+      "labels": [
+        {
+          "id": 1,
+          "x": 20,
+          "y": 30,
+          "answer": "Spines",
+          "hint": "Modified leaves to reduce water loss"
+        },
+        {
+          "id": 2,
+          "x": 20,
+          "y": 60,
+          "answer": "Fleshy Stem",
+          "hint": "Stores water in desert"
+        },
+        {
+          "id": 3,
+          "x": 70,
+          "y": 30,
+          "answer": "Thick Fur",
+          "hint": "Insulation against cold"
+        },
+        {
+          "id": 4,
+          "x": 70,
+          "y": 60,
+          "answer": "Layer of Fat",
+          "hint": "Blubber for warmth in polar regions"
+        },
+        {
+          "id": 5,
+          "x": 45,
+          "y": 85,
+          "answer": "Webbed Feet",
+          "hint": "For swimming in cold water"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "The Living World",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers \u2014 these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "match_pairs",
+        "question": "Find my match !\n\u2018A\u2019 Group\n\u2018B\u2019 Group\n(1) Lotus\n(a) flower and leaves\nattract insects\n(2) Aloe\n(b) Haustorial roots for\nabsorption of food\n(3) Cuscuta\n(c) Adapted to live in\ndeserts\n(4) Venus flytrap (d) Adapted to live in\nwater.",
+        "subQuestions": [
+          "flower and leaves\nattract insects\n(2) Aloe",
+          "Haustorial roots for\nabsorption of food\n(3) Cuscuta",
+          "Adapted to live in\ndeserts\n(4) Venus flytrap (d) Adapted to live in\nwater."
+        ]
+      },
+      {
+        "number": 2,
+        "type": "give_reasons",
+        "question": "Read the paragraph and answer the\nfollowing questions.\n\t\tI am a penguin. I live in polar region\ncovered by snow. My abdomen is\nwhite. My skin is thick with a layer of\nfat underneath. My body is spindleshaped. My wings are small. My toes\nare webbed. We live in flocks.\n(a) Why is my skin white and thi",
+        "subQuestions": [
+          "Why is my skin white and thick\nand why is there a thick layer of\nfat underneath ?",
+          "Why do we live in flocks sticking\nclose to each other ?",
+          "Which geographical region do I\ninhabit? Why?",
+          "Which adaptations should you have\nto enable you to live permanently\nin the polar region ? Why ?"
+        ]
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "Who is lying ?\n(a) Cockroach \u2013 I have five legs.\n(b) Hen \u2013 My toes are webbed.\n(c) Cactus \u2013 My fleshy, green part is a\nleaf.",
+        "subQuestions": [
+          "Cockroach \u2013 I have five legs.",
+          "Hen \u2013 My toes are webbed.",
+          "Cactus \u2013 My fleshy, green part is a\nleaf."
+        ]
+      },
+      {
+        "number": 4,
+        "type": "short_answer",
+        "question": "Read each of the following statements.\nWrite a paragraph about adaptation\nwith reference to each statement.\n(a) There is extreme heat in deserts.\n(b) Grasslands are lush green.\n(c) Insects are found in large numbers.\n(d) We hide.\n(e) We have long ears.",
+        "subQuestions": [
+          "There is extreme heat in deserts.",
+          "Grasslands are lush green.",
+          "Insects are found in large numbers.",
+          "We hide.",
+          "We have long ears."
+        ]
+      },
+      {
+        "number": 5,
+        "type": "give_reasons",
+        "question": "Answer the following.\n(a) Why is the camel called the \u2018Ship\nof the desert\u2019 ?\n(b) How can the plants like cactus and\nacacia live in deserts with scarce\nwater ?\n(c) What is the inter-relationship\nbetween adaptations of organisms\nand their surroundings ?\n(d) How are organisms classified ?\nActivity : Fi",
+        "subQuestions": [
+          "Why is the camel called the \u2018Ship\nof the desert\u2019 ?",
+          "How can the plants like cactus and\nacacia live in deserts with scarce\nwater ?",
+          "What is the inter-relationship\nbetween adaptations of organisms\nand their surroundings ?",
+          "How are organisms classified ?\nActivity : Find out how the gradual\nadaptation from primitive man\nto modern man must have taken\nplace."
+        ]
+      }
+    ],
+    "rawText": "1. Find my match !\n\u2018A\u2019 Group\n\u2018B\u2019 Group\n(1) Lotus\n(a) flower and leaves\nattract insects\n(2) Aloe\n(b) Haustorial roots for\nabsorption of food\n(3) Cuscuta\n(c) Adapted to live in\ndeserts\n(4) Venus flytrap (d) Adapted to live in\nwater.\n2. Read the paragraph and answer the\nfollowing questions.\n\t\tI am a penguin. I live in polar region\ncovered by snow. My abdomen is\nwhite. My skin is thick with a layer of\nfat underneath. My body is spindleshaped. My wings are small. My toes\nare webbed. We live in flocks.\n(a) Why is my skin white and thick\nand why is there a thick layer of\nfat underneath ?\n(b) Why do we live in flocks sticking\nclose to each other ?\n(c) Which geographical region do I\ninhabit? Why?\n(d) Which adaptations should you have\nto enable you to live permanently\nin the polar region ? Why ?\n3. Who is lying ?\n(a) Cockroach \u2013 I have five legs.\n(b) Hen \u2013 My toes are webbed.\n(c) Cactus \u2013 My fleshy, green part is a\nleaf.\n4. Read each of the following statements.\nWrite a paragraph about adaptation\nwith reference to each statement.\n(a) There is extreme heat in deserts.\n(b) Grasslands are lush green.\n(c) Insects are found in large numbers.\n(d) We hide.\n(e) We have long ears.\n5. Answer the following.\n(a) Why is the camel called the \u2018Ship\nof the desert\u2019 ?\n(b) How can the plants like cactus and\nacacia live in deserts with scarce\nwater ?\n(c) What is the inter-relationship\nbetween adaptations of organisms\nand their surroundings ?\n(d) How are organisms classified ?\nActivity : Find out how the gradual\nadaptation from primitive man\nto modern man must have taken\nplace.",
+    "qaCards": [
+      {
+        "question": "What is the primary function of a fish's gills?",
+        "answer": "Gills are specialized organs that allow fish to extract dissolved oxygen from water.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is a behavioral adaptation?",
+        "answer": "Migration is an action, a behavior that helps birds survive seasonal changes, unlike the other options which are physical traits.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why are the trees in snowy regions often conical in shape?",
+        "answer": "The sloping, conical shape helps heavy snow to slide off, preventing branches from breaking.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In the classification hierarchy, which level is broader (contains more organisms) than 'Family'?",
+        "answer": "The hierarchy goes from broad to specific: Kingdom > Phylum > Class > Order > Family > Genus > Species. 'Order' is the level above 'Family'.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is camouflage?",
+        "answer": "Camouflage helps animals hide from predators or sneak up on prey by matching their environment.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the correct way to write the scientific name for humans?",
+        "answer": "By convention, the Genus name ('Homo') is capitalized, and the species name ('sapiens') is in lowercase.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The hollow bones of birds are an adaptation for:",
+        "answer": "Hollow, lightweight bones reduce the bird's overall weight, making it easier to fly.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why do cacti have spines instead of leaves?",
+        "answer": "Spines have a much smaller surface area than leaves, which significantly reduces the amount of water lost to the desert air.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Why is the camel called the 'Ship of the desert'?",
+        "modelAnswer": "The camel is called the 'Ship of the desert' because of its remarkable adaptations to the harsh desert environment. It has long legs with flat and cushioned soles which help it walk easily on hot, loose sand without sinking. Its nostrils are protected by folds of skin, and it has long, thick eyelashes to keep out sand during storms. Additionally, its thick skin prevents water loss, and it can survive for long periods without water, making it the most reliable mode of transport in deserts.",
+        "keyPoints": [
+          "Long legs with flat, cushioned soles for walking on sand.",
+          "Thick skin to prevent water loss.",
+          "Folds of skin to protect nostrils and thick eyelashes.",
+          "Ability to survive without water for long periods."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "How can plants like cactus and acacia live in deserts with scarce water?",
+        "modelAnswer": "Desert plants like cactus and acacia are adapted to conserve water. Their leaves are either absent, very small, or modified into spines, which significantly reduces water loss through transpiration. The stem performs photosynthesis in the absence of leaves and becomes fleshy to store water. Furthermore, their roots penetrate deep into the soil or spread wide to absorb even the slightest amount of available moisture.",
+        "keyPoints": [
+          "Leaves modified into spines to reduce transpiration.",
+          "Fleshy green stems that store water and perform photosynthesis.",
+          "Deep or wide-spreading roots to absorb maximum water."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "What is the inter-relationship between adaptations of organisms and their surroundings?",
+        "modelAnswer": "Adaptation is a gradual process where changes occur in the body parts and behavior of organisms to help them survive, reproduce, and maintain their existence in a specific environment. The surroundings (climate, food availability, predators) dictate the type of adaptations needed. For example, animals in snowy regions have thick fur for insulation, while desert animals have adaptations to conserve water. This relationship ensures that organisms are best suited to thrive in their particular habitat.",
+        "keyPoints": [
+          "Adaptation is a gradual change for survival and reproduction.",
+          "Environmental factors like climate and food determine the adaptations.",
+          "Ensures organisms are suited to their specific habitat."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "How are organisms classified?",
+        "modelAnswer": "Organisms are classified using a hierarchical system developed by Carl Linnaeus. This system, known as biological classification, groups living things based on their similarities and differences. The hierarchy consists of levels: Kingdom, Phylum (for animals) or Division (for plants), Class, Order, Family, Genus, and Species. Additionally, the Binomial Nomenclature system gives each organism a unique two-part scientific name consisting of its Genus and Species (e.g., Mangifera indica for mango).",
+        "keyPoints": [
+          "Classification is based on similarities and differences.",
+          "Hierarchy: Kingdom, Phylum/Division, Class, Order, Family, Genus, Species.",
+          "Binomial Nomenclature provides unique scientific names."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Why do penguins live in flocks sticking close to each other?",
+        "modelAnswer": "Penguins live in the extremely cold polar regions. They live in flocks and stick close to each other primarily to conserve body heat. By huddling together, they reduce the total surface area exposed to the freezing wind and snow, thereby sharing warmth and increasing their chances of survival in sub-zero temperatures. It also provides protection against predators.",
+        "keyPoints": [
+          "Huddling reduces exposed surface area to cold.",
+          "Sharing body heat ensures survival in freezing temperatures.",
+          "Provides collective protection against predators."
+        ],
+        "marks": 3
+      }
+    ]
+  }
 }

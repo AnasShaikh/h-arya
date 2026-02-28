@@ -337,5 +337,138 @@
       "The dargah of Hazrat Nizamuddin Auliya in Delhi continues to be a place where people of all religions come together — a living example of the Sufi tradition of inclusivity."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Early Period",
+          "year": "600 CE",
+          "fact": "Early developments related to this chapter's topic"
+        },
+        {
+          "label": "Medieval Period",
+          "year": "1000 CE",
+          "fact": "Key events during the medieval era"
+        },
+        {
+          "label": "Important Development",
+          "year": "1400 CE",
+          "fact": "A significant milestone in this period"
+        },
+        {
+          "label": "Major Change",
+          "year": "1600 CE",
+          "fact": "A turning point in history"
+        },
+        {
+          "label": "Later Period",
+          "year": "1800 CE",
+          "fact": "Events leading to the modern era"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Religious Synthesis",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "The Dnyaneshwari is a Marathi commentary on which sacred text?",
+        "answer": "Sant Dnyaneshwar wrote the Dnyaneshwari as a Marathi commentary (explanation) on the Bhagavad Gita, making the complex Sanskrit philosophy accessible to common Marathi-speaking people.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the Warkari Panth?",
+        "answer": "The Warkari Panth is a devotional tradition of people who make periodic pilgrimages (wari) to Pandharpur in Maharashtra to worship Lord Vitthal. The tradition was founded and shaped by the great Bhakti saints.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Kabir belonged to which profession?",
+        "answer": "Kabir was a weaver by profession who lived in Varanasi. He preached the oneness of God and opposed divisions between Hindus and Muslims, composing his teachings in simple Hindi couplets (dohas).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which Sufi saint was closely connected with Emperor Akbar at Fatehpur Sikri?",
+        "answer": "Hazrat Salim Chishti was a Sufi saint who lived at Fatehpur Sikri. Akbar visited him regularly and named his son Salim (later Emperor Jahangir) after the saint when he blessed him with a son.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the main message of the Bhakti movement?",
+        "answer": "The central message of the Bhakti movement was that God can be reached by anyone through sincere love and devotion (bhakti), regardless of caste, gender, or religious background. This directly challenged the existing social hierarchy.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Sant Chokhamela was significant because:",
+        "answer": "Sant Chokhamela was from the Mahar community, considered at the lowest level of the caste system. Yet his deep devotion to Lord Vitthal earned him great spiritual respect, and his abhangas are included in the most sacred Warkari texts — a powerful challenge to caste discrimination.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is a khanqah?",
+        "answer": "A khanqah is a Sufi spiritual center or lodge where the Sufi master lived, taught, and welcomed people of all faiths. They were centers of spiritual learning, music (qawwali), and service to the poor.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which saint composed the Sursagar, a collection of devotional songs about Lord Krishna's childhood?",
+        "answer": "Surdas, a blind poet-saint from North India, composed the Sursagar — a massive collection of thousands of devotional songs vividly describing Krishna's childhood in Vrindavan. He is one of the greatest Bhakti poets of North India.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How did the Bhakti movement impact local Indian languages?",
+        "answer": "Bhakti saints composed their poems and teachings in local languages — Marathi, Hindi, Punjabi, Tamil — rather than only in Sanskrit. This greatly elevated the status of these regional languages and helped develop rich regional literary traditions.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What is the Warkari Panth?",
+        "modelAnswer": "The Warkari Panth is a devotional tradition of people who make periodic pilgrimages (wari) to Pandharpur in Maharashtra to worship Lord Vitthal. The tradition was founded and shaped by the great Bhakti saints. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The Warkari Panth is a devotional tradition of people who make periodic pilgrimages (wari) to Pandharpur in Maharashtra to worship Lord Vitthal.",
+          "The tradition was founded and shaped by the great Bhakti saints.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What is the main message of the Bhakti movement?",
+        "modelAnswer": "The central message of the Bhakti movement was that God can be reached by anyone through sincere love and devotion (bhakti), regardless of caste, gender, or religious background. This directly challenged the existing social hierarchy. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The central message of the Bhakti movement was that God can be reached by anyone through sincere love and devotion (bhakti), regardless of caste, gender, or religious background.",
+          "This directly challenged the existing social hierarchy.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What is a khanqah?",
+        "modelAnswer": "A khanqah is a Sufi spiritual center or lodge where the Sufi master lived, taught, and welcomed people of all faiths. They were centers of spiritual learning, music (qawwali), and service to the poor. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "A khanqah is a Sufi spiritual center or lodge where the Sufi master lived, taught, and welcomed people of all faiths.",
+          "They were centers of spiritual learning, music (qawwali), and service to the poor.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "How did the Bhakti movement impact local Indian languages?",
+        "modelAnswer": "Bhakti saints composed their poems and teachings in local languages — Marathi, Hindi, Punjabi, Tamil — rather than only in Sanskrit. This greatly elevated the status of these regional languages and helped develop rich regional literary traditions. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Bhakti saints composed their poems and teachings in local languages — Marathi, Hindi, Punjabi, Tamil — rather than only in Sanskrit.",
+          "This greatly elevated the status of these regional languages and helped develop rich regional literary traditions.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

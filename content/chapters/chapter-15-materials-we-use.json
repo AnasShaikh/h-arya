@@ -280,7 +280,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A detergent is a substance that cleans or wipes away dirt by helping water remove it from surfaces.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "100"
     },
     {
@@ -294,7 +296,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Fluoride helps prevent tooth decay and is essential for strengthening bones and tooth enamel.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "100"
     },
     {
@@ -308,7 +312,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Chemically, soap is a sodium or potassium salt of fatty acids, formed by combining fat and alkali.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "101"
     },
     {
@@ -322,7 +328,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "Unlike soap which doesn't work well in hard water, synthetic detergents can be used effectively even in hard water.",
-      "conceptIds": [2, 3],
+      "conceptIds": [
+        2,
+        3
+      ],
       "pageReference": "101"
     },
     {
@@ -336,7 +345,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Portland cement is the most commonly used cement for construction work. It's named after the Isle of Portland in England.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "102"
     },
     {
@@ -350,7 +361,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Detergent molecules have one end that holds water and another that holds oil, allowing oily dirt to mix with water and be washed away.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "100-101"
     },
     {
@@ -364,7 +377,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Toothpaste contains calcium carbonate and calcium hydrogen phosphate to remove dirt and polish teeth, and fluoride to prevent tooth decay.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "100"
     },
     {
@@ -378,7 +393,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Cement is made from silica (sand), alumina (aluminium oxide), lime, iron oxide and magnesia (magnesium oxide).",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "102"
     },
     {
@@ -392,7 +409,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Cement is the binding agent in concrete. Without it, the sand and gravel will not stick together to form a strong material.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "102"
     },
     {
@@ -406,7 +425,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Concrete roads are preferred because concrete is strong, durable, and can withstand heavy traffic and weather conditions.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "103"
     }
   ],
@@ -452,6 +473,242 @@
       {
         "formula": "Portland Cement = 60% Lime + 25% Silica + 5% Alumina + Rest (Iron oxide + Gypsum)",
         "explanation": "The composition of Portland cement used in construction"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "match-pairs",
+    "title": "Match the Pairs!",
+    "description": "Match each term to its correct description.",
+    "data": {
+      "pairs": [
+        {
+          "term": "Conductor",
+          "match": "Material that allows electricity to flow through it"
+        },
+        {
+          "term": "Insulator",
+          "match": "Material that does not allow electricity to flow"
+        },
+        {
+          "term": "Transparent",
+          "match": "Material that allows light to pass through completely"
+        },
+        {
+          "term": "Opaque",
+          "match": "Material that does not allow light to pass through"
+        },
+        {
+          "term": "Malleable",
+          "match": "Material that can be beaten into thin sheets"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Materials We Use",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "fill_blanks",
+        "question": "Fill appropriate terms in the blanks.\n(white cement, soap, detergent, wearing\nof bones, tooth decay, hard, soft,\nPortland, fatty acid)\n(a) The substance that helps water to\nremove dirt from the surface of\nmaterials is called ……….. .\n(b) Fluoride is used in toothpaste to\nprevent ……. .\n(c) Soap is a s",
+        "subQuestions": [
+          "The substance that helps water to\nremove dirt from the surface of\nmaterials is called ……….. .",
+          "Fluoride is used in toothpaste to\nprevent ……. .",
+          "Soap is a salt of ……….. and\nsodium hydroxide.",
+          "Synthetic detergents can be used in\n……….. water as well.",
+          "For construction purposes ………….\ncement is the most commonly used\ncement."
+        ]
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Write answers to the following\nquestions.\n(a) How does the use of a detergent\nhelp to clean soiled clothes ?\n(b) How will you check with the help\nof soap powder whether water is\nhard ?\n(c) What are the important ingredients\nof a toothpaste , and what is the\nfunction of each ?\n(d) What are the ingred",
+        "subQuestions": [
+          "How does the use of a detergent\nhelp to clean soiled clothes ?",
+          "How will you check with the help\nof soap powder whether water is\nhard ?",
+          "What are the important ingredients\nof a toothpaste , and what is the\nfunction of each ?",
+          "What are the ingredients of cement ?",
+          "What will happen if cement is not\nused in making concrete ?",
+          "Make a list of detergents that you\nuse.",
+          "What should be expected from a\ndetergent for delicate garments ?",
+          "What is meant by ‘surface activity’ ?\nName three chemicals responsible\nfor the surface activity of various\ndetergents.\n103"
+        ]
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "What are the similarities and\ndifferences between (a) Natural detergents and man-made\ndetergents\n(b) Soap and synthetic detergent\n(c) Bath soap and soap for washing\nclothes\n(d) Modern cement and ancient cement",
+        "subQuestions": [
+          "Natural detergents and man-made\ndetergents",
+          "Soap and synthetic detergent",
+          "Bath soap and soap for washing\nclothes",
+          "Modern cement and ancient cement"
+        ]
+      },
+      {
+        "number": 4,
+        "type": "give_reasons",
+        "question": "Explain why (a) Soap cannot be used in hard water.\n(b) Oil does not mix in water. However,\noil and water become homogeneous\nif a sufficient quantity of detergent\nis added.\n(c) Synthetic detergents are superior to\nsoap.\n(d) Often coloured spots are formed on\nclothes during washing.\n(e) Tobacco masher",
+        "subQuestions": [
+          "Soap cannot be used in hard water.",
+          "Oil does not mix in water. However,\noil and water become homogeneous\nif a sufficient quantity of detergent\nis added.",
+          "Synthetic detergents are superior to\nsoap.",
+          "Often coloured spots are formed on\nclothes during washing.",
+          "Tobacco masheri should not be\nused for cleaning teeth."
+        ]
+      }
+    ],
+    "rawText": "1. Fill appropriate terms in the blanks.\n(white cement, soap, detergent, wearing\nof bones, tooth decay, hard, soft,\nPortland, fatty acid)\n(a) The substance that helps water to\nremove dirt from the surface of\nmaterials is called ……….. .\n(b) Fluoride is used in toothpaste to\nprevent ……. .\n(c) Soap is a salt of ……….. and\nsodium hydroxide.\n(d) Synthetic detergents can be used in\n……….. water as well.\n(e) For construction purposes ………….\ncement is the most commonly used\ncement.\n2. Write answers to the following\nquestions.\n(a) How does the use of a detergent\nhelp to clean soiled clothes ?\n(b) How will you check with the help\nof soap powder whether water is\nhard ?\n(c) What are the important ingredients\nof a toothpaste , and what is the\nfunction of each ?\n(d) What are the ingredients of cement ?\n(e) What will happen if cement is not\nused in making concrete ?\n(f) Make a list of detergents that you\nuse.\n(g) What should be expected from a\ndetergent for delicate garments ?\n(h) What is meant by ‘surface activity’ ?\nName three chemicals responsible\nfor the surface activity of various\ndetergents.\n103\n3. What are the similarities and\ndifferences between (a) Natural detergents and man-made\ndetergents\n(b) Soap and synthetic detergent\n(c) Bath soap and soap for washing\nclothes\n(d) Modern cement and ancient cement\n4. Explain why (a) Soap cannot be used in hard water.\n(b) Oil does not mix in water. However,\noil and water become homogeneous\nif a sufficient quantity of detergent\nis added.\n(c) Synthetic detergents are superior to\nsoap.\n(d) Often coloured spots are formed on\nclothes during washing.\n(e) Tobacco masheri should not be\nused for cleaning teeth.",
+    "qaCards": [
+      {
+        "question": "The substance that helps water to remove dirt from the surface of materials is called _____.",
+        "answer": "A detergent is a substance that cleans or wipes away dirt by helping water remove it from surfaces.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Fluoride is used in toothpaste to prevent _____.",
+        "answer": "Fluoride helps prevent tooth decay and is essential for strengthening bones and tooth enamel.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Soap is a salt of _____ and sodium hydroxide.",
+        "answer": "Chemically, soap is a sodium or potassium salt of fatty acids, formed by combining fat and alkali.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Synthetic detergents can be used in _____ water as well.",
+        "answer": "Unlike soap which doesn't work well in hard water, synthetic detergents can be used effectively even in hard water.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "For construction purposes _____ cement is the most commonly used cement.",
+        "answer": "Portland cement is the most commonly used cement for construction work. It's named after the Isle of Portland in England.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How does the use of a detergent help to clean soiled clothes?",
+        "answer": "Detergent molecules have one end that holds water and another that holds oil, allowing oily dirt to mix with water and be washed away.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What are the important ingredients of a toothpaste, and what is the function of each?",
+        "answer": "Toothpaste contains calcium carbonate and calcium hydrogen phosphate to remove dirt and polish teeth, and fluoride to prevent tooth decay.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What are the ingredients of cement?",
+        "answer": "Cement is made from silica (sand), alumina (aluminium oxide), lime, iron oxide and magnesia (magnesium oxide).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What will happen if cement is not used in making concrete?",
+        "answer": "Cement is the binding agent in concrete. Without it, the sand and gravel will not stick together to form a strong material.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Nowadays, why are the roads made of concrete?",
+        "answer": "Concrete roads are preferred because concrete is strong, durable, and can withstand heavy traffic and weather conditions.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "The substance that helps water to\nremove dirt from the surface of\nmaterials is called ……….. .",
+        "modelAnswer": "Answer: A detergent is a substance that cleans or wipes away dirt by helping water remove it from surfaces.\nThis question belongs to the chapter \"Materials we Use\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: A detergent is a substance that cleans or wipes away dirt by helping water remove it from surfaces.",
+          "Concept link: Materials we Use (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Fluoride is used in toothpaste to\nprevent ……. .",
+        "modelAnswer": "Answer: Fluoride helps prevent tooth decay and is essential for strengthening bones and tooth enamel.\nThis question belongs to the chapter \"Materials we Use\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Fluoride helps prevent tooth decay and is essential for strengthening bones and tooth enamel.",
+          "Concept link: Materials we Use (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Soap is a salt of ……….. and\nsodium hydroxide.",
+        "modelAnswer": "Answer: Chemically, soap is a sodium or potassium salt of fatty acids, formed by combining fat and alkali.\nThis question belongs to the chapter \"Materials we Use\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Chemically, soap is a sodium or potassium salt of fatty acids, formed by combining fat and alkali.",
+          "Concept link: Materials we Use (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Synthetic detergents can be used in\n……….. water as well.",
+        "modelAnswer": "Answer: Unlike soap which doesn't work well in hard water, synthetic detergents can be used effectively even in hard water.\nThis question belongs to the chapter \"Materials we Use\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Unlike soap which doesn't work well in hard water, synthetic detergents can be used effectively even in hard water.",
+          "Concept link: Materials we Use (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "For construction purposes ………….\ncement is the most commonly used\ncement.",
+        "modelAnswer": "Answer: Portland cement is the most commonly used cement for construction work. It's named after the Isle of Portland in England.\nThis question belongs to the chapter \"Materials we Use\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Portland cement is the most commonly used cement for construction work. It's named after the Isle of Portland in Englan…",
+          "Concept link: Materials we Use (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Write answers to the following\nquestions.\n(a) How does the use of a detergent\nhelp to clean soiled clothes ?\n(b) How will you check with the help\nof soap powder whether water is\nhard ?\n(c) What are the important ingredients\nof a toothpaste , and what is the\nfunction of each ?\n(d) What are the ingred",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Materials we Use\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Materials we Use (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "How does the use of a detergent\nhelp to clean soiled clothes ?",
+        "modelAnswer": "Answer: Detergent molecules have one end that holds water and another that holds oil, allowing oily dirt to mix with water and be washed away.\nThis question belongs to the chapter \"Materials we Use\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Detergent molecules have one end that holds water and another that holds oil, allowing oily dirt to mix with water and …",
+          "Concept link: Materials we Use (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "How will you check with the help\nof soap powder whether water is\nhard ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Materials we Use\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Materials we Use (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
       }
     ]
   }

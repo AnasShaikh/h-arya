@@ -272,7 +272,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Jules Verne was a French writer known as the Father of Science Fiction. He wrote imaginative stories about technology that did not yet exist.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "43-44"
     },
     {
@@ -286,7 +288,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The ship Abraham Lincoln, commanded by Captain Farragut, chases the mysterious creature in the story.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "44"
     },
     {
@@ -300,7 +304,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Professor Aronnax is the narrator. He is a scientist who is thrown into the sea at the climax of the extract.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "44"
     },
     {
@@ -314,7 +320,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "The cannon shell simply bounces off the creature's armour — this is a key clue that the 'monster' is actually a metal submarine.",
-      "conceptIds": [2, 4],
+      "conceptIds": [
+        2,
+        4
+      ],
       "pageReference": "45"
     },
     {
@@ -328,7 +337,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Ned Land is the harpooner — near midnight, he throws his harpoon at the creature, which triggers the waterspouts that sweep the narrator into the sea.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "45-47"
     },
     {
@@ -342,7 +353,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The 'sea monster' is actually the submarine Nautilus, commanded by the mysterious Captain Nemo. The clues include its metal armour, electric glow, and waterspouts.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "47-48"
     },
     {
@@ -356,7 +369,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "'Give' is a transitive verb — it needs an object. You give something to someone. Laugh, walk, and sleep are intransitive.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "48"
     },
     {
@@ -370,7 +385,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In 'The baby sleeps', 'sleeps' is intransitive — it does not need an object. The other sentences all have objects.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "48"
     }
   ],
@@ -400,5 +417,156 @@
       "Cricket commentary: 'Kohli hit the ball (transitive) — Kohli ran fast (intransitive)'"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Chasing the Sea Monster",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who is Jules Verne?",
+        "answer": "Jules Verne was a French writer known as the Father of Science Fiction. He wrote imaginative stories about technology that did not yet exist.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the name of the ship that chases the mysterious creature?",
+        "answer": "The ship Abraham Lincoln, commanded by Captain Farragut, chases the mysterious creature in the story.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who is the narrator of '20,000 Leagues Under the Sea'?",
+        "answer": "Professor Aronnax is the narrator. He is a scientist who is thrown into the sea at the climax of the extract.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What happens when the cannon fires at the creature?",
+        "answer": "The cannon shell simply bounces off the creature's armour — this is a key clue that the 'monster' is actually a metal submarine.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does Ned Land do near midnight in the story?",
+        "answer": "Ned Land is the harpooner — near midnight, he throws his harpoon at the creature, which triggers the waterspouts that sweep the narrator into the sea.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What actually is the 'sea monster' in the story?",
+        "answer": "The 'sea monster' is actually the submarine Nautilus, commanded by the mysterious Captain Nemo. The clues include its metal armour, electric glow, and waterspouts.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is a transitive verb?",
+        "answer": "'Give' is a transitive verb — it needs an object. You give something to someone. Laugh, walk, and sleep are intransitive.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is an intransitive verb?",
+        "answer": "In 'The baby sleeps', 'sleeps' is intransitive — it does not need an object. The other sentences all have objects.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Describe the initial encounter with the sea monster and the reaction of the crew on board the Abraham Lincoln.",
+        "modelAnswer": "The crew of the Abraham Lincoln, led by Captain Farragut, finally sighted the mysterious sea monster after a long and tiring search. As the ship approached, the creature emitted a powerful and eerie electric glow that illuminated the dark waters of the Pacific Ocean. The crew was both terrified and excited, as they had never witnessed such a magnificent and strange sight before. Everyone on board prepared for a dangerous battle with what they believed was a giant narwhal or a formidable unknown sea beast.",
+        "keyPoints": [
+          "The ship Abraham Lincoln was led by Captain Farragut.",
+          "The creature emitted a powerful, eerie electric glow in the dark.",
+          "The crew felt a mixture of terror and excitement at the sight.",
+          "They believed they were hunting a giant narwhal or an unknown beast."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "How did the creature respond when it was chased by the Abraham Lincoln, and what shocked the crew?",
+        "modelAnswer": "When the Abraham Lincoln tried to close the distance, the creature showed incredible speed and agility that no known sea animal possessed. It stayed at a constant distance from the ship, effortlessly matching its pace regardless of how much steam the engines produced. Even when Captain Farragut ordered the cannons to fire, the shells simply bounced off the creature's back as if it were made of solid steel. This defensive ability left the sailors bewildered and convinced that they were dealing with something extraordinary.",
+        "keyPoints": [
+          "The creature showed incredible speed and agility during the chase.",
+          "It effortlessly matched the ship's maximum speed.",
+          "Cannon shells bounced off its back like rubber balls.",
+          "The crew was shocked by its seemingly metallic, indestructible armour."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "What happened during the final confrontation near midnight that led to the narrator falling overboard?",
+        "modelAnswer": "Near midnight, the ship approached the creature while it appeared to be resting or asleep on the surface of the water. Ned Land, the world-renowned harpooner, took his position at the bow and launched his harpoon with great precision. The moment the harpoon struck, two massive jets of water erupted from the creature, crashing onto the ship's deck like a waterfall. In the resulting chaos and the violent lurch of the vessel, Professor Aronnax was thrown overboard into the dark, churning sea.",
+        "keyPoints": [
+          "The ship approached the creature while it was resting at midnight.",
+          "Ned Land struck the creature with his harpoon.",
+          "The strike triggered two massive jets of water that hit the deck.",
+          "The violent impact threw Professor Aronnax into the ocean."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "What were the major clues that suggested the 'sea monster' was actually a man-made machine?",
+        "modelAnswer": "Several clues throughout the story indicated that the 'sea monster' was actually a man-made machine rather than a living being. First, the creature emitted a brilliant electric light, which was far too powerful and consistent to be natural bioluminescence. Second, its outer shell was so hard that cannonballs bounced off it with a metallic ring, suggesting an iron or steel construction. Finally, its ability to move at impossible speeds and expel powerful jets of water pointed towards mechanical propulsion and venting systems.",
+        "keyPoints": [
+          "The electric light was too powerful to be a natural animal glow.",
+          "The hard outer shell caused cannonballs to bounce off with a metallic sound.",
+          "The creature moved at speeds impossible for any known marine animal.",
+          "The jets of water suggested a mechanical venting system like a submarine."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Who was Jules Verne, and why is he considered a visionary writer in the field of science fiction?",
+        "modelAnswer": "Jules Verne was a legendary 19th-century French author who is celebrated as the 'Father of Science Fiction' for his visionary ideas. He possessed a remarkable imagination and wrote about advanced technologies like submarines, space travel, and helicopters long before they were ever built. His most famous novel, 'Twenty Thousand Leagues Under the Sea', introduced the world to the concept of deep-sea exploration in a mechanical vessel. Through his stories, Verne inspired generations of scientists and engineers to turn his fictional dreams into reality.",
+        "keyPoints": [
+          "Jules Verne was a 19th-century French author known for science fiction.",
+          "He imagined technologies like submarines and space travel before they existed.",
+          "His famous work 'Twenty Thousand Leagues Under the Sea' featured the Nautilus.",
+          "He is called the 'Father of Science Fiction' for his visionary storytelling."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la6",
+        "question": "Explain the difference between transitive and intransitive verbs using examples from the story.",
+        "modelAnswer": "A transitive verb is a verb that requires an object to complete its meaning, such as when Ned Land 'threw' his harpoon. In this case, 'threw' is transitive because the action is directed toward the object, the 'harpoon'. An intransitive verb, on the other hand, does not require an object to make sense, such as when the narrator 'fell' into the sea. The action of 'falling' is complete on its own and does not act upon another person or thing.",
+        "keyPoints": [
+          "Transitive verbs require an object to complete their meaning.",
+          "Example: 'Ned Land threw his harpoon' (object is harpoon).",
+          "Intransitive verbs make complete sense without any object.",
+          "Example: 'The narrator fell into the sea' (no object required)."
+        ],
+        "marks": 4
+      }
+    ]
   }
 }

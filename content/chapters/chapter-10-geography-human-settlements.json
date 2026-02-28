@@ -84,9 +84,18 @@
       "content": "Human settlements began when early humans stopped wandering and settled in places with favourable conditions: water, fertile land, good climate. Settlements based on natural resources (agriculture, fishing) are rural settlements — hamlets (pada/wadi), villages. As these grow, secondary (manufacturing) and tertiary (services) occupations develop → rural settlements transform into urban settlements (towns, cities, metropolises). Today, 37% of India's population lives in urban areas (census 2011), increasing rapidly.",
       "pageReference": "62-63",
       "examples": [
-        { "icon": "🏘️", "text": "Koliwada (fishing hamlet) in Mumbai: a fishing settlement that became part of one of world's largest cities" },
-        { "icon": "🌾", "text": "Adivasi pada in Nashik district: tribal hamlet in forest area — scattered, close to nature" },
-        { "icon": "🏙️", "text": "Pune: started as a small settlement at river confluence → now Maharashtra's second-largest city" }
+        {
+          "icon": "🏘️",
+          "text": "Koliwada (fishing hamlet) in Mumbai: a fishing settlement that became part of one of world's largest cities"
+        },
+        {
+          "icon": "🌾",
+          "text": "Adivasi pada in Nashik district: tribal hamlet in forest area — scattered, close to nature"
+        },
+        {
+          "icon": "🏙️",
+          "text": "Pune: started as a small settlement at river confluence → now Maharashtra's second-largest city"
+        }
       ],
       "keyPoints": [
         "Settlements flourish where water, fertile land, and good climate are available",
@@ -108,9 +117,18 @@
       "content": "Three categories of factors determine where settlements develop: (1) Physical factors: Physiography (terrain), land/soils, climate, water supply, river banks — essential for survival. (2) Cultural factors: Defense (hilltops, rivers as natural barriers), health, education, tourism, historical significance, religion. (3) Economic factors: Irrigation, occupations, transport/communication, industries, trade, government offices. A settlement grows where multiple favourable factors combine.",
       "pageReference": "66",
       "examples": [
-        { "icon": "💧", "text": "Nashik: grew at the confluence of Godavari River + sacred Hindu site (Kumbh Mela) = physical + cultural factors" },
-        { "icon": "🏭", "text": "Pune: military (Poona Camp), education (universities), industries (IT, auto) = cultural + economic factors" },
-        { "icon": "🛤️", "text": "Lonavala: grew along Mumbai-Pune railway — classic linear settlement along transport route" }
+        {
+          "icon": "💧",
+          "text": "Nashik: grew at the confluence of Godavari River + sacred Hindu site (Kumbh Mela) = physical + cultural factors"
+        },
+        {
+          "icon": "🏭",
+          "text": "Pune: military (Poona Camp), education (universities), industries (IT, auto) = cultural + economic factors"
+        },
+        {
+          "icon": "🛤️",
+          "text": "Lonavala: grew along Mumbai-Pune railway — classic linear settlement along transport route"
+        }
       ],
       "keyPoints": [
         "Physical factors: physiography, soils, climate, water, rivers",
@@ -132,9 +150,18 @@
       "content": "In scattered settlements, houses are few and far apart from each other. Found in areas of: high relief (hills, mountains), dense forests, grasslands, hot deserts, and extensive agricultural lands. Characteristics: small population (hamlets, pada, wadi), limited facilities and services, closer to nature (less pollution), depend on nearby villages for goods and services.",
       "pageReference": "65",
       "examples": [
-        { "icon": "🏔️", "text": "Adivasi padas in Sahyadri hills: 5-10 houses, forest-dependent, no market, clean environment" },
-        { "icon": "🏜️", "text": "Rajasthan desert hamlets (dhani): 3-4 houses near a water source, many km from next settlement" },
-        { "icon": "🌾", "text": "Extensive farmland of Maharashtra: isolated farmhouses (Maharashtrian wadi) in large fields" }
+        {
+          "icon": "🏔️",
+          "text": "Adivasi padas in Sahyadri hills: 5-10 houses, forest-dependent, no market, clean environment"
+        },
+        {
+          "icon": "🏜️",
+          "text": "Rajasthan desert hamlets (dhani): 3-4 houses near a water source, many km from next settlement"
+        },
+        {
+          "icon": "🌾",
+          "text": "Extensive farmland of Maharashtra: isolated farmhouses (Maharashtrian wadi) in large fields"
+        }
       ],
       "keyPoints": [
         "Houses are few and far apart",
@@ -156,9 +183,18 @@
       "content": "Nucleated settlements have houses close together in a cluster, usually around a central feature (water source, market, temple, fort). Found near: water sources (brooks, rivers, lakes), fertile plains, transport hubs, mining centres, commercial centres. Also develop for: defense, health, education, religion. Houses are close-packed; roads are narrow in old parts; people of different castes, religions, and communities live together — better social life.",
       "pageReference": "65-66",
       "examples": [
-        { "icon": "🕌", "text": "Old city areas of Aurangabad, Nasik, Pune: clustered around historical/religious centres" },
-        { "icon": "💧", "text": "Desert villages in Rajasthan: clustered near wells and step-wells (baoli) — water determines clustering" },
-        { "icon": "⛏️", "text": "Nagpur mining settlements (Chandrapur coal mines): clustered due to industry and transport" }
+        {
+          "icon": "🕌",
+          "text": "Old city areas of Aurangabad, Nasik, Pune: clustered around historical/religious centres"
+        },
+        {
+          "icon": "💧",
+          "text": "Desert villages in Rajasthan: clustered near wells and step-wells (baoli) — water determines clustering"
+        },
+        {
+          "icon": "⛏️",
+          "text": "Nagpur mining settlements (Chandrapur coal mines): clustered due to industry and transport"
+        }
       ],
       "keyPoints": [
         "Houses close together around a central feature (water, market, temple, fort)",
@@ -180,9 +216,18 @@
       "content": "Linear settlements develop in a line along roads, railways, rivers, coasts, or at the foot of hills. Houses are arranged in a row on one or both sides of a line feature. Roads are parallel to the settlement line. As the settlement grows, multiple parallel lines of houses develop. Common along national/state highways, railway lines, coastal tracts, and major rivers. Shops and services develop along the road.",
       "pageReference": "65-66",
       "examples": [
-        { "icon": "🛣️", "text": "Mumbai-Pune Expressway: villages along old NH-4 (now NH-48) grew as linear settlements" },
-        { "icon": "🚂", "text": "Railway towns along Konkan Railway: Roha, Khed, Chiplun — all grew as linear settlements along the track" },
-        { "icon": "🌊", "text": "Konkan coastal villages: Alibag, Murud, Dapoli — houses in a line along the coastline" }
+        {
+          "icon": "🛣️",
+          "text": "Mumbai-Pune Expressway: villages along old NH-4 (now NH-48) grew as linear settlements"
+        },
+        {
+          "icon": "🚂",
+          "text": "Railway towns along Konkan Railway: Roha, Khed, Chiplun — all grew as linear settlements along the track"
+        },
+        {
+          "icon": "🌊",
+          "text": "Konkan coastal villages: Alibag, Murud, Dapoli — houses in a line along the coastline"
+        }
       ],
       "keyPoints": [
         "Houses in a line along road, railway, river, coast, or foothills",
@@ -207,7 +252,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Rural settlements develop where people can use local natural resources — mainly agriculture but also fishing (coastal hamlets), forestry (tribal hamlets). Primary occupations = directly using natural resources.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "62-63"
     },
     {
@@ -221,7 +268,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Rivers provided the perfect combination for settlement: water for drinking and irrigation, fertile alluvial soil deposited by floods for farming, and water transport for trade. This is why all ancient civilisations began along rivers.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "66"
     },
     {
@@ -235,7 +284,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Scattered settlements have few houses and small populations spread over large areas. It's not economically viable to set up a school, hospital, or market for just 10-15 families. They depend on the nearest large village for these services.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "65"
     },
     {
@@ -249,7 +300,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In deserts where water is scarce, the few reliable water sources (wells, step-wells, oases) become focal points for settlement. Everyone must live close to the water source — naturally creating a clustered/nucleated settlement pattern.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "65"
     },
     {
@@ -263,7 +316,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Linear settlements develop along transportation corridors (roads, railways). Towns grow on both sides of the road — shops, houses, and services all arranged in a line following the transport route.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "65-66"
     },
     {
@@ -277,7 +332,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "The transformation from rural to urban happens gradually as: more people arrive, secondary industries (manufacturing) develop, tertiary services (education, healthcare, trade, administration) expand, and the population grows significantly.",
-      "conceptIds": [1, 2],
+      "conceptIds": [
+        1,
+        2
+      ],
       "pageReference": "63"
     },
     {
@@ -291,16 +349,26 @@
       ],
       "correctAnswer": "A",
       "explanation": "A hamlet (pada, wadi, dhani) is a very small settlement of just a few houses with minimal facilities — people go to the village for most needs. A village is larger and has basic services (school, market, health post). Both are rural but differ in size and services.",
-      "conceptIds": [3, 4],
+      "conceptIds": [
+        3,
+        4
+      ],
       "pageReference": "63-65"
     },
     {
       "id": "q8",
       "question": "A village has grown due to religious and historical significance. Which category of factor does this belong to?",
-      "options": ["Cultural factors", "Physical factors", "Economic factors", "Natural factors"],
+      "options": [
+        "Cultural factors",
+        "Physical factors",
+        "Economic factors",
+        "Natural factors"
+      ],
       "correctAnswer": "A",
       "explanation": "The textbook classifies settlement location factors into Physical (terrain, water, soil, climate), Cultural (defense, health, education, tourism, historical significance, religion), and Economic (transport, industries, trade) factors. Religion and historical significance are Cultural factors.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "66"
     }
   ],
@@ -328,5 +396,129 @@
       "Nashik: grew because of Godavari River + Kumbh Mela pilgrimage centre = physical + cultural factors"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "drag-drop",
+    "title": "Sort the Features!",
+    "description": "Drag each item to its correct geographical category.",
+    "data": {
+      "items": [
+        "Village",
+        "Town",
+        "City",
+        "Metropolis",
+        "Hamlet",
+        "Suburb"
+      ],
+      "categories": [
+        "Rural Settlement",
+        "Urban Settlement",
+        "Semi-Urban"
+      ],
+      "answers": {
+        "Village": "Rural Settlement",
+        "Hamlet": "Rural Settlement",
+        "Town": "Semi-Urban",
+        "Suburb": "Semi-Urban",
+        "City": "Urban Settlement",
+        "Metropolis": "Urban Settlement"
+      }
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Human Settlements",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "The primary occupation in rural settlements is _____.",
+        "answer": "Rural settlements develop where people can use local natural resources — mainly agriculture but also fishing (coastal hamlets), forestry (tribal hamlets). Primary occupations = directly using natural resources.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why are ancient civilisations (Indus Valley, Nile, Mesopotamia) all located along rivers?",
+        "answer": "Rivers provided the perfect combination for settlement: water for drinking and irrigation, fertile alluvial soil deposited by floods for farming, and water transport for trade. This is why all ancient civilisations began along rivers.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In scattered settlements, why are services and facilities limited?",
+        "answer": "Scattered settlements have few houses and small populations spread over large areas. It's not economically viable to set up a school, hospital, or market for just 10-15 families. They depend on the nearest large village for these services.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why are nucleated settlements common in deserts like Rajasthan?",
+        "answer": "In deserts where water is scarce, the few reliable water sources (wells, step-wells, oases) become focal points for settlement. Everyone must live close to the water source — naturally creating a clustered/nucleated settlement pattern.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is a classic example of a linear settlement?",
+        "answer": "Linear settlements develop along transportation corridors (roads, railways). Towns grow on both sides of the road — shops, houses, and services all arranged in a line following the transport route.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "When does a rural settlement transform into an urban settlement?",
+        "answer": "The transformation from rural to urban happens gradually as: more people arrive, secondary industries (manufacturing) develop, tertiary services (education, healthcare, trade, administration) expand, and the population grows significantly.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the main difference between a village (nucleated) and a hamlet (scattered)?",
+        "answer": "A hamlet (pada, wadi, dhani) is a very small settlement of just a few houses with minimal facilities — people go to the village for most needs. A village is larger and has basic services (school, market, health post). Both are rural but differ in size and services.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A village has grown due to religious and historical significance. Which category of factor does this belong to?",
+        "answer": "The textbook classifies settlement location factors into Physical (terrain, water, soil, climate), Cultural (defense, health, education, tourism, historical significance, religion), and Economic (transport, industries, trade) factors. Religion and historical significance are Cultural factors.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Why are ancient civilisations (Indus Valley, Nile, Mesopotamia) all located along rivers?",
+        "modelAnswer": "Rivers provided the perfect combination for settlement: water for drinking and irrigation, fertile alluvial soil deposited by floods for farming, and water transport for trade. This is why all ancient civilisations began along rivers. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Rivers provided the perfect combination for settlement: water for drinking and irrigation, fertile alluvial soil deposited by floods for farming, and water transport for trade.",
+          "This is why all ancient civilisations began along rivers.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "In scattered settlements, why are services and facilities limited?",
+        "modelAnswer": "Scattered settlements have few houses and small populations spread over large areas. It's not economically viable to set up a school, hospital, or market for just 10-15 families. They depend on the nearest large village for these services. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Scattered settlements have few houses and small populations spread over large areas.",
+          "It's not economically viable to set up a school, hospital, or market for just 10-15 families.",
+          "They depend on the nearest large village for these services.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Why are nucleated settlements common in deserts like Rajasthan?",
+        "modelAnswer": "In deserts where water is scarce, the few reliable water sources (wells, step-wells, oases) become focal points for settlement. Everyone must live close to the water source — naturally creating a clustered/nucleated settlement pattern. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "In deserts where water is scarce, the few reliable water sources (wells, step-wells, oases) become focal points for settlement.",
+          "Everyone must live close to the water source — naturally creating a clustered/nucleated settlement pattern.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What is the main difference between a village (nucleated) and a hamlet (scattered)?",
+        "modelAnswer": "A hamlet (pada, wadi, dhani) is a very small settlement of just a few houses with minimal facilities — people go to the village for most needs. A village is larger and has basic services (school, market, health post). Both are rural but differ in size and services. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "A hamlet (pada, wadi, dhani) is a very small settlement of just a few houses with minimal facilities — people go to the village for most needs.",
+          "A village is larger and has basic services (school, market, health post).",
+          "Both are rural but differ in size and services.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

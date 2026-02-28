@@ -322,5 +322,133 @@
       "Gwalior fort, the seat of the Scindia house, is one of India's finest forts and a UNESCO heritage site."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Shivaji establishes Swaraj",
+          "year": "1646",
+          "fact": "Beginning of Maratha power in the Deccan"
+        },
+        {
+          "label": "Battle of Salher",
+          "year": "1672",
+          "fact": "Major Maratha victory against the Mughals"
+        },
+        {
+          "label": "Shivaji's Coronation",
+          "year": "1674",
+          "fact": "Shivaji crowned Chhatrapati at Raigad"
+        },
+        {
+          "label": "Sambhaji becomes king",
+          "year": "1680",
+          "fact": "Shivaji's son continued the struggle against the Mughals"
+        },
+        {
+          "label": "Peshwa Era begins",
+          "year": "1713",
+          "fact": "Balaji Vishwanath became the first powerful Peshwa"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Expansion of Maratha Power",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Under the Peshwa system, where did effective executive power shift to?",
+        "answer": "The Chhatrapati remained at Satara as the symbolic head of the Maratha state, but effective executive power shifted to the Peshwa at Pune. The Peshwa handled all military, financial, and diplomatic affairs.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is 'chauth'?",
+        "answer": "Chauth (meaning 'one-fourth') was a 25% tax on revenue that Marathas collected from territories they protected. It was a key source of revenue and a way to extend influence without direct administration.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Bajirao I's famous strategic principle was:",
+        "answer": "Bajirao I's strategic vision was to strike at the center of power (Delhi/Mughal heartland) rather than slowly conquering individual regions. He believed that if the center fell, the periphery would follow — like cutting the trunk of a tree makes all branches fall.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Battle of Bhopal in 1737 was fought between:",
+        "answer": "The Battle of Bhopal (1737) was a decisive Maratha victory over the Mughal army near Delhi. It showed that Maratha power had reached the Mughal heartland — a shocking development for the declining Mughal empire.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which Maratha house controlled Gwalior?",
+        "answer": "The Scindias (also written as Shinde) were the Maratha house that controlled Gwalior in northern India. They were one of the major houses in the Maratha confederacy.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How far north did Maratha power eventually reach?",
+        "answer": "At the peak of Maratha power, their forces reached Attock fort on the Indus River in Punjab (near present-day Pakistan). This represented the maximum northern expansion of Maratha power.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Balaji Vishwanath's greatest diplomatic achievement was:",
+        "answer": "Balaji Vishwanath negotiated the Treaty of 1719 with Mughal Emperor Farrukhsiyar — securing formal recognition of Shahu as Chhatrapati and Maratha rights to collect chauth from the Deccan. This was the diplomatic cornerstone of Maratha expansion.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following was a major weakness of the Maratha confederacy structure?",
+        "answer": "The decentralized Maratha confederacy allowed rapid expansion, but also created rivalry and coordination problems. The lack of unified command contributed significantly to the Maratha defeat at the Third Battle of Panipat in 1761.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What is 'chauth'?",
+        "modelAnswer": "Chauth (meaning 'one-fourth') was a 25% tax on revenue that Marathas collected from territories they protected. It was a key source of revenue and a way to extend influence without direct administration. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Chauth (meaning 'one-fourth') was a 25% tax on revenue that Marathas collected from territories they protected.",
+          "It was a key source of revenue and a way to extend influence without direct administration.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "How far north did Maratha power eventually reach?",
+        "modelAnswer": "At the peak of Maratha power, their forces reached Attock fort on the Indus River in Punjab (near present-day Pakistan). This represented the maximum northern expansion of Maratha power. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "At the peak of Maratha power, their forces reached Attock fort on the Indus River in Punjab (near present-day Pakistan).",
+          "This represented the maximum northern expansion of Maratha power.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Under the Peshwa system, where did effective executive power shift to?",
+        "modelAnswer": "The Chhatrapati remained at Satara as the symbolic head of the Maratha state, but effective executive power shifted to the Peshwa at Pune. The Peshwa handled all military, financial, and diplomatic affairs. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The Chhatrapati remained at Satara as the symbolic head of the Maratha state, but effective executive power shifted to the Peshwa at Pune.",
+          "The Peshwa handled all military, financial, and diplomatic affairs.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Bajirao I's famous strategic principle was:",
+        "modelAnswer": "Bajirao I's strategic vision was to strike at the center of power (Delhi/Mughal heartland) rather than slowly conquering individual regions. He believed that if the center fell, the periphery would follow — like cutting the trunk of a tree makes all branches fall. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Bajirao I's strategic vision was to strike at the center of power (Delhi/Mughal heartland) rather than slowly conquering individual regions.",
+          "He believed that if the center fell, the periphery would follow — like cutting the trunk of a tree makes all branches fall.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      }
+    ]
   }
 }

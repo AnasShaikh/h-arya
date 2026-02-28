@@ -327,5 +327,155 @@
       "Inter-faith harmony events and national integration programmes reflect Fraternity."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "match-pairs",
+    "title": "Match the Pairs!",
+    "description": "Match each constitutional term to its correct meaning.",
+    "data": {
+      "pairs": [
+        {
+          "term": "Constitution",
+          "match": "Supreme law of the land in India"
+        },
+        {
+          "term": "Preamble",
+          "match": "Introduction to the Constitution stating its goals"
+        },
+        {
+          "term": "Parliament",
+          "match": "Supreme law-making body of India"
+        },
+        {
+          "term": "Fundamental Rights",
+          "match": "Basic rights guaranteed to all citizens"
+        },
+        {
+          "term": "Directive Principles",
+          "match": "Guidelines for the government to follow"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Preamble of the Constitution",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "The Preamble of the Indian Constitution begins with which words?",
+        "answer": "The Preamble begins with 'We, the People of India' — showing that the Constitution derives its authority from the people of India.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'Sovereign' mean in the Preamble?",
+        "answer": "Sovereign means India is completely independent and makes its own decisions — it is not under the control of any foreign power.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which two words were added to the Preamble by the 42nd Amendment in 1976?",
+        "answer": "The words 'Socialist' and 'Secular' were added to the Preamble through the 42nd Amendment to the Constitution in 1976.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is NOT one of the types of Justice mentioned in the Preamble?",
+        "answer": "The Preamble mentions Social, Economic, and Political Justice. Criminal Justice is not mentioned in the Preamble.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'Republic' mean in the context of India?",
+        "answer": "Republic means the head of state (the President of India) is an elected person with a fixed term, not a hereditary ruler like a king.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'Fraternity' in the Preamble assure?",
+        "answer": "Fraternity assures two things: the dignity of the individual, and the unity and integrity of the Nation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many types of Liberty are mentioned in the Preamble?",
+        "answer": "The Preamble mentions five types of Liberty: liberty of thought, expression, belief, faith, and worship.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the significance of the Preamble starting with 'We, the People of India'?",
+        "answer": "Starting with 'We, the People of India' shows that the Constitution derives its ultimate authority from the people, reflecting the democratic nature of the country.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'Secular' mean in the context of the Indian Constitution?",
+        "answer": "Secular means the Indian state has no official religion and treats all religions equally. Citizens are free to follow any religion.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What does 'Sovereign' mean in the Preamble?",
+        "modelAnswer": "Sovereign means India is completely independent and makes its own decisions — it is not under the control of any foreign power. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What does 'Sovereign' mean in the Preamble?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What does 'Republic' mean in the context of India?",
+        "modelAnswer": "Republic means the head of state (the President of India) is an elected person with a fixed term, not a hereditary ruler like a king. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What does 'Republic' mean in the context of India?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What does 'Fraternity' in the Preamble assure?",
+        "modelAnswer": "Fraternity assures two things: the dignity of the individual, and the unity and integrity of the Nation. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What does 'Fraternity' in the Preamble assure?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "How many types of Liberty are mentioned in the Preamble?",
+        "modelAnswer": "The Preamble mentions five types of Liberty: liberty of thought, expression, belief, faith, and worship. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: How many types of Liberty are mentioned in the Preamble?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What is the significance of the Preamble starting with 'We, the People of India'?",
+        "modelAnswer": "Starting with 'We, the People of India' shows that the Constitution derives its ultimate authority from the people, reflecting the democratic nature of the country. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What is the significance of the Preamble starting with 'We, the People of India'?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What does 'Secular' mean in the context of the Indian Constitution?",
+        "modelAnswer": "Secular means the Indian state has no official religion and treats all religions equally. Citizens are free to follow any religion. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Secular means the Indian state has no official religion and treats all religions equally.",
+          "Citizens are free to follow any religion.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

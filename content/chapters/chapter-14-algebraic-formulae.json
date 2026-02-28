@@ -10,7 +10,12 @@
     {
       "id": "q1",
       "question": "(a + b)² = ?",
-      "options": ["a² + 2ab + b²", "a² + b²", "a² - 2ab + b²", "a² + ab + b²"],
+      "options": [
+        "a² + 2ab + b²",
+        "a² + b²",
+        "a² - 2ab + b²",
+        "a² + ab + b²"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
@@ -18,7 +23,12 @@
     {
       "id": "q2",
       "question": "Expand (5a + 6b)².",
-      "options": ["25a² + 60ab + 36b²", "25a² + 36b²", "25a² - 60ab + 36b²", "5a² + 6b²"],
+      "options": [
+        "25a² + 60ab + 36b²",
+        "25a² + 36b²",
+        "25a² - 60ab + 36b²",
+        "5a² + 6b²"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 1
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "What is (98)² using the formula?",
-      "options": ["9604", "9800", "9996", "9408"],
+      "options": [
+        "9604",
+        "9800",
+        "9996",
+        "9408"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 2
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "(a + b)(a - b) = ?",
-      "options": ["a² - b²", "a² + b²", "a² - 2ab + b²", "(a-b)²"],
+      "options": [
+        "a² - b²",
+        "a² + b²",
+        "a² - 2ab + b²",
+        "(a-b)²"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 3
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "Factorise: a² - 4b²",
-      "options": ["(a + 2b)(a - 2b)", "(a + 4b)(a - b)", "(a - 2b)²", "(a + b)(a - 4b)"],
+      "options": [
+        "(a + 2b)(a - 2b)",
+        "(a + 4b)(a - b)",
+        "(a - 2b)²",
+        "(a + b)(a - 4b)"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 4
@@ -59,10 +84,22 @@
       "content": "(a + b)² = a² + 2ab + b². Geometric proof: a square of side (a+b) divided into 4 rectangles gives areas a², ab, ab, b² summing to a²+2ab+b². Also verified algebraically: (a+b)(a+b) = a²+ab+ab+b² = a²+2ab+b².",
       "pageReference": "91",
       "examples": [
-        { "icon": "🔲", "text": "(2x+3y)² = (2x)²+2(2x)(3y)+(3y)² = 4x²+12xy+9y²" },
-        { "icon": "🔢", "text": "(51)² = (50+1)² = 2500+100+1 = 2601" },
-        { "icon": "📐", "text": "(a+b)²: square of side (a+b) has 4 parts: a², ab, ab, b²" },
-        { "icon": "✅", "text": "Verify: a=5, b=3: (5+3)²=64; 25+30+9=64 ✓" }
+        {
+          "icon": "🔲",
+          "text": "(2x+3y)² = (2x)²+2(2x)(3y)+(3y)² = 4x²+12xy+9y²"
+        },
+        {
+          "icon": "🔢",
+          "text": "(51)² = (50+1)² = 2500+100+1 = 2601"
+        },
+        {
+          "icon": "📐",
+          "text": "(a+b)²: square of side (a+b) has 4 parts: a², ab, ab, b²"
+        },
+        {
+          "icon": "✅",
+          "text": "Verify: a=5, b=3: (5+3)²=64; 25+30+9=64 ✓"
+        }
       ],
       "keyPoints": [
         "(a+b)² = a² + 2ab + b²",
@@ -84,10 +121,22 @@
       "content": "(a - b)² = a² - 2ab + b². Geometric proof: from a square of side a, subdivide to show the remaining area equals a²-2ab+b². Also algebraically: (a-b)(a-b) = a²-ab-ab+b² = a²-2ab+b².",
       "pageReference": "92",
       "examples": [
-        { "icon": "🔳", "text": "(5x-4)² = (5x)²-2(5x)(4)+4² = 25x²-40x+16" },
-        { "icon": "🔢", "text": "(98)² = (100-2)² = 10000-400+4 = 9604" },
-        { "icon": "📐", "text": "Square of side a: cut out b×b square, remaining = (a-b)²" },
-        { "icon": "✅", "text": "Verify: a=5, b=3: (5-3)²=4; 25-30+9=4 ✓" }
+        {
+          "icon": "🔳",
+          "text": "(5x-4)² = (5x)²-2(5x)(4)+4² = 25x²-40x+16"
+        },
+        {
+          "icon": "🔢",
+          "text": "(98)² = (100-2)² = 10000-400+4 = 9604"
+        },
+        {
+          "icon": "📐",
+          "text": "Square of side a: cut out b×b square, remaining = (a-b)²"
+        },
+        {
+          "icon": "✅",
+          "text": "Verify: a=5, b=3: (5-3)²=4; 25-30+9=4 ✓"
+        }
       ],
       "keyPoints": [
         "(a-b)² = a² - 2ab + b²",
@@ -109,10 +158,22 @@
       "content": "(a+b)(a-b) = a² - b². This is the 'difference of squares' formula. It arises because the middle terms cancel: a(a-b)+b(a-b) = a²-ab+ab-b² = a²-b². Very useful for fast multiplication of numbers symmetric around a round figure.",
       "pageReference": "93",
       "examples": [
-        { "icon": "🔀", "text": "(3x+4y)(3x-4y) = (3x)²-(4y)² = 9x²-16y²" },
-        { "icon": "🔢", "text": "102×98 = (100+2)(100-2) = 10000-4 = 9996" },
-        { "icon": "🔢", "text": "97×103 = (100-3)(100+3) = 10000-9 = 9991" },
-        { "icon": "📐", "text": "54×46 = (50+4)(50-4) = 2500-16 = 2484" }
+        {
+          "icon": "🔀",
+          "text": "(3x+4y)(3x-4y) = (3x)²-(4y)² = 9x²-16y²"
+        },
+        {
+          "icon": "🔢",
+          "text": "102×98 = (100+2)(100-2) = 10000-4 = 9996"
+        },
+        {
+          "icon": "🔢",
+          "text": "97×103 = (100-3)(100+3) = 10000-9 = 9991"
+        },
+        {
+          "icon": "📐",
+          "text": "54×46 = (50+4)(50-4) = 2500-16 = 2484"
+        }
       ],
       "keyPoints": [
         "(a+b)(a-b) = a² - b²",
@@ -134,10 +195,22 @@
       "content": "Factorising is the reverse of expanding. For a²-b², use (a+b)(a-b). For polynomials, first identify common factors, extract them, then apply difference of squares. Example: 3a²-27b² = 3(a²-9b²) = 3(a+3b)(a-3b).",
       "pageReference": "93-94",
       "examples": [
-        { "icon": "🔧", "text": "a²-4b² = a²-(2b)² = (a+2b)(a-2b)" },
-        { "icon": "🔧", "text": "3a²-27b² = 3(a²-9b²) = 3(a+3b)(a-3b)" },
-        { "icon": "🔧", "text": "9xy - 6x² = 3x(3y-2x)" },
-        { "icon": "🔧", "text": "4ab + 8xy = 4(ab+2xy)" }
+        {
+          "icon": "🔧",
+          "text": "a²-4b² = a²-(2b)² = (a+2b)(a-2b)"
+        },
+        {
+          "icon": "🔧",
+          "text": "3a²-27b² = 3(a²-9b²) = 3(a+3b)(a-3b)"
+        },
+        {
+          "icon": "🔧",
+          "text": "9xy - 6x² = 3x(3y-2x)"
+        },
+        {
+          "icon": "🔧",
+          "text": "4ab + 8xy = 4(ab+2xy)"
+        }
       ],
       "keyPoints": [
         "Factorising = reverse of expanding",
@@ -159,10 +232,22 @@
       "content": "The three formulae are powerful tools for mental arithmetic. (a+b)² for numbers just above round figures. (a-b)² for numbers just below. (a+b)(a-b) for symmetric pairs. Always identify 'a' (round number) and 'b' (difference).",
       "pageReference": "92-93",
       "examples": [
-        { "icon": "🧠", "text": "(997)² = (1000-3)² = 1000000-6000+9 = 994009" },
-        { "icon": "🧠", "text": "(102)² = (100+2)² = 10000+400+4 = 10404" },
-        { "icon": "🧠", "text": "502×498 = (500+2)(500-2) = 250000-4 = 249996" },
-        { "icon": "🧠", "text": "(1005)² = (1000+5)² = 1000000+10000+25 = 1010025" }
+        {
+          "icon": "🧠",
+          "text": "(997)² = (1000-3)² = 1000000-6000+9 = 994009"
+        },
+        {
+          "icon": "🧠",
+          "text": "(102)² = (100+2)² = 10000+400+4 = 10404"
+        },
+        {
+          "icon": "🧠",
+          "text": "502×498 = (500+2)(500-2) = 250000-4 = 249996"
+        },
+        {
+          "icon": "🧠",
+          "text": "(1005)² = (1000+5)² = 1000000+10000+25 = 1010025"
+        }
       ],
       "keyPoints": [
         "Choose the nearest round number as 'a'",
@@ -179,91 +264,165 @@
     {
       "id": "q1",
       "question": "Expand (5a + 6b)².",
-      "options": ["25a² + 60ab + 36b²", "25a² + 36b²", "25a² - 60ab + 36b²", "10a² + 12ab"],
+      "options": [
+        "25a² + 60ab + 36b²",
+        "25a² + 36b²",
+        "25a² - 60ab + 36b²",
+        "10a² + 12ab"
+      ],
       "correctAnswer": "A",
       "explanation": "(5a+6b)² = (5a)²+2(5a)(6b)+(6b)² = 25a²+60ab+36b²",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "92"
     },
     {
       "id": "q2",
       "question": "Expand (2p - 3q)².",
-      "options": ["4p² - 12pq + 9q²", "4p² + 9q²", "4p² + 12pq + 9q²", "2p² - 3q²"],
+      "options": [
+        "4p² - 12pq + 9q²",
+        "4p² + 9q²",
+        "4p² + 12pq + 9q²",
+        "2p² - 3q²"
+      ],
       "correctAnswer": "A",
       "explanation": "(2p-3q)² = (2p)²-2(2p)(3q)+(3q)² = 4p²-12pq+9q²",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "92"
     },
     {
       "id": "q3",
       "question": "Find (51)² using the formula.",
-      "options": ["2601", "2601", "2500", "2551"],
+      "options": [
+        "2601",
+        "2601",
+        "2500",
+        "2551"
+      ],
       "correctAnswer": "A",
       "explanation": "(50+1)² = 50²+2×50×1+1² = 2500+100+1 = 2601",
-      "conceptIds": [1, 5],
+      "conceptIds": [
+        1,
+        5
+      ],
       "pageReference": "92"
     },
     {
       "id": "q4",
       "question": "Find (98)² using the formula.",
-      "options": ["9604", "9800", "9996", "9408"],
+      "options": [
+        "9604",
+        "9800",
+        "9996",
+        "9408"
+      ],
       "correctAnswer": "A",
       "explanation": "(100-2)² = 100²-2×100×2+2² = 10000-400+4 = 9604",
-      "conceptIds": [2, 5],
+      "conceptIds": [
+        2,
+        5
+      ],
       "pageReference": "92"
     },
     {
       "id": "q5",
       "question": "(a + b)(a - b) = ?",
-      "options": ["a² - b²", "a² + b²", "(a-b)²", "a² - 2ab + b²"],
+      "options": [
+        "a² - b²",
+        "a² + b²",
+        "(a-b)²",
+        "a² - 2ab + b²"
+      ],
       "correctAnswer": "A",
       "explanation": "(a+b)(a-b) = a²-ab+ab-b² = a²-b². Middle terms cancel.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "93"
     },
     {
       "id": "q6",
       "question": "102 × 98 = ?",
-      "options": ["9996", "10000", "9800", "10196"],
+      "options": [
+        "9996",
+        "10000",
+        "9800",
+        "10196"
+      ],
       "correctAnswer": "A",
       "explanation": "102×98 = (100+2)(100-2) = 100²-2² = 10000-4 = 9996",
-      "conceptIds": [3, 5],
+      "conceptIds": [
+        3,
+        5
+      ],
       "pageReference": "93"
     },
     {
       "id": "q7",
       "question": "Factorise: a² - 4b²",
-      "options": ["(a+2b)(a-2b)", "(a+4b)(a-b)", "(a-2b)²", "(a+b)(a-4b)"],
+      "options": [
+        "(a+2b)(a-2b)",
+        "(a+4b)(a-b)",
+        "(a-2b)²",
+        "(a+b)(a-4b)"
+      ],
       "correctAnswer": "A",
       "explanation": "a²-4b² = a²-(2b)² = (a+2b)(a-2b) using a²-b²=(a+b)(a-b)",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "94"
     },
     {
       "id": "q8",
       "question": "m²n² + 14mnpq + 49p²q² is the expansion of _____.",
-      "options": ["(mn + 7pq)²", "(mn - 7pq)²", "(7mn + pq)²", "(mn + pq)²"],
+      "options": [
+        "(mn + 7pq)²",
+        "(mn - 7pq)²",
+        "(7mn + pq)²",
+        "(mn + pq)²"
+      ],
       "correctAnswer": "A",
       "explanation": "(mn+7pq)² = (mn)²+2(mn)(7pq)+(7pq)² = m²n²+14mnpq+49p²q²",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "92"
     },
     {
       "id": "q9",
       "question": "(997)² = ?",
-      "options": ["994009", "994000", "990000", "993009"],
+      "options": [
+        "994009",
+        "994000",
+        "990000",
+        "993009"
+      ],
       "correctAnswer": "A",
       "explanation": "(1000-3)² = 1000000-6000+9 = 994009",
-      "conceptIds": [2, 5],
+      "conceptIds": [
+        2,
+        5
+      ],
       "pageReference": "92"
     },
     {
       "id": "q10",
       "question": "Factorise: 3a² - 27b²",
-      "options": ["3(a+3b)(a-3b)", "3(a-3b)²", "(3a+27b)(a-b)", "3(a+b)(a-9b)"],
+      "options": [
+        "3(a+3b)(a-3b)",
+        "3(a-3b)²",
+        "(3a+27b)(a-b)",
+        "3(a+b)(a-9b)"
+      ],
       "correctAnswer": "A",
       "explanation": "3a²-27b² = 3(a²-9b²) = 3(a²-(3b)²) = 3(a+3b)(a-3b)",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "94"
     }
   ],
@@ -290,9 +449,140 @@
       "Area of square fields with algebraic dimensions"
     ],
     "formulas": [
-      { "formula": "(a+b)² = a² + 2ab + b²", "explanation": "Square of sum of two terms" },
-      { "formula": "(a-b)² = a² - 2ab + b²", "explanation": "Square of difference of two terms" },
-      { "formula": "(a+b)(a-b) = a² - b²", "explanation": "Product of sum and difference = difference of squares" }
+      {
+        "formula": "(a+b)² = a² + 2ab + b²",
+        "explanation": "Square of sum of two terms"
+      },
+      {
+        "formula": "(a-b)² = a² - 2ab + b²",
+        "explanation": "Square of difference of two terms"
+      },
+      {
+        "formula": "(a+b)(a-b) = a² - b²",
+        "explanation": "Product of sum and difference = difference of squares"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Arrange the pieces to form the correct mathematical expression.",
+    "data": {
+      "formula": "(a + b)² = a² + 2ab + b²",
+      "components": [
+        "(a + b)²",
+        "=",
+        "a²",
+        "+",
+        "2ab",
+        "+",
+        "b²"
+      ],
+      "explanation": "This is the algebraic identity for the square of a sum."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Algebraic Formulae - Expansion of Squares",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Expand (5a + 6b)².",
+        "answer": "(5a+6b)² = (5a)²+2(5a)(6b)+(6b)² = 25a²+60ab+36b²",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Expand (2p - 3q)².",
+        "answer": "(2p-3q)² = (2p)²-2(2p)(3q)+(3q)² = 4p²-12pq+9q²",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Find (51)² using the formula.",
+        "answer": "(50+1)² = 50²+2×50×1+1² = 2500+100+1 = 2601",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Find (98)² using the formula.",
+        "answer": "(100-2)² = 100²-2×100×2+2² = 10000-400+4 = 9604",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "(a + b)(a - b) = ?",
+        "answer": "(a+b)(a-b) = a²-ab+ab-b² = a²-b². Middle terms cancel.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "102 × 98 = ?",
+        "answer": "102×98 = (100+2)(100-2) = 100²-2² = 10000-4 = 9996",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Factorise: a² - 4b²",
+        "answer": "a²-4b² = a²-(2b)² = (a+2b)(a-2b) using a²-b²=(a+b)(a-b)",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "m²n² + 14mnpq + 49p²q² is the expansion of _____.",
+        "answer": "(mn+7pq)² = (mn)²+2(mn)(7pq)+(7pq)² = m²n²+14mnpq+49p²q²",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "(997)² = ?",
+        "answer": "(1000-3)² = 1000000-6000+9 = 994009",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Factorise: 3a² - 27b²",
+        "answer": "3a²-27b² = 3(a²-9b²) = 3(a²-(3b)²) = 3(a+3b)(a-3b)",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "question": "Explain geometrically how the formula for the expansion of (x + y)² is derived.",
+        "answer": "The formula for (x + y)² can be derived by considering a square with side length (x + y). The total area of this large square is calculated as (x + y)². This square can be divided into four smaller regions: a square of area x², a square of area y², and two rectangles each having an area of xy. By summing the areas of these four distinct regions, we get the total area of the large square. This gives the expanded form x² + xy + xy + y², which simplifies to x² + 2xy + y².",
+        "keyPoints": [
+          "Consider a square with a total side length of (x + y).",
+          "The total area of the square is (x + y)².",
+          "Divide the large square into two smaller squares and two rectangles.",
+          "Summing the areas of these parts gives x² + xy + xy + y².",
+          "Simplify to obtain the final formula x² + 2xy + y²."
+        ]
+      },
+      {
+        "question": "Show the algebraic derivation for the expansion of the square of a binomial (x + y)².",
+        "answer": "The expansion of (x + y)² is obtained by multiplying the binomial by itself algebraically. By applying the distributive property, we multiply each term in the first binomial by each term in the second binomial. This step-by-step multiplication results in the expression x(x + y) + y(x + y). Expanding further, we get x² + xy + yx + y². Finally, by combining the identical like terms xy and yx, we arrive at the standard formula x² + 2xy + y².",
+        "keyPoints": [
+          "(x + y)² represents the product of (x + y) and (x + y).",
+          "Use the distributive property to multiply the terms: x(x + y) + y(x + y).",
+          "The expansion results in x² + xy + yx + y².",
+          "Combine the like terms (xy and yx) to complete the derivation.",
+          "The final algebraic formula is x² + 2xy + y²."
+        ]
+      },
+      {
+        "question": "Describe the geometric method used to find the expansion formula for (a - b)².",
+        "answer": "To find the expansion of (a - b)² geometrically, we start with a large square of side 'a', which has a total area of a². This square is partitioned into four parts: a square of side (a - b), a square of side 'b', and two rectangles with sides (a - b) and 'b'. The area of the large square equals the sum of the areas of these four individual parts. By setting up the equation a² = (a - b)² + b(a - b) + b(a - b) + b² and rearranging the terms, we can isolate (a - b)². This simplification leads directly to the formula a² - 2ab + b².",
+        "keyPoints": [
+          "Begin with a large square of side 'a' and total area a².",
+          "Partition it into a square of (a - b), a square of 'b', and two rectangles of (a - b) by 'b'.",
+          "Set the total area a² equal to the sum of the areas of the four parts.",
+          "Simplify the resulting equation to solve for the area (a - b)².",
+          "The final geometric derivation yields (a - b)² = a² - 2ab + b²."
+        ]
+      },
+      {
+        "question": "How is the algebraic formula for (a - b)² derived through multiplication?",
+        "answer": "The algebraic derivation of the formula (a - b)² involves multiplying the binomial (a - b) by itself. Using the distributive property of multiplication over subtraction, we write the product (a - b) × (a - b) as a(a - b) - b(a - b). Expanding this expression by multiplying the terms inside the parentheses yields a² - ab - ab + b². By carefully combining the similar middle terms -ab and -ab, we obtain the final expanded algebraic form of the square, which is a² - 2ab + b².",
+        "keyPoints": [
+          "Express (a - b)² as the algebraic product (a - b)(a - b).",
+          "Apply the distributive property to get a(a - b) - b(a - b).",
+          "Expand the expression to form a² - ab - ba + b².",
+          "Combine the identical negative terms -ab and -ba.",
+          "The simplified final result is a² - 2ab + b²."
+        ]
+      }
     ]
   }
 }

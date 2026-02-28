@@ -4,81 +4,636 @@
     "chapterNumber": 6,
     "title": "Measurement of Physical Quantities",
     "subject": "Science",
-    "pages": "41-45",
-    "description": "Mass, Weight, Scalars, Vectors, and the International System of Units."
+    "pages": "52-62",
+    "description": "This chapter covers the need for measurement, systems of units (CGS and SI/MKS), and how to measure fundamental physical quantities like length, mass, time, and temperature."
   },
   "preAssessment": [
     {
-      "id": "q1",
-      "question": "A quantity expressed by magnitude alone is called:",
-      "options": ["Scalar", "Vector", "Distance", "Weight"],
-      "correctAnswer": "A",
-      "difficulty": "easy"
+      "id": "pa1",
+      "question": "What is the SI unit for length?",
+      "options": [
+        "Kilogram",
+        "Second",
+        "Meter",
+        "Ampere"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 2
     },
     {
-      "id": "q2",
-      "question": "The SI unit of mass is:",
-      "options": ["Gram", "Kilogram", "Newton", "Pound"],
+      "id": "pa2",
+      "question": "Which instrument is used to measure time?",
+      "options": [
+        "Ruler",
+        "Beaker",
+        "Clock",
+        "Thermometer"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "pa3",
+      "question": "What does 'CGS' stand for?",
+      "options": [
+        "Centimeter, Gram, Second",
+        "Celsius, Gallon, Second",
+        "Count, Group, Sequence",
+        "Custom, Global, Standard"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "pa4",
+      "question": "Which SI unit is used for temperature?",
+      "options": [
+        "Celsius",
+        "Fahrenheit",
+        "Kelvin",
+        "Joule"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "pa5",
+      "question": "Why do we need standard units of measurement?",
+      "options": [
+        "To make things complicated",
+        "To ensure consistency and accuracy in communication",
+        "Because scientists enjoy rules",
+        "To use more instruments"
+      ],
       "correctAnswer": "B",
-      "difficulty": "medium"
+      "difficulty": "easy",
+      "conceptId": 1
     }
   ],
   "concepts": [
     {
       "id": 1,
-      "title": "Mass and Weight",
-      "emoji": "⚖️",
-      "colorTheme": "from-indigo-500 to-blue-600",
-      "bgColor": "bg-indigo-50",
-      "borderColor": "border-indigo-300",
-      "content": "Mass is the amount of matter in a substance; it is a scalar quantity and remains constant everywhere. Weight is the gravitational force by which the earth attracts an object; it is a vector quantity and changes depending on location (e.g., poles vs. equator).",
-      "imageUrl": "https://images.unsplash.com/photo-1594473859544-706f85108f97?auto=format&fit=crop&q=80&w=1000",
-      "pageReference": "41",
+      "title": "Need for Measurement",
+      "emoji": "📏",
+      "colorTheme": "from-blue-500 to-indigo-600",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Measurement is the process of comparing an unknown quantity with a known standard quantity. Without standard measurements, communication about quantities would be impossible. Imagine buying cloth without a fixed metre or paying for milk without a standard litre!",
+      "pageReference": "52-54",
       "examples": [
-        { "icon": "📦", "text": "Measuring grains in kg (Mass)" },
-        { "icon": "🛰️", "text": "Weight decreasing at high altitude" },
-        { "icon": "📉", "text": "Weight is minimum at the equator" }
+        {
+          "id": "ex1",
+          "text": "A doctor prescribes 500mg of medicine — needs standard measurement"
+        },
+        {
+          "id": "ex2",
+          "text": "An architect designs a building using metres and centimetres"
+        },
+        {
+          "id": "ex3",
+          "text": "A farmer sells 5 kg of onions — both buyer and seller agree on kg"
+        }
       ],
       "keyPoints": [
-        "Inertia is directly proportional to mass",
-        "Gravitational force acts on mass to create weight",
-        "Weight is measured in Newtons (N)"
+        {
+          "id": "kp1",
+          "text": "Measurement requires a quantity, a unit, and a measuring instrument"
+        },
+        {
+          "id": "kp2",
+          "text": "Without standard units, confusion and errors arise"
+        },
+        {
+          "id": "kp3",
+          "text": "Science depends on accurate, repeatable measurements"
+        }
       ],
-      "funFact": "The gravitational force on the moon is 1/6th of that on earth, so your weight on the moon would be significantly less, but your mass stays exactly the same!",
-      "textbookRef": "Page 41: Mass and Weight"
+      "funFact": "In ancient times, body parts were used as units! An 'inch' was the width of a thumb, and a 'foot' was literally the length of a foot — but everyone's foot is different!",
+      "textbookRef": "Pages 52-54"
     },
     {
       "id": 2,
-      "title": "Scalar and Vector Quantities",
-      "emoji": "📏",
-      "colorTheme": "from-teal-400 to-green-500",
-      "bgColor": "bg-teal-50",
-      "borderColor": "border-teal-300",
-      "content": "Scalar quantities only have magnitude (e.g., length, area, temperature). Vector quantities have both magnitude and direction (e.g., displacement, velocity, force). The International System of Units (SI) is based on seven fundamental quantities.",
-      "imageUrl": "https://images.unsplash.com/photo-1502945015378-0e28404a5da4?auto=format&fit=crop&q=80&w=1000",
-      "videoUrl": "https://www.youtube.com/embed/fW_0N_S7bLw",
-      "pageReference": "41-42",
+      "title": "SI Units (International System)",
+      "emoji": "🌍",
+      "colorTheme": "from-green-500 to-teal-600",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The SI (Système International d'Unités) is the modern form of the metric system, accepted worldwide. It has 7 base units: metre (length), kilogram (mass), second (time), Kelvin (temperature), ampere (electric current), mole (amount), and candela (light intensity).",
+      "pageReference": "54-57",
       "examples": [
-        { "icon": "🧭", "text": "Displacement: 20 km North" },
-        { "icon": "🌡️", "text": "Temperature: 101° Fahrenheit" },
-        { "icon": "🕒", "text": "Time: 2 hours (Scalar)" }
+        {
+          "id": "ex1",
+          "text": "Length: metre (m) — a doorway is about 2 metres tall"
+        },
+        {
+          "id": "ex2",
+          "text": "Mass: kilogram (kg) — a bag of rice is usually 5 kg"
+        },
+        {
+          "id": "ex3",
+          "text": "Time: second (s) — your heartbeat is about 1 beat per second"
+        }
       ],
       "keyPoints": [
-        "SI units are used worldwide",
-        "Length (Metre), Time (Second), Mass (Kilogram) are fundamental",
-        "Accuracy in measurement is vital for science"
+        {
+          "id": "kp1",
+          "text": "SI has 7 base units from which all other units are derived"
+        },
+        {
+          "id": "kp2",
+          "text": "Kelvin (K) is the SI unit for temperature (0 K = absolute zero = -273°C)"
+        },
+        {
+          "id": "kp3",
+          "text": "SI is used universally in science and most countries"
+        }
       ],
-      "funFact": "In 1799, the first standard meter and kilogram were created in France, made of platinum, to ensure measurements were identical across the country!",
-      "textbookRef": "Page 41: Physical Quantities"
+      "funFact": "The kilogram was defined by a platinum-iridium cylinder kept in France until 2019! Now it's defined by a universal physical constant — the Planck constant.",
+      "textbookRef": "Pages 54-57"
+    },
+    {
+      "id": 3,
+      "title": "CGS vs MKS Systems",
+      "emoji": "⚖️",
+      "colorTheme": "from-purple-500 to-violet-600",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The CGS system uses Centimeter, Gram, and Second as base units. The MKS system uses Meter, Kilogram, and Second. The SI system is based on MKS and is the internationally accepted standard. CGS is still used in some fields like electromagnetism.",
+      "pageReference": "57-59",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "CGS: A book weighs 400 grams | MKS: 0.4 kilograms"
+        },
+        {
+          "id": "ex2",
+          "text": "CGS: A ruler is 30 centimetres | MKS: 0.3 metres"
+        },
+        {
+          "id": "ex3",
+          "text": "Both systems: time is measured in seconds"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "CGS: Centimeter (cm), Gram (g), Second (s)"
+        },
+        {
+          "id": "kp2",
+          "text": "MKS/SI: Metre (m), Kilogram (kg), Second (s)"
+        },
+        {
+          "id": "kp3",
+          "text": "SI is MKS extended with 4 more base units"
+        }
+      ],
+      "funFact": "The USA is one of only 3 countries in the world that hasn't officially adopted SI units — they still use feet, pounds, and Fahrenheit in daily life!",
+      "textbookRef": "Pages 57-59"
+    },
+    {
+      "id": 4,
+      "title": "Measuring Length, Mass and Time",
+      "emoji": "🔬",
+      "colorTheme": "from-orange-500 to-amber-600",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-400",
+      "content": "Length is measured using rulers, metre tapes, or vernier calipers. Mass is measured using a balance or weighing scale. Time is measured using clocks, stopwatches, or pendulums. Each requires the correct instrument and unit for accuracy.",
+      "pageReference": "59-61",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "A doctor uses a measuring tape to measure height in cm/m"
+        },
+        {
+          "id": "ex2",
+          "text": "A grocer uses a digital scale to measure mass in grams/kilograms"
+        },
+        {
+          "id": "ex3",
+          "text": "A sports coach uses a stopwatch to measure time in seconds"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Always use the appropriate instrument for the quantity being measured"
+        },
+        {
+          "id": "kp2",
+          "text": "Record measurements with units — '5' is meaningless, '5 kg' is precise"
+        },
+        {
+          "id": "kp3",
+          "text": "Errors can occur due to faulty instruments or incorrect reading"
+        }
+      ],
+      "funFact": "The most precise clock in the world (atomic clock) loses only 1 second every 300 million years — it uses the vibration of caesium atoms!",
+      "textbookRef": "Pages 59-61"
+    },
+    {
+      "id": 5,
+      "title": "Measuring Temperature",
+      "emoji": "🌡️",
+      "colorTheme": "from-red-500 to-pink-600",
+      "bgColor": "bg-red-50",
+      "borderColor": "border-red-300",
+      "content": "Temperature is a measure of hotness or coldness. It is measured using a thermometer. The SI unit is Kelvin (K), but Celsius (°C) is commonly used. The normal human body temperature is 37°C (98.6°F) or 310 K.",
+      "pageReference": "61-62",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Clinical thermometer measures body temperature (35–42°C range)"
+        },
+        {
+          "id": "ex2",
+          "text": "Laboratory thermometer measures temperatures of liquids in experiments"
+        },
+        {
+          "id": "ex3",
+          "text": "Digital thermometers are more accurate than mercury thermometers"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Kelvin = Celsius + 273 (0°C = 273 K)"
+        },
+        {
+          "id": "kp2",
+          "text": "Absolute zero (0 K = -273°C) is the lowest possible temperature"
+        },
+        {
+          "id": "kp3",
+          "text": "Mercury thermometers use expansion of mercury; digital ones use electronic sensors"
+        }
+      ],
+      "funFact": "The surface of the Sun is about 5,500°C (5,773 K) — but the outer corona can reach over 1,000,000°C! Scientists still don't fully understand why.",
+      "textbookRef": "Pages 61-62"
     }
   ],
   "test": [
     {
       "id": "t1",
-      "question": "Which of these is a vector quantity?",
-      "options": ["Mass", "Velocity", "Temperature", "Density"],
+      "question": "Which of the following is NOT a base SI unit?",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Newton",
+        "Second"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Newton is a derived unit (kg·m/s²). The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "54-57"
+    },
+    {
+      "id": "t2",
+      "question": "What does MKS stand for?",
+      "options": [
+        "Mass, Kinetic, Speed",
+        "Metre, Kilogram, Second",
+        "Milli, Kilo, Standard",
+        "Measurement, Knowledge, Science"
+      ],
       "correctAnswer": "B",
-      "difficulty": "medium"
+      "explanation": "MKS stands for Metre, Kilogram, Second — the three base units of the MKS system.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "57-59"
+    },
+    {
+      "id": "t3",
+      "question": "The unit of mass in the CGS system is:",
+      "options": [
+        "Kilogram",
+        "Metre",
+        "Gram",
+        "Second"
+      ],
+      "correctAnswer": "C",
+      "explanation": "In the CGS system, mass is measured in grams (g), not kilograms.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "57-59"
+    },
+    {
+      "id": "t4",
+      "question": "Normal human body temperature in Celsius is:",
+      "options": [
+        "32°C",
+        "37°C",
+        "42°C",
+        "100°C"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Normal human body temperature is 37°C (98.6°F or 310 K).",
+      "conceptIds": [
+        5
+      ],
+      "pageReference": "61-62"
+    },
+    {
+      "id": "t5",
+      "question": "Which instrument measures mass accurately?",
+      "options": [
+        "Thermometer",
+        "Stopwatch",
+        "Weighing balance",
+        "Ruler"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A weighing balance or scale is used to measure mass in grams or kilograms.",
+      "conceptIds": [
+        4
+      ],
+      "pageReference": "59-61"
+    },
+    {
+      "id": "t6",
+      "question": "What is 0°C in Kelvin?",
+      "options": [
+        "0 K",
+        "100 K",
+        "273 K",
+        "373 K"
+      ],
+      "correctAnswer": "C",
+      "explanation": "To convert Celsius to Kelvin: K = °C + 273. So 0°C = 273 K.",
+      "conceptIds": [
+        5
+      ],
+      "pageReference": "61-62"
+    },
+    {
+      "id": "t7",
+      "question": "Why are standard units of measurement important?",
+      "options": [
+        "They make science harder",
+        "They ensure consistency and avoid confusion",
+        "They are only used in laboratories",
+        "They were invented to confuse students"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Standard units ensure that measurements are consistent, comparable, and universally understood.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "52-54"
+    },
+    {
+      "id": "t8",
+      "question": "Which of the following correctly converts units?",
+      "options": [
+        "1 metre = 10 centimetres",
+        "1 kilogram = 100 grams",
+        "1 kilometre = 1000 metres",
+        "1 second = 100 milliseconds"
+      ],
+      "correctAnswer": "C",
+      "explanation": "1 kilometre = 1000 metres. (1m = 100cm, 1kg = 1000g, 1s = 1000ms)",
+      "conceptIds": [
+        2,
+        3
+      ],
+      "pageReference": "54-59"
     }
-  ]
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Need for standard measurement",
+      "SI base units",
+      "CGS vs MKS systems",
+      "Measuring length, mass, time",
+      "Temperature scales and conversion"
+    ],
+    "commonMisconceptions": [
+      "Kelvin and Celsius are the same — Kelvin = Celsius + 273",
+      "CGS and SI are the same — CGS uses gram/centimetre, SI uses kg/metre",
+      "Temperature is the same as heat — heat is energy, temperature is a measure of hotness"
+    ],
+    "realWorldExamples": [
+      "Doctor prescribing medicine in mg",
+      "Buying vegetables in kg at market",
+      "Cricket scorecard tracking time and distance",
+      "Weather forecast in Celsius",
+      "Body temperature with clinical thermometer"
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Speed Formula!",
+    "description": "Drag the components into the correct order to form the formula for speed.",
+    "data": {
+      "formula": "Speed = Distance / Time",
+      "components": [
+        "Speed",
+        "=",
+        "Distance",
+        "/",
+        "Time"
+      ],
+      "explanation": "Speed is a derived unit. In SI, it is measured in metres per second (m/s). It equals Distance divided by Time."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Measurement of Physical Quantities",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "give_reasons",
+        "question": "Write answers to the following\nquestions in your own words.\n(a) Why is the weight of the same\nobject different on different planets ?\n(b) What precautions will you take to\nmake accurate measurements in\nday-to-day affairs ?\n(c) What is the difference between mass\nand weight ?",
+        "subQuestions": [
+          "Why is the weight of the same\nobject different on different planets ?",
+          "What precautions will you take to\nmake accurate measurements in\nday-to-day affairs ?",
+          "What is the difference between mass\nand weight ?"
+        ]
+      },
+      {
+        "number": 4,
+        "type": "give_reasons",
+        "question": "Explain, giving examples, the errors\nthat\noccur\nwhile\nmaking\nmeasurements.",
+        "subQuestions": []
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Who is my companion ?\nGroup ‘A’\nGroup ‘B’\n(1) Velocity\n(a) litre\n(2) Area\n(b) kilogram\n(3) Volume\n(c) metre/second\n(4) Mass\n(d) kilogram/cubic metre\n(5) Density\n(e) square metre",
+        "subQuestions": [
+          "litre\n(2) Area",
+          "kilogram\n(3) Volume",
+          "metre/second\n(4) Mass",
+          "kilogram/cubic metre\n(5) Density",
+          "square metre"
+        ]
+      },
+      {
+        "number": 6,
+        "type": "give_reasons",
+        "question": "Explain the need for accurate\nmeasurement and the devices to be\nused for that.",
+        "subQuestions": []
+      },
+      {
+        "number": 3,
+        "type": "give_reasons",
+        "question": "Explain giving examples.\n(a) Scalar quantity\n(b) Vector quantity",
+        "subQuestions": [
+          "Scalar quantity",
+          "Vector quantity"
+        ]
+      },
+      {
+        "number": 5,
+        "type": "give_reasons",
+        "question": "Give reasons.\n(a) It is not proper to measure quantities\nby using body parts as units.\n(b) It is necessary to get the weights\nand measures standardized at regular\nintervals.",
+        "subQuestions": [
+          "It is not proper to measure quantities\nby using body parts as units.",
+          "It is necessary to get the weights\nand measures standardized at regular\nintervals."
+        ]
+      }
+    ],
+    "rawText": "1. Write answers to the following\nquestions in your own words.\n(a) Why is the weight of the same\nobject different on different planets ?\n(b) What precautions will you take to\nmake accurate measurements in\nday-to-day affairs ?\n(c) What is the difference between mass\nand weight ?\n4. Explain, giving examples, the errors\nthat\noccur\nwhile\nmaking\nmeasurements.\n2. Who is my companion ?\nGroup ‘A’\nGroup ‘B’\n(1) Velocity\n(a) litre\n(2) Area\n(b) kilogram\n(3) Volume\n(c) metre/second\n(4) Mass\n(d) kilogram/cubic metre\n(5) Density\n(e) square metre\n6. Explain the need for accurate\nmeasurement and the devices to be\nused for that.\n3. Explain giving examples.\n(a) Scalar quantity\n(b) Vector quantity\n5. Give reasons.\n(a) It is not proper to measure quantities\nby using body parts as units.\n(b) It is necessary to get the weights\nand measures standardized at regular\nintervals.",
+    "qaCards": [
+      {
+        "question": "Which of the following is NOT a base SI unit?",
+        "answer": "Newton is a derived unit (kg·m/s²). The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does MKS stand for?",
+        "answer": "MKS stands for Metre, Kilogram, Second — the three base units of the MKS system.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The unit of mass in the CGS system is:",
+        "answer": "In the CGS system, mass is measured in grams (g), not kilograms.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Normal human body temperature in Celsius is:",
+        "answer": "Normal human body temperature is 37°C (98.6°F or 310 K).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which instrument measures mass accurately?",
+        "answer": "A weighing balance or scale is used to measure mass in grams or kilograms.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is 0°C in Kelvin?",
+        "answer": "To convert Celsius to Kelvin: K = °C + 273. So 0°C = 273 K.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why are standard units of measurement important?",
+        "answer": "Standard units ensure that measurements are consistent, comparable, and universally understood.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following correctly converts units?",
+        "answer": "1 kilometre = 1000 metres. (1m = 100cm, 1kg = 1000g, 1s = 1000ms)",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Write answers to the following\nquestions in your own words.\n(a) Why is the weight of the same\nobject different on different planets ?\n(b) What precautions will you take to\nmake accurate measurements in\nday-to-day affairs ?\n(c) What is the difference between mass\nand weight ?",
+        "modelAnswer": "Write answers to the following questions in your own words. (a) Why is the weight of the same object different on different planets ? (b) What precautions will you take to make accurate measurements in day-to-day affairs ? (c) What is the difference between mass and weight ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Write answers to the following questions in your own words.",
+          "(a) Why is the weight of the same object different on different planets ?",
+          "(b) What precautions will you take to make accurate measurements in day-to-day affairs ?",
+          "(c) What is the difference between mass and weight ?"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Why is the weight of the same\nobject different on different planets ?",
+        "modelAnswer": "Newton is a derived unit (kg·m/s²). The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Newton is a derived unit (kg·m/s²).",
+          "The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What precautions will you take to\nmake accurate measurements in\nday-to-day affairs ?",
+        "modelAnswer": "What precautions will you take to make accurate measurements in day-to-day affairs ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "What precautions will you take to make accurate measurements in day-to-day affairs ?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What is the difference between mass\nand weight ?",
+        "modelAnswer": "In the CGS system, mass is measured in grams (g), not kilograms. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What is the difference between mass\nand weight ?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Explain, giving examples, the errors\nthat\noccur\nwhile\nmaking\nmeasurements.",
+        "modelAnswer": "Explain, giving examples, the errors that occur while making measurements. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Explain, giving examples, the errors that occur while making measurements.",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Who is my companion ?\nGroup ‘A’\nGroup ‘B’\n(1) Velocity\n(a) litre\n(2) Area\n(b) kilogram\n(3) Volume\n(c) metre/second\n(4) Mass\n(d) kilogram/cubic metre\n(5) Density\n(e) square metre",
+        "modelAnswer": "Who is my companion ? Group ‘A’ Group ‘B’ (1) Velocity (a) litre (2) Area (b) kilogram (3) Volume (c) metre/second (4) Mass (d) kilogram/cubic metre (5) Density (e) square metre This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Who is my companion ?",
+          "Group ‘A’ Group ‘B’ (1) Velocity (a) litre (2) Area (b) kilogram (3) Volume (c) metre/second (4) Mass (d) kilogram/cubic metre (5) Density (e) square metre This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "litre\n(2) Area",
+        "modelAnswer": "litre (2) Area This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: litre\n(2) Area",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "kilogram\n(3) Volume",
+        "modelAnswer": "kilogram (3) Volume This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: kilogram\n(3) Volume",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      }
+    ]
+  }
 }

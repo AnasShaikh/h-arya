@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { useParams, useRouter, useSearchParams } from 'next/navigation';
-import Link from 'next/link';
+import InteractiveElement from '../../../components/InteractiveElement';
 
 // Map questions to concepts they test
 const QUESTION_TO_CONCEPT_MAP: Record<string, number> = {
@@ -92,6 +92,7 @@ export default function Revision() {
   const [conceptsToReview, setConceptsToReview] = useState<number[]>([]);
   const [currentConcept, setCurrentConcept] = useState(0);
   const [isPerfectScore, setIsPerfectScore] = useState(false);
+  const [interactiveElement, setInteractiveElement] = useState<any>(null);
 
   useEffect(() => {
     const userId = sessionStorage.getItem('userId');
@@ -123,7 +124,22 @@ export default function Revision() {
       // Default: show all
       setConceptsToReview([1, 2, 3, 4, 5]);
     }
-  }, [router, searchParams]);
+
+    const fetchInteractiveElement = async () => {
+      try {
+        const res = await fetch(`/api/content/${params.id}`);
+        if (!res.ok) return;
+        const data = await res.json();
+        if (data?.interactiveElement) {
+          setInteractiveElement(data.interactiveElement);
+        }
+      } catch (error) {
+        console.error('Failed to load interactive element:', error);
+      }
+    };
+
+    fetchInteractiveElement();
+  }, [router, searchParams, params.id]);
 
   const handleNext = () => {
     if (currentConcept < conceptsToReview.length - 1) {
@@ -164,9 +180,23 @@ export default function Revision() {
     }
   };
 
+  const handleInteractiveComplete = async () => {
+    const userId = sessionStorage.getItem('userId');
+    if (!userId) return;
+
+    await fetch(`/api/chapter/${params.id}/progress`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        userId: parseInt(userId || '0'),
+        stageCompleted: 6,
+      })
+    });
+  };
+
   if (conceptsToReview.length === 0) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
+      <div className="min-h-screen bg-gradient-to-br from-violet-50 to-indigo-50 flex items-center justify-center">
         <div className="text-center">
           <p className="text-gray-800">Loading revision...</p>
         </div>
@@ -181,15 +211,14 @@ export default function Revision() {
   if (!concept) return null;
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
+    <div className="min-h-screen bg-gradient-to-br from-violet-50 to-indigo-50 p-4">
       <div className="max-w-3xl mx-auto py-8">
-        {/* Header */}
-        <div className="bg-white rounded-2xl shadow-xl p-8 mb-6">
-          <div className="flex items-center justify-between mb-4">
+        <div className="bg-white rounded-3xl shadow-xl border border-violet-100 p-8 mb-6">
+          <div className="flex items-center justify-between mb-4 gap-4">
             <h1 className="text-2xl font-bold text-gray-900">
               {isPerfectScore ? '🌟 Chapter Summary' : '📝 Revision - Learn from Mistakes'}
             </h1>
-            <span className="px-3 py-1 bg-purple-100 text-purple-800 text-sm rounded-full font-semibold">
+            <span className="px-3 py-1 bg-amber-100 text-amber-700 text-sm rounded-full font-semibold">
               Stage 5 of 5
             </span>
           </div>
@@ -201,28 +230,25 @@ export default function Revision() {
             }
           </p>
 
-          {/* Progress */}
-          <div className="mb-4">
+          <div className="mb-2">
             <div className="flex justify-between items-center mb-2">
               <span className="text-sm font-medium text-gray-900">
                 Concept {currentConcept + 1} of {conceptsToReview.length}
               </span>
-              <span className="text-sm font-semibold text-purple-600">
+              <span className="text-sm font-semibold text-violet-600">
                 {Math.round(progress)}%
               </span>
             </div>
-            <div className="w-full bg-gray-200 rounded-full h-2">
+            <div className="w-full bg-violet-100 rounded-full h-2.5">
               <div
-                className="bg-purple-600 h-2 rounded-full transition-all duration-500"
+                className="bg-violet-600 h-2.5 rounded-full transition-all duration-500"
                 style={{ width: `${progress}%` }}
               ></div>
             </div>
           </div>
         </div>
 
-        {/* Concept Review */}
-        <div className="bg-white rounded-2xl shadow-xl overflow-hidden">
-          {/* Header */}
+        <div className="bg-white rounded-3xl shadow-xl border border-violet-100 overflow-hidden">
           <div className={`bg-gradient-to-r ${concept.color} p-6`}>
             <div className="flex items-center">
               <span className="text-6xl mr-4">{concept.emoji}</span>
@@ -233,9 +259,8 @@ export default function Revision() {
           </div>
 
           <div className="p-8">
-            {/* Summary */}
-            <div className="bg-purple-50 rounded-lg p-6 mb-6 border-2 border-purple-300">
-              <h3 className="text-lg font-bold text-purple-900 mb-3">
+            <div className="bg-violet-50 rounded-2xl p-6 mb-6 border border-violet-200">
+              <h3 className="text-lg font-bold text-violet-900 mb-3">
                 📖 Key Concept:
               </h3>
               <p className="text-gray-900 text-lg leading-relaxed">
@@ -243,8 +268,7 @@ export default function Revision() {
               </p>
             </div>
 
-            {/* Key Points */}
-            <div className="bg-yellow-50 rounded-lg p-6 border-2 border-yellow-300">
+            <div className="bg-green-50 rounded-2xl p-6 border border-green-300">
               <h3 className="text-lg font-bold text-gray-900 mb-4">
                 ✨ Remember These Points:
               </h3>
@@ -257,15 +281,21 @@ export default function Revision() {
                 ))}
               </ul>
             </div>
+
+            {interactiveElement && (
+              <div className="mt-6">
+                <h3 className="text-lg font-bold text-gray-900 mb-3">🎯 Interactive Practice</h3>
+                <InteractiveElement element={interactiveElement} onComplete={handleInteractiveComplete} />
+              </div>
+            )}
           </div>
 
-          {/* Navigation */}
           <div className="p-6">
-            <div className="flex justify-between items-center pt-6 border-t border-gray-200">
+            <div className="flex justify-between items-center pt-6 border-t border-violet-100">
               <button
                 onClick={handlePrevious}
                 disabled={currentConcept === 0}
-                className="px-6 py-3 rounded-lg border-2 border-gray-300 text-gray-700 hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition font-semibold"
+                className="px-6 py-3 rounded-2xl border border-violet-200 text-violet-700 hover:bg-violet-50 disabled:opacity-50 disabled:cursor-not-allowed transition font-semibold"
               >
                 ← Previous
               </button>
@@ -273,10 +303,10 @@ export default function Revision() {
               {currentConcept === conceptsToReview.length - 1 ? (
                 <button
                   onClick={handleComplete}
-                  className={`px-6 py-3 rounded-lg text-white font-semibold transition ${
+                  className={`px-6 py-3 rounded-2xl text-white font-semibold transition ${
                     isPerfectScore 
-                      ? 'bg-green-600 hover:bg-green-700' 
-                      : 'bg-purple-600 hover:bg-purple-700'
+                      ? 'bg-violet-600 hover:bg-violet-700' 
+                      : 'bg-violet-600 hover:bg-violet-700'
                   }`}
                 >
                   {isPerfectScore ? '✅ Complete Chapter!' : '🔄 Retake Test'}
@@ -284,7 +314,7 @@ export default function Revision() {
               ) : (
                 <button
                   onClick={handleNext}
-                  className="px-6 py-3 rounded-lg bg-purple-600 text-white hover:bg-purple-700 transition font-semibold"
+                  className="px-6 py-3 rounded-2xl bg-violet-600 text-white hover:bg-violet-700 transition font-semibold"
                 >
                   Next Concept →
                 </button>
@@ -293,7 +323,6 @@ export default function Revision() {
           </div>
         </div>
 
-        {/* Progress Dots */}
         <div className="mt-6 text-center">
           <div className="flex items-center justify-center space-x-2">
             {conceptsToReview.map((_, index) => (
@@ -301,10 +330,10 @@ export default function Revision() {
                 key={index}
                 className={`h-2 w-12 rounded-full transition-all ${
                   index === currentConcept
-                    ? 'bg-purple-600'
+                    ? 'bg-violet-600'
                     : index < currentConcept
                     ? 'bg-green-500'
-                    : 'bg-gray-300'
+                    : 'bg-violet-200'
                 }`}
               ></div>
             ))}

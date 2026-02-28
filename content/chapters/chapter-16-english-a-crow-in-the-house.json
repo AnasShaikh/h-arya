@@ -10,7 +10,12 @@
     {
       "id": "pre_16_1",
       "question": "Who wrote the story 'A Crow in the House'?",
-      "options": ["A) Rabindranath Tagore", "B) Ruskin Bond", "C) R.K. Narayan", "D) Vikram Seth"],
+      "options": [
+        "A) Rabindranath Tagore",
+        "B) Ruskin Bond",
+        "C) R.K. Narayan",
+        "D) Vikram Seth"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_16_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_16_2",
       "question": "What was the young crow named?",
-      "options": ["A) Brutus", "B) Julius", "C) Caesar", "D) Nero"],
+      "options": [
+        "A) Brutus",
+        "B) Julius",
+        "C) Caesar",
+        "D) Nero"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_16_1"
@@ -26,7 +36,12 @@
     {
       "id": "pre_16_3",
       "question": "What did Caesar collect and hide on top of the cupboard?",
-      "options": ["A) Coins", "B) Buttons", "C) Pens", "D) Toothbrushes"],
+      "options": [
+        "A) Coins",
+        "B) Buttons",
+        "C) Pens",
+        "D) Toothbrushes"
+      ],
       "correctAnswer": "D",
       "difficulty": "medium",
       "conceptId": "concept_16_3"
@@ -34,7 +49,12 @@
     {
       "id": "pre_16_4",
       "question": "In 'I am hungry', what is the Subject Complement?",
-      "options": ["A) I", "B) am", "C) hungry", "D) There is no subject complement"],
+      "options": [
+        "A) I",
+        "B) am",
+        "C) hungry",
+        "D) There is no subject complement"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_16_5"
@@ -42,7 +62,12 @@
     {
       "id": "pre_16_5",
       "question": "What did the Grandfather use to help feed the baby crow?",
-      "options": ["A) Tea and biscuits", "B) Milk and honey", "C) Bread and milk and Grandmother's plum wine", "D) Rice and fish"],
+      "options": [
+        "A) Tea and biscuits",
+        "B) Milk and honey",
+        "C) Bread and milk and Grandmother's plum wine",
+        "D) Rice and fish"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_16_1"
@@ -174,7 +199,12 @@
     {
       "id": "test_16_1",
       "question": "Who wrote 'A Crow in the House'?",
-      "options": ["A) Vikram Seth", "B) R.K. Narayan", "C) Ruskin Bond", "D) Khushwant Singh"],
+      "options": [
+        "A) Vikram Seth",
+        "B) R.K. Narayan",
+        "C) Ruskin Bond",
+        "D) Khushwant Singh"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "Ruskin Bond is the author of 'A Crow in the House'. He is one of India's most loved English writers, famous for his stories about nature, animals, and the Himalayan region."
@@ -182,7 +212,12 @@
     {
       "id": "test_16_2",
       "question": "What was the young crow named?",
-      "options": ["A) Brutus", "B) Caesar", "C) Marcus", "D) Apollo"],
+      "options": [
+        "A) Brutus",
+        "B) Caesar",
+        "C) Marcus",
+        "D) Apollo"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "The young crow was named Caesar — a humorous and grand name for a small crow, named after the famous Roman ruler Julius Caesar."
@@ -190,7 +225,12 @@
     {
       "id": "test_16_3",
       "question": "What did Caesar learn to say?",
-      "options": ["A) 'Good morning' and 'Goodbye'", "B) 'Hello hello' and 'Kiss Kiss'", "C) 'Pretty bird' and 'Thank you'", "D) 'Caesar' and 'Help'"],
+      "options": [
+        "A) 'Good morning' and 'Goodbye'",
+        "B) 'Hello hello' and 'Kiss Kiss'",
+        "C) 'Pretty bird' and 'Thank you'",
+        "D) 'Caesar' and 'Help'"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "Caesar learned to say 'Hello hello' and 'Kiss Kiss', showing how intelligent crows are and how they can mimic human speech."
@@ -198,7 +238,12 @@
     {
       "id": "test_16_4",
       "question": "Where did Caesar hide his collection of stolen toothbrushes?",
-      "options": ["A) Under the bed", "B) In the garden", "C) On top of the cupboard", "D) In the narrator's bag"],
+      "options": [
+        "A) Under the bed",
+        "B) In the garden",
+        "C) On top of the cupboard",
+        "D) In the narrator's bag"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Caesar hid all the stolen toothbrushes on top of a cupboard — his private treasure collection. He stole toothbrushes from the neighbours' bathrooms and balconies."
@@ -206,7 +251,12 @@
     {
       "id": "test_16_5",
       "question": "What caused Caesar's death?",
-      "options": ["A) He fell from a tall tree", "B) He was hit by a car", "C) His leg was broken by a stick while breaking beans in a neighbour's garden", "D) He ate something poisonous"],
+      "options": [
+        "A) He fell from a tall tree",
+        "B) He was hit by a car",
+        "C) His leg was broken by a stick while breaking beans in a neighbour's garden",
+        "D) He ate something poisonous"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Caesar was breaking beans in a neighbour's garden when the neighbour hit him with a stick, breaking his leg. Despite the family's care, he did not recover and died."
@@ -214,7 +264,12 @@
     {
       "id": "test_16_6",
       "question": "In 'My sister became a teacher', what is the Subject Complement?",
-      "options": ["A) My sister", "B) became", "C) a teacher", "D) There is none"],
+      "options": [
+        "A) My sister",
+        "B) became",
+        "C) a teacher",
+        "D) There is none"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "'A teacher' is the Subject Complement. It comes after the linking verb 'became' and identifies what the subject (my sister) became."
@@ -222,7 +277,12 @@
     {
       "id": "test_16_7",
       "question": "In 'The class made her the monitor', what is the Object Complement?",
-      "options": ["A) The class", "B) made", "C) her", "D) the monitor"],
+      "options": [
+        "A) The class",
+        "B) made",
+        "C) her",
+        "D) the monitor"
+      ],
       "correctAnswer": "D",
       "difficulty": "hard",
       "explanation": "'The monitor' is the Object Complement. It describes or identifies the direct object 'her' — it tells us what 'her' became or was made into."
@@ -230,7 +290,12 @@
     {
       "id": "test_16_8",
       "question": "What did Caesar do with matchboxes?",
-      "options": ["A) He set fire to them", "B) He collected them", "C) He emptied them by pulling out all the matchsticks", "D) He used them as toys"],
+      "options": [
+        "A) He set fire to them",
+        "B) He collected them",
+        "C) He emptied them by pulling out all the matchsticks",
+        "D) He used them as toys"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Caesar loved to empty matchboxes — he would pull out all the matchsticks from the boxes and scatter them around, creating a mess."
@@ -238,7 +303,12 @@
     {
       "id": "test_16_9",
       "question": "What was Caesar buried with when he died?",
-      "options": ["A) His favourite food", "B) His stolen toothbrush collection", "C) A newspaper", "D) The dog's toy"],
+      "options": [
+        "A) His favourite food",
+        "B) His stolen toothbrush collection",
+        "C) A newspaper",
+        "D) The dog's toy"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "Caesar was buried with his beloved collection of stolen toothbrushes — showing how much the family respected and loved him as a true member of their family."
@@ -246,7 +316,12 @@
     {
       "id": "test_16_10",
       "question": "Which linking verb is used in 'She looks tired'?",
-      "options": ["A) She", "B) looks", "C) tired", "D) None of these"],
+      "options": [
+        "A) She",
+        "B) looks",
+        "C) tired",
+        "D) None of these"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "'Looks' is the linking verb in this sentence. 'Tired' is the Subject Complement — it describes the subject 'she' by coming after the linking verb 'looks'."
@@ -276,5 +351,178 @@
       "Naming a pet after a historical figure (like Caesar) is a common and fun Indian tradition — many pets are named after famous people."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "A Crow in the House",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who wrote 'A Crow in the House'?",
+        "answer": "Ruskin Bond is the author of 'A Crow in the House'. He is one of India's most loved English writers, famous for his stories about nature, animals, and the Himalayan region.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was the young crow named?",
+        "answer": "The young crow was named Caesar — a humorous and grand name for a small crow, named after the famous Roman ruler Julius Caesar.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did Caesar learn to say?",
+        "answer": "Caesar learned to say 'Hello hello' and 'Kiss Kiss', showing how intelligent crows are and how they can mimic human speech.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Where did Caesar hide his collection of stolen toothbrushes?",
+        "answer": "Caesar hid all the stolen toothbrushes on top of a cupboard — his private treasure collection. He stole toothbrushes from the neighbours' bathrooms and balconies.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What caused Caesar's death?",
+        "answer": "Caesar was breaking beans in a neighbour's garden when the neighbour hit him with a stick, breaking his leg. Despite the family's care, he did not recover and died.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'My sister became a teacher', what is the Subject Complement?",
+        "answer": "'A teacher' is the Subject Complement. It comes after the linking verb 'became' and identifies what the subject (my sister) became.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'The class made her the monitor', what is the Object Complement?",
+        "answer": "'The monitor' is the Object Complement. It describes or identifies the direct object 'her' — it tells us what 'her' became or was made into.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did Caesar do with matchboxes?",
+        "answer": "Caesar loved to empty matchboxes — he would pull out all the matchsticks from the boxes and scatter them around, creating a mess.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was Caesar buried with when he died?",
+        "answer": "Caesar was buried with his beloved collection of stolen toothbrushes — showing how much the family respected and loved him as a true member of their family.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which linking verb is used in 'She looks tired'?",
+        "answer": "'Looks' is the linking verb in this sentence. 'Tired' is the Subject Complement — it describes the subject 'she' by coming after the linking verb 'looks'.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Did the author's Grandfather like animals? How do we know that? Give examples from the story.",
+        "modelAnswer": "Yes, the author's Grandfather definitely liked animals, as he kept several pets at home. We know this because when the narrator brought the injured young crow home, Grandfather actively helped him do his best to revive it. He patiently assisted in feeding the bird by gently opening its beak and giving it bread and milk. Additionally, the story mentions that Grandfather already had other pets in the house, such as dogs and a hornbill named Harold, which proves his immense fondness for animals.",
+        "keyPoints": [
+          "Grandfather had a great love for animals and kept several pets.",
+          "He actively helped the narrator revive the injured young crow.",
+          "He patiently fed the bird bread and milk by gently opening its beak.",
+          "The presence of other pets like dogs and a hornbill shows his fondness for animals."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "Using your imagination, write how the other pets in the house could have objected to Caesar living in their house.",
+        "modelAnswer": "The other pets in the house probably felt extremely annoyed and jealous of Caesar's disruptive presence. The dogs might have barked and growled at him in frustration because he constantly tugged at their tails. Harold the Hornbill would have felt threatened and angry when Caesar perched on top of his cage and pecked at his feet. The pets might have felt that their peaceful lives were ruined by this new, mischievous bird who received a lot of attention despite his bad behaviour.",
+        "keyPoints": [
+          "The pets were likely annoyed and jealous of Caesar's disruptive behaviour.",
+          "The dogs would have barked and growled when Caesar tugged at their tails.",
+          "Harold the Hornbill felt threatened and angry when Caesar pecked at his feet.",
+          "They probably felt their peaceful home life was ruined by the mischievous newcomer."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "Describe Caesar's pranks at home and outside.",
+        "modelAnswer": "At home, Caesar was a constant troublemaker who danced on the dining table, emptied matchboxes, and ripped daily newspapers into shreds. He also enjoyed overturning flower vases and mischievously tugging at the tails of the household dogs. Outside the house, his pranks extended to visiting neighbouring houses and stealing various small items like pens, pencils, and hair-ribbons. He was especially fond of toothbrushes, snatching them from neighbours and hiding them on top of a cupboard to build his own collection.",
+        "keyPoints": [
+          "Inside the house, Caesar danced on tables, emptied matchboxes, and tore up newspapers.",
+          "He annoyed the pets by tugging at the dogs' tails and teasing the hornbill.",
+          "Outside, he visited neighbours to steal pens, pencils, and hair-ribbons.",
+          "He had a special fondness for stealing toothbrushes and hoarding them on top of a cupboard."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "What is meant by 'Aunt Mabel never was a success with the pets'? Can you think of the reasons why it was so?",
+        "modelAnswer": "The phrase means that Aunt Mabel could not get along well with the animals in the house, and they often caused her trouble. This is evident when Caesar knocked off her gleaming spectacles with his beak when she leaned forward for a kiss. The pets probably sensed that she was not very comfortable or genuinely fond of them. Her nervous or unnatural behaviour around animals might have made them act mischievously towards her.",
+        "keyPoints": [
+          "It means Aunt Mabel did not get along well with the pets, and they often troubled her.",
+          "Caesar knocked off her spectacles when she tried to interact with him.",
+          "Animals can often sense when a person is uncomfortable or nervous around them.",
+          "Her unnatural or anxious behaviour likely triggered the pets' mischievous actions."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What actions of the author show that he loved Caesar?",
+        "modelAnswer": "The author's love for Caesar is evident from the very beginning when he rescued the injured crow from the road and patiently nursed him back to health. Even when Caesar became a nuisance by destroying things and stealing from neighbours, the author tolerated his behaviour and did not lock him in a cage. When Caesar's leg was broken by a neighbour, the author gently carried him home, washed his leg, and bandaged it carefully. After Caesar passed away, the author lovingly dug a grave in the garden and buried him along with his prized collection of stolen items.",
+        "keyPoints": [
+          "The author rescued the injured crow and nursed him back to health.",
+          "He tolerated Caesar's mischievous behaviour and allowed him freedom in the house.",
+          "When Caesar was hurt, the author washed and bandaged his broken leg.",
+          "He dug a grave in the garden and buried Caesar with his favourite stolen objects."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Relate the life-story of Caesar in a proper sequence.",
+        "modelAnswer": "The story begins when a young, injured crow is saved by the narrator and brought home to be nursed back to health. The crow is named Caesar and, refusing to be caged, he begins to upset things at home with his mischievous pranks. Over time, Caesar's activities extend outside, and he begins to trouble neighbours by stealing their belongings, especially toothbrushes. His anti-social behaviour leads to his downfall when a neighbour flings a stick at him, breaking his leg. Despite the family's best efforts to save him, Caesar passes away and is buried with his treasured collection.",
+        "keyPoints": [
+          "The narrator saved an injured young crow and named him Caesar.",
+          "Caesar refused to be caged and started causing mischief inside the house.",
+          "He soon began troubling the neighbours by stealing small objects like toothbrushes.",
+          "A neighbour hit him with a stick, leading to his death and burial in the garden."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "What is implied by the sentence: 'Most of the neighbours were represented in our house by a toothbrush.'?",
+        "modelAnswer": "This sentence humorously implies that Caesar had stolen a toothbrush from almost every neighbour living around them. Instead of the neighbours themselves being present, their stolen toothbrushes were found hidden in the narrator's house. It highlights the extent of Caesar's thievery and his strange obsession with collecting toothbrushes. The phrasing shows the narrator's amusement at the absurd collection the crow had managed to build.",
+        "keyPoints": [
+          "It means Caesar had stolen at least one toothbrush from almost every neighbour.",
+          "The stolen toothbrushes were hidden on top of a cupboard in the narrator's house.",
+          "It emphasizes the impressive scale of Caesar's mischievous thievery.",
+          "The sentence reflects the narrator's humorous perspective on the crow's strange habit."
+        ],
+        "marks": 4
+      }
+    ]
   }
 }

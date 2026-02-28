@@ -5,56 +5,538 @@
     "title": "Plants: Structure and Function",
     "subject": "Science",
     "pages": "10-15",
-    "description": "The structure and functions of root, stem, leaf, flower, and fruit."
+    "description": "This chapter details the primary parts of a plant—root, stem, and leaf—and explores their specific structures and vital functions, which work together to help the plant survive and grow."
   },
   "preAssessment": [
     {
-      "id": "q1",
-      "question": "Which part of the plant grows towards the water?",
-      "options": ["Stem", "Root", "Leaf", "Flower"],
-      "correctAnswer": "B",
-      "difficulty": "easy"
+      "id": "pa1",
+      "question": "Which part of the plant is primarily responsible for absorbing water and minerals?",
+      "options": [
+        "Leaf",
+        "Stem",
+        "Root",
+        "Flower"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 1
     },
     {
-      "id": "q2",
-      "question": "The broad, spread-out part of the leaf is called the:",
-      "options": ["Petiole", "Lamina", "Stipule", "Midrib"],
+      "id": "pa2",
+      "question": "Photosynthesis mainly occurs in which part of the plant?",
+      "options": [
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Fruit"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "pa3",
+      "question": "What is the main function of the stem?",
+      "options": [
+        "To absorb sunlight",
+        "To support the plant and transport water",
+        "To produce seeds",
+        "To store food only"
+      ],
       "correctAnswer": "B",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "pa4",
+      "question": "A carrot is a modified version of which plant part?",
+      "options": [
+        "Stem",
+        "Leaf",
+        "Fruit",
+        "Root"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "pa5",
+      "question": "The small pores on the surface of a leaf are called:",
+      "options": [
+        "Veins",
+        "Stomata",
+        "Chlorophyll",
+        "Cuticle"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "conceptId": 3
     }
   ],
   "concepts": [
     {
       "id": 1,
-      "title": "Structure of a Root",
-      "emoji": "🥕",
-      "colorTheme": "from-orange-500 to-amber-600",
-      "bgColor": "bg-orange-50",
-      "borderColor": "border-orange-300",
-      "content": "The part of the plant that grows from the seed into the soil is the root. The radical grows into the root. Roots have root hairs to absorb water and a root cap to protect the tip as it pushes through the soil.",
-      "imageUrl": "https://images.unsplash.com/photo-1599342502660-8f244583b271?auto=format&fit=crop&q=80&w=1000",
+      "title": "The Root",
+      "emoji": "🌱",
+      "colorTheme": "from-amber-600 to-yellow-700",
+      "bgColor": "bg-amber-50",
+      "borderColor": "border-amber-300",
+      "content": "The root is the part of the plant that typically grows underground. Its main functions are to anchor the plant in the soil, absorb water and essential mineral nutrients, and in some cases, store food.",
       "pageReference": "10-11",
       "examples": [
-        { "icon": "🌳", "text": "Taproot: Hibiscus, Banyan" },
-        { "icon": "🌾", "text": "Fibrous roots: Grass, Onion" },
-        { "icon": "🌽", "text": "Adventitious roots: Maize, Sugarcane" }
+        {
+          "id": "ex1",
+          "text": "Taproots, like in a carrot or radish, have one main thick root with smaller branches and are excellent for food storage."
+        },
+        {
+          "id": "ex2",
+          "text": "Fibrous roots, found in grass and onion, are a dense network of thin roots that are great for preventing soil erosion."
+        },
+        {
+          "id": "ex3",
+          "text": "Prop roots of a Banyan tree grow down from branches to provide extra support."
+        }
       ],
       "keyPoints": [
-        "Roots provide support and absorb water/minerals",
-        "The root cap protects the delicate growing tip",
-        "Roots like carrot and radish also store food"
+        {
+          "id": "kp1",
+          "text": "The root cap protects the growing tip of the root."
+        },
+        {
+          "id": "kp2",
+          "text": "Root hairs vastly increase the surface area for water absorption."
+        },
+        {
+          "id": "kp3",
+          "text": "There are two main types: Taproot system and Fibrous root system."
+        }
       ],
-      "funFact": "Banyan trees have 'prop roots' that grow from branches into the ground to support their massive weight!",
-      "textbookRef": "Page 10: Root"
+      "funFact": "Some orchids have aerial roots that never touch the soil and absorb moisture directly from the air!",
+      "textbookRef": "Page 10"
+    },
+    {
+      "id": 2,
+      "title": "The Stem",
+      "emoji": "🌳",
+      "colorTheme": "from-lime-600 to-green-700",
+      "bgColor": "bg-lime-50",
+      "borderColor": "border-lime-300",
+      "content": "The stem is the main axis of the plant that grows above the ground. It supports the leaves, flowers, and fruits, positioning them to get sunlight. It also functions as a transport system, carrying water and nutrients from the roots to the leaves, and food from the leaves to other parts.",
+      "pageReference": "12-13",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Nodes are the points on the stem where leaves arise."
+        },
+        {
+          "id": "ex2",
+          "text": "The potato is a modified underground stem (tuber) that stores starch."
+        },
+        {
+          "id": "ex3",
+          "text": "The stem of a watermelon plant is a creeper that runs along the ground."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "The stem consists of nodes and internodes."
+        },
+        {
+          "id": "kp2",
+          "text": "It contains xylem and phloem tissues for transport."
+        },
+        {
+          "id": "kp3",
+          "text": "Stems can be modified for food storage, support (tendrils), or protection (thorns)."
+        }
+      ],
+      "funFact": "The trunk of a giant sequoia tree is a massive stem that can be over 30 feet in diameter!",
+      "textbookRef": "Page 12"
+    },
+    {
+      "id": 3,
+      "title": "The Leaf",
+      "emoji": "🍁",
+      "colorTheme": "from-teal-500 to-cyan-600",
+      "bgColor": "bg-teal-50",
+      "borderColor": "border-teal-300",
+      "content": "The leaf is a flattened, green part of the plant that is attached to the stem. It is the primary site of photosynthesis, the process by which plants use sunlight, water, and carbon dioxide to create their own food (glucose).",
+      "pageReference": "13-14",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "A simple leaf has a single, undivided leaf blade (e.g., mango leaf)."
+        },
+        {
+          "id": "ex2",
+          "text": "A compound leaf has a blade divided into multiple leaflets (e.g., neem leaf)."
+        },
+        {
+          "id": "ex3",
+          "text": "The arrangement of veins on a leaf is called venation (reticulate or parallel)."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "The green color comes from a pigment called chlorophyll."
+        },
+        {
+          "id": "kp2",
+          "text": "Stomata are tiny pores, usually on the underside of leaves, for gas exchange (CO2 in, O2 out)."
+        },
+        {
+          "id": "kp3",
+          "text": "Transpiration, the loss of water vapor, also occurs through stomata."
+        }
+      ],
+      "funFact": "The Venus flytrap has modified leaves that snap shut to catch and digest insects, providing it with extra nutrients!",
+      "textbookRef": "Page 13"
     }
   ],
   "test": [
     {
       "id": "t1",
-      "question": "Which part of the flower attracts insects for pollination?",
-      "options": ["Sepals", "Petals", "Stamen", "Carpel"],
+      "question": "What is the name for the arrangement of veins in a leaf?",
+      "options": [
+        "Arrangement",
+        "Venation",
+        "Taxonomy",
+        "Photosynthesis"
+      ],
       "correctAnswer": "B",
+      "explanation": "Venation refers to the pattern of veins in the blade of a leaf.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t2",
+      "question": "A potato is an example of a modified:",
+      "options": [
+        "Root",
+        "Leaf",
+        "Stem",
+        "Flower"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A potato is a tuber, which is a swollen underground stem modified for storing starch.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t3",
+      "question": "Which type of root system is best at preventing soil erosion?",
+      "options": [
+        "Taproot",
+        "Prop root",
+        "Adventitious root",
+        "Fibrous root"
+      ],
+      "correctAnswer": "D",
+      "explanation": "The dense, web-like structure of fibrous roots holds soil particles together effectively, preventing erosion.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t4",
+      "question": "What is the function of the root cap?",
+      "options": [
+        "To absorb water",
+        "To store food",
+        "To protect the growing root tip",
+        "To produce root hairs"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The root cap is a tough layer of cells that protects the delicate meristematic tissue as the root pushes through the soil.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t5",
+      "question": "The process of losing water vapor through the stomata of leaves is called:",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Absorption"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Transpiration is the evaporation of water from the plant's surfaces, primarily the leaves.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t6",
+      "question": "Which tissues in the stem are responsible for transporting water and food?",
+      "options": [
+        "Stomata and Guard cells",
+        "Xylem and Phloem",
+        "Nodes and Internodes",
+        "Cuticle and Epidermis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Xylem transports water and minerals up from the roots, while phloem transports sugars (food) from the leaves to other parts of the plant.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "t7",
+      "question": "Onions and grass have which type of root system?",
+      "options": [
+        "Taproot",
+        "Fibrous",
+        "Prop roots",
+        "Aerial roots"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Both onions and grasses have a fibrous root system, characterized by a mass of similarly sized roots.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t8",
+      "question": "The 'kitchen' of the plant, where food is made, is the:",
+      "options": [
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Leaves are where photosynthesis happens, which is the process of making food for the plant.",
+      "conceptIds": [
+        3
+      ],
       "difficulty": "easy"
     }
-  ]
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Root System (Taproot, Fibrous)",
+      "Stem Functions (Support, Transport)",
+      "Leaf Structure (Photosynthesis, Stomata)"
+    ],
+    "commonMisconceptions": [
+      "All roots grow underground.",
+      "A potato is a root.",
+      "Plants breathe in the same way animals do."
+    ],
+    "realWorldExamples": [
+      "Comparing the roots of a weed (fibrous) and a dandelion (taproot).",
+      "Noticing how a houseplant's stem bends towards the light.",
+      "Looking at the different shapes and vein patterns on leaves from different trees."
+    ]
+  },
+  "interactiveElement": {
+    "type": "label-diagram",
+    "title": "Label the Diagram!",
+    "description": "Tap on each blank label to reveal the correct name.",
+    "data": {
+      "image": "Cross-section of a plant cell showing organelles",
+      "labels": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 20,
+          "answer": "Cell Wall",
+          "hint": "Outermost rigid layer"
+        },
+        {
+          "id": 2,
+          "x": 50,
+          "y": 40,
+          "answer": "Cell Membrane",
+          "hint": "Thin flexible layer inside cell wall"
+        },
+        {
+          "id": 3,
+          "x": 50,
+          "y": 60,
+          "answer": "Chloroplast",
+          "hint": "Green organelle for photosynthesis"
+        },
+        {
+          "id": 4,
+          "x": 75,
+          "y": 50,
+          "answer": "Nucleus",
+          "hint": "Control centre of the cell"
+        },
+        {
+          "id": 5,
+          "x": 25,
+          "y": 70,
+          "answer": "Vacuole",
+          "hint": "Large storage compartment"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Plants: Structure and Function",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "short_answer",
+        "question": "Give examples of 3 plants that have :\n(a) spiny fruits\n(b) spiny stem\n(c) red flowers\n(d) yellow flowers\n(e) leaves which close at night\n(f) single-seeded fruits\n(g) many-seeded fruits",
+        "subQuestions": [
+          "spiny fruits",
+          "spiny stem",
+          "red flowers",
+          "yellow flowers",
+          "leaves which close at night",
+          "single-seeded fruits",
+          "many-seeded fruits"
+        ]
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Observe any one flower and its various\nparts and describe it in your own\nwords.",
+        "subQuestions": []
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "What are the similarities and differences\nbetween ?\n(a) jowar and moong\n(b) onion and coriander\n(c) leaves of banana and mango\n(d) coconut tree and jowar stalk plant",
+        "subQuestions": [
+          "jowar and moong",
+          "onion and coriander",
+          "leaves of banana and mango",
+          "coconut tree and jowar stalk plant"
+        ]
+      },
+      {
+        "number": 4,
+        "type": "give_reasons",
+        "question": "Explain the following images in your\nown words.\nA.\nB.\n15",
+        "subQuestions": []
+      },
+      {
+        "number": 5,
+        "type": "short_answer",
+        "question": "Describe the functions of various parts\nof a plant.",
+        "subQuestions": []
+      },
+      {
+        "number": 6,
+        "type": "short_answer",
+        "question": "Certain properties are mentioned below. Find a leaf corresponding to each\nproperty and describe those plants.\nleaves with smooth surface, leaves with\nrough surface, fleshy leaf, spines on leaf.",
+        "subQuestions": []
+      },
+      {
+        "number": 7,
+        "type": "short_answer",
+        "question": "Find the plant parts.\nr\no\no\nt\nc\na\np\nr\nb\nw\nl\na\nn\nv\ne\no\nu\np\nl\no\ne\no\nt\no\nd\ny\nd\ni\nt\nv\na\nt\nx\ne\nn\nl\na\nu\nl\nh\ns\nt\ne\nm\nl\nm\ns\na\nr\na\nd\ni\nc\nl\ne\ni\nf\nl\no\nw\ne\nr\no\nr\nActivity : Sketch various types of leaves in\nPaintbrush on the computer and\nsave the sketches in a folder of\nyour own name.",
+        "subQuestions": []
+      }
+    ],
+    "rawText": "1. Give examples of 3 plants that have :\n(a) spiny fruits\n(b) spiny stem\n(c) red flowers\n(d) yellow flowers\n(e) leaves which close at night\n(f) single-seeded fruits\n(g) many-seeded fruits\n2. Observe any one flower and its various\nparts and describe it in your own\nwords.\n3. What are the similarities and differences\nbetween ?\n(a) jowar and moong\n(b) onion and coriander\n(c) leaves of banana and mango\n(d) coconut tree and jowar stalk plant\n4. Explain the following images in your\nown words.\nA.\nB.\n15\n5. Describe the functions of various parts\nof a plant.\n6. Certain properties are mentioned below. Find a leaf corresponding to each\nproperty and describe those plants.\nleaves with smooth surface, leaves with\nrough surface, fleshy leaf, spines on leaf.\n7. Find the plant parts.\nr\no\no\nt\nc\na\np\nr\nb\nw\nl\na\nn\nv\ne\no\nu\np\nl\no\ne\no\nt\no\nd\ny\nd\ni\nt\nv\na\nt\nx\ne\nn\nl\na\nu\nl\nh\ns\nt\ne\nm\nl\nm\ns\na\nr\na\nd\ni\nc\nl\ne\ni\nf\nl\no\nw\ne\nr\no\nr\nActivity : Sketch various types of leaves in\nPaintbrush on the computer and\nsave the sketches in a folder of\nyour own name.",
+    "qaCards": [
+      {
+        "question": "What is the name for the arrangement of veins in a leaf?",
+        "answer": "Venation refers to the pattern of veins in the blade of a leaf.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A potato is an example of a modified:",
+        "answer": "A potato is a tuber, which is a swollen underground stem modified for storing starch.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which type of root system is best at preventing soil erosion?",
+        "answer": "The dense, web-like structure of fibrous roots holds soil particles together effectively, preventing erosion.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the function of the root cap?",
+        "answer": "The root cap is a tough layer of cells that protects the delicate meristematic tissue as the root pushes through the soil.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The process of losing water vapor through the stomata of leaves is called:",
+        "answer": "Transpiration is the evaporation of water from the plant's surfaces, primarily the leaves.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which tissues in the stem are responsible for transporting water and food?",
+        "answer": "Xylem transports water and minerals up from the roots, while phloem transports sugars (food) from the leaves to other parts of the plant.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Onions and grass have which type of root system?",
+        "answer": "Both onions and grasses have a fibrous root system, characterized by a mass of similarly sized roots.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The 'kitchen' of the plant, where food is made, is the:",
+        "answer": "Leaves are where photosynthesis happens, which is the process of making food for the plant.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Describe the structure of a typical flower in your own words.",
+        "modelAnswer": "A typical flower consists of four main parts: Calyx, Corolla, Androecium, and Gynoecium. The Calyx is the outermost green part (sepals) that protects the flower in the bud stage. The Corolla is the colorful part made of petals that attracts insects. The Androecium is the male reproductive part consisting of stamens (anther and filament). The Gynoecium is the female reproductive part consisting of carpels (stigma, style, and ovary). These parts are arranged on the thalamus, which is the expanded end of the flower stalk or pedicel.",
+        "keyPoints": [
+          "Calyx: Protective green sepals.",
+          "Corolla: Colorful petals to attract pollinators.",
+          "Androecium: Male part with stamens.",
+          "Gynoecium: Female part with carpels (stigma, style, ovary)."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "What is the difference between Tap Roots and Fibrous Roots?",
+        "modelAnswer": "Dicotyledonous plants usually have a tap root system, which consists of a primary root that grows deep into the soil and produces secondary roots. In contrast, monocotyledonous plants have a fibrous root system, where a cluster of thin, thread-like roots grows from the base of the stem. Tap roots provide stronger anchorage and go deeper, while fibrous roots are more spread out near the surface.",
+        "keyPoints": [
+          "Tap roots: One main primary root with branches (Dicot plants).",
+          "Fibrous roots: Cluster of thin roots from the stem base (Monocot plants).",
+          "Tap roots provide better deep anchorage; fibrous roots spread wide."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la3",
+        "question": "Explain the process of germination of a seed.",
+        "modelAnswer": "Germination is the process by which a seed develops into a new plant. When a seed receives proper water, air, and warmth, the embryo inside begins to grow. The part that grows towards the soil is called the radicle (which becomes the root), and the part that grows upwards out of the soil is called the plumule (which becomes the shoot). As the plant grows, it uses the food stored in the seed until it can perform photosynthesis.",
+        "keyPoints": [
+          "Requires water, air, and warmth.",
+          "Radicle grows downwards into the soil (becomes root).",
+          "Plumule grows upwards out of the soil (becomes shoot)."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "What is the name for the arrangement of veins in a leaf?",
+        "modelAnswer": "Venation refers to the pattern of veins in the blade of a leaf. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines: What is the name for the arrangement of veins in a leaf?",
+          "Explains textbook concept clearly.",
+          "Includes relevant chapter example."
+        ],
+        "marks": 3
+      }
+    ]
+  }
 }

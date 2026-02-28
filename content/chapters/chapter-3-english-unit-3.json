@@ -10,7 +10,12 @@
     {
       "id": "q1",
       "question": "Consonance is repetition of _____.",
-      "options": ["Consonant sounds especially at end of words", "Vowel sounds", "The same word repeatedly", "Rhyming pairs only"],
+      "options": [
+        "Consonant sounds especially at end of words",
+        "Vowel sounds",
+        "The same word repeatedly",
+        "Rhyming pairs only"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
@@ -18,7 +23,12 @@
     {
       "id": "q2",
       "question": "Who is a compère at a school programme?",
-      "options": ["The person who hosts/announces events in order", "The chief guest", "The principal", "A student performer"],
+      "options": [
+        "The person who hosts/announces events in order",
+        "The chief guest",
+        "The principal",
+        "A student performer"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "In 'A Crow in the House', who rescues the young crow?",
-      "options": ["The narrator and Grandfather", "Grandmother", "Aunt Mabel", "Harold the Hornbill"],
+      "options": [
+        "The narrator and Grandfather",
+        "Grandmother",
+        "Aunt Mabel",
+        "Harold the Hornbill"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 3
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "In 'The Brook' by Tennyson, the famous refrain is _____.",
-      "options": ["'For men may come and men may go, But I go on for ever'", "'I babble on the pebbles'", "'Faster than fairies, faster than witches'", "'In time of silver rain'"],
+      "options": [
+        "'For men may come and men may go, But I go on for ever'",
+        "'I babble on the pebbles'",
+        "'Faster than fairies, faster than witches'",
+        "'In time of silver rain'"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 4
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "According to Socrates, before speaking you must ask: Is it true, is it pleasant, and _____?",
-      "options": ["Is it useful?", "Is it funny?", "Is it long?", "Is it loud?"],
+      "options": [
+        "Is it useful?",
+        "Is it funny?",
+        "Is it long?",
+        "Is it loud?"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 5
@@ -59,10 +84,22 @@
       "content": "Walter de la Mare's 'Tartary' is a poem of imagination — the poet dreams of being Lord of a magical kingdom with ivory beds, golden thrones, peacocks, tigers, and exotic music. Consonance is the repetition of consonant sounds, especially at the end of words, creating pleasing rhythm — e.g., 'Rivers silver-pale', 'pitter-patter'.",
       "pageReference": "55-57",
       "examples": [
-        { "icon": "👑", "text": "'My bed should be of ivory, Of beaten gold my throne'" },
-        { "icon": "🦚", "text": "'In my court should peacocks flaunt, And tigers haunt'" },
-        { "icon": "🎵", "text": "Musical instruments: harp, flute, mandoline" },
-        { "icon": "📢", "text": "Consonance: 'Rivers silver-pale'; 'All's well that ends well'" }
+        {
+          "icon": "👑",
+          "text": "'My bed should be of ivory, Of beaten gold my throne'"
+        },
+        {
+          "icon": "🦚",
+          "text": "'In my court should peacocks flaunt, And tigers haunt'"
+        },
+        {
+          "icon": "🎵",
+          "text": "Musical instruments: harp, flute, mandoline"
+        },
+        {
+          "icon": "📢",
+          "text": "Consonance: 'Rivers silver-pale'; 'All's well that ends well'"
+        }
       ],
       "keyPoints": [
         "Consonance: repetition of consonant sounds especially at end of words",
@@ -84,10 +121,22 @@
       "content": "A compère (MC) hosts a school programme by welcoming guests, announcing events in order, introducing speakers, and giving thanks. Key phrases include: welcoming the audience, requesting dignitaries to light the lamp, introducing the chief guest, announcing performances, and giving the vote of thanks.",
       "pageReference": "58-62",
       "examples": [
-        { "icon": "🎤", "text": "'Good morning friends! It is a pleasure to welcome you all to this festive occasion.'" },
-        { "icon": "🕯️", "text": "'I would like to request all honourable members to kindly light the traditional lamp.'" },
-        { "icon": "👏", "text": "'Let us have a big round of applause for the excellent demonstration!'" },
-        { "icon": "🙏", "text": "Vote of thanks: 'I take the opportunity to thank all those who lent a helping hand.'" }
+        {
+          "icon": "🎤",
+          "text": "'Good morning friends! It is a pleasure to welcome you all to this festive occasion.'"
+        },
+        {
+          "icon": "🕯️",
+          "text": "'I would like to request all honourable members to kindly light the traditional lamp.'"
+        },
+        {
+          "icon": "👏",
+          "text": "'Let us have a big round of applause for the excellent demonstration!'"
+        },
+        {
+          "icon": "🙏",
+          "text": "Vote of thanks: 'I take the opportunity to thank all those who lent a helping hand.'"
+        }
       ],
       "keyPoints": [
         "Compère: the host/announcer of a programme",
@@ -109,10 +158,22 @@
       "content": "Ruskin Bond's autobiographical story about Caesar, a young crow that falls from its nest and is rescued. Caesar takes over the house — dancing on tables, stealing toothbrushes from neighbours, snapping at Aunt Mabel's spectacles. He is both a pet and a pest! His anti-social habits (stealing beans from a neighbour's garden) lead to a broken leg and ultimately his death.",
       "pageReference": "64-67",
       "examples": [
-        { "icon": "🐦", "text": "Caesar's tricks: empties matchboxes, tears newspapers, tugs dogs' tails" },
-        { "icon": "🪥", "text": "Collects toothbrushes: 'Most neighbours were represented by a toothbrush'" },
-        { "icon": "👓", "text": "Says 'Kiss, Kiss' but pecks Aunt Mabel's spectacles off!" },
-        { "icon": "😢", "text": "End: neighbour's stick breaks his leg; Caesar slowly fades away" }
+        {
+          "icon": "🐦",
+          "text": "Caesar's tricks: empties matchboxes, tears newspapers, tugs dogs' tails"
+        },
+        {
+          "icon": "🪥",
+          "text": "Collects toothbrushes: 'Most neighbours were represented by a toothbrush'"
+        },
+        {
+          "icon": "👓",
+          "text": "Says 'Kiss, Kiss' but pecks Aunt Mabel's spectacles off!"
+        },
+        {
+          "icon": "😢",
+          "text": "End: neighbour's stick breaks his leg; Caesar slowly fades away"
+        }
       ],
       "keyPoints": [
         "Caesar: jungle crow/raven, not a carrion crow",
@@ -134,10 +195,22 @@
       "content": "Alfred Lord Tennyson's 'The Brook' is narrated by the brook itself — giving it human qualities (personification). The famous refrain 'For men may come and men may go, But I go on for ever' contrasts the temporary nature of human life with the eternal flow of nature. The brook babbles, chatters, sparkles and sings as it flows.",
       "pageReference": "68-70",
       "examples": [
-        { "icon": "💧", "text": "'I come from haunts of coot and hern, I make a sudden sally'" },
-        { "icon": "🐟", "text": "'Here and there a lusty trout, And here and there a grayling'" },
-        { "icon": "🌿", "text": "'I chatter, chatter, as I flow to join the brimming river'" },
-        { "icon": "♾️", "text": "Refrain: 'For men may come and men may go, But I go on for ever'" }
+        {
+          "icon": "💧",
+          "text": "'I come from haunts of coot and hern, I make a sudden sally'"
+        },
+        {
+          "icon": "🐟",
+          "text": "'Here and there a lusty trout, And here and there a grayling'"
+        },
+        {
+          "icon": "🌿",
+          "text": "'I chatter, chatter, as I flow to join the brimming river'"
+        },
+        {
+          "icon": "♾️",
+          "text": "Refrain: 'For men may come and men may go, But I go on for ever'"
+        }
       ],
       "keyPoints": [
         "Personification: giving human qualities to a non-human thing",
@@ -159,10 +232,22 @@
       "content": "News items can be good/bad, reliable/unreliable, interesting/boring. Check reliability by finding the source. Benjamin Disraeli: 'Nature gave us two ears and one mouth — listen more, talk less.' Socrates said speak only after asking: (1) Is it true? (2) Is it pleasant? (3) Is it useful?",
       "pageReference": "71-77",
       "examples": [
-        { "icon": "📰", "text": "News types: city, state, national, world; political, cultural, sports" },
-        { "icon": "🤫", "text": "Disraeli: two ears, one mouth — listen more than you speak" },
-        { "icon": "📜", "text": "Socrates' 3 questions before speaking: True? Pleasant? Useful?" },
-        { "icon": "📝", "text": "Formal letter format: address, date, subject, salutation, body, closing, signature" }
+        {
+          "icon": "📰",
+          "text": "News types: city, state, national, world; political, cultural, sports"
+        },
+        {
+          "icon": "🤫",
+          "text": "Disraeli: two ears, one mouth — listen more than you speak"
+        },
+        {
+          "icon": "📜",
+          "text": "Socrates' 3 questions before speaking: True? Pleasant? Useful?"
+        },
+        {
+          "icon": "📝",
+          "text": "Formal letter format: address, date, subject, salutation, body, closing, signature"
+        }
       ],
       "keyPoints": [
         "Reliable news: has source, verifiable facts",
@@ -179,91 +264,161 @@
     {
       "id": "q1",
       "question": "'Rivers silver-pale' is an example of _____.",
-      "options": ["Consonance", "Simile", "Metaphor", "Alliteration"],
+      "options": [
+        "Consonance",
+        "Simile",
+        "Metaphor",
+        "Alliteration"
+      ],
       "correctAnswer": "A",
       "explanation": "Consonance is the repetition of consonant sounds especially at the end of words. In 'rivers silver-pale', the 'r' sound at the end is repeated.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "57"
     },
     {
       "id": "q2",
       "question": "In 'Tartary', the poet imagines riding in a car drawn by _____.",
-      "options": ["Seven zebras", "Seven horses", "Seven camels", "Seven lions"],
+      "options": [
+        "Seven zebras",
+        "Seven horses",
+        "Seven camels",
+        "Seven lions"
+      ],
       "correctAnswer": "A",
       "explanation": "'And zebras seven should draw my car Through Tartary's dark glades.'",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "56"
     },
     {
       "id": "q3",
       "question": "What is a compère's main role at a school programme?",
-      "options": ["To host and announce events in order", "To deliver the chief guest's speech", "To distribute prizes", "To sing the school song"],
+      "options": [
+        "To host and announce events in order",
+        "To deliver the chief guest's speech",
+        "To distribute prizes",
+        "To sing the school song"
+      ],
       "correctAnswer": "A",
       "explanation": "The compère welcomes everyone, announces events in sequence, introduces speakers, and gives the vote of thanks.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "58"
     },
     {
       "id": "q4",
       "question": "The famous refrain of 'The Brook' is _____.",
-      "options": ["'For men may come and men may go, But I go on for ever'", "'I come from haunts of coot and hern'", "'I chatter over stony ways'", "'With many a curve my banks I fret'"],
+      "options": [
+        "'For men may come and men may go, But I go on for ever'",
+        "'I come from haunts of coot and hern'",
+        "'I chatter over stony ways'",
+        "'With many a curve my banks I fret'"
+      ],
       "correctAnswer": "A",
       "explanation": "The refrain repeats in every stanza: 'For men may come and men may go, But I go on for ever' — contrasting temporary human life with eternal nature.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "68"
     },
     {
       "id": "q5",
       "question": "Why did Caesar never go back to live with other crows?",
-      "options": ["He had become used to living with humans and considered himself above ordinary crows", "He was frightened of crows", "He was in a cage", "The other crows rejected him"],
+      "options": [
+        "He had become used to living with humans and considered himself above ordinary crows",
+        "He was frightened of crows",
+        "He was in a cage",
+        "The other crows rejected him"
+      ],
       "correctAnswer": "A",
       "explanation": "Caesar had grown used to living with humans on equal terms and had become snobbish — he did not wish to mix with his own kind.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "64"
     },
     {
       "id": "q6",
       "question": "Socrates said to speak only after asking three questions. Which is NOT one of them?",
-      "options": ["Is it funny?", "Is it true?", "Is it pleasant?", "Is it useful?"],
+      "options": [
+        "Is it funny?",
+        "Is it true?",
+        "Is it pleasant?",
+        "Is it useful?"
+      ],
       "correctAnswer": "A",
       "explanation": "Socrates' three questions before speaking are: (1) Is it true? (2) Is it pleasant? (3) Is it useful? 'Is it funny?' is not one of them.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "77"
     },
     {
       "id": "q7",
       "question": "In 'The Brook', what literary device gives the brook human qualities like 'I chatter' and 'I babble'?",
-      "options": ["Personification", "Simile", "Alliteration", "Metaphor"],
+      "options": [
+        "Personification",
+        "Simile",
+        "Alliteration",
+        "Metaphor"
+      ],
       "correctAnswer": "A",
       "explanation": "Personification gives human qualities to non-human things. The brook speaks in first person — 'I come', 'I make', 'I chatter', 'I babble'.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "68"
     },
     {
       "id": "q8",
       "question": "What was Caesar's most anti-social habit that led to his death?",
-      "options": ["Stealing beans from a neighbour's garden — a stick was flung at him", "Stealing toothbrushes", "Knocking over Aunt Mabel's spectacles", "Tearing newspapers"],
+      "options": [
+        "Stealing beans from a neighbour's garden — a stick was flung at him",
+        "Stealing toothbrushes",
+        "Knocking over Aunt Mabel's spectacles",
+        "Tearing newspapers"
+      ],
       "correctAnswer": "A",
       "explanation": "Caesar was stealing beans from a neighbour's garden when a stick was flung at him, breaking his leg. He never recovered.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "66"
     },
     {
       "id": "q9",
       "question": "Benjamin Disraeli said nature gave us two ears and one mouth because _____.",
-      "options": ["We should listen more than we speak", "Hearing is more important than speaking", "It is a scientific fact", "Mouths are harder to develop"],
+      "options": [
+        "We should listen more than we speak",
+        "Hearing is more important than speaking",
+        "It is a scientific fact",
+        "Mouths are harder to develop"
+      ],
       "correctAnswer": "A",
       "explanation": "Disraeli used this humorously to make the point that if we were meant to talk more, we would have two mouths and one ear. We should listen more, speak less.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "75"
     },
     {
       "id": "q10",
       "question": "A formal letter must end with _____.",
-      "options": ["'Yours faithfully' followed by signature and name", "'Love from' and your name", "'Best wishes' only", "Just your signature"],
+      "options": [
+        "'Yours faithfully' followed by signature and name",
+        "'Love from' and your name",
+        "'Best wishes' only",
+        "Just your signature"
+      ],
       "correctAnswer": "A",
       "explanation": "A formal letter (to someone you don't know personally) ends with 'Yours faithfully' followed by the sender's signature and name.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "74"
     }
   ],
@@ -293,7 +448,171 @@
       "WhatsApp messages — are they true, pleasant, useful before forwarding?"
     ],
     "formulas": [
-      { "formula": "Formal letter = Address + Date + Subject + Salutation + Body + Closing + Signature", "explanation": "All parts needed for a correct formal letter" }
+      {
+        "formula": "Formal letter = Address + Date + Subject + Salutation + Body + Closing + Signature",
+        "explanation": "All parts needed for a correct formal letter"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Unit 3",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "'Rivers silver-pale' is an example of _____.",
+        "answer": "Consonance is the repetition of consonant sounds especially at the end of words. In 'rivers silver-pale', the 'r' sound at the end is repeated.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'Tartary', the poet imagines riding in a car drawn by _____.",
+        "answer": "'And zebras seven should draw my car Through Tartary's dark glades.'",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is a compère's main role at a school programme?",
+        "answer": "The compère welcomes everyone, announces events in sequence, introduces speakers, and gives the vote of thanks.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The famous refrain of 'The Brook' is _____.",
+        "answer": "The refrain repeats in every stanza: 'For men may come and men may go, But I go on for ever' — contrasting temporary human life with eternal nature.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why did Caesar never go back to live with other crows?",
+        "answer": "Caesar had grown used to living with humans on equal terms and had become snobbish — he did not wish to mix with his own kind.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Socrates said to speak only after asking three questions. Which is NOT one of them?",
+        "answer": "Socrates' three questions before speaking are: (1) Is it true? (2) Is it pleasant? (3) Is it useful? 'Is it funny?' is not one of them.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'The Brook', what literary device gives the brook human qualities like 'I chatter' and 'I babble'?",
+        "answer": "Personification gives human qualities to non-human things. The brook speaks in first person — 'I come', 'I make', 'I chatter', 'I babble'.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was Caesar's most anti-social habit that led to his death?",
+        "answer": "Caesar was stealing beans from a neighbour's garden when a stick was flung at him, breaking his leg. He never recovered.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Benjamin Disraeli said nature gave us two ears and one mouth because _____.",
+        "answer": "Disraeli used this humorously to make the point that if we were meant to talk more, we would have two mouths and one ear. We should listen more, speak less.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A formal letter must end with _____.",
+        "answer": "A formal letter (to someone you don't know personally) ends with 'Yours faithfully' followed by the sender's signature and name.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What is a compère's main role at a school programme?",
+        "modelAnswer": "A compère acts as the primary host or Master of Ceremonies for a school programme. Their main role is to welcome the audience and guests, ensuring everyone feels respected in line with the tradition of 'Atithi Devo Bhava'. They are responsible for announcing events in the correct sequence, starting from the lighting of the lamp to the vote of thanks. Throughout the programme, the compère uses formal and polite language to link performances smoothly and keep the audience engaged.",
+        "keyPoints": [
+          "Acts as the host or Master of Ceremonies (MC) for the event.",
+          "Welcomes the audience and honours guests.",
+          "Announces events in sequence, from lamp lighting to vote of thanks.",
+          "Uses formal language to link performances and engage the audience."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Why did Caesar never go back to live with other crows?",
+        "modelAnswer": "Caesar, the young crow rescued by Ruskin Bond, never went back to live with other crows because he had grown accustomed to living with humans on equal terms. Having been raised in a human household, he developed snobbish tendencies and considered himself above ordinary crows. Instead of flying away with his own kind, he chose to stay and interact with the family and neighbours. He essentially became a 'clique of one', refusing to mix with other jungle crows.",
+        "keyPoints": [
+          "Grew accustomed to living with humans on equal terms.",
+          "Developed snobbish tendencies due to his human upbringing.",
+          "Considered himself above ordinary jungle crows.",
+          "Refused to mix with his own kind, acting as a 'clique of one'."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "In 'The Brook', what literary device gives the brook human qualities like 'I chatter' and 'I babble'?",
+        "modelAnswer": "In 'The Brook', Alfred Lord Tennyson uses the literary device of personification to give the brook human qualities. By writing the poem from the first-person perspective, the brook itself becomes the narrator, speaking directly to the reader. Words like 'chatter', 'babble', and 'murmur' assign human-like actions and a voice to the flowing water. This personification helps to emphasize the active, enduring nature of the brook in contrast to the short, temporary lives of human beings.",
+        "keyPoints": [
+          "Employs the literary device of personification.",
+          "The brook acts as a first-person narrator in the poem.",
+          "Assigns human actions like 'chatter' and 'babble' to the water.",
+          "Highlights the contrast between eternal nature and temporary human life."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What was Caesar's most anti-social habit that led to his death?",
+        "modelAnswer": "While Caesar the crow had many mischievous habits like stealing toothbrushes and tearing newspapers, his most anti-social behavior involved stealing from neighbours. His fatal mistake occurred when he was caught stealing beans from a neighbour's garden. In response to the theft, the angry neighbour retaliated by flinging a stick at the bird. The stick struck Caesar and broke his leg, an injury from which the poor crow never recovered and eventually died.",
+        "keyPoints": [
+          "Engaged in mischievous habits, including stealing from neighbours.",
+          "Caught stealing beans from a neighbour's garden.",
+          "An angry neighbour retaliated by flinging a stick at him.",
+          "The stick broke his leg, leading to his unfortunate death."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la5",
+        "question": "According to Socrates, what are the three questions one should ask before speaking?",
+        "modelAnswer": "According to the ancient philosopher Socrates, one should carefully evaluate their words before speaking by asking three important questions. First, you must ask 'Is it true?', ensuring that you are not spreading falsehoods or unreliable information. Second, you must ask 'Is it pleasant?', checking whether your words are kind or might cause hurt. Finally, you should ask 'Is it useful?', to determine if the statement actually adds value or is simply unnecessary noise.",
+        "keyPoints": [
+          "Evaluate words carefully before speaking.",
+          "Ask 'Is it true?' to avoid spreading falsehoods.",
+          "Ask 'Is it pleasant?' to ensure kindness and prevent hurt.",
+          "Ask 'Is it useful?' to make sure the words add value."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la6",
+        "question": "If the poet were the Lord of Tartary, what kind of life would he lead as described in the poem?",
+        "modelAnswer": "If Walter de la Mare were the Lord of Tartary, he would lead a life of absolute luxury and grandeur. He imagines sleeping on a bed of ivory, sitting on a throne of beaten gold, and wearing robes adorned with precious pearls. His magnificent court would be filled with proud peacocks, while tigers would roam his dense forests. When traveling, he visualizes riding through the dark glades in a spectacular carriage drawn by seven zebras.",
+        "keyPoints": [
+          "Would lead a life of absolute luxury and grandeur.",
+          "Imagines a bed of ivory and a throne of beaten gold.",
+          "His court would feature peacocks and his forests would have tigers.",
+          "Would travel in a carriage drawn by seven zebras."
+        ],
+        "marks": 3
+      }
     ]
   }
 }

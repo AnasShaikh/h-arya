@@ -10,7 +10,12 @@
     {
       "id": "q1",
       "question": "A line that divides an angle into two equal parts is called _____.",
-      "options": ["Angle bisector", "Perpendicular bisector", "Median", "Altitude"],
+      "options": [
+        "Angle bisector",
+        "Perpendicular bisector",
+        "Median",
+        "Altitude"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
@@ -18,7 +23,12 @@
     {
       "id": "q2",
       "question": "The point where the three angle bisectors of a triangle meet is called _____.",
-      "options": ["Incentre", "Circumcentre", "Centroid", "Orthocentre"],
+      "options": [
+        "Incentre",
+        "Circumcentre",
+        "Centroid",
+        "Orthocentre"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 2
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "The point where the three perpendicular bisectors of the sides of a triangle meet is called _____.",
-      "options": ["Circumcentre", "Incentre", "Centroid", "Midpoint"],
+      "options": [
+        "Circumcentre",
+        "Incentre",
+        "Centroid",
+        "Midpoint"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 3
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "To construct a triangle, we need at least _____.",
-      "options": ["Three measurements (sides/angles)", "Only two sides", "Only one angle", "Only the perimeter"],
+      "options": [
+        "Three measurements (sides/angles)",
+        "Only two sides",
+        "Only one angle",
+        "Only the perimeter"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 4
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "In a right-angled triangle construction, the hypotenuse is _____.",
-      "options": ["Opposite the right angle", "Opposite the smallest angle", "The shortest side", "Adjacent to the right angle"],
+      "options": [
+        "Opposite the right angle",
+        "Opposite the smallest angle",
+        "The shortest side",
+        "Adjacent to the right angle"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 5
@@ -59,10 +84,22 @@
       "content": "An angle bisector divides an angle into two equal parts. A perpendicular bisector of a line segment divides it into two equal parts at 90°. Both are constructed using a compass and ruler. Verify that the bisector is correct by checking equal angles or equal lengths.",
       "pageReference": "1",
       "examples": [
-        { "icon": "📐", "text": "Ray BM bisects ∠ABC: m∠ABM = m∠MBC" },
-        { "icon": "📏", "text": "Perpendicular bisector of PS: cuts PS at M with PM=SM and ∠CMP=90°" },
-        { "icon": "🔵", "text": "Use compass to draw arcs from both ends of segment" },
-        { "icon": "✅", "text": "Verify: check equal halves with ruler or divider" }
+        {
+          "icon": "📐",
+          "text": "Ray BM bisects ∠ABC: m∠ABM = m∠MBC"
+        },
+        {
+          "icon": "📏",
+          "text": "Perpendicular bisector of PS: cuts PS at M with PM=SM and ∠CMP=90°"
+        },
+        {
+          "icon": "🔵",
+          "text": "Use compass to draw arcs from both ends of segment"
+        },
+        {
+          "icon": "✅",
+          "text": "Verify: check equal halves with ruler or divider"
+        }
       ],
       "keyPoints": [
         "Angle bisector: divides angle into two equal angles",
@@ -84,10 +121,22 @@
       "content": "The three angle bisectors of a triangle are concurrent (meet at one point) called the incentre (I). The incentre is always inside the triangle. The distances from the incentre to all three sides are equal — this equal distance is the radius of the inscribed circle.",
       "pageReference": "1-2",
       "examples": [
-        { "icon": "⭕", "text": "Draw △PQR, bisect all three angles — they meet at point I (incentre)" },
-        { "icon": "📏", "text": "IA = IB = IC (equal perpendicular distances to sides)" },
-        { "icon": "🔵", "text": "A circle centred at I and touching all three sides can be drawn" },
-        { "icon": "✅", "text": "Incentre is always inside the triangle for any type of triangle" }
+        {
+          "icon": "⭕",
+          "text": "Draw △PQR, bisect all three angles — they meet at point I (incentre)"
+        },
+        {
+          "icon": "📏",
+          "text": "IA = IB = IC (equal perpendicular distances to sides)"
+        },
+        {
+          "icon": "🔵",
+          "text": "A circle centred at I and touching all three sides can be drawn"
+        },
+        {
+          "icon": "✅",
+          "text": "Incentre is always inside the triangle for any type of triangle"
+        }
       ],
       "keyPoints": [
         "Three angle bisectors meet at the incentre I",
@@ -109,10 +158,22 @@
       "content": "The three perpendicular bisectors of the sides of a triangle are concurrent, meeting at the circumcentre (C). CX = CY = CZ (equidistant from all vertices). For acute triangles, C is inside; for obtuse triangles, C is outside; for right triangles, C is on the hypotenuse.",
       "pageReference": "2",
       "examples": [
-        { "icon": "🔵", "text": "Perpendicular bisectors of PQ, QR, PR meet at circumcentre C" },
-        { "icon": "📏", "text": "CX = CY = CZ (equal distance to all vertices)" },
-        { "icon": "⭕", "text": "A circle centred at C passing through all 3 vertices" },
-        { "icon": "📊", "text": "Acute: C inside; Obtuse: C outside; Right: C on hypotenuse" }
+        {
+          "icon": "🔵",
+          "text": "Perpendicular bisectors of PQ, QR, PR meet at circumcentre C"
+        },
+        {
+          "icon": "📏",
+          "text": "CX = CY = CZ (equal distance to all vertices)"
+        },
+        {
+          "icon": "⭕",
+          "text": "A circle centred at C passing through all 3 vertices"
+        },
+        {
+          "icon": "📊",
+          "text": "Acute: C inside; Obtuse: C outside; Right: C on hypotenuse"
+        }
       ],
       "keyPoints": [
         "Perpendicular bisectors of all three sides meet at circumcentre C",
@@ -134,10 +195,22 @@
       "content": "To construct a unique triangle, you need three measurements. Triangles can be constructed when given: SSS (three sides), SAS (two sides and included angle), ASA (two angles and included side), RHS (right angle, hypotenuse, one side). Use compass and ruler following the rough figure.",
       "pageReference": "3-9",
       "examples": [
-        { "icon": "🔺", "text": "SSS: △XYZ with XY=5cm, YZ=7cm, XZ=5cm (draw base, use compass for other sides)" },
-        { "icon": "📐", "text": "SAS: △PQR with PQ=5cm, ∠Q=50°, QR=5cm (draw base, measure angle, draw second side)" },
-        { "icon": "📏", "text": "ASA: △MAN with ∠A=90°, MA=3.2cm, ∠M=55°" },
-        { "icon": "⬛", "text": "RHS: right angle, hypotenuse, one side — draw right angle first" }
+        {
+          "icon": "🔺",
+          "text": "SSS: △XYZ with XY=5cm, YZ=7cm, XZ=5cm (draw base, use compass for other sides)"
+        },
+        {
+          "icon": "📐",
+          "text": "SAS: △PQR with PQ=5cm, ∠Q=50°, QR=5cm (draw base, measure angle, draw second side)"
+        },
+        {
+          "icon": "📏",
+          "text": "ASA: △MAN with ∠A=90°, MA=3.2cm, ∠M=55°"
+        },
+        {
+          "icon": "⬛",
+          "text": "RHS: right angle, hypotenuse, one side — draw right angle first"
+        }
       ],
       "keyPoints": [
         "Three measurements needed for a unique triangle",
@@ -159,10 +232,22 @@
       "content": "Isosceles triangle: two equal sides. To construct, draw the base, then use compass to mark equal lengths from both ends. Right-angled triangle: one 90° angle. Use set-square or construct perpendicular. RHS condition: given hypotenuse and one side, the third side is found using Pythagoras.",
       "pageReference": "8-9",
       "examples": [
-        { "icon": "📏", "text": "Isosceles △: base = 5cm, equal sides = 6cm each" },
-        { "icon": "📐", "text": "Right-angled △MAT: ∠MAT=90°, MA=4cm, AT=3cm" },
-        { "icon": "🔺", "text": "RHS: hypotenuse=10cm, one leg=6cm → third side=8cm" },
-        { "icon": "✅", "text": "Verify Pythagoras: 6²+8²=100=10² ✓" }
+        {
+          "icon": "📏",
+          "text": "Isosceles △: base = 5cm, equal sides = 6cm each"
+        },
+        {
+          "icon": "📐",
+          "text": "Right-angled △MAT: ∠MAT=90°, MA=4cm, AT=3cm"
+        },
+        {
+          "icon": "🔺",
+          "text": "RHS: hypotenuse=10cm, one leg=6cm → third side=8cm"
+        },
+        {
+          "icon": "✅",
+          "text": "Verify Pythagoras: 6²+8²=100=10² ✓"
+        }
       ],
       "keyPoints": [
         "Isosceles: two equal sides, draw using compass arcs",
@@ -179,91 +264,161 @@
     {
       "id": "q1",
       "question": "The point where the three angle bisectors of a triangle meet is called _____.",
-      "options": ["Incentre", "Circumcentre", "Centroid", "Orthocentre"],
+      "options": [
+        "Incentre",
+        "Circumcentre",
+        "Centroid",
+        "Orthocentre"
+      ],
       "correctAnswer": "A",
       "explanation": "The angle bisectors of a triangle are concurrent at the incentre (I), which is always inside the triangle.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "1"
     },
     {
       "id": "q2",
       "question": "The circumcentre is equidistant from _____.",
-      "options": ["All three vertices", "All three sides", "The midpoints of sides", "The angles"],
+      "options": [
+        "All three vertices",
+        "All three sides",
+        "The midpoints of sides",
+        "The angles"
+      ],
       "correctAnswer": "A",
       "explanation": "The circumcentre C is equidistant from all three vertices: CX = CY = CZ.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "2"
     },
     {
       "id": "q3",
       "question": "The incentre is always _____.",
-      "options": ["Inside the triangle", "Outside the triangle", "On the hypotenuse", "At the midpoint of the longest side"],
+      "options": [
+        "Inside the triangle",
+        "Outside the triangle",
+        "On the hypotenuse",
+        "At the midpoint of the longest side"
+      ],
       "correctAnswer": "A",
       "explanation": "The incentre (intersection of angle bisectors) is always inside the triangle for any triangle.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "1"
     },
     {
       "id": "q4",
       "question": "The perpendicular bisectors of the sides of a triangle are concurrent at the _____.",
-      "options": ["Circumcentre", "Incentre", "Centroid", "All of the above"],
+      "options": [
+        "Circumcentre",
+        "Incentre",
+        "Centroid",
+        "All of the above"
+      ],
       "correctAnswer": "A",
       "explanation": "The three perpendicular bisectors meet at the circumcentre C.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "2"
     },
     {
       "id": "q5",
       "question": "To construct a unique triangle, you need a minimum of _____ measurements.",
-      "options": ["Three", "Two", "One", "Four"],
+      "options": [
+        "Three",
+        "Two",
+        "One",
+        "Four"
+      ],
       "correctAnswer": "A",
       "explanation": "Three measurements (sides and/or angles in the right combination) are needed to uniquely determine a triangle.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "3"
     },
     {
       "id": "q6",
       "question": "In △MAT with ∠MAT=90°, MA=4cm and AT=3cm, what is the hypotenuse MT?",
-      "options": ["5 cm", "7 cm", "1 cm", "12 cm"],
+      "options": [
+        "5 cm",
+        "7 cm",
+        "1 cm",
+        "12 cm"
+      ],
       "correctAnswer": "A",
       "explanation": "MT² = MA² + AT² = 16+9 = 25. MT = 5 cm. (3-4-5 right triangle)",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "9"
     },
     {
       "id": "q7",
       "question": "Which gives the construction method 'SSS'?",
-      "options": ["Three sides given", "Two sides and one angle given", "Two angles and one side given", "Right angle and hypotenuse given"],
+      "options": [
+        "Three sides given",
+        "Two sides and one angle given",
+        "Two angles and one side given",
+        "Right angle and hypotenuse given"
+      ],
       "correctAnswer": "A",
       "explanation": "SSS stands for Side-Side-Side: all three sides are given for the triangle construction.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "4"
     },
     {
       "id": "q8",
       "question": "For an obtuse-angled triangle, the circumcentre lies _____.",
-      "options": ["Outside the triangle", "Inside the triangle", "On one of the sides", "At a vertex"],
+      "options": [
+        "Outside the triangle",
+        "Inside the triangle",
+        "On one of the sides",
+        "At a vertex"
+      ],
       "correctAnswer": "A",
       "explanation": "For an obtuse triangle, the circumcentre lies outside the triangle; for acute, inside; for right-angled, on the hypotenuse.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "2"
     },
     {
       "id": "q9",
       "question": "What is the angle bisector of ∠ABC?",
-      "options": ["Ray that divides ∠ABC into two equal angles", "Line parallel to BC", "Perpendicular from B to AC", "Line through the midpoint of AC"],
+      "options": [
+        "Ray that divides ∠ABC into two equal angles",
+        "Line parallel to BC",
+        "Perpendicular from B to AC",
+        "Line through the midpoint of AC"
+      ],
       "correctAnswer": "A",
       "explanation": "The angle bisector of ∠ABC divides it into two equal angles: m∠ABM = m∠MBC",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "1"
     },
     {
       "id": "q10",
       "question": "From the incentre I of a triangle, IA = IB = IC where A, B, C are the feet of perpendiculars. This means _____.",
-      "options": ["Incentre is equidistant from all three sides", "Incentre is equidistant from all three vertices", "Triangle is equilateral", "Triangle is isosceles"],
+      "options": [
+        "Incentre is equidistant from all three sides",
+        "Incentre is equidistant from all three vertices",
+        "Triangle is equilateral",
+        "Triangle is isosceles"
+      ],
       "correctAnswer": "A",
       "explanation": "IA, IB, IC are perpendicular distances from I to the three sides. They are equal, meaning I is equidistant from all sides.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "1"
     }
   ],
@@ -290,8 +445,145 @@
       "Right-angled triangle: set squares, ramps, stairs"
     ],
     "formulas": [
-      { "formula": "Incentre: equidistant from all three sides", "explanation": "IA = IB = IC (perpendicular distances to sides)" },
-      { "formula": "Circumcentre: equidistant from all three vertices", "explanation": "CA = CB = CC (distances to vertices)" }
+      {
+        "formula": "Incentre: equidistant from all three sides",
+        "explanation": "IA = IB = IC (perpendicular distances to sides)"
+      },
+      {
+        "formula": "Circumcentre: equidistant from all three vertices",
+        "explanation": "CA = CB = CC (distances to vertices)"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Arrange the pieces to form the correct mathematical expression.",
+    "data": {
+      "formula": "Perimeter of Square = 4 × Side",
+      "components": [
+        "Perimeter",
+        "=",
+        "4",
+        "×",
+        "Side"
+      ],
+      "explanation": "A square has 4 equal sides. Its perimeter is 4 times the length of one side."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Geometrical Constructions",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "The point where the three angle bisectors of a triangle meet is called _____.",
+        "answer": "The angle bisectors of a triangle are concurrent at the incentre (I), which is always inside the triangle.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The circumcentre is equidistant from _____.",
+        "answer": "The circumcentre C is equidistant from all three vertices: CX = CY = CZ.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The incentre is always _____.",
+        "answer": "The incentre (intersection of angle bisectors) is always inside the triangle for any triangle.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The perpendicular bisectors of the sides of a triangle are concurrent at the _____.",
+        "answer": "The three perpendicular bisectors meet at the circumcentre C.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "To construct a unique triangle, you need a minimum of _____ measurements.",
+        "answer": "Three measurements (sides and/or angles in the right combination) are needed to uniquely determine a triangle.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In △MAT with ∠MAT=90°, MA=4cm and AT=3cm, what is the hypotenuse MT?",
+        "answer": "MT² = MA² + AT² = 16+9 = 25. MT = 5 cm. (3-4-5 right triangle)",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which gives the construction method 'SSS'?",
+        "answer": "SSS stands for Side-Side-Side: all three sides are given for the triangle construction.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "For an obtuse-angled triangle, the circumcentre lies _____.",
+        "answer": "For an obtuse triangle, the circumcentre lies outside the triangle; for acute, inside; for right-angled, on the hypotenuse.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the angle bisector of ∠ABC?",
+        "answer": "The angle bisector of ∠ABC divides it into two equal angles: m∠ABM = m∠MBC",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "From the incentre I of a triangle, IA = IB = IC where A, B, C are the feet of perpendiculars. This means _____.",
+        "answer": "IA, IB, IC are perpendicular distances from I to the three sides. They are equal, meaning I is equidistant from all sides.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Explain the procedure and purpose of drawing an angle bisector.",
+        "modelAnswer": "An angle bisector is a line or ray that divides a given angle into two equal parts. To draw one, you use a compass to mark arcs on the arms of the angle, then use those points to find an intersection point equidistant from both arms. Drawing a line from the angle's vertex through this intersection creates the bisector. This construction is essential for creating precise geometric figures where angles need to be accurately halved.",
+        "keyPoints": [
+          "Divides an angle into two equal parts.",
+          "Uses a compass to mark intersecting arcs.",
+          "Line is drawn from the vertex through the intersection.",
+          "Essential for precise geometric constructions."
+        ]
+      },
+      {
+        "id": "la2",
+        "question": "Describe how to construct the perpendicular bisector of a line segment.",
+        "modelAnswer": "A perpendicular bisector is a line that divides a line segment into two equal parts at a 90-degree angle. To construct it, place a compass point on one end of the segment and draw arcs above and below the line using a radius greater than half its length. Repeat this from the other endpoint without changing the radius to create two intersecting points. Drawing a straight line through these two points gives the perpendicular bisector.",
+        "keyPoints": [
+          "Divides a line segment into two equal parts.",
+          "Intersects the segment at exactly 90 degrees.",
+          "Arcs are drawn from both endpoints with the same radius.",
+          "The line connecting the arc intersections forms the bisector."
+        ]
+      },
+      {
+        "id": "la3",
+        "question": "What is the property of the angle bisectors of a triangle and what is the point of concurrence called?",
+        "modelAnswer": "The property of the angle bisectors of a triangle is that they are concurrent, meaning all three bisectors intersect at a single common point. This specific point of concurrence is called the incentre and is denoted by the letter 'I'. The incentre is always located in the interior of the triangle, regardless of the triangle's shape. Furthermore, the perpendicular distances from the incentre to all three sides of the triangle are exactly equal.",
+        "keyPoints": [
+          "Angle bisectors of a triangle are concurrent.",
+          "The point of concurrence is called the incentre ('I').",
+          "The incentre is always in the interior of the triangle.",
+          "It is equidistant from all three sides of the triangle."
+        ]
+      },
+      {
+        "id": "la4",
+        "question": "Explain the property of perpendicular bisectors of the sides of a triangle and define its point of concurrence.",
+        "modelAnswer": "The perpendicular bisectors of all three sides of a triangle are concurrent, meaning they intersect at exactly one point. This point of concurrence is known as the circumcentre of the triangle and is typically denoted by the letter 'C'. The location of the circumcentre can be inside, outside, or on the triangle depending on whether it is acute, obtuse, or right-angled. A key property is that the distance from the circumcentre to each of the triangle's three vertices is equal.",
+        "keyPoints": [
+          "Perpendicular bisectors of a triangle's sides are concurrent.",
+          "The point of concurrence is called the circumcentre ('C').",
+          "Its location varies depending on the type of triangle.",
+          "The circumcentre is equidistant from all three vertices."
+        ]
+      },
+      {
+        "id": "la5",
+        "question": "How can you verify that a drawn line is the perpendicular bisector of a given line segment?",
+        "modelAnswer": "To verify a perpendicular bisector, you must check two specific conditions at the point where it intersects the line segment. First, measure the angle formed at the intersection using a protractor; it must be exactly 90 degrees. Second, measure the length of the two segments created on the original line using a ruler or compass; they must be perfectly equal. If both the angle is right and the lengths are equal, the line is verified as a true perpendicular bisector.",
+        "keyPoints": [
+          "Verify two conditions: angle and segment lengths.",
+          "The angle of intersection must be exactly 90 degrees.",
+          "The distances from the intersection to the endpoints must be equal.",
+          "Use a protractor and ruler or compass for accurate verification."
+        ]
+      }
     ]
   }
 }

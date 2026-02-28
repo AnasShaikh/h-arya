@@ -339,5 +339,160 @@
       "A poor farmer's vote counting equally to a billionaire's vote in elections shows Universal Adult Franchise."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "match-pairs",
+    "title": "Match the Pairs!",
+    "description": "Match each constitutional term to its correct meaning.",
+    "data": {
+      "pairs": [
+        {
+          "term": "Constitution",
+          "match": "Supreme law of the land in India"
+        },
+        {
+          "term": "Preamble",
+          "match": "Introduction to the Constitution stating its goals"
+        },
+        {
+          "term": "Parliament",
+          "match": "Supreme law-making body of India"
+        },
+        {
+          "term": "Fundamental Rights",
+          "match": "Basic rights guaranteed to all citizens"
+        },
+        {
+          "term": "Directive Principles",
+          "match": "Guidelines for the government to follow"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Features of the Indian Constitution",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Which list in the Constitution contains subjects on which both the Centre and States can make laws?",
+        "answer": "The Concurrent List contains subjects on which both the Union (Central) Government and State Governments can make laws. If there is a conflict, the Central law prevails.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the minimum age to vote in Indian elections?",
+        "answer": "The voting age in India is 18 years. It was lowered from 21 to 18 by the 61st Amendment in 1988.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following subjects belongs to the Union List?",
+        "answer": "Defence is a Union List subject — only the Central Government can make laws regarding defence. Agriculture and Police are State List subjects.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In India's parliamentary system, who holds the real executive power?",
+        "answer": "In India's parliamentary system, the Prime Minister is the real head of the government with actual executive powers. The President is the constitutional/nominal head.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'Single Citizenship' mean in India?",
+        "answer": "Single Citizenship means every person is only a citizen of India — not separately a citizen of any state. This ensures equal rights across all states.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is meant by 'Independent Judiciary'?",
+        "answer": "An Independent Judiciary means courts are free from political pressure and interference, and can declare laws or government actions unconstitutional.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the meaning of 'Federal with Unitary Bias' in the Indian Constitution?",
+        "answer": "India is federal (power divided between Centre and States) but has a unitary bias — during emergencies, the Central Government can take over state functions.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is a State List subject?",
+        "answer": "Agriculture is a State List subject — states can make their own laws on agriculture. Foreign affairs, currency, and railways are Union List subjects.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Indian Constitution is described as 'partly rigid and partly flexible.' What does 'rigid' mean here?",
+        "answer": "Rigid means that certain provisions (like Fundamental Rights) require a special amendment procedure — a two-thirds majority in Parliament — and cannot be changed easily.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does Universal Adult Franchise ensure?",
+        "answer": "Universal Adult Franchise ensures that every adult citizen (18+) has an equal right to vote, regardless of caste, religion, gender, language, or economic status.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What is the minimum age to vote in Indian elections?",
+        "modelAnswer": "The voting age in India is 18 years. It was lowered from 21 to 18 by the 61st Amendment in 1988. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The voting age in India is 18 years.",
+          "It was lowered from 21 to 18 by the 61st Amendment in 1988.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What does 'Single Citizenship' mean in India?",
+        "modelAnswer": "Single Citizenship means every person is only a citizen of India — not separately a citizen of any state. This ensures equal rights across all states. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Single Citizenship means every person is only a citizen of India — not separately a citizen of any state.",
+          "This ensures equal rights across all states.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What is meant by 'Independent Judiciary'?",
+        "modelAnswer": "An Independent Judiciary means courts are free from political pressure and interference, and can declare laws or government actions unconstitutional. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What is meant by 'Independent Judiciary'?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What is the meaning of 'Federal with Unitary Bias' in the Indian Constitution?",
+        "modelAnswer": "India is federal (power divided between Centre and States) but has a unitary bias — during emergencies, the Central Government can take over state functions. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What is the meaning of 'Federal with Unitary Bias' in the Indian Constitution?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "The Indian Constitution is described as 'partly rigid and partly flexible.' What does 'rigid' mean here?",
+        "modelAnswer": "Rigid means that certain provisions (like Fundamental Rights) require a special amendment procedure — a two-thirds majority in Parliament — and cannot be changed easily. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: The Indian Constitution is described as 'partly rigid and partly flexible.' What does 'rigid' mean here?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What does Universal Adult Franchise ensure?",
+        "modelAnswer": "Universal Adult Franchise ensures that every adult citizen (18+) has an equal right to vote, regardless of caste, religion, gender, language, or economic status. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What does Universal Adult Franchise ensure?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

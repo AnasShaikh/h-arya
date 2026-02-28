@@ -324,5 +324,136 @@
       "The current Maratha reservations debate in Maharashtra echoes the historical memory of Maratha dominance and subsequent marginalization — the past is never entirely past."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Shivaji establishes Swaraj",
+          "year": "1646",
+          "fact": "Beginning of Maratha power in the Deccan"
+        },
+        {
+          "label": "Battle of Salher",
+          "year": "1672",
+          "fact": "Major Maratha victory against the Mughals"
+        },
+        {
+          "label": "Shivaji's Coronation",
+          "year": "1674",
+          "fact": "Shivaji crowned Chhatrapati at Raigad"
+        },
+        {
+          "label": "Sambhaji becomes king",
+          "year": "1680",
+          "fact": "Shivaji's son continued the struggle against the Mughals"
+        },
+        {
+          "label": "Peshwa Era begins",
+          "year": "1713",
+          "fact": "Balaji Vishwanath became the first powerful Peshwa"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Progression and Fall of the Maratha Empire",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "When did the British East India Company first arrive in India?",
+        "answer": "The British East India Company first arrived at Surat in 1608 as traders. From this initial trading post, they gradually expanded their political and military influence across India over the next 150 years.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was the 'subsidiary alliance' system used by the British?",
+        "answer": "The subsidiary alliance system was a clever British strategy — they offered military protection to Indian rulers, but the ruler had to pay for British troops stationed in their territory, dismiss their own foreign ministers, and accept British advice on governance. It was effectively a way to take control while appearing to offer help.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was the outcome of the Battle of Wadgaon (1779) during the First Anglo-Maratha War?",
+        "answer": "The Battle of Wadgaon (1779) was a complete Maratha victory — a British force was surrounded by Maratha armies and forced to sign a humiliating agreement. It was one of the few decisive Maratha military victories against the British.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Treaty of Salbai (1782) ended which war?",
+        "answer": "The Treaty of Salbai (1782) ended the First Anglo-Maratha War (1775-1782). Under the treaty, the British returned territories they had captured — it was generally favorable to the Marathas, making it the last war the Marathas clearly won against the British.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which Peshwa signed the Treaty of Bassein (1802), accepting British suzerainty?",
+        "answer": "Peshwa Bajirao II — described as weak and treacherous — signed the Treaty of Bassein (1802) with the British, accepting their suzerainty in exchange for personal protection against his Maratha rivals. This effectively surrendered Maratha independence.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In which year was the Peshwai formally abolished?",
+        "answer": "The Peshwai was formally abolished on 1 June 1818, after the British defeated the Maratha forces in the Third Anglo-Maratha War. This ended Maratha political independence and brought Maharashtra under direct British colonial rule.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How were Nana Saheb and the last Peshwa Bajirao II connected?",
+        "answer": "Nana Saheb (also called Dhondu Pant) was Bajirao II's adopted son. He grew up at Bithur near Kanpur (where Bajirao II was exiled) and led the revolt in that region in 1857, motivated by the British refusal to continue his father's pension.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why were Nana Saheb's and Tatya Tope's revolts in 1857 historically connected to the Maratha Swaraj?",
+        "answer": "Nana Saheb and Tatya Tope's revolt in 1857 was directly linked to the Maratha Swaraj — they sought to restore the Maratha sovereignty that had been ended in 1818. The memory of Shivaji's just rule and the humiliation of the 1818 defeat directly fueled their resistance.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What was the 'subsidiary alliance' system used by the British?",
+        "modelAnswer": "The Subsidiary Alliance was a system introduced by Lord Wellesley to expand British influence in India. Under this system, Indian rulers had to maintain a British military force within their territory at their own expense. In return, the British promised to protect the state from internal and external enemies. However, the ruler could not employ any other Europeans or negotiate with other Indian rulers without British permission, effectively making the state a protectorate of the British.",
+        "keyPoints": [
+          "Introduced by Lord Wellesley to expand British control.",
+          "Indian rulers paid for a British army stationed in their state.",
+          "British provided protection against enemies.",
+          "Rulers lost independence in foreign affairs and diplomacy."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "What was the outcome of the Battle of Wadgaon (1779) during the First Anglo-Maratha War?",
+        "modelAnswer": "In the Battle of Wadgaon (1779), the Maratha forces led by Mahadji Shinde and Nana Phadnavis used 'guerrilla tactics' and a 'scorched earth policy' to trap the British army. The British were cut off from their food and water supplies and were forced to surrender at Wadgaon. This resulted in the Treaty of Wadgaon, where the British had to return all territories captured since 1773, marking a significant, though temporary, victory for the Maratha Empire.",
+        "keyPoints": [
+          "Marathas used guerrilla tactics and scorched earth policy.",
+          "British army was trapped and forced to surrender.",
+          "Treaty of Wadgaon forced British to return captured territories.",
+          "Signified the strength of Maratha resistance."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "Why were Nana Saheb's and Tatya Tope's revolts in 1857 historically connected to the Maratha Swaraj?",
+        "modelAnswer": "Nana Saheb Peshwa and Tatya Tope played crucial roles in the Revolt of 1857, which they viewed as a continuation of the struggle for independence (Swaraj). As the adopted son of the last Peshwa, Bajirao II, Nana Saheb sought to reclaim the prestige and authority of the Peshwaship that the British had abolished. Their efforts to unite various Indian rulers against British rule were inspired by the earlier Maratha ideal of defending the motherland from foreign domination.",
+        "keyPoints": [
+          "Nana Saheb sought to restore the Peshwaship and Maratha honor.",
+          "Revolt was seen as a struggle for independence (Swaraj).",
+          "Inspired by the Maratha legacy of resisting foreign rule.",
+          "Attempted to unite Indian forces against the British."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "When did the British East India Company first arrive in India?",
+        "modelAnswer": "The British East India Company first arrived at Surat in 1608 as traders. From this initial trading post, they gradually expanded their political and military influence across India over the next 150 years. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The British East India Company first arrived at Surat in 1608 as traders.",
+          "From this initial trading post, they gradually expanded their political and military influence across India over the next 150 years.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      }
+    ]
   }
 }

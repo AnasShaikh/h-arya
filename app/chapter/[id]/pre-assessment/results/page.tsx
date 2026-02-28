@@ -4,133 +4,176 @@ import { useEffect, useState } from 'react';
 import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import confetti from 'canvas-confetti';
+import InteractiveElement from '../../../../components/InteractiveElement';
 
 export default function PreAssessmentResults() {
   const params = useParams();
   const router = useRouter();
   const searchParams = useSearchParams();
   const [isLoading, setIsLoading] = useState(true);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const [interactiveElement, setInteractiveElement] = useState<any>(null);
 
   const score = parseInt(searchParams.get('score') || '0');
   const correct = parseInt(searchParams.get('correct') || '0');
   const total = parseInt(searchParams.get('total') || '5');
 
   useEffect(() => {
-    const userId = sessionStorage.getItem('userId');
-    if (!userId) {
-      router.push('/login');
-      return;
-    }
-    
-    // Trigger confetti if score is high
-    if (score >= 60) {
-      const duration = 3 * 1000;
-      const animationEnd = Date.now() + duration;
-      const defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
+    const init = async () => {
+      const userId = sessionStorage.getItem('userId');
+      if (!userId) {
+        router.push('/login');
+        return;
+      }
 
-      const randomInRange = (min: number, max: number) => Math.random() * (max - min) + min;
-
-      const interval: any = setInterval(function() {
-        const timeLeft = animationEnd - Date.now();
-
-        if (timeLeft <= 0) {
-          return clearInterval(interval);
+      try {
+        const response = await fetch(`/api/content/${params.id}`);
+        if (response.ok) {
+          const data = await response.json();
+          if (data.interactiveElement) setInteractiveElement(data.interactiveElement);
         }
+      } catch (error) {
+        console.error('Error loading interactive element:', error);
+      }
 
-        const particleCount = 50 * (timeLeft / duration);
-        // since particles fall down, start a bit higher than random
-        confetti({ ...defaults, particleCount, origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 } });
-        confetti({ ...defaults, particleCount, origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 } });
-      }, 250);
-    }
+      // Trigger confetti if score is high
+      if (score >= 60) {
+        const duration = 3 * 1000;
+        const animationEnd = Date.now() + duration;
+        const defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
 
-    setIsLoading(false);
-  }, [router, score]);
+        const randomInRange = (min: number, max: number) => Math.random() * (max - min) + min;
+
+        const interval: any = setInterval(function() {
+          const timeLeft = animationEnd - Date.now();
+
+          if (timeLeft <= 0) {
+            return clearInterval(interval);
+          }
+
+          const particleCount = 50 * (timeLeft / duration);
+          // since particles fall down, start a bit higher than random
+          confetti({ ...defaults, particleCount, origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 } });
+          confetti({ ...defaults, particleCount, origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 } });
+        }, 250);
+      }
+
+      setIsLoading(false);
+    };
+
+    init();
+  }, [router, score, params.id]);
 
   const getPerformanceLevel = () => {
-    if (score >= 80) return { level: 'Excellent!', color: 'text-green-600', emoji: '🌟' };
-    if (score >= 60) return { level: 'Good!', color: 'text-blue-600', emoji: '👍' };
-    return { level: 'Keep Learning!', color: 'text-orange-600', emoji: '💪' };
+    if (score >= 80) return { level: 'Excellent!', color: 'text-green-600', bg: 'bg-green-50', border: 'border-green-200', emoji: '🌟' };
+    if (score >= 60) return { level: 'Good Start!', color: 'text-blue-600', bg: 'bg-blue-50', border: 'border-blue-200', emoji: '👍' };
+    return { level: 'Keep Learning!', color: 'text-amber-600', bg: 'bg-amber-50', border: 'border-amber-200', emoji: '💪' };
+  };
+
+  const handleInteractiveComplete = async () => {
+    const userId = sessionStorage.getItem('userId');
+    if (!userId) return;
+
+    await fetch(`/api/chapter/${params.id}/progress`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        userId: parseInt(userId || '0'),
+        stageCompleted: 6,
+      })
+    });
   };
 
   const performance = getPerformanceLevel();
 
   if (isLoading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
+      <div className="min-h-screen bg-gradient-to-br from-violet-50 to-indigo-50 flex items-center justify-center">
         <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600 mx-auto"></div>
+           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-violet-600 mx-auto"></div>
+           <p className="mt-4 text-gray-800">Calculating results...</p>
         </div>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
-      <div className="max-w-2xl w-full">
-        <div className="bg-white rounded-2xl shadow-xl p-8">
+    <div className="min-h-screen bg-gradient-to-br from-violet-50 to-indigo-50 flex items-center justify-center p-4">
+      <div className="max-w-2xl w-full py-8">
+        <div className="bg-white rounded-3xl shadow-xl p-8 border border-violet-100">
           {/* Success Icon */}
           <div className="text-center mb-8">
-            <div className="w-24 h-24 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
-              <span className="text-5xl">✅</span>
+            <div className="w-24 h-24 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4 shadow-inner">
+              <span className="text-5xl animate-bounce">✅</span>
             </div>
             <h1 className="text-3xl font-bold text-gray-900 mb-2">
-              Pre-Assessment Complete!
+              Assessment Complete!
             </h1>
-            <p className="text-gray-800">
-              Great job! Here&apos;s how you did:
+            <p className="text-gray-500 font-medium">
+              Great job! Here's your starting point:
             </p>
           </div>
 
           {/* Score Display */}
-          <div className="bg-gradient-to-r from-indigo-50 to-purple-50 rounded-xl p-8 mb-8">
-            <div className="text-center">
-              <div className="text-6xl font-bold text-indigo-600 mb-2">
+          <div className={`${performance.bg} ${performance.border} border-2 rounded-2xl p-8 mb-8 text-center transform transition hover:scale-[1.02]`}>
+              <div className={`text-6xl font-black ${performance.color} mb-2 tracking-tight`}>
                 {Math.round(score)}%
               </div>
-              <p className="text-xl text-gray-900 mb-4">
+              <p className="text-lg font-medium text-gray-700 mb-4">
                 {correct} out of {total} questions correct
               </p>
-              <div className={`text-2xl font-semibold ${performance.color} flex items-center justify-center`}>
+              <div className={`inline-flex items-center justify-center px-4 py-1 rounded-full bg-white/60 text-lg font-bold ${performance.color}`}>
                 <span className="mr-2">{performance.emoji}</span>
                 {performance.level}
               </div>
-            </div>
           </div>
 
           {/* Performance Message */}
-          <div className="bg-blue-50 rounded-lg p-6 mb-8">
-            <p className="text-gray-900">
-              <span className="font-semibold">💡 What&apos;s Next:</span>{' '}
-              {score >= 60 
-                ? "You have a good understanding of the basics! Let's dive deeper into the concepts."
-                : "Don't worry! We'll start from the fundamentals and build your understanding step by step."
-              }
-            </p>
+          <div className="bg-violet-50 rounded-2xl p-6 mb-8 border border-violet-100">
+            <div className="flex gap-4">
+               <span className="text-2xl">💡</span>
+               <div>
+                  <h3 className="font-bold text-violet-900 mb-1">What's Next</h3>
+                  <p className="text-violet-800 leading-relaxed">
+                    {score >= 60 
+                      ? "You have a solid foundation! Let's build on it with some advanced concepts."
+                      : "No worries! We'll start from the basics and help you master this topic step-by-step."
+                    }
+                  </p>
+               </div>
+            </div>
           </div>
+
+          {/* Interactive Practice */}
+          {interactiveElement && (
+            <div className="mb-8">
+              <InteractiveElement element={interactiveElement} onComplete={handleInteractiveComplete} />
+            </div>
+          )}
 
           {/* Action Buttons */}
           <div className="space-y-4">
             <Link
               href={`/chapter/${params.id}/explanation`}
-              className="block w-full bg-indigo-600 text-white py-4 rounded-lg font-semibold hover:bg-indigo-700 transition text-center text-lg"
+              className="w-full bg-violet-600 hover:bg-violet-700 text-white rounded-xl px-6 py-4 font-bold text-lg shadow-lg shadow-violet-200 transition-all active:scale-95 flex items-center justify-center gap-2"
             >
-              Continue to Explanation →
+              <span>Continue to Explanation</span>
+              <span>→</span>
             </Link>
             
             <Link
               href={`/chapter/${params.id}`}
-              className="block w-full bg-white border-2 border-gray-300 text-gray-700 py-3 rounded-lg font-semibold hover:bg-gray-50 transition text-center"
+              className="w-full bg-white border-2 border-gray-200 hover:border-gray-300 text-gray-600 hover:text-gray-900 rounded-xl px-6 py-4 font-semibold transition-all active:scale-95 flex items-center justify-center"
             >
               Back to Chapter Overview
             </Link>
           </div>
 
           {/* Stage Indicator */}
-          <div className="mt-8 pt-6 border-t border-gray-200">
-            <div className="flex items-center justify-center text-sm text-gray-700">
+          <div className="mt-8 pt-6 border-t border-gray-100">
+            <div className="flex items-center justify-center text-sm font-medium text-gray-500">
               <span className="mr-2">Stage 1 of 5 Complete</span>
-              <span>✅</span>
+              <span className="text-green-500">✅</span>
             </div>
           </div>
         </div>

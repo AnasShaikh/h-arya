@@ -10,7 +10,12 @@
     {
       "id": "pre_20_1",
       "question": "Who wrote 'Under the Greenwood Tree'?",
-      "options": ["A) John Milton", "B) William Shakespeare", "C) Charles Dickens", "D) Walter de la Mare"],
+      "options": [
+        "A) John Milton",
+        "B) William Shakespeare",
+        "C) Charles Dickens",
+        "D) Walter de la Mare"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_20_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_20_2",
       "question": "From which play is the song 'Under the Greenwood Tree' taken?",
-      "options": ["A) A Midsummer Night's Dream", "B) Hamlet", "C) As You Like It", "D) Romeo and Juliet"],
+      "options": [
+        "A) A Midsummer Night's Dream",
+        "B) Hamlet",
+        "C) As You Like It",
+        "D) Romeo and Juliet"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_20_1"
@@ -26,7 +36,12 @@
     {
       "id": "pre_20_3",
       "question": "What does the old English word 'hither' mean?",
-      "options": ["A) Away", "B) Here", "C) There", "D) Far"],
+      "options": [
+        "A) Away",
+        "B) Here",
+        "C) There",
+        "D) Far"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_20_4"
@@ -34,7 +49,12 @@
     {
       "id": "pre_20_4",
       "question": "Who is invited in the song to come under the greenwood tree?",
-      "options": ["A) Rich and ambitious people", "B) Those who have given up ambition", "C) Kings and queens", "D) Children going to school"],
+      "options": [
+        "A) Rich and ambitious people",
+        "B) Those who have given up ambition",
+        "C) Kings and queens",
+        "D) Children going to school"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_20_3"
@@ -42,7 +62,12 @@
     {
       "id": "pre_20_5",
       "question": "According to the song, what is the only enemy in the greenwood forest life?",
-      "options": ["A) Wild animals", "B) Hunger and poverty", "C) Winter and rough weather", "D) Other people"],
+      "options": [
+        "A) Wild animals",
+        "B) Hunger and poverty",
+        "C) Winter and rough weather",
+        "D) Other people"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_20_2"
@@ -174,7 +199,12 @@
     {
       "id": "test_20_1",
       "question": "Who wrote the song 'Under the Greenwood Tree'?",
-      "options": ["A) John Keats", "B) William Shakespeare", "C) Robert Frost", "D) Walter de la Mare"],
+      "options": [
+        "A) John Keats",
+        "B) William Shakespeare",
+        "C) Robert Frost",
+        "D) Walter de la Mare"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "William Shakespeare wrote 'Under the Greenwood Tree'. It is a song from his famous comedy 'As You Like It', written around 1599."
@@ -182,7 +212,12 @@
     {
       "id": "test_20_2",
       "question": "From which play is 'Under the Greenwood Tree' taken?",
-      "options": ["A) Hamlet", "B) Macbeth", "C) As You Like It", "D) The Tempest"],
+      "options": [
+        "A) Hamlet",
+        "B) Macbeth",
+        "C) As You Like It",
+        "D) The Tempest"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "'Under the Greenwood Tree' is a song from Shakespeare's comedy 'As You Like It'. The play is set partly in the magical Forest of Arden."
@@ -190,7 +225,12 @@
     {
       "id": "test_20_3",
       "question": "What does the old English word 'hither' mean?",
-      "options": ["A) There", "B) Far away", "C) Here", "D) Beyond"],
+      "options": [
+        "A) There",
+        "B) Far away",
+        "C) Here",
+        "D) Beyond"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "'Hither' is an old English word meaning 'here'. 'Come hither' means 'Come here'. It is an archaic word no longer used in modern everyday English."
@@ -198,7 +238,12 @@
     {
       "id": "test_20_4",
       "question": "What does the old English word 'doth' mean?",
-      "options": ["A) Will", "B) Does", "C) Has", "D) Was"],
+      "options": [
+        "A) Will",
+        "B) Does",
+        "C) Has",
+        "D) Was"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "'Doth' is the old English form of 'does'. So 'who doth ambition shun' = 'whoever does shun ambition' in modern English."
@@ -206,7 +251,12 @@
     {
       "id": "test_20_5",
       "question": "Who is invited in the song to come under the greenwood tree?",
-      "options": ["A) Wealthy merchants", "B) Those who have given up worldly ambition", "C) Kings and princes", "D) Warriors returning from battle"],
+      "options": [
+        "A) Wealthy merchants",
+        "B) Those who have given up worldly ambition",
+        "C) Kings and princes",
+        "D) Warriors returning from battle"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "The song invites 'who doth ambition shun' — those who have chosen to give up or avoid worldly ambition, competition, and the rat race. These are free-spirited people who prefer simple living."
@@ -214,7 +264,12 @@
     {
       "id": "test_20_6",
       "question": "According to the song, what is the only enemy in the forest life?",
-      "options": ["A) Wild animals and snakes", "B) Hunger and thirst", "C) Winter and rough weather", "D) Evil kings and enemies"],
+      "options": [
+        "A) Wild animals and snakes",
+        "B) Hunger and thirst",
+        "C) Winter and rough weather",
+        "D) Evil kings and enemies"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "In the forest, the song says the only enemy is winter and rough weather — natural challenges. There are no human enemies like jealousy, competition, or political rivals."
@@ -222,7 +277,12 @@
     {
       "id": "test_20_7",
       "question": "What does the song invite people to sing to?",
-      "options": ["A) The sound of the river", "B) The sweet bird's throat", "C) Musical instruments", "D) The wind in the trees"],
+      "options": [
+        "A) The sound of the river",
+        "B) The sweet bird's throat",
+        "C) Musical instruments",
+        "D) The wind in the trees"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "The song invites people to 'sing...unto the sweet bird's throat' — meaning to sing as freely and naturally as birds do, in harmony with nature."
@@ -230,7 +290,12 @@
     {
       "id": "test_20_8",
       "question": "What is the main theme of 'Under the Greenwood Tree'?",
-      "options": ["A) The importance of being ambitious and successful", "B) The joys of a simple, free, natural life over a life of ambition", "C) The dangers of living in the forest", "D) How singing improves your voice"],
+      "options": [
+        "A) The importance of being ambitious and successful",
+        "B) The joys of a simple, free, natural life over a life of ambition",
+        "C) The dangers of living in the forest",
+        "D) How singing improves your voice"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "The main theme is that a simple, free life in nature is more joyful and peaceful than an ambitious, complicated worldly life. The greenwood tree symbolises freedom and natural contentment."
@@ -259,5 +324,168 @@
       "Gandhian philosophy of simple living and high thinking ('Sade jiyo, uchch vichar karo') perfectly captures the essence of this song."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Under the Greenwood Tree",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who wrote the song 'Under the Greenwood Tree'?",
+        "answer": "William Shakespeare wrote 'Under the Greenwood Tree'. It is a song from his famous comedy 'As You Like It', written around 1599.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "From which play is 'Under the Greenwood Tree' taken?",
+        "answer": "'Under the Greenwood Tree' is a song from Shakespeare's comedy 'As You Like It'. The play is set partly in the magical Forest of Arden.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the old English word 'hither' mean?",
+        "answer": "'Hither' is an old English word meaning 'here'. 'Come hither' means 'Come here'. It is an archaic word no longer used in modern everyday English.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the old English word 'doth' mean?",
+        "answer": "'Doth' is the old English form of 'does'. So 'who doth ambition shun' = 'whoever does shun ambition' in modern English.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who is invited in the song to come under the greenwood tree?",
+        "answer": "The song invites 'who doth ambition shun' — those who have chosen to give up or avoid worldly ambition, competition, and the rat race. These are free-spirited people who prefer simple living.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "According to the song, what is the only enemy in the forest life?",
+        "answer": "In the forest, the song says the only enemy is winter and rough weather — natural challenges. There are no human enemies like jealousy, competition, or political rivals.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the song invite people to sing to?",
+        "answer": "The song invites people to 'sing...unto the sweet bird's throat' — meaning to sing as freely and naturally as birds do, in harmony with nature.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the main theme of 'Under the Greenwood Tree'?",
+        "answer": "The main theme is that a simple, free life in nature is more joyful and peaceful than an ambitious, complicated worldly life. The greenwood tree symbolises freedom and natural contentment.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What does the old English word 'hither' mean?",
+        "modelAnswer": "The old English word 'hither' simply means 'here' in modern English. In the song \"Under the Greenwood Tree\", the repeated phrase \"Come hither\" acts as a warm and enthusiastic invitation. It is an archaic word that Shakespeare used because he wrote the play over 400 years ago. Understanding such words helps us appreciate the original beauty of his poetry. For example, when someone says \"come hither,\" they are just inviting you to join them where they are.",
+        "keyPoints": [
+          "'Hither' is an archaic English word that translates to 'here' in modern language.",
+          "It is used in the song as an enthusiastic invitation (\"Come hither\").",
+          "The word reflects the period over 400 years ago when Shakespeare wrote.",
+          "It helps convey a welcoming tone to those seeking the simple forest life."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What does the old English word 'doth' mean?",
+        "modelAnswer": "The word 'doth' is an old English form of the modern verb 'does'. In Shakespeare's song, the phrase \"who doth ambition shun\" means \"whoever does shun ambition\". It is considered an archaic word because it is no longer used in everyday modern English. However, reading words like 'doth' allows us to experience the English language as it was spoken centuries ago. Today, you might still occasionally see such words in very old formal or legal documents.",
+        "keyPoints": [
+          "'Doth' is the archaic form of the modern verb 'does'.",
+          "It appears in the line \"who doth ambition shun\", referring to someone who avoids ambition.",
+          "The word is a reflection of the English language as it was over 400 years ago.",
+          "While no longer in everyday use, it adds historical flavour to Shakespeare's poetry."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "According to the song, what is the only enemy in the forest life?",
+        "modelAnswer": "According to the song, the only enemies in the forest are \"winter and rough weather\". This highlights that in a simple natural life, the only challenges people face are natural ones like cold or storms. Unlike the ambitious worldly life at court, there are no human enemies driven by jealousy, greed, or political rivalry. The forest is portrayed as a peaceful paradise where people can live freely and honestly. The focus is on natural survival rather than interpersonal conflict.",
+        "keyPoints": [
+          "The only enemies mentioned in the forest are \"winter and rough weather\".",
+          "The challenges of forest life are entirely natural, not man-made.",
+          "There are no human enemies, jealousy, or political rivalries in this simple life.",
+          "The forest represents a peaceful paradise free from worldly corruption."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What does the song invite people to sing to?",
+        "modelAnswer": "The song invites people to sing \"unto the sweet bird's throat\", which means to sing as freely and naturally as the birds do. This invitation encourages people to harmonize with nature and let go of their worldly worries. By comparing human singing to a bird's song, Shakespeare emphasizes a life of joy and simple pleasures. It paints a picture of contentment where individuals can express themselves without any self-consciousness. Singing in the forest represents pure, unburdened happiness.",
+        "keyPoints": [
+          "People are invited to sing \"unto the sweet bird's throat\".",
+          "This means singing freely, naturally, and joyfully like birds.",
+          "It symbolizes living in harmony with nature and abandoning worldly stress.",
+          "The act of singing reflects the pure happiness and contentment of forest life."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What is the main theme of 'Under the Greenwood Tree'?",
+        "modelAnswer": "The central theme of \"Under the Greenwood Tree\" is the contrast between a complicated, ambitious worldly life and a simple, peaceful life in nature. The song suggests that true happiness comes from living honestly and freely, away from the corruption and rivalries of the royal court. By rejecting ambition, individuals can find contentment in the forest, where their only challenges are the weather. The greenwood tree serves as a powerful symbol of this freedom and natural joy. Ultimately, it is an invitation to choose inner peace over worldly success.",
+        "keyPoints": [
+          "The poem contrasts the ambitious worldly life with a simple life in nature.",
+          "True happiness and contentment are found in honest, simple living.",
+          "The forest offers freedom from human enemies, jealousy, and political corruption.",
+          "The greenwood tree symbolizes freedom, natural joy, and inner peace."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Who is invited in the song to come under the greenwood tree?",
+        "modelAnswer": "The song explicitly invites those \"who doth ambition shun,\" meaning people who have rejected worldly ambition and the rat race. It is a warm call for free-spirited individuals who seek contentment over wealth or power. These are people who prefer a simple, honest life in harmony with nature rather than dealing with political rivalries. Shakespeare suggests that the forest is a sanctuary for those tired of the complicated royal court. Therefore, only those willing to live freely and peacefully are truly welcome.",
+        "keyPoints": [
+          "The song invites those \"who doth ambition shun\" or people who reject worldly ambition.",
+          "It calls for free-spirited individuals who prioritize contentment over wealth and power.",
+          "The forest is presented as a sanctuary away from the complicated, competitive royal court.",
+          "The invitation is meant for people seeking a simple, honest life in harmony with nature."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "What does the greenwood tree symbolize in the song?",
+        "modelAnswer": "The greenwood tree is a powerful symbol of freedom, natural happiness, and an escape from societal pressures. It represents a simpler way of life where individuals can find contentment without wealth or status. Unlike the royal court, which is filled with enemies and ambition, the tree offers shelter and peace. Under its branches, people can sing freely like birds and enjoy pure, unburdened joy. Ultimately, it embodies the ideal of finding inner peace by living in harmony with the natural world.",
+        "keyPoints": [
+          "The tree symbolizes freedom, natural happiness, and an escape from societal pressures.",
+          "It represents a simple life where contentment is found without wealth or high status.",
+          "The tree offers a peaceful shelter, contrasting sharply with the corrupt and competitive royal court.",
+          "It embodies the idea of finding true inner peace by living harmoniously with nature."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

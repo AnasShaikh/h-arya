@@ -294,7 +294,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The horizon is the circular line where the sky appears to meet the ground when viewed from a distance.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "132"
     },
     {
@@ -308,7 +310,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The ecliptic is the apparent path of the sun through the celestial sphere, used to define the 12 zodiac signs.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "135"
     },
     {
@@ -322,7 +326,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The 27 nakshatras are divided into three seasons (monsoon, winter, summer), so each season has 27÷3 = 9 nakshatras.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "133"
     },
     {
@@ -336,7 +342,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The sun's rising and setting is apparent motion caused by Earth's rotation, not the sun actually moving around us.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "135-136"
     },
     {
@@ -350,7 +358,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A constellation is a group of stars that appear to form a pattern and occupy a specific area of the celestial sphere.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "133"
     },
     {
@@ -364,7 +374,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "For best sky watching: choose location away from city lights, as far as possible, and on a new moon night for dark skies.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "132"
     },
     {
@@ -378,7 +390,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Science has proved that distant stars and constellations do not have any influence on human life. Holding on to beliefs which have been proved wrong is an unnecessary waste of time, energy and money.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "136"
     },
     {
@@ -392,7 +406,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The zenith is the point on the celestial sphere directly above an observer's head.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "132"
     },
     {
@@ -406,7 +422,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "When we say the sun enters a nakshatra, it means that particular nakshatra is behind the sun from Earth's perspective. This is due to Earth's orbital motion.",
-      "conceptIds": [4, 5],
+      "conceptIds": [
+        4,
+        5
+      ],
       "pageReference": "135-136"
     },
     {
@@ -420,7 +439,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Due to Earth's revolution around the sun, stars appear to rise approximately 2 hours earlier each month (about 4 minutes earlier each day).",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "136"
     }
   ],
@@ -465,6 +486,231 @@
       {
         "formula": "1 zodiac sign = 2.25 nakshatras",
         "explanation": "The 12 zodiac signs cover 27 nakshatras, so 27÷12 = 2.25 nakshatras per sign"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "match-pairs",
+    "title": "Match the Pairs!",
+    "description": "Match each term to its correct description.",
+    "data": {
+      "pairs": [
+        {
+          "term": "Natural Resource",
+          "match": "Resource found in nature used by living organisms"
+        },
+        {
+          "term": "Renewable Resource",
+          "match": "Resource that can be replenished naturally over time"
+        },
+        {
+          "term": "Non-Renewable Resource",
+          "match": "Resource that cannot be replaced once used up"
+        },
+        {
+          "term": "Conservation",
+          "match": "Careful use and management of natural resources"
+        },
+        {
+          "term": "Biodiversity",
+          "match": "Variety of life forms in a given area"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "In the World of Stars",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "short_answer",
+        "question": "Write the proper words in the blanks.\n(meridian, horizon, twelve, nine, apparent,\ncelestial, ecliptic)\n(a) When seen from a great distance, the\nsky seems to be touching the ground\nalong a circle. This circle is called\nthe .............. .\n(b) The .............. is used while defining\nthe zodiac sign",
+        "subQuestions": [
+          "When seen from a great distance, the\nsky seems to be touching the ground\nalong a circle. This circle is called\nthe .............. .",
+          "The .............. is used while defining\nthe zodiac signs.",
+          "Classified according to seasons, one\nseason will have .............. nakshatras.",
+          "The rising of the sun in the east and\nits setting in the west is the ..............\nmotion of the sun."
+        ]
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "A star rises at 8 pm tonight. At what time\nwill it rise after a month? Why?\n136",
+        "subQuestions": []
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "What is meant by ‘The sun enters a\nnakshatra’ ? It is said that in the rainy\nseason the sun enters the Mrug\nnakshatra. What does it mean?",
+        "subQuestions": []
+      },
+      {
+        "number": 4,
+        "type": "short_answer",
+        "question": "Answer the following questions.\n(a) What is a constellation?\n(b) What points should be considered\nbefore a sky watch ?\n(c) Is it wrong to say that the planets,\nstars and nakshatras affect human\nlife ? Why ?",
+        "subQuestions": [
+          "What is a constellation?",
+          "What points should be considered\nbefore a sky watch ?",
+          "Is it wrong to say that the planets,\nstars and nakshatras affect human\nlife ? Why ?"
+        ]
+      },
+      {
+        "number": 5,
+        "type": "short_answer",
+        "question": "Write a paragraph on the birth and\nlifecycle of stars using figure 20.1",
+        "subQuestions": []
+      }
+    ],
+    "rawText": "1. Write the proper words in the blanks.\n(meridian, horizon, twelve, nine, apparent,\ncelestial, ecliptic)\n(a) When seen from a great distance, the\nsky seems to be touching the ground\nalong a circle. This circle is called\nthe .............. .\n(b) The .............. is used while defining\nthe zodiac signs.\n(c) Classified according to seasons, one\nseason will have .............. nakshatras.\n(d) The rising of the sun in the east and\nits setting in the west is the ..............\nmotion of the sun.\n2. A star rises at 8 pm tonight. At what time\nwill it rise after a month? Why?\n136\n3. What is meant by ‘The sun enters a\nnakshatra’ ? It is said that in the rainy\nseason the sun enters the Mrug\nnakshatra. What does it mean?\n4. Answer the following questions.\n(a) What is a constellation?\n(b) What points should be considered\nbefore a sky watch ?\n(c) Is it wrong to say that the planets,\nstars and nakshatras affect human\nlife ? Why ?\n5. Write a paragraph on the birth and\nlifecycle of stars using figure 20.1",
+    "qaCards": [
+      {
+        "question": "When seen from a great distance, the sky seems to be touching the ground and the line along which they meet, appears to form a circle. This circle is called the _____.",
+        "answer": "The horizon is the circular line where the sky appears to meet the ground when viewed from a distance.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The _____ is used while defining the zodiac signs.",
+        "answer": "The ecliptic is the apparent path of the sun through the celestial sphere, used to define the 12 zodiac signs.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Classifying according to seasons, one season will have _____ nakshatras.",
+        "answer": "The 27 nakshatras are divided into three seasons (monsoon, winter, summer), so each season has 27÷3 = 9 nakshatras.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The rising of the sun in the east and its setting in the west is also an apparent motion. You might have thought that a particular nakshatra is in the rising and now it prevails. It means that, at that time, if you look at the sun from the earth, that particular nakshatra is behind the sun and gives you an idea about the position of the earth revolving around the sun.",
+        "answer": "The sun's rising and setting is apparent motion caused by Earth's rotation, not the sun actually moving around us.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is a constellation?",
+        "answer": "A constellation is a group of stars that appear to form a pattern and occupy a specific area of the celestial sphere.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What points should be considered before a sky watch?",
+        "answer": "For best sky watching: choose location away from city lights, as far as possible, and on a new moon night for dark skies.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Is it wrong to say that the planets, stars and nakshatras affect human life? Why?",
+        "answer": "Science has proved that distant stars and constellations do not have any influence on human life. Holding on to beliefs which have been proved wrong is an unnecessary waste of time, energy and money.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The point on the celestial sphere exactly above our head is called _____.",
+        "answer": "The zenith is the point on the celestial sphere directly above an observer's head.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is meant by 'The sun enters a nakshatra'? It is said that the sun enters the Mrug nakshatra. What does it mean?",
+        "answer": "When we say the sun enters a nakshatra, it means that particular nakshatra is behind the sun from Earth's perspective. This is due to Earth's orbital motion.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A star rises at 8 pm tonight. At what time will it rise after a month? Why?",
+        "answer": "Due to Earth's revolution around the sun, stars appear to rise approximately 2 hours earlier each month (about 4 minutes earlier each day).",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Write the proper words in the blanks.\n(meridian, horizon, twelve, nine, apparent,\ncelestial, ecliptic)\n(a) When seen from a great distance, the\nsky seems to be touching the ground\nalong a circle. This circle is called\nthe .............. .\n(b) The .............. is used while defining\nthe zodiac sign",
+        "modelAnswer": "Answer: The horizon is the circular line where the sky appears to meet the ground when viewed from a distance.\nThis question belongs to the chapter \"In the World of Stars\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: The horizon is the circular line where the sky appears to meet the ground when viewed from a distance.",
+          "Concept link: In the World of Stars (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "When seen from a great distance, the\nsky seems to be touching the ground\nalong a circle. This circle is called\nthe .............. .",
+        "modelAnswer": "Answer: The horizon is the circular line where the sky appears to meet the ground when viewed from a distance.\nThis question belongs to the chapter \"In the World of Stars\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: The horizon is the circular line where the sky appears to meet the ground when viewed from a distance.",
+          "Concept link: In the World of Stars (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "The .............. is used while defining\nthe zodiac signs.",
+        "modelAnswer": "Answer: The ecliptic is the apparent path of the sun through the celestial sphere, used to define the 12 zodiac signs.\nThis question belongs to the chapter \"In the World of Stars\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: The ecliptic is the apparent path of the sun through the celestial sphere, used to define the 12 zodiac signs.",
+          "Concept link: In the World of Stars (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Classified according to seasons, one\nseason will have .............. nakshatras.",
+        "modelAnswer": "Answer: The 27 nakshatras are divided into three seasons (monsoon, winter, summer), so each season has 27÷3 = 9 nakshatras.\nThis question belongs to the chapter \"In the World of Stars\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: The 27 nakshatras are divided into three seasons (monsoon, winter, summer), so each season has 27÷3 = 9 nakshatras.",
+          "Concept link: In the World of Stars (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "The rising of the sun in the east and\nits setting in the west is the ..............\nmotion of the sun.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"In the World of Stars\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: In the World of Stars (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "A star rises at 8 pm tonight. At what time\nwill it rise after a month? Why?\n136",
+        "modelAnswer": "Answer: Due to Earth's revolution around the sun, stars appear to rise approximately 2 hours earlier each month (about 4 minutes earlier each day).\nThis question belongs to the chapter \"In the World of Stars\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Due to Earth's revolution around the sun, stars appear to rise approximately 2 hours earlier each month (about 4 minute…",
+          "Concept link: In the World of Stars (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "What is meant by ‘The sun enters a\nnakshatra’ ? It is said that in the rainy\nseason the sun enters the Mrug\nnakshatra. What does it mean?",
+        "modelAnswer": "Answer: When we say the sun enters a nakshatra, it means that particular nakshatra is behind the sun from Earth's perspective. This is due to Earth's orbital motion.\nThis question belongs to the chapter \"In the World of Stars\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: When we say the sun enters a nakshatra, it means that particular nakshatra is behind the sun from Earth's perspective. …",
+          "Concept link: In the World of Stars (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "Answer the following questions.\n(a) What is a constellation?\n(b) What points should be considered\nbefore a sky watch ?\n(c) Is it wrong to say that the planets,\nstars and nakshatras affect human\nlife ? Why ?",
+        "modelAnswer": "Answer: Science has proved that distant stars and constellations do not have any influence on human life. Holding on to beliefs which have been proved wrong is an unnecessary waste of time, energy and money.\nThis question belongs to the chapter \"In the World of Stars\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Science has proved that distant stars and constellations do not have any influence on human life. Holding on to beliefs…",
+          "Concept link: In the World of Stars (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
       }
     ]
   }

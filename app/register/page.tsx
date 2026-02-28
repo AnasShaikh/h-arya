@@ -65,8 +65,14 @@ export default function Register() {
         return;
       }
 
-      // Registration successful, redirect to login
-      router.push('/login?registered=true');
+      // Registration successful
+      if (data?.userId) sessionStorage.setItem('userId', String(data.userId));
+      if (data?.name) sessionStorage.setItem('name', String(data.name));
+      if (data?.grade !== undefined && data?.grade !== null) {
+        sessionStorage.setItem('grade', String(data.grade));
+      }
+
+      router.push('/onboarding');
     } catch (err) {
       setError('Something went wrong. Please try again.');
     } finally {
@@ -75,33 +81,30 @@ export default function Register() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-[#F5F3FF] flex items-center justify-center p-4">
       <div className="max-w-md w-full">
-        <div className="bg-white rounded-2xl shadow-xl p-8">
-          {/* Header */}
+        <div className="bg-white rounded-3xl shadow-2xl shadow-violet-100 p-8">
           <div className="text-center mb-8">
-            <div className="w-20 h-20 bg-indigo-600 rounded-full flex items-center justify-center mx-auto mb-4">
-              <span className="text-4xl">🎓</span>
+            <div className="inline-flex bg-gradient-to-br from-violet-600 to-indigo-600 rounded-2xl p-4 text-5xl mb-5 shadow-lg">
+              <span aria-hidden="true">🎓</span>
             </div>
-            <h1 className="text-3xl font-bold text-gray-900 mb-2">
-              Create Account
+            <h1 className="text-4xl font-extrabold text-gray-900 mb-2">
+              Join H-Arya 🎓
             </h1>
-            <p className="text-gray-800">
-              Join H-Arya and start learning!
+            <p className="text-gray-600">
+              Start your Std 7 learning journey today
             </p>
           </div>
 
-          {/* Error Message */}
           {error && (
-            <div className="mb-4 p-3 bg-red-50 border border-red-200 rounded-lg">
+            <div className="mb-4 p-3 bg-red-50 border border-red-200 rounded-xl">
               <p className="text-sm text-red-600">{error}</p>
             </div>
           )}
 
-          {/* Form */}
           <form onSubmit={handleSubmit} className="space-y-4">
             <div>
-              <label htmlFor="name" className="block text-sm font-medium text-gray-900 mb-2">
+              <label htmlFor="name" className="block text-sm font-semibold text-gray-700 mb-2">
                 Full Name
               </label>
               <input
@@ -110,14 +113,14 @@ export default function Register() {
                 name="name"
                 value={formData.name}
                 onChange={handleChange}
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition text-gray-900 placeholder:text-gray-500"
+                className="w-full border-2 border-gray-200 rounded-xl px-4 py-3.5 focus:border-violet-500 focus:outline-none focus:ring-2 focus:ring-violet-100 text-gray-900 font-medium placeholder:text-gray-400 transition-all duration-200"
                 placeholder="Enter your full name"
                 disabled={isLoading}
               />
             </div>
 
             <div>
-              <label htmlFor="username" className="block text-sm font-medium text-gray-900 mb-2">
+              <label htmlFor="username" className="block text-sm font-semibold text-gray-700 mb-2">
                 Username
               </label>
               <input
@@ -126,14 +129,14 @@ export default function Register() {
                 name="username"
                 value={formData.username}
                 onChange={handleChange}
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition text-gray-900 placeholder:text-gray-500"
+                className="w-full border-2 border-gray-200 rounded-xl px-4 py-3.5 focus:border-violet-500 focus:outline-none focus:ring-2 focus:ring-violet-100 text-gray-900 font-medium placeholder:text-gray-400 transition-all duration-200"
                 placeholder="Choose a username"
                 disabled={isLoading}
               />
             </div>
 
             <div>
-              <label htmlFor="email" className="block text-sm font-medium text-gray-900 mb-2">
+              <label htmlFor="email" className="block text-sm font-semibold text-gray-700 mb-2">
                 Email
               </label>
               <input
@@ -142,14 +145,14 @@ export default function Register() {
                 name="email"
                 value={formData.email}
                 onChange={handleChange}
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition text-gray-900 placeholder:text-gray-500"
+                className="w-full border-2 border-gray-200 rounded-xl px-4 py-3.5 focus:border-violet-500 focus:outline-none focus:ring-2 focus:ring-violet-100 text-gray-900 font-medium placeholder:text-gray-400 transition-all duration-200"
                 placeholder="your.email@example.com"
                 disabled={isLoading}
               />
             </div>
 
             <div>
-              <label htmlFor="password" className="block text-sm font-medium text-gray-900 mb-2">
+              <label htmlFor="password" className="block text-sm font-semibold text-gray-700 mb-2">
                 Password
               </label>
               <input
@@ -158,14 +161,14 @@ export default function Register() {
                 name="password"
                 value={formData.password}
                 onChange={handleChange}
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition text-gray-900 placeholder:text-gray-500"
+                className="w-full border-2 border-gray-200 rounded-xl px-4 py-3.5 focus:border-violet-500 focus:outline-none focus:ring-2 focus:ring-violet-100 text-gray-900 font-medium placeholder:text-gray-400 transition-all duration-200"
                 placeholder="Create a password (min 6 characters)"
                 disabled={isLoading}
               />
             </div>
 
             <div>
-              <label htmlFor="confirmPassword" className="block text-sm font-medium text-gray-900 mb-2">
+              <label htmlFor="confirmPassword" className="block text-sm font-semibold text-gray-700 mb-2">
                 Confirm Password
               </label>
               <input
@@ -174,7 +177,7 @@ export default function Register() {
                 name="confirmPassword"
                 value={formData.confirmPassword}
                 onChange={handleChange}
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition text-gray-900 placeholder:text-gray-500"
+                className="w-full border-2 border-gray-200 rounded-xl px-4 py-3.5 focus:border-violet-500 focus:outline-none focus:ring-2 focus:ring-violet-100 text-gray-900 font-medium placeholder:text-gray-400 transition-all duration-200"
                 placeholder="Confirm your password"
                 disabled={isLoading}
               />
@@ -183,17 +186,16 @@ export default function Register() {
             <button
               type="submit"
               disabled={isLoading}
-              className="w-full bg-indigo-600 text-white py-3 rounded-lg font-semibold hover:bg-indigo-700 transition disabled:opacity-50 disabled:cursor-not-allowed"
+              className="w-full bg-gradient-to-r from-violet-700 to-violet-600 text-white py-4 rounded-2xl font-bold text-base hover:opacity-90 active:scale-95 transition-all duration-200 shadow-lg shadow-violet-200 disabled:opacity-50 disabled:cursor-not-allowed"
             >
               {isLoading ? 'Creating Account...' : 'Sign Up'}
             </button>
           </form>
 
-          {/* Login Link */}
           <div className="mt-6 text-center">
-            <p className="text-sm text-gray-800">
+            <p className="text-sm text-gray-600">
               Already have an account?{' '}
-              <Link href="/login" className="text-indigo-600 hover:text-indigo-700 font-semibold">
+              <Link href="/login" className="text-violet-700 hover:text-violet-800 font-semibold">
                 Log in
               </Link>
             </p>

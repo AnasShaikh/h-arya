@@ -10,7 +10,12 @@
     {
       "id": "pre_14_1",
       "question": "Who is the poet of the poem 'Tartary'?",
-      "options": ["A) William Shakespeare", "B) Walter de la Mare", "C) Alfred Lord Tennyson", "D) Rudyard Kipling"],
+      "options": [
+        "A) William Shakespeare",
+        "B) Walter de la Mare",
+        "C) Alfred Lord Tennyson",
+        "D) Rudyard Kipling"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_14_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_14_2",
       "question": "What is an imaginary kingdom?",
-      "options": ["A) A real country on a map", "B) A kingdom that exists only in someone's mind or dreams", "C) A kingdom with a real king", "D) A kingdom in ancient history"],
+      "options": [
+        "A) A real country on a map",
+        "B) A kingdom that exists only in someone's mind or dreams",
+        "C) A kingdom with a real king",
+        "D) A kingdom in ancient history"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_14_1"
@@ -26,7 +36,12 @@
     {
       "id": "pre_14_3",
       "question": "What would pull the poet's car (carriage) in Tartary?",
-      "options": ["A) Seven horses", "B) Seven elephants", "C) Seven zebras", "D) Seven camels"],
+      "options": [
+        "A) Seven horses",
+        "B) Seven elephants",
+        "C) Seven zebras",
+        "D) Seven camels"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_14_3"
@@ -34,7 +49,12 @@
     {
       "id": "pre_14_4",
       "question": "Which of the following is an example of Consonance?",
-      "options": ["A) 'The sun shines brightly'", "B) 'Pitter-patter'", "C) 'A big blue ball'", "D) 'The moon is full'"],
+      "options": [
+        "A) 'The sun shines brightly'",
+        "B) 'Pitter-patter'",
+        "C) 'A big blue ball'",
+        "D) 'The moon is full'"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_14_5"
@@ -42,7 +62,12 @@
     {
       "id": "pre_14_5",
       "question": "What instrument is NOT mentioned in the poem 'Tartary'?",
-      "options": ["A) Harp", "B) Flute", "C) Mandoline", "D) Violin"],
+      "options": [
+        "A) Harp",
+        "B) Flute",
+        "C) Mandoline",
+        "D) Violin"
+      ],
       "correctAnswer": "D",
       "difficulty": "medium",
       "conceptId": "concept_14_2"
@@ -174,7 +199,12 @@
     {
       "id": "test_14_1",
       "question": "Who is the poet of 'Tartary'?",
-      "options": ["A) Rudyard Kipling", "B) Walter de la Mare", "C) Alfred Lord Tennyson", "D) William Blake"],
+      "options": [
+        "A) Rudyard Kipling",
+        "B) Walter de la Mare",
+        "C) Alfred Lord Tennyson",
+        "D) William Blake"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "Walter de la Mare (1873–1956) is the poet of 'Tartary'. He was a famous English poet known for his poems about fantasy and imagination."
@@ -182,7 +212,12 @@
     {
       "id": "test_14_2",
       "question": "What kind of bed would the poet sleep in if he were lord of Tartary?",
-      "options": ["A) A golden bed", "B) A silver bed", "C) An ivory bed", "D) A wooden bed"],
+      "options": [
+        "A) A golden bed",
+        "B) A silver bed",
+        "C) An ivory bed",
+        "D) A wooden bed"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "The poet says he would sleep on an ivory bed. Ivory is precious white material from elephant tusks, making it a rare and luxurious bed."
@@ -190,7 +225,12 @@
     {
       "id": "test_14_3",
       "question": "Which three musical instruments are mentioned in the poem?",
-      "options": ["A) Sitar, tabla, flute", "B) Harp, flute, mandoline", "C) Guitar, piano, harp", "D) Flute, violin, mandoline"],
+      "options": [
+        "A) Sitar, tabla, flute",
+        "B) Harp, flute, mandoline",
+        "C) Guitar, piano, harp",
+        "D) Flute, violin, mandoline"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "The poem mentions harp, flute, and mandoline as the three instruments that musicians would play daily in Tartary."
@@ -198,7 +238,12 @@
     {
       "id": "test_14_4",
       "question": "What would pull the poet's royal car in Tartary?",
-      "options": ["A) Seven horses", "B) Seven tigers", "C) Seven peacocks", "D) Seven zebras"],
+      "options": [
+        "A) Seven horses",
+        "B) Seven tigers",
+        "C) Seven peacocks",
+        "D) Seven zebras"
+      ],
       "correctAnswer": "D",
       "difficulty": "medium",
       "explanation": "Seven zebras would pull the poet's royal car (chariot) in Tartary. This is an exotic, magical image that shows how different and wonderful the kingdom would be."
@@ -206,7 +251,12 @@
     {
       "id": "test_14_5",
       "question": "What does the word 'flaunt' mean as used in the poem?",
-      "options": ["A) To hide carefully", "B) To show off proudly", "C) To fly high", "D) To eat greedily"],
+      "options": [
+        "A) To hide carefully",
+        "B) To show off proudly",
+        "C) To fly high",
+        "D) To eat greedily"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "In the poem, peacocks 'flaunt' their feathers, which means they show off their beautiful feathers proudly. Flaunt means to display something with pride."
@@ -214,7 +264,12 @@
     {
       "id": "test_14_6",
       "question": "What does 'consonance' mean?",
-      "options": ["A) Repetition of vowel sounds", "B) Repetition of whole words", "C) Repetition of consonant sounds especially at the end of words", "D) Repetition of the first letter of each word"],
+      "options": [
+        "A) Repetition of vowel sounds",
+        "B) Repetition of whole words",
+        "C) Repetition of consonant sounds especially at the end of words",
+        "D) Repetition of the first letter of each word"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Consonance is the repetition of the same consonant sounds in nearby words, especially at the end of words. Example: 'pitter-patter' where 't-r' sounds repeat."
@@ -222,7 +277,12 @@
     {
       "id": "test_14_7",
       "question": "Which phrase from the poem is an example of consonance?",
-      "options": ["A) 'Golden throne'", "B) 'Rivers silver-pale'", "C) 'Ivory bed'", "D) 'Golden stars'"],
+      "options": [
+        "A) 'Golden throne'",
+        "B) 'Rivers silver-pale'",
+        "C) 'Ivory bed'",
+        "D) 'Golden stars'"
+      ],
       "correctAnswer": "B",
       "difficulty": "hard",
       "explanation": "'Rivers silver-pale' is an example of consonance because the 'r' consonant sound repeats in 'rivers' and 'silver', making the phrase musical."
@@ -230,7 +290,12 @@
     {
       "id": "test_14_8",
       "question": "At what time would the poet be lord of Tartary in the poem?",
-      "options": ["A) At sunrise", "B) At noon", "C) At sunset", "D) At midnight"],
+      "options": [
+        "A) At sunrise",
+        "B) At noon",
+        "C) At sunset",
+        "D) At midnight"
+      ],
       "correctAnswer": "D",
       "difficulty": "medium",
       "explanation": "The poet says 'In the dead of night' (midnight) he would be the lord of Tartary. The phrase 'myself, and me alone' at midnight shows it is a private, personal dream."
@@ -258,5 +323,156 @@
       "Consonance in Indian film songs — many Bollywood songs use repeating consonant sounds to make lyrics catchy."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Tartary",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who is the poet of 'Tartary'?",
+        "answer": "Walter de la Mare (1873–1956) is the poet of 'Tartary'. He was a famous English poet known for his poems about fantasy and imagination.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What kind of bed would the poet sleep in if he were lord of Tartary?",
+        "answer": "The poet says he would sleep on an ivory bed. Ivory is precious white material from elephant tusks, making it a rare and luxurious bed.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which three musical instruments are mentioned in the poem?",
+        "answer": "The poem mentions harp, flute, and mandoline as the three instruments that musicians would play daily in Tartary.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What would pull the poet's royal car in Tartary?",
+        "answer": "Seven zebras would pull the poet's royal car (chariot) in Tartary. This is an exotic, magical image that shows how different and wonderful the kingdom would be.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the word 'flaunt' mean as used in the poem?",
+        "answer": "In the poem, peacocks 'flaunt' their feathers, which means they show off their beautiful feathers proudly. Flaunt means to display something with pride.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'consonance' mean?",
+        "answer": "Consonance is the repetition of the same consonant sounds in nearby words, especially at the end of words. Example: 'pitter-patter' where 't-r' sounds repeat.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which phrase from the poem is an example of consonance?",
+        "answer": "'Rivers silver-pale' is an example of consonance because the 'r' consonant sound repeats in 'rivers' and 'silver', making the phrase musical.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "At what time would the poet be lord of Tartary in the poem?",
+        "answer": "The poet says 'In the dead of night' (midnight) he would be the lord of Tartary. The phrase 'myself, and me alone' at midnight shows it is a private, personal dream.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Describe the magnificent bed and throne the poet wishes to have in Tartary.",
+        "modelAnswer": "The poet imagines that if he were the Lord of Tartary, he would sleep on a magnificent bed made of ivory. He also envisions sitting on a grand royal throne crafted from beaten gold to rule his land. These luxurious items highlight the extravagant and majestic lifestyle the poet dreams of experiencing. The use of precious materials like ivory and gold symbolizes the immense wealth and royal status of the imaginary king.",
+        "keyPoints": [
+          "The poet wishes for a magnificent bed made of ivory.",
+          "He imagines ruling his kingdom from a throne made of beaten gold.",
+          "Ivory and gold symbolize the immense wealth and royal status of the king.",
+          "These items highlight the luxurious lifestyle of his dream world."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "What animals are mentioned in the poem 'Tartary', and what are their roles?",
+        "modelAnswer": "The poem mentions several animals that add to the wild and magical charm of Tartary. Peacocks proudly display their beautiful feathers in the royal court, while great fishes slant their fins in the pools. Tigers roam freely through the dark forests of the kingdom, adding a sense of mysterious wildness. Finally, seven zebras are envisioned pulling the poet's royal carriage through the dark glades, providing an exotic touch to his transportation.",
+        "keyPoints": [
+          "Peacocks proudly flaunt their beautiful feathers in the royal court.",
+          "Great fishes are seen slanting their fins in the pools under the sun.",
+          "Tigers roam freely in the dark and mysterious forests of the kingdom.",
+          "Seven zebras are used to pull the poet's royal carriage through the glades."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "Describe the musical instruments and lighting in the evening in Tartary.",
+        "modelAnswer": "In the imaginary kingdom of Tartary, the evenings are filled with beautiful light and enchanting music. The poet imagines lamps shining brightly, with colours as yellow as honey and as red as wine. During this time, musicians would play string and wind instruments, specifically the harp, the flute, and the mandoline. This combination of warm lighting and sweet, gay music creates a pleasant and soothing atmosphere in the royal court.",
+        "keyPoints": [
+          "In the evening, lamps would shine in colours as yellow as honey and red as wine.",
+          "Musicians would play the harp, the flute, and the mandoline.",
+          "The instruments would produce sweet and gay music for the Lord of Tartary.",
+          "The lighting and music create a pleasant and enchanting atmosphere in the court."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "Describe the royal attire the poet wishes to wear as the Lord of Tartary.",
+        "modelAnswer": "As the supreme ruler of Tartary, the poet desires to wear a magnificent robe made entirely of beads. These beads would be in vibrant colours of white, gold, and green, and clustered together as thickly as seeds. Early in the morning, before the morning star fades, he would put on this majestic robe. He would also equip himself with a scimitar, a curved sword, completing his grand vision of being a majestic king.",
+        "keyPoints": [
+          "The poet wishes to wear a magnificent robe made entirely of coloured beads.",
+          "The beads would be white, gold, and green, clustered tightly like seeds.",
+          "He would put on this attire early in the morning before the morning star wanes.",
+          "He would also carry a scimitar to complete his royal and powerful look."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Describe the natural beauty and landscape of the imaginary kingdom of Tartary.",
+        "modelAnswer": "The kingdom of Tartary is depicted as a beautiful, magical land filled with enchanting natural elements. The landscape features silver-pale rivers, trembling lakes that look like foamless seas, and hills with glens, thickets, woods, and dales. The night sky is illuminated by flashing stars, and a sweet-scented breeze blows gently across the land. Additionally, the valleys are filled with bird-delighting citron-trees, creating a deeply peaceful and visually stunning atmosphere.",
+        "keyPoints": [
+          "The landscape includes silver-pale rivers and trembling lakes like foamless seas.",
+          "The land features hills, glens, thickets, woods, and dales.",
+          "The environment is enhanced by flashing stars and a sweet-scented breeze.",
+          "Valleys are filled with beautiful, bird-delighting citron-trees."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "How is the Lord of Tartary summoned to his meals?",
+        "modelAnswer": "In the kingdom of Tartary, the poet envisions a grand and royal way of being called to his meals. Trumpeters would blow their instruments every day to announce the time for dining. These trumpeters would stand in the courtyard and bray their horns loudly to summon the Lord. This daily ritual adds to the sense of power, importance, and extreme luxury that the poet associates with being the ruler of Tartary.",
+        "keyPoints": [
+          "The Lord of Tartary is summoned to his meals by royal trumpeters.",
+          "The trumpeters blow their instruments every day to announce meal times.",
+          "They stand in the courtyard and bray their horns loudly to call the Lord.",
+          "This ritual emphasizes the king's power, importance, and luxurious lifestyle."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

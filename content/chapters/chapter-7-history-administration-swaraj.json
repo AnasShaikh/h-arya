@@ -45,7 +45,7 @@
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_7_2"
-      },
+    },
     {
       "id": "pre_7_4",
       "question": "Each of Shivaji's forts was administered by a committee of how many people?",
@@ -322,5 +322,144 @@
       "Modern Indian administrative structure with specialized ministries (defense, finance, foreign affairs, justice) directly echoes the Ashtapradhan concept."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Shivaji born at Shivneri Fort",
+          "year": "1630",
+          "fact": "Shivaji Maharaj was born to Jijabai and Shahaji Bhosale"
+        },
+        {
+          "label": "Capture of Torna Fort",
+          "year": "1646",
+          "fact": "Young Shivaji captured his first fort at age 16"
+        },
+        {
+          "label": "Battle of Pratapgad",
+          "year": "1659",
+          "fact": "Shivaji defeated Afzal Khan, a powerful Adilshahi general"
+        },
+        {
+          "label": "Surat Sack",
+          "year": "1664",
+          "fact": "Shivaji raided the rich Mughal port city of Surat"
+        },
+        {
+          "label": "Coronation at Raigad",
+          "year": "1674",
+          "fact": "Shivaji was crowned Chhatrapati (King) of the Maratha Empire"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Administration of Swaraj",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who among the Ashtapradhan served as the Prime Minister?",
+        "answer": "The Peshwa was the Prime Minister in Shivaji's Ashtapradhan system — the head of overall civil administration. The position became so powerful after Shivaji's time that the Peshwas eventually became the de facto rulers of the Maratha empire.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was the role of the Nyayadhish in the Ashtapradhan?",
+        "answer": "The Nyayadhish was the Chief Justice in Shivaji's administration — responsible for overseeing the judicial system and ensuring fair justice for all people of the Swaraj.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was the key difference between Shivaji's revenue system and the earlier tax-farming system?",
+        "answer": "The old tax-farming system allowed middlemen to extort farmers. Shivaji's Ryotwari system eliminated middlemen and directly assessed each farmer's land based on its actual productivity — resulting in a fairer and more predictable tax burden.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The three officers who jointly administered each Maratha fort were:",
+        "answer": "Each fort was administered by three officers: the Havaldar (military commander), the Sarnobat (second military officer providing checks on the Havaldar), and the Sabnis (administrative officer for accounts and supplies). This prevented any one person from having unchecked power over a fort.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why did Shivaji pay soldiers in cash salary rather than giving them jagirs (land grants)?",
+        "answer": "Paying soldiers in cash kept them loyal to the kingdom as a whole — they had no local land interests to protect. The jagir system (used by Mughals) often created powerful local lords whose loyalty was to their own land rather than the central authority, leading to fragmentation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who was Kanhoji Angre?",
+        "answer": "Kanhoji Angre was the famous admiral of the Maratha navy — a commander of extraordinary skill who challenged and defeated European naval powers (Portuguese, English, Dutch) along the Konkan coast in the early 18th century.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What type of forts did Shivaji build along the Konkan coast?",
+        "answer": "Shivaji built sea forts (water forts) along the Konkan coastline — including Sindhudurg (near Malvan) and Vijaydurg. These forts protected the coastline and provided bases for the Maratha navy.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What were 'aadnyapatra'?",
+        "answer": "Aadnyapatra were royal orders and letters issued by Shivaji covering administrative directives, including protecting religious sites, treating women with respect, fair treatment of farmers, and rules for soldiers' conduct.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What was the role of the Nyayadhish in the Ashtapradhan?",
+        "modelAnswer": "The Nyayadhish was the Chief Justice in Shivaji's administration — responsible for overseeing the judicial system and ensuring fair justice for all people of the Swaraj. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What was the role of the Nyayadhish in the Ashtapradhan?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What was the key difference between Shivaji's revenue system and the earlier tax-farming system?",
+        "modelAnswer": "The old tax-farming system allowed middlemen to extort farmers. Shivaji's Ryotwari system eliminated middlemen and directly assessed each farmer's land based on its actual productivity — resulting in a fairer and more predictable tax burden. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The old tax-farming system allowed middlemen to extort farmers.",
+          "Shivaji's Ryotwari system eliminated middlemen and directly assessed each farmer's land based on its actual productivity — resulting in a fairer and more predictable tax burden.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Why did Shivaji pay soldiers in cash salary rather than giving them jagirs (land grants)?",
+        "modelAnswer": "Paying soldiers in cash kept them loyal to the kingdom as a whole — they had no local land interests to protect. The jagir system (used by Mughals) often created powerful local lords whose loyalty was to their own land rather than the central authority, leading to fragmentation. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Paying soldiers in cash kept them loyal to the kingdom as a whole — they had no local land interests to protect.",
+          "The jagir system (used by Mughals) often created powerful local lords whose loyalty was to their own land rather than the central authority, leading to fragmentation.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What type of forts did Shivaji build along the Konkan coast?",
+        "modelAnswer": "Shivaji built sea forts (water forts) along the Konkan coastline — including Sindhudurg (near Malvan) and Vijaydurg. These forts protected the coastline and provided bases for the Maratha navy. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Shivaji built sea forts (water forts) along the Konkan coastline — including Sindhudurg (near Malvan) and Vijaydurg.",
+          "These forts protected the coastline and provided bases for the Maratha navy.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What were 'aadnyapatra'?",
+        "modelAnswer": "Aadnyapatra were royal orders and letters issued by Shivaji covering administrative directives, including protecting religious sites, treating women with respect, fair treatment of farmers, and rules for soldiers' conduct. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What were 'aadnyapatra'?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

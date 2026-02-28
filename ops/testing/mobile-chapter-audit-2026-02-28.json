@@ -1,0 +1,1204 @@
+{
+  "meta": {
+    "timestamp": "2026-02-28T09:41:03.243Z",
+    "device": "iPhone 12/13 Pro (390x844)",
+    "user": "testuser1504"
+  },
+  "summary": {
+    "total": 119,
+    "passed": 0,
+    "failed": 119
+  },
+  "details": [
+    {
+      "url": "http://localhost:3000/chapter/1454",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1502",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1517",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1526",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1533",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1541",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1455",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1503",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1518",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1527",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1534",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1542",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1549",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1557",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1564",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1465",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1471",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1476",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1481",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1488",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1491",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1495",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1497",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Start Learning button navigation failed/timeout"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1498",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1500",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1510",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1512",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1513",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1514",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1515",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1516",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1456",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1504",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1519",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1528",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1535",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1543",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1550",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1558",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1565",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1466",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1472",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1458",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1505",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1521",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1529",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1536",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1544",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1551",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1559",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1566",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1467",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1473",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1477",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1482",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1489",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1492",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1459",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1506",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1522",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1530",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1537",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1545",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1552",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1560",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1567",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1468",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1474",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1478",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1483",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1460",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1507",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1523",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1531",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1538",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1547",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1554",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1561",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1568",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1469",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1475",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1479",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1484",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1490",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1457",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1508",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1520",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1525",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1539",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1546",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1553",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1556",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1563",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1464",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1470",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1480",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1485",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1486",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1494",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1462",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1509",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1524",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1532",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Start Learning button navigation failed/timeout"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1540",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1548",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1555",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1562",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1569",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1570",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1571",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1572",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1573",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1487",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1493",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1574",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1496",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1499",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1501",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    },
+    {
+      "url": "http://localhost:3000/chapter/1511",
+      "status": "FAIL",
+      "issues": [
+        {
+          "severity": "Major",
+          "msg": "Explanation page empty after click"
+        }
+      ]
+    }
+  ]
+}

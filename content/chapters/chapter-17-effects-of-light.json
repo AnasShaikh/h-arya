@@ -268,7 +268,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "Car headlights act as extended sources creating both umbra (dark shadow) and penumbra (faint shadow).",
-      "conceptIds": [2, 3],
+      "conceptIds": [
+        2,
+        3
+      ],
       "pageReference": "117"
     },
     {
@@ -282,7 +285,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In a lunar eclipse, the Earth comes between the sun and moon, causing Earth's shadow to fall on the moon.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "116"
     },
     {
@@ -296,7 +301,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In a solar eclipse, the moon comes between the sun and earth, causing the moon's shadow to fall on Earth.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "116"
     },
     {
@@ -310,7 +317,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "At sunrise and sunset, sunlight travels a greater distance through the atmosphere. More blue light gets scattered, allowing red-yellow light to reach us directly.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "114"
     },
     {
@@ -324,7 +333,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Without atmosphere, there are no particles to scatter light. We see light only when scattered rays enter our eyes.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "114"
     },
     {
@@ -338,7 +349,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Even in shade, scattered sunlight from the atmosphere provides illumination for reading.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "114"
     },
     {
@@ -352,7 +365,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "During a solar eclipse, harmful rays from the sun can reach Earth and damage eyes. Special goggles must be used.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "116"
     },
     {
@@ -366,7 +381,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Scattering occurs when light rays hit tiny particles (like molecules in air or milk in water) and scatter in different directions.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "113"
     },
     {
@@ -380,7 +397,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "When an object is small compared to the light source and very far from the screen (earth), its shadow becomes too small to be visible.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "115"
     },
     {
@@ -394,7 +413,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "A point source creates only umbra (dark shadow). Penumbra is created only by extended sources like table lamps or tube lights.",
-      "conceptIds": [2, 3],
+      "conceptIds": [
+        2,
+        3
+      ],
       "pageReference": "115"
     }
   ],
@@ -427,5 +449,230 @@
       "Earth appearing bluish from space satellites due to atmospheric scattering"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Drag the components to build the key formula for this chapter.",
+    "data": {
+      "formula": "Angle of Incidence = Angle of Reflection",
+      "components": [
+        "Angle of Incidence",
+        "=",
+        "Angle of Reflection"
+      ],
+      "explanation": "According to the law of reflection, the angle at which light hits a mirror equals the angle at which it bounces back."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Effects of Light",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "fill_blanks",
+        "question": "Fill in the blanks.\n(a) When the beams from the headlights\nof a car fall on an object in the night,\nthe shadows called .............. and\n............... can be seen.\n(b) During a lunar eclipse the shadow of\nthe ............ falls on the ............ .\n(c) During a solar eclipse the shadow of\nthe ..",
+        "subQuestions": [
+          "When the beams from the headlights\nof a car fall on an object in the night,\nthe shadows called .............. and\n............... can be seen.",
+          "During a lunar eclipse the shadow of\nthe ............ falls on the ............ .",
+          "During a solar eclipse the shadow of\nthe .............. falls on the .............. .",
+          "Various shades of colour are seen in\nthe sky at sunrise and sunset due to\n............ ."
+        ]
+      },
+      {
+        "number": 2,
+        "type": "give_reasons",
+        "question": "Give reasons.\n(a) Space beyond the earth’s atmosphere\nappears dark.\n(b) We are able to read while sitting in\nthe shade.\n(c) We should not observe the solar\neclipse with naked eyes.",
+        "subQuestions": [
+          "Space beyond the earth’s atmosphere\nappears dark.",
+          "We are able to read while sitting in\nthe shade.",
+          "We should not observe the solar\neclipse with naked eyes."
+        ]
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "Give some example of scattering of light\nthat we come across in day-to-day life.",
+        "subQuestions": []
+      },
+      {
+        "number": 4,
+        "type": "give_reasons",
+        "question": "Why is the shadow of a bird flying high\nnot seen on the earth?",
+        "subQuestions": []
+      },
+      {
+        "number": 5,
+        "type": "give_reasons",
+        "question": "Why is a penumbra not obtained from\na point source?",
+        "subQuestions": []
+      },
+      {
+        "number": 8,
+        "type": "give_reasons",
+        "question": "Answer the following questions in your\nown words.\n(a) What is meant by scattering of light ?\n(b) Does the shadow really vanish in the\nzero shadow condition ?\n(c) Will the laser beam be seen if it\npasses through a glass box which\ncontains a lighted incense stick ?\nDiscuss and write.\n(a) Write a scien",
+        "subQuestions": [
+          "What is meant by scattering of light ?",
+          "Does the shadow really vanish in the\nzero shadow condition ?",
+          "Will the laser beam be seen if it\npasses through a glass box which\ncontains a lighted incense stick ?\nDiscuss and write.",
+          "Write a science based paragraph on\n‘What if the sun did not rise ?’",
+          "What efforts will you make to remove\nthe misconceptions about eclipses ?",
+          "Various eclipses and the conditions\nduring that period.\nExplain the difference :",
+          "Point sources and extended sources\nof light.",
+          "Umbra and penumbra."
+        ]
+      }
+    ],
+    "rawText": "1. Fill in the blanks.\n(a) When the beams from the headlights\nof a car fall on an object in the night,\nthe shadows called .............. and\n............... can be seen.\n(b) During a lunar eclipse the shadow of\nthe ............ falls on the ............ .\n(c) During a solar eclipse the shadow of\nthe .............. falls on the .............. .\n(d) Various shades of colour are seen in\nthe sky at sunrise and sunset due to\n............ .\n2. Give reasons.\n(a) Space beyond the earth’s atmosphere\nappears dark.\n(b) We are able to read while sitting in\nthe shade.\n(c) We should not observe the solar\neclipse with naked eyes.\n3. Give some example of scattering of light\nthat we come across in day-to-day life.\n4. Why is the shadow of a bird flying high\nnot seen on the earth?\n5. Why is a penumbra not obtained from\na point source?\n6.\n7.\n8.\nAnswer the following questions in your\nown words.\n(a) What is meant by scattering of light ?\n(b) Does the shadow really vanish in the\nzero shadow condition ?\n(c) Will the laser beam be seen if it\npasses through a glass box which\ncontains a lighted incense stick ?\nDiscuss and write.\n(a) Write a science based paragraph on\n‘What if the sun did not rise ?’\n(b) What efforts will you make to remove\nthe misconceptions about eclipses ?\n(c) Various eclipses and the conditions\nduring that period.\nExplain the difference :\n(a) Point sources and extended sources\nof light.\n(b) Umbra and penumbra.",
+    "qaCards": [
+      {
+        "question": "When the beams from the headlights of a car fall on an object in the night, the shadows called _____ and _____ can be seen.",
+        "answer": "Car headlights act as extended sources creating both umbra (dark shadow) and penumbra (faint shadow).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "During a lunar eclipse the shadow of the _____ falls on the _____.",
+        "answer": "In a lunar eclipse, the Earth comes between the sun and moon, causing Earth's shadow to fall on the moon.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "During a solar eclipse the shadow of the _____ falls on the _____.",
+        "answer": "In a solar eclipse, the moon comes between the sun and earth, causing the moon's shadow to fall on Earth.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Various shades of colour are seen in the sky at sunrise and sunset due to _____.",
+        "answer": "At sunrise and sunset, sunlight travels a greater distance through the atmosphere. More blue light gets scattered, allowing red-yellow light to reach us directly.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Space beyond earth's atmosphere appears dark because _____.",
+        "answer": "Without atmosphere, there are no particles to scatter light. We see light only when scattered rays enter our eyes.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "We are able to read while sitting in the shade because of _____.",
+        "answer": "Even in shade, scattered sunlight from the atmosphere provides illumination for reading.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "We should not observe the solar eclipse with naked eyes because _____.",
+        "answer": "During a solar eclipse, harmful rays from the sun can reach Earth and damage eyes. Special goggles must be used.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is meant by scattering of light?",
+        "answer": "Scattering occurs when light rays hit tiny particles (like molecules in air or milk in water) and scatter in different directions.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The shadow of a bird flying high is not seen on the earth because _____.",
+        "answer": "When an object is small compared to the light source and very far from the screen (earth), its shadow becomes too small to be visible.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A penumbra is not obtained from _____.",
+        "answer": "A point source creates only umbra (dark shadow). Penumbra is created only by extended sources like table lamps or tube lights.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "When the beams from the headlights\nof a car fall on an object in the night,\nthe shadows called .............. and\n............... can be seen.",
+        "modelAnswer": "Answer: Car headlights act as extended sources creating both umbra (dark shadow) and penumbra (faint shadow).\nThis question belongs to the chapter \"Effects of Light\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Car headlights act as extended sources creating both umbra (dark shadow) and penumbra (faint shadow).",
+          "Concept link: Effects of Light (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "During a lunar eclipse the shadow of\nthe ............ falls on the ............ .",
+        "modelAnswer": "Answer: In a lunar eclipse, the Earth comes between the sun and moon, causing Earth's shadow to fall on the moon.\nThis question belongs to the chapter \"Effects of Light\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: In a lunar eclipse, the Earth comes between the sun and moon, causing Earth's shadow to fall on the moon.",
+          "Concept link: Effects of Light (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "During a solar eclipse the shadow of\nthe .............. falls on the .............. .",
+        "modelAnswer": "Answer: In a solar eclipse, the moon comes between the sun and earth, causing the moon's shadow to fall on Earth.\nThis question belongs to the chapter \"Effects of Light\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: In a solar eclipse, the moon comes between the sun and earth, causing the moon's shadow to fall on Earth.",
+          "Concept link: Effects of Light (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Various shades of colour are seen in\nthe sky at sunrise and sunset due to\n............ .",
+        "modelAnswer": "Answer: At sunrise and sunset, sunlight travels a greater distance through the atmosphere. More blue light gets scattered, allowing red-yellow light to reach us directly.\nThis question belongs to the chapter \"Effects of Light\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: At sunrise and sunset, sunlight travels a greater distance through the atmosphere. More blue light gets scattered, allo…",
+          "Concept link: Effects of Light (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Give reasons.\n(a) Space beyond the earth’s atmosphere\nappears dark.\n(b) We are able to read while sitting in\nthe shade.\n(c) We should not observe the solar\neclipse with naked eyes.",
+        "modelAnswer": "Answer: The reason is based on the scientific concept explained in this chapter and can be justified with cause-and-effect points.\nThis question belongs to the chapter \"Effects of Light\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Effects of Light (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Space beyond the earth’s atmosphere\nappears dark.",
+        "modelAnswer": "Answer: Without atmosphere, there are no particles to scatter light. We see light only when scattered rays enter our eyes.\nThis question belongs to the chapter \"Effects of Light\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Without atmosphere, there are no particles to scatter light. We see light only when scattered rays enter our eyes.",
+          "Concept link: Effects of Light (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "We are able to read while sitting in\nthe shade.",
+        "modelAnswer": "Answer: Even in shade, scattered sunlight from the atmosphere provides illumination for reading.\nThis question belongs to the chapter \"Effects of Light\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Even in shade, scattered sunlight from the atmosphere provides illumination for reading.",
+          "Concept link: Effects of Light (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "We should not observe the solar\neclipse with naked eyes.",
+        "modelAnswer": "Answer: During a solar eclipse, harmful rays from the sun can reach Earth and damage eyes. Special goggles must be used.\nThis question belongs to the chapter \"Effects of Light\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: During a solar eclipse, harmful rays from the sun can reach Earth and damage eyes. Special goggles must be used.",
+          "Concept link: Effects of Light (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

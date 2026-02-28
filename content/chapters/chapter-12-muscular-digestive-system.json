@@ -1,0 +1,699 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 12,
+    "title": "The Muscular System and Digestive System in Human Beings",
+    "subject": "Science",
+    "pages": "111-122",
+    "description": "This chapter covers the human muscular system — types of muscles and their functions — and the digestive system, tracing the journey of food from the mouth to absorption in the small intestine."
+  },
+  "preAssessment": [
+    {
+      "id": "pa1",
+      "question": "Which type of muscle is found in the heart?",
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Voluntary muscle"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "pa2",
+      "question": "Where does digestion of food begin?",
+      "options": [
+        "Stomach",
+        "Small intestine",
+        "Mouth",
+        "Oesophagus"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "pa3",
+      "question": "Which organ produces bile juice?",
+      "options": [
+        "Pancreas",
+        "Stomach",
+        "Liver",
+        "Small intestine"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 4
+    },
+    {
+      "id": "pa4",
+      "question": "Where are nutrients absorbed into the bloodstream?",
+      "options": [
+        "Stomach",
+        "Large intestine",
+        "Small intestine",
+        "Oesophagus"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 4
+    },
+    {
+      "id": "pa5",
+      "question": "Which enzyme in saliva begins the digestion of starch?",
+      "options": [
+        "Pepsin",
+        "Lipase",
+        "Amylase",
+        "Trypsin"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "conceptId": 3
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Types of Muscles",
+      "emoji": "💪",
+      "colorTheme": "from-red-500 to-pink-600",
+      "bgColor": "bg-red-50",
+      "borderColor": "border-red-300",
+      "content": "The human body has three types of muscles: skeletal (voluntary), smooth (involuntary), and cardiac. Skeletal muscles are attached to bones and help in movement. Smooth muscles are found in internal organs. Cardiac muscle is only in the heart.",
+      "pageReference": "111-114",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Biceps and triceps are skeletal muscles that move the arm"
+        },
+        {
+          "id": "ex2",
+          "text": "Smooth muscles in the stomach churn food automatically"
+        },
+        {
+          "id": "ex3",
+          "text": "Cardiac muscle contracts rhythmically to pump blood"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Skeletal muscles work in antagonistic pairs (e.g., biceps and triceps)"
+        },
+        {
+          "id": "kp2",
+          "text": "Smooth muscles are involuntary — controlled by the autonomic nervous system"
+        },
+        {
+          "id": "kp3",
+          "text": "Cardiac muscle never tires — it works continuously throughout life"
+        }
+      ],
+      "funFact": "The gluteus maximus (buttock muscle) is the largest muscle in the human body, while the stapedius in the ear is the smallest!",
+      "textbookRef": "Pages 111-114"
+    },
+    {
+      "id": 2,
+      "title": "Muscular System Functions",
+      "emoji": "🏃",
+      "colorTheme": "from-orange-500 to-amber-600",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Muscles enable movement, maintain posture, and generate body heat. They work by contracting and relaxing. Tendons connect muscles to bones, while ligaments connect bones to each other.",
+      "pageReference": "113-115",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "When you lift a book, your bicep contracts and tricep relaxes"
+        },
+        {
+          "id": "ex2",
+          "text": "Core muscles maintain upright posture when sitting"
+        },
+        {
+          "id": "ex3",
+          "text": "Shivering is the body's muscular response to generate heat when cold"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Tendons are strong, cord-like structures connecting muscles to bones"
+        },
+        {
+          "id": "kp2",
+          "text": "Muscles can only pull, not push — they work in pairs"
+        },
+        {
+          "id": "kp3",
+          "text": "Regular exercise strengthens muscles and improves endurance"
+        }
+      ],
+      "funFact": "It takes 17 muscles to smile and 43 muscles to frown — so smiling is actually easier!",
+      "textbookRef": "Pages 113-115"
+    },
+    {
+      "id": 3,
+      "title": "Digestion: Mouth to Stomach",
+      "emoji": "😋",
+      "colorTheme": "from-yellow-500 to-orange-600",
+      "bgColor": "bg-yellow-50",
+      "borderColor": "border-yellow-300",
+      "content": "Digestion begins in the mouth where teeth crush food (mechanical digestion) and saliva with amylase starts breaking down starch (chemical digestion). Food then travels through the oesophagus to the stomach, where acid and pepsin digest proteins.",
+      "pageReference": "115-118",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Chewing breaks roti into smaller pieces — mechanical digestion"
+        },
+        {
+          "id": "ex2",
+          "text": "Amylase in saliva converts starch to sugar — that's why bread tastes sweet if you chew long"
+        },
+        {
+          "id": "ex3",
+          "text": "Stomach acid (HCl) kills bacteria in food and activates pepsin"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Mechanical digestion: physical breaking down of food"
+        },
+        {
+          "id": "kp2",
+          "text": "Chemical digestion: enzymes break down food molecules"
+        },
+        {
+          "id": "kp3",
+          "text": "Peristalsis: wave-like muscle contractions move food through the digestive tract"
+        }
+      ],
+      "funFact": "Your stomach lining replaces itself every 3-4 days to protect itself from being digested by its own acid!",
+      "textbookRef": "Pages 115-118"
+    },
+    {
+      "id": 4,
+      "title": "Small Intestine and Absorption",
+      "emoji": "🌀",
+      "colorTheme": "from-green-500 to-teal-600",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "The small intestine is where most digestion and absorption occurs. Bile from the liver emulsifies fats, and pancreatic enzymes further break down proteins, carbohydrates, and fats. Villi (tiny finger-like projections) absorb nutrients into the blood.",
+      "pageReference": "118-120",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Villi increase surface area of the small intestine for better absorption"
+        },
+        {
+          "id": "ex2",
+          "text": "Bile breaks fat globules into smaller droplets for easier digestion"
+        },
+        {
+          "id": "ex3",
+          "text": "Glucose from digested carbohydrates passes into blood vessels in the villi"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Small intestine is about 6-7 metres long in adults"
+        },
+        {
+          "id": "kp2",
+          "text": "Villi and microvilli massively increase the absorptive surface area"
+        },
+        {
+          "id": "kp3",
+          "text": "Pancreatic juice contains enzymes for all three types of food"
+        }
+      ],
+      "funFact": "If you could unfold all the villi and microvilli in your small intestine, the total surface area would be roughly the size of a tennis court!",
+      "textbookRef": "Pages 118-120"
+    },
+    {
+      "id": 5,
+      "title": "Large Intestine and Elimination",
+      "emoji": "♻️",
+      "colorTheme": "from-blue-500 to-indigo-600",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "The large intestine (colon) absorbs water and minerals from undigested food, forming semi-solid waste (faeces). The rectum stores faeces until they are eliminated through the anus.",
+      "pageReference": "120-122",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Eating fibre-rich foods like vegetables helps healthy bowel movement"
+        },
+        {
+          "id": "ex2",
+          "text": "Dehydration can cause constipation as the colon absorbs more water"
+        },
+        {
+          "id": "ex3",
+          "text": "Billions of bacteria in the colon help with final digestion and make vitamins"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Large intestine is about 1.5 metres long"
+        },
+        {
+          "id": "kp2",
+          "text": "Main function is water absorption, not nutrient absorption"
+        },
+        {
+          "id": "kp3",
+          "text": "Gut bacteria (microbiome) help digest fibre and produce Vitamin K"
+        }
+      ],
+      "funFact": "The large intestine hosts about 100 trillion bacteria — more than all the cells in your body! These bacteria are essential for health.",
+      "textbookRef": "Pages 120-122"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Which type of muscle is under voluntary control?",
+      "options": [
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Skeletal muscle",
+        "All of the above"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Skeletal muscles are voluntary — you can consciously control their movement, unlike smooth and cardiac muscles.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "111-114"
+    },
+    {
+      "id": "t2",
+      "question": "What is the function of tendons?",
+      "options": [
+        "Connect bones to bones",
+        "Connect muscles to bones",
+        "Produce blood cells",
+        "Carry nerve signals"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tendons are tough, fibrous connective tissues that attach muscles to bones, allowing movement.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "113-115"
+    },
+    {
+      "id": "t3",
+      "question": "Which enzyme is present in saliva?",
+      "options": [
+        "Pepsin",
+        "Lipase",
+        "Amylase",
+        "Trypsin"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Salivary amylase (ptyalin) begins the digestion of starch in the mouth, converting it to maltose.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "115-118"
+    },
+    {
+      "id": "t4",
+      "question": "What is the role of bile in digestion?",
+      "options": [
+        "Digest proteins",
+        "Kill bacteria",
+        "Emulsify fats",
+        "Absorb vitamins"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bile produced by the liver emulsifies large fat globules into smaller droplets, making them easier to digest.",
+      "conceptIds": [
+        4
+      ],
+      "pageReference": "118-120"
+    },
+    {
+      "id": "t5",
+      "question": "Where does most absorption of digested food take place?",
+      "options": [
+        "Mouth",
+        "Stomach",
+        "Large intestine",
+        "Small intestine"
+      ],
+      "correctAnswer": "D",
+      "explanation": "The small intestine, lined with villi, is the primary site of nutrient absorption into the bloodstream.",
+      "conceptIds": [
+        4
+      ],
+      "pageReference": "118-120"
+    },
+    {
+      "id": "t6",
+      "question": "What is peristalsis?",
+      "options": [
+        "Type of enzyme",
+        "Wave-like muscle contractions moving food",
+        "A type of digestion",
+        "Part of the stomach"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Peristalsis is the rhythmic wave-like contraction of muscles in the digestive tract that pushes food forward.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "115-118"
+    },
+    {
+      "id": "t7",
+      "question": "The main function of the large intestine is to:",
+      "options": [
+        "Digest proteins",
+        "Absorb nutrients from food",
+        "Absorb water from undigested matter",
+        "Produce digestive enzymes"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The large intestine's primary function is to absorb water and electrolytes, concentrating the waste into faeces.",
+      "conceptIds": [
+        5
+      ],
+      "pageReference": "120-122"
+    },
+    {
+      "id": "t8",
+      "question": "Which muscles work together as an antagonistic pair?",
+      "options": [
+        "Biceps and triceps",
+        "Heart and lungs",
+        "Stomach and liver",
+        "Eyes and ears"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Biceps and triceps are antagonistic muscles — when biceps contracts to bend the arm, triceps relaxes, and vice versa.",
+      "conceptIds": [
+        1,
+        2
+      ],
+      "pageReference": "111-114"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Three types of muscles",
+      "Voluntary vs involuntary muscles",
+      "Stages of digestion",
+      "Role of digestive organs",
+      "Absorption in small intestine"
+    ],
+    "commonMisconceptions": [
+      "Food goes directly to the stomach — it passes through mouth and oesophagus first",
+      "The stomach is where all digestion happens — most happens in the small intestine",
+      "Muscles can push — muscles can only pull by contracting"
+    ],
+    "realWorldExamples": [
+      "Why bread tastes sweet if chewed long",
+      "Stomach ache from spicy food activating acid",
+      "Dehydration causing constipation",
+      "Protein digestion when eating dal-roti",
+      "Exercise building stronger skeletal muscles"
+    ]
+  },
+  "interactiveElement": {
+    "type": "label-diagram",
+    "title": "Label the Digestive System!",
+    "description": "Tap on each blank label to reveal the correct organ name.",
+    "data": {
+      "image": "Human digestive system diagram",
+      "labels": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 12,
+          "answer": "Mouth",
+          "hint": "Where digestion begins"
+        },
+        {
+          "id": 2,
+          "x": 52,
+          "y": 28,
+          "answer": "Oesophagus",
+          "hint": "Food pipe, 25cm long"
+        },
+        {
+          "id": 3,
+          "x": 45,
+          "y": 45,
+          "answer": "Stomach",
+          "hint": "J-shaped organ that churns food"
+        },
+        {
+          "id": 4,
+          "x": 50,
+          "y": 62,
+          "answer": "Small Intestine",
+          "hint": "6-7 metres long, absorbs nutrients"
+        },
+        {
+          "id": 5,
+          "x": 50,
+          "y": 78,
+          "answer": "Large Intestine",
+          "hint": "Absorbs water, 1.5m long"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Muscular and Digestive System",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "fill_blanks",
+        "question": "Fill in the blanks with the right word\nfrom the brackets.\n(a) The process of digestion starts from\nthe .............. . (stomach / mouth)\n(b) Eyelids have ................... muscles\n(voluntary / involuntary) .\n(c) ................ is not a function of the\nmuscular system. (Production of blood\ncells",
+        "subQuestions": [
+          "The process of digestion starts from\nthe .............. . (stomach / mouth)",
+          "Eyelids have ................... muscles\n(voluntary / involuntary) .",
+          "................ is not a function of the\nmuscular system. (Production of blood\ncells / Performing movements)",
+          "Muscles of the heart are ................\n(ordinary muscles / cardiac muscles)",
+          "Pushing forward the food that has been\nchewed is the function of the ............ .\n(stomach / oesophagus)."
+        ]
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "Large intestine I am 7.5 meter long.",
+        "subQuestions": []
+      },
+      {
+        "number": 4,
+        "type": "short_answer",
+        "question": "Appendix\nDigestion is impossible\n\t\t\t\nwithout me.",
+        "subQuestions": []
+      },
+      {
+        "number": 5,
+        "type": "short_answer",
+        "question": "Lung\nI play an important role\n\t\t\t\nin excretion.",
+        "subQuestions": []
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Find a match for me.\nGroup ‘A’\nGroup ‘B’\n(1) Cardiac\n(a) always function\n\t\tmuscles\t\tin pairs.\n(2) Are brought\n(b) we never feel\n\t\t about by muscles\t\t tired.\n(3) Pepsin\n(c) uncontrolled and\n\t\t\t\tpainful\n\t\t\t\tcontraction\n\t\t\t\tof muscles.\n(4) Cramps\n(d) chewing\n\t\t\t\tmovements of\n\t\t\t\tjaws.\n(5) Skeletal\n(e)",
+        "subQuestions": [
+          "always function\n\t\tmuscles\t\tin pairs.\n(2) Are brought",
+          "we never feel\n\t\t about by muscles\t\t tired.\n(3) Pepsin",
+          "uncontrolled and\n\t\t\t\tpainful\n\t\t\t\tcontraction\n\t\t\t\tof muscles.\n(4) Cramps",
+          "chewing\n\t\t\t\tmovements of\n\t\t\t\tjaws.\n(5) Skeletal",
+          "enzyme of the\n\t\tmuscles\t\tgastric juice."
+        ]
+      },
+      {
+        "number": 5,
+        "type": "short_answer",
+        "question": "Answer the following.\n(a) How many types of muscles are there ?\nWhich are those types ?\n(b) What causes the problem of acidity ?\nWhat is its effect on the body ?\n(c) Name the different types of teeth.\nWhat is the function of each type ?",
+        "subQuestions": [
+          "How many types of muscles are there ?\nWhich are those types ?",
+          "What causes the problem of acidity ?\nWhat is its effect on the body ?",
+          "Name the different types of teeth.\nWhat is the function of each type ?"
+        ]
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "Who is telling a lie ?\nOrgan\t\t\tStatement",
+        "subQuestions": []
+      },
+      {
+        "number": 1,
+        "type": "short_answer",
+        "question": "Tongue\nMy taste-buds can tell\n\t\t\t\nonly a sweet taste.",
+        "subQuestions": []
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Liver\nI am the largest gland in\n\t\t\t\nthe body.",
+        "subQuestions": []
+      },
+      {
+        "number": 4,
+        "type": "give_reasons",
+        "question": "Give reasons.\n(1) Food becomes acidic in the stomach.\n(2) Cardiac muscles are said to be\ninvoluntary muscles.\n(3) Intoxicating substances should not be\nconsumed.\n(4) Your muscles should be strong and\nefficient.",
+        "subQuestions": []
+      }
+    ],
+    "rawText": "1. Fill in the blanks with the right word\nfrom the brackets.\n(a) The process of digestion starts from\nthe .............. . (stomach / mouth)\n(b) Eyelids have ................... muscles\n(voluntary / involuntary) .\n(c) ................ is not a function of the\nmuscular system. (Production of blood\ncells / Performing movements)\n(d) Muscles of the heart are ................\n(ordinary muscles / cardiac muscles)\n(e) Pushing forward the food that has been\nchewed is the function of the ............ .\n(stomach / oesophagus).\n3. Large intestine I am 7.5 meter long.\n4. Appendix\nDigestion is impossible\n\t\t\t\nwithout me.\n5. Lung\nI play an important role\n\t\t\t\nin excretion.\n2. Find a match for me.\nGroup ‘A’\nGroup ‘B’\n(1) Cardiac\n(a) always function\n\t\tmuscles\t\tin pairs.\n(2) Are brought\n(b) we never feel\n\t\t about by muscles\t\t tired.\n(3) Pepsin\n(c) uncontrolled and\n\t\t\t\tpainful\n\t\t\t\tcontraction\n\t\t\t\tof muscles.\n(4) Cramps\n(d) chewing\n\t\t\t\tmovements of\n\t\t\t\tjaws.\n(5) Skeletal\n(e) enzyme of the\n\t\tmuscles\t\tgastric juice.\n5. Answer the following.\n(a) How many types of muscles are there ?\nWhich are those types ?\n(b) What causes the problem of acidity ?\nWhat is its effect on the body ?\n(c) Name the different types of teeth.\nWhat is the function of each type ?\n3. Who is telling a lie ?\nOrgan\t\t\tStatement\n1. Tongue\nMy taste-buds can tell\n\t\t\t\nonly a sweet taste.\n2. Liver\nI am the largest gland in\n\t\t\t\nthe body.\n4. Give reasons.\n(1) Food becomes acidic in the stomach.\n(2) Cardiac muscles are said to be\ninvoluntary muscles.\n(3) Intoxicating substances should not be\nconsumed.\n(4) Your muscles should be strong and\nefficient.\n6. Sketch and label a diagram of the\ndigestive system and describe it in your\nown words.",
+    "qaCards": [
+      {
+        "question": "Which type of muscle is under voluntary control?",
+        "answer": "Skeletal muscles are voluntary — you can consciously control their movement, unlike smooth and cardiac muscles.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the function of tendons?",
+        "answer": "Tendons are tough, fibrous connective tissues that attach muscles to bones, allowing movement.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which enzyme is present in saliva?",
+        "answer": "Salivary amylase (ptyalin) begins the digestion of starch in the mouth, converting it to maltose.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the role of bile in digestion?",
+        "answer": "Bile produced by the liver emulsifies large fat globules into smaller droplets, making them easier to digest.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Where does most absorption of digested food take place?",
+        "answer": "The small intestine, lined with villi, is the primary site of nutrient absorption into the bloodstream.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is peristalsis?",
+        "answer": "Peristalsis is the rhythmic wave-like contraction of muscles in the digestive tract that pushes food forward.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The main function of the large intestine is to:",
+        "answer": "The large intestine's primary function is to absorb water and electrolytes, concentrating the waste into faeces.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which muscles work together as an antagonistic pair?",
+        "answer": "Biceps and triceps are antagonistic muscles — when biceps contracts to bend the arm, triceps relaxes, and vice versa.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "The process of digestion starts from\nthe .............. . (stomach / mouth)",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"The Muscular System and Digestive System in Human Beings\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: The Muscular System and Digestive System in Human Beings (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Eyelids have ................... muscles\n(voluntary / involuntary) .",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"The Muscular System and Digestive System in Human Beings\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: The Muscular System and Digestive System in Human Beings (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "................ is not a function of the\nmuscular system. (Production of blood\ncells / Performing movements)",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"The Muscular System and Digestive System in Human Beings\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: The Muscular System and Digestive System in Human Beings (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Muscles of the heart are ................\n(ordinary muscles / cardiac muscles)",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"The Muscular System and Digestive System in Human Beings\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: The Muscular System and Digestive System in Human Beings (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Pushing forward the food that has been\nchewed is the function of the ............ .\n(stomach / oesophagus).",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"The Muscular System and Digestive System in Human Beings\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: The Muscular System and Digestive System in Human Beings (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Large intestine I am 7.5 meter long.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"The Muscular System and Digestive System in Human Beings\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: The Muscular System and Digestive System in Human Beings (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Appendix\nDigestion is impossible\n\t\t\t\nwithout me.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"The Muscular System and Digestive System in Human Beings\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: The Muscular System and Digestive System in Human Beings (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "Lung\nI play an important role\n\t\t\t\nin excretion.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"The Muscular System and Digestive System in Human Beings\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: The Muscular System and Digestive System in Human Beings (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      }
+    ]
+  }
+}

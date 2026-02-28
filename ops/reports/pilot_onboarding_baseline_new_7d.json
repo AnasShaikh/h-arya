@@ -1,0 +1,23 @@
+{
+  "generated_at_utc": "2026-02-27T23:00:02.450Z",
+  "source": "http://127.0.0.1:3000/api/analytics/cohort?grade=7&board=Maharashtra&cohort=new_7d",
+  "segment": {
+    "cohort": "new_7d",
+    "grade": 7,
+    "board": "Maharashtra"
+  },
+  "counts": {
+    "chapter_started": 9,
+    "memorize_completed": 0,
+    "test_submitted": 0,
+    "active_learners": 2
+  },
+  "conversion": {
+    "start_to_memorize_pct": 0,
+    "memorize_to_test_pct": 0
+  },
+  "score": {
+    "avg_all_time_pct": 0,
+    "avg_24h_pct": 0
+  }
+}

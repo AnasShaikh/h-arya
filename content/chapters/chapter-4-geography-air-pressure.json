@@ -10,7 +10,12 @@
     {
       "id": "q1",
       "question": "Air exerts pressure because _____.",
-      "options": ["Air has weight — anything with weight exerts pressure on what lies below it", "Air is invisible", "Air moves fast", "Air is a gas"],
+      "options": [
+        "Air has weight — anything with weight exerts pressure on what lies below it",
+        "Air is invisible",
+        "Air moves fast",
+        "Air is a gas"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
@@ -18,7 +23,12 @@
     {
       "id": "q2",
       "question": "As altitude increases, air pressure _____.",
-      "options": ["Decreases", "Increases", "Stays the same", "First increases then decreases"],
+      "options": [
+        "Decreases",
+        "Increases",
+        "Stays the same",
+        "First increases then decreases"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "Hot air has _____ pressure than cold air.",
-      "options": ["Lower", "Higher", "Equal", "Cannot be determined"],
+      "options": [
+        "Lower",
+        "Higher",
+        "Equal",
+        "Cannot be determined"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "Near the equator, the air pressure is generally _____.",
-      "options": ["Low — because equatorial temperatures are high", "High — because equatorial temperatures are high", "Medium — no relationship with temperature", "Variable — changes daily"],
+      "options": [
+        "Low — because equatorial temperatures are high",
+        "High — because equatorial temperatures are high",
+        "Medium — no relationship with temperature",
+        "Variable — changes daily"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 3
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "Between the subtropics (25°–35° N and S), the air pressure is generally _____.",
-      "options": ["High — because descending dry air creates high pressure", "Low — because of strong winds", "Variable — depends on the season", "No pressure belt exists here"],
+      "options": [
+        "High — because descending dry air creates high pressure",
+        "Low — because of strong winds",
+        "Variable — depends on the season",
+        "No pressure belt exists here"
+      ],
       "correctAnswer": "A",
       "difficulty": "hard",
       "conceptId": 3
@@ -59,9 +84,18 @@
       "content": "Air has weight — as proved by the textbook experiment where a fully inflated balloon tips the balance lower than a deflated balloon. Anything with weight exerts pressure on what lies below it. The entire column of atmosphere above us exerts pressure on Earth's surface — this is called air pressure (atmospheric pressure). Air pressure creates various weather phenomena like storms and precipitation. The unit for measuring air pressure is millibar (mb) or hectopascal (hPa).",
       "pageReference": "16",
       "examples": [
-        { "icon": "🎈", "text": "Blown-up balloon heavier than deflated balloon — proves air has weight" },
-        { "icon": "🏔️", "text": "Climbers on Everest breathe through oxygen masks — air pressure so low, not enough oxygen" },
-        { "icon": "✈️", "text": "Aircraft cabins are pressurised — outside air pressure at 10,000m is too low to breathe" }
+        {
+          "icon": "🎈",
+          "text": "Blown-up balloon heavier than deflated balloon — proves air has weight"
+        },
+        {
+          "icon": "🏔️",
+          "text": "Climbers on Everest breathe through oxygen masks — air pressure so low, not enough oxygen"
+        },
+        {
+          "icon": "✈️",
+          "text": "Aircraft cabins are pressurised — outside air pressure at 10,000m is too low to breathe"
+        }
       ],
       "keyPoints": [
         "Air has weight — proved by balloon experiment (inflated balloon heavier)",
@@ -83,9 +117,18 @@
       "content": "Two main factors affect air pressure: (1) Altitude: As altitude increases, the air column above becomes shorter and lighter, so air pressure decreases. Air also becomes thinner (less dense) at high altitudes. (2) Temperature: Hot air expands, becomes lighter, and rises — leaving less air near the surface, so pressure decreases. Cold air is heavier, sinks, and creates higher pressure. The flying lantern experiment demonstrates this: hot air inside the lantern rises, lifting it up.",
       "pageReference": "16",
       "examples": [
-        { "icon": "🪔", "text": "Flying lantern rises: heated air inside expands, becomes lighter → low pressure → rises" },
-        { "icon": "🏔️", "text": "Pressure at top of Mt Everest (~8849m): only ~300 mb — about ⅓ of sea level pressure" },
-        { "icon": "🌡️", "text": "Hot desert regions: very low pressure (high temperature → hot air rises)" }
+        {
+          "icon": "🪔",
+          "text": "Flying lantern rises: heated air inside expands, becomes lighter → low pressure → rises"
+        },
+        {
+          "icon": "🏔️",
+          "text": "Pressure at top of Mt Everest (~8849m): only ~300 mb — about ⅓ of sea level pressure"
+        },
+        {
+          "icon": "🌡️",
+          "text": "Hot desert regions: very low pressure (high temperature → hot air rises)"
+        }
       ],
       "keyPoints": [
         "Higher altitude → lower air pressure (less air column above)",
@@ -107,9 +150,18 @@
       "content": "Due to uneven heating and cooling across latitudes, the earth has distinct pressure belts: (1) Equatorial Low Pressure Belt (0°–5° N/S): Hot equatorial air rises → low pressure. Also called Doldrums — calm, no regular winds. (2) Sub-tropical High Pressure Belt (25°–35° N/S): Descending dry air → high pressure. Also called Horse Latitudes. (3) Sub-polar Low Pressure Belt (55°–65° N/S): Polar and tropical air meet → rise → low pressure. (4) Polar High Pressure Belt (80°–90° N/S): Very cold air → sinks → high pressure.",
       "pageReference": "17-18",
       "examples": [
-        { "icon": "🌡️", "text": "Equatorial belt (near 0°): extremely hot all year → air always rising → always low pressure" },
-        { "icon": "🏜️", "text": "Subtropical high pressure (25°-35°): hot, dry descending air → world's major deserts here (Sahara, Thar)" },
-        { "icon": "❄️", "text": "Polar high pressure (near poles): extremely cold → dense, sinking air → high pressure" }
+        {
+          "icon": "🌡️",
+          "text": "Equatorial belt (near 0°): extremely hot all year → air always rising → always low pressure"
+        },
+        {
+          "icon": "🏜️",
+          "text": "Subtropical high pressure (25°-35°): hot, dry descending air → world's major deserts here (Sahara, Thar)"
+        },
+        {
+          "icon": "❄️",
+          "text": "Polar high pressure (near poles): extremely cold → dense, sinking air → high pressure"
+        }
       ],
       "keyPoints": [
         "Equatorial low pressure belt (0°–5°): hot air rises → low pressure → called Doldrums",
@@ -131,9 +183,18 @@
       "content": "The Equatorial Low Pressure belt is also called the Doldrums — a region near the equator (0°–5° N/S) where winds are usually calm or variable. The intense heat causes air to rise, leaving a surface zone of calm. Old sailing ships often got stranded here for weeks. The Subtropical High Pressure Belt (25°–35° N/S) is also called Horse Latitudes — another calm zone where ships could be becalmed. The sub-tropical high pressure belt is home to the world's great deserts.",
       "pageReference": "18",
       "examples": [
-        { "icon": "⛵", "text": "Sailing ships in Doldrums: no wind → stranded for days/weeks near equator" },
-        { "icon": "🏜️", "text": "Sahara, Arabian, Thar, Atacama deserts: all lie in the subtropical high pressure belt" },
-        { "icon": "☀️", "text": "Mumbai, Goa lie near the northern edge of the equatorial belt — explains monsoon pattern" }
+        {
+          "icon": "⛵",
+          "text": "Sailing ships in Doldrums: no wind → stranded for days/weeks near equator"
+        },
+        {
+          "icon": "🏜️",
+          "text": "Sahara, Arabian, Thar, Atacama deserts: all lie in the subtropical high pressure belt"
+        },
+        {
+          "icon": "☀️",
+          "text": "Mumbai, Goa lie near the northern edge of the equatorial belt — explains monsoon pattern"
+        }
       ],
       "keyPoints": [
         "Doldrums: equatorial calm zone (0°–5°) — rising hot air, no surface winds",
@@ -155,9 +216,18 @@
       "content": "Temperature zones (Torrid, Temperate, Frigid) and pressure belts are related but not identical. Temperature zones cover much larger latitudinal ranges than pressure belts. For example, the Temperate zone extends from 23°30' to 66°30' — but each pressure belt is only about 10° wide. This is because pressure is influenced not just by latitude but also by local factors like land vs sea distribution, ocean currents, and altitude.",
       "pageReference": "17",
       "examples": [
-        { "icon": "🌡️", "text": "Torrid Zone (0°–23.5°): includes both equatorial LOW and subtropical HIGH pressure belts" },
-        { "icon": "🌤️", "text": "Temperate Zone (23.5°–66.5°): includes subtropical HIGH, sub-polar LOW belts" },
-        { "icon": "❄️", "text": "Frigid Zone (66.5°–90°): includes polar HIGH pressure belt" }
+        {
+          "icon": "🌡️",
+          "text": "Torrid Zone (0°–23.5°): includes both equatorial LOW and subtropical HIGH pressure belts"
+        },
+        {
+          "icon": "🌤️",
+          "text": "Temperate Zone (23.5°–66.5°): includes subtropical HIGH, sub-polar LOW belts"
+        },
+        {
+          "icon": "❄️",
+          "text": "Frigid Zone (66.5°–90°): includes polar HIGH pressure belt"
+        }
       ],
       "keyPoints": [
         "Temperature zones and pressure belts are related but not identical in extent",
@@ -174,10 +244,17 @@
     {
       "id": "q1",
       "question": "A blown-up balloon is heavier than a deflated balloon. This proves _____.",
-      "options": ["Air has weight", "Air has no weight", "Air pressure increases inside a balloon", "Rubber is heavier when stretched"],
+      "options": [
+        "Air has weight",
+        "Air has no weight",
+        "Air pressure increases inside a balloon",
+        "Rubber is heavier when stretched"
+      ],
       "correctAnswer": "A",
       "explanation": "The science textbook activity (Class 7) shows that the inflated balloon tips the balance scale — proving air has weight. Since it has weight, it exerts pressure on what is below it.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "16"
     },
     {
@@ -191,7 +268,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Hot air is lighter (less dense) than cold air. When the candle heats the air inside the lantern, the air expands and becomes lighter. This lighter, low-pressure air rises — taking the lantern with it. The same principle explains why equatorial air rises (creating low pressure).",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "16"
     },
     {
@@ -205,7 +284,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Air pressure decreases with increasing altitude because there is less air above you (shorter air column = less weight). Air also becomes thinner and less dense at higher altitudes.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "16"
     },
     {
@@ -219,16 +300,25 @@
       ],
       "correctAnswer": "A",
       "explanation": "The equatorial region is the hottest part of Earth — intense solar radiation heats the air, making it expand and rise. As air rises, there is less air left at the surface — creating a low pressure zone (equatorial low).",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "17"
     },
     {
       "id": "q5",
       "question": "The equatorial low pressure belt is also called _____.",
-      "options": ["Doldrums", "Horse Latitudes", "Roaring Forties", "Sub-polar Low"],
+      "options": [
+        "Doldrums",
+        "Horse Latitudes",
+        "Roaring Forties",
+        "Sub-polar Low"
+      ],
       "correctAnswer": "A",
       "explanation": "The equatorial calm zone (0°–5° N/S) is called Doldrums — where hot rising air creates a near-windless zone at the surface. Old sailing ships often got stuck here.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "18"
     },
     {
@@ -242,7 +332,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "The subtropical high pressure belt (25°–35° N/S) is characterized by descending dry air. This dry, sinking air absorbs moisture rather than releasing it as rain — creating the world's major hot deserts: Sahara, Arabian, Thar, Atacama, Kalahari, etc.",
-      "conceptIds": [3, 4],
+      "conceptIds": [
+        3,
+        4
+      ],
       "pageReference": "17"
     },
     {
@@ -256,7 +349,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "When temperature decreases, air becomes cold, dense, and heavy — it sinks toward Earth's surface. More air accumulating at the surface means more weight pressing down, resulting in higher air pressure. This is why cold polar regions have high pressure.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "16-17"
     },
     {
@@ -270,7 +365,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Temperature zones are defined only by latitude (angle of sunlight). But air pressure is also affected by altitude, whether it's land or ocean, ocean currents, etc. These additional factors create narrower, more localised pressure patterns than the broad temperature zones.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "17"
     }
   ],
@@ -299,9 +396,141 @@
       "Flying lanterns (Diwali lanterns): demonstration of hot air rising = low pressure"
     ],
     "formulas": [
-      { "formula": "Hot air → less dense → rises → LOW pressure", "explanation": "Higher temperature causes lower air pressure at the surface" },
-      { "formula": "Cold air → more dense → sinks → HIGH pressure", "explanation": "Lower temperature causes higher air pressure at the surface" },
-      { "formula": "Higher altitude → less air column → LOWER pressure", "explanation": "Air pressure decreases by approximately 1 mb per 8 m of altitude" }
+      {
+        "formula": "Hot air → less dense → rises → LOW pressure",
+        "explanation": "Higher temperature causes lower air pressure at the surface"
+      },
+      {
+        "formula": "Cold air → more dense → sinks → HIGH pressure",
+        "explanation": "Lower temperature causes higher air pressure at the surface"
+      },
+      {
+        "formula": "Higher altitude → less air column → LOWER pressure",
+        "explanation": "Air pressure decreases by approximately 1 mb per 8 m of altitude"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "drag-drop",
+    "title": "Sort the Features!",
+    "description": "Drag each item to its correct geographical category.",
+    "data": {
+      "items": [
+        "Tropical Easterlies",
+        "Westerlies",
+        "Polar Easterlies",
+        "Land Breeze",
+        "Sea Breeze",
+        "Monsoon"
+      ],
+      "categories": [
+        "Permanent Winds",
+        "Periodic Winds",
+        "Local Winds"
+      ],
+      "answers": {
+        "Tropical Easterlies": "Permanent Winds",
+        "Westerlies": "Permanent Winds",
+        "Polar Easterlies": "Permanent Winds",
+        "Land Breeze": "Local Winds",
+        "Sea Breeze": "Local Winds",
+        "Monsoon": "Periodic Winds"
+      }
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Air Pressure",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "A blown-up balloon is heavier than a deflated balloon. This proves _____.",
+        "answer": "The science textbook activity (Class 7) shows that the inflated balloon tips the balance scale — proving air has weight. Since it has weight, it exerts pressure on what is below it.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A flying lantern rises because _____.",
+        "answer": "Hot air is lighter (less dense) than cold air. When the candle heats the air inside the lantern, the air expands and becomes lighter. This lighter, low-pressure air rises — taking the lantern with it. The same principle explains why equatorial air rises (creating low pressure).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "As you go higher up a mountain, air pressure _____.",
+        "answer": "Air pressure decreases with increasing altitude because there is less air above you (shorter air column = less weight). Air also becomes thinner and less dense at higher altitudes.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The equatorial region experiences low air pressure because _____.",
+        "answer": "The equatorial region is the hottest part of Earth — intense solar radiation heats the air, making it expand and rise. As air rises, there is less air left at the surface — creating a low pressure zone (equatorial low).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The equatorial low pressure belt is also called _____.",
+        "answer": "The equatorial calm zone (0°–5° N/S) is called Doldrums — where hot rising air creates a near-windless zone at the surface. Old sailing ships often got stuck here.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "World's major hot deserts (Sahara, Thar, Atacama) are mostly located in the _____.",
+        "answer": "The subtropical high pressure belt (25°–35° N/S) is characterized by descending dry air. This dry, sinking air absorbs moisture rather than releasing it as rain — creating the world's major hot deserts: Sahara, Arabian, Thar, Atacama, Kalahari, etc.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "If cold air sinks and warm air rises, what happens to air pressure when temperature decreases?",
+        "answer": "When temperature decreases, air becomes cold, dense, and heavy — it sinks toward Earth's surface. More air accumulating at the surface means more weight pressing down, resulting in higher air pressure. This is why cold polar regions have high pressure.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why are pressure belts narrower than temperature zones?",
+        "answer": "Temperature zones are defined only by latitude (angle of sunlight). But air pressure is also affected by altitude, whether it's land or ocean, ocean currents, etc. These additional factors create narrower, more localised pressure patterns than the broad temperature zones.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "If cold air sinks and warm air rises, what happens to air pressure when temperature decreases?",
+        "modelAnswer": "There is an inverse relationship between temperature and air pressure. When the temperature decreases, the air becomes colder and denser. This heavy air sinks towards the Earth's surface, exerting more force. Consequently, when temperature decreases, air pressure increases, leading to the formation of high-pressure areas.",
+        "keyPoints": [
+          "Inverse relationship between temperature and air pressure.",
+          "Cold air is dense and heavy, causing it to sink.",
+          "Sinking air increases the force exerted on the surface, raising pressure."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la2",
+        "question": "Why are pressure belts narrower than temperature zones?",
+        "modelAnswer": "Temperature zones are broad areas determined primarily by the Earth's shape and the angle of sun rays (Torrid, Temperate, and Frigid zones). Pressure belts, however, are formed not just by temperature but also by the Earth's rotation (centrifugal force). While temperature zones are continuous from the equator to the poles, pressure belts are broken into smaller, distinct latitudinal bands (e.g., Equatorial Low, Subtropical High) because the rising and sinking of air occurs at specific latitudes, making them narrower.",
+        "keyPoints": [
+          "Temperature zones depend mainly on the angle of sun rays.",
+          "Pressure belts are influenced by both temperature and Earth's rotation.",
+          "Rising and sinking of air happens at specific latitudinal bands.",
+          "Rotation breaks the continuous temperature gradient into narrower belts."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "How does air pressure affect the human body?",
+        "modelAnswer": "The human body is adapted to the air pressure at the Earth's surface. Although air exerts a huge pressure on us, we don't feel it because our internal body pressure (blood pressure, etc.) balances it out. However, at very high altitudes, the air pressure decreases significantly. This can cause the pressure inside our bodies to become higher than the outside air, leading to discomfort, ear popping, or even bleeding from the nose in extreme cases.",
+        "keyPoints": [
+          "Internal body pressure balances external atmospheric pressure.",
+          "Air pressure decreases at high altitudes.",
+          "Pressure imbalance can cause physical discomfort or nosebleeds."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la4",
+        "question": "A blown-up balloon is heavier than a deflated balloon. This proves _____.",
+        "modelAnswer": "The science textbook activity (Class 7) shows that the inflated balloon tips the balance scale — proving air has weight. Since it has weight, it exerts pressure on what is below it. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The science textbook activity (Class 7) shows that the inflated balloon tips the balance scale — proving air has weight.",
+          "Since it has weight, it exerts pressure on what is below it.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      }
     ]
   }
 }

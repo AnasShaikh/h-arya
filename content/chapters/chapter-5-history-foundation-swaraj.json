@@ -336,5 +336,138 @@
       "The bagh nakh associated with Shivaji is preserved in a museum in London — a tangible connection to one of history's most dramatic moments."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Shivaji born at Shivneri Fort",
+          "year": "1630",
+          "fact": "Shivaji Maharaj was born to Jijabai and Shahaji Bhosale"
+        },
+        {
+          "label": "Capture of Torna Fort",
+          "year": "1646",
+          "fact": "Young Shivaji captured his first fort at age 16"
+        },
+        {
+          "label": "Battle of Pratapgad",
+          "year": "1659",
+          "fact": "Shivaji defeated Afzal Khan, a powerful Adilshahi general"
+        },
+        {
+          "label": "Surat Sack",
+          "year": "1664",
+          "fact": "Shivaji raided the rich Mughal port city of Surat"
+        },
+        {
+          "label": "Coronation at Raigad",
+          "year": "1674",
+          "fact": "Shivaji was crowned Chhatrapati (King) of the Maratha Empire"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Foundation of Swaraj",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Shivaji Maharaj was born at which fort?",
+        "answer": "Shivaji Maharaj was born on 19 February 1630 at Shivneri fort near Junnar. The fort is now a protected monument and an important historical site in Maharashtra.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "At what age did Shivaji capture Torna fort?",
+        "answer": "Shivaji captured Torna fort in 1645 at the age of 16. This was his first act of building Swaraj and demonstrated his leadership and courage at a very young age.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What weapon did Shivaji use to kill Afzal Khan?",
+        "answer": "Shivaji used the bagh nakh (tiger claw) — a concealed weapon that fits over the fingers — to kill Afzal Khan when the general attempted to assassinate him at their meeting near Pratapgad fort.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "When was the Battle of Pratapgad fought?",
+        "answer": "The Battle of Pratapgad was fought on 10 November 1659. It was a decisive victory for Shivaji against Afzal Khan and the Adilshahi forces, establishing Shivaji as a major power in the Deccan.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Purandardar Treaty of 1665 was negotiated with Shivaji by which Mughal general?",
+        "answer": "Mirza Raje Jai Singh, a Rajput general of the Mughal empire, was sent by Aurangzeb to deal with Shivaji. He combined military pressure with diplomacy to force Shivaji to sign the Purandardar Treaty (1665).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How did Shivaji escape from house arrest in Agra?",
+        "answer": "Shivaji escaped from house arrest in Agra in 1666 by hiding in baskets of sweets that were sent as 'prasad' (religious offerings) to temples and saints. After conditioning the guards to expect these baskets, Shivaji and his son Sambhaji hid in them and were smuggled out.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "On which date was Shivaji Maharaj's Rajyabhishek (coronation) held?",
+        "answer": "Shivaji Maharaj's Rajyabhishek (coronation) was held on 6 June 1674 at Raigad fort. He received the title of Chhatrapati, becoming the first independent Maratha sovereign.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What title was given to Shivaji at his coronation?",
+        "answer": "Shivaji was given the title 'Chhatrapati' at his coronation. The word means 'one who holds the royal umbrella' and signifies a paramount sovereign — a ruler independent of any other king or emperor.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In which year did Shivaji first sack the city of Surat?",
+        "answer": "Shivaji first sacked Surat in 1664. Surat was the Mughal empire's richest trade port, and its sack caused massive financial damage and political embarrassment to Aurangzeb. Shivaji sacked it again in 1670.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "At what age did Shivaji capture Torna fort?",
+        "modelAnswer": "Shivaji captured Torna fort in 1645 at the age of 16. This was his first act of building Swaraj and demonstrated his leadership and courage at a very young age. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Shivaji captured Torna fort in 1645 at the age of 16.",
+          "This was his first act of building Swaraj and demonstrated his leadership and courage at a very young age.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What weapon did Shivaji use to kill Afzal Khan?",
+        "modelAnswer": "Shivaji used the bagh nakh (tiger claw) — a concealed weapon that fits over the fingers — to kill Afzal Khan when the general attempted to assassinate him at their meeting near Pratapgad fort. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What weapon did Shivaji use to kill Afzal Khan?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "How did Shivaji escape from house arrest in Agra?",
+        "modelAnswer": "Shivaji escaped from house arrest in Agra in 1666 by hiding in baskets of sweets that were sent as 'prasad' (religious offerings) to temples and saints. After conditioning the guards to expect these baskets, Shivaji and his son Sambhaji hid in them and were smuggled out. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Shivaji escaped from house arrest in Agra in 1666 by hiding in baskets of sweets that were sent as 'prasad' (religious offerings) to temples and saints.",
+          "After conditioning the guards to expect these baskets, Shivaji and his son Sambhaji hid in them and were smuggled out.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What title was given to Shivaji at his coronation?",
+        "modelAnswer": "Shivaji was given the title 'Chhatrapati' at his coronation. The word means 'one who holds the royal umbrella' and signifies a paramount sovereign — a ruler independent of any other king or emperor. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Shivaji was given the title 'Chhatrapati' at his coronation.",
+          "The word means 'one who holds the royal umbrella' and signifies a paramount sovereign — a ruler independent of any other king or emperor.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

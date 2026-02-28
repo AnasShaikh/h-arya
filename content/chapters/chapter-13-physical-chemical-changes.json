@@ -1,0 +1,651 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 13,
+    "title": "Changes – Physical and Chemical",
+    "subject": "Science",
+    "pages": "123-132",
+    "description": "This chapter explains the difference between physical and chemical changes, how to identify them, and gives real-life examples of both types of changes observed in everyday life."
+  },
+  "preAssessment": [
+    {
+      "id": "pa1",
+      "question": "Which of the following is a physical change?",
+      "options": [
+        "Burning paper",
+        "Rusting of iron",
+        "Melting of ice",
+        "Curdling of milk"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "pa2",
+      "question": "Which of the following is a chemical change?",
+      "options": [
+        "Cutting a piece of cloth",
+        "Dissolving sugar in water",
+        "Burning of wood",
+        "Boiling water"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "pa3",
+      "question": "In a chemical change, is it easy to get back the original substance?",
+      "options": [
+        "Yes, always",
+        "No, usually it is irreversible",
+        "Sometimes",
+        "Only with heat"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "pa4",
+      "question": "What is the chemical name for rusting of iron?",
+      "options": [
+        "Iron sulfide",
+        "Iron carbonate",
+        "Iron oxide",
+        "Iron chloride"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "pa5",
+      "question": "Which of the following is NOT a sign of a chemical change?",
+      "options": [
+        "New substance formed",
+        "Change in colour",
+        "Change in shape",
+        "Gas produced"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "conceptId": 2
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Physical Changes",
+      "emoji": "🧊",
+      "colorTheme": "from-blue-500 to-cyan-600",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "A physical change is a change in the physical properties of a substance (shape, size, state) without forming any new substance. Physical changes are usually reversible — the original substance can be recovered.",
+      "pageReference": "123-126",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Ice melting into water — water can be frozen back to ice"
+        },
+        {
+          "id": "ex2",
+          "text": "Cutting paper into pieces — same paper, different shape"
+        },
+        {
+          "id": "ex3",
+          "text": "Dissolving salt in water — salt can be recovered by evaporation"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "No new substance is formed in a physical change"
+        },
+        {
+          "id": "kp2",
+          "text": "Changes in state (solid-liquid-gas) are physical changes"
+        },
+        {
+          "id": "kp3",
+          "text": "Physical changes are usually reversible"
+        }
+      ],
+      "funFact": "When you crumple a piece of aluminium foil, that's a physical change! You can flatten it back out — the aluminium itself hasn't changed.",
+      "textbookRef": "Pages 123-126"
+    },
+    {
+      "id": 2,
+      "title": "Chemical Changes",
+      "emoji": "⚗️",
+      "colorTheme": "from-orange-500 to-red-600",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "A chemical change results in the formation of one or more new substances with different properties from the original. Chemical changes are usually irreversible and involve energy changes (heat, light, sound produced or absorbed).",
+      "pageReference": "126-129",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Burning a candle — wax is converted to CO2 and water vapour"
+        },
+        {
+          "id": "ex2",
+          "text": "Curdling milk — proteins change structure, cannot become fresh milk again"
+        },
+        {
+          "id": "ex3",
+          "text": "Cooking food — raw vegetables become cooked, properties change permanently"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "A new substance with different properties is always formed"
+        },
+        {
+          "id": "kp2",
+          "text": "Usually irreversible — original substance hard to recover"
+        },
+        {
+          "id": "kp3",
+          "text": "Signs include: colour change, gas produced, heat/light released, precipitate formed"
+        }
+      ],
+      "funFact": "Baking a cake is a chemical change! The raw batter undergoes chemical reactions when heated and can never turn back into uncooked batter.",
+      "textbookRef": "Pages 126-129"
+    },
+    {
+      "id": 3,
+      "title": "Rusting and Corrosion",
+      "emoji": "🔩",
+      "colorTheme": "from-amber-500 to-orange-600",
+      "bgColor": "bg-amber-50",
+      "borderColor": "border-amber-300",
+      "content": "Rusting is the chemical change where iron reacts with oxygen and water to form iron oxide (rust). It is a slow chemical change. Corrosion is the deterioration of metals due to chemical reactions with their environment.",
+      "pageReference": "129-131",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Old iron gates and railings turning red-brown due to rusting"
+        },
+        {
+          "id": "ex2",
+          "text": "Steel bridges being painted to prevent rust"
+        },
+        {
+          "id": "ex3",
+          "text": "Copper vessels turning green due to corrosion (verdigris)"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Rusting requires both oxygen and water (moisture)"
+        },
+        {
+          "id": "kp2",
+          "text": "Prevention methods: painting, oiling, galvanising, electroplating"
+        },
+        {
+          "id": "kp3",
+          "text": "Galvanising means coating iron with zinc to prevent rust"
+        }
+      ],
+      "funFact": "The Eiffel Tower in Paris is repainted every 7 years using 60 tonnes of paint to prevent rust — it would weigh less without paint!",
+      "textbookRef": "Pages 129-131"
+    },
+    {
+      "id": 4,
+      "title": "Identifying Physical vs Chemical Changes",
+      "emoji": "🔍",
+      "colorTheme": "from-purple-500 to-violet-600",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The key to identifying a chemical change is to look for signs of a new substance being formed. Physical changes only alter the appearance or state, while chemical changes produce substances with completely different properties.",
+      "pageReference": "127-128",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Water boiling (physical) vs electrolysis of water into hydrogen and oxygen (chemical)"
+        },
+        {
+          "id": "ex2",
+          "text": "Sugar dissolving (physical) vs sugar burning to form black carbon (chemical)"
+        },
+        {
+          "id": "ex3",
+          "text": "Tearing paper (physical) vs burning paper to form ash (chemical)"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Ask: Is a new substance formed? → Chemical change"
+        },
+        {
+          "id": "kp2",
+          "text": "Ask: Can the original substance be recovered? → Physical change if yes"
+        },
+        {
+          "id": "kp3",
+          "text": "Energy changes (heat, light, sound) suggest chemical change"
+        }
+      ],
+      "funFact": "Digestion in our body is a chemical change — enzymes break down food into completely different molecules that our cells can use as energy!",
+      "textbookRef": "Pages 127-128"
+    },
+    {
+      "id": 5,
+      "title": "Uses of Chemical Changes",
+      "emoji": "🏭",
+      "colorTheme": "from-teal-500 to-green-600",
+      "bgColor": "bg-teal-50",
+      "borderColor": "border-teal-300",
+      "content": "Chemical changes are used extensively in everyday life and industry — from cooking food to manufacturing medicines, plastics, cement, and fertilisers. Controlled chemical changes power our vehicles and generate electricity.",
+      "pageReference": "131-132",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Burning petrol/diesel in vehicle engines — combustion provides energy for movement"
+        },
+        {
+          "id": "ex2",
+          "text": "Making cement — limestone is heated to produce calcium oxide and CO2"
+        },
+        {
+          "id": "ex3",
+          "text": "Photography — silver halide crystals undergo chemical changes when exposed to light"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Combustion (burning) is a key chemical change that releases energy"
+        },
+        {
+          "id": "kp2",
+          "text": "Fermentation is a chemical change used to make bread, idli, and wine"
+        },
+        {
+          "id": "kp3",
+          "text": "Photosynthesis and respiration are chemical changes in living things"
+        }
+      ],
+      "funFact": "The 'new car smell' comes from chemical changes — volatile organic compounds released as plastics and synthetic materials undergo slow chemical reactions!",
+      "textbookRef": "Pages 131-132"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Which of the following is a reversible physical change?",
+      "options": [
+        "Burning wood",
+        "Rusting iron",
+        "Melting wax",
+        "Cooking rice"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Melting wax is a physical change because the wax can be cooled and solidified again without forming a new substance.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "123-126"
+    },
+    {
+      "id": "t2",
+      "question": "What are the signs that a chemical change has occurred?",
+      "options": [
+        "Only change in shape",
+        "New substance formed with different properties",
+        "Only change in size",
+        "Only change in colour"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The definitive sign of a chemical change is the formation of a new substance with different properties from the original.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "126-129"
+    },
+    {
+      "id": "t3",
+      "question": "Rusting of iron is an example of:",
+      "options": [
+        "Physical change",
+        "Reversible change",
+        "Chemical change",
+        "Phase change"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rusting is a chemical change because iron reacts with oxygen and water to form iron oxide — a completely new substance.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "129-131"
+    },
+    {
+      "id": "t4",
+      "question": "Which method prevents rusting of iron?",
+      "options": [
+        "Keeping iron dry only",
+        "Painting the iron surface",
+        "Both keeping dry and painting",
+        "Heating the iron"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rust requires both oxygen and moisture. Keeping iron dry or painting it prevents contact with water, preventing rusting.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "129-131"
+    },
+    {
+      "id": "t5",
+      "question": "Dissolving common salt in water is a:",
+      "options": [
+        "Chemical change",
+        "Physical change",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dissolving salt in water is a physical change — the salt can be recovered by evaporating the water.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "123-126"
+    },
+    {
+      "id": "t6",
+      "question": "In which of these is a new substance definitely formed?",
+      "options": [
+        "Cutting vegetables",
+        "Grinding wheat into flour",
+        "Burning a matchstick",
+        "Melting butter"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Burning a matchstick produces ash, smoke, and gases — completely new substances. The original matchstick cannot be recovered.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "126-129"
+    },
+    {
+      "id": "t7",
+      "question": "What is galvanisation?",
+      "options": [
+        "Coating iron with copper",
+        "Coating iron with zinc",
+        "Coating iron with tin",
+        "Coating iron with silver"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Galvanisation is the process of coating iron or steel with a layer of zinc to protect it from rusting.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "129-131"
+    },
+    {
+      "id": "t8",
+      "question": "Cooking food is a chemical change because:",
+      "options": [
+        "Food becomes hot",
+        "New substances are formed and it cannot be reversed",
+        "Food changes colour only",
+        "Water evaporates"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cooking causes chemical reactions that create new substances and change the properties of food permanently — cooked rice cannot become raw rice.",
+      "conceptIds": [
+        2,
+        4
+      ],
+      "pageReference": "126-129"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Physical change vs chemical change",
+      "Reversibility",
+      "Signs of chemical change",
+      "Rusting and corrosion",
+      "Prevention of rusting"
+    ],
+    "commonMisconceptions": [
+      "Colour change always means chemical change — dissolving coloured substances is physical",
+      "All chemical changes release heat — some absorb heat (endothermic)",
+      "Dissolving is a chemical change — it is physical as the substance can be recovered"
+    ],
+    "realWorldExamples": [
+      "Roti cooking on tawa",
+      "Iron fence rusting in monsoon",
+      "Milk curdling to make curd",
+      "Burning diya on Diwali",
+      "Galvanised iron sheets on rooftops in India"
+    ]
+  },
+  "interactiveElement": {
+    "type": "drag-drop",
+    "title": "Sort the Changes!",
+    "description": "Drag each change to the correct category — Physical or Chemical.",
+    "data": {
+      "items": [
+        "Melting ice",
+        "Burning paper",
+        "Rusting iron",
+        "Cutting cloth",
+        "Curdling milk",
+        "Dissolving salt"
+      ],
+      "categories": [
+        "Physical Change",
+        "Chemical Change"
+      ],
+      "answers": {
+        "Melting ice": "Physical Change",
+        "Burning paper": "Chemical Change",
+        "Rusting iron": "Chemical Change",
+        "Cutting cloth": "Physical Change",
+        "Curdling milk": "Chemical Change",
+        "Dissolving salt": "Physical Change"
+      }
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Physical and Chemical Changes",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "short_answer",
+        "question": "Distinguish between the following.\n(a) Physical change and chemical change\n(b) Periodic change and non-periodic\nchange\n(c) Natural change and man-made change",
+        "subQuestions": [
+          "Physical change and chemical change",
+          "Periodic change and non-periodic\nchange",
+          "Natural change and man-made change"
+        ]
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Under which different types can the\nfollowing changes be classified ?\n(a) Conversion of milk into yoghurt.\n(b) Bursting of a cracker.\n(c) Occurence of an earthquake.\n(d) Revolution of the earth around the\nsun.\n(e) Stretching of a spring.",
+        "subQuestions": [
+          "Conversion of milk into yoghurt.",
+          "Bursting of a cracker.",
+          "Occurence of an earthquake.",
+          "Revolution of the earth around the\nsun.",
+          "Stretching of a spring."
+        ]
+      },
+      {
+        "number": 3,
+        "type": "give_reasons",
+        "question": "Give reasons.\n(a) While purchasing canned food, its\nexpiry date should be checked.\n(b) An iron article should be given a coat\nof paint.\n(c) A wooden article should be polished.\n(d) Copper and brass utensils should be\ntinned.\n(e) A dry handkerchief gets wet at once\non dipping in water, but it takes l",
+        "subQuestions": [
+          "While purchasing canned food, its\nexpiry date should be checked.",
+          "An iron article should be given a coat\nof paint.",
+          "A wooden article should be polished.",
+          "Copper and brass utensils should be\ntinned.",
+          "A dry handkerchief gets wet at once\non dipping in water, but it takes long\nfor a wet handkerchief to dry.\n91"
+        ]
+      },
+      {
+        "number": 4,
+        "type": "short_answer",
+        "question": "What will you take into account while\nidentifying the following ?\n(a) A physical change in a substance.\n(b) A chemical change in a substance.",
+        "subQuestions": [
+          "A physical change in a substance.",
+          "A chemical change in a substance."
+        ]
+      },
+      {
+        "number": 5,
+        "type": "short_answer",
+        "question": "Read the paragraph and note down the\nvarious types of changes it mentions.\nIt was nearing six o’clock in the evening.\nThe sun was setting. A breeze was\nblowing. Leaves on the tree were shaking.\nSahil was sitting in the courtyard, rolling\nballs of wet soil and shaping them into\nvarious toys.Then he f",
+        "subQuestions": []
+      }
+    ],
+    "rawText": "1. Distinguish between the following.\n(a) Physical change and chemical change\n(b) Periodic change and non-periodic\nchange\n(c) Natural change and man-made change\n2. Under which different types can the\nfollowing changes be classified ?\n(a) Conversion of milk into yoghurt.\n(b) Bursting of a cracker.\n(c) Occurence of an earthquake.\n(d) Revolution of the earth around the\nsun.\n(e) Stretching of a spring.\n3. Give reasons.\n(a) While purchasing canned food, its\nexpiry date should be checked.\n(b) An iron article should be given a coat\nof paint.\n(c) A wooden article should be polished.\n(d) Copper and brass utensils should be\ntinned.\n(e) A dry handkerchief gets wet at once\non dipping in water, but it takes long\nfor a wet handkerchief to dry.\n91\n4. What will you take into account while\nidentifying the following ?\n(a) A physical change in a substance.\n(b) A chemical change in a substance.\n5. Read the paragraph and note down the\nvarious types of changes it mentions.\nIt was nearing six o’clock in the evening.\nThe sun was setting. A breeze was\nblowing. Leaves on the tree were shaking.\nSahil was sitting in the courtyard, rolling\nballs of wet soil and shaping them into\nvarious toys.Then he felt hungry and went\ninto the house. Mother made a dough\nfrom wheat flour and fried purees. While\neating hot purees, his attention was drawn\noutside the window. It had started raining.\nThere was lightning, too. Sahil was\nenjoying his dinner in the dim light.",
+    "qaCards": [
+      {
+        "question": "Which of the following is a reversible physical change?",
+        "answer": "Melting wax is a physical change because the wax can be cooled and solidified again without forming a new substance.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What are the signs that a chemical change has occurred?",
+        "answer": "The definitive sign of a chemical change is the formation of a new substance with different properties from the original.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Rusting of iron is an example of:",
+        "answer": "Rusting is a chemical change because iron reacts with oxygen and water to form iron oxide — a completely new substance.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which method prevents rusting of iron?",
+        "answer": "Rust requires both oxygen and moisture. Keeping iron dry or painting it prevents contact with water, preventing rusting.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Dissolving common salt in water is a:",
+        "answer": "Dissolving salt in water is a physical change — the salt can be recovered by evaporating the water.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In which of these is a new substance definitely formed?",
+        "answer": "Burning a matchstick produces ash, smoke, and gases — completely new substances. The original matchstick cannot be recovered.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is galvanisation?",
+        "answer": "Galvanisation is the process of coating iron or steel with a layer of zinc to protect it from rusting.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Cooking food is a chemical change because:",
+        "answer": "Cooking causes chemical reactions that create new substances and change the properties of food permanently — cooked rice cannot become raw rice.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Distinguish between the following.\n(a) Physical change and chemical change\n(b) Periodic change and non-periodic\nchange\n(c) Natural change and man-made change",
+        "modelAnswer": "Answer: The required answer should compare the two terms point-wise by definition, properties and examples.\nThis question belongs to the chapter \"Changes – Physical and Chemical\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Changes – Physical and Chemical (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Physical change and chemical change",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Changes – Physical and Chemical\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Changes – Physical and Chemical (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Periodic change and non-periodic\nchange",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Changes – Physical and Chemical\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Changes – Physical and Chemical (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Natural change and man-made change",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Changes – Physical and Chemical\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Changes – Physical and Chemical (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Under which different types can the\nfollowing changes be classified ?\n(a) Conversion of milk into yoghurt.\n(b) Bursting of a cracker.\n(c) Occurence of an earthquake.\n(d) Revolution of the earth around the\nsun.\n(e) Stretching of a spring.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Changes – Physical and Chemical\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Changes – Physical and Chemical (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Conversion of milk into yoghurt.",
+        "modelAnswer": "Conversion of milk into yoghurt.\n\n- Define the concept in textbook terms.\n- Explain with key characteristics.\n- Add one relevant example.",
+        "keyPoints": [
+          "Define the concept in textbook terms.",
+          "Explain with key characteristics.",
+          "Add one relevant example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Bursting of a cracker.",
+        "modelAnswer": "Bursting of a cracker.\n\n- Define the concept in textbook terms.\n- Explain with key characteristics.\n- Add one relevant example.",
+        "keyPoints": [
+          "Define the concept in textbook terms.",
+          "Explain with key characteristics.",
+          "Add one relevant example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "Occurence of an earthquake.",
+        "modelAnswer": "Occurence of an earthquake.\n\n- Define the concept in textbook terms.\n- Explain with key characteristics.\n- Add one relevant example.",
+        "keyPoints": [
+          "Define the concept in textbook terms.",
+          "Explain with key characteristics.",
+          "Add one relevant example."
+        ],
+        "marks": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "metadata": {
+    "chapterNumber": 7,
+    "title": "Motion, Force and Work",
+    "subject": "Science",
+    "pages": "47-54",
+    "description": "This chapter explains the concepts of motion, distance, displacement, speed, velocity, acceleration, force, and work."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q2",
+      "question": "What is the rate of change of displacement?",
+      "options": [
+        "Speed",
+        "Velocity",
+        "Acceleration",
+        "Force"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following is a vector quantity?",
+      "options": [
+        "Speed",
+        "Distance",
+        "Time",
+        "Velocity"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "q4",
+      "question": "Work is done when a force produces ___________.",
+      "options": [
+        "Motion",
+        "Heat",
+        "Light",
+        "Sound"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "q5",
+      "question": "What is the SI unit of work?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 3
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Motion, Distance, Displacement, Speed and Velocity",
+      "emoji": "🏃",
+      "colorTheme": "from-blue-400 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Motion is the change in the position of an object with time. Distance is the length of the actual path travelled by an object. Displacement is the minimum distance between the starting and finishing points. Speed is the rate of change of distance. Velocity is the rate of change of displacement.",
+      "pageReference": "47-49",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "A car travelling from one city to another covers a certain distance."
+        },
+        {
+          "id": "e2",
+          "text": "A boy running in a circular path covers a distance, but his displacement is zero after one round."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Distance is a scalar quantity, while displacement is a vector quantity."
+        },
+        {
+          "id": "kp2",
+          "text": "Speed is a scalar quantity, while velocity is a vector quantity."
+        }
+      ],
+      "funFact": "The Earth is always in motion, travelling at a speed of about 30 km/s around the Sun!",
+      "textbookRef": "Pages 47-49"
+    },
+    {
+      "id": 2,
+      "title": "Force",
+      "emoji": "💪",
+      "colorTheme": "from-red-400 to-orange-500",
+      "bgColor": "bg-red-50",
+      "borderColor": "border-red-300",
+      "content": "Force is a push or pull that can change the state of motion of an object. Force can change the speed, direction, or shape of an object.",
+      "pageReference": "50-51",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "Pushing a door to open it."
+        },
+        {
+          "id": "e2",
+          "text": "Kicking a football to change its direction."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Force has both magnitude and direction."
+        },
+        {
+          "id": "kp2",
+          "text": "The SI unit of force is Newton (N)."
+        }
+      ],
+      "funFact": "Gravity is a force that pulls everything towards the center of the Earth.",
+      "textbookRef": "Pages 50-51"
+    },
+    {
+      "id": 3,
+      "title": "Work",
+      "emoji": "🛠️",
+      "colorTheme": "from-green-400 to-lime-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Work is said to be done when a force applied to an object causes a displacement of the object.",
+      "pageReference": "52-53",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "Lifting a book from a table."
+        },
+        {
+          "id": "e2",
+          "text": "Pushing a cart and moving it."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Work done is zero if there is no displacement."
+        },
+        {
+          "id": "kp2",
+          "text": "The SI unit of work is Joule (J)."
+        }
+      ],
+      "funFact": "Even if you push a wall for hours, you are doing no work in the scientific sense, because the wall doesn't move!",
+      "textbookRef": "Pages 52-53"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "A bus travels 100 km in 2 hours. What is its speed?",
+      "options": [
+        "50 km/h",
+        "200 km/h",
+        "100 km/h",
+        "2 km/h"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Speed = Distance / Time = 100 km / 2 h = 50 km/h",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "54"
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following is not an effect of force?",
+      "options": [
+        "Change in speed",
+        "Change in direction",
+        "Change in mass",
+        "Change in shape"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Force can change the speed, direction, and shape of an object, but not its mass.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "54"
+    },
+    {
+      "id": "q3",
+      "question": "When is work said to be done?",
+      "options": [
+        "When a force is applied",
+        "When an object is displaced",
+        "When a force is applied and the object is displaced",
+        "When an object is at rest"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Work is done only when a force causes a displacement.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "54"
+    },
+    {
+      "id": "q4",
+      "question": "What is the displacement of a person who walks 5 m east and then 5 m west?",
+      "options": [
+        "10 m",
+        "5 m",
+        "0 m",
+        "25 m"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The person returns to the starting point, so the displacement is zero.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "54"
+    },
+    {
+      "id": "q5",
+      "question": "What is the force that opposes motion?",
+      "options": [
+        "Gravity",
+        "Friction",
+        "Magnetism",
+        "Tension"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Friction is the force that opposes motion between two surfaces in contact.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "54"
+    },
+    {
+      "id": "q6",
+      "question": "If you lift a box of 10 N to a height of 2 m, how much work have you done?",
+      "options": [
+        "20 J",
+        "10 J",
+        "5 J",
+        "2 J"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Work = Force x Distance = 10 N x 2 m = 20 J",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "54"
+    },
+    {
+      "id": "q7",
+      "question": "Which of these is a scalar quantity?",
+      "options": [
+        "Velocity",
+        "Acceleration",
+        "Force",
+        "Distance"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Distance has only magnitude, so it is a scalar quantity. The others have both magnitude and direction.",
+      "conceptIds": [
+        1,
+        2
+      ],
+      "pageReference": "54"
+    },
+    {
+      "id": "q8",
+      "question": "A ball is thrown upwards. What is the work done by gravity?",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Infinite"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gravity acts downwards, while the displacement is upwards. So, the work done by gravity is negative.",
+      "conceptIds": [
+        1,
+        3
+      ],
+      "pageReference": "54"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Motion",
+      "Force",
+      "Work"
+    ],
+    "commonMisconceptions": [
+      "Distance and displacement are the same.",
+      "Force is always in the direction of motion."
+    ],
+    "realWorldExamples": [
+      "A moving car",
+      "Pushing a box",
+      "Lifting a weight"
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Drag the components to build the key formula for this chapter.",
+    "data": {
+      "formula": "Speed = Distance / Time",
+      "components": [
+        "Speed",
+        "=",
+        "Distance",
+        "/",
+        "Time"
+      ],
+      "explanation": "Speed tells us how fast an object is moving. Distance divided by time gives speed."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Motion, Force and Work",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "fill_blanks",
+        "question": "Fill in the blanks with the proper\nwords from the brackets.\n(stationary, zero, changing, constant,\ndisplacement,\nvelocity,\nspeed,\nacceleration, stationary but not zero,\nincreases)\n(a) If a body traverses a distance in\ndirect proportion to the time, the\nspeed of the body is ............... .\n(b) If a",
+        "subQuestions": [
+          "If a body traverses a distance in\ndirect proportion to the time, the\nspeed of the body is ............... .",
+          "If a body is moving with a constant\nvelocity its acceleration is .......... .",
+          ".............. is a scalar quantity.",
+          "............. is the distance traversed by\na body in a particular direction in\nunit time."
+        ]
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Observe the figure and answer the\nquestions. C\n4 km",
+        "subQuestions": []
+      },
+      {
+        "number": 4,
+        "type": "give_reasons",
+        "question": "A bird sitting on a wire, flies, circles\naround and comes back to its perch.\nExplain the total distance it traversed\nduring its flight and its eventual\ndisplacement.",
+        "subQuestions": []
+      },
+      {
+        "number": 5,
+        "type": "give_reasons",
+        "question": "Explain the following concepts in your\nown words with everyday examples :\nforce, work, displacement, velocity,\nacceleration, distance.",
+        "subQuestions": []
+      },
+      {
+        "number": 6,
+        "type": "short_answer",
+        "question": "A ball is rolling from A to D on a\nflat and smooth surface. Its speed is\n2 cm/s. On reaching B, it was pushed\ncontinuously up to C. On reaching D\nfrom C, its speed had become 4cm/s.\nIt took 2 seconds for it to go from B\nto C. What is the acceleration of the\nball as it goes from B to C ?\n5 km\nA\nA\n3 k",
+        "subQuestions": []
+      },
+      {
+        "number": 7,
+        "type": "short_answer",
+        "question": "Solve the following problems.\n(a) A force of 1000N was applied to\nstop a car that was moving with a\nconstant velocity. The car stopped\nafter moving through 10m. How\nmuch is the work done ?\n(b) A cart with mass 20 kg went 50m\nin a straight line on a plain and\nsmooth road when a force of 2N\nwas applie",
+        "subQuestions": [
+          "A force of 1000N was applied to\nstop a car that was moving with a\nconstant velocity. The car stopped\nafter moving through 10m. How\nmuch is the work done ?",
+          "A cart with mass 20 kg went 50m\nin a straight line on a plain and\nsmooth road when a force of 2N\nwas applied to it. How much work\nwas done by the force ?\n\t\t\nSachin and Sameer started on a\nmotorbike from place A, took the turn\nat B, did a task at C, travelled by the\nroute CD to D and then went on to E.\nAltogether, they took one hour for this\njourney. Find out the actual distance\ntraversed by them and the displacement\nfrom A to E. From this, deduce their\nspeed. What was their velocity from A\nto E in the direction AE ? Can this\nvelocity be called average velocity ?"
+        ]
+      }
+    ],
+    "rawText": "Exercise\n1. Fill in the blanks with the proper\nwords from the brackets.\n(stationary, zero, changing, constant,\ndisplacement,\nvelocity,\nspeed,\nacceleration, stationary but not zero,\nincreases)\n(a) If a body traverses a distance in\ndirect proportion to the time, the\nspeed of the body is ............... .\n(b) If a body is moving with a constant\nvelocity its acceleration is .......... .\n(c) .............. is a scalar quantity.\n(d) ............. is the distance traversed by\na body in a particular direction in\nunit time.\n2. Observe the figure and answer the\nquestions. C\n4 km\n4. A bird sitting on a wire, flies, circles\naround and comes back to its perch.\nExplain the total distance it traversed\nduring its flight and its eventual\ndisplacement.\n5. Explain the following concepts in your\nown words with everyday examples :\nforce, work, displacement, velocity,\nacceleration, distance.\n6. A ball is rolling from A to D on a\nflat and smooth surface. Its speed is\n2 cm/s. On reaching B, it was pushed\ncontinuously up to C. On reaching D\nfrom C, its speed had become 4cm/s.\nIt took 2 seconds for it to go from B\nto C. What is the acceleration of the\nball as it goes from B to C ?\n5 km\nA\nA\n3 km\nB 3 km\nD 3 km\nE\nB\nC\nD\n7. Solve the following problems.\n(a) A force of 1000N was applied to\nstop a car that was moving with a\nconstant velocity. The car stopped\nafter moving through 10m. How\nmuch is the work done ?\n(b) A cart with mass 20 kg went 50m\nin a straight line on a plain and\nsmooth road when a force of 2N\nwas applied to it. How much work\nwas done by the force ?\n\t\t\nSachin and Sameer started on a\nmotorbike from place A, took the turn\nat B, did a task at C, travelled by the\nroute CD to D and then went on to E.\nAltogether, they took one hour for this\njourney. Find out the actual distance\ntraversed by them and the displacement\nfrom A to E. From this, deduce their\nspeed. What was their velocity from A\nto E in the direction AE ? Can this\nvelocity be called average velocity ?",
+    "qaCards": [
+      {
+        "question": "A bus travels 100 km in 2 hours. What is its speed?",
+        "answer": "Speed = Distance / Time = 100 km / 2 h = 50 km/h",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is not an effect of force?",
+        "answer": "Force can change the speed, direction, and shape of an object, but not its mass.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "When is work said to be done?",
+        "answer": "Work is done only when a force causes a displacement.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the displacement of a person who walks 5 m east and then 5 m west?",
+        "answer": "The person returns to the starting point, so the displacement is zero.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the force that opposes motion?",
+        "answer": "Friction is the force that opposes motion between two surfaces in contact.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "If you lift a box of 10 N to a height of 2 m, how much work have you done?",
+        "answer": "Work = Force x Distance = 10 N x 2 m = 20 J",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is a scalar quantity?",
+        "answer": "Distance has only magnitude, so it is a scalar quantity. The others have both magnitude and direction.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A ball is thrown upwards. What is the work done by gravity?",
+        "answer": "Gravity acts downwards, while the displacement is upwards. So, the work done by gravity is negative.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "If a body traverses a distance in\ndirect proportion to the time, the\nspeed of the body is ............... .",
+        "modelAnswer": "Speed = Distance / Time = 100 km / 2 h = 50 km/h. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: If a body traverses a distance in\ndirect proportion to the time, the\nspeed of the body is ............... .",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "If a body is moving with a constant\nvelocity its acceleration is .......... .",
+        "modelAnswer": "Speed = Distance / Time = 100 km / 2 h = 50 km/h. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: If a body is moving with a constant\nvelocity its acceleration is .......... .",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": ".............. is a scalar quantity.",
+        "modelAnswer": "Distance has only magnitude, so it is a scalar quantity. The others have both magnitude and direction. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Distance has only magnitude, so it is a scalar quantity.",
+          "The others have both magnitude and direction.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "............. is the distance traversed by\na body in a particular direction in\nunit time.",
+        "modelAnswer": "Gravity acts downwards, while the displacement is upwards. So, the work done by gravity is negative. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Gravity acts downwards, while the displacement is upwards.",
+          "So, the work done by gravity is negative.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Observe the figure and answer the\nquestions. C\n4 km",
+        "modelAnswer": "Observe the figure and answer the questions. C 4 km This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Observe the figure and answer the questions.",
+          "C 4 km This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "A bird sitting on a wire, flies, circles\naround and comes back to its perch.\nExplain the total distance it traversed\nduring its flight and its eventual\ndisplacement.",
+        "modelAnswer": "A bird sitting on a wire, flies, circles around and comes back to its perch. Explain the total distance it traversed during its flight and its eventual displacement. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "A bird sitting on a wire, flies, circles around and comes back to its perch.",
+          "Explain the total distance it traversed during its flight and its eventual displacement.",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Explain the following concepts in your\nown words with everyday examples :\nforce, work, displacement, velocity,\nacceleration, distance.",
+        "modelAnswer": "Explain the following concepts in your own words with everyday examples : force, work, displacement, velocity, acceleration, distance. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Explain the following concepts in your own words with everyday examples : force, work, displacement, velocity, acceleration, distance.",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "A ball is rolling from A to D on a\nflat and smooth surface. Its speed is\n2 cm/s. On reaching B, it was pushed\ncontinuously up to C. On reaching D\nfrom C, its speed had become 4cm/s.\nIt took 2 seconds for it to go from B\nto C. What is the acceleration of the\nball as it goes from B to C ?\n5 km\nA\nA\n3 k",
+        "modelAnswer": "A ball is rolling from A to D on a flat and smooth surface. Its speed is 2 cm/s. On reaching B, it was pushed continuously up to C. On reaching D from C, its speed had become 4cm/s. It took 2 seconds for it to go from B to C. What is the acceleration of the ball as it goes from B to C ? 5 km A A 3 k This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "A ball is rolling from A to D on a flat and smooth surface.",
+          "Its speed is 2 cm/s.",
+          "On reaching B, it was pushed continuously up to C.",
+          "On reaching D from C, its speed had become 4cm/s."
+        ],
+        "marks": 5
+      }
+    ]
+  }
+}

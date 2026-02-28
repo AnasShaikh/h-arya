@@ -11,16 +11,65 @@
     {
       "id": "q1",
       "question": "Which of the following is a material source of history?",
-      "options": ["Forts", "Powadas", "Bakhars", "Stories"],
+      "options": [
+        "Forts",
+        "Powadas",
+        "Bakhars",
+        "Stories"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy"
     },
     {
       "id": "q2",
       "question": "The period from the 9th century AD to the end of the 18th century AD is considered as:",
-      "options": ["Ancient Period", "Medieval Period", "Modern Period", "Pre-historic Period"],
+      "options": [
+        "Ancient Period",
+        "Medieval Period",
+        "Modern Period",
+        "Pre-historic Period"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium"
+    },
+    {
+      "id": "pa3",
+      "question": "Archaeological sources of history include:",
+      "options": [
+        "Books and manuscripts",
+        "Coins, tools, and ruins",
+        "Songs and stories",
+        "Newspapers"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "pa4",
+      "question": "What is an 'inscription' as a historical source?",
+      "options": [
+        "A painting",
+        "A type of weapon",
+        "Writing carved on stone, metal or walls",
+        "An oral story"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "pa5",
+      "question": "The study of coins from the past is called:",
+      "options": [
+        "Geology",
+        "Numismatics",
+        "Archaeology",
+        "Astronomy"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "conceptId": 1
     }
   ],
   "concepts": [
@@ -35,9 +84,18 @@
       "imageUrl": "https://images.unsplash.com/photo-1623945359620-63198089408e?auto=format&fit=crop&q=80&w=1000",
       "pageReference": "1-2",
       "examples": [
-        { "icon": "🪙", "text": "Coins (Shivrai, Hon)" },
-        { "icon": "🚩", "text": "Forts (Raigad, Pratapgad)" },
-        { "icon": "📜", "text": "Inscriptions on stone or copper" }
+        {
+          "icon": "🪙",
+          "text": "Coins (Shivrai, Hon)"
+        },
+        {
+          "icon": "🚩",
+          "text": "Forts (Raigad, Pratapgad)"
+        },
+        {
+          "icon": "📜",
+          "text": "Inscriptions on stone or copper"
+        }
       ],
       "keyPoints": [
         "Forts have an important place among material sources",
@@ -58,9 +116,18 @@
       "imageUrl": "https://images.unsplash.com/photo-1585779034823-7e9ac8faec70?auto=format&fit=crop&q=80&w=1000",
       "pageReference": "3-4",
       "examples": [
-        { "icon": "✍️", "text": "Bakhars (Sabhasad Bakhar)" },
-        { "icon": "🐪", "text": "Travelogues (Ibn Battuta)" },
-        { "icon": "🖋️", "text": "Royal Decrees (Farman)" }
+        {
+          "icon": "✍️",
+          "text": "Bakhars (Sabhasad Bakhar)"
+        },
+        {
+          "icon": "🐪",
+          "text": "Travelogues (Ibn Battuta)"
+        },
+        {
+          "icon": "🖋️",
+          "text": "Royal Decrees (Farman)"
+        }
       ],
       "keyPoints": [
         "Bakhars help us understand the political happenings and social life",
@@ -81,9 +148,18 @@
       "videoUrl": "https://www.youtube.com/embed/fA-n_O-p0Wc",
       "pageReference": "5-6",
       "examples": [
-        { "icon": "🎶", "text": "Powadas (Heroic Ballads)" },
-        { "icon": "👵", "text": "Grandmother's Tales (Folklore)" },
-        { "icon": "🎭", "text": "Traditional Bhajans and Abhangs" }
+        {
+          "icon": "🎶",
+          "text": "Powadas (Heroic Ballads)"
+        },
+        {
+          "icon": "👵",
+          "text": "Grandmother's Tales (Folklore)"
+        },
+        {
+          "icon": "🎭",
+          "text": "Traditional Bhajans and Abhangs"
+        }
       ],
       "keyPoints": [
         "Oral sources preserve history that isn't written down",
@@ -98,16 +174,268 @@
     {
       "id": "t1",
       "question": "What does the term 'Tawarikh' mean?",
-      "options": ["Dates/Sequence of events", "Heroic songs", "Copper plates", "Forts"],
+      "options": [
+        "Dates/Sequence of events",
+        "Heroic songs",
+        "Copper plates",
+        "Forts"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium"
     },
     {
       "id": "t2",
       "question": "Which of these is an oral source?",
-      "options": ["Powada", "Inscription", "Coin", "Manuscript"],
+      "options": [
+        "Powada",
+        "Inscription",
+        "Coin",
+        "Manuscript"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy"
+    },
+    {
+      "id": "t3",
+      "question": "Which of the following is a literary source of history?",
+      "options": [
+        "Coins",
+        "Tools",
+        "The Mahabharata",
+        "Pottery"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The Mahabharata is a literary source — it is a written text that provides historical and cultural information.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "textbook"
+    },
+    {
+      "id": "t4",
+      "question": "What do archaeologists study?",
+      "options": [
+        "Stars and planets",
+        "Ancient remains and artefacts",
+        "Modern buildings",
+        "Ocean animals"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Archaeologists excavate and study ancient remains including tools, buildings, coins, and pottery to understand the past.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "textbook"
+    },
+    {
+      "id": "t5",
+      "question": "Oral traditions as historical sources include:",
+      "options": [
+        "Coins",
+        "Folk songs, stories passed down through generations",
+        "Stone inscriptions",
+        "Buildings"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Oral traditions are stories, songs, and sayings passed down verbally through generations, preserving historical memory.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "textbook"
+    },
+    {
+      "id": "t6",
+      "question": "Why is history important to study?",
+      "options": [
+        "It is not important",
+        "It helps us understand our past and learn lessons for the future",
+        "Only for passing exams",
+        "Because it is easy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "History helps us understand how the present was shaped by the past, learn from mistakes, and appreciate our cultural heritage.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "textbook"
+    },
+    {
+      "id": "t7",
+      "question": "The Ajanta caves are an example of which type of historical source?",
+      "options": [
+        "Literary source",
+        "Archaeological source",
+        "Oral source",
+        "Modern source"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Ajanta caves with their paintings and sculptures are archaeological sources that tell us about ancient Indian art and religion.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "textbook"
+    },
+    {
+      "id": "t8",
+      "question": "Which era came first in Indian history?",
+      "options": [
+        "Medieval period",
+        "Modern period",
+        "Ancient period",
+        "Colonial period"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Indian history is divided into Ancient, Medieval, and Modern periods. The Ancient period came first.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "textbook"
     }
-  ]
+  ],
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Early Period",
+          "year": "600 CE",
+          "fact": "Early developments related to this chapter's topic"
+        },
+        {
+          "label": "Medieval Period",
+          "year": "1000 CE",
+          "fact": "Key events during the medieval era"
+        },
+        {
+          "label": "Important Development",
+          "year": "1400 CE",
+          "fact": "A significant milestone in this period"
+        },
+        {
+          "label": "Major Change",
+          "year": "1600 CE",
+          "fact": "A turning point in history"
+        },
+        {
+          "label": "Later Period",
+          "year": "1800 CE",
+          "fact": "Events leading to the modern era"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Sources of History",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Which of the following is a literary source of history?",
+        "answer": "The Mahabharata is a literary source — it is a written text that provides historical and cultural information.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What do archaeologists study?",
+        "answer": "Archaeologists excavate and study ancient remains including tools, buildings, coins, and pottery to understand the past.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Oral traditions as historical sources include:",
+        "answer": "Oral traditions are stories, songs, and sayings passed down verbally through generations, preserving historical memory.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why is history important to study?",
+        "answer": "History helps us understand how the present was shaped by the past, learn from mistakes, and appreciate our cultural heritage.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Ajanta caves are an example of which type of historical source?",
+        "answer": "The Ajanta caves with their paintings and sculptures are archaeological sources that tell us about ancient Indian art and religion.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which era came first in Indian history?",
+        "answer": "Indian history is divided into Ancient, Medieval, and Modern periods. The Ancient period came first.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Explain the concept: Material sources",
+        "modelAnswer": "Material sources are physical objects from the past that provide information about history. They include forts, coins, inscriptions, weapons, and buildings. These sources help us understand architecture, economy, and daily life in the period. For example, coins reveal the ruler's name, religion, and metal technology used.",
+        "keyPoints": [
+          "Physical remains like forts, coins, buildings",
+          "Provide insights into economy, art, and daily life",
+          "Examples: Shivrai coins, Raigad fort",
+          "Important for verifying written history"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Explain the concept: Written sources",
+        "modelAnswer": "Written sources are documented records from the past, including bakhars, travelogues, royal edicts, and correspondence. They help understand political events, social conditions, and language of the time. For example, Sabhasad Bakhar describes Shivaji Maharaj's life and administration.",
+        "keyPoints": [
+          "Documents like bakhars, tarikhs, letters",
+          "Reveal political, social, and cultural information",
+          "Examples: Ibn Battuta's travelogue, royal farman",
+          "Need to be verified for bias and accuracy"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Explain the concept: Oral sources",
+        "modelAnswer": "Oral sources are traditions passed down verbally, including powadas, folk songs, and legends. They preserve cultural memory and social values. For example, powadas about Tanaji Malusare inspire valor and describe historical events through poetry.",
+        "keyPoints": [
+          "Verbal traditions like songs, stories, myths",
+          "Reflect folk life, emotions, and values",
+          "Examples: Powadas, owis, folk tales",
+          "May change over time but preserve essence"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Give reasons: We need to evaluate sources of history",
+        "modelAnswer": "Historical sources need evaluation to ensure accuracy and reliability. Writers may have biases, and sources can be fake or exaggerated. For example, bakhars written long after events may rely on hearsay, so we cross-verify with multiple sources.",
+        "keyPoints": [
+          "To check authenticity and bias",
+          "Sources may be exaggerated or one-sided",
+          "Verify with contemporary evidence",
+          "Helps write accurate history"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la5",
+        "question": "Write why: A stone inscription is considered an authentic source",
+        "modelAnswer": "Stone inscriptions are permanent records carved on durable material, making them reliable. They provide direct evidence of events, languages, and social life from the period. For example, Brihadishwara temple inscriptions detail Chola administration.",
+        "keyPoints": [
+          "Permanent and hard to alter",
+          "Contemporary records",
+          "Reveal language, script, social features",
+          "Examples: Chalukya, Yadav inscriptions"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la6",
+        "question": "Write why: Oral sources reveal various aspects of people’s lives",
+        "modelAnswer": "Oral sources like folk songs and legends preserve unwritten aspects of daily life, emotions, and values. They show how common people lived, their beliefs, and social conditions. For example, powadas reveal Maratha valor and unity.",
+        "keyPoints": [
+          "Preserve folk life and unwritten history",
+          "Reflect emotions, values, social conditions",
+          "Passed through generations",
+          "Examples: Powadas, myths, folk tales"
+        ],
+        "marks": 3
+      }
+    ]
+  }
 }

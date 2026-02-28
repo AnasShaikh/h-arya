@@ -10,7 +10,12 @@
     {
       "id": "pre_15_1",
       "question": "What does 'compere' mean?",
-      "options": ["A) A person who participates in a competition", "B) A person who hosts and announces a programme", "C) A person who judges a competition", "D) A person who organises the decorations"],
+      "options": [
+        "A) A person who participates in a competition",
+        "B) A person who hosts and announces a programme",
+        "C) A person who judges a competition",
+        "D) A person who organises the decorations"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_15_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_15_2",
       "question": "What is the meaning of 'Atithi Devo Bhava'?",
-      "options": ["A) God is great", "B) Welcome to our school", "C) Guest is God", "D) Thank you for coming"],
+      "options": [
+        "A) God is great",
+        "B) Welcome to our school",
+        "C) Guest is God",
+        "D) Thank you for coming"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_15_4"
@@ -26,7 +36,12 @@
     {
       "id": "pre_15_3",
       "question": "In the sentence 'He gave me a pen', what is the direct object?",
-      "options": ["A) He", "B) me", "C) pen", "D) gave"],
+      "options": [
+        "A) He",
+        "B) me",
+        "C) pen",
+        "D) gave"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_15_5"
@@ -34,7 +49,12 @@
     {
       "id": "pre_15_4",
       "question": "What is the first thing a compere does when a school programme starts?",
-      "options": ["A) Introduce the chief guest", "B) Welcome the audience", "C) Sing the school song", "D) Give a vote of thanks"],
+      "options": [
+        "A) Introduce the chief guest",
+        "B) Welcome the audience",
+        "C) Sing the school song",
+        "D) Give a vote of thanks"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_15_2"
@@ -42,7 +62,12 @@
     {
       "id": "pre_15_5",
       "question": "What does the phrase 'butterflies in your stomach' mean?",
-      "options": ["A) A stomach-ache after eating", "B) A nervous or excited feeling", "C) Insects entering your body", "D) A very good meal"],
+      "options": [
+        "A) A stomach-ache after eating",
+        "B) A nervous or excited feeling",
+        "C) Insects entering your body",
+        "D) A very good meal"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_15_3"
@@ -174,7 +199,12 @@
     {
       "id": "test_15_1",
       "question": "What does the word 'compere' mean?",
-      "options": ["A) A person who competes in a show", "B) A person who hosts and announces a programme", "C) A person who decorates the stage", "D) A person who judges performances"],
+      "options": [
+        "A) A person who competes in a show",
+        "B) A person who hosts and announces a programme",
+        "C) A person who decorates the stage",
+        "D) A person who judges performances"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "A compere is the host or MC (Master of Ceremonies) of a programme. They introduce speakers, announce events, and keep the programme running smoothly."
@@ -182,7 +212,12 @@
     {
       "id": "test_15_2",
       "question": "What is the correct order? Which event comes FIRST in the school Art Festival programme?",
-      "options": ["A) Lamp lighting", "B) School song", "C) Welcome to the audience", "D) Introduction of chief guest"],
+      "options": [
+        "A) Lamp lighting",
+        "B) School song",
+        "C) Welcome to the audience",
+        "D) Introduction of chief guest"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "The compere first welcomes the audience. Then dignitaries arrive, followed by the school song, introduction of the chief guest, and then the lamp lighting ceremony."
@@ -190,7 +225,12 @@
     {
       "id": "test_15_3",
       "question": "What is the name of the chief guest in the Art Festival programme?",
-      "options": ["A) Shri. Ramesh Patil", "B) Shri. Charudatta Diwan", "C) Shri. Suresh Mehta", "D) Shri. Anil Sharma"],
+      "options": [
+        "A) Shri. Ramesh Patil",
+        "B) Shri. Charudatta Diwan",
+        "C) Shri. Suresh Mehta",
+        "D) Shri. Anil Sharma"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "The chief guest in the chapter's Art Festival programme is Shri. Charudatta Diwan, who is formally introduced by the compere."
@@ -198,7 +238,12 @@
     {
       "id": "test_15_4",
       "question": "What does 'Atithi Devo Bhava' mean?",
-      "options": ["A) Education is God", "B) Nature is God", "C) Guest is God", "D) Teacher is God"],
+      "options": [
+        "A) Education is God",
+        "B) Nature is God",
+        "C) Guest is God",
+        "D) Teacher is God"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "Atithi Devo Bhava is a Sanskrit phrase from the Taittiriya Upanishad meaning 'Guest is God'. It teaches that guests must be welcomed and honoured with the utmost respect."
@@ -206,7 +251,12 @@
     {
       "id": "test_15_5",
       "question": "What does 'butterflies in your stomach' mean?",
-      "options": ["A) Eating too much food", "B) A stomach disease", "C) Feeling nervous or excited", "D) Feeling hungry"],
+      "options": [
+        "A) Eating too much food",
+        "B) A stomach disease",
+        "C) Feeling nervous or excited",
+        "D) Feeling hungry"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "'Butterflies in your stomach' is an idiom meaning a nervous or excited fluttery feeling — like the feeling you get before going on stage or taking an important test."
@@ -214,7 +264,12 @@
     {
       "id": "test_15_6",
       "question": "In 'She told us a story', what is the direct object?",
-      "options": ["A) She", "B) told", "C) us", "D) story"],
+      "options": [
+        "A) She",
+        "B) told",
+        "C) us",
+        "D) story"
+      ],
       "correctAnswer": "D",
       "difficulty": "medium",
       "explanation": "The direct object answers 'What did she tell?' — she told a STORY. 'Story' is the direct object. 'Us' is the indirect object (told to whom? — to us)."
@@ -222,7 +277,12 @@
     {
       "id": "test_15_7",
       "question": "In 'Mother cooked us dinner', what is the indirect object?",
-      "options": ["A) Mother", "B) cooked", "C) us", "D) dinner"],
+      "options": [
+        "A) Mother",
+        "B) cooked",
+        "C) us",
+        "D) dinner"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "The indirect object answers 'For whom did Mother cook?' — cooked for US. 'Us' is the indirect object. 'Dinner' is the direct object (what did she cook? — dinner)."
@@ -230,7 +290,12 @@
     {
       "id": "test_15_8",
       "question": "Which dance from Maharashtra is performed in the Art Festival programme?",
-      "options": ["A) Bharatanatyam", "B) Lavani", "C) Koli Dance", "D) Kathak"],
+      "options": [
+        "A) Bharatanatyam",
+        "B) Lavani",
+        "C) Koli Dance",
+        "D) Kathak"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Koli Dance is performed in the Art Festival programme. It is a traditional dance of the Koli fishing community of Maharashtra, known for their colourful costumes and energetic performance."
@@ -258,5 +323,158 @@
       "The formal phrases used by the compere (like 'I extend a hearty welcome') are used in real invitation cards, school notices, and official letters in Maharashtra."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Compere a Programme",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "What does the word 'compere' mean?",
+        "answer": "A compere is the host or MC (Master of Ceremonies) of a programme. They introduce speakers, announce events, and keep the programme running smoothly.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the correct order? Which event comes FIRST in the school Art Festival programme?",
+        "answer": "The compere first welcomes the audience. Then dignitaries arrive, followed by the school song, introduction of the chief guest, and then the lamp lighting ceremony.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the name of the chief guest in the Art Festival programme?",
+        "answer": "The chief guest in the chapter's Art Festival programme is Shri. Charudatta Diwan, who is formally introduced by the compere.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'Atithi Devo Bhava' mean?",
+        "answer": "Atithi Devo Bhava is a Sanskrit phrase from the Taittiriya Upanishad meaning 'Guest is God'. It teaches that guests must be welcomed and honoured with the utmost respect.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'butterflies in your stomach' mean?",
+        "answer": "'Butterflies in your stomach' is an idiom meaning a nervous or excited fluttery feeling — like the feeling you get before going on stage or taking an important test.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'She told us a story', what is the direct object?",
+        "answer": "The direct object answers 'What did she tell?' — she told a STORY. 'Story' is the direct object. 'Us' is the indirect object (told to whom? — to us).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'Mother cooked us dinner', what is the indirect object?",
+        "answer": "The indirect object answers 'For whom did Mother cook?' — cooked for US. 'Us' is the indirect object. 'Dinner' is the direct object (what did she cook? — dinner).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which dance from Maharashtra is performed in the Art Festival programme?",
+        "answer": "Koli Dance is performed in the Art Festival programme. It is a traditional dance of the Koli fishing community of Maharashtra, known for their colourful costumes and energetic performance.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What is the role of a compere in a school programme?",
+        "modelAnswer": "A compere is the person who hosts or anchors a programme, also known as a Master of Ceremonies (MC). Their primary role is to introduce speakers, announce upcoming events, and ensure the entire programme runs smoothly. In a school setting, the student compere serves as a crucial link between the audience and the events happening on stage. To be effective, a compere must speak clearly, exude confidence, and use polite language to keep the audience fully engaged.",
+        "keyPoints": [
+          "A compere hosts or anchors a programme as the Master of Ceremonies (MC).",
+          "They introduce speakers, announce events, and ensure smooth execution.",
+          "They act as a vital link between the audience and the stage events.",
+          "An effective compere is confident, clear, and uses polite language."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "Describe the typical order of events in the school's Art Festival programme as mentioned in the chapter.",
+        "modelAnswer": "The school's Art Festival programme begins with the compere warmly welcoming the audience and the arriving dignitaries. Following this, the school song is sung, and the chief guest is formally introduced to the gathering. A traditional ceremonial lighting of the lamp then takes place to auspiciously inaugurate the event. The main programme continues with the Principal's speech, a book release, various cultural performances, and prize distribution. Finally, the event concludes gracefully with a formal Vote of Thanks to express gratitude to everyone.",
+        "keyPoints": [
+          "The programme starts with welcoming the audience and the arriving dignitaries.",
+          "The school song is sung, followed by the chief guest's introduction.",
+          "A traditional lamp lighting ceremony marks the auspicious beginning of the event.",
+          "It includes the Principal's speech, cultural performances, and prize distribution.",
+          "The event concludes with a formal Vote of Thanks to express gratitude."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "Explain the cultural significance of the phrase \"Atithi Devo Bhava\" in the context of an Indian school programme.",
+        "modelAnswer": "\"Atithi Devo Bhava\" is a profound Sanskrit phrase from the ancient Taittiriya Upanishad that translates to \"Guest is God\". It forms a foundational principle of Indian culture, teaching that guests must be welcomed with the highest level of respect and honour. In a school programme, this principle is actively practiced by respectfully escorting guests to their seats and garlanding the chief guest. Ensuring the utmost comfort and honour for the dignitaries throughout the event perfectly reflects this spirit of traditional hospitality.",
+        "keyPoints": [
+          "It is a Sanskrit phrase translating to \"Guest is God\", originating from the Taittiriya Upanishad.",
+          "It represents a foundational principle of traditional Indian hospitality and culture.",
+          "The phrase teaches that guests should be welcomed with the highest level of respect and honour.",
+          "In schools, it is demonstrated by garlanding and respectfully escorting guests to their seats."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "What does the idiom \"butterflies in your stomach\" mean, and when might a compere experience it?",
+        "modelAnswer": "The phrase \"butterflies in your stomach\" is a common idiom used to describe a nervous, fluttery physical sensation felt in the stomach. It typically occurs when a person is feeling highly anxious, nervous, or overly excited about an upcoming important event. A student compere might strongly experience this feeling just before walking onto the stage to address a large audience for the first time. Despite being an uncomfortable physical reaction, it is completely natural and often indicates that the person cares deeply about performing well.",
+        "keyPoints": [
+          "It refers to a nervous, fluttery sensation experienced in the stomach.",
+          "It is caused by strong feelings of anxiety, nervousness, or excitement before an event.",
+          "A compere may feel it right before stepping onto the stage to host a programme.",
+          "It is a completely natural reaction that shows a person cares about their performance."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Explain the difference between a direct object and an indirect object using an example.",
+        "modelAnswer": "In English grammar, an object is the part of a sentence that receives the action of the verb. The direct object is the thing directly affected by the verb, answering the question \"what?\" or \"whom?\". The indirect object is the person to whom or for whom the action is done, answering \"to whom?\" or \"for whom?\". For example, in the sentence \"He gave me a pen\", \"pen\" is the direct object and \"me\" is the indirect object. Usually, the indirect object is placed immediately before the direct object in a sentence.",
+        "keyPoints": [
+          "A direct object directly receives the verb's action and answers \"what?\" or \"whom?\".",
+          "An indirect object indicates to whom or for whom the action is performed.",
+          "In the sentence \"He gave me a pen\", \"pen\" is the direct object.",
+          "In the same sentence, \"me\" is the indirect object receiving the pen.",
+          "Indirect objects usually come before direct objects in an English sentence."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "How does a compere use formal phrases like \"we solicit your presence\" and \"I extend a hearty welcome\" during an event?",
+        "modelAnswer": "A compere uses specific formal phrases to maintain a polite, respectful, and professional tone throughout the programme. The phrase \"we solicit your presence\" is a formal way to respectfully request someone's attendance, often used when inviting dignitaries to the stage. Similarly, saying \"I extend a hearty welcome\" allows the compere to warmly and sincerely greet the chief guest and the audience. Using such elegant and traditional language helps to elevate the dignity of the event and makes the guests feel truly honoured.",
+        "keyPoints": [
+          "Formal phrases help maintain a polite and professional tone during a school event.",
+          "\"We solicit your presence\" is a respectful way to invite dignitaries to the stage.",
+          "\"I extend a hearty welcome\" is used to warmly and sincerely greet the guests.",
+          "Using elegant language elevates the overall dignity of the cultural programme."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

@@ -272,7 +272,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "'Great Scientists' is from 'Reignited' by A.P.J. Abdul Kalam. The chapter includes the story of Michael Faraday.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "49"
     },
     {
@@ -286,7 +288,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "As a child, Faraday had a speech defect and said 'wabbit' instead of 'rabbit'. Despite this, he became one of the world's greatest scientists.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "49-50"
     },
     {
@@ -300,7 +304,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Faraday took careful notes of Davy's electricity lectures, bound them neatly (using his bookbinding skills), and sent them to Davy asking for work. Davy was impressed and made him his lab assistant.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "51-52"
     },
     {
@@ -314,7 +320,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Faraday invented the induction motor, which is used in fans, electric trains, cars, and aircraft. It converts electricity into mechanical movement.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "52-53"
     },
     {
@@ -328,7 +336,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Davy, jealous of Faraday's growing fame, gave him an impossible task: reverse-engineer a piece of Bavarian glass (recreate it without knowing how it was made).",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "53"
     },
     {
@@ -342,7 +352,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Faraday kept the glass as a souvenir of the experience. This shows he viewed failure as a learning experience rather than something to be ashamed of.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "53"
     },
     {
@@ -356,7 +368,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Faraday's famous quote is: 'In order to succeed, your desire for success should be greater than your fear of failure.'",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "54"
     },
     {
@@ -370,7 +384,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The subject of the sentence is 'Michael Faraday' — he is the person the sentence is about. The predicate is 'invented the induction motor'.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "54"
     },
     {
@@ -384,7 +400,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The predicate is 'gathers honey from flowers' — this is what the subject (the bee) does. The predicate always includes the verb.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "54"
     },
     {
@@ -398,7 +416,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Faraday and James Maxwell together developed the electromagnetic theory, which is the foundation of all modern electronics including phones, computers, and televisions.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "53-54"
     }
   ],
@@ -431,5 +451,166 @@
       "Bharat Heavy Electricals Limited (BHEL) in India manufactures electric motors and generators"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'experiment' mean?",
+          "back": "A scientific test to discover or prove something"
+        },
+        {
+          "front": "What is a 'hypothesis'?",
+          "back": "An educated guess or prediction before an experiment"
+        },
+        {
+          "front": "What does 'observation' mean in science?",
+          "back": "Carefully watching and noting what happens"
+        },
+        {
+          "front": "What is 'innovation'?",
+          "back": "A new idea, method, or invention"
+        },
+        {
+          "front": "Name one great scientist.",
+          "back": "Examples: C.V. Raman, APJ Abdul Kalam, Isaac Newton, Marie Curie"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Great Scientists",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "From which book is 'Great Scientists' taken?",
+        "answer": "'Great Scientists' is from 'Reignited' by A.P.J. Abdul Kalam. The chapter includes the story of Michael Faraday.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was Faraday's speech problem as a child?",
+        "answer": "As a child, Faraday had a speech defect and said 'wabbit' instead of 'rabbit'. Despite this, he became one of the world's greatest scientists.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How did Faraday get Humphry Davy to notice him?",
+        "answer": "Faraday took careful notes of Davy's electricity lectures, bound them neatly (using his bookbinding skills), and sent them to Davy asking for work. Davy was impressed and made him his lab assistant.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did Faraday invent that is found in fans, trains, and electric cars today?",
+        "answer": "Faraday invented the induction motor, which is used in fans, electric trains, cars, and aircraft. It converts electricity into mechanical movement.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What impossible task did the jealous Davy give Faraday?",
+        "answer": "Davy, jealous of Faraday's growing fame, gave him an impossible task: reverse-engineer a piece of Bavarian glass (recreate it without knowing how it was made).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did Faraday do with the Bavarian glass after failing the task?",
+        "answer": "Faraday kept the glass as a souvenir of the experience. This shows he viewed failure as a learning experience rather than something to be ashamed of.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Complete Faraday's famous quote: 'In order to succeed, your desire for success should be greater than your _____ of failure.'",
+        "answer": "Faraday's famous quote is: 'In order to succeed, your desire for success should be greater than your fear of failure.'",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the subject of the sentence: 'Michael Faraday invented the induction motor.'?",
+        "answer": "The subject of the sentence is 'Michael Faraday' — he is the person the sentence is about. The predicate is 'invented the induction motor'.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the predicate of the sentence: 'The bee gathers honey from flowers.'?",
+        "answer": "The predicate is 'gathers honey from flowers' — this is what the subject (the bee) does. The predicate always includes the verb.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "With which scientist did Faraday develop the electromagnetic theory?",
+        "answer": "Faraday and James Maxwell together developed the electromagnetic theory, which is the foundation of all modern electronics including phones, computers, and televisions.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What was Faraday's speech problem as a child?",
+        "modelAnswer": "As a child, Michael Faraday suffered from a speech defect that affected his pronunciation. Specifically, he was unable to pronounce the letter 'r' correctly. For instance, he would say 'wabbit' instead of 'rabbit'. Despite this early challenge and growing up in poverty, he persevered to become one of the greatest scientists in history.",
+        "keyPoints": [
+          "Faraday had a speech defect as a child.",
+          "He could not pronounce the letter 'r' correctly.",
+          "He would say 'wabbit' instead of 'rabbit'.",
+          "He overcame his early challenges to achieve greatness."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "How did Faraday get Humphry Davy to notice him?",
+        "modelAnswer": "Faraday was deeply fascinated by Humphry Davy's lectures on electricity and attended them with great interest. He meticulously took down detailed notes of everything Davy discussed during the sessions. Using his skills as an apprentice, he bound these notes neatly into a book and sent them directly to Davy. Davy was highly impressed by Faraday's dedication and eventually appointed him as his laboratory assistant.",
+        "keyPoints": [
+          "Faraday took detailed notes during Humphry Davy's lectures.",
+          "He bound the notes neatly into a book using his skills.",
+          "He sent the bound notes to Davy to ask for a job.",
+          "Davy was impressed and hired him as a laboratory assistant."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What did Faraday invent that is found in fans, trains, and electric cars today?",
+        "modelAnswer": "Michael Faraday is credited with inventing the induction motor, a groundbreaking device that revolutionized technology. This motor works by converting electricity into continuous mechanical movement. Before this invention, most heavy machinery relied heavily on steam power to operate. Today, his induction motor is a fundamental component found in everyday machines such as fans, electric trains, and modern electric cars.",
+        "keyPoints": [
+          "Faraday invented the induction motor.",
+          "The motor converts electricity into mechanical movement.",
+          "It replaced older machines that relied on steam power.",
+          "It is widely used today in fans, trains, and electric cars."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What impossible task did the jealous Davy give Faraday?",
+        "modelAnswer": "As Faraday's reputation grew, Humphry Davy became increasingly jealous of his former assistant's success. To challenge him, Davy assigned Faraday the seemingly impossible task of reverse-engineering a piece of Bavarian glass. He demanded that Faraday recreate the glass without providing any instructions or information on how it was originally made. Despite his best efforts and numerous experiments, Faraday was ultimately unable to complete this difficult task.",
+        "keyPoints": [
+          "Davy became jealous of Faraday's growing success.",
+          "He gave Faraday the task of reverse-engineering Bavarian glass.",
+          "Faraday had to recreate it without any instructions.",
+          "The task proved to be impossible and Faraday failed."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What did Faraday do with the Bavarian glass after failing the task?",
+        "modelAnswer": "After failing to reverse-engineer the Bavarian glass, Faraday did not throw the piece away in frustration. Instead, he decided to keep the glass as a permanent souvenir of his unsuccessful experience. He kept it on his desk to serve as a constant reminder that even great scientists make mistakes. This demonstrated his humble attitude and his belief that failures are valuable learning opportunities.",
+        "keyPoints": [
+          "Faraday kept the Bavarian glass after failing the task.",
+          "He used it as a souvenir of his unsuccessful experiment.",
+          "It served as a reminder that failures are part of learning.",
+          "This action highlighted his humble and resilient attitude."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What is the subject of the sentence: 'Michael Faraday invented the induction motor.'?",
+        "modelAnswer": "In English grammar, the subject of a sentence refers to the person or thing that the sentence is about. In the given sentence, 'Michael Faraday' is the subject because he is the person performing the action. The rest of the sentence, 'invented the induction motor', is the predicate because it describes what the subject did. Identifying the subject helps us understand who is responsible for the action in the statement.",
+        "keyPoints": [
+          "The subject is the person or thing the sentence is about.",
+          "'Michael Faraday' is the subject in this specific sentence.",
+          "He is the one performing the action of inventing.",
+          "The predicate is 'invented the induction motor'."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

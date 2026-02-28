@@ -268,7 +268,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Isaac Watts wrote 'How Doth the Little Busy Bee' as a moral poem about hard work and diligence.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "35"
     },
     {
@@ -282,7 +284,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The bee improves each shining hour, gathers honey from opening flowers, builds its cells neatly, and stores honey.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "35"
     },
     {
@@ -296,7 +300,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In Lewis Carroll's parody poem, the crocodile pours Nile waters on its golden scales — imitating the bee's action of gathering, but in a comic, ironic way.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "35-36"
     },
     {
@@ -310,7 +316,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "The humour comes from the irony: the crocodile is described as 'cheerfully' smiling and 'gently' welcoming fish — but it is actually eating them!",
-      "conceptIds": [2, 3],
+      "conceptIds": [
+        2,
+        3
+      ],
       "pageReference": "35-36"
     },
     {
@@ -324,7 +333,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A parody is a playful, comic imitation of a writer's style. It follows the same structure but changes content to create humour.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "36"
     },
     {
@@ -338,7 +349,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The bee is a symbol of industry (hard work) and diligence (careful, consistent effort). The poem uses the bee to teach children to work hard.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "35"
     },
     {
@@ -352,7 +365,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The crocodile represents cunning and predation — it appears gentle and welcoming but is actually a dangerous predator, the opposite of the virtuous bee.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "35-36"
     },
     {
@@ -366,7 +381,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Lewis Carroll's crocodile poem appears in 'Alice's Adventures in Wonderland', the famous story about a girl who falls into a magical world.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "35-36"
     }
   ],
@@ -394,5 +411,156 @@
       "Indian proverb equivalent: 'Karke dekho' (try and see) — same message as the bee poem"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "How Doth the Little Busy Bee",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who wrote the original poem about the little busy bee?",
+        "answer": "Isaac Watts wrote 'How Doth the Little Busy Bee' as a moral poem about hard work and diligence.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the busy bee do in Watts' poem?",
+        "answer": "The bee improves each shining hour, gathers honey from opening flowers, builds its cells neatly, and stores honey.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In Carroll's parody, what does the crocodile pour on its scales?",
+        "answer": "In Lewis Carroll's parody poem, the crocodile pours Nile waters on its golden scales — imitating the bee's action of gathering, but in a comic, ironic way.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the humour in Carroll's crocodile poem?",
+        "answer": "The humour comes from the irony: the crocodile is described as 'cheerfully' smiling and 'gently' welcoming fish — but it is actually eating them!",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is a parody?",
+        "answer": "A parody is a playful, comic imitation of a writer's style. It follows the same structure but changes content to create humour.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the bee symbolise in Isaac Watts' poem?",
+        "answer": "The bee is a symbol of industry (hard work) and diligence (careful, consistent effort). The poem uses the bee to teach children to work hard.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the crocodile symbolise in Carroll's parody?",
+        "answer": "The crocodile represents cunning and predation — it appears gentle and welcoming but is actually a dangerous predator, the opposite of the virtuous bee.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which book does Lewis Carroll's crocodile poem appear in?",
+        "answer": "Lewis Carroll's crocodile poem appears in 'Alice's Adventures in Wonderland', the famous story about a girl who falls into a magical world.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What does the busy bee do in Watts' poem?",
+        "modelAnswer": "In Watts’ poem, the busy bee works steadily and uses every hour usefully. It gathers honey from flowers and builds its hive with care. The poet presents the bee as a model of discipline, industry, and purposeful action. Through this image, children are encouraged to avoid idleness.",
+        "keyPoints": [
+          "The bee works continuously and purposefully.",
+          "It gathers honey and builds the hive.",
+          "The bee symbolizes discipline and industry.",
+          "The poem teaches the value of useful work."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "In Carroll's parody, what does the crocodile pour on its scales?",
+        "modelAnswer": "In Carroll’s parody, the crocodile is described as pouring the waters of the Nile on every golden scale. This exaggerated image creates a polished and attractive appearance. It helps build irony because the crocodile looks pleasant but is actually dangerous. Thus the line supports the poem’s comic contrast.",
+        "keyPoints": [
+          "It pours waters of the Nile on its scales.",
+          "The image is exaggerated and humorous.",
+          "Pleasant appearance contrasts with danger.",
+          "This creates irony in the parody."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What is the humour in Carroll's crocodile poem?",
+        "modelAnswer": "The humour in Carroll’s crocodile poem comes from parody and irony. Carroll imitates the serious moral tone of didactic poems but replaces the virtuous bee with a smiling predator. The crocodile appears polite and welcoming while actually preparing to eat fish. This unexpected reversal makes the poem funny.",
+        "keyPoints": [
+          "Humour is created through parody.",
+          "A moral model is replaced by a predator.",
+          "The crocodile’s polite image is ironic.",
+          "Reversal of expectation produces comedy."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What is a parody?",
+        "modelAnswer": "A parody is a humorous imitation of another writer, poem, or style. It keeps some features of the original, such as rhythm or structure, but changes ideas to produce comic effect. The purpose is often to entertain, and sometimes to critique the original tone. Carroll’s poem is a parody of a moral poem by Isaac Watts.",
+        "keyPoints": [
+          "Parody imitates an existing work humorously.",
+          "It retains form but changes content.",
+          "It creates comic effect and sometimes critique.",
+          "Carroll parodies Watts’ moral style."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What does the bee symbolise in Isaac Watts' poem?",
+        "modelAnswer": "In Isaac Watts’ poem, the bee symbolizes hard work, order, and usefulness. The bee spends time productively and contributes to the common good by making honey. It represents the ideal habit of using time wisely rather than wasting it. Therefore, the bee stands for disciplined and honest effort.",
+        "keyPoints": [
+          "Bee symbolizes industry and usefulness.",
+          "It models productive use of time.",
+          "Its work benefits the larger community.",
+          "It represents disciplined effort."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What does the crocodile symbolise in Carroll's parody?",
+        "modelAnswer": "In Carroll’s parody, the crocodile symbolizes deceptive danger. It appears cheerful, clean, and inviting, yet it is a predator waiting to trap fish. This contrast mocks blind trust in outward appearance. The crocodile therefore represents cunning hidden behind politeness.",
+        "keyPoints": [
+          "Crocodile symbolizes hidden danger.",
+          "Outer gentleness contrasts with inner threat.",
+          "The image warns against judging by appearance.",
+          "It represents cunning and deception."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

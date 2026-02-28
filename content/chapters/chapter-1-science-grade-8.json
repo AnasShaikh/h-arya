@@ -5,132 +5,374 @@
     "title": "Living World and Classification of Microbes",
     "subject": "Science",
     "pages": "1-6",
-    "description": "Classification of living organisms and study of microbes (Bacteria, Viruses, Fungi)"
+    "description": "Classification of living organisms and the role of microbes in nature and health."
   },
   "preAssessment": [
     {
       "id": "q1",
-      "question": "Who proposed the five-kingdom system of classification?",
-      "options": ["Robert Whittaker", "Carl Linnaeus", "Charles Darwin", "Gregor Mendel"],
+      "question": "Who proposed the five-kingdom system?",
+      "options": [
+        "Whittaker",
+        "Linnaeus",
+        "Darwin",
+        "Mendel"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
     },
     {
       "id": "q2",
-      "question": "Which of the following is a prokaryotic organism?",
-      "options": ["Bacteria", "Fungi", "Algae", "Protozoa"],
+      "question": "Which organism is prokaryotic?",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Algae",
+        "Protozoa"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
     },
     {
       "id": "q3",
-      "question": "What is the primary characteristic of Kingdom Monera?",
-      "options": ["Prokaryotic and Unicellular", "Eukaryotic and Multicellular", "Autotrophic and Eukaryotic", "Heterotrophic and Multicellular"],
-      "correctAnswer": "A",
+      "question": "Viruses reproduce in:",
+      "options": [
+        "Air",
+        "Host cells",
+        "Water",
+        "Soil"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q4",
+      "question": "Amoeba belongs to:",
+      "options": [
+        "Monera",
+        "Protista",
+        "Plantae",
+        "Animalia"
+      ],
+      "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": 1
     },
     {
-      "id": "q4",
-      "question": "Which microbe is considered to be at the edge of living and non-living?",
-      "options": ["Virus", "Bacteria", "Fungi", "Protozoa"],
+      "id": "q5",
+      "question": "Which is a beneficial microbe?",
+      "options": [
+        "Lactobacillus",
+        "Polio virus",
+        "Malaria parasite",
+        "Rust fungus"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
-      "conceptId": 2
-    },
-    {
-      "id": "q5",
-      "question": "Binary fission is a common method of reproduction in:",
-      "options": ["Bacteria", "Mushrooms", "Bread Mold", "Mosses"],
-      "correctAnswer": "A",
-      "difficulty": "hard",
-      "conceptId": 2
+      "conceptId": 3
     }
   ],
   "concepts": [
     {
       "id": 1,
-      "title": "Five-Kingdom Classification",
-      "emoji": "🌳",
-      "colorTheme": "from-green-400 to-green-600",
+      "title": "Classification of Living Organisms",
+      "emoji": "🌍",
+      "colorTheme": "from-green-400 to-emerald-600",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
-      "content": "In 1969, Robert Whittaker divided living organisms into 5 kingdoms: Monera, Protista, Fungi, Plantae, and Animalia. This was based on cell structure (Prokaryotic/Eukaryotic), complexity of organism (Unicellular/Multicellular), and mode of nutrition (Autotrophic/Heterotrophic).",
+      "content": "The five-kingdom classification groups organisms based on cell type, body organization, and nutrition. The kingdoms are Monera, Protista, Fungi, Plantae and Animalia.",
       "pageReference": "1-2",
       "examples": [
-        { "icon": "🦠", "text": "Monera: Bacteria" },
-        { "icon": "🌊", "text": "Protista: Amoeba" },
-        { "icon": "🍄", "text": "Fungi: Mushroom" }
+        {
+          "id": "e1",
+          "text": "Monera: Bacteria"
+        },
+        {
+          "id": "e2",
+          "text": "Protista: Amoeba"
+        },
+        {
+          "id": "e3",
+          "text": "Plantae: Mango tree"
+        }
       ],
       "keyTakeaways": [
-        "Classification helps in systematic study",
-        "Eukaryotes have a well-defined nucleus",
-        "Prokaryotes lack a nuclear membrane"
+        "Monera are prokaryotic.",
+        "Protista are mostly unicellular eukaryotes.",
+        "Classification makes study easier."
       ]
     },
     {
       "id": 2,
-      "title": "Classification of Microbes",
-      "emoji": "🔬",
-      "colorTheme": "from-blue-400 to-blue-600",
+      "title": "Microbes and Their Features",
+      "emoji": "🧫",
+      "colorTheme": "from-blue-400 to-cyan-600",
       "bgColor": "bg-blue-50",
       "borderColor": "border-blue-300",
-      "content": "Microbes are classified into Bacteria, Protozoa, Fungi, Algae, and Viruses. Bacteria are prokaryotic and multiply by binary fission. Viruses are the smallest and require a host cell to reproduce. Fungi and Algae can be eukaryotic.",
-      "pageReference": "3-5",
+      "content": "Microbes include bacteria, fungi, protozoa, algae and viruses. They are microscopic and found in air, water, soil and living bodies.",
+      "pageReference": "3-4",
       "examples": [
-        { "icon": "🧫", "text": "Bacteria: Unicellular" },
-        { "icon": "🕷️", "text": "Viruses: Edge of life" },
-        { "icon": "🍞", "text": "Fungi: Saprotrophic" }
+        {
+          "id": "e1",
+          "text": "Bacteria multiply by binary fission."
+        },
+        {
+          "id": "e2",
+          "text": "Yeast is a fungus used in baking."
+        },
+        {
+          "id": "e3",
+          "text": "Viruses need host cells to replicate."
+        }
       ],
       "keyTakeaways": [
-        "Microbes are measured in micrometers (μm) and nanometers (nm)",
-        "Most bacteria are beneficial, but some cause diseases",
-        "Viruses cause diseases like Flu, COVID-19, and Polio"
+        "Some microbes are harmless or helpful.",
+        "Some microbes cause diseases.",
+        "Viruses are acellular."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Useful vs Harmful Microbes",
+      "emoji": "⚕️",
+      "colorTheme": "from-purple-400 to-indigo-600",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Microbes are useful in food production, medicine and environmental cycles, but harmful microbes can cause infections in humans, animals and plants.",
+      "pageReference": "5-6",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "Lactobacillus in curd."
+        },
+        {
+          "id": "e2",
+          "text": "Rhizobium in nitrogen cycle."
+        },
+        {
+          "id": "e3",
+          "text": "Disease-causing microbes such as cholera bacteria."
+        }
+      ],
+      "keyTakeaways": [
+        "Hygiene prevents microbial disease spread.",
+        "Vaccines protect from many viral diseases.",
+        "Microbes help decompose dead matter."
       ]
     }
   ],
   "test": [
     {
       "id": "t1",
-      "question": "Which kingdom includes all multicellular, eukaryotic, and autotrophic organisms?",
-      "options": ["Plantae", "Animalia", "Fungi", "Protista"],
+      "question": "Five-kingdom system was proposed by:",
+      "options": [
+        "Whittaker",
+        "Darwin",
+        "Linnaeus",
+        "Pasteur"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
     },
     {
       "id": "t2",
-      "question": "The study of microscopic organisms is called:",
-      "options": ["Microbiology", "Biology", "Zoology", "Botany"],
+      "question": "Which kingdom has unicellular prokaryotes?",
+      "options": [
+        "Monera",
+        "Protista",
+        "Fungi",
+        "Animalia"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
     },
     {
       "id": "t3",
-      "question": "Amoeba and Paramoecium belong to which kingdom?",
-      "options": ["Protista", "Monera", "Fungi", "Animalia"],
-      "correctAnswer": "A",
+      "question": "Viruses are placed at the edge of living and non-living because:",
+      "options": [
+        "They are large",
+        "They can photosynthesize",
+        "They replicate only in host cells",
+        "They are multicellular"
+      ],
+      "correctAnswer": "C",
       "difficulty": "medium",
-      "conceptId": 1
+      "conceptId": 2
     },
     {
       "id": "t4",
-      "question": "Which of these lacks a cell wall?",
-      "options": ["Animalia", "Plantae", "Fungi", "Bacteria"],
-      "correctAnswer": "A",
-      "difficulty": "medium",
+      "question": "Amoeba belongs to:",
+      "options": [
+        "Monera",
+        "Protista",
+        "Fungi",
+        "Plantae"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
       "conceptId": 1
     },
     {
       "id": "t5",
-      "question": "Viruses are made up of long strands of:",
-      "options": ["DNA or RNA", "Starch", "Sugar", "Fat"],
+      "question": "Which is used in making curd?",
+      "options": [
+        "Lactobacillus",
+        "Polio virus",
+        "Plasmodium",
+        "Mucor"
+      ],
       "correctAnswer": "A",
-      "difficulty": "hard",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "t6",
+      "question": "Rhizobium helps in:",
+      "options": [
+        "Nitrogen fixation",
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "t7",
+      "question": "A fungal organism is:",
+      "options": [
+        "Amoeba",
+        "Mushroom",
+        "Bacteria",
+        "Virus"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
       "conceptId": 2
+    },
+    {
+      "id": "t8",
+      "question": "Which can cause communicable disease?",
+      "options": [
+        "Pathogenic microbe",
+        "Lactobacillus",
+        "Rhizobium",
+        "Yeast in bread"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "medium",
+      "conceptId": 3
     }
-  ]
+  ],
+  "interactiveElement": {
+    "type": "label-diagram",
+    "title": "Label the Diagram!",
+    "description": "Tap on each blank label to reveal the correct name.",
+    "data": {
+      "image": "Animal cell diagram showing key organelles",
+      "labels": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 50,
+          "answer": "Nucleus",
+          "hint": "Controls all cell activities"
+        },
+        {
+          "id": 2,
+          "x": 70,
+          "y": 40,
+          "answer": "Mitochondria",
+          "hint": "Powerhouse of the cell"
+        },
+        {
+          "id": 3,
+          "x": 30,
+          "y": 40,
+          "answer": "Cell Membrane",
+          "hint": "Controls entry/exit of substances"
+        },
+        {
+          "id": 4,
+          "x": 50,
+          "y": 70,
+          "answer": "Cytoplasm",
+          "hint": "Jelly-like fluid filling the cell"
+        },
+        {
+          "id": 5,
+          "x": 60,
+          "y": 25,
+          "answer": "Ribosome",
+          "hint": "Site of protein synthesis"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Living World and Classification of Microbes",
+    "instructions": "Textbook-style long answer practice",
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Five-kingdom system was proposed by:",
+        "modelAnswer": "Five-kingdom system was proposed by: This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Five-kingdom system was proposed by:",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Which kingdom has unicellular prokaryotes?",
+        "modelAnswer": "Which kingdom has unicellular prokaryotes? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Which kingdom has unicellular prokaryotes?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Viruses are placed at the edge of living and non-living because:",
+        "modelAnswer": "Viruses are placed at the edge of living and non-living because: This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Viruses are placed at the edge of living and non-living because:",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Amoeba belongs to:",
+        "modelAnswer": "Amoeba belongs to: This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Amoeba belongs to:",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Which is used in making curd?",
+        "modelAnswer": "Which is used in making curd? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Which is used in making curd?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
+  }
 }

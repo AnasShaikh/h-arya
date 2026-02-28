@@ -1,0 +1,502 @@
+{
+  "metadata": {
+    "chapterNumber": 8,
+    "title": "Static Electricity",
+    "subject": "Science",
+    "pages": "55-62",
+    "description": "This chapter introduces the concept of static electricity, electric charge, and how it is generated."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "What happens when you rub a balloon on your hair?",
+      "options": [
+        "It gets hot",
+        "It sticks to the wall",
+        "It changes color",
+        "It pops"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What are the two types of electric charges?",
+      "options": [
+        "Positive and Negative",
+        "Up and Down",
+        "Hot and Cold",
+        "Big and Small"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "Like charges ________ each other.",
+      "options": [
+        "Attract",
+        "Repel",
+        "Do nothing to",
+        "Combine with"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q4",
+      "question": "What is the particle that carries a negative charge?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Atom"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q5",
+      "question": "What is lightning?",
+      "options": [
+        "A type of sound",
+        "A type of light",
+        "A discharge of static electricity",
+        "A chemical reaction"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 3
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Electric Charge",
+      "emoji": "⚡",
+      "colorTheme": "from-yellow-400 to-amber-500",
+      "bgColor": "bg-yellow-50",
+      "borderColor": "border-yellow-300",
+      "content": "Electric charge is the physical property of matter that causes it to experience a force when placed in an electromagnetic field. There are two types of electric charges: positive and negative. Like charges repel each other, and opposite charges attract each other.",
+      "pageReference": "55-57",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "Rubbing a glass rod with silk cloth makes the rod positively charged."
+        },
+        {
+          "id": "e2",
+          "text": "Rubbing an ebonite rod with fur makes the rod negatively charged."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "The SI unit of electric charge is the Coulomb (C)."
+        },
+        {
+          "id": "kp2",
+          "text": "An object with an equal amount of positive and negative charge is electrically neutral."
+        }
+      ],
+      "funFact": "The study of static electricity is called electrostatics.",
+      "textbookRef": "Pages 55-57"
+    },
+    {
+      "id": 2,
+      "title": "Frictional Electricity",
+      "emoji": "🖐️",
+      "colorTheme": "from-orange-400 to-red-500",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Frictional electricity is the electricity produced by rubbing two suitable bodies together. This is because of the transfer of electrons from one body to another.",
+      "pageReference": "58-59",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "Combing dry hair makes the comb charged, which can then attract small pieces of paper."
+        },
+        {
+          "id": "e2",
+          "text": "Walking on a carpet and then touching a doorknob can cause a small electric shock."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "The body that loses electrons becomes positively charged."
+        },
+        {
+          "id": "kp2",
+          "text": "The body that gains electrons becomes negatively charged."
+        }
+      ],
+      "funFact": "The ancient Greeks discovered static electricity when they rubbed amber with fur.",
+      "textbookRef": "Pages 58-59"
+    },
+    {
+      "id": 3,
+      "title": "Lightning",
+      "emoji": "🌩️",
+      "colorTheme": "from-gray-400 to-slate-500",
+      "bgColor": "bg-gray-50",
+      "borderColor": "border-gray-300",
+      "content": "Lightning is a large-scale electrostatic discharge between electrically charged regions within clouds, or between a cloud and the Earth's surface. A lightning conductor is a device used to protect buildings from the damage caused by lightning.",
+      "pageReference": "60-61",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "A lightning strike during a thunderstorm."
+        },
+        {
+          "id": "e2",
+          "text": "A lightning conductor on top of a tall building providing a safe path for the lightning to the ground."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Lightning is a powerful and dangerous form of static electricity."
+        },
+        {
+          "id": "kp2",
+          "text": "It is important to take safety precautions during a thunderstorm."
+        }
+      ],
+      "funFact": "A single bolt of lightning can contain up to one billion volts of electricity!",
+      "textbookRef": "Pages 60-61"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "What will happen if you bring a positively charged rod near a negatively charged rod?",
+      "options": [
+        "They will attract each other",
+        "They will repel each other",
+        "Nothing will happen",
+        "They will both lose their charge"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Opposite charges attract each other.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "62"
+    },
+    {
+      "id": "q2",
+      "question": "How is static electricity generated?",
+      "options": [
+        "By heating an object",
+        "By cooling an object",
+        "By rubbing two objects together",
+        "By passing a current through an object"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Static electricity is generated by the transfer of electrons when two objects are rubbed together.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "62"
+    },
+    {
+      "id": "q3",
+      "question": "What is the purpose of a lightning conductor?",
+      "options": [
+        "To attract lightning",
+        "To repel lightning",
+        "To provide a safe path for lightning to the ground",
+        "To generate electricity from lightning"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A lightning conductor protects buildings by providing a safe path for the lightning to the ground.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "62"
+    },
+    {
+      "id": "q4",
+      "question": "An object becomes positively charged when it ________ electrons.",
+      "options": [
+        "gains",
+        "loses",
+        "shares",
+        "creates"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When an object loses electrons (which are negatively charged), it has more protons (positively charged) and becomes positively charged.",
+      "conceptIds": [
+        1,
+        2
+      ],
+      "pageReference": "62"
+    },
+    {
+      "id": "q5",
+      "question": "Which of these is a good conductor of electricity?",
+      "options": [
+        "Plastic",
+        "Wood",
+        "Rubber",
+        "Copper"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Copper is a metal and a good conductor of electricity.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "62"
+    },
+    {
+      "id": "q6",
+      "question": "Why do you sometimes get a shock when you touch a doorknob after walking on a carpet?",
+      "options": [
+        "The doorknob is hot",
+        "The doorknob is magnetic",
+        "You have built up static electricity",
+        "The doorknob is wet"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Walking on a carpet can build up static electricity in your body, which is discharged when you touch a metal doorknob.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "62"
+    },
+    {
+      "id": "q7",
+      "question": "A gold-leaf electroscope is used to ________.",
+      "options": [
+        "measure electric current",
+        "detect electric charge",
+        "store electric charge",
+        "generate electric charge"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A gold-leaf electroscope is an instrument used for detecting the presence of an electric charge on a body.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "62"
+    },
+    {
+      "id": "q8",
+      "question": "When you rub a comb on dry hair, the comb gets charged due to the transfer of ________.",
+      "options": [
+        "protons",
+        "neutrons",
+        "electrons",
+        "atoms"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The charge is generated due to the transfer of electrons from the hair to the comb.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "62"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Electric Charge",
+      "Frictional Electricity",
+      "Lightning"
+    ],
+    "commonMisconceptions": [
+      "Static electricity is a different kind of electricity than the one in our homes.",
+      "All materials can be easily charged by friction."
+    ],
+    "realWorldExamples": [
+      "A balloon sticking to a wall",
+      "Getting a shock from a doorknob",
+      "Lightning"
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Drag the components to build the key formula for this chapter.",
+    "data": {
+      "formula": "V = I × R",
+      "components": [
+        "Voltage (V)",
+        "=",
+        "Current (I)",
+        "×",
+        "Resistance (R)"
+      ],
+      "explanation": "Ohm's Law: Voltage equals Current multiplied by Resistance."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Static Electricity",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 3,
+        "type": "give_reasons",
+        "question": "Answer in your own words.\n(a) How will you protect yourself from\nlightning ?\n(b) How are charges generated ?\n(c) In the lightning conductor, what\nprovision is made for spreading the\nelectricity into the ground ?\n(d) Why do farmers stick an iron staff\ninto the ground while working in the\nfield in rai",
+        "subQuestions": [
+          "How will you protect yourself from\nlightning ?",
+          "How are charges generated ?",
+          "In the lightning conductor, what\nprovision is made for spreading the\nelectricity into the ground ?",
+          "Why do farmers stick an iron staff\ninto the ground while working in the\nfield in rainy conditions ?",
+          "Why is lightning not seen everyday\nduring the rainy season ?"
+        ]
+      },
+      {
+        "number": 4,
+        "type": "short_answer",
+        "question": "What are the characteristics of a static\nelectric charge?",
+        "subQuestions": []
+      },
+      {
+        "number": 5,
+        "type": "short_answer",
+        "question": "What is the damage caused by lightning?\nHow will you create awareness to\nprevent it ?",
+        "subQuestions": []
+      }
+    ],
+    "rawText": "lightning or thunder.\n3. Answer in your own words.\n(a) How will you protect yourself from\nlightning ?\n(b) How are charges generated ?\n(c) In the lightning conductor, what\nprovision is made for spreading the\nelectricity into the ground ?\n(d) Why do farmers stick an iron staff\ninto the ground while working in the\nfield in rainy conditions ?\n(e) Why is lightning not seen everyday\nduring the rainy season ?\n4. What are the characteristics of a static\nelectric charge?\n5. What is the damage caused by lightning?\nHow will you create awareness to\nprevent it ?",
+    "qaCards": [
+      {
+        "question": "What will happen if you bring a positively charged rod near a negatively charged rod?",
+        "answer": "Opposite charges attract each other.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How is static electricity generated?",
+        "answer": "Static electricity is generated by the transfer of electrons when two objects are rubbed together.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the purpose of a lightning conductor?",
+        "answer": "A lightning conductor protects buildings by providing a safe path for the lightning to the ground.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "An object becomes positively charged when it ________ electrons.",
+        "answer": "When an object loses electrons (which are negatively charged), it has more protons (positively charged) and becomes positively charged.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is a good conductor of electricity?",
+        "answer": "Copper is a metal and a good conductor of electricity.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why do you sometimes get a shock when you touch a doorknob after walking on a carpet?",
+        "answer": "Walking on a carpet can build up static electricity in your body, which is discharged when you touch a metal doorknob.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A gold-leaf electroscope is used to ________.",
+        "answer": "A gold-leaf electroscope is an instrument used for detecting the presence of an electric charge on a body.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "When you rub a comb on dry hair, the comb gets charged due to the transfer of ________.",
+        "answer": "The charge is generated due to the transfer of electrons from the hair to the comb.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Answer in your own words.\n(a) How will you protect yourself from\nlightning ?\n(b) How are charges generated ?\n(c) In the lightning conductor, what\nprovision is made for spreading the\nelectricity into the ground ?\n(d) Why do farmers stick an iron staff\ninto the ground while working in the\nfield in rai",
+        "modelAnswer": "Answer in your own words. (a) How will you protect yourself from lightning ? (b) How are charges generated ? (c) In the lightning conductor, what provision is made for spreading the electricity into the ground ? (d) Why do farmers stick an iron staff into the ground while working in the field in rai This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Answer in your own words.",
+          "(a) How will you protect yourself from lightning ?",
+          "(b) How are charges generated ?",
+          "(c) In the lightning conductor, what provision is made for spreading the electricity into the ground ?"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "How will you protect yourself from\nlightning ?",
+        "modelAnswer": "How will you protect yourself from lightning ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "How will you protect yourself from lightning ?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "How are charges generated ?",
+        "modelAnswer": "How are charges generated ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "How are charges generated ?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "In the lightning conductor, what\nprovision is made for spreading the\nelectricity into the ground ?",
+        "modelAnswer": "A lightning conductor protects buildings by providing a safe path for the lightning to the ground. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: In the lightning conductor, what\nprovision is made for spreading the\nelectricity into the ground ?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Why do farmers stick an iron staff\ninto the ground while working in the\nfield in rainy conditions ?",
+        "modelAnswer": "Why do farmers stick an iron staff into the ground while working in the field in rainy conditions ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Why do farmers stick an iron staff into the ground while working in the field in rainy conditions ?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Why is lightning not seen everyday\nduring the rainy season ?",
+        "modelAnswer": "A lightning conductor protects buildings by providing a safe path for the lightning to the ground. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Why is lightning not seen everyday\nduring the rainy season ?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "What are the characteristics of a static\nelectric charge?",
+        "modelAnswer": "A lightning conductor protects buildings by providing a safe path for the lightning to the ground. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What are the characteristics of a static\nelectric charge?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "What is the damage caused by lightning?\nHow will you create awareness to\nprevent it ?",
+        "modelAnswer": "What is the damage caused by lightning? How will you create awareness to prevent it ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "What is the damage caused by lightning?",
+          "How will you create awareness to prevent it ?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
+  }
+}

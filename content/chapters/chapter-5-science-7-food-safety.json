@@ -5,80 +5,595 @@
     "title": "Food Safety",
     "subject": "Science",
     "pages": "34-40",
-    "description": "Food spoilage, preservation methods, and preventing wastage."
+    "description": "This chapter covers the importance of food safety, including the causes of food spoilage, methods of food preservation to prevent wastage, and the consequences of consuming adulterated food."
   },
   "preAssessment": [
     {
-      "id": "q1",
-      "question": "Which of these is a factor causing food spoilage?",
-      "options": ["Proper storage", "Improper handling", "Washing vegetables", "Fresh air"],
+      "id": "pa1",
+      "question": "What is the main purpose of food preservation?",
+      "options": [
+        "To change the food's color",
+        "To prevent microbial growth and spoilage",
+        "To make food more expensive",
+        "To remove all nutrients"
+      ],
       "correctAnswer": "B",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "conceptId": 2
     },
     {
-      "id": "q2",
-      "question": "The method of heating milk to 80°C and cooling it quickly is:",
-      "options": ["Freezing", "Irradiation", "Pasteurization", "Smoking"],
+      "id": "pa2",
+      "question": "Heating milk to a high temperature and then cooling it quickly is called:",
+      "options": [
+        "Freezing",
+        "Drying",
+        "Boiling",
+        "Pasteurization"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "pa3",
+      "question": "Which of the following is a natural preservative?",
+      "options": [
+        "Vinegar",
+        "Sodium Benzoate",
+        "Salt",
+        "Sulphur Dioxide"
+      ],
       "correctAnswer": "C",
-      "difficulty": "medium"
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "pa4",
+      "question": "The growth of fungus on a piece of bread is a sign of:",
+      "options": [
+        "Food preservation",
+        "Food spoilage",
+        "Food ripening",
+        "Food adulteration"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "pa5",
+      "question": "Adding a cheaper, low-quality substance to a food item is known as:",
+      "options": [
+        "Preservation",
+        "Spoilage",
+        "Adulteration",
+        "Pasteurization"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 3
     }
   ],
   "concepts": [
     {
       "id": 1,
-      "title": "Food Spoilage Factors",
-      "emoji": "🍌",
-      "colorTheme": "from-red-400 to-orange-500",
-      "bgColor": "bg-red-50",
-      "borderColor": "border-red-300",
-      "content": "Food materials can be spoiled by wrong handling, over-cooking, or improper storage in damp places. Qualitative wastage of food occurs due to wrong protection methods or excessive use of preservatives. Food is considered spoiled if there is a change in its color, odor, texture, or taste.",
-      "imageUrl": "https://images.unsplash.com/photo-1611080626919-7cf5a9caab53?auto=format&fit=crop&q=80&w=1000",
+      "title": "Food Spoilage",
+      "emoji": "🤢",
+      "colorTheme": "from-amber-500 to-orange-600",
+      "bgColor": "bg-amber-50",
+      "borderColor": "border-amber-300",
+      "content": "Food spoilage occurs when there is a change in the normal state of food, making it unappealing or unsafe for consumption. It is caused by microorganisms like bacteria, yeast, and molds, which grow in food when they get suitable conditions like moisture and temperature.",
       "pageReference": "34-36",
       "examples": [
-        { "icon": "🛒", "text": "Over-buying beyond need" },
-        { "icon": "🚿", "text": "Washing vegetables after cutting" },
-        { "icon": "📦", "text": "Damp storage conditions" }
+        {
+          "id": "ex1",
+          "text": "Fruits turning black or getting a sour taste."
+        },
+        {
+          "id": "ex2",
+          "text": "Meat developing a bad odor."
+        },
+        {
+          "id": "ex3",
+          "text": "Fuzzy, black, white, or green spots (mold) growing on bread."
+        }
       ],
       "keyPoints": [
-        "16th October is World Food Day",
-        "Standardization is controlled by FSSAI",
-        "Avoid throwing away leftovers"
+        {
+          "id": "kp1",
+          "text": "Factors for spoilage include microorganisms, enzymes, insects, and improper handling."
+        },
+        {
+          "id": "kp2",
+          "text": "Food wastage can be quantitative (throwing away food) or qualitative (loss of nutritional value)."
+        },
+        {
+          "id": "kp3",
+          "text": "Spoiled food can cause food poisoning and other illnesses."
+        }
       ],
-      "funFact": "The Food Safety and Standards Authority of India (FSSAI) was established under the Act of 2006 to ensure safe food for all!",
-      "textbookRef": "Page 34: Factors responsible for food spoilage"
+      "funFact": "The 'use by' date on food packaging is about safety, while the 'best before' date is about quality. You can still eat food after the 'best before' date, but it might not taste its best!",
+      "textbookRef": "Page 34"
     },
     {
       "id": 2,
-      "title": "Food Preservation Methods",
-      "emoji": "🧊",
-      "colorTheme": "from-blue-400 to-cyan-500",
-      "bgColor": "bg-blue-50",
-      "borderColor": "border-blue-300",
-      "content": "Various methods prevent microbial growth: Freezing (slows reactions), Smoking (uses aluminum phosphide), Irradiation (uses ionizing radiation), and Pasteurization (heating and rapid cooling). Nitrogen gas is often used in air-tight packets to prevent fungus.",
-      "imageUrl": "https://images.unsplash.com/photo-1584263343327-a452061f1816?auto=format&fit=crop&q=80&w=1000",
-      "videoUrl": "https://www.youtube.com/embed/n_vJ5Iu0X0c",
-      "pageReference": "37",
+      "title": "Methods of Food Preservation",
+      "emoji": "🔒",
+      "colorTheme": "from-sky-500 to-blue-600",
+      "bgColor": "bg-sky-50",
+      "borderColor": "border-sky-300",
+      "content": "Food preservation techniques prevent or slow down spoilage, allowing food to be stored for longer. These methods work by inhibiting the growth of microorganisms or by deactivating enzymes.",
+      "pageReference": "37-39",
       "examples": [
-        { "icon": "❄️", "text": "Refrigerators slow down spoilage" },
-        { "icon": "💨", "text": "Smoking for long-term storage" },
-        { "icon": "🧂", "text": "Natural preservatives: Salt, sugar, oil" }
+        {
+          "id": "ex1",
+          "text": "Freezing: Storing peas or meat in a freezer slows down microbial activity."
+        },
+        {
+          "id": "ex2",
+          "text": "Drying (Dehydration): Making dried fruits like raisins removes water, which microbes need to grow."
+        },
+        {
+          "id": "ex3",
+          "text": "Pasteurization: Heating milk kills harmful bacteria, increasing its shelf life."
+        }
       ],
       "keyPoints": [
-        "Louis Pasteur developed the pasteurization technique",
-        "Vinegar and Citric Acid are chemical preservatives",
-        "Irradiation plants are located at Lasalgaon and Navi Mumbai"
+        {
+          "id": "kp1",
+          "text": "Natural preservatives include salt, sugar, and oil."
+        },
+        {
+          "id": "kp2",
+          "text": "Chemical preservatives include vinegar and sodium benzoate."
+        },
+        {
+          "id": "kp3",
+          "text": "Using airtight containers removes oxygen, which many microbes need to survive."
+        }
       ],
-      "funFact": "Nitrogen gas in your potato chip packet isn't just 'air'—it prevents the chips from becoming rancid and keeps them crispy!",
-      "textbookRef": "Page 37: Methods of Food Protection"
+      "funFact": "Pickling, a method of preservation using acidic brine (like vinegar), has been used for over 4,000 years!",
+      "textbookRef": "Page 37"
+    },
+    {
+      "id": 3,
+      "title": "Food Adulteration",
+      "emoji": "🚫",
+      "colorTheme": "from-red-500 to-rose-600",
+      "bgColor": "bg-red-50",
+      "borderColor": "border-red-300",
+      "content": "Food adulteration is the practice of adding cheaper or non-nutritious substances to food items to increase quantity or profit, which lowers the quality and can be harmful to health. It is an illegal practice.",
+      "pageReference": "40",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Adding water to milk to increase its volume."
+        },
+        {
+          "id": "ex2",
+          "text": "Mixing papaya seeds into black pepper."
+        },
+        {
+          "id": "ex3",
+          "text": "Injecting dyes into fruits or vegetables to make them look more attractive."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Adulteration reduces the nutritional value of food."
+        },
+        {
+          "id": "kp2",
+          "text": "Some adulterants, like certain dyes or brick powder, can be toxic."
+        },
+        {
+          "id": "kp3",
+          "text": "Laws exist to prevent food adulteration and punish offenders."
+        }
+      ],
+      "funFact": "There are simple home tests to detect adulteration, like seeing if chili powder leaves a red color in a glass of water (indicating brick powder).",
+      "textbookRef": "Page 40"
     }
   ],
   "test": [
     {
       "id": "t1",
-      "question": "Which gas is used in air-tight packets of potato wafers?",
-      "options": ["Oxygen", "Nitrogen", "Hydrogen", "Argon"],
+      "question": "Why is salt used to preserve fish and pickles?",
+      "options": [
+        "It adds flavor",
+        "It removes water from food cells, inhibiting microbial growth",
+        "It changes the color",
+        "It keeps the food warm"
+      ],
       "correctAnswer": "B",
+      "explanation": "Salt draws out moisture through osmosis, creating a dry environment where bacteria and molds cannot thrive.",
+      "conceptIds": [
+        2
+      ],
       "difficulty": "medium"
+    },
+    {
+      "id": "t2",
+      "question": "Which of these is a sign of food spoilage?",
+      "options": [
+        "Bright color",
+        "Fresh smell",
+        "Sour taste in milk",
+        "Firm texture"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A sour taste in milk is caused by bacteria converting lactose into lactic acid, a clear sign of spoilage.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t3",
+      "question": "Mixing brick powder in chili powder is an example of:",
+      "options": [
+        "Preservation",
+        "Spoilage",
+        "Adulteration",
+        "Fermentation"
+      ],
+      "correctAnswer": "C",
+      "explanation": "This is a common and dangerous form of adulteration, adding a non-food item to increase weight and profit.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t4",
+      "question": "What is the principle behind preserving food by drying?",
+      "options": [
+        "Removing oxygen",
+        "Removing water",
+        "Adding salt",
+        "Increasing temperature"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Microorganisms need water to grow and multiply. Removing water (dehydration) stops them from spoiling the food.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t5",
+      "question": "Food wastage that occurs due to loss of nutritional value is called:",
+      "options": [
+        "Quantitative wastage",
+        "Qualitative wastage",
+        "Adulteration",
+        "Spoilage"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Qualitative wastage means the food is still there, but its quality (e.g., vitamins, minerals) has been degraded.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t6",
+      "question": "Who developed the technique of pasteurization?",
+      "options": [
+        "Alexander Fleming",
+        "Marie Curie",
+        "Louis Pasteur",
+        "Isaac Newton"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Louis Pasteur, a French scientist, developed this method in the 19th century, revolutionizing food safety.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t7",
+      "question": "Why is it important to wash fruits and vegetables before eating?",
+      "options": [
+        "To make them warmer",
+        "To remove adulterants like wax coatings and chemical residues",
+        "To make them taste sweeter",
+        "To increase their weight"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Washing helps remove dirt, pesticides, and sometimes harmful substances added to make the produce look shiny and fresh.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "t8",
+      "question": "What is the primary cause of food spoilage?",
+      "options": [
+        "Sunlight",
+        "Growth of microorganisms",
+        "Cold temperatures",
+        "Air pressure"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The growth of bacteria, yeast, and molds is the most common reason why food goes bad.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "easy"
     }
-  ]
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Food Spoilage Causes",
+      "Methods of Food Preservation (Pasteurization, Drying, etc.)",
+      "Food Adulteration"
+    ],
+    "commonMisconceptions": [
+      "If food looks okay, it's safe to eat.",
+      "Preservatives are always bad for you.",
+      "Food adulteration only happens with expensive foods."
+    ],
+    "realWorldExamples": [
+      "Checking the expiry date on a milk carton.",
+      "Making jam at home (using sugar as a preservative).",
+      "Choosing vegetables that look natural instead of unnaturally shiny or colorful."
+    ]
+  },
+  "interactiveElement": {
+    "type": "label-diagram",
+    "title": "Label the Diagram!",
+    "description": "Tap on each blank label to reveal the correct name.",
+    "data": {
+      "image": "Food pyramid showing different food groups",
+      "labels": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 10,
+          "answer": "Fats & Oils",
+          "hint": "Eat the least of these"
+        },
+        {
+          "id": 2,
+          "x": 50,
+          "y": 30,
+          "answer": "Proteins",
+          "hint": "For growth and repair"
+        },
+        {
+          "id": 3,
+          "x": 50,
+          "y": 50,
+          "answer": "Fruits & Vegetables",
+          "hint": "Rich in vitamins and minerals"
+        },
+        {
+          "id": 4,
+          "x": 50,
+          "y": 70,
+          "answer": "Carbohydrates",
+          "hint": "Main energy source"
+        },
+        {
+          "id": 5,
+          "x": 50,
+          "y": 85,
+          "answer": "Water",
+          "hint": "Essential for all life processes"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Food Safety",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "activity",
+        "question": "Complete the following statements by\nusing the correct option from those\ngiven below.\n(Irradiation, dehydration, pasteurization,\nnatural, chemical)\n(a) Drying the food grains from farms\nunder the hot sun is called .......... .\n(b) Materials like milk are instantly\ncooled after heating up to a certai",
+        "subQuestions": [
+          "Drying the food grains from farms\nunder the hot sun is called .......... .",
+          "Materials like milk are instantly\ncooled after heating up to a certain\nhigh temperature. This method of\nfood preservation is called ............ .",
+          "Salt is a .................. type of food\npreservative.",
+          "Vinegar is a .................. type of\nfood preservative.\n39"
+        ]
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Answer the following questions in\nyour own words.\n(a) How is milk pasteurized ?\n(b) Why should we not consume\nadulterated food materials ?\n(c) What precautions do your parents\ntake to keep foodstuffs safe ?\n(d) How does food spoilage occur ?\nWhich are the various factors\nspoiling the food ?\n(e) Whic",
+        "subQuestions": [
+          "How is milk pasteurized ?",
+          "Why should we not consume\nadulterated food materials ?",
+          "What precautions do your parents\ntake to keep foodstuffs safe ?",
+          "How does food spoilage occur ?\nWhich are the various factors\nspoiling the food ?",
+          "Which methods of food preservation\nwould you use ?\n\f3. What shall we do?",
+          "There are vendors selling uncovered\nsweetmeats in open places in the\nmarket.",
+          "A ‘pani-puriwalla’ is serving the\npani puri with dirty hands.",
+          "We have purchased a large quantity\nof fruits and vegetables."
+        ]
+      },
+      {
+        "number": 6,
+        "type": "give_reasons",
+        "question": "Explain why this happens and suggest\npossible remedies.\n(a) Qualitative wastage of food.\n(b) The cooked rice is underdone.\n(c) The wheat that was bought is a bit\nmoist.\n(d) The taste of yoghurt is too sour/slightly\nbitter.\n(e) Cut fruits have turned black.",
+        "subQuestions": [
+          "Qualitative wastage of food.",
+          "The cooked rice is underdone.",
+          "The wheat that was bought is a bit\nmoist.",
+          "The taste of yoghurt is too sour/slightly\nbitter.",
+          "Cut fruits have turned black."
+        ]
+      },
+      {
+        "number": 7,
+        "type": "give_reasons",
+        "question": "Give reasons.",
+        "subQuestions": []
+      },
+      {
+        "number": 1,
+        "type": "short_answer",
+        "question": "Food remains safe at 5o Celsius.",
+        "subQuestions": []
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Nowadays, food is served buffet style\nduring large gatherings.",
+        "subQuestions": []
+      },
+      {
+        "number": 4,
+        "type": "activity",
+        "question": "Find the odd-man-out.\n(a) salt, vinegar, citric acid, sodium\nbenzoate\n(b) lakhi dal, brick dust, metanyl yellow,\nturmeric powder\n(c) banana, apple, guava, almond\n(d) storing, freezing, settling, drying",
+        "subQuestions": [
+          "salt, vinegar, citric acid, sodium\nbenzoate",
+          "lakhi dal, brick dust, metanyl yellow,\nturmeric powder",
+          "banana, apple, guava, almond",
+          "storing, freezing, settling, drying"
+        ]
+      }
+    ],
+    "rawText": "1. Complete the following statements by\nusing the correct option from those\ngiven below.\n(Irradiation, dehydration, pasteurization,\nnatural, chemical)\n(a) Drying the food grains from farms\nunder the hot sun is called .......... .\n(b) Materials like milk are instantly\ncooled after heating up to a certain\nhigh temperature. This method of\nfood preservation is called ............ .\n(c) Salt is a .................. type of food\npreservative.\n(d) Vinegar is a .................. type of\nfood preservative.\n39\n2. Answer the following questions in\nyour own words.\n(a) How is milk pasteurized ?\n(b) Why should we not consume\nadulterated food materials ?\n(c) What precautions do your parents\ntake to keep foodstuffs safe ?\n(d) How does food spoilage occur ?\nWhich are the various factors\nspoiling the food ?\n(e) Which methods of food preservation\nwould you use ?\n\f3. What shall we do?\n(a) There are vendors selling uncovered\nsweetmeats in open places in the\nmarket.\n(b) A ‘pani-puriwalla’ is serving the\npani puri with dirty hands.\n(c) We have purchased a large quantity\nof fruits and vegetables.\n(d) We need to protect foodstuffs from\npests like rats, cockroaches, wall-lizards, etc.\n6. Explain why this happens and suggest\npossible remedies.\n(a) Qualitative wastage of food.\n(b) The cooked rice is underdone.\n(c) The wheat that was bought is a bit\nmoist.\n(d) The taste of yoghurt is too sour/slightly\nbitter.\n(e) Cut fruits have turned black.\n7. Give reasons.\n1. Food remains safe at 5o Celsius.\n2. Nowadays, food is served buffet style\nduring large gatherings.\n4. Find the odd-man-out.\n(a) salt, vinegar, citric acid, sodium\nbenzoate\n(b) lakhi dal, brick dust, metanyl yellow,\nturmeric powder\n(c) banana, apple, guava, almond\n(d) storing, freezing, settling, drying",
+    "qaCards": [
+      {
+        "question": "Why is salt used to preserve fish and pickles?",
+        "answer": "Salt draws out moisture through osmosis, creating a dry environment where bacteria and molds cannot thrive.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is a sign of food spoilage?",
+        "answer": "A sour taste in milk is caused by bacteria converting lactose into lactic acid, a clear sign of spoilage.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Mixing brick powder in chili powder is an example of:",
+        "answer": "This is a common and dangerous form of adulteration, adding a non-food item to increase weight and profit.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the principle behind preserving food by drying?",
+        "answer": "Microorganisms need water to grow and multiply. Removing water (dehydration) stops them from spoiling the food.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Food wastage that occurs due to loss of nutritional value is called:",
+        "answer": "Qualitative wastage means the food is still there, but its quality (e.g., vitamins, minerals) has been degraded.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who developed the technique of pasteurization?",
+        "answer": "Louis Pasteur, a French scientist, developed this method in the 19th century, revolutionizing food safety.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why is it important to wash fruits and vegetables before eating?",
+        "answer": "Washing helps remove dirt, pesticides, and sometimes harmful substances added to make the produce look shiny and fresh.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the primary cause of food spoilage?",
+        "answer": "The growth of bacteria, yeast, and molds is the most common reason why food goes bad.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Drying the food grains from farms\nunder the hot sun is called .......... .",
+        "modelAnswer": "Microorganisms need water to grow and multiply. Removing water (dehydration) stops them from spoiling the food. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Microorganisms need water to grow and multiply.",
+          "Removing water (dehydration) stops them from spoiling the food.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Materials like milk are instantly\ncooled after heating up to a certain\nhigh temperature. This method of\nfood preservation is called ............ .",
+        "modelAnswer": "Materials like milk are instantly cooled after heating up to a certain high temperature. This method of food preservation is called ............ . This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Materials like milk are instantly cooled after heating up to a certain high temperature.",
+          "This method of food preservation is called ............",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Salt is a .................. type of food\npreservative.",
+        "modelAnswer": "A sour taste in milk is caused by bacteria converting lactose into lactic acid, a clear sign of spoilage. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Salt is a .................. type of food\npreservative.",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Vinegar is a .................. type of\nfood preservative.\n39",
+        "modelAnswer": "A sour taste in milk is caused by bacteria converting lactose into lactic acid, a clear sign of spoilage. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Vinegar is a .................. type of\nfood preservative.\n39",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Answer the following questions in\nyour own words.\n(a) How is milk pasteurized ?\n(b) Why should we not consume\nadulterated food materials ?\n(c) What precautions do your parents\ntake to keep foodstuffs safe ?\n(d) How does food spoilage occur ?\nWhich are the various factors\nspoiling the food ?\n(e) Whic",
+        "modelAnswer": "Answer the following questions in your own words. (a) How is milk pasteurized ? (b) Why should we not consume adulterated food materials ? (c) What precautions do your parents take to keep foodstuffs safe ? (d) How does food spoilage occur ? Which are the various factors spoiling the food ? (e) Whic This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Answer the following questions in your own words.",
+          "(a) How is milk pasteurized ?",
+          "(b) Why should we not consume adulterated food materials ?",
+          "(c) What precautions do your parents take to keep foodstuffs safe ?"
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "How is milk pasteurized ?",
+        "modelAnswer": "How is milk pasteurized ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "How is milk pasteurized ?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Why should we not consume\nadulterated food materials ?",
+        "modelAnswer": "Why should we not consume adulterated food materials ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Why should we not consume adulterated food materials ?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "What precautions do your parents\ntake to keep foodstuffs safe ?",
+        "modelAnswer": "What precautions do your parents take to keep foodstuffs safe ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "What precautions do your parents take to keep foodstuffs safe ?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
+  }
 }

@@ -10,7 +10,12 @@
     {
       "id": "pre_19_1",
       "question": "Who said 'Nature gave us two ears and one mouth — we should listen more'?",
-      "options": ["A) Mahatma Gandhi", "B) Benjamin Disraeli", "C) Socrates", "D) Shakespeare"],
+      "options": [
+        "A) Mahatma Gandhi",
+        "B) Benjamin Disraeli",
+        "C) Socrates",
+        "D) Shakespeare"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_19_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_19_2",
       "question": "What does 'Of the unspoken word you are master, of the spoken word you are a slave' mean?",
-      "options": ["A) Speaking is better than silence", "B) You cannot control words once they are spoken", "C) Masters speak more than slaves", "D) Words are more powerful than actions"],
+      "options": [
+        "A) Speaking is better than silence",
+        "B) You cannot control words once they are spoken",
+        "C) Masters speak more than slaves",
+        "D) Words are more powerful than actions"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_19_2"
@@ -26,7 +36,12 @@
     {
       "id": "pre_19_3",
       "question": "What is the FIRST of Socrates' three questions to ask before speaking?",
-      "options": ["A) Is it pleasant?", "B) Is it useful?", "C) Is it true?", "D) Is it kind?"],
+      "options": [
+        "A) Is it pleasant?",
+        "B) Is it useful?",
+        "C) Is it true?",
+        "D) Is it kind?"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_19_3"
@@ -34,7 +49,12 @@
     {
       "id": "pre_19_4",
       "question": "In the spiritual teacher's story, what does the scattering of torn paper pieces represent?",
-      "options": ["A) Freedom of expression", "B) The impossibility of taking back harsh words once spoken", "C) How words spread good news", "D) The power of writing letters"],
+      "options": [
+        "A) Freedom of expression",
+        "B) The impossibility of taking back harsh words once spoken",
+        "C) How words spread good news",
+        "D) The power of writing letters"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_19_2"
@@ -42,7 +62,12 @@
     {
       "id": "pre_19_5",
       "question": "Which of these is an adverbial phrase?",
-      "options": ["A) 'the bright sun'", "B) 'she and I'", "C) 'on the playground'", "D) 'a tall building'"],
+      "options": [
+        "A) 'the bright sun'",
+        "B) 'she and I'",
+        "C) 'on the playground'",
+        "D) 'a tall building'"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_19_5"
@@ -174,7 +199,12 @@
     {
       "id": "test_19_1",
       "question": "Who said 'Nature gave us two ears and one mouth — we should listen more'?",
-      "options": ["A) Socrates", "B) Benjamin Disraeli", "C) Mahatma Gandhi", "D) Shakespeare"],
+      "options": [
+        "A) Socrates",
+        "B) Benjamin Disraeli",
+        "C) Mahatma Gandhi",
+        "D) Shakespeare"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "Benjamin Disraeli, the famous British Prime Minister, said this. He emphasized the importance of listening over speaking, noting that we have two ears but only one mouth."
@@ -182,7 +212,12 @@
     {
       "id": "test_19_2",
       "question": "In the spiritual teacher's story, what was the young man asked to do with the paper?",
-      "options": ["A) Read it, fold it, and keep it", "B) Write harsh words, burn the paper, and scatter the ashes", "C) Write harsh words, tear the paper, throw the pieces in the wind, then try to collect them", "D) Write kind words and give them to his friend"],
+      "options": [
+        "A) Read it, fold it, and keep it",
+        "B) Write harsh words, burn the paper, and scatter the ashes",
+        "C) Write harsh words, tear the paper, throw the pieces in the wind, then try to collect them",
+        "D) Write kind words and give them to his friend"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "The spiritual teacher asked the young man to write his harsh words on paper, tear it into pieces, throw them into the wind, and then try to collect all the pieces — which proved impossible, just like taking back spoken words."
@@ -190,7 +225,12 @@
     {
       "id": "test_19_3",
       "question": "What does 'Of the unspoken word you are master, of the spoken word you are a slave' mean?",
-      "options": ["A) You are in control of words you haven't spoken, but once spoken you cannot take them back", "B) Masters speak; slaves are silent", "C) Speaking is more powerful than silence", "D) Slaves are not allowed to speak"],
+      "options": [
+        "A) You are in control of words you haven't spoken, but once spoken you cannot take them back",
+        "B) Masters speak; slaves are silent",
+        "C) Speaking is more powerful than silence",
+        "D) Slaves are not allowed to speak"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "explanation": "This quote means: you are in control (master) of words you haven't spoken yet. But once you speak them, you become a slave to the consequences — you cannot take them back."
@@ -198,7 +238,12 @@
     {
       "id": "test_19_4",
       "question": "What is the THIRD of Socrates' three questions?",
-      "options": ["A) Is it true?", "B) Is it pleasant?", "C) Is it useful?", "D) Is it kind?"],
+      "options": [
+        "A) Is it true?",
+        "B) Is it pleasant?",
+        "C) Is it useful?",
+        "D) Is it kind?"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Socrates' three questions before speaking are: (1) Is it true? (2) Is it pleasant? (3) Is it useful? If none of these is 'yes', then the words should not be spoken."
@@ -206,7 +251,12 @@
     {
       "id": "test_19_5",
       "question": "The ears are compared to a funnel in the chapter. What does this comparison mean?",
-      "options": ["A) Ears are shaped exactly like funnels", "B) Ears are always open and receiving — like a funnel with no door to close", "C) Funnels are used to clean ears", "D) Ears make a funnel-like sound"],
+      "options": [
+        "A) Ears are shaped exactly like funnels",
+        "B) Ears are always open and receiving — like a funnel with no door to close",
+        "C) Funnels are used to clean ears",
+        "D) Ears make a funnel-like sound"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "Ears are compared to funnels because both are always open — you cannot close your ears the way you can close your mouth. The funnel is open at both ends and always receiving, just like our ears."
@@ -214,7 +264,12 @@
     {
       "id": "test_19_6",
       "question": "In 'We played on the playground', what type of adverbial is 'on the playground'?",
-      "options": ["A) Adverbial word", "B) Adverbial phrase", "C) Adverbial clause", "D) It is not an adverbial"],
+      "options": [
+        "A) Adverbial word",
+        "B) Adverbial phrase",
+        "C) Adverbial clause",
+        "D) It is not an adverbial"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "'On the playground' is an adverbial phrase. It is a group of words (not a complete clause with a verb) that functions as an adverb, telling us WHERE we played."
@@ -222,7 +277,12 @@
     {
       "id": "test_19_7",
       "question": "In 'I will go when the bell rings', what type of adverbial is 'when the bell rings'?",
-      "options": ["A) Adverbial word", "B) Adverbial phrase", "C) Adverbial clause", "D) It is an adjective clause"],
+      "options": [
+        "A) Adverbial word",
+        "B) Adverbial phrase",
+        "C) Adverbial clause",
+        "D) It is an adjective clause"
+      ],
       "correctAnswer": "C",
       "difficulty": "hard",
       "explanation": "'When the bell rings' is an adverbial clause — it has a subject ('the bell') and a verb ('rings') and functions as an adverb, telling us WHEN I will go."
@@ -230,7 +290,12 @@
     {
       "id": "test_19_8",
       "question": "What is the main lesson of the chapter 'Think Before You Speak'?",
-      "options": ["A) Speak as much as possible to share your thoughts", "B) Never speak at all", "C) Words once spoken cannot be taken back, so think carefully before you speak", "D) Only wise people should speak in public"],
+      "options": [
+        "A) Speak as much as possible to share your thoughts",
+        "B) Never speak at all",
+        "C) Words once spoken cannot be taken back, so think carefully before you speak",
+        "D) Only wise people should speak in public"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "The main lesson is that words, once spoken, cannot be taken back — like scattered pieces of paper in the wind. So we should always think carefully before speaking, using the guidance of Socrates' three questions."
@@ -259,5 +324,156 @@
       "Panchayat meetings and village councils in India value the elder who listens patiently before giving wise advice — Disraeli's principle in action."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Think Before You Speak",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who said 'Nature gave us two ears and one mouth — we should listen more'?",
+        "answer": "Benjamin Disraeli, the famous British Prime Minister, said this. He emphasized the importance of listening over speaking, noting that we have two ears but only one mouth.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In the spiritual teacher's story, what was the young man asked to do with the paper?",
+        "answer": "The spiritual teacher asked the young man to write his harsh words on paper, tear it into pieces, throw them into the wind, and then try to collect all the pieces — which proved impossible, just like taking back spoken words.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'Of the unspoken word you are master, of the spoken word you are a slave' mean?",
+        "answer": "This quote means: you are in control (master) of words you haven't spoken yet. But once you speak them, you become a slave to the consequences — you cannot take them back.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the THIRD of Socrates' three questions?",
+        "answer": "Socrates' three questions before speaking are: (1) Is it true? (2) Is it pleasant? (3) Is it useful? If none of these is 'yes', then the words should not be spoken.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The ears are compared to a funnel in the chapter. What does this comparison mean?",
+        "answer": "Ears are compared to funnels because both are always open — you cannot close your ears the way you can close your mouth. The funnel is open at both ends and always receiving, just like our ears.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'We played on the playground', what type of adverbial is 'on the playground'?",
+        "answer": "'On the playground' is an adverbial phrase. It is a group of words (not a complete clause with a verb) that functions as an adverb, telling us WHERE we played.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'I will go when the bell rings', what type of adverbial is 'when the bell rings'?",
+        "answer": "'When the bell rings' is an adverbial clause — it has a subject ('the bell') and a verb ('rings') and functions as an adverb, telling us WHEN I will go.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the main lesson of the chapter 'Think Before You Speak'?",
+        "answer": "The main lesson is that words, once spoken, cannot be taken back — like scattered pieces of paper in the wind. So we should always think carefully before speaking, using the guidance of Socrates' three questions.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la_19_1",
+        "question": "Explain the metaphor of the 'two fences' that guard our speech as described in the chapter.",
+        "modelAnswer": "Nature has endowed us with two physical barriers to guard our speech: the teeth and the lips. Before a word can be spoken, it must pass through the 'fence' of teeth and the 'fence' of lips. This anatomical arrangement serves as a reminder that we should pause and think before allowing words to escape. By having these two fences, nature suggests that speaking should be a deliberate act rather than a hasty one, emphasizing the importance of self-control.",
+        "keyPoints": [
+          "Teeth and lips act as two physical fences for the mouth",
+          "Words must pass both barriers before being released",
+          "The metaphor encourages pausing and thinking before speaking",
+          "Nature suggests speech should be a deliberate and controlled act"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la_19_2",
+        "question": "Describe the lesson the spiritual teacher taught the young man using the example of scattered paper.",
+        "modelAnswer": "The spiritual teacher asked a young man to write his harsh words on paper, tear it into pieces, and scatter them in the wind. When the young man was later told to collect all the pieces, he found it impossible as they had blown away in all directions. The teacher explained that spoken words are exactly like those scattered pieces of paper. Once harsh words are released, they go out into the world and can never be fully taken back, regardless of how much we might regret them later.",
+        "keyPoints": [
+          "Teacher asked to tear and scatter paper in the wind",
+          "Collecting the scattered pieces proved to be an impossible task",
+          "Spoken words are compared to these scattered bits of paper",
+          "Harsh words cannot be fully retracted once they are released"
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la_19_3",
+        "question": "What are Socrates' three questions, and how do they help us decide when to speak?",
+        "modelAnswer": "Socrates proposed a three-filter test to determine if something is worth saying: 'Is it true?', 'Is it pleasant?', and 'Is it useful?'. The first filter ensures we do not spread rumors, the second encourages kindness to avoid causing unnecessary hurt, and the third ensures our speech serves a practical purpose. If a statement fails these tests—if it is not true, not kind, and serves no purpose—Socrates advised that it is better left unspoken. This system helps us become more responsible and mindful communicators.",
+        "keyPoints": [
+          "Socrates' three filters: Truth, Pleasantness, and Usefulness",
+          "Truth prevents rumors; Pleasantness ensures kindness",
+          "Usefulness ensures speech has a purpose and avoids idle gossip",
+          "If a statement fails the tests, it should remain unspoken"
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la_19_4",
+        "question": "What is the meaning of the proverb: 'Of the unspoken word you are master, of the spoken word you are a slave'?",
+        "modelAnswer": "This proverb highlights the power of self-control in communication. As long as a thought remains unexpressed, you retain full authority (mastery) over it and can choose to keep it private or modify it. However, once those words are uttered, they belong to the listeners and the world, and you become bound (a slave) by their consequences. This shift emphasizes that we must be extremely careful with our speech because we cannot undo the impact of what we have already said.",
+        "keyPoints": [
+          "Unspoken words remain under our complete control and choice",
+          "Spoken words create consequences that the speaker must face",
+          "Once uttered, words cannot be reclaimed or deleted from memory",
+          "Emphasizes the need for extreme caution and responsibility in speech"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la_19_5",
+        "question": "Why does the chapter compare our ears to funnels, and what lesson does this comparison teach?",
+        "modelAnswer": "The chapter compares our ears to funnels to illustrate that they are always open and receptive to the world, with no 'doors' or 'fences' to shut out sound. Unlike the mouth, which can be closed by the lips and teeth, the ears are designed to constantly receive information. This comparison teaches us that nature intended for humans to be constant listeners and learners. It reinforces the wisdom of Benjamin Disraeli, who suggested we should listen twice as much as we speak.",
+        "keyPoints": [
+          "Ears are like funnels because they are always open and receptive",
+          "Unlike the mouth, ears have no barriers or 'fences' to close",
+          "Suggests nature designed humans to listen and learn constantly",
+          "Reinforces the idea of listening more and speaking less"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la_19_6",
+        "question": "Why is it said that even a sincere apology cannot fully undo the damage of harsh words?",
+        "modelAnswer": "While an apology is necessary after saying something hurtful, it cannot completely erase the emotional impact of the harsh words. Just as the spiritual teacher's scattered paper could not be fully recovered, a hurtful comment remains in the listener's memory even after we say sorry. The damage to a person's feelings or a relationship often lingers long after the moment of anger has passed. Therefore, the best course of action is to think before speaking to avoid causing damage that an apology cannot entirely fix.",
+        "keyPoints": [
+          "Apologies are important but cannot fully erase emotional hurt",
+          "Hurtful comments leave a lasting impression on the listener",
+          "Like scattered paper, words cannot be 'unheard' once spoken",
+          "Thinking before speaking is better than trying to fix damage later"
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

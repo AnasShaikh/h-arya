@@ -322,5 +322,134 @@
       "The concept of Swaraj was later used by Bal Gangadhar Tilak and Mahatma Gandhi in India's freedom movement against British rule — showing how Shivaji's vision echoed through centuries."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Shivaji born at Shivneri Fort",
+          "year": "1630",
+          "fact": "Shivaji Maharaj was born to Jijabai and Shahaji Bhosale"
+        },
+        {
+          "label": "Capture of Torna Fort",
+          "year": "1646",
+          "fact": "Young Shivaji captured his first fort at age 16"
+        },
+        {
+          "label": "Battle of Pratapgad",
+          "year": "1659",
+          "fact": "Shivaji defeated Afzal Khan, a powerful Adilshahi general"
+        },
+        {
+          "label": "Surat Sack",
+          "year": "1664",
+          "fact": "Shivaji raided the rich Mughal port city of Surat"
+        },
+        {
+          "label": "Coronation at Raigad",
+          "year": "1674",
+          "fact": "Shivaji was crowned Chhatrapati (King) of the Maratha Empire"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Maharashtra Before Shivaji",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Which two Deccan Sultanates mainly controlled Maharashtra before Shivaji's rise?",
+        "answer": "The Nizamshahi (capital: Ahmednagar) and the Adilshahi (capital: Bijapur) were the two primary sultanates that controlled Maharashtra before Shivaji. Shahaji Raje served both of them.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is a 'jagir'?",
+        "answer": "A jagir was a land grant given by a sultan to a military commander. The commander would collect revenue from this territory to maintain himself and his soldiers. Shahaji received a jagir in the Pune region from the Adilshahi.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Jijabai instilled the vision of Swaraj in Shivaji mainly through:",
+        "answer": "Jijabai told young Shivaji stories from the Ramayana and Mahabharata — about heroes like Ram, Krishna, and Arjun — to shape his values of courage, justice, and the duty of a ruler to protect the people.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What made the Mavale warriors especially valuable to Shivaji's army?",
+        "answer": "The Mavale warriors were invaluable because they had grown up in the Western Ghats and knew every hill, pass, and pathway. This knowledge, combined with their physical endurance, made them perfect for the mountain guerrilla warfare that would define Shivaji's military strategy.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who was Shivaji's spiritual guru who also spoke of 'Hindavi Swarajya'?",
+        "answer": "Sant Ramdas was Shivaji's spiritual guru. He composed the Dasbodh and preached about 'Hindavi Swarajya' — a just rule for the people of the land. His teachings reinforced Shivaji's political and spiritual vision.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Tanaji Malusare died capturing which fort?",
+        "answer": "Tanaji Malusare, the brave Mavale commander, died while capturing Kondana fort in 1670. Shivaji was so grieved that he renamed the fort 'Sinhagad' (Lion's Fort) in Tanaji's honor.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'Swaraj' mean?",
+        "answer": "Swaraj literally means 'self-rule' (swa = self, raj = rule). Shivaji's vision of Swaraj meant a just kingdom governed by the people of the land for their own welfare, free from foreign oppression.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Where was Shivaji Maharaj born?",
+        "answer": "Shivaji Maharaj was born at Shivneri fort near Junnar in 1630. The fort was named Shivneri after the local goddess Shivai, and it is believed Jijabai prayed to the goddess for a brave son like Shivaji.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What is a 'jagir'?",
+        "modelAnswer": "A jagir was a land grant given by a sultan to a military commander. The commander would collect revenue from this territory to maintain himself and his soldiers. Shahaji received a jagir in the Pune region from the Adilshahi. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "A jagir was a land grant given by a sultan to a military commander.",
+          "The commander would collect revenue from this territory to maintain himself and his soldiers.",
+          "Shahaji received a jagir in the Pune region from the Adilshahi.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What made the Mavale warriors especially valuable to Shivaji's army?",
+        "modelAnswer": "The Mavale warriors were invaluable because they had grown up in the Western Ghats and knew every hill, pass, and pathway. This knowledge, combined with their physical endurance, made them perfect for the mountain guerrilla warfare that would define Shivaji's military strategy. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The Mavale warriors were invaluable because they had grown up in the Western Ghats and knew every hill, pass, and pathway.",
+          "This knowledge, combined with their physical endurance, made them perfect for the mountain guerrilla warfare that would define Shivaji's military strategy.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What does 'Swaraj' mean?",
+        "modelAnswer": "Swaraj literally means 'self-rule' (swa = self, raj = rule). Shivaji's vision of Swaraj meant a just kingdom governed by the people of the land for their own welfare, free from foreign oppression. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Swaraj literally means 'self-rule' (swa = self, raj = rule).",
+          "Shivaji's vision of Swaraj meant a just kingdom governed by the people of the land for their own welfare, free from foreign oppression.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Which two Deccan Sultanates mainly controlled Maharashtra before Shivaji's rise?",
+        "modelAnswer": "The Nizamshahi (capital: Ahmednagar) and the Adilshahi (capital: Bijapur) were the two primary sultanates that controlled Maharashtra before Shivaji. Shahaji Raje served both of them. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The Nizamshahi (capital: Ahmednagar) and the Adilshahi (capital: Bijapur) were the two primary sultanates that controlled Maharashtra before Shivaji.",
+          "Shahaji Raje served both of them.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      }
+    ]
   }
 }

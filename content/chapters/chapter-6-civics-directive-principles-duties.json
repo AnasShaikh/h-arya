@@ -338,5 +338,149 @@
       "National Integration programmes and campaigns against communalism: Citizens fulfilling Fundamental Duty 5 to promote harmony."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "match-pairs",
+    "title": "Match the Pairs!",
+    "description": "Match each constitutional term to its correct meaning.",
+    "data": {
+      "pairs": [
+        {
+          "term": "Directive Principles",
+          "match": "Guidelines to the government for welfare of citizens (Part IV)"
+        },
+        {
+          "term": "Fundamental Duties",
+          "match": "Moral obligations of citizens towards the nation (Article 51A)"
+        },
+        {
+          "term": "Welfare State",
+          "match": "State responsible for economic and social well-being of citizens"
+        },
+        {
+          "term": "Article 44",
+          "match": "Directive to have a Uniform Civil Code for all citizens"
+        },
+        {
+          "term": "Article 45",
+          "match": "Directive to provide early childhood care and education"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Directive Principles and Fundamental Duties",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "In which Part of the Constitution are the Directive Principles of State Policy (DPSP) found?",
+        "answer": "DPSP are found in Part IV of the Indian Constitution, under Articles 36 to 51.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why are Directive Principles called 'non-justiciable'?",
+        "answer": "DPSP are non-justiciable because if the government fails to implement them, a citizen cannot go to court to enforce them. They only serve as guidelines.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is a Directive Principle of State Policy?",
+        "answer": "Equal pay for equal work is a Directive Principle (Article 39(d)). The others are Fundamental Rights.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Through which amendment were Fundamental Duties added to the Constitution?",
+        "answer": "Fundamental Duties were added by the 42nd Amendment in 1976 as Part IVA, Article 51A of the Constitution.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many Fundamental Duties are currently listed in the Indian Constitution?",
+        "answer": "There are currently 11 Fundamental Duties. The original 10 were added in 1976 and an 11th (duty to provide education to children 6-14) was added in 2002.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is a Fundamental Duty of every Indian citizen?",
+        "answer": "Protecting and improving the natural environment — including forests, lakes, rivers, and wildlife — is one of the 11 Fundamental Duties listed in Article 51A.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Mid-Day Meal scheme in schools is an example of which constitutional provision being implemented?",
+        "answer": "The Mid-Day Meal scheme reflects Directive Principles — particularly those related to child welfare, nutrition, and encouraging school attendance among children.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the main aim of Directive Principles of State Policy?",
+        "answer": "DPSP aim to guide the government in working towards a welfare state where social and economic justice is achieved for all citizens.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following correctly describes the relationship between Fundamental Rights and DPSP?",
+        "answer": "The Supreme Court has described Fundamental Rights and DPSP as two wheels of a chariot — Rights protect individuals while DPSP guide the state; both are needed together.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does Fundamental Duty 8 — 'develop scientific temper' — mean?",
+        "answer": "Developing scientific temper means cultivating a rational, questioning mind — seeking evidence before accepting claims and rejecting superstition and blind faith.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Why are Directive Principles called 'non-justiciable'?",
+        "modelAnswer": "DPSP are non-justiciable because if the government fails to implement them, a citizen cannot go to court to enforce them. They only serve as guidelines. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "DPSP are non-justiciable because if the government fails to implement them, a citizen cannot go to court to enforce them.",
+          "They only serve as guidelines.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "How many Fundamental Duties are currently listed in the Indian Constitution?",
+        "modelAnswer": "There are currently 11 Fundamental Duties. The original 10 were added in 1976 and an 11th (duty to provide education to children 6-14) was added in 2002. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "There are currently 11 Fundamental Duties.",
+          "The original 10 were added in 1976 and an 11th (duty to provide education to children 6-14) was added in 2002.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What is the main aim of Directive Principles of State Policy?",
+        "modelAnswer": "DPSP aim to guide the government in working towards a welfare state where social and economic justice is achieved for all citizens. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What is the main aim of Directive Principles of State Policy?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Which of the following correctly describes the relationship between Fundamental Rights and DPSP?",
+        "modelAnswer": "The Supreme Court has described Fundamental Rights and DPSP as two wheels of a chariot — Rights protect individuals while DPSP guide the state; both are needed together. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The Supreme Court has described Fundamental Rights and DPSP as two wheels of a chariot — Rights protect individuals while DPSP guide the state",
+          "both are needed together.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What does Fundamental Duty 8 — 'develop scientific temper' — mean?",
+        "modelAnswer": "Developing scientific temper means cultivating a rational, questioning mind — seeking evidence before accepting claims and rejecting superstition and blind faith. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What does Fundamental Duty 8 — 'develop scientific temper' — mean?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

@@ -10,7 +10,12 @@
     {
       "id": "pre_23_1",
       "question": "Who wrote the poem 'Home Sweet Home'?",
-      "options": ["A) Alfred Lord Tennyson", "B) John Howard Payne", "C) William Shakespeare", "D) Rudyard Kipling"],
+      "options": [
+        "A) Alfred Lord Tennyson",
+        "B) John Howard Payne",
+        "C) William Shakespeare",
+        "D) Rudyard Kipling"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_23_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_23_2",
       "question": "What is the most famous line from the poem?",
-      "options": ["A) 'Home is where the heart is'", "B) 'My home is a castle'", "C) 'Be it ever so humble, there's no place like home!'", "D) 'East or West, home is best'"],
+      "options": [
+        "A) 'Home is where the heart is'",
+        "B) 'My home is a castle'",
+        "C) 'Be it ever so humble, there's no place like home!'",
+        "D) 'East or West, home is best'"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_23_1"
@@ -26,7 +36,12 @@
     {
       "id": "pre_23_3",
       "question": "What are synonyms?",
-      "options": ["A) Words that sound the same but have different meanings", "B) Words that have the same or similar meaning", "C) Words that have opposite meanings", "D) Words that are spelled the same but have different meanings"],
+      "options": [
+        "A) Words that sound the same but have different meanings",
+        "B) Words that have the same or similar meaning",
+        "C) Words that have opposite meanings",
+        "D) Words that are spelled the same but have different meanings"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_23_5"
@@ -34,7 +49,12 @@
     {
       "id": "pre_23_4",
       "question": "What does the poet gaze at while away from home, imagining his mother thinks of him?",
-      "options": ["A) The sun", "B) The stars", "C) The moon", "D) A river"],
+      "options": [
+        "A) The sun",
+        "B) The stars",
+        "C) The moon",
+        "D) A river"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_23_3"
@@ -42,7 +62,12 @@
     {
       "id": "pre_23_5",
       "question": "Which is a pair of antonyms?",
-      "options": ["A) big and large", "B) happy and joyful", "C) strong and weak", "D) beautiful and pretty"],
+      "options": [
+        "A) big and large",
+        "B) happy and joyful",
+        "C) strong and weak",
+        "D) beautiful and pretty"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_23_5"
@@ -174,7 +199,12 @@
     {
       "id": "test_23_1",
       "question": "Who wrote the poem 'Home Sweet Home'?",
-      "options": ["A) William Wordsworth", "B) John Howard Payne", "C) Alfred Lord Tennyson", "D) Rabindranath Tagore"],
+      "options": [
+        "A) William Wordsworth",
+        "B) John Howard Payne",
+        "C) Alfred Lord Tennyson",
+        "D) Rabindranath Tagore"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "John Howard Payne (1791–1852) was an American playwright and poet who wrote 'Home! Sweet Home!' as part of a musical play in 1823. It became one of the world's most famous poems."
@@ -182,7 +212,12 @@
     {
       "id": "test_23_2",
       "question": "Complete the famous line: 'Be it ever so humble, ___'",
-      "options": ["A) 'a house is a house'", "B) 'home is where friends are'", "C) 'there's no place like home!'", "D) 'home fills your heart'"],
+      "options": [
+        "A) 'a house is a house'",
+        "B) 'home is where friends are'",
+        "C) 'there's no place like home!'",
+        "D) 'home fills your heart'"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "The complete famous line is 'Be it ever so humble, there's no place like home!' It means: no matter how simple or plain your home is, it is still the most precious place in the world to you."
@@ -190,7 +225,12 @@
     {
       "id": "test_23_3",
       "question": "What does the poet gaze at while thinking of his mother from far away?",
-      "options": ["A) The sun", "B) The stars", "C) The moon", "D) The river"],
+      "options": [
+        "A) The sun",
+        "B) The stars",
+        "C) The moon",
+        "D) The river"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "The poet gazes at the moon from far away and imagines that his mother is also looking at the same moon and thinking of him — a beautiful image of connection across distance."
@@ -198,7 +238,12 @@
     {
       "id": "test_23_4",
       "question": "What type of home does the poet describe missing?",
-      "options": ["A) A grand marble palace", "B) A large city apartment", "C) A thatched cottage", "D) A riverside mansion"],
+      "options": [
+        "A) A grand marble palace",
+        "B) A large city apartment",
+        "C) A thatched cottage",
+        "D) A riverside mansion"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "The poet misses his simple thatched cottage — a small home with a grass/straw roof. Though humble, it represents warmth, love, and peace that no grand palace can replace."
@@ -206,7 +251,12 @@
     {
       "id": "test_23_5",
       "question": "What is the refrain of the poem?",
-      "options": ["A) 'Home is where the heart is, home is where love stays'", "B) 'Home, home, sweet, sweet home! There's no place like home!'", "C) 'No matter where I go, I will return to my home'", "D) 'Sweet home, sweet home, I miss my sweet home'"],
+      "options": [
+        "A) 'Home is where the heart is, home is where love stays'",
+        "B) 'Home, home, sweet, sweet home! There's no place like home!'",
+        "C) 'No matter where I go, I will return to my home'",
+        "D) 'Sweet home, sweet home, I miss my sweet home'"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "The refrain is 'Home, home, sweet, sweet home! / There's no place like home! / There's no place like home!' It appears at the end of each stanza, creating a musical, emotional emphasis."
@@ -214,7 +264,12 @@
     {
       "id": "test_23_6",
       "question": "Which pair of words are SYNONYMS?",
-      "options": ["A) strong and weak", "B) happy and sad", "C) good and nice", "D) day and night"],
+      "options": [
+        "A) strong and weak",
+        "B) happy and sad",
+        "C) good and nice",
+        "D) day and night"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "'Good' and 'nice' are synonyms — they have the same or similar meaning. Strong/weak and happy/sad are antonyms (opposites), and day/night are antonyms."
@@ -222,7 +277,12 @@
     {
       "id": "test_23_7",
       "question": "Which pair of words are ANTONYMS?",
-      "options": ["A) big and large", "B) happy and joyful", "C) loud and noisy", "D) strong and weak"],
+      "options": [
+        "A) big and large",
+        "B) happy and joyful",
+        "C) loud and noisy",
+        "D) strong and weak"
+      ],
       "correctAnswer": "D",
       "difficulty": "easy",
       "explanation": "'Strong' and 'weak' are antonyms — they have opposite meanings. Big/large and happy/joyful are synonyms (similar meaning), and loud/noisy are synonyms."
@@ -230,7 +290,12 @@
     {
       "id": "test_23_8",
       "question": "The word 'round' in 'a round ball' and 'a round of applause' — what type of word is this?",
-      "options": ["A) Synonym", "B) Antonym", "C) Homonym", "D) Compound word"],
+      "options": [
+        "A) Synonym",
+        "B) Antonym",
+        "C) Homonym",
+        "D) Compound word"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "'Round' is a homonym — the same word with different meanings. 'A round ball' (circular shape) and 'a round of applause' (a session of clapping) use the same word with completely different meanings."
@@ -261,5 +326,144 @@
       "Marathi literature has many poems about 'ghar' (home) and 'aai' (mother) — Shanta Shelke's poems, for instance, capture the same emotions as Home Sweet Home."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Home Sweet Home",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who wrote the poem 'Home Sweet Home'?",
+        "answer": "John Howard Payne (1791–1852) was an American playwright and poet who wrote 'Home! Sweet Home!' as part of a musical play in 1823. It became one of the world's most famous poems.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Complete the famous line: 'Be it ever so humble, ___'",
+        "answer": "The complete famous line is 'Be it ever so humble, there's no place like home!' It means: no matter how simple or plain your home is, it is still the most precious place in the world to you.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the poet gaze at while thinking of his mother from far away?",
+        "answer": "The poet gazes at the moon from far away and imagines that his mother is also looking at the same moon and thinking of him — a beautiful image of connection across distance.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What type of home does the poet describe missing?",
+        "answer": "The poet misses his simple thatched cottage — a small home with a grass/straw roof. Though humble, it represents warmth, love, and peace that no grand palace can replace.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the refrain of the poem?",
+        "answer": "The refrain is 'Home, home, sweet, sweet home! / There's no place like home! / There's no place like home!' It appears at the end of each stanza, creating a musical, emotional emphasis.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which pair of words are SYNONYMS?",
+        "answer": "'Good' and 'nice' are synonyms — they have the same or similar meaning. Strong/weak and happy/sad are antonyms (opposites), and day/night are antonyms.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which pair of words are ANTONYMS?",
+        "answer": "'Strong' and 'weak' are antonyms — they have opposite meanings. Big/large and happy/joyful are synonyms (similar meaning), and loud/noisy are synonyms.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The word 'round' in 'a round ball' and 'a round of applause' — what type of word is this?",
+        "answer": "'Round' is a homonym — the same word with different meanings. 'A round ball' (circular shape) and 'a round of applause' (a session of clapping) use the same word with completely different meanings.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Why does the poet say 'There's no place like home' despite visiting grand palaces?",
+        "modelAnswer": "The poet emphasizes that no matter how magnificent or luxurious other places might be, they cannot provide the true comfort of home. Grand palaces may offer wealth and beauty, but they lack the genuine warmth, love, and peace of mind found in his humble cottage. Home is where his fondest memories reside, along with the comforting presence of his family. Therefore, the emotional connection makes his simple dwelling superior to any palace in the world.",
+        "keyPoints": [
+          "Grand palaces lack the genuine warmth and peace of a real home.",
+          "A simple home offers true comfort and a sense of belonging.",
+          "Home is filled with fond memories and the loving presence of family.",
+          "Emotional connections make a humble dwelling more valuable than a luxurious mansion."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "How does the poet connect with his mother despite being far away from home?",
+        "modelAnswer": "While the poet is in exile, he gazes at the moon and finds comfort in the thought that his mother is looking at the same moon. This shared experience creates a powerful emotional bridge across the vast physical distance separating them. It helps him feel her loving care and presence even when they are apart. The moon acts as a universal connector that brings him temporary relief from his deep homesickness.",
+        "keyPoints": [
+          "The poet looks at the moon while far away from his home.",
+          "He imagines his mother is also gazing at the exact same moon.",
+          "This shared action creates an emotional bridge across the physical distance.",
+          "The moon serves as a comforting, universal connector for the separated family."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "Describe the simple things the poet misses about his home.",
+        "modelAnswer": "The poet deeply misses the humble and familiar aspects of his home, particularly his small thatched cottage with its grass roof. He longs for the sweet melodies of the birds singing around his house, which brought a natural, musical joy to his life. Furthermore, he yearns for his father's reassuring smile and his mother's loving care. These simple elements combine to create the profound peace of mind that he cannot find anywhere else.",
+        "keyPoints": [
+          "He misses his simple thatched cottage with its grass roof.",
+          "He longs to hear the sweet singing of the birds around his home.",
+          "He yearns for his father's smile and his mother's loving care.",
+          "These simple things provided him with unmatched peace of mind."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "What is the significance of the refrain in the poem 'Home Sweet Home'?",
+        "modelAnswer": "The refrain, \"Home, home, sweet, sweet home! / There's no place like home!\", is repeated at the end of every stanza to heavily emphasize the poem's central theme. Because the poem was originally written as a song, this repetition gives it a memorable, musical chorus. It also deepens the emotional impact of the poet's homesickness, driving home the message that no place can ever compare to the comfort of one's own home. The doubling of the word \"sweet\" further intensifies his deep affection.",
+        "keyPoints": [
+          "The refrain is repeated at the end of all five stanzas.",
+          "It emphasizes the central theme that home is the best place in the world.",
+          "It provides a musical, song-like quality to the poem.",
+          "The repetition of \"sweet\" intensifies the poet's emotional longing and affection."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Explain the difference between synonyms, antonyms, and homonyms with examples.",
+        "modelAnswer": "Synonyms are words that have the same or very similar meanings, such as 'good', 'nice', and 'wonderful', which help add variety to writing. Antonyms are words with opposite meanings, like 'strong' and 'weak', and are used to show contrast clearly. Homonyms are words that have the same spelling or pronunciation but completely different meanings depending on the context. For example, the word 'round' can mean a circular shape or refer to a 'round of applause', requiring the surrounding context to understand its specific use.",
+        "keyPoints": [
+          "Synonyms have similar meanings (e.g., good, nice) and add variety.",
+          "Antonyms have opposite meanings (e.g., strong, weak) and show contrast.",
+          "Homonyms have the same spelling/sound but different meanings (e.g., round).",
+          "Context is essential to understand the correct meaning of a homonym."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

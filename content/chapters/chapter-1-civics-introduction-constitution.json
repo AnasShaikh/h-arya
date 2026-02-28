@@ -79,9 +79,18 @@
       "content": "Every society needs rules for people to live together peacefully. Without rules, the stronger would dominate the weaker and there would be disorder. A Constitution provides the most fundamental rules that everyone — including the government — must follow. It prevents the misuse of power by any person or group and protects the rights of all citizens.",
       "pageReference": "63-64",
       "examples": [
-        { "icon": "🏏", "text": "A cricket match needs rules so no team can cheat — similarly a country needs a Constitution so no group can misuse power." },
-        { "icon": "🚦", "text": "Traffic rules prevent accidents on roads; the Constitution prevents chaos in governance." },
-        { "icon": "🏫", "text": "In a school, the school rules guide student behaviour — the Constitution guides how the entire country is run." }
+        {
+          "icon": "🏏",
+          "text": "A cricket match needs rules so no team can cheat — similarly a country needs a Constitution so no group can misuse power."
+        },
+        {
+          "icon": "🚦",
+          "text": "Traffic rules prevent accidents on roads; the Constitution prevents chaos in governance."
+        },
+        {
+          "icon": "🏫",
+          "text": "In a school, the school rules guide student behaviour — the Constitution guides how the entire country is run."
+        }
       ],
       "keyPoints": [
         "Rules are necessary for any group of people to live together peacefully.",
@@ -103,9 +112,18 @@
       "content": "The Indian Constitution was not written by one person — it was the result of the collective effort of the Constituent Assembly. The Constituent Assembly was formed in 1946 and included representatives from across India. After extensive discussions and debates, the Constitution was adopted on 26 November 1949 and came into effect on 26 January 1950. This day is celebrated as Republic Day every year.",
       "pageReference": "64-65",
       "examples": [
-        { "icon": "📝", "text": "The Constituent Assembly held 11 sessions over nearly 3 years to debate and finalise every article." },
-        { "icon": "🌍", "text": "Members studied constitutions of countries like the USA, UK, Ireland, and France before drafting India's own." },
-        { "icon": "🗓️", "text": "26 November is celebrated as Constitution Day (Samvidhan Divas) to honour the adoption of the Constitution." }
+        {
+          "icon": "📝",
+          "text": "The Constituent Assembly held 11 sessions over nearly 3 years to debate and finalise every article."
+        },
+        {
+          "icon": "🌍",
+          "text": "Members studied constitutions of countries like the USA, UK, Ireland, and France before drafting India's own."
+        },
+        {
+          "icon": "🗓️",
+          "text": "26 November is celebrated as Constitution Day (Samvidhan Divas) to honour the adoption of the Constitution."
+        }
       ],
       "keyPoints": [
         "The Constituent Assembly was formed in 1946 to draft the Constitution.",
@@ -127,9 +145,18 @@
       "content": "Dr. Bhimrao Ramji Ambedkar was the Chairman of the Drafting Committee of the Constitution. He is called the 'Father of the Indian Constitution.' He ensured that the Constitution gave equal rights to all Indians, especially to those who had been discriminated against for centuries. He strongly fought for the abolition of untouchability and equal rights for all citizens regardless of caste, religion, or gender.",
       "pageReference": "65",
       "examples": [
-        { "icon": "✍️", "text": "Dr. Ambedkar personally drafted and revised many articles to ensure they protected the rights of the most vulnerable citizens." },
-        { "icon": "👨‍⚖️", "text": "He insisted that Fundamental Rights should be enforceable in courts so citizens could actually use them." },
-        { "icon": "🇮🇳", "text": "His work on the Constitution is considered one of the greatest contributions to Indian democracy." }
+        {
+          "icon": "✍️",
+          "text": "Dr. Ambedkar personally drafted and revised many articles to ensure they protected the rights of the most vulnerable citizens."
+        },
+        {
+          "icon": "👨‍⚖️",
+          "text": "He insisted that Fundamental Rights should be enforceable in courts so citizens could actually use them."
+        },
+        {
+          "icon": "🇮🇳",
+          "text": "His work on the Constitution is considered one of the greatest contributions to Indian democracy."
+        }
       ],
       "keyPoints": [
         "Dr. B.R. Ambedkar was Chairman of the Drafting Committee of the Constitution.",
@@ -151,9 +178,18 @@
       "content": "The Constituent Assembly was a special body of elected representatives formed to write the Constitution of India. It had 299 members who represented all regions and communities of India. The Assembly first met on 9 December 1946. After years of debate and deliberation, it adopted the Constitution on 26 November 1949. On 26 January 1950, the Constitution came into force and India became a Republic.",
       "pageReference": "64-65",
       "examples": [
-        { "icon": "👨‍👩‍👧‍👦", "text": "Dr. Rajendra Prasad was the President of the Constituent Assembly and later became India's first President." },
-        { "icon": "📜", "text": "Jawaharlal Nehru moved the Objectives Resolution in the Constituent Assembly which formed the basis of the Preamble." },
-        { "icon": "🤝", "text": "The Constituent Assembly had members from diverse backgrounds — lawyers, professors, freedom fighters, and social reformers." }
+        {
+          "icon": "👨‍👩‍👧‍👦",
+          "text": "Dr. Rajendra Prasad was the President of the Constituent Assembly and later became India's first President."
+        },
+        {
+          "icon": "📜",
+          "text": "Jawaharlal Nehru moved the Objectives Resolution in the Constituent Assembly which formed the basis of the Preamble."
+        },
+        {
+          "icon": "🤝",
+          "text": "The Constituent Assembly had members from diverse backgrounds — lawyers, professors, freedom fighters, and social reformers."
+        }
       ],
       "keyPoints": [
         "The Constituent Assembly was formed in 1946 with 299 members.",
@@ -175,9 +211,18 @@
       "content": "The Indian Constitution is the supreme law of the land. This means every other law, rule, or government action must follow the Constitution. If any law goes against the Constitution, the Supreme Court can declare it invalid. The Constitution currently has 448 articles, 12 schedules, and 25 parts. It is the longest written Constitution of any country in the world, which makes it unique.",
       "pageReference": "66-67",
       "examples": [
-        { "icon": "🏛️", "text": "If Parliament passes a law that takes away a citizen's Fundamental Rights, the Supreme Court can strike it down." },
-        { "icon": "👨‍👩‍👧‍👦", "text": "Even the Prime Minister and the President must act within the limits set by the Constitution." },
-        { "icon": "⚖️", "text": "The 12 schedules in the Constitution contain important lists, such as the list of Union Territories and languages." }
+        {
+          "icon": "🏛️",
+          "text": "If Parliament passes a law that takes away a citizen's Fundamental Rights, the Supreme Court can strike it down."
+        },
+        {
+          "icon": "👨‍👩‍👧‍👦",
+          "text": "Even the Prime Minister and the President must act within the limits set by the Constitution."
+        },
+        {
+          "icon": "⚖️",
+          "text": "The 12 schedules in the Constitution contain important lists, such as the list of Union Territories and languages."
+        }
       ],
       "keyPoints": [
         "The Indian Constitution is the supreme law — all other laws must follow it.",
@@ -335,5 +380,138 @@
       "The Parliament cannot pass laws that violate Fundamental Rights — this is the Constitution acting as supreme law."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "match-pairs",
+    "title": "Match the Pairs!",
+    "description": "Match each constitutional term to its correct meaning.",
+    "data": {
+      "pairs": [
+        {
+          "term": "Constitution",
+          "match": "Supreme law of the land in India"
+        },
+        {
+          "term": "Preamble",
+          "match": "Introduction to the Constitution stating its goals"
+        },
+        {
+          "term": "Parliament",
+          "match": "Supreme law-making body of India"
+        },
+        {
+          "term": "Fundamental Rights",
+          "match": "Basic rights guaranteed to all citizens"
+        },
+        {
+          "term": "Directive Principles",
+          "match": "Guidelines for the government to follow"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Introduction to the Constitution",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "On which date is Republic Day celebrated in India?",
+        "answer": "Republic Day is celebrated on 26 January because the Indian Constitution came into effect on 26 January 1950.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who is known as the 'Father of the Indian Constitution'?",
+        "answer": "Dr. B.R. Ambedkar is known as the Father of the Indian Constitution because he was the Chairman of the Drafting Committee and played the most significant role in writing it.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "When was the Indian Constitution adopted?",
+        "answer": "The Indian Constitution was adopted on 26 November 1949. It came into effect later on 26 January 1950.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many articles does the Indian Constitution currently have?",
+        "answer": "The Indian Constitution currently has 448 articles, 12 schedules, and 25 parts.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the main purpose of a Constitution?",
+        "answer": "A Constitution provides the most fundamental rules for governance and protects the rights of all citizens, preventing misuse of power.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who was the President of the Constituent Assembly?",
+        "answer": "Dr. Rajendra Prasad was the President of the Constituent Assembly. He later became India's first President.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why is the Indian Constitution called the 'supreme law of the land'?",
+        "answer": "The Constitution is the supreme law because all other laws must be consistent with it. Any law that goes against the Constitution can be struck down by the Supreme Court.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "When was the Constituent Assembly formed?",
+        "answer": "The Constituent Assembly was formed in 1946 to draft the Constitution of India.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is a unique feature of the Indian Constitution?",
+        "answer": "The Indian Constitution is the longest written constitution in the world, with 448 articles, 12 schedules, and 25 parts.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 26 November represent in Indian history?",
+        "answer": "26 November is celebrated as Constitution Day (Samvidhan Divas) because the Indian Constitution was adopted on this day in 1949.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "How many articles does the Indian Constitution currently have?",
+        "modelAnswer": "The Indian Constitution currently has 448 articles, 12 schedules, and 25 parts. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: How many articles does the Indian Constitution currently have?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What is the main purpose of a Constitution?",
+        "modelAnswer": "A Constitution provides the most fundamental rules for governance and protects the rights of all citizens, preventing misuse of power. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What is the main purpose of a Constitution?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Why is the Indian Constitution called the 'supreme law of the land'?",
+        "modelAnswer": "The Constitution is the supreme law because all other laws must be consistent with it. Any law that goes against the Constitution can be struck down by the Supreme Court. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The Constitution is the supreme law because all other laws must be consistent with it.",
+          "Any law that goes against the Constitution can be struck down by the Supreme Court.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What does 26 November represent in Indian history?",
+        "modelAnswer": "26 November is celebrated as Constitution Day (Samvidhan Divas) because the Indian Constitution was adopted on this day in 1949. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What does 26 November represent in Indian history?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

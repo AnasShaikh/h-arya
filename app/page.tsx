@@ -4,75 +4,74 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
-      <div className="max-w-md w-full">
-        <div className="bg-white rounded-2xl shadow-xl p-8">
-          {/* Header */}
-          <div className="text-center mb-8">
-            <div className="w-20 h-20 bg-indigo-600 rounded-full flex items-center justify-center mx-auto mb-4">
-              <span className="text-4xl">🎓</span>
-            </div>
-            <h1 className="text-3xl font-bold text-gray-900 mb-2">
-              H-Arya
-            </h1>
-            <p className="text-gray-800 mb-4">
-              Your personal learning companion for 7th Grade Maharashtra Board
-            </p>
-            <p className="text-sm text-gray-700">
-              Interactive AI-powered tutoring for Science and Mathematics
-            </p>
+    <div className="min-h-screen bg-[#F5F3FF] flex items-center justify-center p-4">
+      <div className="bg-white rounded-3xl shadow-2xl shadow-violet-100 p-8 max-w-md w-full">
+        <div className="text-center mb-8">
+          <div className="bg-gradient-to-br from-violet-700 to-indigo-600 rounded-2xl p-4 w-20 h-20 flex items-center justify-center mx-auto mb-5">
+            <span aria-hidden="true" className="text-5xl">🎓</span>
           </div>
+          <h1 className="text-4xl font-black text-gray-900 tracking-tight text-center mb-2">
+            Ace Your Maharashtra Board Exams
+          </h1>
+          <p className="text-gray-500 font-medium text-center text-base mb-6">
+            Smart AI tutoring for Std 7 — Science, Maths, English, History & more
+          </p>
+        </div>
 
-          {/* Features */}
-          <div className="mb-8 p-4 bg-indigo-50 rounded-lg">
-            <p className="text-sm font-medium text-gray-900 mb-3">
-              What you&apos;ll get:
-            </p>
-            <ul className="space-y-2 text-sm text-gray-800">
-              <li className="flex items-start">
-                <span className="mr-2">✓</span>
-                <span>Personalized learning based on your level</span>
-              </li>
-              <li className="flex items-start">
-                <span className="mr-2">✓</span>
-                <span>Interactive chat with AI tutor</span>
-              </li>
-              <li className="flex items-start">
-                <span className="mr-2">✓</span>
-                <span>Track your progress and improvements</span>
-              </li>
-              <li className="flex items-start">
-                <span className="mr-2">✓</span>
-                <span>Assessment and adaptive teaching</span>
-              </li>
-            </ul>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
+          <div className="bg-violet-50 border border-violet-200 rounded-2xl px-4 py-3 flex items-center gap-2.5 text-sm font-semibold text-gray-800">
+            <span className="text-amber-500">🧠</span>
+            <span>Personalized learning paths</span>
           </div>
+          <div className="bg-violet-50 border border-violet-200 rounded-2xl px-4 py-3 flex items-center gap-2.5 text-sm font-semibold text-gray-800">
+            <span className="text-amber-500">💬</span>
+            <span>Interactive AI tutor chat</span>
+          </div>
+          <div className="bg-violet-50 border border-violet-200 rounded-2xl px-4 py-3 flex items-center gap-2.5 text-sm font-semibold text-gray-800">
+            <span className="text-amber-500">📈</span>
+            <span>Progress tracking & insights</span>
+          </div>
+          <div className="bg-violet-50 border border-violet-200 rounded-2xl px-4 py-3 flex items-center gap-2.5 text-sm font-semibold text-gray-800">
+            <span className="text-amber-500">✅</span>
+            <span>Adaptive assessments</span>
+          </div>
+        </div>
 
-          {/* Action Buttons */}
-          <div className="space-y-4">
-            <Link
-              href="/register"
-              className="block w-full bg-indigo-600 text-white py-3 rounded-lg font-semibold hover:bg-indigo-700 transition text-center"
-            >
-              Create Account
+        <div className="space-y-4">
+          <Link
+            href="/register"
+            className="block w-full bg-gradient-to-r from-violet-700 to-violet-600 text-white py-4 rounded-2xl font-bold text-base hover:opacity-90 hover:-translate-y-0.5 active:scale-95 transition-all duration-200 shadow-lg shadow-violet-200 text-center"
+          >
+            Create Account
+          </Link>
+          <Link
+            href="/login"
+            className="block w-full bg-white border-2 border-violet-300 text-violet-700 py-4 rounded-2xl font-bold text-base hover:bg-violet-50 active:scale-95 transition-all duration-200 text-center"
+          >
+            Log In
+          </Link>
+        </div>
+
+        <div className="mt-6 border-t border-violet-100 pt-4">
+          <p className="text-center text-xs text-gray-400 font-medium">
+            Trusted by Maharashtra Board students
+          </p>
+          <div className="mt-3 flex flex-wrap justify-center gap-x-4 gap-y-2 text-xs font-semibold text-violet-700">
+            <Link href="/pricing" className="hover:underline">
+              Pricing
             </Link>
-            <Link
-              href="/login"
-              className="block w-full bg-white border-2 border-indigo-600 text-indigo-600 py-3 rounded-lg font-semibold hover:bg-indigo-50 transition text-center"
-            >
-              Log In
+            <Link href="/privacy-policy" className="hover:underline">
+              Privacy Policy
             </Link>
-          </div>
-
-          {/* Current Topics */}
-          <div className="mt-8 pt-6 border-t border-gray-200">
-            <p className="text-center text-sm text-gray-800 font-medium mb-2">
-              Currently Available:
-            </p>
-            <div className="text-center text-sm text-gray-700">
-              <p>📚 Science - Chapter 18: Sound</p>
-              <p className="text-xs text-gray-600 mt-1">More chapters coming soon!</p>
-            </div>
+            <Link href="/terms" className="hover:underline">
+              Terms
+            </Link>
+            <Link href="/refund-policy" className="hover:underline">
+              Refund Policy
+            </Link>
+            <Link href="/contact" className="hover:underline">
+              Contact
+            </Link>
           </div>
         </div>
       </div>

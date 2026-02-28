@@ -1,0 +1,6 @@
+.env
+node_modules
+.git
+.github
+.openclaw
+ops/reports

@@ -291,7 +291,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Nipermag (iron, nickel, aluminum, titanium) and Alnico (aluminum, nickel, cobalt) are special magnetic alloys used for making industrial magnets.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "126"
     },
     {
@@ -305,7 +307,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Magnetic fields can penetrate through various materials including cardboard, bottles, and water as shown in the experiments.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "129"
     },
     {
@@ -319,7 +323,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The number of magnetic lines of force at a particular point determines the strength of the magnetic field at that place.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "129"
     },
     {
@@ -333,7 +339,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Repulsion is the real test for identifying a magnet because only magnets repel each other, while magnetic materials can only attract.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "130"
     },
     {
@@ -347,7 +355,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Opposite poles (North and South) attract each other, while like poles (North-North or South-South) repel.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "130"
     },
     {
@@ -361,7 +371,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Electromagnets are made using magnetic materials like iron, nickel, and cobalt alloys.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "130"
     },
     {
@@ -375,7 +387,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "An electromagnet is a temporary magnet created when electric current flows through a coil of wire around an iron core.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "130"
     },
     {
@@ -389,7 +403,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "By convention, magnetic lines of force always run from the north pole to the south pole outside the magnet.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "129"
     },
     {
@@ -403,7 +419,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Repulsion confirms an object is a magnet because only magnets can repel. Magnetic materials can attract but cannot repel.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "130"
     },
     {
@@ -417,7 +435,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The most reliable way to identify a magnet is to test for repulsion using a known magnet, as only magnets can repel each other.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "130"
     }
   ],
@@ -456,5 +476,229 @@
       "Geology surveys to find metal deposits underground"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Drag the components to build the key formula for this chapter.",
+    "data": {
+      "formula": "Work = Force × Distance",
+      "components": [
+        "Work",
+        "=",
+        "Force",
+        "×",
+        "Distance"
+      ],
+      "explanation": "Work is done when a force causes an object to move. Measured in Joules (J)."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Properties of Magnetic Field",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "short_answer",
+        "question": "Write the appropriate term in the\nblanks.\n(a) The alloys called ………… and\n…………… are used for making\nindustrial magnets.\n(b) A magnetic field can pass through\n……… and ……….. .\n(c) The intensity of a magnetic field is\nindicated by the lines of .............. .\n(d) The real test of a magnet is .........",
+        "subQuestions": [
+          "The alloys called ………… and\n…………… are used for making\nindustrial magnets.",
+          "A magnetic field can pass through\n……… and ……….. .",
+          "The intensity of a magnetic field is\nindicated by the lines of .............. .",
+          "The real test of a magnet is ......... ."
+        ]
+      },
+      {
+        "number": 2,
+        "type": "match_pairs",
+        "question": "With whom should I pair up ?\nGroup ‘A’\n(a) Compass\n(b) Door of a\ncupboard\n(c) Repulsion\n(d) Magnetic\npole\nGroup ‘B’",
+        "subQuestions": [
+          "Compass",
+          "Door of a\ncupboard",
+          "Repulsion",
+          "Magnetic\npole\nGroup ‘B’"
+        ]
+      },
+      {
+        "number": 1,
+        "type": "short_answer",
+        "question": "The highest\nmagnetic force",
+        "subQuestions": []
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Like poles",
+        "subQuestions": []
+      },
+      {
+        "number": 3,
+        "type": "give_reasons",
+        "question": "Write answers to the following questions:\n(a) Distinguish between the two methods\nof making artificial magnets.\n(b) Which substances are used for\nmaking electromagnets ?\n(c) Write a note on ‘magnetic field’.\n(d) Why is a magnetic needle used in\na compass ?\n(e) Explain with the help of a diagram\nhow",
+        "subQuestions": [
+          "Distinguish between the two methods\nof making artificial magnets.",
+          "Which substances are used for\nmaking electromagnets ?",
+          "Write a note on ‘magnetic field’.",
+          "Why is a magnetic needle used in\na compass ?",
+          "Explain with the help of a diagram\nhow the intensity and direction of\nthe magnetic field of a bar magnet\ncan be determined."
+        ]
+      },
+      {
+        "number": 4,
+        "type": "short_answer",
+        "question": "Give detailed information about how\nthe merchants of olden times used a\nmagnet while travelling.",
+        "subQuestions": []
+      }
+    ],
+    "rawText": "1. Write the appropriate term in the\nblanks.\n(a) The alloys called ………… and\n…………… are used for making\nindustrial magnets.\n(b) A magnetic field can pass through\n……… and ……….. .\n(c) The intensity of a magnetic field is\nindicated by the lines of .............. .\n(d) The real test of a magnet is ......... .\n2. With whom should I pair up ?\nGroup ‘A’\n(a) Compass\n(b) Door of a\ncupboard\n(c) Repulsion\n(d) Magnetic\npole\nGroup ‘B’\n1. The highest\nmagnetic force\n2. Like poles\n3.\n4.\n3. Write answers to the following questions:\n(a) Distinguish between the two methods\nof making artificial magnets.\n(b) Which substances are used for\nmaking electromagnets ?\n(c) Write a note on ‘magnetic field’.\n(d) Why is a magnetic needle used in\na compass ?\n(e) Explain with the help of a diagram\nhow the intensity and direction of\nthe magnetic field of a bar magnet\ncan be determined.\n4. Give detailed information about how\nthe merchants of olden times used a\nmagnet while travelling.",
+    "qaCards": [
+      {
+        "question": "The alloys called _____ and _____ are used for making industrial magnets.",
+        "answer": "Nipermag (iron, nickel, aluminum, titanium) and Alnico (aluminum, nickel, cobalt) are special magnetic alloys used for making industrial magnets.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A magnetic field can pass through _____.",
+        "answer": "Magnetic fields can penetrate through various materials including cardboard, bottles, and water as shown in the experiments.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The intensity of a magnetic field is indicated by the _____.",
+        "answer": "The number of magnetic lines of force at a particular point determines the strength of the magnetic field at that place.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The real test of a magnet is _____.",
+        "answer": "Repulsion is the real test for identifying a magnet because only magnets repel each other, while magnetic materials can only attract.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which magnetic poles attract each other?",
+        "answer": "Opposite poles (North and South) attract each other, while like poles (North-North or South-South) repel.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which substances are used for making electromagnets?",
+        "answer": "Electromagnets are made using magnetic materials like iron, nickel, and cobalt alloys.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is an electromagnet?",
+        "answer": "An electromagnet is a temporary magnet created when electric current flows through a coil of wire around an iron core.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Magnetic lines of force always run from _____ to _____.",
+        "answer": "By convention, magnetic lines of force always run from the north pole to the south pole outside the magnet.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why is repulsion the real test for identifying a magnet?",
+        "answer": "Repulsion confirms an object is a magnet because only magnets can repel. Magnetic materials can attract but cannot repel.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How will you find a magnet from among various articles given to you?",
+        "answer": "The most reliable way to identify a magnet is to test for repulsion using a known magnet, as only magnets can repel each other.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Write the appropriate term in the\nblanks.\n(a) The alloys called ………… and\n…………… are used for making\nindustrial magnets.\n(b) A magnetic field can pass through\n……… and ……….. .\n(c) The intensity of a magnetic field is\nindicated by the lines of .............. .\n(d) The real test of a magnet is .........",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Properties of a Magnetic Field\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Properties of a Magnetic Field (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "The alloys called ………… and\n…………… are used for making\nindustrial magnets.",
+        "modelAnswer": "Answer: Nipermag (iron, nickel, aluminum, titanium) and Alnico (aluminum, nickel, cobalt) are special magnetic alloys used for making industrial magnets.\nThis question belongs to the chapter \"Properties of a Magnetic Field\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Nipermag (iron, nickel, aluminum, titanium) and Alnico (aluminum, nickel, cobalt) are special magnetic alloys used for …",
+          "Concept link: Properties of a Magnetic Field (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "A magnetic field can pass through\n……… and ……….. .",
+        "modelAnswer": "Answer: Magnetic fields can penetrate through various materials including cardboard, bottles, and water as shown in the experiments.\nThis question belongs to the chapter \"Properties of a Magnetic Field\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Magnetic fields can penetrate through various materials including cardboard, bottles, and water as shown in the experim…",
+          "Concept link: Properties of a Magnetic Field (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "The intensity of a magnetic field is\nindicated by the lines of .............. .",
+        "modelAnswer": "Answer: The number of magnetic lines of force at a particular point determines the strength of the magnetic field at that place.\nThis question belongs to the chapter \"Properties of a Magnetic Field\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: The number of magnetic lines of force at a particular point determines the strength of the magnetic field at that place.",
+          "Concept link: Properties of a Magnetic Field (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "The real test of a magnet is ......... .",
+        "modelAnswer": "Answer: Repulsion is the real test for identifying a magnet because only magnets repel each other, while magnetic materials can only attract.\nThis question belongs to the chapter \"Properties of a Magnetic Field\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Repulsion is the real test for identifying a magnet because only magnets repel each other, while magnetic materials can…",
+          "Concept link: Properties of a Magnetic Field (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Door of a\ncupboard",
+        "modelAnswer": "Door of a\ncupboard\n\n- Define the concept in textbook terms.\n- Explain with key characteristics.\n- Add one relevant example.",
+        "keyPoints": [
+          "Define the concept in textbook terms.",
+          "Explain with key characteristics.",
+          "Add one relevant example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Magnetic\npole\nGroup ‘B’",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Properties of a Magnetic Field\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Properties of a Magnetic Field (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "The highest\nmagnetic force",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Properties of a Magnetic Field\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Properties of a Magnetic Field (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

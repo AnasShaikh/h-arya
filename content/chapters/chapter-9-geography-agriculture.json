@@ -23,7 +23,12 @@
     {
       "id": "q2",
       "question": "Shifting cultivation is mainly practised in _____.",
-      "options": ["Tropical forest and hilly areas", "Temperate grasslands", "Hot deserts", "River delta plains"],
+      "options": [
+        "Tropical forest and hilly areas",
+        "Temperate grasslands",
+        "Hot deserts",
+        "River delta plains"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 3
@@ -44,7 +49,12 @@
     {
       "id": "q4",
       "question": "Silk is obtained from _____.",
-      "options": ["Cocoon of silk moth (silkworm feeds on mulberry leaves) — sericulture", "Cotton plant", "Coconut fibre", "Jute plant"],
+      "options": [
+        "Cocoon of silk moth (silkworm feeds on mulberry leaves) — sericulture",
+        "Cotton plant",
+        "Coconut fibre",
+        "Jute plant"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -74,9 +84,18 @@
       "content": "Agriculture is much broader than just growing crops. It includes: crop cultivation (food grains, vegetables, oilseeds), animal husbandry (cattle, goat, sheep), dairy farming (milk), poultry (hens, ducks), sericulture (silk), horticulture (fruits and flowers), pisciculture (fish farming), beekeeping (honey), pig/rabbit/emu farming. About 55% of India's population directly depends on agriculture. Agriculture uses manpower, animals, implements, and advanced technology.",
       "pageReference": "52-53",
       "examples": [
-        { "icon": "🌾", "text": "Maharashtra: sugarcane (Pune, Kolhapur), cotton (Vidarbha), rice (Konkan), oranges (Nagpur)" },
-        { "icon": "🐄", "text": "Dairy farming: Amul (Gujarat cooperative) — world's largest dairy cooperative, started by farmers" },
-        { "icon": "🐟", "text": "Pisciculture in Ratnagiri: Rawas (Indian Salmon) and Kolambi (Prawns) farmed in special ponds" }
+        {
+          "icon": "🌾",
+          "text": "Maharashtra: sugarcane (Pune, Kolhapur), cotton (Vidarbha), rice (Konkan), oranges (Nagpur)"
+        },
+        {
+          "icon": "🐄",
+          "text": "Dairy farming: Amul (Gujarat cooperative) — world's largest dairy cooperative, started by farmers"
+        },
+        {
+          "icon": "🐟",
+          "text": "Pisciculture in Ratnagiri: Rawas (Indian Salmon) and Kolambi (Prawns) farmed in special ponds"
+        }
       ],
       "keyPoints": [
         "Agriculture: cultivation + animal husbandry + dairy + poultry + sericulture + horticulture + pisciculture",
@@ -98,9 +117,18 @@
       "content": "Sericulture: Silk thread obtained from cocoons of silkworm (Bombyx mori). Silkworm feeds on mulberry leaves. One mulberry tree lasts 15+ years — saves replanting cost. Karnataka produces 70% of India's silk. Beekeeping: Honey + wax production. Bees also aid pollination → better crop yields. Pisciculture: Fish farming in ponds using scientific methods. Freshwater species like Wam, Roha, Rawas, Kolambi (Prawns) reared in fish farms. Dairy, poultry, sheep rearing also important allied activities.",
       "pageReference": "53-55",
       "examples": [
-        { "icon": "🦋", "text": "Silk: Bangalore, Karnataka — India's silk capital; soft, strong, expensive natural fibre from silkworm cocoons" },
-        { "icon": "🍯", "text": "Beekeeping in Pune district: orchards use bees for pollination → better mango, grape yields" },
-        { "icon": "🐟", "text": "Konkan pisciculture: Kolambi (prawns) farms along creek areas → high-value marine product" }
+        {
+          "icon": "🦋",
+          "text": "Silk: Bangalore, Karnataka — India's silk capital; soft, strong, expensive natural fibre from silkworm cocoons"
+        },
+        {
+          "icon": "🍯",
+          "text": "Beekeeping in Pune district: orchards use bees for pollination → better mango, grape yields"
+        },
+        {
+          "icon": "🐟",
+          "text": "Konkan pisciculture: Kolambi (prawns) farms along creek areas → high-value marine product"
+        }
       ],
       "keyPoints": [
         "Sericulture: silkworm (on mulberry leaves) → cocoon → silk thread → silk cloth",
@@ -122,9 +150,18 @@
       "content": "Subsistence farming: growing food mainly for the farmer's own family, using mainly human/animal energy. Two types: (1) Intensive farming: same land farmed continuously, multiple crops, small holdings, dependent on family labour. Most of India's small farmers practise this. (2) Shifting cultivation (Jhum): practiced in tropical forests — cut trees, burn them, grow crops in the ash-fertilised clearing for 2-3 years, then move to new forest area. Primitive but sustainable if practiced in low population areas.",
       "pageReference": "55-56",
       "examples": [
-        { "icon": "🌱", "text": "Small Indian farmer: 1-2 hectares, grows rice/wheat for family, sells small surplus — intensive farming" },
-        { "icon": "🔥", "text": "Jhum cultivation: Nagaland, Mizoram, Meghalaya tribal farmers still practise shifting cultivation" },
-        { "icon": "🌾", "text": "Terrace farming on Sahyadri slopes: prevents erosion, makes hillside land cultivable" }
+        {
+          "icon": "🌱",
+          "text": "Small Indian farmer: 1-2 hectares, grows rice/wheat for family, sells small surplus — intensive farming"
+        },
+        {
+          "icon": "🔥",
+          "text": "Jhum cultivation: Nagaland, Mizoram, Meghalaya tribal farmers still practise shifting cultivation"
+        },
+        {
+          "icon": "🌾",
+          "text": "Terrace farming on Sahyadri slopes: prevents erosion, makes hillside land cultivable"
+        }
       ],
       "keyPoints": [
         "Subsistence farming: growing food for own family; low commercial output",
@@ -146,9 +183,18 @@
       "content": "Extensive grain farming: farms 200+ hectares, mechanised (tractors, combines), monocrop (wheat or corn), sparse population areas. Found in temperate grasslands: Prairie (USA/Canada), Steppes (Russia/Ukraine, the 'breadbasket of Europe'). Plantation farming: 40+ hectares, hilly areas (manual labour needed), single commercial crop (tea, coffee, rubber, coconut, cocoa, spices), colonial origin, requires large capital. Examples: Assam/Darjeeling tea, Kerala rubber, Munnar coffee.",
       "pageReference": "56",
       "examples": [
-        { "icon": "🌾", "text": "US Great Plains (Kansas/Nebraska): 1000+ hectare wheat farms with GPS-guided combines" },
-        { "icon": "🍃", "text": "Assam tea plantations: thousands of acres, hand-picked (machines damage delicate leaves), colonial origin" },
-        { "icon": "🚁", "text": "Extensive farming: pesticides sprayed by helicopters over 1000s of acres — scale impossible for small farms" }
+        {
+          "icon": "🌾",
+          "text": "US Great Plains (Kansas/Nebraska): 1000+ hectare wheat farms with GPS-guided combines"
+        },
+        {
+          "icon": "🍃",
+          "text": "Assam tea plantations: thousands of acres, hand-picked (machines damage delicate leaves), colonial origin"
+        },
+        {
+          "icon": "🚁",
+          "text": "Extensive farming: pesticides sprayed by helicopters over 1000s of acres — scale impossible for small farms"
+        }
       ],
       "keyPoints": [
         "Extensive grain farming: 200+ ha, machines, monocrop (wheat/corn), temperate grasslands",
@@ -170,9 +216,18 @@
       "content": "Market gardening (truck farming): small farms near cities, grows vegetables/fruits/flowers for the urban market. Depends on good transport, demand-supply economics. Horticulture/Floriculture: fruits (mangoes, grapes, strawberries) and flowers (lily, gerbera, dahlia) — high returns. Nashik: grapes, Mahabaleshwar: strawberries. Organic farming: no chemical pesticides/fertilizers, uses vermicompost/neem/cowdung — healthier food, sustainable soil. Agrotourism: city people visit farms to experience rural life — financially benefits farmers. Maharashtra has 214+ agrotourism centres.",
       "pageReference": "56-61",
       "examples": [
-        { "icon": "🥬", "text": "Market gardening in Pune outskirts: farmers supply fresh vegetables to Pune city markets daily" },
-        { "icon": "🍇", "text": "Nashik grapes: export to Europe; Nasik is India's 'wine capital' — horticulture at its best" },
-        { "icon": "🌿", "text": "Organic farming in Sindhudurg: Haapus mangoes grown without chemicals earn GI tag premium prices" }
+        {
+          "icon": "🥬",
+          "text": "Market gardening in Pune outskirts: farmers supply fresh vegetables to Pune city markets daily"
+        },
+        {
+          "icon": "🍇",
+          "text": "Nashik grapes: export to Europe; Nasik is India's 'wine capital' — horticulture at its best"
+        },
+        {
+          "icon": "🌿",
+          "text": "Organic farming in Sindhudurg: Haapus mangoes grown without chemicals earn GI tag premium prices"
+        }
       ],
       "keyPoints": [
         "Market gardening (truck farming): near cities, vegetables/fruits/flowers for urban markets",
@@ -189,10 +244,17 @@
     {
       "id": "q1",
       "question": "Which of the following is NOT included in agriculture?",
-      "options": ["Only crop cultivation (not animal husbandry)", "Sericulture", "Pisciculture", "Dairy farming"],
+      "options": [
+        "Only crop cultivation (not animal husbandry)",
+        "Sericulture",
+        "Pisciculture",
+        "Dairy farming"
+      ],
       "correctAnswer": "A",
       "explanation": "Agriculture includes ALL of these: crop cultivation, animal husbandry, dairy, poultry, sericulture, horticulture, pisciculture. The question asks what's NOT included — the answer that's WRONG is 'only crop cultivation' because agriculture is much broader than just crops.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "52-53"
     },
     {
@@ -206,7 +268,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Bees carry pollen between flowers (pollination) as they collect nectar. This helps crops produce more fruits and seeds. Orchards near beehives get significantly better yields — making beekeeping an important allied agricultural activity.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "54"
     },
     {
@@ -220,7 +284,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In shifting cultivation, farmers clear forest, plant crops in the ash-enriched soil. After 2-3 years, soil nutrients are exhausted and yields drop. Farmers then move to a new area, allowing the old land to regenerate for 15-20 years before farming it again.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "55"
     },
     {
@@ -234,7 +300,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Extensive grain farms are 200+ hectares (sometimes thousands!) and are found in sparsely populated grassland regions (Prairies, Steppes). There aren't enough people to farm manually. Machines make it economically possible to cultivate vast areas with few workers.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "56"
     },
     {
@@ -248,7 +316,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Plantation agriculture grows commercial crops (tea, rubber, coffee, spices) in hilly areas requiring careful manual picking. Extensive grain farming grows food grains (wheat, corn) in flat temperate grasslands using heavy machinery.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "56"
     },
     {
@@ -262,7 +332,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Market gardening produces perishable vegetables, fruits, and flowers that must reach city markets quickly. The entire enterprise depends on efficient truck transport — hence 'truck farming'. Quality and price depend on how fast the produce reaches the market.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "57"
     },
     {
@@ -276,7 +348,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Organic farming uses natural inputs (vermicompost, compost, neem pesticide, cowdung). No chemical residues accumulate in the food or soil — making it healthier for consumers and sustainable for the environment. Organic produce commands premium prices in the market.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "57-58"
     },
     {
@@ -290,7 +364,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Plantation agriculture in Maharashtra/South India includes coffee (Coorg), spices (Kerala), and cashew (Konkan) — all grown in hilly, humid regions requiring careful manual cultivation. These are commercial crops grown for export.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "56"
     }
   ],
@@ -319,5 +395,131 @@
       "Maharashtra's 214+ agrotourism centres: farmers supplement income from tourism"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "drag-drop",
+    "title": "Sort the Features!",
+    "description": "Drag each item to its correct geographical category.",
+    "data": {
+      "items": [
+        "Rice",
+        "Wheat",
+        "Cotton",
+        "Sugarcane",
+        "Tea",
+        "Coffee"
+      ],
+      "categories": [
+        "Kharif Crops (Summer)",
+        "Rabi Crops (Winter)",
+        "Cash Crops"
+      ],
+      "answers": {
+        "Rice": "Kharif Crops (Summer)",
+        "Wheat": "Rabi Crops (Winter)",
+        "Cotton": "Cash Crops",
+        "Sugarcane": "Cash Crops",
+        "Tea": "Cash Crops",
+        "Coffee": "Cash Crops"
+      }
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Agriculture",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Which of the following is NOT included in agriculture?",
+        "answer": "Agriculture includes ALL of these: crop cultivation, animal husbandry, dairy, poultry, sericulture, horticulture, pisciculture. The question asks what's NOT included — the answer that's WRONG is 'only crop cultivation' because agriculture is much broader than just crops.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In beekeeping, how do bees benefit crops beyond just producing honey?",
+        "answer": "Bees carry pollen between flowers (pollination) as they collect nectar. This helps crops produce more fruits and seeds. Orchards near beehives get significantly better yields — making beekeeping an important allied agricultural activity.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In shifting cultivation, why do farmers move to a new area after 2-3 years?",
+        "answer": "In shifting cultivation, farmers clear forest, plant crops in the ash-enriched soil. After 2-3 years, soil nutrients are exhausted and yields drop. Farmers then move to a new area, allowing the old land to regenerate for 15-20 years before farming it again.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why is extensive grain farming done with large machines (tractors, combines) rather than manual labour?",
+        "answer": "Extensive grain farms are 200+ hectares (sometimes thousands!) and are found in sparsely populated grassland regions (Prairies, Steppes). There aren't enough people to farm manually. Machines make it economically possible to cultivate vast areas with few workers.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Plantation agriculture differs from extensive grain farming because _____.",
+        "answer": "Plantation agriculture grows commercial crops (tea, rubber, coffee, spices) in hilly areas requiring careful manual picking. Extensive grain farming grows food grains (wheat, corn) in flat temperate grasslands using heavy machinery.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Market gardening is also called 'truck farming' because _____.",
+        "answer": "Market gardening produces perishable vegetables, fruits, and flowers that must reach city markets quickly. The entire enterprise depends on efficient truck transport — hence 'truck farming'. Quality and price depend on how fast the produce reaches the market.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What makes organic farming food healthier and more valuable?",
+        "answer": "Organic farming uses natural inputs (vermicompost, compost, neem pesticide, cowdung). No chemical residues accumulate in the food or soil — making it healthier for consumers and sustainable for the environment. Organic produce commands premium prices in the market.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which crop best represents plantation agriculture in Maharashtra/Western Ghats?",
+        "answer": "Plantation agriculture in Maharashtra/South India includes coffee (Coorg), spices (Kerala), and cashew (Konkan) — all grown in hilly, humid regions requiring careful manual cultivation. These are commercial crops grown for export.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "In beekeeping, how do bees benefit crops beyond just producing honey?",
+        "modelAnswer": "Bees carry pollen between flowers (pollination) as they collect nectar. This helps crops produce more fruits and seeds. Orchards near beehives get significantly better yields — making beekeeping an important allied agricultural activity. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Bees carry pollen between flowers (pollination) as they collect nectar.",
+          "This helps crops produce more fruits and seeds.",
+          "Orchards near beehives get significantly better yields — making beekeeping an important allied agricultural activity.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "In shifting cultivation, why do farmers move to a new area after 2-3 years?",
+        "modelAnswer": "In shifting cultivation, farmers clear forest, plant crops in the ash-enriched soil. After 2-3 years, soil nutrients are exhausted and yields drop. Farmers then move to a new area, allowing the old land to regenerate for 15-20 years before farming it again. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "In shifting cultivation, farmers clear forest, plant crops in the ash-enriched soil.",
+          "After 2-3 years, soil nutrients are exhausted and yields drop.",
+          "Farmers then move to a new area, allowing the old land to regenerate for 15-20 years before farming it again.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Why is extensive grain farming done with large machines (tractors, combines) rather than manual labour?",
+        "modelAnswer": "Extensive grain farms are 200+ hectares (sometimes thousands!) and are found in sparsely populated grassland regions (Prairies, Steppes). There aren't enough people to farm manually. Machines make it economically possible to cultivate vast areas with few workers. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Extensive grain farms are 200+ hectares (sometimes thousands!) and are found in sparsely populated grassland regions (Prairies, Steppes).",
+          "There aren't enough people to farm manually.",
+          "Machines make it economically possible to cultivate vast areas with few workers.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What makes organic farming food healthier and more valuable?",
+        "modelAnswer": "Organic farming uses natural inputs (vermicompost, compost, neem pesticide, cowdung). No chemical residues accumulate in the food or soil — making it healthier for consumers and sustainable for the environment. Organic produce commands premium prices in the market. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Organic farming uses natural inputs (vermicompost, compost, neem pesticide, cowdung).",
+          "No chemical residues accumulate in the food or soil — making it healthier for consumers and sustainable for the environment.",
+          "Organic produce commands premium prices in the market.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

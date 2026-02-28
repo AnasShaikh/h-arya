@@ -23,7 +23,12 @@
     {
       "id": "q2",
       "question": "The black soil (regur) of Maharashtra's Deccan Plateau is formed from which parent rock?",
-      "options": ["Basalt rock", "Granite rock", "Limestone rock", "Sandstone rock"],
+      "options": [
+        "Basalt rock",
+        "Granite rock",
+        "Limestone rock",
+        "Sandstone rock"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 2
@@ -57,7 +62,12 @@
     {
       "id": "q5",
       "question": "To form a 2.5 cm thick layer of topsoil, it takes _____.",
-      "options": ["Thousands of years", "A few years", "One monsoon season", "100 years"],
+      "options": [
+        "Thousands of years",
+        "A few years",
+        "One monsoon season",
+        "100 years"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 1
@@ -74,9 +84,18 @@
       "content": "Soil is NOT just dirt or earth. It is a complex mixture of: (1) weathered rock particles (inorganic/abiotic material), (2) humus — decomposed organic material from dead plants and animals, and (3) microorganisms. Soil formation is very slow — it takes thousands of years to form just 2.5 cm of topsoil! Factors affecting soil formation: parent rock, regional climate, biotic material (humus), slope of land, and time.",
       "pageReference": "39-40",
       "examples": [
-        { "icon": "🌱", "text": "Seeds grow in soil but not in just rock powder or water alone — soil is an ecosystem" },
-        { "icon": "🐛", "text": "Vermicompost: worms decompose organic waste into humus — increases soil fertility" },
-        { "icon": "⏰", "text": "2.5 cm of topsoil = thousands of years to form — that's why healthy soil is invaluable" }
+        {
+          "icon": "🌱",
+          "text": "Seeds grow in soil but not in just rock powder or water alone — soil is an ecosystem"
+        },
+        {
+          "icon": "🐛",
+          "text": "Vermicompost: worms decompose organic waste into humus — increases soil fertility"
+        },
+        {
+          "icon": "⏰",
+          "text": "2.5 cm of topsoil = thousands of years to form — that's why healthy soil is invaluable"
+        }
       ],
       "keyPoints": [
         "Soil = weathered rock + humus (decomposed organic matter) + microorganisms",
@@ -98,9 +117,18 @@
       "content": "Regur/Black Soil: forms from basalt rock on Deccan Plateau (Maharashtra's interior). Medium rainfall. Dark black colour (darker = more iron, lighter = less). Excellent moisture retention — sticks together when wet. Best for cotton, jowar, bajra. Covers most of Maharashtra's plateau. Laterite Soil: forms in Konkan coast (very high rainfall) — leaching washes away minerals. Iron reacts with oxygen → reddish-orange colour. Less fertile. Red Soil: forms from granite/gneiss rocks in South India. Iron-rich.",
       "pageReference": "41-42",
       "examples": [
-        { "icon": "🖤", "text": "Vidarbha's black soil: ideal for cotton — Maharashtra is India's cotton belt" },
-        { "icon": "🟠", "text": "Konkan's laterite: reddish-orange soil, heavy rainfall washes away nutrients — less fertile" },
-        { "icon": "🌾", "text": "Same basalt rock → black soil (dry Deccan) OR laterite (wet Konkan) — climate determines soil type!" }
+        {
+          "icon": "🖤",
+          "text": "Vidarbha's black soil: ideal for cotton — Maharashtra is India's cotton belt"
+        },
+        {
+          "icon": "🟠",
+          "text": "Konkan's laterite: reddish-orange soil, heavy rainfall washes away nutrients — less fertile"
+        },
+        {
+          "icon": "🌾",
+          "text": "Same basalt rock → black soil (dry Deccan) OR laterite (wet Konkan) — climate determines soil type!"
+        }
       ],
       "keyPoints": [
         "Black soil (regur): from basalt, Deccan Plateau, retains moisture well, good for cotton/jowar/bajra",
@@ -122,9 +150,18 @@
       "content": "Alluvial soil: deposited by rivers in valleys and deltas. Found along river banks and coastal strips in Konkan (Panvel-Uran coast, Dharamtar creek area). Rich in minerals (brought from upper river), very fertile, best for rice. Most ancient human civilisations developed on alluvial soil (Indus Valley Civilisation on alluvial plains of Indus and Ganga). Coarse soil: found on hilltops of western plateau (Ajanta, Balaghat hills), low humus, less fertile. Yellow-brown soil: areas of extreme rainfall, less fertile.",
       "pageReference": "41-42",
       "examples": [
-        { "icon": "🌾", "text": "Indo-Gangetic Plain: world's most fertile alluvial soil — produces most of India's wheat and rice" },
-        { "icon": "🏺", "text": "Indus Valley Civilisation: flourished 5000 years ago on alluvial soil of Indus River plains (now Pakistan)" },
-        { "icon": "🍚", "text": "Konkan coast: alluvial soil from short, fast rivers → rice cultivation in Konkan" }
+        {
+          "icon": "🌾",
+          "text": "Indo-Gangetic Plain: world's most fertile alluvial soil — produces most of India's wheat and rice"
+        },
+        {
+          "icon": "🏺",
+          "text": "Indus Valley Civilisation: flourished 5000 years ago on alluvial soil of Indus River plains (now Pakistan)"
+        },
+        {
+          "icon": "🍚",
+          "text": "Konkan coast: alluvial soil from short, fast rivers → rice cultivation in Konkan"
+        }
       ],
       "keyPoints": [
         "Alluvial soil: deposited by rivers, very fertile, best for rice; found in Konkan coast valleys",
@@ -146,9 +183,18 @@
       "content": "Soil erosion: removal of topsoil by water or wind. Caused by: heavy rainfall, steep slopes, deforestation, overgrazing. India loses thousands of tonnes of topsoil every year. Soil degradation: reduction in soil quality (fertility). Causes: excessive chemical fertilizers, insecticides, weedicides → kill microorganisms, reduce humus; excessive irrigation → salinity; pH disturbance. Both are serious threats to agriculture.",
       "pageReference": "42-43",
       "examples": [
-        { "icon": "⚠️", "text": "Vidarbha: heavy rainfall + deforested slopes → red/orange gully erosion visible everywhere" },
-        { "icon": "🧪", "text": "Excessive chemical fertilisers: residue stays in soil for years → kills microorganisms → soil loses fertility" },
-        { "icon": "💧", "text": "Excessive irrigation (Marathwada): draws salt upward → soil becomes white and saline → unproductive" }
+        {
+          "icon": "⚠️",
+          "text": "Vidarbha: heavy rainfall + deforested slopes → red/orange gully erosion visible everywhere"
+        },
+        {
+          "icon": "🧪",
+          "text": "Excessive chemical fertilisers: residue stays in soil for years → kills microorganisms → soil loses fertility"
+        },
+        {
+          "icon": "💧",
+          "text": "Excessive irrigation (Marathwada): draws salt upward → soil becomes white and saline → unproductive"
+        }
       ],
       "keyPoints": [
         "Soil erosion: topsoil removed by water (runoff) or wind",
@@ -170,9 +216,18 @@
       "content": "Soil conservation measures: (1) Afforestation — plant trees to hold soil with roots and reduce wind/water velocity. (2) Continuous Contour Trenches (CCTs) — dug along hillside contours to slow water runoff and allow it to percolate into ground. (3) Embankments (bunding) — small walls along slopes to hold soil. (4) Organic farming — use vermicompost/compost instead of chemicals to maintain humus and pH. (5) Crop rotation and fallowing — leaving land fallow and alternating crops maintains fertility. Maharashtra's Jalayukt Shivar Scheme and 'Arrest water, let it percolate' programme have raised groundwater levels.",
       "pageReference": "43-44",
       "examples": [
-        { "icon": "🌲", "text": "Afforestation: tree roots hold soil, canopy reduces rain impact, leaves add humus" },
-        { "icon": "💧", "text": "CCTs (Contour trenches): used widely in Nashik, Pune districts — raised groundwater level" },
-        { "icon": "🌿", "text": "Nagpur orange orchards: organic farming maintains soil health → GI-tagged Nagpur oranges!" }
+        {
+          "icon": "🌲",
+          "text": "Afforestation: tree roots hold soil, canopy reduces rain impact, leaves add humus"
+        },
+        {
+          "icon": "💧",
+          "text": "CCTs (Contour trenches): used widely in Nashik, Pune districts — raised groundwater level"
+        },
+        {
+          "icon": "🌿",
+          "text": "Nagpur orange orchards: organic farming maintains soil health → GI-tagged Nagpur oranges!"
+        }
       ],
       "keyPoints": [
         "Afforestation: plant trees — roots hold soil, reduce wind erosion, add humus",
@@ -198,16 +253,25 @@
       ],
       "correctAnswer": "A",
       "explanation": "Powdered rock alone is NOT soil — soil requires humus (decomposed organic matter) and microorganisms. Humus provides nutrients for plants and makes soil fertile. Without humus, crops cannot grow well.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "39"
     },
     {
       "id": "q2",
       "question": "Maharashtra's black soil (regur) is formed from which parent rock?",
-      "options": ["Basalt rock (weathered in dry Deccan climate)", "Granite", "Limestone", "Sandstone"],
+      "options": [
+        "Basalt rock (weathered in dry Deccan climate)",
+        "Granite",
+        "Limestone",
+        "Sandstone"
+      ],
       "correctAnswer": "A",
       "explanation": "The black soil (regur) of Maharashtra's Deccan Plateau is formed by the weathering of basalt rock under the dry plateau climate. The same basalt rock forms laterite soil when exposed to the heavy rainfall of the Konkan region.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "39"
     },
     {
@@ -221,16 +285,25 @@
       ],
       "correctAnswer": "A",
       "explanation": "This is a key textbook point: the same parent rock (basalt) gives different soils in different climates. Dry Deccan → black soil. Heavy-rainfall Konkan → leaching removes minerals, iron oxidises → reddish-orange laterite soil.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "39"
     },
     {
       "id": "q4",
       "question": "Which soil type is most fertile and is best for rice cultivation in Maharashtra?",
-      "options": ["Alluvial soil — deposited by rivers in coastal areas and valleys", "Laterite soil", "Coarse soil", "Black soil"],
+      "options": [
+        "Alluvial soil — deposited by rivers in coastal areas and valleys",
+        "Laterite soil",
+        "Coarse soil",
+        "Black soil"
+      ],
       "correctAnswer": "A",
       "explanation": "Alluvial soil deposited by rivers is the most fertile — it contains fresh minerals from upper river areas. In Maharashtra, alluvial soil is found along Konkan coastal river mouths (e.g., Panvel-Uran area) and river valleys. It supports rice cultivation in Konkan.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "41-42"
     },
     {
@@ -244,7 +317,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Excessive chemical fertilizers leave toxic residues that kill soil microorganisms. Without microorganisms, dead organic matter can't decompose — humus decreases. Without humus, soil fertility drops and plants don't get micronutrients. This is soil degradation.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "42-43"
     },
     {
@@ -258,7 +333,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "CCTs are trenches dug along the slope of a hill following contour lines. They slow down the water flowing downhill, allowing it to percolate into the ground (recharge groundwater) and preventing it from washing away topsoil.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "43-44"
     },
     {
@@ -272,7 +349,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Leaving land fallow (uncultivated) allows natural soil processes to restore fertility: microorganisms multiply, organic matter decomposes to form humus, the soil's pH and mineral balance restores. It gives the soil a 'rest' from intensive farming.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "44"
     },
     {
@@ -286,7 +365,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Geographic Indication (GI) recognises that certain crops grow best in specific soils. Nagpur's soil and climate make it uniquely suitable for growing its famous oranges — this combination gives Nagpur oranges their distinctive taste, earning them the GI tag.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "43"
     }
   ],
@@ -316,5 +397,141 @@
       "Paani Foundation (Aamir Khan): teaches soil-water conservation in drought-prone Maharashtra"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "drag-drop",
+    "title": "Sort the Features!",
+    "description": "Drag each item to its correct geographical category.",
+    "data": {
+      "items": [
+        "Alluvial Soil",
+        "Black Cotton Soil",
+        "Red Soil",
+        "Laterite Soil",
+        "Sandy Soil",
+        "Clay Soil"
+      ],
+      "categories": [
+        "Found in River Plains",
+        "Found in Deccan Plateau",
+        "Found in Hilly Regions"
+      ],
+      "answers": {
+        "Alluvial Soil": "Found in River Plains",
+        "Black Cotton Soil": "Found in Deccan Plateau",
+        "Red Soil": "Found in Hilly Regions",
+        "Laterite Soil": "Found in Hilly Regions",
+        "Sandy Soil": "Found in River Plains",
+        "Clay Soil": "Found in River Plains"
+      }
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Soils",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "What component makes soil fertile — different from just powdered rock?",
+        "answer": "Powdered rock alone is NOT soil — soil requires humus (decomposed organic matter) and microorganisms. Humus provides nutrients for plants and makes soil fertile. Without humus, crops cannot grow well.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Maharashtra's black soil (regur) is formed from which parent rock?",
+        "answer": "The black soil (regur) of Maharashtra's Deccan Plateau is formed by the weathering of basalt rock under the dry plateau climate. The same basalt rock forms laterite soil when exposed to the heavy rainfall of the Konkan region.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why does the same basalt rock form black soil in Deccan Plateau but laterite soil in Konkan?",
+        "answer": "This is a key textbook point: the same parent rock (basalt) gives different soils in different climates. Dry Deccan → black soil. Heavy-rainfall Konkan → leaching removes minerals, iron oxidises → reddish-orange laterite soil.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which soil type is most fertile and is best for rice cultivation in Maharashtra?",
+        "answer": "Alluvial soil deposited by rivers is the most fertile — it contains fresh minerals from upper river areas. In Maharashtra, alluvial soil is found along Konkan coastal river mouths (e.g., Panvel-Uran area) and river valleys. It supports rice cultivation in Konkan.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What happens when chemical fertilizers are used excessively over many years?",
+        "answer": "Excessive chemical fertilizers leave toxic residues that kill soil microorganisms. Without microorganisms, dead organic matter can't decompose — humus decreases. Without humus, soil fertility drops and plants don't get micronutrients. This is soil degradation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What are Continuous Contour Trenches (CCTs)?",
+        "answer": "CCTs are trenches dug along the slope of a hill following contour lines. They slow down the water flowing downhill, allowing it to percolate into the ground (recharge groundwater) and preventing it from washing away topsoil.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why is it advisable to leave farmland fallow for some period?",
+        "answer": "Leaving land fallow (uncultivated) allows natural soil processes to restore fertility: microorganisms multiply, organic matter decomposes to form humus, the soil's pH and mineral balance restores. It gives the soil a 'rest' from intensive farming.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The GI (Geographic Indication) tag for Nagpur oranges is connected to _____.",
+        "answer": "Geographic Indication (GI) recognises that certain crops grow best in specific soils. Nagpur's soil and climate make it uniquely suitable for growing its famous oranges — this combination gives Nagpur oranges their distinctive taste, earning them the GI tag.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What component makes soil fertile — different from just powdered rock?",
+        "modelAnswer": "Powdered rock alone is NOT soil — soil requires humus (decomposed organic matter) and microorganisms. Humus provides nutrients for plants and makes soil fertile. Without humus, crops cannot grow well. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Powdered rock alone is NOT soil — soil requires humus (decomposed organic matter) and microorganisms.",
+          "Humus provides nutrients for plants and makes soil fertile.",
+          "Without humus, crops cannot grow well.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Why does the same basalt rock form black soil in Deccan Plateau but laterite soil in Konkan?",
+        "modelAnswer": "This is a key textbook point: the same parent rock (basalt) gives different soils in different climates. Dry Deccan → black soil. Heavy-rainfall Konkan → leaching removes minerals, iron oxidises → reddish-orange laterite soil. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "This is a key textbook point: the same parent rock (basalt) gives different soils in different climates.",
+          "Dry Deccan → black soil.",
+          "Heavy-rainfall Konkan → leaching removes minerals, iron oxidises → reddish-orange laterite soil.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What happens when chemical fertilizers are used excessively over many years?",
+        "modelAnswer": "Excessive chemical fertilizers leave toxic residues that kill soil microorganisms. Without microorganisms, dead organic matter can't decompose — humus decreases. Without humus, soil fertility drops and plants don't get micronutrients. This is soil degradation. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Excessive chemical fertilizers leave toxic residues that kill soil microorganisms.",
+          "Without microorganisms, dead organic matter can't decompose — humus decreases.",
+          "Without humus, soil fertility drops and plants don't get micronutrients.",
+          "This is soil degradation."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What are Continuous Contour Trenches (CCTs)?",
+        "modelAnswer": "CCTs are trenches dug along the slope of a hill following contour lines. They slow down the water flowing downhill, allowing it to percolate into the ground (recharge groundwater) and preventing it from washing away topsoil. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "CCTs are trenches dug along the slope of a hill following contour lines.",
+          "They slow down the water flowing downhill, allowing it to percolate into the ground (recharge groundwater) and preventing it from washing away topsoil.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Why is it advisable to leave farmland fallow for some period?",
+        "modelAnswer": "Leaving land fallow (uncultivated) allows natural soil processes to restore fertility: microorganisms multiply, organic matter decomposes to form humus, the soil's pH and mineral balance restores. It gives the soil a 'rest' from intensive farming. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Leaving land fallow (uncultivated) allows natural soil processes to restore fertility: microorganisms multiply, organic matter decomposes to form humus, the soil's pH and mineral balance restores.",
+          "It gives the soil a 'rest' from intensive farming.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

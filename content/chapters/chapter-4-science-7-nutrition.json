@@ -5,80 +5,583 @@
     "title": "Nutrition in Living Organisms",
     "subject": "Science",
     "pages": "26-33",
-    "description": "Autotrophic and Heterotrophic nutrition, Photosynthesis, and nutrition in animals."
+    "description": "This chapter explains the different ways living organisms obtain food. It covers autotrophic nutrition like photosynthesis in plants, and various forms of heterotrophic nutrition, including how animals and parasitic plants get their nourishment."
   },
   "preAssessment": [
     {
-      "id": "q1",
-      "question": "The process of taking in and using food is called:",
-      "options": ["Digestion", "Respiration", "Nutrition", "Excretion"],
-      "correctAnswer": "C",
-      "difficulty": "easy"
+      "id": "pa1",
+      "question": "Organisms that make their own food are called:",
+      "options": [
+        "Heterotrophs",
+        "Autotrophs",
+        "Saprotrophs",
+        "Parasites"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
     },
     {
-      "id": "q2",
-      "question": "Which of these are macro-nutrients?",
-      "options": ["Vitamins and Minerals", "Carbohydrates, Proteins, and Fats", "Water and Fiber", "Chlorophyll and Sunlight"],
+      "id": "pa2",
+      "question": "What are the raw materials for photosynthesis?",
+      "options": [
+        "Oxygen and water",
+        "Sunlight, carbon dioxide, and water",
+        "Sugar and oxygen",
+        "Nitrogen and sunlight"
+      ],
       "correctAnswer": "B",
-      "difficulty": "medium"
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "pa3",
+      "question": "Cuscuta (Dodder) is an example of which type of plant?",
+      "options": [
+        "Insectivorous",
+        "Autotrophic",
+        "Saprotrophic",
+        "Parasitic"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "pa4",
+      "question": "Holozoic nutrition involves which process?",
+      "options": [
+        "Absorbing dead matter",
+        "Living on a host",
+        "Ingestion, digestion, and egestion of food",
+        "Making food from sunlight"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "pa5",
+      "question": "Which of these is a macronutrient?",
+      "options": [
+        "Iron",
+        "Vitamins",
+        "Proteins",
+        "Zinc"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 1
     }
   ],
   "concepts": [
     {
       "id": 1,
-      "title": "Nutrition and its Needs",
-      "emoji": "🥗",
-      "colorTheme": "from-green-400 to-green-600",
-      "bgColor": "bg-green-50",
-      "borderColor": "border-green-300",
-      "content": "Nutrition is the process of taking in and using food for energy, growth, and health. Nutrients are classified into macro-nutrients (required in large quantities like carbohydrates, proteins, fats) and micro-nutrients (required in small quantities like minerals, vitamins).",
-      "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=1000",
-      "pageReference": "26",
-      "examples": [
-        { "icon": "⚡", "text": "Energy for doing work" },
-        { "icon": "📈", "text": "Growth and development" },
-        { "icon": "🛠️", "text": "Repairing damaged cells" }
-      ],
-      "keyPoints": [
-        "Macro-nutrients: Carbohydrates, Proteins, Fats",
-        "Micro-nutrients: Minerals, Vitamins",
-        "Nutrition helps to fight diseases"
-      ],
-      "funFact": "The process of nutrition is continuous in all living organisms to maintain life processes!",
-      "textbookRef": "Page 26: Nutrition"
-    },
-    {
-      "id": 2,
-      "title": "Autotrophic Plants & Photosynthesis",
+      "title": "Autotrophic Nutrition & Photosynthesis",
       "emoji": "☀️",
       "colorTheme": "from-yellow-400 to-green-500",
       "bgColor": "bg-yellow-50",
       "borderColor": "border-yellow-300",
-      "content": "Plants produce their own food using sunlight, chlorophyll, carbon dioxide from air, and water/minerals from soil. This process is called photosynthesis. The chemical equation is: 6 CO2 + 6 H2O + Sunlight -> C6H12O6 + 6 O2.",
-      "imageUrl": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&q=80&w=1000",
-      "videoUrl": "https://www.youtube.com/embed/UPBMG5EYydo",
-      "pageReference": "26-27",
+      "content": "Autotrophs are organisms that can produce their own food. Plants are the most common autotrophs. They use a process called photosynthesis, converting light energy into chemical energy. Using sunlight, water, and carbon dioxide, they create glucose (sugar for energy) and release oxygen as a byproduct.",
+      "pageReference": "26-28",
       "examples": [
-        { "icon": "🌿", "text": "Chlorophyll in leaves" },
-        { "icon": "💧", "text": "Water from roots" },
-        { "icon": "🌬️", "text": "CO2 from air" }
+        {
+          "id": "ex1",
+          "text": "A mango tree using sunlight to grow and produce fruit."
+        },
+        {
+          "id": "ex2",
+          "text": "Algae in a pond creating their own food through photosynthesis."
+        },
+        {
+          "id": "ex3",
+          "text": "The chemical equation: 6CO₂ + 6H₂O + Light Energy → C₆H₁₂O₆ + 6O₂"
+        }
       ],
       "keyPoints": [
-        "Light energy is converted into chemical energy",
-        "Oxygen is released as a byproduct",
-        "Phloem transports food to other parts of the plant"
+        {
+          "id": "kp1",
+          "text": "Photosynthesis occurs in the chloroplasts of plant cells."
+        },
+        {
+          "id": "kp2",
+          "text": "Chlorophyll is the green pigment that captures light energy."
+        },
+        {
+          "id": "kp3",
+          "text": "The food produced is transported to all parts of the plant through the phloem."
+        }
       ],
-      "funFact": "While most plants are green due to chlorophyll, some have other pigments but still carry out photosynthesis!",
-      "textbookRef": "Page 26: Photosynthesis"
+      "funFact": "Even under the ocean, some bacteria use chemicals from hydrothermal vents to make their own food, a process called chemosynthesis!",
+      "textbookRef": "Page 26"
+    },
+    {
+      "id": 2,
+      "title": "Heterotrophic Nutrition",
+      "emoji": "🦁",
+      "colorTheme": "from-orange-500 to-red-600",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Heterotrophs cannot make their own food and must obtain it by consuming other organisms. This includes all animals, fungi, and some types of bacteria and plants.",
+      "pageReference": "29-31",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Parasitic: A Cuscuta plant absorbing nutrients from a host plant."
+        },
+        {
+          "id": "ex2",
+          "text": "Saprotrophic: Fungi like mushrooms breaking down dead logs for food."
+        },
+        {
+          "id": "ex3",
+          "text": "Insectivorous: A Venus flytrap catching an insect to supplement its nutrient intake."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "There are three main types: Holozoic, Saprotrophic, and Parasitic."
+        },
+        {
+          "id": "kp2",
+          "text": "Parasites live on or inside a host organism and get nutrition at the host's expense."
+        },
+        {
+          "id": "kp3",
+          "text": "Saprotrophs feed on dead and decaying organic matter."
+        }
+      ],
+      "funFact": "The Loranthus plant is a semi-parasite. It has green leaves and can perform photosynthesis, but it takes water and minerals from its host plant!",
+      "textbookRef": "Page 29"
+    },
+    {
+      "id": 3,
+      "title": "Nutrition in Animals",
+      "emoji": "🍎",
+      "colorTheme": "from-red-400 to-pink-500",
+      "bgColor": "bg-red-50",
+      "borderColor": "border-red-300",
+      "content": "Most animals have Holozoic nutrition, which involves the intake and processing of solid or liquid food. This process has five steps: Ingestion (taking food in), Digestion (breaking down complex food), Absorption (nutrients move into the blood), Assimilation (cells use the nutrients), and Egestion (removal of waste).",
+      "pageReference": "32-33",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "A cow (herbivore) chewing grass."
+        },
+        {
+          "id": "ex2",
+          "text": "A lion (carnivore) eating meat."
+        },
+        {
+          "id": "ex3",
+          "text": "A human (omnivore) eating a meal with plants and meat."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Herbivores eat plants, Carnivores eat other animals, and Omnivores eat both."
+        },
+        {
+          "id": "kp2",
+          "text": "Digestion breaks large, insoluble food molecules into small, water-soluble molecules."
+        },
+        {
+          "id": "kp3",
+          "text": "The final step, egestion, is the removal of undigested food from the body."
+        }
+      ],
+      "funFact": "An Amoeba, a single-celled organism, engulfs its food by surrounding it with temporary finger-like projections called pseudopodia!",
+      "textbookRef": "Page 32"
     }
   ],
   "test": [
     {
       "id": "t1",
-      "question": "Which pigment is necessary for photosynthesis?",
-      "options": ["Hemoglobin", "Chlorophyll", "Melanin", "Xanthophyll"],
+      "question": "What is the role of chlorophyll in photosynthesis?",
+      "options": [
+        "To absorb water",
+        "To absorb sunlight energy",
+        "To release oxygen",
+        "To absorb carbon dioxide"
+      ],
       "correctAnswer": "B",
+      "explanation": "Chlorophyll is the green pigment in leaves that captures the light energy from the sun needed for photosynthesis.",
+      "conceptIds": [
+        1
+      ],
       "difficulty": "easy"
+    },
+    {
+      "id": "t2",
+      "question": "Fungi and mushrooms are examples of which type of nutrition?",
+      "options": [
+        "Autotrophic",
+        "Parasitic",
+        "Holozoic",
+        "Saprotrophic"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Saprotrophs, like fungi, get their nutrients by decomposing dead organic matter.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t3",
+      "question": "The five steps of holozoic nutrition are Ingestion, Digestion, Absorption, _______, and Egestion.",
+      "options": [
+        "Respiration",
+        "Circulation",
+        "Assimilation",
+        "Photosynthesis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Assimilation is the step where the absorbed nutrients are used by the body's cells for energy, growth, and repair.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t4",
+      "question": "Which gas is released as a byproduct of photosynthesis?",
+      "options": [
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Methane"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Plants take in carbon dioxide and release oxygen during photosynthesis.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t5",
+      "question": "An organism that lives on a host and gets its food at the host's expense is called a:",
+      "options": [
+        "Predator",
+        "Parasite",
+        "Saprotroph",
+        "Autotroph"
+      ],
+      "correctAnswer": "B",
+      "explanation": "This is the definition of a parasite. The host is harmed in this relationship.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t6",
+      "question": "An animal that eats both plants and other animals is known as a(n):",
+      "options": [
+        "Herbivore",
+        "Carnivore",
+        "Autotroph",
+        "Omnivore"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Omnivores, like humans and bears, have a diet consisting of both plant and animal matter.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t7",
+      "question": "The Venus flytrap is an insectivorous plant because it:",
+      "options": [
+        "Hates insects",
+        "Gets all its food from insects",
+        "Grows in nutrient-poor soil and supplements its diet with insects",
+        "Is a type of fungus"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Insectivorous plants often live in soil that lacks certain nutrients (like nitrogen), so they trap insects to get these essential compounds.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "t8",
+      "question": "The food made by plants is stored in the form of:",
+      "options": [
+        "Glucose",
+        "Starch",
+        "Chlorophyll",
+        "Sunlight"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Plants produce glucose during photosynthesis but convert it into starch, a more complex carbohydrate, for efficient storage in leaves, roots, and stems.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "medium"
     }
-  ]
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Autotrophs vs. Heterotrophs",
+      "Photosynthesis",
+      "Types of Heterotrophic Nutrition (Parasitic, Saprotrophic)",
+      "Steps of Holozoic Nutrition"
+    ],
+    "commonMisconceptions": [
+      "All plants are autotrophs.",
+      "Animals digest food in their stomach only.",
+      "Mushrooms are plants."
+    ],
+    "realWorldExamples": [
+      "Watering a plant to help it perform photosynthesis.",
+      "A mosquito (parasite) biting a person.",
+      "A compost pile where saprotrophs break down vegetable scraps."
+    ]
+  },
+  "interactiveElement": {
+    "type": "label-diagram",
+    "title": "Label the Diagram!",
+    "description": "Tap on each blank label to reveal the correct name.",
+    "data": {
+      "image": "Diagram showing adaptation features of a cactus and polar bear",
+      "labels": [
+        {
+          "id": 1,
+          "x": 20,
+          "y": 30,
+          "answer": "Spines",
+          "hint": "Modified leaves to reduce water loss"
+        },
+        {
+          "id": 2,
+          "x": 20,
+          "y": 60,
+          "answer": "Fleshy Stem",
+          "hint": "Stores water in desert"
+        },
+        {
+          "id": 3,
+          "x": 70,
+          "y": 30,
+          "answer": "Thick Fur",
+          "hint": "Insulation against cold"
+        },
+        {
+          "id": 4,
+          "x": 70,
+          "y": 60,
+          "answer": "Layer of Fat",
+          "hint": "Blubber for warmth in polar regions"
+        },
+        {
+          "id": 5,
+          "x": 45,
+          "y": 85,
+          "answer": "Webbed Feet",
+          "hint": "For swimming in cold water"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Nutrition in Living Organisms",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "activity",
+        "question": "Classify according to food-type.\ntiger, cow, vulture, bacteria, deer, goat,\nhuman, fungus, lion, sparrow, buffalo,\nfrog, cockroach, tick.",
+        "subQuestions": []
+      },
+      {
+        "number": 2,
+        "type": "match_pairs",
+        "question": "Match the pairs.\nGroup ‘A’\nGroup ‘B’\n(1) Parasitic plant\n(a) Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant\n(d) Cuscuta",
+        "subQuestions": [
+          "Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant",
+          "Cuscuta"
+        ]
+      },
+      {
+        "number": 3,
+        "type": "give_reasons",
+        "question": "Answer the following questions in\nyour own words.\n(a) Why do living organisms need\nnutrition ?\n(b) Explain the process of production of\nfood in plants.\n(c) What is meant by parasitic plants ?\nName their different types with\nexamples of each.\n(d) Explain the various steps of nutrition\nin animals.\n(e)",
+        "subQuestions": [
+          "Why do living organisms need\nnutrition ?",
+          "Explain the process of production of\nfood in plants.",
+          "What is meant by parasitic plants ?\nName their different types with\nexamples of each.",
+          "Explain the various steps of nutrition\nin animals.",
+          "Name some unicellular organisms\nin which all life-processes take\nplace within their unicellular body."
+        ]
+      },
+      {
+        "number": 4,
+        "type": "give_reasons",
+        "question": "Give reasons.\n(a) Insectivorous plants are attractively\ncoloured.\n(b) Butterflies have a long tube-like\nproboscis.",
+        "subQuestions": [
+          "Insectivorous plants are attractively\ncoloured.",
+          "Butterflies have a long tube-like\nproboscis."
+        ]
+      },
+      {
+        "number": 5,
+        "type": "activity",
+        "question": "Prepare and complete the flowchart\naccording to type of nutrition.\nNutrition\nPlants\nAutotrophic\nInsectivorous\nAnimals\nParasitic\nEctoparasitic\n33",
+        "subQuestions": []
+      },
+      {
+        "number": 6,
+        "type": "give_reasons",
+        "question": "Think and answer.\n(a) We prepare a variety of foodstuffs\nand dishes at home. Are we then\nautotrophic organisms ?\n(b) Which organisms are greater in\nnumber - autotrophs or heterotrophs ?\nWhy ?\n(c) The number of heterotrophs found\nin desert regions is smaller. However,\nthey are found in greater number",
+        "subQuestions": [
+          "We prepare a variety of foodstuffs\nand dishes at home. Are we then\nautotrophic organisms ?",
+          "Which organisms are greater in\nnumber - autotrophs or heterotrophs ?\nWhy ?",
+          "The number of heterotrophs found\nin desert regions is smaller. However,\nthey are found in greater numbers\nin the sea. Why is this so ?",
+          "What damage or harm do\nectoparasitic\nand\nendoparasitic\nanimals cause ?",
+          "Why is plant food not produced in\nany other parts of the plant except\nthe green ones ?"
+        ]
+      }
+    ],
+    "rawText": "Exercise\n1. Classify according to food-type.\ntiger, cow, vulture, bacteria, deer, goat,\nhuman, fungus, lion, sparrow, buffalo,\nfrog, cockroach, tick.\n2. Match the pairs.\nGroup ‘A’\nGroup ‘B’\n(1) Parasitic plant\n(a) Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant\n(d) Cuscuta\n3. Answer the following questions in\nyour own words.\n(a) Why do living organisms need\nnutrition ?\n(b) Explain the process of production of\nfood in plants.\n(c) What is meant by parasitic plants ?\nName their different types with\nexamples of each.\n(d) Explain the various steps of nutrition\nin animals.\n(e) Name some unicellular organisms\nin which all life-processes take\nplace within their unicellular body.\n4. Give reasons.\n(a) Insectivorous plants are attractively\ncoloured.\n(b) Butterflies have a long tube-like\nproboscis.\n5. Prepare and complete the flowchart\naccording to type of nutrition.\nNutrition\nPlants\nAutotrophic\nInsectivorous\nAnimals\nParasitic\nEctoparasitic\n33\n6. Think and answer.\n(a) We prepare a variety of foodstuffs\nand dishes at home. Are we then\nautotrophic organisms ?\n(b) Which organisms are greater in\nnumber - autotrophs or heterotrophs ?\nWhy ?\n(c) The number of heterotrophs found\nin desert regions is smaller. However,\nthey are found in greater numbers\nin the sea. Why is this so ?\n(d) What damage or harm do\nectoparasitic\nand\nendoparasitic\nanimals cause ?\n(e) Why is plant food not produced in\nany other parts of the plant except\nthe green ones ?",
+    "qaCards": [
+      {
+        "question": "What is the role of chlorophyll in photosynthesis?",
+        "answer": "Chlorophyll is the green pigment in leaves that captures the light energy from the sun needed for photosynthesis.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Fungi and mushrooms are examples of which type of nutrition?",
+        "answer": "Saprotrophs, like fungi, get their nutrients by decomposing dead organic matter.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The five steps of holozoic nutrition are Ingestion, Digestion, Absorption, _______, and Egestion.",
+        "answer": "Assimilation is the step where the absorbed nutrients are used by the body's cells for energy, growth, and repair.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which gas is released as a byproduct of photosynthesis?",
+        "answer": "Plants take in carbon dioxide and release oxygen during photosynthesis.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "An organism that lives on a host and gets its food at the host's expense is called a:",
+        "answer": "This is the definition of a parasite. The host is harmed in this relationship.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "An animal that eats both plants and other animals is known as a(n):",
+        "answer": "Omnivores, like humans and bears, have a diet consisting of both plant and animal matter.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Venus flytrap is an insectivorous plant because it:",
+        "answer": "Insectivorous plants often live in soil that lacks certain nutrients (like nitrogen), so they trap insects to get these essential compounds.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The food made by plants is stored in the form of:",
+        "answer": "Plants produce glucose during photosynthesis but convert it into starch, a more complex carbohydrate, for efficient storage in leaves, roots, and stems.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant",
+        "modelAnswer": "Mushroom (2) Insectivorous plant (b) Lichen (3) Saprophytic plant (c) Drosera (4) Symbiotic plant This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Answer the following questions in\nyour own words.\n(a) Why do living organisms need\nnutrition ?\n(b) Explain the process of production of\nfood in plants.\n(c) What is meant by parasitic plants ?\nName their different types with\nexamples of each.\n(d) Explain the various steps of nutrition\nin animals.\n(e)",
+        "modelAnswer": "Answer the following questions in your own words. (a) Why do living organisms need nutrition ? (b) Explain the process of production of food in plants. (c) What is meant by parasitic plants ? Name their different types with examples of each. (d) Explain the various steps of nutrition in animals. (e) This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Answer the following questions in your own words.",
+          "(a) Why do living organisms need nutrition ?",
+          "(b) Explain the process of production of food in plants.",
+          "(c) What is meant by parasitic plants ?"
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Why do living organisms need\nnutrition ?",
+        "modelAnswer": "Why do living organisms need nutrition ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Why do living organisms need nutrition ?",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Explain the process of production of\nfood in plants.",
+        "modelAnswer": "Plants produce glucose during photosynthesis but convert it into starch, a more complex carbohydrate, for efficient storage in leaves, roots, and stems. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Explain the process of production of\nfood in plants.",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What is meant by parasitic plants ?\nName their different types with\nexamples of each.",
+        "modelAnswer": "Plants produce glucose during photosynthesis but convert it into starch, a more complex carbohydrate, for efficient storage in leaves, roots, and stems. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What is meant by parasitic plants ?\nName their different types with\nexamples of each.",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Explain the various steps of nutrition\nin animals.",
+        "modelAnswer": "Assimilation is the step where the absorbed nutrients are used by the body's cells for energy, growth, and repair. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Explain the various steps of nutrition\nin animals.",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Name some unicellular organisms\nin which all life-processes take\nplace within their unicellular body.",
+        "modelAnswer": "Name some unicellular organisms in which all life-processes take place within their unicellular body. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Name some unicellular organisms in which all life-processes take place within their unicellular body.",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "Give reasons.\n(a) Insectivorous plants are attractively\ncoloured.\n(b) Butterflies have a long tube-like\nproboscis.",
+        "modelAnswer": "Give reasons. (a) Insectivorous plants are attractively coloured. (b) Butterflies have a long tube-like proboscis. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Give reasons.",
+          "(a) Insectivorous plants are attractively coloured.",
+          "(b) Butterflies have a long tube-like proboscis.",
+          "This concept is explained in this chapter with its causes, features, and outcomes."
+        ],
+        "marks": 5
+      }
+    ]
+  }
 }

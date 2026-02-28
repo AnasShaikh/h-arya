@@ -10,7 +10,12 @@
     {
       "id": "q1",
       "question": "In the expression 4x², what is the coefficient of x²?",
-      "options": ["4", "x", "2", "x²"],
+      "options": [
+        "4",
+        "x",
+        "2",
+        "x²"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
@@ -18,7 +23,12 @@
     {
       "id": "q2",
       "question": "Which of the following is a binomial?",
-      "options": ["2x - 3y", "5y", "x² - 5x + 6", "4x⁴ - 7x² + 9 - 5x³"],
+      "options": [
+        "2x - 3y",
+        "5y",
+        "x² - 5x + 6",
+        "4x⁴ - 7x² + 9 - 5x³"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "(2x + 4y) + (3x + 2y) = ?",
-      "options": ["5x + 6y", "5x + 2y", "6x + 6y", "5xy"],
+      "options": [
+        "5x + 6y",
+        "5x + 2y",
+        "6x + 6y",
+        "5xy"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 3
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "Subtract (3xy - 16z) from (4xy - 9z).",
-      "options": ["xy + 7z", "xy - 7z", "7xy + 7z", "-xy - 25z"],
+      "options": [
+        "xy + 7z",
+        "xy - 7z",
+        "7xy + 7z",
+        "-xy - 25z"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 4
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "The length of a rectangle is (2x+7)m and breadth is (x+2)m. What is its area?",
-      "options": ["2x² + 11x + 14 m²", "3x + 9 m²", "2x² + 9x + 14 m²", "4x + 18 m²"],
+      "options": [
+        "2x² + 11x + 14 m²",
+        "3x + 9 m²",
+        "2x² + 9x + 14 m²",
+        "4x + 18 m²"
+      ],
       "correctAnswer": "A",
       "difficulty": "hard",
       "conceptId": 5
@@ -59,10 +84,22 @@
       "content": "A variable is a letter representing an unknown or changing quantity. In 3n+1, n is the variable. The coefficient is the number multiplying the variable: in 4x², the coefficient of x² is 4. In -x, the coefficient of x is -1. A term is an expression where multiplication is the only operation.",
       "pageReference": "55-56",
       "examples": [
-        { "icon": "🔢", "text": "3n+1: n is variable, pattern for number of sticks" },
-        { "icon": "📐", "text": "Perimeter of rectangle = 2l + 2b = 2(l+b)" },
-        { "icon": "🔤", "text": "In 4x²: coefficient=4, variable=x²" },
-        { "icon": "⚠️", "text": "In -15t: coefficient=-15 (negative coefficients!)" }
+        {
+          "icon": "🔢",
+          "text": "3n+1: n is variable, pattern for number of sticks"
+        },
+        {
+          "icon": "📐",
+          "text": "Perimeter of rectangle = 2l + 2b = 2(l+b)"
+        },
+        {
+          "icon": "🔤",
+          "text": "In 4x²: coefficient=4, variable=x²"
+        },
+        {
+          "icon": "⚠️",
+          "text": "In -15t: coefficient=-15 (negative coefficients!)"
+        }
       ],
       "keyPoints": [
         "Variable: a letter representing a changing quantity",
@@ -84,10 +121,22 @@
       "content": "Expressions are named by their number of terms. Monomial: 1 term (e.g., 4x, 5m/6). Binomial: 2 terms (e.g., 2x-3y). Trinomial: 3 terms (e.g., x²-5x+6). Polynomial: more than 3 terms. Like terms have the same variable with the same power; unlike terms cannot be directly added.",
       "pageReference": "56",
       "examples": [
-        { "icon": "1️⃣", "text": "Monomial: 4x, 5m/6, -7, 11mn" },
-        { "icon": "2️⃣", "text": "Binomial: 2x-3y, 3mn-5m²n" },
-        { "icon": "3️⃣", "text": "Trinomial: x²-5x+6, a+b+c" },
-        { "icon": "➕", "text": "Polynomial: a³-3a²b+3ab-b³" }
+        {
+          "icon": "1️⃣",
+          "text": "Monomial: 4x, 5m/6, -7, 11mn"
+        },
+        {
+          "icon": "2️⃣",
+          "text": "Binomial: 2x-3y, 3mn-5m²n"
+        },
+        {
+          "icon": "3️⃣",
+          "text": "Trinomial: x²-5x+6, a+b+c"
+        },
+        {
+          "icon": "➕",
+          "text": "Polynomial: a³-3a²b+3ab-b³"
+        }
       ],
       "keyPoints": [
         "Monomial: 1 term; Binomial: 2 terms; Trinomial: 3 terms",
@@ -109,10 +158,22 @@
       "content": "To add algebraic expressions, add the coefficients of like terms. For example, 3x + 4x = 7x (add coefficients: 3+4=7). Unlike terms cannot be simplified further: 3x + 4y stays as 3x + 4y. Use horizontal arrangement or vertical arrangement.",
       "pageReference": "57",
       "examples": [
-        { "icon": "➕", "text": "3x + 4x = (3+4)x = 7x" },
-        { "icon": "📊", "text": "(2x+4y) + (3x+2y) = 5x+6y" },
-        { "icon": "🔢", "text": "(9x²y²-7xy) + (3x²y²+4xy) = 12x²y²-3xy" },
-        { "icon": "⚠️", "text": "3x + 4y ≠ 7xy (unlike terms cannot be added!)" }
+        {
+          "icon": "➕",
+          "text": "3x + 4x = (3+4)x = 7x"
+        },
+        {
+          "icon": "📊",
+          "text": "(2x+4y) + (3x+2y) = 5x+6y"
+        },
+        {
+          "icon": "🔢",
+          "text": "(9x²y²-7xy) + (3x²y²+4xy) = 12x²y²-3xy"
+        },
+        {
+          "icon": "⚠️",
+          "text": "3x + 4y ≠ 7xy (unlike terms cannot be added!)"
+        }
       ],
       "keyPoints": [
         "Add coefficients of like terms",
@@ -134,10 +195,22 @@
       "content": "To subtract algebraic expressions, add the additive inverse. Change the sign of every term in the expression being subtracted, then add. For example: (16x+23y+12z) - (9x-27y+14z) = 16x+23y+12z - 9x+27y-14z = 7x+50y-2z.",
       "pageReference": "58",
       "examples": [
-        { "icon": "➖", "text": "(4xy-9z) - (3xy-16z) = 4xy-9z-3xy+16z = xy+7z" },
-        { "icon": "🔄", "text": "Change signs of all terms being subtracted" },
-        { "icon": "📊", "text": "(5x+4y+7z) - (x+2y+3z) = 4x+2y+4z" },
-        { "icon": "✅", "text": "Vertical method: write second expression, change all signs, add" }
+        {
+          "icon": "➖",
+          "text": "(4xy-9z) - (3xy-16z) = 4xy-9z-3xy+16z = xy+7z"
+        },
+        {
+          "icon": "🔄",
+          "text": "Change signs of all terms being subtracted"
+        },
+        {
+          "icon": "📊",
+          "text": "(5x+4y+7z) - (x+2y+3z) = 4x+2y+4z"
+        },
+        {
+          "icon": "✅",
+          "text": "Vertical method: write second expression, change all signs, add"
+        }
       ],
       "keyPoints": [
         "Subtraction = add the additive inverse",
@@ -159,10 +232,22 @@
       "content": "Monomial × monomial: multiply coefficients and variables separately. Binomial × monomial: distribute (multiply each term). Binomial × binomial: FOIL or expand. Equations: transpose terms by changing their sign when moving across the = sign.",
       "pageReference": "58-60",
       "examples": [
-        { "icon": "✖️", "text": "3x × 12y = 36xy (multiply coefficients: 3×12=36)" },
-        { "icon": "📐", "text": "x(x+y) = x² + xy" },
-        { "icon": "🏠", "text": "(2x+7)(x+2) = 2x²+4x+7x+14 = 2x²+11x+14" },
-        { "icon": "🔢", "text": "Equation: 2x+2=8 → 2x=6 → x=3" }
+        {
+          "icon": "✖️",
+          "text": "3x × 12y = 36xy (multiply coefficients: 3×12=36)"
+        },
+        {
+          "icon": "📐",
+          "text": "x(x+y) = x² + xy"
+        },
+        {
+          "icon": "🏠",
+          "text": "(2x+7)(x+2) = 2x²+4x+7x+14 = 2x²+11x+14"
+        },
+        {
+          "icon": "🔢",
+          "text": "Equation: 2x+2=8 → 2x=6 → x=3"
+        }
       ],
       "keyPoints": [
         "Monomial × monomial: multiply signs, coefficients, then variables",
@@ -179,91 +264,161 @@
     {
       "id": "q1",
       "question": "Classify: 1 - 8a - 7a² - 7a³",
-      "options": ["Polynomial (4 terms)", "Trinomial", "Binomial", "Monomial"],
+      "options": [
+        "Polynomial (4 terms)",
+        "Trinomial",
+        "Binomial",
+        "Monomial"
+      ],
       "correctAnswer": "A",
       "explanation": "The expression has 4 terms (1, -8a, -7a², -7a³), so it is a polynomial.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "56"
     },
     {
       "id": "q2",
       "question": "Add: 9p + 16q and 13p + 2q",
-      "options": ["22p + 18q", "22p + 14q", "13p + 18q", "22p + 16q"],
+      "options": [
+        "22p + 18q",
+        "22p + 14q",
+        "13p + 18q",
+        "22p + 16q"
+      ],
       "correctAnswer": "A",
       "explanation": "Add like terms: (9+13)p = 22p; (16+2)q = 18q. Answer: 22p + 18q",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "57"
     },
     {
       "id": "q3",
       "question": "Subtract (3xy - 16z) from (4xy - 9z).",
-      "options": ["xy + 7z", "xy - 7z", "7xy - 25z", "7xy + 7z"],
+      "options": [
+        "xy + 7z",
+        "xy - 7z",
+        "7xy - 25z",
+        "7xy + 7z"
+      ],
       "correctAnswer": "A",
       "explanation": "(4xy-9z) - (3xy-16z) = 4xy-9z-3xy+16z = xy+7z",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "58"
     },
     {
       "id": "q4",
       "question": "16xy × 18xy = ?",
-      "options": ["288x²y²", "288xy", "34x²y²", "288x²y"],
+      "options": [
+        "288x²y²",
+        "288xy",
+        "34x²y²",
+        "288x²y"
+      ],
       "correctAnswer": "A",
       "explanation": "16×18=288; x×x=x²; y×y=y². Result: 288x²y²",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "59"
     },
     {
       "id": "q5",
       "question": "Simplify: (3x - 11y) - (17x + 13y)",
-      "options": ["-14x - 24y", "14x + 24y", "-14x + 2y", "20x + 2y"],
+      "options": [
+        "-14x - 24y",
+        "14x + 24y",
+        "-14x + 2y",
+        "20x + 2y"
+      ],
       "correctAnswer": "A",
       "explanation": "3x-11y-17x-13y = (3-17)x + (-11-13)y = -14x - 24y = -2(7x+12y)",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "60"
     },
     {
       "id": "q6",
       "question": "The product of (23x²y³z) and (-15x³yz²) is _____.",
-      "options": ["-345x⁵y⁴z³", "345x⁵y⁴z³", "-345x⁶y⁴z³", "345x⁵y³z²"],
+      "options": [
+        "-345x⁵y⁴z³",
+        "345x⁵y⁴z³",
+        "-345x⁶y⁴z³",
+        "345x⁵y³z²"
+      ],
       "correctAnswer": "A",
       "explanation": "23×(-15)=-345; x²×x³=x⁵; y³×y=y⁴; z×z²=z³. Answer: -345x⁵y⁴z³",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "60"
     },
     {
       "id": "q7",
       "question": "Solve: 4x + 1/2 = 9/2",
-      "options": ["x=1", "x=2", "x=0.5", "x=4"],
+      "options": [
+        "x=1",
+        "x=2",
+        "x=0.5",
+        "x=4"
+      ],
       "correctAnswer": "A",
       "explanation": "4x = 9/2 - 1/2 = 8/2 = 4. So x = 4/4 = 1.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "60"
     },
     {
       "id": "q8",
       "question": "Which of the following are like terms?",
-      "options": ["2x and 5x", "7xy and 9y²", "8mn and 8m²n²", "3a and 3b"],
+      "options": [
+        "2x and 5x",
+        "7xy and 9y²",
+        "8mn and 8m²n²",
+        "3a and 3b"
+      ],
       "correctAnswer": "A",
       "explanation": "Like terms have the same variable with the same power. 2x and 5x both have variable x with power 1.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "56"
     },
     {
       "id": "q9",
       "question": "A rectangle is (8x+5)cm long and (5x+3)cm broad. What is its area?",
-      "options": ["40x²+49x+15 cm²", "13x+8 cm²", "40x²+24x+15 cm²", "40x²+49x+8 cm²"],
+      "options": [
+        "40x²+49x+15 cm²",
+        "13x+8 cm²",
+        "40x²+24x+15 cm²",
+        "40x²+49x+8 cm²"
+      ],
       "correctAnswer": "A",
       "explanation": "(8x+5)(5x+3) = 8x(5x+3)+5(5x+3) = 40x²+24x+25x+15 = 40x²+49x+15",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "59"
     },
     {
       "id": "q10",
       "question": "Solve: 2(x-4) = 4x + 2",
-      "options": ["x = -5", "x = 5", "x = -3", "x = 3"],
+      "options": [
+        "x = -5",
+        "x = 5",
+        "x = -3",
+        "x = 3"
+      ],
       "correctAnswer": "A",
       "explanation": "2x-8=4x+2 → 2x-4x=2+8 → -2x=10 → x=-5",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "60"
     }
   ],
@@ -291,7 +446,132 @@
       "Age problems: if Rakesh is 5 years younger than Sania: Sania-Rakesh=5"
     ],
     "formulas": [
-      { "formula": "(a+b)(c+d) = ac+ad+bc+bd", "explanation": "Distributive law for multiplying two binomials" }
+      {
+        "formula": "(a+b)(c+d) = ac+ad+bc+bd",
+        "explanation": "Distributive law for multiplying two binomials"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Arrange the pieces to form the correct mathematical expression.",
+    "data": {
+      "formula": "(a + b)² = a² + 2ab + b²",
+      "components": [
+        "(a + b)²",
+        "=",
+        "a²",
+        "+",
+        "2ab",
+        "+",
+        "b²"
+      ],
+      "explanation": "This is the algebraic identity for the square of a sum."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Algebraic Expressions and Operations on them",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Classify: 1 - 8a - 7a² - 7a³",
+        "answer": "The expression has 4 terms (1, -8a, -7a², -7a³), so it is a polynomial.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Add: 9p + 16q and 13p + 2q",
+        "answer": "Add like terms: (9+13)p = 22p; (16+2)q = 18q. Answer: 22p + 18q",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Subtract (3xy - 16z) from (4xy - 9z).",
+        "answer": "(4xy-9z) - (3xy-16z) = 4xy-9z-3xy+16z = xy+7z",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "16xy × 18xy = ?",
+        "answer": "16×18=288; x×x=x²; y×y=y². Result: 288x²y²",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Simplify: (3x - 11y) - (17x + 13y)",
+        "answer": "3x-11y-17x-13y = (3-17)x + (-11-13)y = -14x - 24y = -2(7x+12y)",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The product of (23x²y³z) and (-15x³yz²) is _____.",
+        "answer": "23×(-15)=-345; x²×x³=x⁵; y³×y=y⁴; z×z²=z³. Answer: -345x⁵y⁴z³",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Solve: 4x + 1/2 = 9/2",
+        "answer": "4x = 9/2 - 1/2 = 8/2 = 4. So x = 4/4 = 1.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following are like terms?",
+        "answer": "Like terms have the same variable with the same power. 2x and 5x both have variable x with power 1.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A rectangle is (8x+5)cm long and (5x+3)cm broad. What is its area?",
+        "answer": "(8x+5)(5x+3) = 8x(5x+3)+5(5x+3) = 40x²+24x+25x+15 = 40x²+49x+15",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Solve: 2(x-4) = 4x + 2",
+        "answer": "2x-8=4x+2 → 2x-4x=2+8 → -2x=10 → x=-5",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "question": "Explain the concept of a variable in an algebraic expression using an example.",
+        "modelAnswer": "In mathematical expressions, when we do not know the exact value of a certain quantity, we use a letter in its place. This letter is called a variable, as its value can change depending on the situation. For example, if the number of sticks required to form squares is given by the rule 3n + 1, the letter 'n' acts as the variable. Combinations of such variables and numbers, like 3n + 1 or 2x + 3y, are known as algebraic expressions.",
+        "keyPoints": [
+          "A variable is a letter used to represent an unknown or changing quantity.",
+          "An example is 'n' in the expression 3n + 1.",
+          "Algebraic expressions are formed by combining variables, numbers, and mathematical operations.",
+          "Examples of expressions include 3n + 1, 3t, and 2(l + b)."
+        ],
+        "marks": 5
+      },
+      {
+        "question": "Define a 'term' in an algebraic expression and explain what a coefficient is with suitable examples.",
+        "modelAnswer": "A term is a specific part of an algebraic expression in which multiplication is the only mathematical operation involved. Within a given term, the numerical factor that multiplies the variables is called the coefficient. For instance, in the term 11mn, the number 11 is the coefficient of the variables m and n. Similarly, in the expression -15t, the coefficient is -15, and in the isolated term 'a', the implied coefficient is 1.",
+        "keyPoints": [
+          "A term involves only multiplication between its numerical and variable components.",
+          "An algebraic expression can consist of one or multiple terms added together.",
+          "The numerical factor of a term is called its coefficient.",
+          "For example, in the term -9x²y³, the coefficient is -9."
+        ],
+        "marks": 5
+      },
+      {
+        "question": "What is the primary difference between like terms and unlike terms? Provide examples of each.",
+        "modelAnswer": "Terms that possess the exact same variables raised to the exact same powers are referred to as like terms. For example, 2x, 5x, and -2/3 x are like terms because they all contain the single variable 'x' to the power of one. Conversely, unlike terms are those that either have different variables entirely or the same variables raised to different powers. Examples of unlike terms include 7xy, 9y², and -2xyz, as their variable components simply do not match.",
+        "keyPoints": [
+          "Like terms have identical variables with the exact same powers.",
+          "An example of like terms is -5x²y and 6/7 yx².",
+          "Unlike terms contain different variables or different powers of the same variables.",
+          "An example of unlike terms is 8mn, 8m²n², and 8m³n."
+        ],
+        "marks": 5
+      },
+      {
+        "question": "How are algebraic expressions classified based on the total number of terms they contain?",
+        "modelAnswer": "Algebraic expressions are categorized and named based on the total number of terms they contain within them. An expression that consists of only a single term is called a monomial. Expressions that are made up of exactly two terms are known as binomials, while those with exactly three terms are called trinomials. If an expression contains more than three terms, it generally falls under the broader category known as polynomials.",
+        "keyPoints": [
+          "Expressions are systematically named according to the number of terms they possess.",
+          "A monomial is an expression with exactly one term.",
+          "A binomial is an expression with exactly two terms.",
+          "A trinomial has three terms, while expressions with more terms are polynomials."
+        ],
+        "marks": 5
+      }
     ]
   }
 }

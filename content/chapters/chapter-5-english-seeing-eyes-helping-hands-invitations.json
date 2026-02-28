@@ -265,7 +265,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The school project in the chapter is called 'Seeing Eyes, Helping Hands'. The chapter is about its inauguration and the different invitations used for the event.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "16"
     },
     {
@@ -279,7 +281,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A formal invitation covers 8 key points: who is organizing, what the event is, programme, inaugurator, presiding person, time, venue, and names.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "16-17"
     },
     {
@@ -293,7 +297,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A written notice is typically displayed on a school or office notice board. It is shorter and more concise than a formal printed invitation.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "17-18"
     },
     {
@@ -307,7 +313,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "After giving a telephone invitation, it is polite to confirm whether the guest will be attending the event.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "18-19"
     },
     {
@@ -321,7 +329,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "An oral personal invitation is given face-to-face, which makes it the most direct and warm of all invitation types.",
-      "conceptIds": [3, 4],
+      "conceptIds": [
+        3,
+        4
+      ],
       "pageReference": "19"
     },
     {
@@ -335,7 +346,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A question mark (?) is placed at the end of every question. For example: 'What time is the programme?'",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "20"
     },
     {
@@ -349,7 +362,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A hyphen (-) is used to join the parts of a compound word. For example: well-known, mother-in-law, twenty-one.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "20"
     },
     {
@@ -363,7 +378,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "An exclamation mark (!) is used to show strong feeling. 'What a wonderful programme!' expresses great admiration, so the exclamation mark is correct.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "20"
     }
   ],
@@ -395,5 +412,139 @@
       "Telephone invitations are common in Indian families for family gatherings and festivals"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Seeing Eyes Helping Hands",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "What is the name of the school project in the chapter?",
+        "answer": "The school project in the chapter is called 'Seeing Eyes, Helping Hands'. The chapter is about its inauguration and the different invitations used for the event.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many key points does a formal invitation cover?",
+        "answer": "A formal invitation covers 8 key points: who is organizing, what the event is, programme, inaugurator, presiding person, time, venue, and names.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which type of invitation is displayed on a notice board?",
+        "answer": "A written notice is typically displayed on a school or office notice board. It is shorter and more concise than a formal printed invitation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What must you do at the end of a telephone invitation?",
+        "answer": "After giving a telephone invitation, it is polite to confirm whether the guest will be attending the event.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which type of invitation is given face-to-face?",
+        "answer": "An oral personal invitation is given face-to-face, which makes it the most direct and warm of all invitation types.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which punctuation mark ends a question?",
+        "answer": "A question mark (?) is placed at the end of every question. For example: 'What time is the programme?'",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which punctuation mark is used in a compound word like 'well-known'?",
+        "answer": "A hyphen (-) is used to join the parts of a compound word. For example: well-known, mother-in-law, twenty-one.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which sentence uses punctuation correctly?",
+        "answer": "An exclamation mark (!) is used to show strong feeling. 'What a wonderful programme!' expresses great admiration, so the exclamation mark is correct.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What is the 'Seeing Eyes, Helping Hands' project about, as described in the chapter?",
+        "modelAnswer": "'Seeing Eyes, Helping Hands' is a special school project aimed at assisting those in need within the community. Through this initiative, students volunteer to help visually impaired individuals and others facing difficulties with their daily tasks. The project's inauguration is a significant event that requires inviting various guests and dignitaries. It teaches students important values like empathy, social responsibility, and the joy of helping others.",
+        "keyPoints": [
+          "A school project to assist people in need.",
+          "Students volunteer to help visually impaired individuals.",
+          "The inauguration is a major event requiring invitations.",
+          "Teaches empathy and social responsibility."
+        ]
+      },
+      {
+        "id": "la2",
+        "question": "Describe the features of a formal printed invitation used for the project's inauguration.",
+        "modelAnswer": "A formal printed invitation is used for special official occasions like the inauguration of the 'Seeing Eyes, Helping Hands' project. It includes essential details such as the names of the organizers, the event title, the inaugurator, and the person presiding over the function. The invitation also clearly states the exact time, date, and venue of the programme. These formal cards are printed and distributed to guests well in advance to ensure their presence.",
+        "keyPoints": [
+          "Used for official occasions like inaugurations.",
+          "Includes names of organizers, inaugurator, and presiding person.",
+          "Clearly states the exact date, time, and venue.",
+          "Printed and distributed to guests in advance."
+        ]
+      },
+      {
+        "id": "la3",
+        "question": "How does a written notice differ from a formal printed invitation?",
+        "modelAnswer": "A written notice is a shorter and simpler form of an invitation compared to a formal printed card. It is usually displayed publicly on a school or office notice board to announce an event to students and staff. While it includes the core details like the event name, date, time, and venue, it lacks the detailed formalities and elaborate design of a printed card. A notice is signed by an authority figure like the Principal or a teacher to validate the information.",
+        "keyPoints": [
+          "Shorter and simpler than a printed invitation.",
+          "Displayed publicly on notice boards for students and staff.",
+          "Contains core details but lacks elaborate formalities.",
+          "Signed by an authority figure to validate the information."
+        ]
+      },
+      {
+        "id": "la4",
+        "question": "What are the important points to remember while making an oral telephone invitation?",
+        "modelAnswer": "When giving an oral telephone invitation, it is essential to first introduce yourself politely and state the reason for calling. You must speak clearly and provide all the necessary details, including the name of the event, the time, and the venue. It is also important to request the person's presence warmly and respectfully. Finally, before ending the call, you should politely confirm whether the guest will be able to attend the programme.",
+        "keyPoints": [
+          "Introduce yourself politely and state the reason for calling.",
+          "Clearly provide the event name, time, and venue.",
+          "Warmly request the person's presence.",
+          "Confirm whether the guest will be able to attend."
+        ]
+      },
+      {
+        "id": "la5",
+        "question": "What are the different punctuation marks discussed in the chapter, and how are they used?",
+        "modelAnswer": "The chapter highlights the importance of using correct punctuation marks to make sentences clear and understandable. A full stop is used at the end of a complete statement, while a comma separates items in a list or pauses a sentence. A question mark is placed at the end of a question, and an exclamation mark is used to show strong feelings or emotions. Additionally, a hyphen connects parts of a compound word, and a dash is used to add extra information or indicate a pause.",
+        "keyPoints": [
+          "Full stop ends a statement, and a comma separates items.",
+          "Question mark ends a question.",
+          "Exclamation mark shows strong feelings or emotions.",
+          "Hyphen connects compound words, and a dash adds information."
+        ]
+      }
+    ]
   }
 }

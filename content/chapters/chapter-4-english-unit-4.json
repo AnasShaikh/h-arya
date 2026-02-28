@@ -10,7 +10,12 @@
     {
       "id": "q1",
       "question": "Who wrote 'Under the Greenwood Tree'?",
-      "options": ["William Shakespeare", "Arthur Conan Doyle", "Leo Tolstoy", "John Howard Payne"],
+      "options": [
+        "William Shakespeare",
+        "Arthur Conan Doyle",
+        "Leo Tolstoy",
+        "John Howard Payne"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
@@ -18,7 +23,12 @@
     {
       "id": "q2",
       "question": "In 'Unke Munke Timpetoo', what did Rohan really want for his birthday?",
-      "options": ["A table tennis set", "A pair of shoes", "A hand-knitted pullover", "Books"],
+      "options": [
+        "A table tennis set",
+        "A pair of shoes",
+        "A hand-knitted pullover",
+        "Books"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "In 'The Red-Headed League', what were the criminals actually doing while Mr Wilson copied the encyclopaedia?",
-      "options": ["Digging a tunnel to the bank", "Robbing Mr Wilson's shop", "Printing fake money", "Studying red hair dye"],
+      "options": [
+        "Digging a tunnel to the bank",
+        "Robbing Mr Wilson's shop",
+        "Printing fake money",
+        "Studying red hair dye"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 3
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "What is a modal auxiliary verb?",
-      "options": ["A helping verb that shows ability, possibility, permission etc.", "The main action verb in a sentence", "A describing word (adjective)", "A word that joins clauses"],
+      "options": [
+        "A helping verb that shows ability, possibility, permission etc.",
+        "The main action verb in a sentence",
+        "A describing word (adjective)",
+        "A word that joins clauses"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 4
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "What is the lesson of 'Papa Panov's Special Christmas'?",
-      "options": ["Jesus comes in the form of every person we help", "Christmas gifts should be expensive", "Old people should not live alone", "Dreams always come true literally"],
+      "options": [
+        "Jesus comes in the form of every person we help",
+        "Christmas gifts should be expensive",
+        "Old people should not live alone",
+        "Dreams always come true literally"
+      ],
       "correctAnswer": "A",
       "difficulty": "hard",
       "conceptId": 5
@@ -59,10 +84,22 @@
       "content": "Shakespeare's song from 'As You Like It' invites anyone who has given up ambition to come live freely in the forest. 'Home Sweet Home' by John Howard Payne is a beloved song about longing for one's home: 'Be it ever so humble, there's no place like home.' Both poems celebrate simple, natural joys over wealth and power.",
       "pageReference": "79-80, 95-96",
       "examples": [
-        { "icon": "🌳", "text": "'Come hither, come hither!' — Shakespeare's invitation to the simple life" },
-        { "icon": "🏡", "text": "'Be it ever so humble, there's no place like home'" },
-        { "icon": "🕊️", "text": "'No enemy but winter and rough weather' — nature is not cruel, only weather" },
-        { "icon": "🌙", "text": "'I gaze on the moon...And feel that my mother now thinks of her child'" }
+        {
+          "icon": "🌳",
+          "text": "'Come hither, come hither!' — Shakespeare's invitation to the simple life"
+        },
+        {
+          "icon": "🏡",
+          "text": "'Be it ever so humble, there's no place like home'"
+        },
+        {
+          "icon": "🕊️",
+          "text": "'No enemy but winter and rough weather' — nature is not cruel, only weather"
+        },
+        {
+          "icon": "🌙",
+          "text": "'I gaze on the moon...And feel that my mother now thinks of her child'"
+        }
       ],
       "keyPoints": [
         "Shakespeare (16th century): greatest English playwright",
@@ -84,10 +121,22 @@
       "content": "Rohan desperately wants a table tennis set for his birthday. His friend Muk tells him about a magic chant: 'Unke, Munke, Timpetoo'. They sneak into old Mrs Groover's garden at midnight and get caught. But Mrs Groover — feared former principal — is actually kind and lets Rohan finish his rounds. On his birthday, a mysterious parcel arrives from 'Unke, Munke, Timpetoo' containing the table tennis set!",
       "pageReference": "81-85",
       "examples": [
-        { "icon": "🌙", "text": "Midnight adventure: sneaking into garden, the dog barks, Mrs Groover comes out" },
-        { "icon": "🎁", "text": "Surprise birthday gift from 'Unke, Munke, Timpetoo'" },
-        { "icon": "☕", "text": "Mrs Groover invites Rohan for tea — 'she looked almost human!'" },
-        { "icon": "💡", "text": "Moral: Unke Munke Timpetoo = the magic of genuine human friendliness" }
+        {
+          "icon": "🌙",
+          "text": "Midnight adventure: sneaking into garden, the dog barks, Mrs Groover comes out"
+        },
+        {
+          "icon": "🎁",
+          "text": "Surprise birthday gift from 'Unke, Munke, Timpetoo'"
+        },
+        {
+          "icon": "☕",
+          "text": "Mrs Groover invites Rohan for tea — 'she looked almost human!'"
+        },
+        {
+          "icon": "💡",
+          "text": "Moral: Unke Munke Timpetoo = the magic of genuine human friendliness"
+        }
       ],
       "keyPoints": [
         "Superstition vs. reality: the 'magic' is really human kindness",
@@ -109,10 +158,22 @@
       "content": "Arthur Conan Doyle's Sherlock Holmes story: Mr Wilson's assistant Spaulding convinces him to join the 'Red-Headed League' — copying encyclopaedia for £4/week. When the League suddenly 'dissolves', Holmes investigates. The trick: the League kept Mr Wilson away from his shop while Spaulding (alias criminal Clay) dug a tunnel from Wilson's cellar to a nearby bank's gold vault!",
       "pageReference": "86-93",
       "examples": [
-        { "icon": "🔍", "text": "Holmes' clues: assistant works for half wages; dirty knees from digging" },
-        { "icon": "📖", "text": "The Red-Headed League: clever scheme to keep Mr Wilson at office daily" },
-        { "icon": "🏦", "text": "Tunnel: from Wilson's cellar to the City Bank's gold vault" },
-        { "icon": "⚖️", "text": "Clay caught red-handed in the cellar by Holmes, Watson and police" }
+        {
+          "icon": "🔍",
+          "text": "Holmes' clues: assistant works for half wages; dirty knees from digging"
+        },
+        {
+          "icon": "📖",
+          "text": "The Red-Headed League: clever scheme to keep Mr Wilson at office daily"
+        },
+        {
+          "icon": "🏦",
+          "text": "Tunnel: from Wilson's cellar to the City Bank's gold vault"
+        },
+        {
+          "icon": "⚖️",
+          "text": "Clay caught red-handed in the cellar by Holmes, Watson and police"
+        }
       ],
       "keyPoints": [
         "Detective story elements: mystery, investigation, clues, deduction, resolution",
@@ -134,10 +195,22 @@
       "content": "Modal auxiliary verbs (can, could, may, might, shall, will, would, should, must, ought to) modify the main verb to show ability, possibility, permission, or obligation. Prefixes add meaning at the front of a word (un-, dis-, non-, super-, inter-). Suffixes add meaning at the end (-er, -ness, -ly, -ful, -able, -ship, -hood).",
       "pageReference": "85, 89",
       "examples": [
-        { "icon": "📝", "text": "Can: ability — 'They can swim'; May: permission — 'May I come in?'" },
-        { "icon": "📝", "text": "Must: obligation — 'You must go'; Could: past ability/polite request" },
-        { "icon": "🔤", "text": "Prefix: un+tie=untie; dis+like=dislike; non+stop=non-stop" },
-        { "icon": "🔤", "text": "Suffix: teach+er=teacher; kind+ness=kindness; friend+ship=friendship" }
+        {
+          "icon": "📝",
+          "text": "Can: ability — 'They can swim'; May: permission — 'May I come in?'"
+        },
+        {
+          "icon": "📝",
+          "text": "Must: obligation — 'You must go'; Could: past ability/polite request"
+        },
+        {
+          "icon": "🔤",
+          "text": "Prefix: un+tie=untie; dis+like=dislike; non+stop=non-stop"
+        },
+        {
+          "icon": "🔤",
+          "text": "Suffix: teach+er=teacher; kind+ness=kindness; friend+ship=friendship"
+        }
       ],
       "keyPoints": [
         "Modal auxiliaries: can, could, may, might, shall, will, would, should, must",
@@ -159,10 +232,22 @@
       "content": "Old Papa Panov, a shoemaker in a Russian village, dreams Jesus will visit him on Christmas Day. He waits all day but only sees ordinary people — a cold road sweeper, a young mother with a barefoot baby, beggars. He feeds and helps each of them. At day's end, a voice reveals: 'I was hungry and you fed me... I came to you in everyone you helped.'",
       "pageReference": "99-103",
       "examples": [
-        { "icon": "🎄", "text": "Papa Panov reads Bible and dreams Jesus will visit on Christmas" },
-        { "icon": "🧹", "text": "Sweeper gets hot coffee; mother gets baby shoes (Papa's best work)" },
-        { "icon": "🍲", "text": "Beggars get hot soup and bread" },
-        { "icon": "💝", "text": "Jesus: 'I was hungry and you fed me... I came in everyone you helped'" }
+        {
+          "icon": "🎄",
+          "text": "Papa Panov reads Bible and dreams Jesus will visit on Christmas"
+        },
+        {
+          "icon": "🧹",
+          "text": "Sweeper gets hot coffee; mother gets baby shoes (Papa's best work)"
+        },
+        {
+          "icon": "🍲",
+          "text": "Beggars get hot soup and bread"
+        },
+        {
+          "icon": "💝",
+          "text": "Jesus: 'I was hungry and you fed me... I came in everyone you helped'"
+        }
       ],
       "keyPoints": [
         "Kindness to strangers = the greatest form of worship",
@@ -179,91 +264,161 @@
     {
       "id": "q1",
       "question": "In 'Under the Greenwood Tree', the poet invites someone who _____.",
-      "options": ["Has given up ambition and loves simple life", "Wants to become a king", "Is looking for treasure", "Wants to escape from winter"],
+      "options": [
+        "Has given up ambition and loves simple life",
+        "Wants to become a king",
+        "Is looking for treasure",
+        "Wants to escape from winter"
+      ],
       "correctAnswer": "A",
       "explanation": "'Who doth ambition shun, And loves to live i' the sun' — the poet invites those who have given up desire for wealth and power.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "79"
     },
     {
       "id": "q2",
       "question": "In 'Unke Munke Timpetoo', what was 'Unke, Munke, Timpetoo' really a symbol of?",
-      "options": ["Human kindness and genuine friendliness", "A magic spell that works", "A superstition from ancient times", "A brand name of a toy"],
+      "options": [
+        "Human kindness and genuine friendliness",
+        "A magic spell that works",
+        "A superstition from ancient times",
+        "A brand name of a toy"
+      ],
       "correctAnswer": "A",
       "explanation": "Mrs Groover says: 'I had wished to have somebody over for tea today. And here you are! Isn't it a perfect example of Unke, Munke, Timpetoo?' — the magic is real human connection and kindness.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "84"
     },
     {
       "id": "q3",
       "question": "How did Sherlock Holmes know the assistant was digging a tunnel?",
-      "options": ["The assistant's trouser knees were wrinkled and stained from digging", "He found soil on the assistant's shoes", "Mr Wilson told him", "He saw the tunnel entrance"],
+      "options": [
+        "The assistant's trouser knees were wrinkled and stained from digging",
+        "He found soil on the assistant's shoes",
+        "Mr Wilson told him",
+        "He saw the tunnel entrance"
+      ],
       "correctAnswer": "A",
       "explanation": "When Clay answered the door, Holmes noted his trouser knees were wrinkled and stained — confirming he was digging.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "92"
     },
     {
       "id": "q4",
       "question": "Which of these is a modal auxiliary verb?",
-      "options": ["Can", "Run", "Beautiful", "Quickly"],
+      "options": [
+        "Can",
+        "Run",
+        "Beautiful",
+        "Quickly"
+      ],
       "correctAnswer": "A",
       "explanation": "Modal auxiliary verbs (can, could, may, might, shall, will, should, must, etc.) help the main verb show ability, possibility, permission, or obligation.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "89"
     },
     {
       "id": "q5",
       "question": "In 'Papa Panov', what did the voice tell Papa Panov at the end of the day?",
-      "options": ["'I came to you in everyone you helped and welcomed'", "'I will visit you next Christmas'", "'You must go to church to see me'", "'The gifts you gave were not enough'"],
+      "options": [
+        "'I came to you in everyone you helped and welcomed'",
+        "'I will visit you next Christmas'",
+        "'You must go to church to see me'",
+        "'The gifts you gave were not enough'"
+      ],
       "correctAnswer": "A",
       "explanation": "'I was hungry and you fed me... I came to you today in everyone of those you helped and welcomed.' — Jesus appeared in the forms of all those Papa Panov helped.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "103"
     },
     {
       "id": "q6",
       "question": "The moral of 'Home Sweet Home' is _____.",
-      "options": ["No matter how humble, home is the most precious place", "Palace life is better than cottage life", "Travelling the world brings happiness", "Money can buy any happiness"],
+      "options": [
+        "No matter how humble, home is the most precious place",
+        "Palace life is better than cottage life",
+        "Travelling the world brings happiness",
+        "Money can buy any happiness"
+      ],
       "correctAnswer": "A",
       "explanation": "'Be it ever so humble, there's no place like home' — the poet values his simple cottage over all the splendour of the world.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "95"
     },
     {
       "id": "q7",
       "question": "Why did Spaulding (Clay) work for Mr Wilson at half wages?",
-      "options": ["To use Wilson's cellar to dig a tunnel to the bank", "He needed the job experience", "He was Wilson's relative", "He wanted to learn about red hair dye"],
+      "options": [
+        "To use Wilson's cellar to dig a tunnel to the bank",
+        "He needed the job experience",
+        "He was Wilson's relative",
+        "He wanted to learn about red hair dye"
+      ],
       "correctAnswer": "A",
       "explanation": "Clay needed access to Wilson's cellar to dig the tunnel to the bank's gold vault. Working for half wages was his way of gaining that access.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "92"
     },
     {
       "id": "q8",
       "question": "What gift did Papa Panov give to the young mother's baby?",
-      "options": ["A pair of tiny leather shoes — the best he ever made", "A warm shawl", "Hot milk only", "Money to buy shoes"],
+      "options": [
+        "A pair of tiny leather shoes — the best he ever made",
+        "A warm shawl",
+        "Hot milk only",
+        "Money to buy shoes"
+      ],
       "correctAnswer": "A",
       "explanation": "Papa Panov had kept a perfect pair of tiny leather shoes — the best he'd ever made — for Jesus. He decided to give them to the cold-footed baby instead.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "102"
     },
     {
       "id": "q9",
       "question": "Which is an example of a prefix?",
-      "options": ["dis+like = dislike", "teach+er = teacher", "kind+ness = kindness", "friend+ship = friendship"],
+      "options": [
+        "dis+like = dislike",
+        "teach+er = teacher",
+        "kind+ness = kindness",
+        "friend+ship = friendship"
+      ],
       "correctAnswer": "A",
       "explanation": "A prefix is added at the FRONT of a word: 'dis' + 'like' = 'dislike'. The others are suffixes (added at the end).",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "85"
     },
     {
       "id": "q10",
       "question": "Synonyms are words that _____.",
-      "options": ["Have the same or nearly the same meaning", "Have opposite meanings", "Sound the same but mean differently", "Are from different languages"],
+      "options": [
+        "Have the same or nearly the same meaning",
+        "Have opposite meanings",
+        "Sound the same but mean differently",
+        "Are from different languages"
+      ],
       "correctAnswer": "A",
       "explanation": "Synonyms are words from the same language with the same or nearly the same meaning. Example: good–nice–pretty.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "93"
     }
   ],
@@ -293,8 +448,175 @@
       "Home Sweet Home: soldiers, migrants and students living away from home"
     ],
     "formulas": [
-      { "formula": "Prefix + Root = New word", "explanation": "e.g., un+tie=untie, dis+like=dislike, non+stop=non-stop" },
-      { "formula": "Root + Suffix = New word", "explanation": "e.g., teach+er=teacher, kind+ness=kindness, friend+ship=friendship" }
+      {
+        "formula": "Prefix + Root = New word",
+        "explanation": "e.g., un+tie=untie, dis+like=dislike, non+stop=non-stop"
+      },
+      {
+        "formula": "Root + Suffix = New word",
+        "explanation": "e.g., teach+er=teacher, kind+ness=kindness, friend+ship=friendship"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Unit 4",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "In 'Under the Greenwood Tree', the poet invites someone who _____.",
+        "answer": "'Who doth ambition shun, And loves to live i' the sun' — the poet invites those who have given up desire for wealth and power.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'Unke Munke Timpetoo', what was 'Unke, Munke, Timpetoo' really a symbol of?",
+        "answer": "Mrs Groover says: 'I had wished to have somebody over for tea today. And here you are! Isn't it a perfect example of Unke, Munke, Timpetoo?' — the magic is real human connection and kindness.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How did Sherlock Holmes know the assistant was digging a tunnel?",
+        "answer": "When Clay answered the door, Holmes noted his trouser knees were wrinkled and stained — confirming he was digging.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is a modal auxiliary verb?",
+        "answer": "Modal auxiliary verbs (can, could, may, might, shall, will, should, must, etc.) help the main verb show ability, possibility, permission, or obligation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'Papa Panov', what did the voice tell Papa Panov at the end of the day?",
+        "answer": "'I was hungry and you fed me... I came to you today in everyone of those you helped and welcomed.' — Jesus appeared in the forms of all those Papa Panov helped.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The moral of 'Home Sweet Home' is _____.",
+        "answer": "'Be it ever so humble, there's no place like home' — the poet values his simple cottage over all the splendour of the world.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why did Spaulding (Clay) work for Mr Wilson at half wages?",
+        "answer": "Clay needed access to Wilson's cellar to dig the tunnel to the bank's gold vault. Working for half wages was his way of gaining that access.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What gift did Papa Panov give to the young mother's baby?",
+        "answer": "Papa Panov had kept a perfect pair of tiny leather shoes — the best he'd ever made — for Jesus. He decided to give them to the cold-footed baby instead.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which is an example of a prefix?",
+        "answer": "A prefix is added at the FRONT of a word: 'dis' + 'like' = 'dislike'. The others are suffixes (added at the end).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Synonyms are words that _____.",
+        "answer": "Synonyms are words from the same language with the same or nearly the same meaning. Example: good–nice–pretty.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "In 'Unke Munke Timpetoo', what was 'Unke, Munke, Timpetoo' really a symbol of?",
+        "modelAnswer": "On the surface, 'Unke Munke Timpetoo' is just a set of made-up nonsense words with no literal translation. However, in the story, it symbolises the true magic of human kindness and genuine friendship. Rohan's belief in it gave him courage, and Mrs Groover's kindness in sending the table tennis set was the real magic. Ultimately, it represents believing in hope and the joy of making a child's wish come true.",
+        "keyPoints": [
+          "It is a set of made-up nonsense words.",
+          "Symbolises the true magic of human kindness and friendship.",
+          "Represents Rohan's courage and Mrs Groover's generous act.",
+          "Stands for believing in hope and making wishes come true."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "How did Sherlock Holmes know the assistant was digging a tunnel?",
+        "modelAnswer": "Sherlock Holmes deduced that the assistant, Vincent Spaulding, was digging a tunnel by carefully observing his trousers. When Holmes visited Jabez Wilson's shop, he noticed that the knees of Spaulding's trousers were worn, wrinkled, and stained with dirt. He also tapped the pavement outside the shop to check if it was hollow underneath. These clues confirmed his suspicion that the assistant spent hours in the cellar digging a tunnel to the nearby bank.",
+        "keyPoints": [
+          "Holmes observed the worn and dirt-stained knees of the assistant's trousers.",
+          "He tapped the pavement outside the shop to check for a hollow space.",
+          "The assistant spent a lot of time in the cellar supposedly developing photos.",
+          "These combined clues confirmed the assistant was digging a tunnel."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "In 'Papa Panov', what did the voice tell Papa Panov at the end of the day?",
+        "modelAnswer": "At the end of the day, a gentle voice spoke to Papa Panov in his quiet room, revealing the true meaning of his Christmas. The voice told him that Jesus had indeed visited him that day, not as a single grand figure, but in the form of the people he had helped. Jesus was the sweeper he warmed, the young mother and baby he sheltered, and the beggars he fed. The voice affirmed that whatever Papa Panov did for those in need, he did it for Jesus.",
+        "keyPoints": [
+          "The voice revealed that Jesus had visited him throughout the day.",
+          "Jesus came in the form of the sweeper, the mother, the baby, and the beggars.",
+          "Helping those in need was equivalent to helping Jesus himself.",
+          "It showed the true spirit of Christmas lies in kindness and charity."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Why did Spaulding (John Clay) work for Mr Wilson at half wages?",
+        "modelAnswer": "Vincent Spaulding, who was actually the notorious criminal John Clay, worked for Mr. Wilson at half wages so he could secure the job easily. His real motive was not to earn a living as a pawnshop assistant, but to gain unrestricted access to the shop's cellar. From the cellar, he needed time and space to secretly dig a tunnel into the vault of the neighboring bank. Accepting lower wages ensured he got the position to carry out his plot.",
+        "keyPoints": [
+          "He wanted to easily secure the job without facing competition.",
+          "His real intention was to gain access to the pawnshop's cellar.",
+          "He needed to dig a tunnel from the cellar to the nearby bank's vault.",
+          "It was a calculated move as part of a larger criminal plot to steal gold."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What gift did Papa Panov give to the young mother's baby?",
+        "modelAnswer": "When the young mother came into Papa Panov's shop to warm herself, he gave her baby a pair of tiny, beautiful leather shoes. Papa Panov had made these shoes himself and considered them his best work. He had originally prepared them as a special gift for Jesus, hoping he would visit on Christmas. However, seeing the baby's bare feet in the harsh cold, his immense compassion led him to give away his most precious creation.",
+        "keyPoints": [
+          "Papa Panov gave the baby a pair of tiny, beautifully crafted leather shoes.",
+          "The shoes were his masterpiece and originally meant as a gift for Jesus.",
+          "He saw the baby's bare feet in the harsh cold and felt immense pity.",
+          "Giving away the shoes demonstrated his deep compassion and selflessness."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What did students do during their visit for the 'Seeing Eyes Helping Hands' project?",
+        "modelAnswer": "As part of the 'Seeing Eyes Helping Hands' project, the students visited a Home for the Aged to spread joy. They actively helped the elderly residents with their daily tasks to make their lives easier. Additionally, the students conducted story-telling sessions and spent quality time listening to the residents' memories. This compassionate effort brought happiness to the elderly and taught the students the true value of empathy and social responsibility.",
+        "keyPoints": [
+          "Students visited a Home for the Aged as part of the project.",
+          "They helped the elderly residents with their daily tasks.",
+          "They conducted story-telling sessions and listened to the residents' memories.",
+          "The visit brought joy to the elderly and taught the students empathy."
+        ],
+        "marks": 3
+      }
     ]
   }
 }

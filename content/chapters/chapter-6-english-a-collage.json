@@ -272,7 +272,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Swami Vivekananda was born Narendra Datta in Calcutta. He took the name Vivekananda when he became a monk and disciple of Ramakrishna Paramahansa.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "21"
     },
     {
@@ -286,7 +288,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The Parliament of World's Religions was held in Chicago, USA in 1893. Swami Vivekananda represented India at this event.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "21"
     },
     {
@@ -300,7 +304,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "When Vivekananda addressed the audience with 'Sisters and Brothers of America!', the audience gave him a two-minute standing ovation.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "21"
     },
     {
@@ -314,7 +320,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The complete quote is 'Arise! Awake! And stop not until the goal is reached.' It is one of Vivekananda's most famous and inspiring sayings.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "21"
     },
     {
@@ -328,7 +336,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "'Whatever you think, that you will be' is Vivekananda's quote emphasising the power of thought and positive thinking.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "21"
     },
     {
@@ -342,7 +352,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Vivekananda taught that serving human beings is the highest form of serving God. Selflessness and service to others was his core message.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "21"
     },
     {
@@ -356,7 +368,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A collage is created by pasting together photographs, quotes, and descriptions about a person or topic. It is a creative way to present information.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "21"
     },
     {
@@ -370,7 +384,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Vivekananda's main message was universal brotherhood, religious tolerance, and selfless service to humanity. This is what made his speech at Chicago so impactful.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "21"
     }
   ],
@@ -399,5 +415,150 @@
       "School bulletin boards and Science Fair posters are a form of collage display"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "A Collage",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "What was Swami Vivekananda's original name?",
+        "answer": "Swami Vivekananda was born Narendra Datta in Calcutta. He took the name Vivekananda when he became a monk and disciple of Ramakrishna Paramahansa.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In which city was the Parliament of World's Religions held?",
+        "answer": "The Parliament of World's Religions was held in Chicago, USA in 1893. Swami Vivekananda represented India at this event.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How long was the standing ovation Vivekananda received?",
+        "answer": "When Vivekananda addressed the audience with 'Sisters and Brothers of America!', the audience gave him a two-minute standing ovation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Complete Vivekananda's famous quote: 'Arise! Awake! And _____ until the goal is reached.'",
+        "answer": "The complete quote is 'Arise! Awake! And stop not until the goal is reached.' It is one of Vivekananda's most famous and inspiring sayings.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the second famous quote by Vivekananda mentioned in the chapter?",
+        "answer": "'Whatever you think, that you will be' is Vivekananda's quote emphasising the power of thought and positive thinking.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did Vivekananda emphasise as the highest form of service?",
+        "answer": "Vivekananda taught that serving human beings is the highest form of serving God. Selflessness and service to others was his core message.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does a collage include?",
+        "answer": "A collage is created by pasting together photographs, quotes, and descriptions about a person or topic. It is a creative way to present information.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was Swami Vivekananda's main message to the world?",
+        "answer": "Vivekananda's main message was universal brotherhood, religious tolerance, and selfless service to humanity. This is what made his speech at Chicago so impactful.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What was Swami Vivekananda's original name?",
+        "modelAnswer": "Swami Vivekananda's original name was Narendranath Datta. He was born into an aristocratic family in Kolkata. It was only after he took his monastic vows that he came to be known as Swami Vivekananda, a name that signifies the bliss of discerning wisdom.",
+        "keyPoints": [
+          "His original name was Narendranath Datta.",
+          "He was born into an aristocratic family in Kolkata.",
+          "He took the name Vivekananda after taking monastic vows."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "How long was the standing ovation Vivekananda received?",
+        "modelAnswer": "When Swami Vivekananda began his speech with the words 'Sisters and brothers of America', the entire audience rose to their feet. He received a standing ovation that lasted for two whole minutes. This enthusiastic response showed how deeply his message of universal brotherhood resonated with the people present.",
+        "keyPoints": [
+          "He addressed the audience as 'Sisters and brothers of America'.",
+          "The audience gave him a standing ovation lasting for two minutes.",
+          "The response highlighted the immediate impact of his universal message."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What is the second famous quote by Vivekananda mentioned in the chapter?",
+        "modelAnswer": "One of the most famous and prominent quotes highlighted in the chapter is 'Arise, awake, and stop not till the goal is reached.' This powerful call to action encourages individuals to be determined, fearless, and persistent in their endeavors. It serves as an inspiring reminder to overcome laziness and keep working hard until one achieves success.",
+        "keyPoints": [
+          "The quote is 'Arise, awake, and stop not till the goal is reached.'",
+          "It is a powerful call to action for determination and persistence.",
+          "It encourages individuals to keep working hard until they succeed."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What did Vivekananda emphasise as the highest form of service?",
+        "modelAnswer": "Swami Vivekananda deeply emphasized that serving humanity is the highest and most sacred form of serving God. He taught that people should see the divine in every human being, especially in the poor, the sick, and the suffering. Therefore, extending selfless help to those in need is considered the truest and purest form of worship.",
+        "keyPoints": [
+          "Serving humanity is equated to the highest form of serving God.",
+          "He taught people to see the divine in everyone, especially the needy.",
+          "Selfless help and service to others is the truest form of worship."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What does a collage include?",
+        "modelAnswer": "A collage is an artistic composition made by attaching various materials like photographs, paper cut-outs, or text onto a single backing surface. In the context of a biographical project, a collage includes pictures of the personality, milestones from their life, and their inspiring quotes. It serves as a creative and engaging way to present information visually rather than just writing a traditional essay.",
+        "keyPoints": [
+          "A collage is created by attaching various materials onto a single surface.",
+          "It typically includes photographs, text, and other visual items.",
+          "It is a creative, visual way to present information about a person's life and message."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What was Swami Vivekananda's main message to the world?",
+        "modelAnswer": "Swami Vivekananda's main message to the world focused on universal brotherhood, peace, and religious tolerance. He explained that just as different rivers ultimately flow into the same ocean, all religions lead to the same ultimate divine truth. He strongly urged humanity to discard fanaticism and sectarianism, and instead embrace mutual respect and spiritual harmony.",
+        "keyPoints": [
+          "His core message focused on universal brotherhood and religious tolerance.",
+          "He compared different religions to rivers that all flow into the same ocean.",
+          "He urged people to discard fanaticism and embrace mutual respect."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

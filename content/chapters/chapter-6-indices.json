@@ -10,7 +10,12 @@
     {
       "id": "q1",
       "question": "In the expression 2⁸, what is the base and what is the index?",
-      "options": ["Base=2, Index=8", "Base=8, Index=2", "Base=2, Index=0", "Base=16, Index=1"],
+      "options": [
+        "Base=2, Index=8",
+        "Base=8, Index=2",
+        "Base=2, Index=0",
+        "Base=16, Index=1"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
@@ -18,7 +23,12 @@
     {
       "id": "q2",
       "question": "What is 2⁴ × 2³?",
-      "options": ["2⁷", "2¹²", "4⁷", "2¹"],
+      "options": [
+        "2⁷",
+        "2¹²",
+        "4⁷",
+        "2¹"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "What is a⁰ equal to (where a ≠ 0)?",
-      "options": ["1", "0", "a", "Undefined"],
+      "options": [
+        "1",
+        "0",
+        "a",
+        "Undefined"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 3
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "What is (2³)⁴?",
-      "options": ["2¹²", "2⁷", "8⁴", "2³"],
+      "options": [
+        "2¹²",
+        "2⁷",
+        "8⁴",
+        "2³"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 4
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "What is √144?",
-      "options": ["12", "14", "11", "13"],
+      "options": [
+        "12",
+        "14",
+        "11",
+        "13"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 5
@@ -59,10 +84,22 @@
       "content": "When a number is multiplied by itself several times, we use index notation. In aᵐ, 'a' is called the base and 'm' is called the index or exponent. For example, 2⁸ means 2 multiplied by itself 8 times. The first power (a¹) of any number is the number itself.",
       "pageReference": "43-44",
       "examples": [
-        { "icon": "🔝", "text": "2⁸ = 2×2×2×2×2×2×2×2 = 256" },
-        { "icon": "5⁴", "text": "5⁴ = 5×5×5×5 = 625 (base=5, index=4)" },
-        { "icon": "🔢", "text": "(-2/3)³ = (-2/3)×(-2/3)×(-2/3) = -8/27" },
-        { "icon": "1️⃣", "text": "7¹ = 7 (first power = number itself)" }
+        {
+          "icon": "🔝",
+          "text": "2⁸ = 2×2×2×2×2×2×2×2 = 256"
+        },
+        {
+          "icon": "5⁴",
+          "text": "5⁴ = 5×5×5×5 = 625 (base=5, index=4)"
+        },
+        {
+          "icon": "🔢",
+          "text": "(-2/3)³ = (-2/3)×(-2/3)×(-2/3) = -8/27"
+        },
+        {
+          "icon": "1️⃣",
+          "text": "7¹ = 7 (first power = number itself)"
+        }
       ],
       "keyPoints": [
         "aᵐ = a multiplied by itself m times",
@@ -84,10 +121,22 @@
       "content": "When multiplying two powers with the same base, add the indices. aᵐ × aⁿ = aᵐ⁺ⁿ. For example, 2⁴ × 2³ = 2⁷. This works because expanding shows 4+3=7 twos being multiplied. The base must be the same.",
       "pageReference": "44",
       "examples": [
-        { "icon": "✖️", "text": "2⁴ × 2³ = 2⁴⁺³ = 2⁷ = 128" },
-        { "icon": "📊", "text": "(-3)² × (-3)³ = (-3)⁵" },
-        { "icon": "🔢", "text": "a¹⁶ × a⁷ = a²³" },
-        { "icon": "📐", "text": "(P/5)³ × (P/5)⁷ = (P/5)¹⁰" }
+        {
+          "icon": "✖️",
+          "text": "2⁴ × 2³ = 2⁴⁺³ = 2⁷ = 128"
+        },
+        {
+          "icon": "📊",
+          "text": "(-3)² × (-3)³ = (-3)⁵"
+        },
+        {
+          "icon": "🔢",
+          "text": "a¹⁶ × a⁷ = a²³"
+        },
+        {
+          "icon": "📐",
+          "text": "(P/5)³ × (P/5)⁷ = (P/5)¹⁰"
+        }
       ],
       "keyPoints": [
         "aᵐ × aⁿ = aᵐ⁺ⁿ (same base, add indices)",
@@ -109,10 +158,22 @@
       "content": "When dividing same base powers, subtract indices: aᵐ ÷ aⁿ = aᵐ⁻ⁿ. When m=n: aᵐ/aᵐ = a⁰ = 1. A negative index means reciprocal: a⁻ᵐ = 1/aᵐ. Also, (a/b)⁻ᵐ = (b/a)ᵐ.",
       "pageReference": "45",
       "examples": [
-        { "icon": "➗", "text": "6⁴ ÷ 6² = 6⁴⁻² = 6² = 36" },
-        { "icon": "0️⃣", "text": "Any non-zero number to power 0 = 1: 5⁰=1, (−7)⁰=1" },
-        { "icon": "⁻¹", "text": "a⁻¹ = 1/a (multiplicative inverse of a)" },
-        { "icon": "🔄", "text": "(3/5)⁻³ = (5/3)³ = 125/27" }
+        {
+          "icon": "➗",
+          "text": "6⁴ ÷ 6² = 6⁴⁻² = 6² = 36"
+        },
+        {
+          "icon": "0️⃣",
+          "text": "Any non-zero number to power 0 = 1: 5⁰=1, (−7)⁰=1"
+        },
+        {
+          "icon": "⁻¹",
+          "text": "a⁻¹ = 1/a (multiplicative inverse of a)"
+        },
+        {
+          "icon": "🔄",
+          "text": "(3/5)⁻³ = (5/3)³ = 125/27"
+        }
       ],
       "keyPoints": [
         "aᵐ ÷ aⁿ = aᵐ⁻ⁿ (same base, subtract indices)",
@@ -134,10 +195,22 @@
       "content": "When raising a power to another power, multiply the indices: (aᵐ)ⁿ = aᵐˣⁿ = aᵐⁿ. Also: (ab)ᵐ = aᵐ × bᵐ and (a/b)ᵐ = aᵐ/bᵐ. Summary of all laws of indices.",
       "pageReference": "46-48",
       "examples": [
-        { "icon": "🔝", "text": "(5²)³ = 5²ˣ³ = 5⁶ = 15625" },
-        { "icon": "✖️", "text": "(2×3)⁴ = 2⁴ × 3⁴ = 16 × 81 = 1296" },
-        { "icon": "📐", "text": "(4/5)³ = 4³/5³ = 64/125" },
-        { "icon": "🔢", "text": "(7⁻²)⁵ = 7⁻¹⁰ = 1/7¹⁰" }
+        {
+          "icon": "🔝",
+          "text": "(5²)³ = 5²ˣ³ = 5⁶ = 15625"
+        },
+        {
+          "icon": "✖️",
+          "text": "(2×3)⁴ = 2⁴ × 3⁴ = 16 × 81 = 1296"
+        },
+        {
+          "icon": "📐",
+          "text": "(4/5)³ = 4³/5³ = 64/125"
+        },
+        {
+          "icon": "🔢",
+          "text": "(7⁻²)⁵ = 7⁻¹⁰ = 1/7¹⁰"
+        }
       ],
       "keyPoints": [
         "(aᵐ)ⁿ = aᵐⁿ (multiply the indices)",
@@ -159,10 +232,22 @@
       "content": "The square root of a number n is a number whose square gives n. Every positive number has two square roots (positive and negative). Square root by prime factors: factorise into primes, make pairs, take one from each pair and multiply.",
       "pageReference": "49-50",
       "examples": [
-        { "icon": "√", "text": "√9 = 3 because 3² = 9" },
-        { "icon": "🔢", "text": "√144: 144=2⁴×3² → √144=2²×3=12" },
-        { "icon": "📊", "text": "√324: 324=2²×3⁴ → √324=2×3²=18" },
-        { "icon": "📐", "text": "√625=25, √1225=35, √289=17" }
+        {
+          "icon": "√",
+          "text": "√9 = 3 because 3² = 9"
+        },
+        {
+          "icon": "🔢",
+          "text": "√144: 144=2⁴×3² → √144=2²×3=12"
+        },
+        {
+          "icon": "📊",
+          "text": "√324: 324=2²×3⁴ → √324=2×3²=18"
+        },
+        {
+          "icon": "📐",
+          "text": "√625=25, √1225=35, √289=17"
+        }
       ],
       "keyPoints": [
         "Square root of n = number whose square is n",
@@ -179,91 +264,161 @@
     {
       "id": "q1",
       "question": "Find the value of 2¹⁰.",
-      "options": ["1024", "512", "256", "2048"],
+      "options": [
+        "1024",
+        "512",
+        "256",
+        "2048"
+      ],
       "correctAnswer": "A",
       "explanation": "2¹⁰ = 2×2×2×2×2×2×2×2×2×2 = 1024",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "44"
     },
     {
       "id": "q2",
       "question": "7⁴ × 7² = ?",
-      "options": ["7⁶", "7⁸", "49⁶", "7²"],
+      "options": [
+        "7⁶",
+        "7⁸",
+        "49⁶",
+        "7²"
+      ],
       "correctAnswer": "A",
       "explanation": "Same base, add indices: 7⁴ × 7² = 7⁴⁺² = 7⁶",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "44"
     },
     {
       "id": "q3",
       "question": "a⁶ ÷ a⁴ = ?",
-      "options": ["a²", "a¹⁰", "a³", "a⁰"],
+      "options": [
+        "a²",
+        "a¹⁰",
+        "a³",
+        "a⁰"
+      ],
       "correctAnswer": "A",
       "explanation": "Same base, subtract indices: a⁶ ÷ a⁴ = a⁶⁻⁴ = a²",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "46"
     },
     {
       "id": "q4",
       "question": "(-7)¹² ÷ (-7)¹² = ?",
-      "options": ["1", "0", "-1", "(-7)⁰"],
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "(-7)⁰"
+      ],
       "correctAnswer": "A",
       "explanation": "aᵐ ÷ aᵐ = aᵐ⁻ᵐ = a⁰ = 1. Any non-zero number raised to power 0 equals 1.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "45"
     },
     {
       "id": "q5",
       "question": "(3²)⁴ = ?",
-      "options": ["3⁸", "3⁶", "9⁴", "3²"],
+      "options": [
+        "3⁸",
+        "3⁶",
+        "9⁴",
+        "3²"
+      ],
       "correctAnswer": "A",
       "explanation": "(aᵐ)ⁿ = aᵐⁿ. (3²)⁴ = 3²ˣ⁴ = 3⁸",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "47"
     },
     {
       "id": "q6",
       "question": "√625 = ?",
-      "options": ["25", "15", "35", "45"],
+      "options": [
+        "25",
+        "15",
+        "35",
+        "45"
+      ],
       "correctAnswer": "A",
       "explanation": "625 = 5⁴ = 5²×5². Square root = 5×5 = 25. Check: 25² = 625 ✓",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "49"
     },
     {
       "id": "q7",
       "question": "a⁻³ = ?",
-      "options": ["1/a³", "-a³", "a³", "-1/a³"],
+      "options": [
+        "1/a³",
+        "-a³",
+        "a³",
+        "-1/a³"
+      ],
       "correctAnswer": "A",
       "explanation": "Negative index means reciprocal: a⁻ᵐ = 1/aᵐ. So a⁻³ = 1/a³.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "45"
     },
     {
       "id": "q8",
       "question": "(-1)⁶ = ?",
-      "options": ["1", "-1", "6", "-6"],
+      "options": [
+        "1",
+        "-1",
+        "6",
+        "-6"
+      ],
       "correctAnswer": "A",
       "explanation": "If m is even, (-1)ᵐ = 1. 6 is even, so (-1)⁶ = 1.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "46"
     },
     {
       "id": "q9",
       "question": "√1225 = ?",
-      "options": ["35", "25", "45", "55"],
+      "options": [
+        "35",
+        "25",
+        "45",
+        "55"
+      ],
       "correctAnswer": "A",
       "explanation": "1225 = 5²×7². Square root = 5×7 = 35. Check: 35² = 1225 ✓",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "49"
     },
     {
       "id": "q10",
       "question": "The standard form of 384,000,000 m (Earth-Moon distance) is _____.",
-      "options": ["3.84 × 10⁸ m", "38.4 × 10⁷ m", "3.84 × 10⁷ m", "38.4 × 10⁸ m"],
+      "options": [
+        "3.84 × 10⁸ m",
+        "38.4 × 10⁷ m",
+        "3.84 × 10⁷ m",
+        "38.4 × 10⁸ m"
+      ],
       "correctAnswer": "A",
       "explanation": "Standard form: one digit before decimal × power of 10. 384,000,000 = 3.84 × 10⁸",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "48"
     }
   ],
@@ -291,11 +446,147 @@
       "Googol: 10¹⁰⁰ (a 1 followed by 100 zeros)"
     ],
     "formulas": [
-      { "formula": "aᵐ × aⁿ = aᵐ⁺ⁿ", "explanation": "Multiply same base: add indices" },
-      { "formula": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ", "explanation": "Divide same base: subtract indices" },
-      { "formula": "a⁰ = 1", "explanation": "Any non-zero number to power zero = 1" },
-      { "formula": "a⁻ᵐ = 1/aᵐ", "explanation": "Negative index = reciprocal" },
-      { "formula": "(aᵐ)ⁿ = aᵐⁿ", "explanation": "Power of power: multiply indices" }
+      {
+        "formula": "aᵐ × aⁿ = aᵐ⁺ⁿ",
+        "explanation": "Multiply same base: add indices"
+      },
+      {
+        "formula": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ",
+        "explanation": "Divide same base: subtract indices"
+      },
+      {
+        "formula": "a⁰ = 1",
+        "explanation": "Any non-zero number to power zero = 1"
+      },
+      {
+        "formula": "a⁻ᵐ = 1/aᵐ",
+        "explanation": "Negative index = reciprocal"
+      },
+      {
+        "formula": "(aᵐ)ⁿ = aᵐⁿ",
+        "explanation": "Power of power: multiply indices"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Arrange the pieces to form the correct mathematical expression.",
+    "data": {
+      "formula": "aᵐ × aⁿ = aᵐ⁺ⁿ",
+      "components": [
+        "aᵐ",
+        "×",
+        "aⁿ",
+        "=",
+        "aᵐ⁺ⁿ"
+      ],
+      "explanation": "When multiplying numbers with the same base, add the exponents."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Indices",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Find the value of 2¹⁰.",
+        "answer": "2¹⁰ = 2×2×2×2×2×2×2×2×2×2 = 1024",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "7⁴ × 7² = ?",
+        "answer": "Same base, add indices: 7⁴ × 7² = 7⁴⁺² = 7⁶",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "a⁶ ÷ a⁴ = ?",
+        "answer": "Same base, subtract indices: a⁶ ÷ a⁴ = a⁶⁻⁴ = a²",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "(-7)¹² ÷ (-7)¹² = ?",
+        "answer": "aᵐ ÷ aᵐ = aᵐ⁻ᵐ = a⁰ = 1. Any non-zero number raised to power 0 equals 1.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "(3²)⁴ = ?",
+        "answer": "(aᵐ)ⁿ = aᵐⁿ. (3²)⁴ = 3²ˣ⁴ = 3⁸",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "√625 = ?",
+        "answer": "625 = 5⁴ = 5²×5². Square root = 5×5 = 25. Check: 25² = 625 ✓",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "a⁻³ = ?",
+        "answer": "Negative index means reciprocal: a⁻ᵐ = 1/aᵐ. So a⁻³ = 1/a³.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "(-1)⁶ = ?",
+        "answer": "If m is even, (-1)ᵐ = 1. 6 is even, so (-1)⁶ = 1.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "√1225 = ?",
+        "answer": "1225 = 5²×7². Square root = 5×7 = 35. Check: 35² = 1225 ✓",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The standard form of 384,000,000 m (Earth-Moon distance) is _____.",
+        "answer": "Standard form: one digit before decimal × power of 10. 384,000,000 = 3.84 × 10⁸",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "question": "What is meant by the base and index of a number? Explain with an example.",
+        "answer": "When a number is multiplied by itself several times, it can be expressed in a shorter way known as the index form. In this representation, the number that is being repeatedly multiplied is called the base, and the number of times it is multiplied is called the index or exponent. For example, in the expression 5^4 (which means 5 × 5 × 5 × 5), 5 is the base and 4 is the index.",
+        "keyPoints": [
+          "Repeated multiplication of a number by itself is written in index form.",
+          "The base is the number being multiplied.",
+          "The index (or exponent) indicates how many times the base is multiplied."
+        ]
+      },
+      {
+        "question": "How do you read a number written in index form? Provide examples.",
+        "answer": "A number in index form is typically read by mentioning the base followed by its power. Generally, if 'a' is the base and 'm' is the index, it is read as 'a raised to the power m' or 'the mth power of a'. For example, 5^4 is read as '5 raised to the power 4', '5 raised to 4', or 'the 4th power of 5'.",
+        "keyPoints": [
+          "Read by stating the base and then its corresponding power.",
+          "Standard format is 'base raised to the power index'.",
+          "Example: 5^4 is read as '5 raised to the power 4'."
+        ]
+      },
+      {
+        "question": "What is the mathematical convention regarding the first power of any number?",
+        "answer": "The first power of any number is simply the number itself. By mathematical convention, if the power or index of a number is exactly 1, it is usually not written explicitly. Therefore, writing just the base implies that its index is 1, such as 7^1 being written as 7, and 10^1 as 10.",
+        "keyPoints": [
+          "The first power of a number always equals the number itself.",
+          "An index of 1 is conventionally not written.",
+          "Writing a number without a visible index implies an index of 1."
+        ]
+      },
+      {
+        "question": "Explain how to calculate the value of a number given in index form.",
+        "answer": "To find the value of a number in index form, you must multiply the base by itself as many times as the index indicates. Once you perform the repeated multiplication, the final calculated product is the value of that index form. For instance, to find the value of 5^4, you perform the multiplication 5 × 5 × 5 × 5, which gives a final value of 625.",
+        "keyPoints": [
+          "Identify the base and the index from the expression.",
+          "Multiply the base by itself for the number of times shown by the index.",
+          "The resulting product is the value of the number."
+        ]
+      },
+      {
+        "question": "What do the specific terms 'square' and 'cube' refer to in the context of indices?",
+        "answer": "In the context of indices, the terms 'square' and 'cube' are special names used for specific powers of a number. When a number has an index of 2, it is referred to as the 'square' of that number, so 3^2 is read as '3 squared'. Similarly, when a number has an index of 3, it is referred to as the 'cube' of that number, so 5^3 is read as '5 cubed'.",
+        "keyPoints": [
+          "An index of 2 is specially called a square.",
+          "An index of 3 is specially called a cube.",
+          "Example: 3^2 is read as 3 squared, and 5^3 is read as 5 cubed."
+        ]
+      }
     ]
   }
 }

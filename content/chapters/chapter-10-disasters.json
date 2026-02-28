@@ -1,0 +1,661 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 10,
+    "title": "Disasters: Famine, Water Scarcity, Volcano, Tsunami",
+    "subject": "Science",
+    "pages": "88-98",
+    "description": "This chapter covers natural and man-made disasters including famine, water scarcity, volcanic eruptions, and tsunamis, their causes, effects, and management strategies."
+  },
+  "preAssessment": [
+    {
+      "id": "pa1",
+      "question": "What is a famine?",
+      "options": [
+        "A type of earthquake",
+        "A severe shortage of food",
+        "A volcanic eruption",
+        "A flood"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "pa2",
+      "question": "Which of these is caused by underwater earthquakes?",
+      "options": [
+        "Volcanic eruption",
+        "Famine",
+        "Tsunami",
+        "Drought"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 4
+    },
+    {
+      "id": "pa3",
+      "question": "What is the main cause of water scarcity in many regions?",
+      "options": [
+        "Too much rainfall",
+        "Overuse and unequal distribution of water",
+        "Presence of oceans",
+        "Low population"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "pa4",
+      "question": "Molten rock that erupts from a volcano is called:",
+      "options": [
+        "Magma",
+        "Lava",
+        "Ash",
+        "Pumice"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "pa5",
+      "question": "Which organisation issues tsunami warnings in the Indian Ocean?",
+      "options": [
+        "WHO",
+        "UNICEF",
+        "Indian Tsunami Early Warning Centre",
+        "NASA"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "conceptId": 4
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Famine",
+      "emoji": "🌾",
+      "colorTheme": "from-yellow-500 to-orange-600",
+      "bgColor": "bg-yellow-50",
+      "borderColor": "border-yellow-300",
+      "content": "A famine is a widespread condition in which many people in a country or region are unable to access sufficient food, leading to malnutrition, starvation, and death. Famines are caused by crop failures, drought, floods, war, or poor food distribution.",
+      "pageReference": "88-90",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "The Bengal Famine of 1943 caused millions of deaths in India"
+        },
+        {
+          "id": "ex2",
+          "text": "Drought in sub-Saharan Africa causes frequent food shortages"
+        },
+        {
+          "id": "ex3",
+          "text": "Crop failure due to pests can trigger local famines"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Famine is caused by a combination of natural and human factors"
+        },
+        {
+          "id": "kp2",
+          "text": "Effects include malnutrition, disease, and mass migration"
+        },
+        {
+          "id": "kp3",
+          "text": "Prevention involves food storage, fair distribution, and agricultural development"
+        }
+      ],
+      "funFact": "India has not experienced a major famine since independence due to the Green Revolution and improved food distribution systems.",
+      "textbookRef": "Pages 88-90"
+    },
+    {
+      "id": 2,
+      "title": "Water Scarcity",
+      "emoji": "💧",
+      "colorTheme": "from-blue-500 to-cyan-600",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Water scarcity occurs when the demand for water exceeds the available supply, or when poor water quality restricts its use. Only 3% of Earth's water is fresh, and much of it is locked in glaciers.",
+      "pageReference": "90-92",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Rajasthan in India faces severe water scarcity due to low rainfall"
+        },
+        {
+          "id": "ex2",
+          "text": "Cities like Chennai have faced water crises in recent years"
+        },
+        {
+          "id": "ex3",
+          "text": "Many African countries have limited access to clean drinking water"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Only 1% of Earth's water is available as fresh water for use"
+        },
+        {
+          "id": "kp2",
+          "text": "Water conservation through rainwater harvesting can help"
+        },
+        {
+          "id": "kp3",
+          "text": "Overuse of groundwater leads to depletion of aquifers"
+        }
+      ],
+      "funFact": "A person needs a minimum of 50 litres of water per day, but billions of people have access to less than 25 litres!",
+      "textbookRef": "Pages 90-92"
+    },
+    {
+      "id": 3,
+      "title": "Volcanic Eruptions",
+      "emoji": "🌋",
+      "colorTheme": "from-red-500 to-orange-600",
+      "bgColor": "bg-red-50",
+      "borderColor": "border-red-300",
+      "content": "A volcano is an opening in the Earth's crust through which molten rock (magma), gases, and ash are expelled. When magma reaches the surface, it is called lava. Volcanoes can be active, dormant, or extinct.",
+      "pageReference": "92-95",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Barren Island in the Andaman Sea is India's only active volcano"
+        },
+        {
+          "id": "ex2",
+          "text": "Mount Vesuvius in Italy destroyed the city of Pompeii in 79 AD"
+        },
+        {
+          "id": "ex3",
+          "text": "Mount Kilauea in Hawaii has been erupting almost continuously"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Volcanoes form along tectonic plate boundaries and hotspots"
+        },
+        {
+          "id": "kp2",
+          "text": "Volcanic ash can affect climate by blocking sunlight"
+        },
+        {
+          "id": "kp3",
+          "text": "Lava flows, pyroclastic flows, and ash falls are major hazards"
+        }
+      ],
+      "funFact": "Volcanic soil is extremely fertile! Many regions near volcanoes are great for farming because of the nutrient-rich volcanic ash.",
+      "textbookRef": "Pages 92-95"
+    },
+    {
+      "id": 4,
+      "title": "Tsunami",
+      "emoji": "🌊",
+      "colorTheme": "from-teal-500 to-blue-600",
+      "bgColor": "bg-teal-50",
+      "borderColor": "border-teal-300",
+      "content": "A tsunami is a series of large ocean waves caused by sudden displacement of water, usually from underwater earthquakes, volcanic eruptions, or landslides. The word 'tsunami' is Japanese for 'harbour wave'.",
+      "pageReference": "95-98",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "The 2004 Indian Ocean tsunami killed over 2,30,000 people across 14 countries"
+        },
+        {
+          "id": "ex2",
+          "text": "Japan's 2011 Tōhoku tsunami caused the Fukushima nuclear disaster"
+        },
+        {
+          "id": "ex3",
+          "text": "The coasts of Tamil Nadu and Andhra Pradesh were severely affected in 2004"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Tsunamis can travel at speeds up to 800 km/h in deep ocean"
+        },
+        {
+          "id": "kp2",
+          "text": "Warning signs: ground shaking, sea suddenly withdrawing from shore"
+        },
+        {
+          "id": "kp3",
+          "text": "Early warning systems can save thousands of lives"
+        }
+      ],
+      "funFact": "In deep ocean, a tsunami wave may only be 1 metre high and pass under ships unnoticed, but as it approaches shore, it can grow to over 30 metres!",
+      "textbookRef": "Pages 95-98"
+    },
+    {
+      "id": 5,
+      "title": "Disaster Management",
+      "emoji": "🆘",
+      "colorTheme": "from-green-500 to-emerald-600",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Disaster management involves the preparation, response, and recovery from disasters. It includes early warning systems, evacuation plans, relief operations, and long-term rehabilitation of affected areas.",
+      "pageReference": "96-98",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "NDMA (National Disaster Management Authority) coordinates disaster response in India"
+        },
+        {
+          "id": "ex2",
+          "text": "Mock drills in schools prepare students for earthquakes and fires"
+        },
+        {
+          "id": "ex3",
+          "text": "The Sendai Framework is an international plan for disaster risk reduction"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Four phases: Mitigation, Preparedness, Response, Recovery"
+        },
+        {
+          "id": "kp2",
+          "text": "Community awareness and training are key to reducing disaster impact"
+        },
+        {
+          "id": "kp3",
+          "text": "Technology like satellites and seismographs aid early warning"
+        }
+      ],
+      "funFact": "Japan holds the world's largest disaster preparedness drill every year on September 1st — the anniversary of the Great Kanto Earthquake of 1923.",
+      "textbookRef": "Pages 96-98"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Which of the following is NOT a cause of famine?",
+      "options": [
+        "Drought",
+        "War",
+        "Heavy rainfall",
+        "Crop failure"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Heavy rainfall alone does not cause famine; drought, war, and crop failure are common causes.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "88-90"
+    },
+    {
+      "id": "t2",
+      "question": "What percentage of Earth's water is fresh water?",
+      "options": [
+        "10%",
+        "25%",
+        "3%",
+        "50%"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Only about 3% of Earth's water is fresh water, and most of that is locked in glaciers.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "90-92"
+    },
+    {
+      "id": "t3",
+      "question": "What is magma called when it reaches the Earth's surface?",
+      "options": [
+        "Pumice",
+        "Basalt",
+        "Lava",
+        "Granite"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Magma is molten rock underground; once it erupts onto the surface, it is called lava.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "92-95"
+    },
+    {
+      "id": "t4",
+      "question": "What does 'tsunami' mean in Japanese?",
+      "options": [
+        "Giant wave",
+        "Sea storm",
+        "Harbour wave",
+        "Ocean flood"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The word 'tsunami' comes from Japanese and means 'harbour wave'.",
+      "conceptIds": [
+        4
+      ],
+      "pageReference": "95-98"
+    },
+    {
+      "id": "t5",
+      "question": "India's only active volcano is located in:",
+      "options": [
+        "Lakshadweep",
+        "Andaman Islands",
+        "Goa",
+        "Kerala"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Barren Island in the Andaman and Nicobar Islands is India's only confirmed active volcano.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "92-95"
+    },
+    {
+      "id": "t6",
+      "question": "What is the main purpose of an early warning system?",
+      "options": [
+        "To cause panic",
+        "To give people time to evacuate before a disaster",
+        "To predict the weather",
+        "To track satellites"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Early warning systems alert communities before disasters strike, giving time for evacuation and preparation.",
+      "conceptIds": [
+        5
+      ],
+      "pageReference": "96-98"
+    },
+    {
+      "id": "t7",
+      "question": "The 2004 Indian Ocean tsunami was caused by:",
+      "options": [
+        "A volcanic eruption",
+        "A cyclone",
+        "An undersea earthquake near Sumatra",
+        "A meteor strike"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The 2004 tsunami was triggered by a massive 9.1 magnitude earthquake off the coast of Sumatra, Indonesia.",
+      "conceptIds": [
+        4
+      ],
+      "pageReference": "95-98"
+    },
+    {
+      "id": "t8",
+      "question": "Which practice helps conserve water at the community level?",
+      "options": [
+        "Leaving taps running",
+        "Rainwater harvesting",
+        "Using more groundwater",
+        "Draining rivers"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rainwater harvesting collects and stores rainwater for later use, helping address water scarcity.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "90-92"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Famine and its causes",
+      "Water Scarcity",
+      "Volcanic Eruptions",
+      "Tsunamis",
+      "Disaster Management"
+    ],
+    "commonMisconceptions": [
+      "Volcanoes only occur in specific countries — India also has one",
+      "Tsunamis are just big waves — they are actually series of waves",
+      "Famine is only due to drought — human factors also play a role"
+    ],
+    "realWorldExamples": [
+      "2004 Indian Ocean Tsunami",
+      "Barren Island volcano in Andaman",
+      "Water crisis in Chennai 2019",
+      "Bengal Famine 1943",
+      "NDMA disaster management in India"
+    ]
+  },
+  "interactiveElement": {
+    "type": "match-pairs",
+    "title": "Match the Disaster!",
+    "description": "Match each disaster type to its key characteristic.",
+    "data": {
+      "pairs": [
+        {
+          "term": "Famine",
+          "match": "Severe shortage of food affecting large populations"
+        },
+        {
+          "term": "Water Scarcity",
+          "match": "Demand for water exceeds available supply"
+        },
+        {
+          "term": "Volcano",
+          "match": "Molten rock erupts through Earth's crust"
+        },
+        {
+          "term": "Tsunami",
+          "match": "Giant ocean waves from underwater earthquakes"
+        },
+        {
+          "term": "Disaster Management",
+          "match": "Preparation, response and recovery from disasters"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Disasters",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "activity",
+        "question": "Find the odd man out.\n(a) Famine, earthquake, cloudburst,\nrailway accident.\n(b) Drought, heavy rains, storm, tsunami.\n(c) Lava, hot mud, ash, locusts.\n(d) Washing away of crops, attack of\npests on crops, volcano, singeing of\ncrops",
+        "subQuestions": [
+          "Famine, earthquake, cloudburst,\nrailway accident.",
+          "Drought, heavy rains, storm, tsunami.",
+          "Lava, hot mud, ash, locusts.",
+          "Washing away of crops, attack of\npests on crops, volcano, singeing of\ncrops"
+        ]
+      },
+      {
+        "number": 4,
+        "type": "give_reasons",
+        "question": "Write answers to the following questions\nin your own words.\n(a) What is a tsunami ? What gives rise to\na tsunami ?\n(b) What is a cloudburst ?\n(c) Explain the effects of a volcano.\n(d) What are the measures to prevent loss\nof life due to lightning ?",
+        "subQuestions": [
+          "What is a tsunami ? What gives rise to\na tsunami ?",
+          "What is a cloudburst ?",
+          "Explain the effects of a volcano.",
+          "What are the measures to prevent loss\nof life due to lightning ?"
+        ]
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "What are the remedial measures for the\nfollowing calamities ?\n(a) Famine\n(b) Lightning strike\n(c) Storm\n(d) Cloudburst",
+        "subQuestions": [
+          "Famine",
+          "Lightning strike",
+          "Cloudburst"
+        ]
+      },
+      {
+        "number": 5,
+        "type": "short_answer",
+        "question": "What measures have been taken to\ndeal with calamities such as floods and\nlandslides\nunder\nthe\ndisaster\nmanagement\nprogramme\nin\nMaharashtra ?",
+        "subQuestions": []
+      },
+      {
+        "number": 6,
+        "type": "short_answer",
+        "question": "With reference to disaster management\nwhat are the things in your house that\nyou will check?",
+        "subQuestions": []
+      },
+      {
+        "number": 3,
+        "type": "true_false",
+        "question": "True or false ? Give reasons for your\nanswer.\n(a) Information about a forthcoming\nstorm is to be kept secret.\n(b) You should not swim when there is\nlightning in the sky.\n(c) It is possible to prevent the eruption of\na volcano.\n(d) Heavy rains result in famine.",
+        "subQuestions": [
+          "Information about a forthcoming\nstorm is to be kept secret.",
+          "You should not swim when there is\nlightning in the sky.",
+          "It is possible to prevent the eruption of\na volcano.",
+          "Heavy rains result in famine."
+        ]
+      }
+    ],
+    "rawText": "Exercise\n1. Find the odd man out.\n(a) Famine, earthquake, cloudburst,\nrailway accident.\n(b) Drought, heavy rains, storm, tsunami.\n(c) Lava, hot mud, ash, locusts.\n(d) Washing away of crops, attack of\npests on crops, volcano, singeing of\ncrops\n4. Write answers to the following questions\nin your own words.\n(a) What is a tsunami ? What gives rise to\na tsunami ?\n(b) What is a cloudburst ?\n(c) Explain the effects of a volcano.\n(d) What are the measures to prevent loss\nof life due to lightning ?\n2. What are the remedial measures for the\nfollowing calamities ?\n(a) Famine\n(b) Lightning strike\n(c) Storm\n(d) Cloudburst\n5. What measures have been taken to\ndeal with calamities such as floods and\nlandslides\nunder\nthe\ndisaster\nmanagement\nprogramme\nin\nMaharashtra ?\n6. With reference to disaster management\nwhat are the things in your house that\nyou will check?\n3. True or false ? Give reasons for your\nanswer.\n(a) Information about a forthcoming\nstorm is to be kept secret.\n(b) You should not swim when there is\nlightning in the sky.\n(c) It is possible to prevent the eruption of\na volcano.\n(d) Heavy rains result in famine.",
+    "qaCards": [
+      {
+        "question": "Which of the following is NOT a cause of famine?",
+        "answer": "Heavy rainfall alone does not cause famine; drought, war, and crop failure are common causes.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What percentage of Earth's water is fresh water?",
+        "answer": "Only about 3% of Earth's water is fresh water, and most of that is locked in glaciers.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is magma called when it reaches the Earth's surface?",
+        "answer": "Magma is molten rock underground; once it erupts onto the surface, it is called lava.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'tsunami' mean in Japanese?",
+        "answer": "The word 'tsunami' comes from Japanese and means 'harbour wave'.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "India's only active volcano is located in:",
+        "answer": "Barren Island in the Andaman and Nicobar Islands is India's only confirmed active volcano.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the main purpose of an early warning system?",
+        "answer": "Early warning systems alert communities before disasters strike, giving time for evacuation and preparation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The 2004 Indian Ocean tsunami was caused by:",
+        "answer": "The 2004 tsunami was triggered by a massive 9.1 magnitude earthquake off the coast of Sumatra, Indonesia.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which practice helps conserve water at the community level?",
+        "answer": "Rainwater harvesting collects and stores rainwater for later use, helping address water scarcity.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Famine, earthquake, cloudburst,\nrailway accident.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Disasters: Famine, Water Scarcity, Volcano, Tsunami\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Disasters: Famine, Water Scarcity, Volcano, Tsunami (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Drought, heavy rains, storm, tsunami.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Disasters: Famine, Water Scarcity, Volcano, Tsunami\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Disasters: Famine, Water Scarcity, Volcano, Tsunami (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Lava, hot mud, ash, locusts.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Disasters: Famine, Water Scarcity, Volcano, Tsunami\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Disasters: Famine, Water Scarcity, Volcano, Tsunami (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Washing away of crops, attack of\npests on crops, volcano, singeing of\ncrops",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Disasters: Famine, Water Scarcity, Volcano, Tsunami\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Disasters: Famine, Water Scarcity, Volcano, Tsunami (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Write answers to the following questions\nin your own words.\n(a) What is a tsunami ? What gives rise to\na tsunami ?\n(b) What is a cloudburst ?\n(c) Explain the effects of a volcano.\n(d) What are the measures to prevent loss\nof life due to lightning ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Disasters: Famine, Water Scarcity, Volcano, Tsunami\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Disasters: Famine, Water Scarcity, Volcano, Tsunami (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What is a tsunami ? What gives rise to\na tsunami ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Disasters: Famine, Water Scarcity, Volcano, Tsunami\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Disasters: Famine, Water Scarcity, Volcano, Tsunami (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "What is a cloudburst ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Disasters: Famine, Water Scarcity, Volcano, Tsunami\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Disasters: Famine, Water Scarcity, Volcano, Tsunami (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "Explain the effects of a volcano.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Disasters: Famine, Water Scarcity, Volcano, Tsunami\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Disasters: Famine, Water Scarcity, Volcano, Tsunami (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      }
+    ]
+  }
+}

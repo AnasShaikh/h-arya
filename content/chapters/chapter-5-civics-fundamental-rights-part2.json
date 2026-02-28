@@ -337,5 +337,138 @@
       "Article 29: Marathi Sahitya Sammelan, Tamil Sangam — cultural organisations preserving regional languages under this right."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "match-pairs",
+    "title": "Match the Pairs!",
+    "description": "Match each constitutional term to its correct meaning.",
+    "data": {
+      "pairs": [
+        {
+          "term": "Right to Equality",
+          "match": "Articles 14-18: No discrimination based on religion, caste, sex"
+        },
+        {
+          "term": "Right to Freedom",
+          "match": "Articles 19-22: Freedom of speech, expression, movement"
+        },
+        {
+          "term": "Right Against Exploitation",
+          "match": "Articles 23-24: No forced labour or child labour"
+        },
+        {
+          "term": "Right to Education",
+          "match": "Article 21A: Free and compulsory education for children 6-14"
+        },
+        {
+          "term": "Right to Constitutional Remedies",
+          "match": "Article 32: Right to approach Supreme Court for rights"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Fundamental Rights — Part 2",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Which article of the Indian Constitution did Dr. B.R. Ambedkar call the 'heart and soul of the Constitution'?",
+        "answer": "Dr. B.R. Ambedkar called Article 32 (Right to Constitutional Remedies) the 'heart and soul of the Constitution' because it makes all other Fundamental Rights enforceable.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does Article 25 of the Constitution guarantee?",
+        "answer": "Article 25 guarantees freedom of conscience and the right to freely profess, practise, and propagate religion.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which amendment added Article 21A (Right to Education) to the Constitution?",
+        "answer": "The 86th Amendment in 2002 added Article 21A to the Constitution, making free and compulsory education a Fundamental Right for children aged 6-14.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "For which age group does Article 21A guarantee free and compulsory education?",
+        "answer": "Article 21A guarantees free and compulsory education for all children between 6 and 14 years of age.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What do Cultural and Educational Rights (Articles 29-30) protect?",
+        "answer": "Articles 29-30 protect the right of minority communities to conserve their language and culture, and to establish and administer their own educational institutions.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does Article 28 say about religious instruction?",
+        "answer": "Article 28 states that no religious instruction shall be provided in educational institutions wholly maintained out of state funds, protecting the secular nature of government education.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the main Act passed in 2009 to implement the Right to Education?",
+        "answer": "The Right to Education (RTE) Act was passed in 2009 to implement the constitutional provision under Article 21A for free and compulsory education.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Under Article 30, which communities can establish their own educational institutions?",
+        "answer": "Article 30 gives all minorities — whether based on religion or language — the right to establish and administer their own educational institutions.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which article allows a citizen to directly approach the Supreme Court if their Fundamental Rights are violated?",
+        "answer": "Article 32 gives citizens the right to directly approach the Supreme Court for the enforcement of their Fundamental Rights.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "During which situation can Fundamental Rights (except Articles 20 and 21) be suspended?",
+        "answer": "During a National Emergency (under Article 352), most Fundamental Rights can be suspended, except the rights under Articles 20 (protection against arbitrary conviction) and 21 (right to life and personal liberty).",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What does Article 25 of the Constitution guarantee?",
+        "modelAnswer": "Article 25 guarantees freedom of conscience and the right to freely profess, practise, and propagate religion. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What does Article 25 of the Constitution guarantee?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What do Cultural and Educational Rights (Articles 29-30) protect?",
+        "modelAnswer": "Articles 29-30 protect the right of minority communities to conserve their language and culture, and to establish and administer their own educational institutions. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What do Cultural and Educational Rights (Articles 29-30) protect?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What does Article 28 say about religious instruction?",
+        "modelAnswer": "Article 28 states that no religious instruction shall be provided in educational institutions wholly maintained out of state funds, protecting the secular nature of government education. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What does Article 28 say about religious instruction?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What is the main Act passed in 2009 to implement the Right to Education?",
+        "modelAnswer": "The Right to Education (RTE) Act was passed in 2009 to implement the constitutional provision under Article 21A for free and compulsory education. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: What is the main Act passed in 2009 to implement the Right to Education?",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

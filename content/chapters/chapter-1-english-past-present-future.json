@@ -10,7 +10,12 @@
     {
       "id": "q1",
       "question": "Who wrote the poem 'Past, Present, Future'?",
-      "options": ["Emily Brontë", "Langston Hughes", "R.L. Stevenson", "Walter de la Mare"],
+      "options": [
+        "Emily Brontë",
+        "Langston Hughes",
+        "R.L. Stevenson",
+        "Walter de la Mare"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
@@ -18,7 +23,12 @@
     {
       "id": "q2",
       "question": "In the poem, the past is described as _____.",
-      "options": ["An autumn evening soft and mild", "A sea beneath a cloudless sun", "A green and flowery spray", "A mighty dazzling sea"],
+      "options": [
+        "An autumn evening soft and mild",
+        "A sea beneath a cloudless sun",
+        "A green and flowery spray",
+        "A mighty dazzling sea"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "A simile is a comparison that uses the words _____.",
-      "options": ["'as' or 'like'", "'and' or 'but'", "'is' or 'are'", "'then' or 'when'"],
+      "options": [
+        "'as' or 'like'",
+        "'and' or 'but'",
+        "'is' or 'are'",
+        "'then' or 'when'"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 4
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "'Books are our friends' is an example of _____.",
-      "options": ["Metaphor", "Simile", "Alliteration", "Rhyme"],
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Alliteration",
+        "Rhyme"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 5
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "In the poem, the future is described as _____.",
-      "options": ["A mighty, glorious, dazzling sea", "An autumn evening", "A young bird on a spray", "A mournful wind"],
+      "options": [
+        "A mighty, glorious, dazzling sea",
+        "An autumn evening",
+        "A young bird on a spray",
+        "A mournful wind"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -59,10 +84,22 @@
       "content": "Emily Brontë was a well-known British author who lived in the nineteenth century. She uses nature to express her thoughts and feelings. This poem presents time (past, present, future) as a dialogue between the poet and a happy child. It shows that the past was pleasant but gone, the present is a time of preparation, and the future is unknown but exciting.",
       "pageReference": "1",
       "examples": [
-        { "icon": "🍂", "text": "Past: a soft autumn evening — pleasant but ended" },
-        { "icon": "🐦", "text": "Present: a young bird gathering strength to fly away" },
-        { "icon": "🌊", "text": "Future: a mighty, dazzling sea stretching to infinity" },
-        { "icon": "🌍", "text": "Emily and her sisters Charlotte and Anne were all famous writers" }
+        {
+          "icon": "🍂",
+          "text": "Past: a soft autumn evening — pleasant but ended"
+        },
+        {
+          "icon": "🐦",
+          "text": "Present: a young bird gathering strength to fly away"
+        },
+        {
+          "icon": "🌊",
+          "text": "Future: a mighty, dazzling sea stretching to infinity"
+        },
+        {
+          "icon": "🌍",
+          "text": "Emily and her sisters Charlotte and Anne were all famous writers"
+        }
       ],
       "keyPoints": [
         "Emily Brontë: 19th century British author",
@@ -84,10 +121,22 @@
       "content": "The poem uses three nature images: (1) Past = 'An Autumn evening soft and mild with a wind that sighs mournfully' (2) Present = 'A green and flowery spray where a young bird sits gathering its power to mount and fly away' (3) Future = 'A sea beneath a cloudless sun; a mighty, glorious, dazzling sea stretching into infinity.'",
       "pageReference": "1",
       "examples": [
-        { "icon": "🍂", "text": "Past: sad (wind sighs mournfully) but pleasant — like a sweet memory" },
-        { "icon": "🌿", "text": "Present: active — the bird is 'gathering power', preparing for flight" },
-        { "icon": "♾️", "text": "Future: 'stretching into infinity' — limitless possibility" },
-        { "icon": "💬", "text": "Dialogue form: poet asks, child answers in quotes" }
+        {
+          "icon": "🍂",
+          "text": "Past: sad (wind sighs mournfully) but pleasant — like a sweet memory"
+        },
+        {
+          "icon": "🌿",
+          "text": "Present: active — the bird is 'gathering power', preparing for flight"
+        },
+        {
+          "icon": "♾️",
+          "text": "Future: 'stretching into infinity' — limitless possibility"
+        },
+        {
+          "icon": "💬",
+          "text": "Dialogue form: poet asks, child answers in quotes"
+        }
       ],
       "keyPoints": [
         "Three stanzas = three time periods",
@@ -109,10 +158,22 @@
       "content": "Poetry should be read aloud with proper rhythm (the beat of the poem) and intonation (the rise and fall of the voice). Questions in the poem are read with rising intonation. Answers are read with a thoughtful, slightly falling intonation. The mood changes — mournful for the past, hopeful for the present, excited for the future.",
       "pageReference": "2",
       "examples": [
-        { "icon": "🎤", "text": "Rise in pitch for questions: 'What the past is like to thee?'" },
-        { "icon": "📉", "text": "Slower, softer for past: 'An Autumn evening soft and mild'" },
-        { "icon": "📈", "text": "Excited, louder for future: 'A mighty, glorious, dazzling sea!'" },
-        { "icon": "🎵", "text": "Rhythm: regular beat makes poem musical and memorable" }
+        {
+          "icon": "🎤",
+          "text": "Rise in pitch for questions: 'What the past is like to thee?'"
+        },
+        {
+          "icon": "📉",
+          "text": "Slower, softer for past: 'An Autumn evening soft and mild'"
+        },
+        {
+          "icon": "📈",
+          "text": "Excited, louder for future: 'A mighty, glorious, dazzling sea!'"
+        },
+        {
+          "icon": "🎵",
+          "text": "Rhythm: regular beat makes poem musical and memorable"
+        }
       ],
       "keyPoints": [
         "Rhythm: regular beat in poetry — clap while reading to find it",
@@ -134,10 +195,22 @@
       "content": "A simile is an imaginative comparison of two different things that have something in common. A simile always includes the words 'as' or 'like'. For example: 'as tall as a tree', 'as lovely as a flower', 'runs like the wind'. Similes make descriptions vivid and easy to picture.",
       "pageReference": "2",
       "examples": [
-        { "icon": "🔵", "text": "'as tall as a tree' — person's height compared to a tree" },
-        { "icon": "💨", "text": "'runs like the wind' — speed compared to wind" },
-        { "icon": "🌸", "text": "'as lovely as a flower' — beauty compared to a flower" },
-        { "icon": "📖", "text": "From poem: 'Fly as thick as driving rain' (sights flying past)" }
+        {
+          "icon": "🔵",
+          "text": "'as tall as a tree' — person's height compared to a tree"
+        },
+        {
+          "icon": "💨",
+          "text": "'runs like the wind' — speed compared to wind"
+        },
+        {
+          "icon": "🌸",
+          "text": "'as lovely as a flower' — beauty compared to a flower"
+        },
+        {
+          "icon": "📖",
+          "text": "From poem: 'Fly as thick as driving rain' (sights flying past)"
+        }
       ],
       "keyPoints": [
         "Simile: imaginative comparison of two different things",
@@ -159,10 +232,22 @@
       "content": "A metaphor makes a direct comparison without using 'as' or 'like'. It says something IS another thing. For example: 'He is a gem of a person', 'Time is money', 'Books are our friends', 'The clouds are white sheep'. The poem 'Past, Present, Future' has three metaphors — the past IS an autumn evening, the present IS a flowery spray, the future IS a sea.",
       "pageReference": "2",
       "examples": [
-        { "icon": "💎", "text": "'He is a gem of a person' — person IS a gem (precious)" },
-        { "icon": "⏰", "text": "'Time is money' — time IS money (don't waste either)" },
-        { "icon": "📚", "text": "'Books are our friends' — books ARE friends (helpful, loyal)" },
-        { "icon": "☁️", "text": "'The clouds are white sheep' — clouds ARE sheep (fluffy, moving)" }
+        {
+          "icon": "💎",
+          "text": "'He is a gem of a person' — person IS a gem (precious)"
+        },
+        {
+          "icon": "⏰",
+          "text": "'Time is money' — time IS money (don't waste either)"
+        },
+        {
+          "icon": "📚",
+          "text": "'Books are our friends' — books ARE friends (helpful, loyal)"
+        },
+        {
+          "icon": "☁️",
+          "text": "'The clouds are white sheep' — clouds ARE sheep (fluffy, moving)"
+        }
       ],
       "keyPoints": [
         "Metaphor: direct comparison without 'as'/'like'",
@@ -179,91 +264,161 @@
     {
       "id": "q1",
       "question": "In the poem, what is the present hour compared to?",
-      "options": ["A green and flowery spray where a young bird sits", "An autumn evening", "A sea beneath a cloudless sun", "A mournful wind"],
+      "options": [
+        "A green and flowery spray where a young bird sits",
+        "An autumn evening",
+        "A sea beneath a cloudless sun",
+        "A mournful wind"
+      ],
       "correctAnswer": "A",
       "explanation": "'The present hour? A green and flowery spray where a young bird sits gathering its power to mount and fly away.'",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "1"
     },
     {
       "id": "q2",
       "question": "'As lovely as a flower' is an example of _____.",
-      "options": ["Simile", "Metaphor", "Alliteration", "Personification"],
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Alliteration",
+        "Personification"
+      ],
       "correctAnswer": "A",
       "explanation": "A simile compares two things using 'as' or 'like'. 'As lovely as a flower' uses 'as' — it is a simile.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "2"
     },
     {
       "id": "q3",
       "question": "'Time is money' is an example of _____.",
-      "options": ["Metaphor", "Simile", "Rhyme", "Alliteration"],
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Rhyme",
+        "Alliteration"
+      ],
       "correctAnswer": "A",
       "explanation": "A metaphor says something IS something else without 'as'/'like'. 'Time is money' says time directly IS money.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "2"
     },
     {
       "id": "q4",
       "question": "How does the poem describe the future?",
-      "options": ["A mighty, glorious, dazzling sea stretching into infinity", "An autumn evening", "A young bird on a spray", "A soft and mild day"],
+      "options": [
+        "A mighty, glorious, dazzling sea stretching into infinity",
+        "An autumn evening",
+        "A young bird on a spray",
+        "A soft and mild day"
+      ],
       "correctAnswer": "A",
       "explanation": "'And what is the future? A sea beneath a cloudless sun; a mighty, glorious, dazzling sea stretching into infinity.'",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "1"
     },
     {
       "id": "q5",
       "question": "The poem is presented as a _____.",
-      "options": ["Dialogue between poet and a child", "Monologue by the poet", "Description of seasons", "Story about the sea"],
+      "options": [
+        "Dialogue between poet and a child",
+        "Monologue by the poet",
+        "Description of seasons",
+        "Story about the sea"
+      ],
       "correctAnswer": "A",
       "explanation": "The poem is in dialogue form — the poet asks questions ('Tell me, tell me, smiling child') and the child answers.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "1"
     },
     {
       "id": "q6",
       "question": "Which of these uses 'like' to make a simile?",
-      "options": ["She sings like a bird", "She is a bird", "The bird sings", "Birds and songs"],
+      "options": [
+        "She sings like a bird",
+        "She is a bird",
+        "The bird sings",
+        "Birds and songs"
+      ],
       "correctAnswer": "A",
       "explanation": "'She sings like a bird' uses 'like' to compare her singing to a bird's — it is a simile.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "2"
     },
     {
       "id": "q7",
       "question": "How many metaphors are there in the poem?",
-      "options": ["Three", "One", "Two", "Four"],
+      "options": [
+        "Three",
+        "One",
+        "Two",
+        "Four"
+      ],
       "correctAnswer": "A",
       "explanation": "Three metaphors: past IS an autumn evening, present IS a flowery spray where a bird sits, future IS a sea.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "2"
     },
     {
       "id": "q8",
       "question": "Which century did Emily Brontë live in?",
-      "options": ["Nineteenth century", "Eighteenth century", "Twentieth century", "Seventeenth century"],
+      "options": [
+        "Nineteenth century",
+        "Eighteenth century",
+        "Twentieth century",
+        "Seventeenth century"
+      ],
       "correctAnswer": "A",
       "explanation": "Emily Brontë and her sisters were well-known authors who lived in the nineteenth century (1800s).",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "1"
     },
     {
       "id": "q9",
       "question": "The wind in the autumn evening is described as _____.",
-      "options": ["Sighing mournfully", "Blowing powerfully", "Dancing happily", "Howling angrily"],
+      "options": [
+        "Sighing mournfully",
+        "Blowing powerfully",
+        "Dancing happily",
+        "Howling angrily"
+      ],
       "correctAnswer": "A",
       "explanation": "'An Autumn evening soft and mild with a wind that sighs mournfully' — the wind sighs mournfully.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "1"
     },
     {
       "id": "q10",
       "question": "'The clouds are white sheep' — what device is this?",
-      "options": ["Metaphor", "Simile", "Alliteration", "Rhyme"],
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Alliteration",
+        "Rhyme"
+      ],
       "correctAnswer": "A",
       "explanation": "Metaphor — says clouds ARE sheep without using 'as' or 'like'. Direct comparison.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "2"
     }
   ],
@@ -287,8 +442,163 @@
       "Exam results = mournful autumn or dazzling sea depending on result!"
     ],
     "formulas": [
-      { "formula": "Simile = X is like Y / X is as [quality] as Y", "explanation": "Always uses 'like' or 'as'" },
-      { "formula": "Metaphor = X is Y", "explanation": "Direct comparison without 'like'/'as'" }
+      {
+        "formula": "Simile = X is like Y / X is as [quality] as Y",
+        "explanation": "Always uses 'like' or 'as'"
+      },
+      {
+        "formula": "Metaphor = X is Y",
+        "explanation": "Direct comparison without 'like'/'as'"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Past, Present, Future",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "In the poem, what is the present hour compared to?",
+        "answer": "'The present hour? A green and flowery spray where a young bird sits gathering its power to mount and fly away.'",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "'As lovely as a flower' is an example of _____.",
+        "answer": "A simile compares two things using 'as' or 'like'. 'As lovely as a flower' uses 'as' — it is a simile.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "'Time is money' is an example of _____.",
+        "answer": "A metaphor says something IS something else without 'as'/'like'. 'Time is money' says time directly IS money.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How does the poem describe the future?",
+        "answer": "'And what is the future? A sea beneath a cloudless sun; a mighty, glorious, dazzling sea stretching into infinity.'",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The poem is presented as a _____.",
+        "answer": "The poem is in dialogue form — the poet asks questions ('Tell me, tell me, smiling child') and the child answers.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these uses 'like' to make a simile?",
+        "answer": "'She sings like a bird' uses 'like' to compare her singing to a bird's — it is a simile.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many metaphors are there in the poem?",
+        "answer": "Three metaphors: past IS an autumn evening, present IS a flowery spray where a bird sits, future IS a sea.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which century did Emily Brontë live in?",
+        "answer": "Emily Brontë and her sisters were well-known authors who lived in the nineteenth century (1800s).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The wind in the autumn evening is described as _____.",
+        "answer": "'An Autumn evening soft and mild with a wind that sighs mournfully' — the wind sighs mournfully.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "'The clouds are white sheep' — what device is this?",
+        "answer": "Metaphor — says clouds ARE sheep without using 'as' or 'like'. Direct comparison.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Identify and explain the use of Simile, Metaphor, and Alliteration in the poem \"Past, Present, Future\".",
+        "modelAnswer": "In the poem, the poet uses various literary devices to enhance the imagery and meaning. A simile is used when the poet asks, \"What the past is like to thee?\", directly comparing the past to the child's perspective. Metaphors are central to the poem, as the past is compared to an autumn evening, the present to a flowery spray, and the future to a dazzling sea. Alliteration is seen in phrases like \"smiling child\" and \"sea beneath a cloudless sun\", where the repetition of consonant sounds adds a musical quality. These devices beautifully illustrate the child's feelings about different stages of time.",
+        "keyPoints": [
+          "Simile: \"What the past is like to thee?\"",
+          "Metaphor: Comparing time periods to an autumn evening, flowery spray, and dazzling sea.",
+          "Alliteration: Repetition of consonant sounds like in \"smiling child\".",
+          "These devices enhance the visual and auditory experience of the poem."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "How does the poet use punctuation marks like the full stop, comma, question mark, and exclamation mark to guide the reader?",
+        "modelAnswer": "Punctuation in the poem serves to control the rhythm, tone, and dialogue structure between the poet and the child. Question marks are used at the end of the poet's inquiries, such as \"What the past is like to thee?\", inviting the reader into the conversation. Commas provide short pauses that help regulate the pace, especially in descriptive lists like \"A mighty, glorious, dazzling sea\". Full stops mark the end of a thought or stanza, giving the reader a moment to reflect on the imagery. While exclamation marks, hyphens, and dashes can indicate strong emotions or abrupt shifts, the poem primarily relies on questions and descriptive pauses to build its contemplative mood.",
+        "keyPoints": [
+          "Question marks signal the poet's inquiries to the child.",
+          "Commas create necessary pauses for emphasis in descriptions.",
+          "Full stops indicate the completion of a thought at the end of a stanza.",
+          "Punctuation guides the poem's contemplative rhythm and tone."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "Explain the concepts of antonyms and homonyms, providing examples relevant to the context of the poem.",
+        "modelAnswer": "Antonyms are words with opposite meanings, which help to create contrast and emphasize different stages of life. In the context of the poem, central antonyms include \"Past\" and \"Future\", as well as implied contrasts like \"soft\" versus harsh or \"mournfully\" versus joyfully. Homonyms are words that share the same spelling or pronunciation but have different meanings. For instance, the word \"spray\" in the poem refers to a small branch of flowers, but it can also mean a fine mist of liquid. Understanding these linguistic elements enriches the reader's appreciation of the poet's precise vocabulary choices.",
+        "keyPoints": [
+          "Antonyms are words with opposite meanings, such as \"Past\" and \"Future\".",
+          "Homonyms are words that sound or are spelled the same but have different meanings.",
+          "\"Spray\" means a flowering branch in the poem, but can also mean a mist of liquid.",
+          "These vocabulary choices highlight contrasts and add layers of meaning."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "Discuss how Onomatopoeia and Consonance are used to enhance the poem's mood.",
+        "modelAnswer": "The poet employs sound devices to convey the specific emotions associated with different times of life. Onomatopoeia occurs when a word's sound mimics its meaning, such as the word \"sighs\" which imitates the sound of a gentle, mournful wind. Consonance is the repetition of consonant sounds within or at the end of words, like the repeated \"s\" and \"z\" sounds in \"glorious, dazzling sea\". This repetition creates a sense of fluid movement and vastness, reflecting the excitement and limitless nature of the future. Together, these devices ensure that the poem's rhythm perfectly matches the natural elements being described.",
+        "keyPoints": [
+          "Onomatopoeia is used in words like \"sighs\" to mimic natural sounds.",
+          "Consonance involves the repetition of internal or ending consonant sounds.",
+          "The \"s\" and \"z\" sounds in \"dazzling sea\" emphasize fluidity and vastness.",
+          "Sound devices deeply enhance the poem's emotional atmosphere."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "How does Emily Brontë use nature imagery to represent the Past, Present, and Future?",
+        "modelAnswer": "Emily Brontë employs distinct nature metaphors to illustrate the passage of time, shifting from nostalgia to preparation and finally to boundless excitement. The Past is represented as an \"Autumn evening soft and mild\", suggesting a collection of pleasant memories tinged with gentle sadness. The Present is portrayed as a \"green and flowery spray\" where a young bird gathers its power, symbolizing a vital time of growth and preparation. Finally, the Future is described as a \"mighty, glorious, dazzling sea\" under a \"cloudless sun\", representing the thrilling and infinite possibilities that await. By linking time to the natural world, the poet suggests that life's stages are as beautiful and inevitable as the changing seasons.",
+        "keyPoints": [
+          "The Past is an \"Autumn evening\", representing gentle nostalgia.",
+          "The Present is a \"flowery spray\", symbolizing growth and preparation.",
+          "The Future is a \"dazzling sea\", signifying infinite, exciting possibilities.",
+          "Nature imagery connects the human experience of time to the natural world."
+        ],
+        "marks": 5
+      }
     ]
   }
 }

@@ -23,7 +23,12 @@
     {
       "id": "q2",
       "question": "When the moon is at its closest point to Earth in its orbit, this position is called _____.",
-      "options": ["Perigee", "Apogee", "Full Moon", "New Moon"],
+      "options": [
+        "Perigee",
+        "Apogee",
+        "Full Moon",
+        "New Moon"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
@@ -31,7 +36,12 @@
     {
       "id": "q3",
       "question": "A solar eclipse occurs on a _____.",
-      "options": ["New Moon day when Sun, Moon and Earth align in the same plane", "Full Moon day", "Quarter Moon day", "Any clear night"],
+      "options": [
+        "New Moon day when Sun, Moon and Earth align in the same plane",
+        "Full Moon day",
+        "Quarter Moon day",
+        "Any clear night"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 3
@@ -39,7 +49,12 @@
     {
       "id": "q4",
       "question": "A lunar eclipse occurs when _____.",
-      "options": ["The Moon enters Earth's shadow on a Full Moon day", "The Moon covers the Sun on a New Moon day", "The Moon is at apogee", "The Moon is at perigee"],
+      "options": [
+        "The Moon enters Earth's shadow on a Full Moon day",
+        "The Moon covers the Sun on a New Moon day",
+        "The Moon is at apogee",
+        "The Moon is at perigee"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 4
@@ -69,9 +84,18 @@
       "content": "The moon has two motions: (1) axial rotation — rotating around its own axis, and (2) orbital revolution — revolving around the Earth. Remarkably, the time taken for one rotation and one revolution are both the same (~27.3 days). Because of this, we always see the same face of the moon. The moon's orbit is elliptical, so its distance from Earth changes: Perigee = closest to Earth; Apogee = farthest from Earth.",
       "pageReference": "3",
       "examples": [
-        { "icon": "🌙", "text": "Moon takes ~27.3 days for one rotation AND one revolution — that's why we never see its 'far side'" },
-        { "icon": "🔭", "text": "Perigee: Moon ~363,300 km from Earth — appears larger (Supermoon!)" },
-        { "icon": "🌌", "text": "Apogee: Moon ~405,500 km from Earth — appears slightly smaller" }
+        {
+          "icon": "🌙",
+          "text": "Moon takes ~27.3 days for one rotation AND one revolution — that's why we never see its 'far side'"
+        },
+        {
+          "icon": "🔭",
+          "text": "Perigee: Moon ~363,300 km from Earth — appears larger (Supermoon!)"
+        },
+        {
+          "icon": "🌌",
+          "text": "Apogee: Moon ~405,500 km from Earth — appears slightly smaller"
+        }
       ],
       "keyPoints": [
         "Moon rotates on its axis AND revolves around Earth",
@@ -93,10 +117,22 @@
       "content": "The moon shines by reflecting sunlight. As the moon revolves around Earth, we see different portions of its illuminated side — these are the phases. New Moon (Amavasya): moon between Sun and Earth, the illuminated side faces away from us — we see nothing. Full Moon (Pournima): Earth between Sun and Moon, entire illuminated side faces us. Quarter days: Moon at 90° to Sun-Earth line — we see half the illuminated side (semicircle). The moon's orbit is inclined ~5° to Earth's orbit.",
       "pageReference": "3-4",
       "examples": [
-        { "icon": "🌑", "text": "New Moon (Amavasya): 0° — moon between Earth and Sun, invisible" },
-        { "icon": "🌓", "text": "First Quarter: 90° — half moon visible (right side lit)" },
-        { "icon": "🌕", "text": "Full Moon (Pournima): 180° — fully lit, Earth opposite to Sun" },
-        { "icon": "🌗", "text": "Third Quarter: 270° — half moon visible (left side lit)" }
+        {
+          "icon": "🌑",
+          "text": "New Moon (Amavasya): 0° — moon between Earth and Sun, invisible"
+        },
+        {
+          "icon": "🌓",
+          "text": "First Quarter: 90° — half moon visible (right side lit)"
+        },
+        {
+          "icon": "🌕",
+          "text": "Full Moon (Pournima): 180° — fully lit, Earth opposite to Sun"
+        },
+        {
+          "icon": "🌗",
+          "text": "Third Quarter: 270° — half moon visible (left side lit)"
+        }
       ],
       "keyPoints": [
         "Moon shines by reflected sunlight — no light of its own",
@@ -118,9 +154,18 @@
       "content": "Solar eclipse occurs on a New Moon day when the Moon is directly between the Sun and the Earth, and all three are in the same plane. The Moon's shadow falls on the Earth: Total solar eclipse — where the darker central shadow (umbra) falls; partial solar eclipse — where the lighter peripheral shadow (penumbra) falls. Annular eclipse: when Moon is at apogee (farthest), its shadow doesn't reach Earth — a ring of sunlight is visible. Maximum duration of total solar eclipse: 7 minutes 20 seconds.",
       "pageReference": "4-5",
       "examples": [
-        { "icon": "🌑", "text": "Total solar eclipse: Moon completely blocks Sun — brief darkness at midday" },
-        { "icon": "🌒", "text": "Partial eclipse: Moon partially covers Sun — only in penumbra region" },
-        { "icon": "💍", "text": "Annular eclipse: Moon at apogee (farther), appears smaller — ring of sunlight (annulus) visible" }
+        {
+          "icon": "🌑",
+          "text": "Total solar eclipse: Moon completely blocks Sun — brief darkness at midday"
+        },
+        {
+          "icon": "🌒",
+          "text": "Partial eclipse: Moon partially covers Sun — only in penumbra region"
+        },
+        {
+          "icon": "💍",
+          "text": "Annular eclipse: Moon at apogee (farther), appears smaller — ring of sunlight (annulus) visible"
+        }
       ],
       "keyPoints": [
         "Solar eclipse: on New Moon day, when Sun-Moon-Earth align in same plane",
@@ -143,9 +188,18 @@
       "content": "Lunar eclipse occurs on a Full Moon day when the Earth is between the Sun and the Moon, and all three are in the same plane. The Moon enters Earth's shadow. Total lunar eclipse: Moon completely enters Earth's darker shadow (umbra). Partial lunar eclipse: only part of the Moon enters the umbra. Maximum duration of a total lunar eclipse: 107 minutes. Unlike solar eclipses, lunar eclipses can be safely seen with the naked eye.",
       "pageReference": "5-6",
       "examples": [
-        { "icon": "🌕", "text": "Total lunar eclipse: Moon fully in Earth's shadow — appears reddish ('Blood Moon')" },
-        { "icon": "🌖", "text": "Partial lunar eclipse: part of Moon in shadow — part appears dark/reddish" },
-        { "icon": "👁️", "text": "Lunar eclipse visible from entire night-side of Earth — lasts up to 107 minutes" }
+        {
+          "icon": "🌕",
+          "text": "Total lunar eclipse: Moon fully in Earth's shadow — appears reddish ('Blood Moon')"
+        },
+        {
+          "icon": "🌖",
+          "text": "Partial lunar eclipse: part of Moon in shadow — part appears dark/reddish"
+        },
+        {
+          "icon": "👁️",
+          "text": "Lunar eclipse visible from entire night-side of Earth — lasts up to 107 minutes"
+        }
       ],
       "keyPoints": [
         "Lunar eclipse: on Full Moon day, when Sun-Earth-Moon align in same plane",
@@ -168,9 +222,18 @@
       "content": "The textbook clearly states: an eclipse is just an astronomical event — there is nothing 'auspicious' or 'inauspicious' about it. It is a result of the Sun, Earth and Moon being in specific positions. Scientists treat eclipses, especially total solar eclipses, as valuable research opportunities. Also mentioned: Occultation (Moon hides a star/planet), Transit (inner planet Mercury/Venus crosses the Sun disc), and advice never to watch a solar eclipse with naked eyes.",
       "pageReference": "6-7",
       "examples": [
-        { "icon": "🔭", "text": "Scientists worldwide travel to see total solar eclipses — rare opportunity to study the corona" },
-        { "icon": "⭐", "text": "Occultation: Moon hides a distant star or planet temporarily" },
-        { "icon": "🔵", "text": "Transit: Mercury or Venus seen as small dot crossing the Sun disc" }
+        {
+          "icon": "🔭",
+          "text": "Scientists worldwide travel to see total solar eclipses — rare opportunity to study the corona"
+        },
+        {
+          "icon": "⭐",
+          "text": "Occultation: Moon hides a distant star or planet temporarily"
+        },
+        {
+          "icon": "🔵",
+          "text": "Transit: Mercury or Venus seen as small dot crossing the Sun disc"
+        }
       ],
       "keyPoints": [
         "Eclipse is a natural astronomical event — not auspicious or inauspicious",
@@ -196,16 +259,25 @@
       ],
       "correctAnswer": "A",
       "explanation": "The moon takes the same time (~27.3 days) for one rotation and one revolution around Earth. So the same face always points towards Earth.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "3"
     },
     {
       "id": "q2",
       "question": "The moon at its closest point to Earth is in _____; at its farthest is in _____.",
-      "options": ["Perigee; Apogee", "Apogee; Perigee", "Full Moon; New Moon", "Transit; Occultation"],
+      "options": [
+        "Perigee; Apogee",
+        "Apogee; Perigee",
+        "Full Moon; New Moon",
+        "Transit; Occultation"
+      ],
       "correctAnswer": "A",
       "explanation": "Perigee = closest point of Moon to Earth (from Greek 'peri' = near). Apogee = farthest point (from 'apo' = away). Moon's orbit is elliptical, so distance varies.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "3"
     },
     {
@@ -219,7 +291,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "On Full Moon day, Earth is between the Sun and Moon. The entire illuminated half of the Moon faces Earth, so we see a full circle.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "3-4"
     },
     {
@@ -233,7 +307,10 @@
       ],
       "correctAnswer": "A",
       "explanation": "The Moon's orbital plane is inclined about 5° to Earth's orbital plane. So even on New Moon day, the three bodies are rarely in the same plane — eclipses only happen when they align exactly.",
-      "conceptIds": [2, 3],
+      "conceptIds": [
+        2,
+        3
+      ],
       "pageReference": "4"
     },
     {
@@ -247,16 +324,25 @@
       ],
       "correctAnswer": "A",
       "explanation": "At apogee, the Moon is farther from Earth and appears slightly smaller. Its shadow (umbra) doesn't reach Earth's surface — only a bright ring (annulus) of the Sun is visible around the Moon.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "5"
     },
     {
       "id": "q6",
       "question": "What is the maximum duration of a total lunar eclipse?",
-      "options": ["107 minutes", "7 minutes 20 seconds", "24 hours", "30 minutes"],
+      "options": [
+        "107 minutes",
+        "7 minutes 20 seconds",
+        "24 hours",
+        "30 minutes"
+      ],
       "correctAnswer": "A",
       "explanation": "The maximum duration of a total lunar eclipse is 107 minutes. (For comparison, total solar eclipse maximum is only 7 minutes 20 seconds.)",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "6"
     },
     {
@@ -270,7 +356,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "During a total lunar eclipse, the Moon is in Earth's shadow. Earth's atmosphere bends (refracts) red/orange light around the Earth and onto the Moon, making it appear reddish — the same reason sunsets are red.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "6"
     },
     {
@@ -284,7 +372,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Occultation is when the Moon obscures (hides) a star or planet as it passes in front of it. A total solar eclipse is actually a type of occultation where the Moon hides the Sun.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "7"
     },
     {
@@ -298,7 +388,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Looking at a solar eclipse (even partial) with naked eyes can permanently damage your eyesight. Special eclipse goggles or shade #14 welding glass are needed to safely observe it.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "7"
     },
     {
@@ -312,7 +404,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A transit is when an inner planet (only Mercury or Venus can come between Earth and Sun) crosses the Sun's disc. It appears as a tiny dark dot moving across the Sun — a type of solar eclipse caused by a planet rather than the Moon.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "7"
     }
   ],
@@ -342,7 +436,142 @@
       "Fishermen in coastal Maharashtra use tide tables (based on moon phases) for safe fishing"
     ],
     "formulas": [
-      { "formula": "Moon's rotation period = Revolution period = ~27.3 days", "explanation": "Why we always see the same face of the Moon — called synchronous rotation" }
+      {
+        "formula": "Moon's rotation period = Revolution period = ~27.3 days",
+        "explanation": "Why we always see the same face of the Moon — called synchronous rotation"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "drag-drop",
+    "title": "Sort the Features!",
+    "description": "Drag each item to its correct geographical category.",
+    "data": {
+      "items": [
+        "Summer Solstice",
+        "Winter Solstice",
+        "Spring Equinox",
+        "Autumn Equinox",
+        "Perihelion",
+        "Aphelion"
+      ],
+      "categories": [
+        "Earth closer to Sun",
+        "Earth farther from Sun",
+        "Equal day and night"
+      ],
+      "answers": {
+        "Summer Solstice": "Earth closer to Sun",
+        "Winter Solstice": "Earth farther from Sun",
+        "Spring Equinox": "Equal day and night",
+        "Autumn Equinox": "Equal day and night",
+        "Perihelion": "Earth closer to Sun",
+        "Aphelion": "Earth farther from Sun"
+      }
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "The Sun, the Moon and the Earth",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Why do we always see only one face of the moon?",
+        "answer": "The moon takes the same time (~27.3 days) for one rotation and one revolution around Earth. So the same face always points towards Earth.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The moon at its closest point to Earth is in _____; at its farthest is in _____.",
+        "answer": "Perigee = closest point of Moon to Earth (from Greek 'peri' = near). Apogee = farthest point (from 'apo' = away). Moon's orbit is elliptical, so distance varies.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The full moon phase occurs when _____.",
+        "answer": "On Full Moon day, Earth is between the Sun and Moon. The entire illuminated half of the Moon faces Earth, so we see a full circle.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why doesn't a solar eclipse occur on every New Moon day?",
+        "answer": "The Moon's orbital plane is inclined about 5° to Earth's orbital plane. So even on New Moon day, the three bodies are rarely in the same plane — eclipses only happen when they align exactly.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "An annular solar eclipse occurs when _____.",
+        "answer": "At apogee, the Moon is farther from Earth and appears slightly smaller. Its shadow (umbra) doesn't reach Earth's surface — only a bright ring (annulus) of the Sun is visible around the Moon.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the maximum duration of a total lunar eclipse?",
+        "answer": "The maximum duration of a total lunar eclipse is 107 minutes. (For comparison, total solar eclipse maximum is only 7 minutes 20 seconds.)",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A 'Blood Moon' (red colour during total lunar eclipse) occurs because _____.",
+        "answer": "During a total lunar eclipse, the Moon is in Earth's shadow. Earth's atmosphere bends (refracts) red/orange light around the Earth and onto the Moon, making it appear reddish — the same reason sunsets are red.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "An occultation occurs when _____.",
+        "answer": "Occultation is when the Moon obscures (hides) a star or planet as it passes in front of it. A total solar eclipse is actually a type of occultation where the Moon hides the Sun.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What precaution must you take while observing a solar eclipse?",
+        "answer": "Looking at a solar eclipse (even partial) with naked eyes can permanently damage your eyesight. Special eclipse goggles or shade #14 welding glass are needed to safely observe it.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A transit occurs when _____.",
+        "answer": "A transit is when an inner planet (only Mercury or Venus can come between Earth and Sun) crosses the Sun's disc. It appears as a tiny dark dot moving across the Sun — a type of solar eclipse caused by a planet rather than the Moon.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Why do we always see only one face of the moon?",
+        "modelAnswer": "The moon takes the same time (~27.3 days) for one rotation and one revolution around Earth. So the same face always points towards Earth. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The moon takes the same time (~27.3 days) for one rotation and one revolution around Earth.",
+          "So the same face always points towards Earth.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Why doesn't a solar eclipse occur on every New Moon day?",
+        "modelAnswer": "The Moon's orbital plane is inclined about 5° to Earth's orbital plane. So even on New Moon day, the three bodies are rarely in the same plane — eclipses only happen when they align exactly. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The Moon's orbital plane is inclined about 5° to Earth's orbital plane.",
+          "So even on New Moon day, the three bodies are rarely in the same plane — eclipses only happen when they align exactly.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What is the maximum duration of a total lunar eclipse?",
+        "modelAnswer": "The maximum duration of a total lunar eclipse is 107 minutes. (For comparison, total solar eclipse maximum is only 7 minutes 20 seconds.). This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The maximum duration of a total lunar eclipse is 107 minutes.",
+          "(For comparison, total solar eclipse maximum is only 7 minutes 20 seconds.).",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What precaution must you take while observing a solar eclipse?",
+        "modelAnswer": "Looking at a solar eclipse (even partial) with naked eyes can permanently damage your eyesight. Special eclipse goggles or shade #14 welding glass are needed to safely observe it. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Looking at a solar eclipse (even partial) with naked eyes can permanently damage your eyesight.",
+          "Special eclipse goggles or shade #14 welding glass are needed to safely observe it.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
     ]
   }
 }

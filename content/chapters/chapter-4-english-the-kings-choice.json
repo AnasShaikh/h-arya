@@ -260,7 +260,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The fox was the adviser to the lion king. The leopard was the bodyguard and the vulture was the messenger.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "10-11"
     },
     {
@@ -274,7 +276,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The vulture served as the messenger in the lion king's court. The fox was the adviser and the leopard was the bodyguard.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "10-11"
     },
     {
@@ -288,7 +292,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The clever fox ventured into the desert and brought back a camel to feed the sick lion king.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "11-12"
     },
     {
@@ -302,7 +308,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The courtiers were selfish — they did not truly care about the king. Their trick was motivated by self-interest, hoping to receive rewards.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "12-13"
     },
     {
@@ -316,7 +324,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The wise lion saw through the trick and chose kindness over selfishness. He befriended the camel and made him a member of his court.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "13-14"
     },
     {
@@ -330,7 +340,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The moral of the fable is 'To be king is good. But to be kind is better.' The lion's kindness made him a truly great ruler.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "14-15"
     },
     {
@@ -344,7 +356,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Mango is countable — we can say one mango, two mangoes. Water, rice, and milk are uncountable nouns.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "15"
     },
     {
@@ -358,7 +372,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Sand is uncountable — we cannot say 'one sand, two sands'. Chair, book, and pen are all countable nouns.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "15"
     },
     {
@@ -372,7 +388,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "'Some water' is correct because water is uncountable. We use 'some', 'much', or 'a little' with uncountable nouns.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "15"
     },
     {
@@ -386,7 +404,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A fable is a short story — usually with animal characters — that teaches a moral lesson. 'The King's Choice' features a lion, fox, leopard, vulture, and camel, and teaches the moral about kindness.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "10"
     }
   ],
@@ -417,5 +437,154 @@
       "Uncountable nouns in daily life: water in a glass, rice in a bowl, milk in a bottle"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "The King's Choice",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who was the adviser (courtier) to the lion king in the story?",
+        "answer": "The fox was the adviser to the lion king. The leopard was the bodyguard and the vulture was the messenger.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was the role of the vulture in the lion's court?",
+        "answer": "The vulture served as the messenger in the lion king's court. The fox was the adviser and the leopard was the bodyguard.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Where did the fox find the camel?",
+        "answer": "The clever fox ventured into the desert and brought back a camel to feed the sick lion king.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why did the courtiers trick the camel into offering itself as food?",
+        "answer": "The courtiers were selfish — they did not truly care about the king. Their trick was motivated by self-interest, hoping to receive rewards.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did the lion do when he saw through the courtiers' trick?",
+        "answer": "The wise lion saw through the trick and chose kindness over selfishness. He befriended the camel and made him a member of his court.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the moral of 'The King's Choice'?",
+        "answer": "The moral of the fable is 'To be king is good. But to be kind is better.' The lion's kindness made him a truly great ruler.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is a countable noun?",
+        "answer": "Mango is countable — we can say one mango, two mangoes. Water, rice, and milk are uncountable nouns.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is an uncountable noun?",
+        "answer": "Sand is uncountable — we cannot say 'one sand, two sands'. Chair, book, and pen are all countable nouns.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which sentence uses an uncountable noun correctly?",
+        "answer": "'Some water' is correct because water is uncountable. We use 'some', 'much', or 'a little' with uncountable nouns.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why is 'The King's Choice' called a fable?",
+        "answer": "A fable is a short story — usually with animal characters — that teaches a moral lesson. 'The King's Choice' features a lion, fox, leopard, vulture, and camel, and teaches the moral about kindness.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What was the role of the vulture in the lion's court?",
+        "modelAnswer": "In the lion's court, the vulture served as the king's messenger. Because the vulture could fly high in the sky, he was able to spot things from afar. He was responsible for bringing news from distant places to the lion. It was the vulture who initially informed the lion about the camel living in the desert.",
+        "keyPoints": [
+          "The vulture acted as the king's messenger.",
+          "He used his ability to fly high to spot things from far away.",
+          "He brought news from distant places to the lion.",
+          "He informed the lion about the camel in the desert."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Why did the courtiers trick the camel into offering itself as food?",
+        "modelAnswer": "The courtiers were very hungry but were too tired to hunt for food in the desert. They wanted to eat the camel but knew the lion had promised to protect it. To achieve their goal, they devised a plan where they offered themselves to the lion, knowing he would refuse them. They expected the innocent camel to copy them and offer itself, which they believed the hungry lion would accept.",
+        "keyPoints": [
+          "The courtiers were hungry and tired from the journey.",
+          "They wanted to eat the camel but the lion was protecting it.",
+          "They falsely offered themselves to the lion as food to set a trap.",
+          "They tricked the camel into copying them so the lion would eat it."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What did the lion do when he saw through the courtiers' trick?",
+        "modelAnswer": "The lion instantly understood the courtiers' cunning plan to sacrifice the innocent camel. Instead of falling for it, the lion played along with their trick. He happily accepted all their offers and declared he would eat them in the exact order they had presented themselves. This clever response terrified the selfish courtiers, causing them to immediately flee for their lives.",
+        "keyPoints": [
+          "The lion realized the courtiers were trying to trick the camel.",
+          "He agreed to eat all of them in the order they offered themselves.",
+          "His clever response turned the trap against the courtiers.",
+          "The fox, leopard, and vulture ran away in fear."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What is the moral of 'The King's Choice'?",
+        "modelAnswer": "The moral of the story is that true leadership requires wisdom, loyalty, and the ability to protect those who trust you. The lion showed greatness not just by being strong, but by recognizing the true intentions of his greedy courtiers. He rewarded the camel's genuine loyalty by offering him lifelong protection and friendship. It teaches us that good leaders value true friends over selfish flatterers.",
+        "keyPoints": [
+          "True leadership requires wisdom and the ability to protect others.",
+          "The lion recognized the selfish and greedy intentions of his courtiers.",
+          "He rewarded the camel's genuine loyalty with lifelong friendship.",
+          "Good leaders value true friends over selfish flatterers."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Why is 'The King's Choice' called a fable?",
+        "modelAnswer": "'The King's Choice' is called a fable because it is a short, fictional story that features animals as its main characters. In the story, the lion, fox, leopard, vulture, and camel are given human-like qualities, such as the ability to talk, reason, and plot. Like all fables, it is specifically designed to teach a moral lesson at the end. The story effectively uses these animal characters to illustrate human values like loyalty, wisdom, and the dangers of selfishness.",
+        "keyPoints": [
+          "The story features animals as the main characters.",
+          "The animals have human-like qualities, such as talking and reasoning.",
+          "It is designed to teach a clear moral lesson at the end.",
+          "It uses animals to illustrate human values like loyalty and wisdom."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

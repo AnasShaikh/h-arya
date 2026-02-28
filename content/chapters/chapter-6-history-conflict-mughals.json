@@ -322,5 +322,158 @@
       "Lal Mahal in Pune has been reconstructed and can be visited today — the place of Shivaji's childhood and later the site of the Shaista Khan raid."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Babur founds Mughal Empire",
+          "year": "1526",
+          "fact": "Babur defeated Ibrahim Lodi in the First Battle of Panipat"
+        },
+        {
+          "label": "Akbar becomes Emperor",
+          "year": "1556",
+          "fact": "Akbar the Great expanded the Mughal Empire significantly"
+        },
+        {
+          "label": "Shah Jahan builds Taj Mahal",
+          "year": "1632",
+          "fact": "Built in memory of Mumtaz Mahal, completed in 1653"
+        },
+        {
+          "label": "Aurangzeb's rule begins",
+          "year": "1658",
+          "fact": "The last great Mughal emperor, known for his strict policies"
+        },
+        {
+          "label": "Decline of Mughal Empire",
+          "year": "1707",
+          "fact": "After Aurangzeb's death, the empire began to fragment"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Conflict with the Mughals",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Where did Shaista Khan set up his headquarters after occupying Pune?",
+        "answer": "Shaista Khan occupied Pune and deliberately set up his headquarters in the Lal Mahal — the palace where Shivaji had spent his childhood. Shivaji's daring night raid on this very palace wounded Shaista Khan and drove him away in humiliation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "During Shivaji's sack of Surat, which group was specifically protected?",
+        "answer": "Shivaji specifically protected the English, Dutch, and other European foreign traders during the sacking of Surat. This was a strategic decision to avoid making enemies of European powers while maximizing damage to Mughal economic interests.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many forts did Shivaji retain after the Purandardar Treaty?",
+        "answer": "The Purandardar Treaty required Shivaji to surrender 23 forts to the Mughals and retain only 12. Before the treaty, Shivaji had about 35 forts. He later recaptured most of the surrendered forts.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'ganimi kava' mean?",
+        "answer": "Ganimi kava refers to guerrilla warfare tactics — fighting through surprise attacks, quick retreats, use of local terrain knowledge, and striking at supply lines rather than engaging in open battle. It was the military strategy that made Shivaji's relatively small forces extremely effective against the large Mughal army.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In what year did Shivaji Maharaj pass away?",
+        "answer": "Shivaji Maharaj passed away on 3 April 1680 at Raigad fort. He died at the age of 50, leaving behind a well-organized Swaraj kingdom that would continue to resist the Mughals for decades after his death.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why was Jai Singh's military strategy against Shivaji more effective than previous Mughal generals?",
+        "answer": "Jai Singh's genius was avoiding open battle (where the terrain favored Marathas) and instead isolating Shivaji through a combination of siege warfare around key forts and diplomacy to convince Maratha sardars to defect. This strategy was far more effective than previous Mughal frontal attacks.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What role did Shivaji's spy network play in his success?",
+        "answer": "Shivaji had a sophisticated intelligence and spy network. Advance warning of Afzal Khan's treacherous intentions allowed Shivaji to prepare the bagh nakh. Intelligence about Shaista Khan's lax security during the wedding allowed the night raid. Information gathering was central to his military success.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following best describes why Shivaji chose guerrilla warfare over open battle?",
+        "answer": "The Mughal army was vastly larger with superior cavalry on plains. In open battle, Shivaji would lose by sheer numbers. Guerrilla warfare in the Western Ghats terrain — where Mughal cavalry was ineffective and supply lines were vulnerable — allowed the smaller Maratha forces to be devastatingly effective.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "How many forts did Shivaji retain after the Purandardar Treaty?",
+        "modelAnswer": "The Purandardar Treaty required Shivaji to surrender 23 forts to the Mughals and retain only 12. Before the treaty, Shivaji had about 35 forts. He later recaptured most of the surrendered forts. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The Purandardar Treaty required Shivaji to surrender 23 forts to the Mughals and retain only 12.",
+          "Before the treaty, Shivaji had about 35 forts.",
+          "He later recaptured most of the surrendered forts.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What does 'ganimi kava' mean?",
+        "modelAnswer": "Ganimi kava refers to guerrilla warfare tactics — fighting through surprise attacks, quick retreats, use of local terrain knowledge, and striking at supply lines rather than engaging in open battle. It was the military strategy that made Shivaji's relatively small forces extremely effective against the large Mughal army. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Ganimi kava refers to guerrilla warfare tactics — fighting through surprise attacks, quick retreats, use of local terrain knowledge, and striking at supply lines rather than engaging in open battle.",
+          "It was the military strategy that made Shivaji's relatively small forces extremely effective against the large Mughal army.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "In what year did Shivaji Maharaj pass away?",
+        "modelAnswer": "Shivaji Maharaj passed away on 3 April 1680 at Raigad fort. He died at the age of 50, leaving behind a well-organized Swaraj kingdom that would continue to resist the Mughals for decades after his death. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Shivaji Maharaj passed away on 3 April 1680 at Raigad fort.",
+          "He died at the age of 50, leaving behind a well-organized Swaraj kingdom that would continue to resist the Mughals for decades after his death.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Why was Jai Singh's military strategy against Shivaji more effective than previous Mughal generals?",
+        "modelAnswer": "Jai Singh's genius was avoiding open battle (where the terrain favored Marathas) and instead isolating Shivaji through a combination of siege warfare around key forts and diplomacy to convince Maratha sardars to defect. This strategy was far more effective than previous Mughal frontal attacks. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Jai Singh's genius was avoiding open battle (where the terrain favored Marathas) and instead isolating Shivaji through a combination of siege warfare around key forts and diplomacy to convince Maratha sardars to defect.",
+          "This strategy was far more effective than previous Mughal frontal attacks.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What role did Shivaji's spy network play in his success?",
+        "modelAnswer": "Shivaji had a sophisticated intelligence and spy network. Advance warning of Afzal Khan's treacherous intentions allowed Shivaji to prepare the bagh nakh. Intelligence about Shaista Khan's lax security during the wedding allowed the night raid. Information gathering was central to his military success. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Shivaji had a sophisticated intelligence and spy network.",
+          "Advance warning of Afzal Khan's treacherous intentions allowed Shivaji to prepare the bagh nakh.",
+          "Intelligence about Shaista Khan's lax security during the wedding allowed the night raid.",
+          "Information gathering was central to his military success."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Which of the following best describes why Shivaji chose guerrilla warfare over open battle?",
+        "modelAnswer": "The Mughal army was vastly larger with superior cavalry on plains. In open battle, Shivaji would lose by sheer numbers. Guerrilla warfare in the Western Ghats terrain — where Mughal cavalry was ineffective and supply lines were vulnerable — allowed the smaller Maratha forces to be devastatingly effective. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The Mughal army was vastly larger with superior cavalry on plains.",
+          "In open battle, Shivaji would lose by sheer numbers.",
+          "Guerrilla warfare in the Western Ghats terrain — where Mughal cavalry was ineffective and supply lines were vulnerable — allowed the smaller Maratha forces to be devastatingly effective.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

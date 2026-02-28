@@ -268,7 +268,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Langston Hughes wrote 'In Time of Silver Rain'. He is a famous American poet known for joyful, nature-inspired poems.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "8"
     },
     {
@@ -282,7 +284,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In the first stanza of the poem, the silver rain falls on the earth and the earth grows green again — showing new life and renewal.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "8"
     },
     {
@@ -296,7 +300,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In the second stanza, butterflies lift their wings and fly through the air, showing the joy that rain brings to all creatures.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "8-9"
     },
     {
@@ -310,7 +316,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In the third stanza, boys and girls lift their singing voices to the sky, expressing joy and celebration during the rain.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "9"
     },
     {
@@ -324,7 +332,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Wings and sings are rhyming words — they share the '-ings' ending sound. This rhyming pattern makes the poem musical.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "9"
     },
     {
@@ -338,7 +348,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Alliteration is when the same sound appears at the beginning of two or more words in a line, making the language musical.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "9"
     },
     {
@@ -352,7 +364,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "'Nayna needs new notebooks' uses alliteration because N, N, N — the same 'N' sound appears at the start of multiple words.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "9"
     },
     {
@@ -366,7 +380,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The word 'silver' is used to describe the beauty and shining quality of the rain, not its actual colour or content. It creates a poetic image.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "8"
     }
   ],
@@ -395,5 +411,144 @@
       "School practice: 'Peter Piper picked a peck of pickled peppers' — alliteration tongue twister"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "In Time of Silver Rain",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who is the poet of 'In Time of Silver Rain'?",
+        "answer": "Langston Hughes wrote 'In Time of Silver Rain'. He is a famous American poet known for joyful, nature-inspired poems.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What happens to the earth when silver rain falls in the poem?",
+        "answer": "In the first stanza of the poem, the silver rain falls on the earth and the earth grows green again — showing new life and renewal.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What do butterflies do in the poem when silver rain falls?",
+        "answer": "In the second stanza, butterflies lift their wings and fly through the air, showing the joy that rain brings to all creatures.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What do boys and girls do in the poem during the silver rain?",
+        "answer": "In the third stanza, boys and girls lift their singing voices to the sky, expressing joy and celebration during the rain.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is a rhyming pair from the poem?",
+        "answer": "Wings and sings are rhyming words — they share the '-ings' ending sound. This rhyming pattern makes the poem musical.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the definition of alliteration?",
+        "answer": "Alliteration is when the same sound appears at the beginning of two or more words in a line, making the language musical.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which sentence is an example of alliteration?",
+        "answer": "'Nayna needs new notebooks' uses alliteration because N, N, N — the same 'N' sound appears at the start of multiple words.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why does the poet describe rain as 'silver' rain?",
+        "answer": "The word 'silver' is used to describe the beauty and shining quality of the rain, not its actual colour or content. It creates a poetic image.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "How does the earth react to the silver rain according to the poem?",
+        "modelAnswer": "When the silver rain falls, the earth puts forth new life again. Green grasses begin to grow, and beautiful flowers lift their heads towards the sky. The wonder of life spreads over the entire plain, bringing immense joy and renewal to nature. This vivid imagery shows how the spring rain rejuvenates the earth and creates a fresh start.",
+        "keyPoints": [
+          "The earth puts forth new life again.",
+          "Green grasses grow and flowers lift their heads.",
+          "The wonder of life spreads over the plain bringing renewal.",
+          "Spring rain rejuvenates the earth and creates a fresh start."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What is the effect of the silver rain on the butterflies?",
+        "modelAnswer": "In the time of silver rain, butterflies lift their delicate silken wings in the air. They flutter joyfully as if trying to catch a rainbow cry in the vibrant sky. Their graceful movement adds to the overall beauty and energetic life of the spring season. The gentle rain creates a perfect, refreshing setting for the butterflies to rejoice.",
+        "keyPoints": [
+          "Butterflies lift their delicate silken wings.",
+          "They flutter to catch a rainbow cry in the sky.",
+          "Their graceful movement adds to the beauty of spring.",
+          "The gentle rain creates a refreshing setting for rejoicing."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "How do the boys and girls express their joy during the silver rain?",
+        "modelAnswer": "During the silver rain, young boys and girls walk down the roadway passing by. They are filled with immense happiness and go singing cheerfully down the street. Their joyful singing perfectly reflects the happiness and new life that the spring season brings to everyone. The fresh, cool rain visibly uplifts their spirits and encourages them to celebrate.",
+        "keyPoints": [
+          "Young boys and girls walk down the roadway.",
+          "They go singing cheerfully down the street.",
+          "Their happiness reflects the joy of spring and new life.",
+          "The fresh rain visibly uplifts their spirits."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "How does the poet use alliteration in the poem 'In Time of Silver Rain'?",
+        "modelAnswer": "The poet uses alliteration to create rhythm and a musical effect throughout the poem. Alliteration involves repeating the same consonant sound at the beginning of closely connected words. For instance, the phrase 'Green grasses grow' repeats the 'g' sound to emphasize the imagery of nature's growth. Another example is 'silver rain,' where the soft sounds evoke the gentle and peaceful falling of rain.",
+        "keyPoints": [
+          "Alliteration repeats consonant sounds at the beginning of words.",
+          "The poet uses it to create rhythm and a musical effect.",
+          "The phrase 'Green grasses grow' repeats the 'g' sound for emphasis.",
+          "Soft sounds in 'silver rain' evoke the gentle falling of rain."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la5",
+        "question": "Why is the rain described as 'silver' and what does it symbolize?",
+        "modelAnswer": "The poet describes the rain as 'silver' because falling raindrops shine and sparkle brightly when they catch the light. Silver is a precious and valuable metal, suggesting that the spring rain is a precious gift to the earth. It symbolizes the arrival of new life, hope, and the washing away of the dull winter. The shining rain transforms the world into a magical, vibrant place full of joy.",
+        "keyPoints": [
+          "Raindrops shine and sparkle brightly like silver in the light.",
+          "Silver suggests the rain is a precious and valuable gift.",
+          "The rain symbolizes new life, hope, and renewal.",
+          "It transforms the world into a magical and vibrant place."
+        ],
+        "marks": 4
+      }
+    ]
   }
 }

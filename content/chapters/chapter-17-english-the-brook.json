@@ -10,7 +10,12 @@
     {
       "id": "pre_17_1",
       "question": "Who wrote the poem 'The Brook'?",
-      "options": ["A) William Shakespeare", "B) Walter de la Mare", "C) Alfred Lord Tennyson", "D) John Keats"],
+      "options": [
+        "A) William Shakespeare",
+        "B) Walter de la Mare",
+        "C) Alfred Lord Tennyson",
+        "D) John Keats"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_17_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_17_2",
       "question": "In the poem, who is speaking?",
-      "options": ["A) A river", "B) A brook (small stream)", "C) A mountain", "D) A fisherman"],
+      "options": [
+        "A) A river",
+        "B) A brook (small stream)",
+        "C) A mountain",
+        "D) A fisherman"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_17_1"
@@ -26,7 +36,12 @@
     {
       "id": "pre_17_3",
       "question": "What is the famous refrain (repeated lines) in the poem?",
-      "options": ["A) 'I go on and on forever'", "B) 'For men may come and men may go, But I go on for ever'", "C) 'The brook flows and flows forever'", "D) 'Nature is eternal, man is not'"],
+      "options": [
+        "A) 'I go on and on forever'",
+        "B) 'For men may come and men may go, But I go on for ever'",
+        "C) 'The brook flows and flows forever'",
+        "D) 'Nature is eternal, man is not'"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_17_4"
@@ -34,7 +49,12 @@
     {
       "id": "pre_17_4",
       "question": "Which of these is a sound word used in the poem?",
-      "options": ["A) Silver", "B) Babble", "C) Golden", "D) Blue"],
+      "options": [
+        "A) Silver",
+        "B) Babble",
+        "C) Golden",
+        "D) Blue"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_17_3"
@@ -42,7 +62,12 @@
     {
       "id": "pre_17_5",
       "question": "What is a preposition?",
-      "options": ["A) A word that describes a noun", "B) A word that shows the relationship between a noun and another word in a sentence", "C) A word that replaces a noun", "D) A word that joins two sentences"],
+      "options": [
+        "A) A word that describes a noun",
+        "B) A word that shows the relationship between a noun and another word in a sentence",
+        "C) A word that replaces a noun",
+        "D) A word that joins two sentences"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_17_5"
@@ -174,7 +199,12 @@
     {
       "id": "test_17_1",
       "question": "Who wrote the poem 'The Brook'?",
-      "options": ["A) John Keats", "B) Alfred Lord Tennyson", "C) William Wordsworth", "D) Percy Shelley"],
+      "options": [
+        "A) John Keats",
+        "B) Alfred Lord Tennyson",
+        "C) William Wordsworth",
+        "D) Percy Shelley"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "Alfred Lord Tennyson (1809–1892) wrote 'The Brook'. He was the Poet Laureate of England and one of the greatest Victorian poets."
@@ -182,7 +212,12 @@
     {
       "id": "test_17_2",
       "question": "Who speaks in the poem 'The Brook'?",
-      "options": ["A) A fisherman telling about the brook", "B) The poet describing the brook", "C) The brook itself, in first person", "D) A village elder near the brook"],
+      "options": [
+        "A) A fisherman telling about the brook",
+        "B) The poet describing the brook",
+        "C) The brook itself, in first person",
+        "D) A village elder near the brook"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "In 'The Brook', the brook itself speaks in first person — it says 'I chatter', 'I slip', 'I slide'. This technique of giving human qualities to nature is called personification."
@@ -190,7 +225,12 @@
     {
       "id": "test_17_3",
       "question": "What does the brook finally join at the end of its journey?",
-      "options": ["A) The sea", "B) The brimming river", "C) A lake", "D) A waterfall"],
+      "options": [
+        "A) The sea",
+        "B) The brimming river",
+        "C) A lake",
+        "D) A waterfall"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "After its long journey — down thirty hills, past twenty thorpes, under fifty bridges — the brook finally joins the 'brimming river', a large, full-flowing river."
@@ -198,7 +238,12 @@
     {
       "id": "test_17_4",
       "question": "What is the famous refrain of the poem?",
-      "options": ["A) 'The brook flows forever over stones'", "B) 'For men may come and men may go, But I go on for ever'", "C) 'Nature is eternal, life is short'", "D) 'I slip and I slide and I gloom and I glance'"],
+      "options": [
+        "A) 'The brook flows forever over stones'",
+        "B) 'For men may come and men may go, But I go on for ever'",
+        "C) 'Nature is eternal, life is short'",
+        "D) 'I slip and I slide and I gloom and I glance'"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "The famous refrain is 'For men may come and men may go, But I go on for ever.' It means humans are temporary but the brook (nature) is eternal."
@@ -206,7 +251,12 @@
     {
       "id": "test_17_5",
       "question": "Which sound word means 'to make a continuous murmuring sound like water'?",
-      "options": ["A) Glance", "B) Gloom", "C) Babble", "D) Slip"],
+      "options": [
+        "A) Glance",
+        "B) Gloom",
+        "C) Babble",
+        "D) Slip"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "'Babble' means to make continuous, murmuring sounds like water flowing over pebbles. It is one of the sound words that makes the poem musical."
@@ -214,7 +264,12 @@
     {
       "id": "test_17_6",
       "question": "In 'The brook flows through the valley', what is the preposition?",
-      "options": ["A) brook", "B) flows", "C) through", "D) valley"],
+      "options": [
+        "A) brook",
+        "B) flows",
+        "C) through",
+        "D) valley"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "'Through' is the preposition — it shows the relationship between the brook's movement and the valley (it flows through/inside the valley)."
@@ -222,7 +277,12 @@
     {
       "id": "test_17_7",
       "question": "How many bridges does the brook pass under in the poem?",
-      "options": ["A) Twenty", "B) Thirty", "C) Forty", "D) Half a hundred (fifty)"],
+      "options": [
+        "A) Twenty",
+        "B) Thirty",
+        "C) Forty",
+        "D) Half a hundred (fifty)"
+      ],
       "correctAnswer": "D",
       "difficulty": "medium",
       "explanation": "The brook passes under 'half a hundred bridges', which means fifty bridges. It also flows down thirty hills and past twenty thorpes (small villages)."
@@ -230,7 +290,12 @@
     {
       "id": "test_17_8",
       "question": "What technique is used in the poem when the brook speaks like a human being?",
-      "options": ["A) Simile", "B) Metaphor", "C) Personification", "D) Alliteration"],
+      "options": [
+        "A) Simile",
+        "B) Metaphor",
+        "C) Personification",
+        "D) Alliteration"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Personification is the technique used — giving human qualities, speech, or feelings to something that is not human. The brook speaks using 'I', as if it were a person."
@@ -238,7 +303,12 @@
     {
       "id": "test_17_9",
       "question": "What is the message of the refrain 'For men may come and men may go, But I go on for ever'?",
-      "options": ["A) Men are stronger than nature", "B) Nature is eternal but human life is temporary", "C) Men should live near brooks", "D) The brook is sad that men leave it"],
+      "options": [
+        "A) Men are stronger than nature",
+        "B) Nature is eternal but human life is temporary",
+        "C) Men should live near brooks",
+        "D) The brook is sad that men leave it"
+      ],
       "correctAnswer": "B",
       "difficulty": "hard",
       "explanation": "The refrain means that while humans are born and die (temporary), the brook — representing nature — flows on forever (eternal). It contrasts the permanence of nature with the brevity of human life."
@@ -267,5 +337,149 @@
       "Bird watching near brooks and streams is a popular activity in Maharashtra — students can spot herons (hern) and coots near local water bodies, just like in the poem."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What is a 'brook'?",
+          "back": "A small, natural stream of water"
+        },
+        {
+          "front": "What poetic device is used when the brook 'speaks'?",
+          "back": "Personification - giving human qualities to non-human things"
+        },
+        {
+          "front": "What does 'I chatter over stony ways' mean?",
+          "back": "The brook makes noise as it flows over rocks"
+        },
+        {
+          "front": "Who wrote 'The Brook'?",
+          "back": "Alfred Lord Tennyson, a famous English poet"
+        },
+        {
+          "front": "What is the mood of the poem 'The Brook'?",
+          "back": "Joyful, lively, and celebratory of nature"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "The Brook",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who wrote the poem 'The Brook'?",
+        "answer": "Alfred Lord Tennyson (1809–1892) wrote 'The Brook'. He was the Poet Laureate of England and one of the greatest Victorian poets.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who speaks in the poem 'The Brook'?",
+        "answer": "In 'The Brook', the brook itself speaks in first person — it says 'I chatter', 'I slip', 'I slide'. This technique of giving human qualities to nature is called personification.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does the brook finally join at the end of its journey?",
+        "answer": "After its long journey — down thirty hills, past twenty thorpes, under fifty bridges — the brook finally joins the 'brimming river', a large, full-flowing river.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the famous refrain of the poem?",
+        "answer": "The famous refrain is 'For men may come and men may go, But I go on for ever.' It means humans are temporary but the brook (nature) is eternal.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which sound word means 'to make a continuous murmuring sound like water'?",
+        "answer": "'Babble' means to make continuous, murmuring sounds like water flowing over pebbles. It is one of the sound words that makes the poem musical.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'The brook flows through the valley', what is the preposition?",
+        "answer": "'Through' is the preposition — it shows the relationship between the brook's movement and the valley (it flows through/inside the valley).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many bridges does the brook pass under in the poem?",
+        "answer": "The brook passes under 'half a hundred bridges', which means fifty bridges. It also flows down thirty hills and past twenty thorpes (small villages).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What technique is used in the poem when the brook speaks like a human being?",
+        "answer": "Personification is the technique used — giving human qualities, speech, or feelings to something that is not human. The brook speaks using 'I', as if it were a person.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the message of the refrain 'For men may come and men may go, But I go on for ever'?",
+        "answer": "The refrain means that while humans are born and die (temporary), the brook — representing nature — flows on forever (eternal). It contrasts the permanence of nature with the brevity of human life.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Describe the journey of the brook as mentioned in the poem.",
+        "modelAnswer": "The brook begins its journey from the haunts of coot and hern, making a sudden sally down the hills. It hurries past thirty hills, slips between ridges, and flows by twenty thorpes, a little town, and half a hundred bridges. Finally, it flows by Philip's farm to join the brimming river. Throughout its journey, it chatters over stony ways and babbles on the pebbles, displaying a lively and unceasing energy.",
+        "keyPoints": [
+          "Starts from the haunts of coot and hern and rushes down.",
+          "Flows past thirty hills, twenty thorpes, a little town, and fifty bridges.",
+          "Finally passes Philip's farm to join the brimming river.",
+          "Characterized by lively movements and continuous energetic sounds."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la2",
+        "question": "Explain the central theme of the poem 'The Brook'.",
+        "modelAnswer": "The central theme of the poem is the contrast between the eternal nature of the brook and the transient nature of human life. This is highlighted by the refrain, 'For men may come and men may go, But I go on for ever.' While human beings have a short lifespan and inevitably pass away, the brook continues its journey endlessly. The poem uses the brook's continuous flow to symbolize the permanence of nature as opposed to human mortality.",
+        "keyPoints": [
+          "Contrasts the eternal nature of the brook with transient human life.",
+          "The refrain emphasizes that humans come and go, but the brook is forever.",
+          "Human beings have a limited lifespan and eventually pass away.",
+          "The brook symbolizes the unending and permanent force of nature."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "How does the poet use sound words to bring the brook to life?",
+        "modelAnswer": "Alfred Lord Tennyson uses vivid sound words, or onomatopoeia, to describe the brook's movements and make the poem musical. Words like 'chatter', 'babble', 'bubble', and 'murmur' mimic the actual sounds of flowing water over pebbles and stones. This rich imagery helps the reader vividly hear and visualize the water as it slips, slides, and dances along its path. These auditory details bring the brook to life, giving it a lively and energetic personality.",
+        "keyPoints": [
+          "Uses onomatopoeia to mimic the actual sounds of flowing water.",
+          "Words like 'chatter', 'babble', 'bubble', and 'murmur' describe its movement.",
+          "Auditory details help readers vividly hear and visualize the water.",
+          "These sound words give the brook a lively, energetic personality."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "Discuss the use of personification in the poem 'The Brook'.",
+        "modelAnswer": "In the poem, the poet uses personification by giving the brook a human voice and personality. The brook narrates its own journey in the first person, using the pronoun 'I' to describe its actions like chattering, loitering, and murmuring. By giving human-like qualities to a natural stream, Tennyson makes the brook an active, living character rather than a lifeless object. This technique allows readers to connect deeply with the brook's adventurous journey to the river.",
+        "keyPoints": [
+          "The brook is personified by being given a human voice and personality.",
+          "It narrates its own journey in the first person using 'I'.",
+          "It performs human-like actions such as chattering, murmuring, and loitering.",
+          "This technique makes the brook feel like a living, breathing character."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What does the brook carry with it on its way to the brimming river?",
+        "modelAnswer": "As the brook flows toward the brimming river, it carries several elements of nature along with it. It takes along blossoms sailing on its surface, and lively trout and grayling fish swimming in its waters. The brook also carries foamy flakes and draws along various weeds as it winds about. These details create a vibrant picture of a thriving, dynamic ecosystem moving alongside the water.",
+        "keyPoints": [
+          "The brook carries floating blossoms on its surface.",
+          "It supports aquatic life like lusty trout and grayling fish.",
+          "Foamy flakes and water weeds are drawn along in its current.",
+          "These elements illustrate a vibrant and dynamic natural ecosystem."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

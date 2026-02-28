@@ -10,15 +10,25 @@
     {
       "id": "q1",
       "question": "A simile is a comparison that uses the words _____.",
-      "options": ["'as' or 'like'", "'and' or 'but'", "'is' or 'are'", "'when' or 'if'"],
+      "options": [
+        "'as' or 'like'",
+        "'and' or 'but'",
+        "'is' or 'are'",
+        "'when' or 'if'"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 1
     },
     {
       "id": "q2",
-      "question": "Who wrote the poem 'Past, Present, Future'?",
-      "options": ["Emily Brontë", "Langston Hughes", "R.L. Stevenson", "Walter de la Mare"],
+      "question": "Who wrote the poem 'Past, Present, Present, Future'?",
+      "options": [
+        "Emily Brontë",
+        "Langston Hughes",
+        "R.L. Stevenson",
+        "Walter de la Mare"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "In 'Odd One In', what was Malti's strength that surprised everyone?",
-      "options": ["Mathematics", "English speaking", "Dancing", "Drawing"],
+      "options": [
+        "Mathematics",
+        "English speaking",
+        "Dancing",
+        "Drawing"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 3
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "In 'The King's Choice', what did the lion learn at the end?",
-      "options": ["To be kind is better than to be king", "The camel is the strongest animal", "The fox is the wisest", "The vulture is most loyal"],
+      "options": [
+        "To be kind is better than to be king",
+        "The camel is the strongest animal",
+        "The fox is the wisest",
+        "The vulture is most loyal"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 4
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "Which of the following is a proper noun?",
-      "options": ["Mumbai", "city", "river", "book"],
+      "options": [
+        "Mumbai",
+        "city",
+        "river",
+        "book"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 5
@@ -59,10 +84,22 @@
       "content": "A simile compares two different things using 'as' or 'like' (e.g., 'as tall as a tree'). A metaphor makes a direct comparison without 'as' or 'like' (e.g., 'Books are our friends'). Alliteration is when the same sound appears at the beginning of two or more words in a line (e.g., 'Nayna needs new notebooks').",
       "pageReference": "2, 7, 9",
       "examples": [
-        { "icon": "🔵", "text": "Simile: 'Charging along like troops in a battle'" },
-        { "icon": "🌙", "text": "Metaphor: 'The future is a sea beneath a cloudless sun'" },
-        { "icon": "📢", "text": "Alliteration: 'In time of silver rain' (silver, singing)" },
-        { "icon": "✍️", "text": "Metaphor: 'Time is money'; 'The clouds are white sheep'" }
+        {
+          "icon": "🔵",
+          "text": "Simile: 'Charging along like troops in a battle'"
+        },
+        {
+          "icon": "🌙",
+          "text": "Metaphor: 'The future is a sea beneath a cloudless sun'"
+        },
+        {
+          "icon": "📢",
+          "text": "Alliteration: 'In time of silver rain' (silver, singing)"
+        },
+        {
+          "icon": "✍️",
+          "text": "Metaphor: 'Time is money'; 'The clouds are white sheep'"
+        }
       ],
       "keyPoints": [
         "Simile: comparison using 'as' or 'like'",
@@ -84,10 +121,22 @@
       "content": "Emily Brontë's 'Past, Present, Future' uses nature to describe time through a child's eyes — past is an autumn evening, present is a bird gathering strength, future is a glorious sea. Langston Hughes's 'In Time of Silver Rain' celebrates how rain brings new life, joy and growth.",
       "pageReference": "1-2, 8-9",
       "examples": [
-        { "icon": "🍂", "text": "Past: 'An autumn evening soft and mild'" },
-        { "icon": "🐦", "text": "Present: 'A young bird gathering its power to fly'" },
-        { "icon": "🌊", "text": "Future: 'A mighty, glorious, dazzling sea'" },
-        { "icon": "🌧️", "text": "Silver rain: 'The earth puts forth new life again'" }
+        {
+          "icon": "🍂",
+          "text": "Past: 'An autumn evening soft and mild'"
+        },
+        {
+          "icon": "🐦",
+          "text": "Present: 'A young bird gathering its power to fly'"
+        },
+        {
+          "icon": "🌊",
+          "text": "Future: 'A mighty, glorious, dazzling sea'"
+        },
+        {
+          "icon": "🌧️",
+          "text": "Silver rain: 'The earth puts forth new life again'"
+        }
       ],
       "keyPoints": [
         "Emily Brontë: 19th century British poet, uses nature as metaphor",
@@ -109,10 +158,22 @@
       "content": "In 'Odd One In' by Tithi Tavora, Rima mocks Malti for her appearance and accent. But Malti proves her intelligence and talent through mathematics and singing. The story teaches us not to judge people by their appearance or the way they speak. True worth is shown through actions.",
       "pageReference": "3-7",
       "examples": [
-        { "icon": "🎵", "text": "Malti wins the singing competition despite being mocked" },
-        { "icon": "📐", "text": "Malti excels at maths — her 'forte' (strength)" },
-        { "icon": "😞", "text": "Rima feels no joy even winning, knowing she was unkind" },
-        { "icon": "🤝", "text": "Lesson: judge people by character, not appearance or accent" }
+        {
+          "icon": "🎵",
+          "text": "Malti wins the singing competition despite being mocked"
+        },
+        {
+          "icon": "📐",
+          "text": "Malti excels at maths — her 'forte' (strength)"
+        },
+        {
+          "icon": "😞",
+          "text": "Rima feels no joy even winning, knowing she was unkind"
+        },
+        {
+          "icon": "🤝",
+          "text": "Lesson: judge people by character, not appearance or accent"
+        }
       ],
       "keyPoints": [
         "Prejudice: judging others based on appearance or accent",
@@ -134,10 +195,22 @@
       "content": "In this fable, a lion king wants camel meat and his courtiers (fox, leopard, vulture) serve only their own interests. The clever fox brings the camel safely home. When the courtiers try to trick the camel into offering itself as food, the wise lion sees through them and rewards the loyal camel with friendship. 'To be king is good. But to be kind is better.'",
       "pageReference": "10-15",
       "examples": [
-        { "icon": "🦊", "text": "Fox's cleverness: runs into desert, finds camel, brings help" },
-        { "icon": "🐪", "text": "Camel's loyalty: offers his life honestly without cunning" },
-        { "icon": "🦁", "text": "Lion's wisdom: sees through false offers, rewards true loyalty" },
-        { "icon": "💬", "text": "Moral: 'To be king is good. But to be kind is better.'" }
+        {
+          "icon": "🦊",
+          "text": "Fox's cleverness: runs into desert, finds camel, brings help"
+        },
+        {
+          "icon": "🐪",
+          "text": "Camel's loyalty: offers his life honestly without cunning"
+        },
+        {
+          "icon": "🦁",
+          "text": "Lion's wisdom: sees through false offers, rewards true loyalty"
+        },
+        {
+          "icon": "💬",
+          "text": "Moral: 'To be king is good. But to be kind is better.'"
+        }
       ],
       "keyPoints": [
         "Fable: a story with animals that teaches a moral lesson",
@@ -159,10 +232,22 @@
       "content": "Nouns are divided into common nouns (general names: girl, city) and proper nouns (specific names: Mumbai, Rima — always capitalized). They can also be countable (boy/boys) or uncountable (water, hair). A formal invitation must include: who is inviting, what the programme is, date, time, venue, and a polite request.",
       "pageReference": "7, 15, 16-20",
       "examples": [
-        { "icon": "📝", "text": "Common noun: girl, city, river | Proper noun: Malti, Mumbai" },
-        { "icon": "🔢", "text": "Countable: book→books; Uncountable: water, milk, fun" },
-        { "icon": "📧", "text": "Formal invite: 'We solicit your presence at the Inauguration...'" },
-        { "icon": "📞", "text": "Oral invitation: polite, covers all 8 key points (who, what, when, where...)" }
+        {
+          "icon": "📝",
+          "text": "Common noun: girl, city, river | Proper noun: Malti, Mumbai"
+        },
+        {
+          "icon": "🔢",
+          "text": "Countable: book→books; Uncountable: water, milk, fun"
+        },
+        {
+          "icon": "📧",
+          "text": "Formal invite: 'We solicit your presence at the Inauguration...'"
+        },
+        {
+          "icon": "📞",
+          "text": "Oral invitation: polite, covers all 8 key points (who, what, when, where...)"
+        }
       ],
       "keyPoints": [
         "Common noun: general name (girl, city, river)",
@@ -179,91 +264,161 @@
     {
       "id": "q1",
       "question": "In Emily Brontë's poem, the future is compared to _____.",
-      "options": ["A sea beneath a cloudless sun", "A soft autumn evening", "A young bird on a spray", "A sad and lonely place"],
+      "options": [
+        "A sea beneath a cloudless sun",
+        "A soft autumn evening",
+        "A young bird on a spray",
+        "A sad and lonely place"
+      ],
       "correctAnswer": "A",
       "explanation": "'The future, happy one? A sea beneath a cloudless sun; A mighty, glorious, dazzling sea stretching into infinity.'",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "1"
     },
     {
       "id": "q2",
       "question": "What literary device is used in 'Books are our friends'?",
-      "options": ["Metaphor", "Simile", "Alliteration", "Rhyme"],
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Alliteration",
+        "Rhyme"
+      ],
       "correctAnswer": "A",
       "explanation": "A metaphor directly compares two things without using 'as' or 'like'. 'Books are our friends' says books ARE friends, not 'like' friends.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "2"
     },
     {
       "id": "q3",
       "question": "In 'Odd One In', what was Malti's greatest strength?",
-      "options": ["Mathematics", "English accent", "Appearance", "Singing only"],
+      "options": [
+        "Mathematics",
+        "English accent",
+        "Appearance",
+        "Singing only"
+      ],
       "correctAnswer": "A",
       "explanation": "Her forte was mathematics — she was bright, studious and intelligent, and many girls sought her help in maths.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "5"
     },
     {
       "id": "q4",
       "question": "What is the moral of 'The King's Choice'?",
-      "options": ["To be kind is better than to be king", "The fox is the most loyal animal", "Camels are the strongest animals", "Kings should always go hunting"],
+      "options": [
+        "To be kind is better than to be king",
+        "The fox is the most loyal animal",
+        "Camels are the strongest animals",
+        "Kings should always go hunting"
+      ],
       "correctAnswer": "A",
       "explanation": "The lion king himself thinks: 'To be king is good. But to be kind is better.' — the story's central message.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "14"
     },
     {
       "id": "q5",
       "question": "Which of these is a proper noun?",
-      "options": ["Swami Vivekananda", "saint", "philosopher", "person"],
+      "options": [
+        "Swami Vivekananda",
+        "saint",
+        "philosopher",
+        "person"
+      ],
       "correctAnswer": "A",
       "explanation": "Proper nouns are specific names of particular persons, places or things and are always capitalised. 'Swami Vivekananda' is a specific person's name.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "7"
     },
     {
       "id": "q6",
       "question": "'Charging along like troops in a battle' — what literary device is this?",
-      "options": ["Simile", "Metaphor", "Alliteration", "Rhyme"],
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Alliteration",
+        "Rhyme"
+      ],
       "correctAnswer": "A",
       "explanation": "A simile compares two things using 'like' or 'as'. The train is compared to troops using 'like'.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "2"
     },
     {
       "id": "q7",
       "question": "Who was Swami Vivekananda addressing when he said 'Sisters and brothers of America!'?",
-      "options": ["Parliament of World's Religions", "Indian Parliament", "Maharashtra School", "London audience"],
+      "options": [
+        "Parliament of World's Religions",
+        "Indian Parliament",
+        "Maharashtra School",
+        "London audience"
+      ],
       "correctAnswer": "A",
       "explanation": "Swami Vivekananda made his famous speech at the Parliament of World's Religions, receiving a two-minute standing ovation.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "21"
     },
     {
       "id": "q8",
       "question": "In 'The King's Choice', why did the fox and leopard agree the vulture should lead to the desert?",
-      "options": ["They didn't want to seem less wise than the vulture", "They knew the way to the desert", "They were frightened of the camel", "The lion ordered them to"],
+      "options": [
+        "They didn't want to seem less wise than the vulture",
+        "They knew the way to the desert",
+        "They were frightened of the camel",
+        "The lion ordered them to"
+      ],
       "correctAnswer": "A",
       "explanation": "The fox and leopard did not know the desert but didn't want the vulture to seem wiser than them, so they said it was the vulture's idea and he should lead.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "11"
     },
     {
       "id": "q9",
       "question": "'Nayna needs new notebooks' — what device is used?",
-      "options": ["Alliteration", "Simile", "Metaphor", "Rhyme"],
+      "options": [
+        "Alliteration",
+        "Simile",
+        "Metaphor",
+        "Rhyme"
+      ],
       "correctAnswer": "A",
       "explanation": "Alliteration is when the same sound appears at the beginning of two or more words. Here, 'N' sound repeats: Nayna, needs, new, notebooks.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "9"
     },
     {
       "id": "q10",
       "question": "A formal invitation must include _____.",
-      "options": ["All of: who, what, date, time, venue and polite request", "Only the date and venue", "Just the name of the chief guest", "Only the school name and time"],
+      "options": [
+        "All of: who, what, date, time, venue and polite request",
+        "Only the date and venue",
+        "Just the name of the chief guest",
+        "Only the school name and time"
+      ],
       "correctAnswer": "A",
       "explanation": "A complete formal invitation covers 8 points: who is inviting, what the programme is, name of inaugurator, presiding person, date, time, venue, and a polite request to attend.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "19"
     }
   ],
@@ -293,8 +448,175 @@
       "Swami Vivekananda's Parliament of World's Religions speech"
     ],
     "formulas": [
-      { "formula": "Simile = comparison + 'as'/'like'", "explanation": "e.g., 'as strong as a lion', 'runs like the wind'" },
-      { "formula": "Metaphor = direct comparison (no 'as'/'like')", "explanation": "e.g., 'Life is a journey', 'Time is money'" }
+      {
+        "formula": "Simile = comparison + 'as'/'like'",
+        "explanation": "e.g., 'as strong as a lion', 'runs like the wind'"
+      },
+      {
+        "formula": "Metaphor = direct comparison (no 'as'/'like')",
+        "explanation": "e.g., 'Life is a journey', 'Time is money'"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Unit 1",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "In Emily Brontë's poem, the future is compared to _____.",
+        "answer": "'The future, happy one? A sea beneath a cloudless sun; A mighty, glorious, dazzling sea stretching into infinity.'",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What literary device is used in 'Books are our friends'?",
+        "answer": "A metaphor directly compares two things without using 'as' or 'like'. 'Books are our friends' says books ARE friends, not 'like' friends.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'Odd One In', what was Malti's greatest strength?",
+        "answer": "Her forte was mathematics — she was bright, studious and intelligent, and many girls sought her help in maths.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the moral of 'The King's Choice'?",
+        "answer": "The lion king himself thinks: 'To be king is good. But to be kind is better.' — the story's central message.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is a proper noun?",
+        "answer": "Proper nouns are specific names of particular persons, places or things and are always capitalised. 'Swami Vivekananda' is a specific person's name.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "'Charging along like troops in a battle' — what literary device is this?",
+        "answer": "A simile compares two things using 'like' or 'as'. The train is compared to troops using 'like'.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who was Swami Vivekananda addressing when he said 'Sisters and brothers of America!'?",
+        "answer": "Swami Vivekananda made his famous speech at the Parliament of World's Religions, receiving a two-minute standing ovation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In 'The King's Choice', why did the fox and leopard agree the vulture should lead to the desert?",
+        "answer": "The fox and leopard did not know the desert but didn't want the vulture to seem wiser than them, so they said it was the vulture's idea and he should lead.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "'Nayna needs new notebooks' — what device is used?",
+        "answer": "Alliteration is when the same sound appears at the beginning of two or more words. Here, 'N' sound repeats: Nayna, needs, new, notebooks.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A formal invitation must include _____.",
+        "answer": "A complete formal invitation covers 8 points: who is inviting, what the programme is, name of inaugurator, presiding person, date, time, venue, and a polite request to attend.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What literary device is used in 'Books are our friends'?",
+        "modelAnswer": "In the sentence ‘Books are our friends’, the device is metaphor. A metaphor directly identifies one thing as another to show a shared quality. Here, books are not literally human friends, but they guide, comfort, and support us. So the comparison is implied, not made with ‘like’ or ‘as’.",
+        "keyPoints": [
+          "The device is metaphor.",
+          "Metaphor makes an implied comparison.",
+          "Books are shown as supportive companions.",
+          "No ‘like’ or ‘as’ is used."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "In 'Odd One In', what was Malti's greatest strength?",
+        "modelAnswer": "In ‘Odd One In’, Malti’s greatest strength was her self-belief and positive attitude. Even when she lacked resources, she did not lose confidence or stop trying. She used her time and opportunities wisely and kept learning. This inner determination helped her move ahead.",
+        "keyPoints": [
+          "Malti’s key strength was self-confidence.",
+          "She stayed positive despite difficulties.",
+          "She used time and effort effectively.",
+          "Determination led to her progress."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What is the moral of 'The King's Choice'?",
+        "modelAnswer": "The moral of ‘The King’s Choice’ is that wisdom and honesty are more valuable than pride and outward show. The story shows that true leadership requires good judgment, humility, and concern for others. Those who act only for status make poor decisions. Therefore, character matters more than appearance.",
+        "keyPoints": [
+          "Wisdom and honesty are central values.",
+          "Leadership needs humility and judgment.",
+          "Pride leads to wrong choices.",
+          "Character is greater than outward status."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "'Charging along like troops in a battle' — what literary device is this?",
+        "modelAnswer": "The line ‘Charging along like troops in a battle’ uses a simile. A simile compares two unlike things with words such as ‘like’ or ‘as’. Here, movement is compared to marching troops to create a vivid picture of speed and force. This makes the description lively and dramatic.",
+        "keyPoints": [
+          "The device is simile.",
+          "Simile uses ‘like’ or ‘as’.",
+          "Motion is compared with marching troops.",
+          "It creates a vivid, forceful image."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "In 'The King's Choice', why did the fox and leopard agree the vulture should lead to the desert?",
+        "modelAnswer": "In ‘The King’s Choice’, the fox and leopard wanted to avoid responsibility for choosing the difficult desert route. They feared blame if the plan failed, so they pushed the vulture forward as the guide. At the same time, they tried to protect their own image before the king. Their choice was driven more by self-interest than wisdom.",
+        "keyPoints": [
+          "Fox and leopard avoided responsibility.",
+          "They shifted risk to the vulture.",
+          "They were concerned about blame and image.",
+          "Their action showed self-interest."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "'Nayna needs new notebooks' — what device is used?",
+        "modelAnswer": "‘Nayna needs new notebooks’ is an example of alliteration. Alliteration is the repetition of the same initial consonant sound in nearby words. In this sentence, the ‘n’ sound repeats in Nayna, needs, new, and notebooks. This repetition gives rhythm and emphasis.",
+        "keyPoints": [
+          "The device is alliteration.",
+          "Initial consonant sound is repeated.",
+          "Repeated sound is ‘n’.",
+          "It adds rhythm and emphasis."
+        ],
+        "marks": 5
+      }
     ]
   }
 }

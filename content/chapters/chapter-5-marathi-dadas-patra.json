@@ -84,10 +84,22 @@
       "content": "The Malhok (Maldhok) Bird Sanctuary, officially called 'माळढोक अभयारण्य' (Maldhok Abhayaranya), is located near Nannaj village on the Solapur-Barshi road in the Solapur district of Maharashtra. It was established specifically to protect the Great Indian Bustard — the 'माळढोक' — one of the world's most endangered birds. The sanctuary covers the open grassland (माळरान) habitat that this bird needs to survive. The region around Nannaj is dry, flat, and open — perfect for the Maldhok, which is a grassland bird. It is one of the few places in India where you can still see this magnificent bird.",
       "pageReference": "14-15",
       "examples": [
-        { "icon": "📍", "text": "Location: Nannaj village, Solapur district, Maharashtra — on the Solapur-Barshi road (National Highway area)." },
-        { "icon": "🌿", "text": "The sanctuary protects open grassland (माळरान) — the flat, dry, open habitat that Maldhok needs." },
-        { "icon": "🏕️", "text": "School picnics to wildlife sanctuaries are an important part of environmental education in Maharashtra." },
-        { "icon": "🇮🇳", "text": "The Great Indian Bustard is so important that there is a national conservation program to save it from extinction." }
+        {
+          "icon": "📍",
+          "text": "Location: Nannaj village, Solapur district, Maharashtra — on the Solapur-Barshi road (National Highway area)."
+        },
+        {
+          "icon": "🌿",
+          "text": "The sanctuary protects open grassland (माळरान) — the flat, dry, open habitat that Maldhok needs."
+        },
+        {
+          "icon": "🏕️",
+          "text": "School picnics to wildlife sanctuaries are an important part of environmental education in Maharashtra."
+        },
+        {
+          "icon": "🇮🇳",
+          "text": "The Great Indian Bustard is so important that there is a national conservation program to save it from extinction."
+        }
       ],
       "keyPoints": [
         "माळढोक अभयारण्य (Maldhok Bird Sanctuary) is near Nannaj village, Solapur district, Maharashtra.",
@@ -109,10 +121,22 @@
       "content": "The माळढोक (Great Indian Bustard) is one of the world's heaviest flying birds and is critically endangered — there are fewer than 150 left in India! It is known as the 'राज्यपक्षी' (state bird) of Rajasthan, and is similarly protected in Maharashtra. The bird is a natural friend of farmers (शेतकऱ्याचा मित्र) because it eats insects, grasshoppers, lizards, and rodents that damage crops — free pest control! However, it lays only one egg per year, making its population recovery very slow. Threats include: loss of grassland habitat, electricity power lines (birds die from collisions), pesticides, and hunting. Conservation programs in Rajasthan and Maharashtra aim to protect the remaining birds.",
       "pageReference": "15",
       "examples": [
-        { "icon": "🌱", "text": "The माळढोक eats insects and pests — protecting crops naturally without chemical pesticides." },
-        { "icon": "🥚", "text": "It lays only one egg per year — so population growth is extremely slow, making recovery from low numbers very hard." },
-        { "icon": "⚡", "text": "Power lines are a major danger — Maldhok birds cannot see them and die from collisions while flying." },
-        { "icon": "🔴", "text": "Critically Endangered: fewer than 150 Great Indian Bustards left in India — it is near extinction." }
+        {
+          "icon": "🌱",
+          "text": "The माळढोक eats insects and pests — protecting crops naturally without chemical pesticides."
+        },
+        {
+          "icon": "🥚",
+          "text": "It lays only one egg per year — so population growth is extremely slow, making recovery from low numbers very hard."
+        },
+        {
+          "icon": "⚡",
+          "text": "Power lines are a major danger — Maldhok birds cannot see them and die from collisions while flying."
+        },
+        {
+          "icon": "🔴",
+          "text": "Critically Endangered: fewer than 150 Great Indian Bustards left in India — it is near extinction."
+        }
       ],
       "keyPoints": [
         "माळढोक = Great Indian Bustard — one of the world's heaviest flying birds.",
@@ -134,10 +158,22 @@
       "content": "Birds (पक्षी) play a vital role in maintaining ecological balance (पर्यावरण रक्षण). Their roles include: (1) Pest control — many birds eat insects, rodents, and pests; (2) Pollination — birds like sunbirds carry pollen from flower to flower; (3) Seed dispersal — birds eat fruits and spread seeds through their droppings; (4) Scavenging — vultures (गिधाड) clean up dead animals, preventing disease; (5) Indicator species — the health of bird populations tells scientists how healthy an ecosystem is. When bird populations decline (like the माळढोक), it signals that the entire ecosystem is under stress.",
       "pageReference": "14-16",
       "examples": [
-        { "icon": "🐛", "text": "Pest control: Sparrows, mynas, and Maldhok eat insects — farmers benefit from bird presence near their fields." },
-        { "icon": "🌸", "text": "Pollination: Sunbirds (सुर्यपक्षी) and hummingbirds transfer pollen, helping flowers produce fruits and seeds." },
-        { "icon": "🌳", "text": "Seed dispersal: When birds eat berries and fly away, seeds are spread to new areas — helping forests grow." },
-        { "icon": "♻️", "text": "Scavenging: Vultures eat carcasses of dead animals — they are nature's garbage disposal, preventing disease spread." }
+        {
+          "icon": "🐛",
+          "text": "Pest control: Sparrows, mynas, and Maldhok eat insects — farmers benefit from bird presence near their fields."
+        },
+        {
+          "icon": "🌸",
+          "text": "Pollination: Sunbirds (सुर्यपक्षी) and hummingbirds transfer pollen, helping flowers produce fruits and seeds."
+        },
+        {
+          "icon": "🌳",
+          "text": "Seed dispersal: When birds eat berries and fly away, seeds are spread to new areas — helping forests grow."
+        },
+        {
+          "icon": "♻️",
+          "text": "Scavenging: Vultures eat carcasses of dead animals — they are nature's garbage disposal, preventing disease spread."
+        }
       ],
       "keyPoints": [
         "Birds perform crucial ecological roles: pest control, pollination, seed dispersal, and scavenging.",
@@ -159,10 +195,22 @@
       "content": "An informal letter (अनौपचारिक पत्र) in Marathi to a friend, sibling, or family member has a specific format: (1) Place and Date (ठिकाण आणि तारीख) — top right corner; (2) Salutation/Greeting: 'प्रिय (name),' followed by 'सप्रेम नमस्कार' (affectionate greetings) or 'सप्रेम आशीर्वाद' (from elders to younger); (3) Opening line — reason for writing; (4) Body of letter — main content; (5) Closing line; (6) Sign-off: 'तुझी बहीण / तुझा भाऊ / तुझा मित्र' (your sister/brother/friend); (7) Name. In the chapter, Ayesha writes to her 'दादा' (elder brother) about the picnic to Maldhok Sanctuary.",
       "pageReference": "15-16",
       "examples": [
-        { "icon": "📅", "text": "Date format in Marathi: दिनांक: २५ जानेवारी, २०२५ — written at the top right of the letter." },
-        { "icon": "💌", "text": "Greeting: 'प्रिय दादा, सप्रेम नमस्कार' — 'Dear Elder Brother, with affectionate greetings.'" },
-        { "icon": "📝", "text": "Body: Describe the event (picnic), what you saw, felt, and learned — in paragraphs." },
-        { "icon": "🖊️", "text": "Sign-off: 'तुझी बहीण, (Name)' — 'Your sister, Ayesha' — always include your relationship and name." }
+        {
+          "icon": "📅",
+          "text": "Date format in Marathi: दिनांक: २५ जानेवारी, २०२५ — written at the top right of the letter."
+        },
+        {
+          "icon": "💌",
+          "text": "Greeting: 'प्रिय दादा, सप्रेम नमस्कार' — 'Dear Elder Brother, with affectionate greetings.'"
+        },
+        {
+          "icon": "📝",
+          "text": "Body: Describe the event (picnic), what you saw, felt, and learned — in paragraphs."
+        },
+        {
+          "icon": "🖊️",
+          "text": "Sign-off: 'तुझी बहीण, (Name)' — 'Your sister, Ayesha' — always include your relationship and name."
+        }
       ],
       "keyPoints": [
         "Marathi informal letter format: Date → Greeting (प्रिय + name) → सप्रेम नमस्कार → Body → Sign-off → Name.",
@@ -184,10 +232,22 @@
       "content": "Communication (संवाद / संप्रेषण) can be divided into two types based on the direction of information flow: (1) एकतर्फी (Ektarfi / One-way): Information flows in ONE direction only — the sender sends, the receiver receives, but cannot immediately respond. Examples: Radio broadcast, newspaper, television program, a speech in front of an audience. (2) दुतर्फी (Dutarfi / Two-way): Information flows in BOTH directions — both parties can send and receive, making it an exchange. Examples: Mobile phone call, face-to-face conversation (संभाषण), email with reply, video call, letter exchange. Understanding this helps us think about how effectively we communicate.",
       "pageReference": "16",
       "examples": [
-        { "icon": "📻", "text": "एकतर्फी (One-way): Radio broadcast — you can hear but cannot talk back to the radio presenter!" },
-        { "icon": "📰", "text": "एकतर्फी (One-way): Newspaper — the writer writes, you read, but you cannot immediately respond." },
-        { "icon": "📱", "text": "दुतर्फी (Two-way): Mobile phone call — you speak AND listen, creating a real exchange of information." },
-        { "icon": "💬", "text": "दुतर्फी (Two-way): Face-to-face conversation — the most complete form of two-way communication." }
+        {
+          "icon": "📻",
+          "text": "एकतर्फी (One-way): Radio broadcast — you can hear but cannot talk back to the radio presenter!"
+        },
+        {
+          "icon": "📰",
+          "text": "एकतर्फी (One-way): Newspaper — the writer writes, you read, but you cannot immediately respond."
+        },
+        {
+          "icon": "📱",
+          "text": "दुतर्फी (Two-way): Mobile phone call — you speak AND listen, creating a real exchange of information."
+        },
+        {
+          "icon": "💬",
+          "text": "दुतर्फी (Two-way): Face-to-face conversation — the most complete form of two-way communication."
+        }
       ],
       "keyPoints": [
         "एकतर्फी = one-way communication: sender → receiver (no immediate feedback possible).",
@@ -356,5 +416,151 @@
       "Bhigwan (near Pune) — another famous bird watching spot in Maharashtra, famous for flamingos."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "word-scramble",
+    "title": "Unscramble the Word!",
+    "description": "Rearrange the letters to form the correct Marathi vocabulary word.",
+    "data": {
+      "words": [
+        {
+          "scrambled": "AAHTMAR",
+          "answer": "MARATHA",
+          "hint": "महाराष्ट्रातील एक प्रसिद्ध समाज (A famous community of Maharashtra)"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "दादास पत्र (Letter to Elder Brother)",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "What is the 'माळढोक' bird known as in English?",
+        "answer": "माळढोक is the Marathi name for the Great Indian Bustard — one of the world's heaviest flying birds. It is critically endangered with fewer than 150 individuals remaining in India. The Maldhok Bird Sanctuary near Nannaj, Solapur is one of the few places where this bird can still be found.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In which district of Maharashtra is the Malhok Bird Sanctuary located?",
+        "answer": "The Maldhok Bird Sanctuary is located near Nannaj village in Solapur district, Maharashtra, on the Solapur-Barshi road. Solapur is in eastern Maharashtra — a semi-arid region. The dry, open grassland (माळरान) in this area is the perfect habitat for the Great Indian Bustard.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why is the माळढोक (Great Indian Bustard) called 'शेतकऱ्याचा मित्र' (farmer's friend)?",
+        "answer": "The माळढोक eats insects, grasshoppers, lizards, and rodents — all of which can damage crops. By eating these pests naturally, the bird helps protect crops without the need for chemical pesticides. This is why it is called 'शेतकऱ्याचा मित्र' (farmer's friend).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In the Marathi informal letter format, what comes immediately after 'प्रिय दादा'?",
+        "answer": "In an informal Marathi letter, after the greeting 'प्रिय (name),' the next line is 'सप्रेम नमस्कार' — meaning 'with affectionate greetings.' This phrase is used when writing to someone of equal or younger age (friend, sibling). For elders, 'सादर प्रणाम' or 'सादर नमस्कार' is used.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many eggs does the Great Indian Bustard (माळढोक) lay per year?",
+        "answer": "The Great Indian Bustard lays only one egg per year. This extremely slow reproduction rate makes it very difficult for the population to recover from low numbers. Even if conservation measures succeed, population growth is very gradual — making every individual bird precious.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is an example of दुतर्फी (two-way) communication?",
+        "answer": "A mobile phone conversation is दुतर्फी (two-way) communication because BOTH people can speak and listen — information flows in both directions. Watching TV, reading newspapers, and listening to speeches are all एकतर्फी (one-way) because the audience cannot immediately respond to the sender.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The Marathi word 'अभयारण्य' (abhayaranya) means:",
+        "answer": "'अभयारण्य' = अभय (fearlessness/safety) + अरण्य (forest/wild area). So it means a place where wild animals or birds can live without fear of being hunted or disturbed — a protected sanctuary. It is different from a zoo (where animals are kept in captivity) — in an अभयारण्य, animals live freely in their natural habitat.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In Ayesha's letter, how does she sign off?",
+        "answer": "Ayesha signs her letter as 'तुझी बहीण, आयेशा' — meaning 'Your sister, Ayesha.' This is the correct sign-off for an informal Marathi letter written to an elder brother. The sign-off always shows the writer's relationship to the recipient and ends with the writer's name.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is a major threat to the Great Indian Bustard (माळढोक) population?",
+        "answer": "Two major threats to the माळढोक are: (1) Collisions with power lines — the bird cannot see the thin wires and dies from impact; and (2) Habitat loss — the open grasslands (माळरान) the bird needs are being converted to farmland and built-up areas. Together, these have reduced the population to fewer than 150 birds in India.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Radio broadcasting is an example of which type of communication?",
+        "answer": "Radio broadcasting is एकतर्फी (one-way) communication — the radio station broadcasts a program and listeners can only receive the message. They cannot immediately talk back to the presenter during the broadcast. Other one-way examples: TV programs, newspapers, speeches, posters.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "माळढोक पक्ष्याला 'शेतकऱ्याचा मित्र' का म्हणतात? (Why is the Maldhok bird called the 'Farmer's Friend'?)",
+        "modelAnswer": "माळढोक पक्षी प्रामुख्याने शेतातील पिकांचे नुकसान करणाऱ्या किडे, टोळ, सरडे आणि उंदीर अशा उपद्रवी जीवांना खातो. हा पक्षी कोणत्याही रासायनिक कीडनाशकांचा वापर न करता नैसर्गिकरित्या कीड नियंत्रण करण्याचे महत्त्वाचे काम करतो. यामुळे शेतकऱ्यांच्या पिकाचे नैसर्गिकरित्या संरक्षण होते आणि त्यांचा शेतीवरील अनावश्यक खर्चही वाचतो. पिकांचे रक्षण करण्याच्या या मोलाच्या भूमिकेमुळेच माळढोक पक्ष्याला 'शेतकऱ्याचा मित्र' असे संबोधले जाते.",
+        "keyPoints": [
+          "पिकांचे नुकसान करणारे कीटक आणि उंदीर खातो.",
+          "नैसर्गिकरीत्या कीड नियंत्रण (Pest Control) करतो.",
+          "शेतकऱ्यांच्या पिकांचे संरक्षण करण्यास मदत करतो.",
+          "पर्यावरणाचे संतुलन राखण्यात महत्त्वाची भूमिका बजावतो."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "माळढोक पक्ष्याची महत्त्वाची वैशिष्ट्ये सांगा. (State the important characteristics of the Maldhok bird.)",
+        "modelAnswer": "माळढोक हा जगातील सर्वात वजनदार उडणाऱ्या पक्ष्यांपैकी एक असून तो अतिशय देखणा आणि रुबाबदार दिसतो. हा पक्षी प्रामुख्याने कोरड्या माळरानावर किंवा विस्तीर्ण गवताळ प्रदेशात राहणे पसंत करतो. या पक्ष्याची सर्वात मोठी मर्यादा म्हणजे माळढोक पक्ष्याची मादी वर्षाकाठी केवळ एकच अंडे घालते, त्यामुळे त्यांची संख्या वाढण्याचा वेग मंद आहे. हा पक्षी सध्या अत्यंत दुर्मिळ झाला असून तो राजस्थानचा राज्यपक्षी आहे.",
+        "keyPoints": [
+          "जगातील सर्वात वजनदार उडणाऱ्या पक्ष्यांपैकी एक.",
+          "गवताळ प्रदेशात (माळरान) राहणारा देखणा पक्षी.",
+          "मादी वर्षाला फक्त एकच अंडे घालते.",
+          "अत्यंत दुर्मिळ आणि वन्यजीव कायद्यांतर्गत संरक्षित पक्षी."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "आयेशाने दादाला पत्र लिहिण्याचे मुख्य कारण काय होते? (What was the main reason Ayesha wrote a letter to her brother?)",
+        "modelAnswer": "आयेशाच्या शाळेची सहल सोलापूर-बार्शी मार्गावरील 'नान्नज' येथील माळढोक अभयारण्यात गेली होती. तिथे तिने माळढोक पक्षी प्रत्यक्ष पाहिला आणि त्याच्या जीवनशैलीबद्दल शिक्षकांकडून खूप रंजक माहिती मिळवली. हा अभयारण्यातील अविस्मरणीय अनुभव आणि मिळवलेला आनंद आपल्या दादाला कळवण्यासाठी तिने हे पत्र लिहिले. तसेच, तिने पत्राद्वारे दादाला येत्या सुट्टीत घरी येण्याचे कळकळीचे आवाहनही केले आहे.",
+        "keyPoints": [
+          "शाळेच्या सहलीचा माळढोक अभयारण्यातील अनुभव सांगणे.",
+          "माळढोक पक्ष्याबद्दलची नवीन माहिती दादाला कळवणे.",
+          "सहलीतील आनंद पत्राद्वारे व्यक्त करणे.",
+          "दादाला सुट्टीत घरी येण्यासाठी प्रेमाने बोलावणे."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "माळढोक पक्ष्यांच्या अस्तित्वापुढील धोके कोणते आहेत? (What are the threats to the survival of Maldhok birds?)",
+        "modelAnswer": "माळढोक पक्ष्यांच्या अस्तित्वापुढील सर्वात मोठा धोका म्हणजे त्यांचे नष्ट होत चाललेले निवासस्थान (माळरान) होय. वाढते नागरीकरण आणि शेतीसाठी गवताळ प्रदेशाचा वापर यामुळे त्यांचे अधिवास धोक्यात आले आहेत. आकाशातील उंच वीजवाहक तारांशी होणारी धडक या पक्ष्यांच्या मृत्यूचे एक प्रमुख कारण ठरत आहे. याशिवाय, शेतीतील कीटकनाशकांचा अतिवापर आणि चोरटी शिकार यामुळे या दुर्मिळ पक्ष्यांची संख्या वेगाने घटत आहे.",
+        "keyPoints": [
+          "गवताळ प्रदेशांचा (माळरान) ऱ्हास होणे.",
+          "उंच वीजवाहक तारांशी (Power lines) होणारी जीवघेणी धडक.",
+          "शेतीतील रासायनिक कीटकनाशकांचा अतिवापर.",
+          "चोरटी शिकार आणि मानवी हस्तक्षेपामुळे कमी होणारी संख्या."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "एकतर्फी आणि दुतर्फी संवादामधील फरक स्पष्ट करा. (Explain the difference between one-way and two-way communication.)",
+        "modelAnswer": "माहितीचा प्रवाह केवळ एकाच दिशेने असणे, जिथे समोरच्या व्यक्तीला त्वरित प्रतिसाद देता येत नाही, त्याला 'एकतर्फी संवाद' म्हणतात (उदा. रेडिओ ऐकणे, वर्तमानपत्र वाचणे). याउलट, जेव्हा दोन व्यक्ती एकमेकांशी माहितीची आणि विचारांची देवाणघेवाण करतात, त्याला 'दुतर्फी संवाद' म्हणतात (उदा. फोनवर बोलणे, प्रत्यक्ष गप्पा). दुतर्फी संवादात प्रश्नांचे आणि शंकांचे लगेच निरसन करता येते, त्यामुळे तो संवादाचा अधिक प्रभावी प्रकार मानला जातो.",
+        "keyPoints": [
+          "माहितीचा प्रवाह एकाच दिशेने असणे म्हणजे एकतर्फी संवाद.",
+          "माहितीची परस्पर देवाणघेवाण होणे म्हणजे दुतर्फी संवाद.",
+          "एकतर्फी उदाहरणे: टीव्ही, रेडिओ, वर्तमानपत्र, भाषण.",
+          "दुतर्फी उदाहरणे: मोबाईल फोन कॉल, प्रत्यक्ष चर्चा, गप्पा."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "'अभयारण्य' म्हणजे काय आणि त्याचे महत्त्व स्पष्ट करा. (What is a 'Sanctuary' and explain its importance?)",
+        "modelAnswer": "'अभय' म्हणजे भीती नसलेले आणि 'अरण्य' म्हणजे जंगल; जिथे वन्यजीव सुरक्षितपणे राहू शकतात, अशा क्षेत्राला 'अभयारण्य' म्हणतात. अभयारण्याचे मुख्य उद्दिष्ट दुर्मिळ वन्यजीवांचे जतन करणे आणि त्यांचे नैसर्गिक निवासस्थान संरक्षित करणे हे असते. यामुळे केवळ प्राणी-पक्ष्यांचे रक्षण होत नाही, तर निसर्गाचे पर्यावरणीय संतुलन टिकून राहण्यासही मोठी मदत होते. भावी पिढीला वन्यजीवांची ओळख करून देण्यासाठी अभयारण्ये महत्त्वाची भूमिका बजावतात.",
+        "keyPoints": [
+          "वन्यजीवांना भीतीमुक्त आणि सुरक्षित अधिवास उपलब्ध करून देणे.",
+          "दुर्मिळ प्रजातींचे नामशेष होण्यापासून रक्षण करणे.",
+          "निसर्ग आणि पर्यावरणाचे संतुलन राखणे.",
+          "वन्यजीव संवर्धन आणि शिक्षणासाठी राखीव क्षेत्र म्हणून काम करणे."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

@@ -23,7 +23,12 @@
     {
       "id": "q2",
       "question": "Which of these is a pair of twin prime numbers?",
-      "options": ["(11, 13)", "(10, 12)", "(15, 17)", "(9, 11)"],
+      "options": [
+        "(11, 13)",
+        "(10, 12)",
+        "(15, 17)",
+        "(9, 11)"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -31,7 +36,12 @@
     {
       "id": "q3",
       "question": "The HCF of 24 and 32 is _____.",
-      "options": ["8", "4", "6", "12"],
+      "options": [
+        "8",
+        "4",
+        "6",
+        "12"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 3
@@ -39,7 +49,12 @@
     {
       "id": "q4",
       "question": "The product of two numbers is 540. Their HCF is 6. What is their LCM?",
-      "options": ["90", "60", "45", "30"],
+      "options": [
+        "90",
+        "60",
+        "45",
+        "30"
+      ],
       "correctAnswer": "A",
       "difficulty": "hard",
       "conceptId": 5
@@ -47,7 +62,12 @@
     {
       "id": "q5",
       "question": "The LCM of 12, 15 is _____.",
-      "options": ["60", "30", "45", "180"],
+      "options": [
+        "60",
+        "30",
+        "45",
+        "180"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 4
@@ -64,10 +84,22 @@
       "content": "Two numbers which have only 1 as a common factor are called co-prime numbers. For example, 10 and 21 are co-primes because their only common factor is 1. Any composite number can be written as a product of prime numbers (Euclid's rule).",
       "pageReference": "15-16",
       "examples": [
-        { "icon": "🔢", "text": "Co-primes: (3,8), (4,9), (21,22), (22,23)" },
-        { "icon": "📊", "text": "24 = 2×2×2×3 (prime factors)" },
-        { "icon": "🎯", "text": "250 = 2×5×5×5 (prime factors)" },
-        { "icon": "✅", "text": "Any two consecutive natural numbers are co-primes" }
+        {
+          "icon": "🔢",
+          "text": "Co-primes: (3,8), (4,9), (21,22), (22,23)"
+        },
+        {
+          "icon": "📊",
+          "text": "24 = 2×2×2×3 (prime factors)"
+        },
+        {
+          "icon": "🎯",
+          "text": "250 = 2×5×5×5 (prime factors)"
+        },
+        {
+          "icon": "✅",
+          "text": "Any two consecutive natural numbers are co-primes"
+        }
       ],
       "keyPoints": [
         "Co-prime numbers have only 1 as common factor",
@@ -89,10 +121,22 @@
       "content": "If the difference between two co-prime numbers is 2, the numbers are called twin prime numbers. Examples: (3,5), (5,7), (11,13), (29,31). Both numbers in the pair must be prime numbers with a difference of exactly 2.",
       "pageReference": "15",
       "examples": [
-        { "icon": "👯", "text": "(3,5) — twin primes, difference = 2" },
-        { "icon": "👯", "text": "(11,13) — twin primes, difference = 2" },
-        { "icon": "👯", "text": "(29,31) — twin primes, difference = 2" },
-        { "icon": "👯", "text": "(41,43) — twin primes, difference = 2" }
+        {
+          "icon": "👯",
+          "text": "(3,5) — twin primes, difference = 2"
+        },
+        {
+          "icon": "👯",
+          "text": "(11,13) — twin primes, difference = 2"
+        },
+        {
+          "icon": "👯",
+          "text": "(29,31) — twin primes, difference = 2"
+        },
+        {
+          "icon": "👯",
+          "text": "(41,43) — twin primes, difference = 2"
+        }
       ],
       "keyPoints": [
         "Twin primes are pairs of prime numbers differing by 2",
@@ -114,10 +158,22 @@
       "content": "The HCF (Highest Common Factor) or GCD is the greatest number that divides all given numbers. Prime factors method: factorise all numbers, find common prime factors with lowest powers. Division method: divide larger by smaller, then divide divisor by remainder — continue until remainder = 0.",
       "pageReference": "17-19",
       "examples": [
-        { "icon": "🎯", "text": "HCF(24,32): 24=2³×3, 32=2⁵ → HCF=2³=8" },
-        { "icon": "📏", "text": "HCF(195,312,546) = 3×13 = 39" },
-        { "icon": "🔄", "text": "Division method: HCF(144,252) → 252÷144=R108 → 144÷108=R36 → 108÷36=0 → HCF=36" },
-        { "icon": "📐", "text": "HCF(60,12,36): 2×2×3=12" }
+        {
+          "icon": "🎯",
+          "text": "HCF(24,32): 24=2³×3, 32=2⁵ → HCF=2³=8"
+        },
+        {
+          "icon": "📏",
+          "text": "HCF(195,312,546) = 3×13 = 39"
+        },
+        {
+          "icon": "🔄",
+          "text": "Division method: HCF(144,252) → 252÷144=R108 → 144÷108=R36 → 108÷36=0 → HCF=36"
+        },
+        {
+          "icon": "📐",
+          "text": "HCF(60,12,36): 2×2×3=12"
+        }
       ],
       "keyPoints": [
         "HCF = Greatest Common Factor of all given numbers",
@@ -139,10 +195,22 @@
       "content": "The LCM is the smallest number divisible by each of the given numbers. To find LCM: factorise all numbers, take each prime factor with its highest power across all numbers. Vertical arrangement: divide by primes that divide at least two numbers.",
       "pageReference": "19-21",
       "examples": [
-        { "icon": "🔢", "text": "LCM(60,48): 60=2²×3×5, 48=2⁴×3 → LCM=2⁴×3×5=240" },
-        { "icon": "📊", "text": "LCM(18,30,50): 2×3×3×5×5=450" },
-        { "icon": "🏃", "text": "Runners at start: 16,24,18 min → LCM=144 min = 2hr 24min" },
-        { "icon": "➕", "text": "LCM helps add fractions: LCM(28,35)=140, easier than 28×35" }
+        {
+          "icon": "🔢",
+          "text": "LCM(60,48): 60=2²×3×5, 48=2⁴×3 → LCM=2⁴×3×5=240"
+        },
+        {
+          "icon": "📊",
+          "text": "LCM(18,30,50): 2×3×3×5×5=450"
+        },
+        {
+          "icon": "🏃",
+          "text": "Runners at start: 16,24,18 min → LCM=144 min = 2hr 24min"
+        },
+        {
+          "icon": "➕",
+          "text": "LCM helps add fractions: LCM(28,35)=140, easier than 28×35"
+        }
       ],
       "keyPoints": [
         "LCM = smallest number divisible by all given numbers",
@@ -164,10 +232,22 @@
       "content": "For any two numbers, the product of their HCF and LCM equals the product of the two numbers. HCF × LCM = Product of the two given numbers. This relationship is used to find LCM when HCF is known, or vice versa.",
       "pageReference": "20-22",
       "examples": [
-        { "icon": "⚖️", "text": "18 and 30: HCF=6, LCM=90; 6×90=540=18×30 ✓" },
-        { "icon": "🛒", "text": "450g jam ₹96 vs 600g jam ₹124: HCF(450,600)=150 helps compare prices" },
-        { "icon": "🧮", "text": "Two numbers: product=1280, HCF=4 → LCM=1280÷4=320" },
-        { "icon": "📚", "text": "Number divided by 8,9,10,12 giving remainder 3: LCM+3=840+3=843" }
+        {
+          "icon": "⚖️",
+          "text": "18 and 30: HCF=6, LCM=90; 6×90=540=18×30 ✓"
+        },
+        {
+          "icon": "🛒",
+          "text": "450g jam ₹96 vs 600g jam ₹124: HCF(450,600)=150 helps compare prices"
+        },
+        {
+          "icon": "🧮",
+          "text": "Two numbers: product=1280, HCF=4 → LCM=1280÷4=320"
+        },
+        {
+          "icon": "📚",
+          "text": "Number divided by 8,9,10,12 giving remainder 3: LCM+3=840+3=843"
+        }
       ],
       "keyPoints": [
         "HCF × LCM = Product of the two given numbers",
@@ -184,91 +264,161 @@
     {
       "id": "q1",
       "question": "Which of the following is a pair of co-prime numbers?",
-      "options": ["4 and 5", "8 and 14", "27 and 15", "6 and 9"],
+      "options": [
+        "4 and 5",
+        "8 and 14",
+        "27 and 15",
+        "6 and 9"
+      ],
       "correctAnswer": "A",
       "explanation": "4 and 5 have only 1 as common factor, so they are co-primes.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "15"
     },
     {
       "id": "q2",
       "question": "Which of these is a twin prime pair?",
-      "options": ["(17, 19)", "(15, 17)", "(20, 22)", "(10, 12)"],
+      "options": [
+        "(17, 19)",
+        "(15, 17)",
+        "(20, 22)",
+        "(10, 12)"
+      ],
       "correctAnswer": "A",
       "explanation": "17 and 19 are both prime numbers with a difference of 2, making them twin primes.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "15"
     },
     {
       "id": "q3",
       "question": "The HCF of 24 and 32 is _____.",
-      "options": ["8", "4", "6", "12"],
+      "options": [
+        "8",
+        "4",
+        "6",
+        "12"
+      ],
       "correctAnswer": "A",
       "explanation": "24=2³×3, 32=2⁵. Common factor is 2³=8. So HCF=8.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "17"
     },
     {
       "id": "q4",
       "question": "The LCM of 12 and 15 is _____.",
-      "options": ["60", "30", "45", "180"],
+      "options": [
+        "60",
+        "30",
+        "45",
+        "180"
+      ],
       "correctAnswer": "A",
       "explanation": "12=2²×3, 15=3×5. LCM=2²×3×5=60.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "19"
     },
     {
       "id": "q5",
       "question": "The HCF of 120 and 150 is _____.",
-      "options": ["30", "45", "20", "120"],
+      "options": [
+        "30",
+        "45",
+        "20",
+        "120"
+      ],
       "correctAnswer": "A",
       "explanation": "120=2³×3×5, 150=2×3×5². HCF=2×3×5=30.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "22"
     },
     {
       "id": "q6",
       "question": "The LCM and HCF of two numbers are 432 and 72. If one number is 216, what is the other?",
-      "options": ["144", "108", "72", "216"],
+      "options": [
+        "144",
+        "108",
+        "72",
+        "216"
+      ],
       "correctAnswer": "A",
       "explanation": "HCF × LCM = Product of numbers. 72 × 432 = 216 × other → other = 72×432÷216 = 144.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "22"
     },
     {
       "id": "q7",
       "question": "Three bundles of string are 392m, 308m and 490m long. What is the greatest length they can be cut into without any leftover?",
-      "options": ["14 m", "7 m", "28 m", "2 m"],
+      "options": [
+        "14 m",
+        "7 m",
+        "28 m",
+        "2 m"
+      ],
       "correctAnswer": "A",
       "explanation": "We need HCF(392, 308, 490). 392=2³×7², 308=2²×7×11, 490=2×5×7². HCF=2×7=14.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "22"
     },
     {
       "id": "q8",
       "question": "The smallest number divisible by 8, 9, 10, 15, 20 with remainder 5 is _____.",
-      "options": ["365", "360", "845", "720"],
+      "options": [
+        "365",
+        "360",
+        "845",
+        "720"
+      ],
       "correctAnswer": "C",
       "explanation": "LCM(8,9,10,15,20)=360. Required number = LCM + remainder = 360 + 5 = 365... Actually LCM=360, answer is 360+5=365. Wait - the textbook problem says 8,9,10,15,20 → LCM=360, so number = 360+5=365.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "22"
     },
     {
       "id": "q9",
       "question": "The product of two 2-digit numbers is 765 and their HCF is 3. What is their LCM?",
-      "options": ["255", "90", "45", "765"],
+      "options": [
+        "255",
+        "90",
+        "45",
+        "765"
+      ],
       "correctAnswer": "A",
       "explanation": "HCF × LCM = Product of numbers. 3 × LCM = 765. LCM = 765/3 = 255.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "22"
     },
     {
       "id": "q10",
       "question": "Shreyas, Shalaka and Snehal complete a circular track in 16, 24 and 18 minutes. When will they first be at the start together?",
-      "options": ["144 minutes", "96 minutes", "72 minutes", "288 minutes"],
+      "options": [
+        "144 minutes",
+        "96 minutes",
+        "72 minutes",
+        "288 minutes"
+      ],
       "correctAnswer": "A",
       "explanation": "LCM(16,24,18) = 2⁴×3²=144 minutes = 2 hours 24 minutes.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "22"
     }
   ],
@@ -295,8 +445,128 @@
       "Savings stall: comparing prices of jam per 150g (HCF of 450 and 600)"
     ],
     "formulas": [
-      { "formula": "HCF × LCM = a × b", "explanation": "Product of HCF and LCM equals product of the two numbers a and b" },
-      { "formula": "LCM = a × b / HCF", "explanation": "Find LCM when HCF and both numbers are known" }
+      {
+        "formula": "HCF × LCM = a × b",
+        "explanation": "Product of HCF and LCM equals product of the two numbers a and b"
+      },
+      {
+        "formula": "LCM = a × b / HCF",
+        "explanation": "Find LCM when HCF and both numbers are known"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Arrange the pieces to form the correct mathematical expression.",
+    "data": {
+      "formula": "HCF × LCM = a × b",
+      "components": [
+        "HCF",
+        "×",
+        "LCM",
+        "=",
+        "a",
+        "×",
+        "b"
+      ],
+      "explanation": "The product of HCF and LCM of two numbers equals the product of those two numbers."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "HCF and LCM",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Which of the following is a pair of co-prime numbers?",
+        "answer": "4 and 5 have only 1 as common factor, so they are co-primes.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is a twin prime pair?",
+        "answer": "17 and 19 are both prime numbers with a difference of 2, making them twin primes.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The HCF of 24 and 32 is _____.",
+        "answer": "24=2³×3, 32=2⁵. Common factor is 2³=8. So HCF=8.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The LCM of 12 and 15 is _____.",
+        "answer": "12=2²×3, 15=3×5. LCM=2²×3×5=60.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The HCF of 120 and 150 is _____.",
+        "answer": "120=2³×3×5, 150=2×3×5². HCF=2×3×5=30.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The LCM and HCF of two numbers are 432 and 72. If one number is 216, what is the other?",
+        "answer": "HCF × LCM = Product of numbers. 72 × 432 = 216 × other → other = 72×432÷216 = 144.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Three bundles of string are 392m, 308m and 490m long. What is the greatest length they can be cut into without any leftover?",
+        "answer": "We need HCF(392, 308, 490). 392=2³×7², 308=2²×7×11, 490=2×5×7². HCF=2×7=14.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The smallest number divisible by 8, 9, 10, 15, 20 with remainder 5 is _____.",
+        "answer": "LCM(8,9,10,15,20)=360. Required number = LCM + remainder = 360 + 5 = 365... Actually LCM=360, answer is 360+5=365. Wait - the textbook problem says 8,9,10,15,20 → LCM=360, so number = 360+5=365.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The product of two 2-digit numbers is 765 and their HCF is 3. What is their LCM?",
+        "answer": "HCF × LCM = Product of numbers. 3 × LCM = 765. LCM = 765/3 = 255.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Shreyas, Shalaka and Snehal complete a circular track in 16, 24 and 18 minutes. When will they first be at the start together?",
+        "answer": "LCM(16,24,18) = 2⁴×3²=144 minutes = 2 hours 24 minutes.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "The LCM and HCF of two numbers are 432 and 72. If one number is 216, what is the other?",
+        "modelAnswer": "Answer: HCF × LCM = Product of numbers. 72 × 432 = 216 × other → other = 72×432÷216 = 144.\nThis question belongs to the chapter \"HCF and LCM\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: HCF × LCM = Product of numbers. 72 × 432 = 216 × other → other = 72×432÷216 = 144.",
+          "Concept link: HCF and LCM (Mathematics).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Three bundles of string are 392m, 308m and 490m long. What is the greatest length they can be cut into without any leftover?",
+        "modelAnswer": "Answer: We need HCF(392, 308, 490). 392=2³×7², 308=2²×7×11, 490=2×5×7². HCF=2×7=14.\nThis question belongs to the chapter \"HCF and LCM\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: We need HCF(392, 308, 490). 392=2³×7², 308=2²×7×11, 490=2×5×7². HCF=2×7=14.",
+          "Concept link: HCF and LCM (Mathematics).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "The product of two 2-digit numbers is 765 and their HCF is 3. What is their LCM?",
+        "modelAnswer": "Answer: HCF × LCM = Product of numbers. 3 × LCM = 765. LCM = 765/3 = 255.\nThis question belongs to the chapter \"HCF and LCM\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: HCF × LCM = Product of numbers. 3 × LCM = 765. LCM = 765/3 = 255.",
+          "Concept link: HCF and LCM (Mathematics).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      }
     ]
   }
 }

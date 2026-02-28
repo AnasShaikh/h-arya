@@ -5,22 +5,73 @@
     "title": "Properties of Natural Resources",
     "subject": "Science",
     "pages": "16-25",
-    "description": "Properties of Air, Water, and Soil, and their importance."
+    "description": "This chapter explores the fundamental properties of three vital natural resources: air, water, and soil. Understanding these properties helps us appreciate their importance for life on Earth."
   },
   "preAssessment": [
     {
-      "id": "q1",
-      "question": "Which gas is most abundant in the air?",
-      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
-      "correctAnswer": "B",
-      "difficulty": "easy"
+      "id": "pa1",
+      "question": "What is the main component of Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Argon",
+        "Nitrogen"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "conceptId": 1
     },
     {
-      "id": "q2",
-      "question": "Water is often called a 'Universal ______' because it dissolves many substances.",
-      "options": ["Solute", "Solvent", "Mixture", "Acid"],
+      "id": "pa2",
+      "question": "Why does ice float on water?",
+      "options": [
+        "Because it is white",
+        "Because it is colder than water",
+        "Because it is less dense than water",
+        "Because it is a solid"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 2
+    },
+    {
+      "id": "pa3",
+      "question": "The ability of soil to hold water is called its:",
+      "options": [
+        "Soil texture",
+        "Water holding capacity",
+        "Soil structure",
+        "pH value"
+      ],
       "correctAnswer": "B",
-      "difficulty": "medium"
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "pa4",
+      "question": "Atmospheric pressure is the pressure exerted by:",
+      "options": [
+        "Water",
+        "Soil",
+        "Air",
+        "Light"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "pa5",
+      "question": "Which type of soil has the smallest particles?",
+      "options": [
+        "Sandy soil",
+        "Silt soil",
+        "Clayey soil",
+        "Loamy soil"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 3
     }
   ],
   "concepts": [
@@ -28,34 +79,510 @@
       "id": 1,
       "title": "Properties of Air",
       "emoji": "💨",
-      "colorTheme": "from-blue-400 to-indigo-500",
-      "bgColor": "bg-blue-50",
-      "borderColor": "border-blue-300",
-      "content": "Air is a mixture of several gases. It has mass and weight. Air exerts pressure in all directions, known as atmospheric pressure. At sea level, it is about 1,01,300 Newtons per square meter.",
-      "imageUrl": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?auto=format&fit=crop&q=80&w=1000",
-      "videoUrl": "https://www.youtube.com/embed/S9V0E-v5_mY",
+      "colorTheme": "from-sky-400 to-blue-500",
+      "bgColor": "bg-sky-50",
+      "borderColor": "border-sky-300",
+      "content": "Air is a mixture of gases, primarily nitrogen and oxygen. It has mass and exerts pressure, known as atmospheric pressure. Air also plays a crucial role in scattering light and transmitting sound.",
       "pageReference": "16-19",
       "examples": [
-        { "icon": "🎈", "text": "Inflated balloon has more mass" },
-        { "icon": "🥤", "text": "Drinking through a straw uses air pressure" },
-        { "icon": "🚲", "text": "Bicycle tires filled with compressed air" }
+        {
+          "id": "ex1",
+          "text": "Using a straw to drink relies on atmospheric pressure pushing the liquid up."
+        },
+        {
+          "id": "ex2",
+          "text": "An empty bottle is not truly empty; it is filled with air."
+        },
+        {
+          "id": "ex3",
+          "text": "The blue color of the sky is due to the scattering of sunlight by gas molecules in the air."
+        }
       ],
       "keyPoints": [
-        "Air pressure decreases as we go higher from sea level",
-        "Bernoulli's Principle: High velocity air has low pressure",
-        "Humidity is the amount of water vapor in the air"
+        {
+          "id": "kp1",
+          "text": "Air is composed of ~78% Nitrogen, ~21% Oxygen, and small amounts of other gases."
+        },
+        {
+          "id": "kp2",
+          "text": "Atmospheric pressure decreases with an increase in altitude."
+        },
+        {
+          "id": "kp3",
+          "text": "Humidity is the amount of water vapor present in the air."
+        }
       ],
-      "funFact": "Daniel Bernoulli, a Swedish scientist, discovered in 1738 that air pressure decreases when its velocity increases!",
-      "textbookRef": "Page 16: Properties of Air"
+      "funFact": "If you could travel to the top of the atmosphere, the pressure would be so low that water would boil at room temperature!",
+      "textbookRef": "Pages 16-19"
+    },
+    {
+      "id": 2,
+      "title": "Properties of Water",
+      "emoji": "💧",
+      "colorTheme": "from-cyan-400 to-teal-500",
+      "bgColor": "bg-cyan-50",
+      "borderColor": "border-cyan-300",
+      "content": "Water is a vital resource for all life. It exists in three states: solid (ice), liquid (water), and gas (water vapor). A unique property of water is its density; it is densest at 4°C, and its solid form (ice) is less dense than its liquid form.",
+      "pageReference": "19-22",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Ice floating in a glass of water demonstrates that ice is less dense than liquid water."
+        },
+        {
+          "id": "ex2",
+          "text": "Salt dissolving in water shows its property as a universal solvent."
+        },
+        {
+          "id": "ex3",
+          "text": "The formation of dew on grass in the morning is an example of condensation of water vapor."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Water is called the 'universal solvent' because it can dissolve many substances."
+        },
+        {
+          "id": "kp2",
+          "text": "The anomalous expansion of water (expanding when it freezes) protects aquatic life in cold climates."
+        },
+        {
+          "id": "kp3",
+          "text": "Water plays a key role in regulating Earth's climate."
+        }
+      ],
+      "funFact": "About 71% of the Earth's surface is covered in water, but only about 2.5% of that is fresh water.",
+      "textbookRef": "Pages 19-22"
+    },
+    {
+      "id": 3,
+      "title": "Properties of Soil",
+      "emoji": "🌍",
+      "colorTheme": "from-orange-500 to-amber-600",
+      "bgColor": "bg-orange-50",
+      "borderColor": "border-orange-300",
+      "content": "Soil is formed by the weathering of rocks and is a mixture of minerals, organic matter, water, and air. Its properties, like texture, structure, and water-holding capacity, determine which types of plants can grow in it.",
+      "pageReference": "23-25",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Sandy soil feels gritty and does not hold water well."
+        },
+        {
+          "id": "ex2",
+          "text": "Clayey soil is smooth and sticky when wet and can hold a lot of water."
+        },
+        {
+          "id": "ex3",
+          "text": "Loamy soil, a mix of sand, silt, and clay, is ideal for growing most plants."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Soil texture depends on the proportion of different sized particles (sand, silt, clay)."
+        },
+        {
+          "id": "kp2",
+          "text": "Soil pH indicates its acidity or alkalinity, which affects nutrient availability for plants."
+        },
+        {
+          "id": "kp3",
+          "text": "Living organisms like earthworms are crucial for maintaining soil health."
+        }
+      ],
+      "funFact": "A single teaspoon of healthy soil can contain more living organisms than there are people on Earth!",
+      "textbookRef": "Pages 23-25"
     }
   ],
   "test": [
     {
       "id": "t1",
-      "question": "What happens to the density of water as it freezes?",
-      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "question": "What is the approximate percentage of oxygen in the air?",
+      "options": [
+        "78%",
+        "21%",
+        "1%",
+        "0.04%"
+      ],
       "correctAnswer": "B",
+      "explanation": "The air is composed of approximately 21% oxygen.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t2",
+      "question": "The anomalous expansion of water means that it:",
+      "options": [
+        "Expands when heated",
+        "Contracts when cooled",
+        "Expands when it freezes from 4°C to 0°C",
+        "Is densest at 0°C"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Unlike most substances, water expands as it cools from 4°C to 0°C, which is why ice is less dense than water.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t3",
+      "question": "Which of these is NOT a primary component of soil?",
+      "options": [
+        "Weathered rock particles",
+        "Humus",
+        "Water",
+        "Plastic"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Plastic is a pollutant and not a natural component of soil. Soil consists of minerals, organic matter (humus), water, and air.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t4",
+      "question": "What happens to atmospheric pressure as you climb a high mountain?",
+      "options": [
+        "It increases",
+        "It decreases",
+        "It stays the same",
+        "It fluctuates wildly"
+      ],
+      "correctAnswer": "B",
+      "explanation": "As altitude increases, the column of air above you gets shorter and less dense, so the atmospheric pressure decreases.",
+      "conceptIds": [
+        1
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t5",
+      "question": "Water is known as the universal solvent because it:",
+      "options": [
+        "Is found everywhere",
+        "Can exist in three states",
+        "Dissolves many different substances",
+        "Is essential for life"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Its chemical properties allow it to dissolve a wide variety of substances, making it a 'universal solvent'.",
+      "conceptIds": [
+        2
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "t6",
+      "question": "The organic material in soil formed from dead plants and animals is called:",
+      "options": [
+        "Clay",
+        "Silt",
+        "Sand",
+        "Humus"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Humus is the dark, organic component of soil, crucial for its fertility.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "t7",
+      "question": "The scattering of light by particles in the air causes which phenomenon?",
+      "options": [
+        "Rainbows",
+        "The blue color of the sky",
+        "Sound echoes",
+        "Wind"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gas molecules in the air scatter blue light from the sun more than they scatter red light, making the sky appear blue.",
+      "conceptIds": [
+        1
+      ],
       "difficulty": "hard"
+    },
+    {
+      "id": "t8",
+      "question": "The texture of a soil sample is determined by the relative amounts of:",
+      "options": [
+        "Water and air",
+        "Humus and minerals",
+        "Sand, silt, and clay",
+        "Worms and insects"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Soil texture is specifically defined by the percentage of sand, silt, and clay particles.",
+      "conceptIds": [
+        3
+      ],
+      "difficulty": "medium"
     }
-  ]
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Atmospheric Pressure",
+      "Anomalous Expansion of Water",
+      "Soil Texture and Composition"
+    ],
+    "commonMisconceptions": [
+      "Air has no weight.",
+      "Ice is denser than water.",
+      "Soil is just dirt."
+    ],
+    "realWorldExamples": [
+      "Feeling your ears pop on a plane (atmospheric pressure).",
+      "Lakes freezing from the top down (anomalous expansion).",
+      "Noticing how water drains quickly through sandy soil at the beach."
+    ]
+  },
+  "interactiveElement": {
+    "type": "match-pairs",
+    "title": "Match the Pairs!",
+    "description": "Match each term to its correct description.",
+    "data": {
+      "pairs": [
+        {
+          "term": "Natural Resource",
+          "match": "Resource found in nature used by living organisms"
+        },
+        {
+          "term": "Renewable Resource",
+          "match": "Resource that can be replenished naturally over time"
+        },
+        {
+          "term": "Non-Renewable Resource",
+          "match": "Resource that cannot be replaced once used up"
+        },
+        {
+          "term": "Conservation",
+          "match": "Careful use and management of natural resources"
+        },
+        {
+          "term": "Biodiversity",
+          "match": "Variety of life forms in a given area"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Properties of Natural Resources",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "fill_blanks",
+        "question": "Fill in the blanks with the appropriate\nterm.\n(Temperature, volume, mass, density,\nhumidity, acidic, weight, neutral, shape.)\n(a) The capacity of air to hold moisture\ndepends upon the ......... of the air.\n(b) Water does not have a .............\nbut has definite .......... and .......... .\n(c) While",
+        "subQuestions": [
+          "The capacity of air to hold moisture\ndepends upon the ......... of the air.",
+          "Water does not have a .............\nbut has definite .......... and .......... .",
+          "While freezing, the .................... of\nwater is lowered.",
+          "................. soil has pH 7."
+        ]
+      },
+      {
+        "number": 2,
+        "type": "give_reasons",
+        "question": "Why is it said that (a) Air is a homogeneous mixture of\nvarious gases.\n(b) Water is a universal solvent.\n(c) There is no alternative to water for\ncleaning purposes.",
+        "subQuestions": [
+          "Air is a homogeneous mixture of\nvarious gases.",
+          "Water is a universal solvent.",
+          "There is no alternative to water for\ncleaning purposes."
+        ]
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "What will happen if.....\n(a) The amount of water vapour in the\nair increases.\n(b) Only one crop is grown repeatedly\nin the soil.",
+        "subQuestions": [
+          "The amount of water vapour in the\nair increases.",
+          "Only one crop is grown repeatedly\nin the soil."
+        ]
+      },
+      {
+        "number": 4,
+        "type": "match_pairs",
+        "question": "With whom should I pair up ?\nGroup ‘A’\nGroup ‘B’\n(1) Air\t\t\n(a) Excretion\n(2) Water\t\t\n(b) Scattering of light.\n(3) Soil\t\t\n(c) Plasticity",
+        "subQuestions": [
+          "Excretion\n(2) Water",
+          "Scattering of light.\n(3) Soil",
+          "Plasticity"
+        ]
+      },
+      {
+        "number": 5,
+        "type": "true_false",
+        "question": "State whether the following statements\nare true or false.\n(a) Sandy soil has low capacity for\nholding water.\n(b) The substance in which a solute\ndissolves is called a solvent.\n(c) The pressure exerted by air is called\natmospheric pressure.",
+        "subQuestions": [
+          "Sandy soil has low capacity for\nholding water.",
+          "The substance in which a solute\ndissolves is called a solvent.",
+          "The pressure exerted by air is called\natmospheric pressure."
+        ]
+      },
+      {
+        "number": 6,
+        "type": "give_reasons",
+        "question": "Explain the picture in your own\nwords.\nWater\nIce\na\nb",
+        "subQuestions": []
+      },
+      {
+        "number": 7,
+        "type": "give_reasons",
+        "question": "Write answers to the following\nquestions in your own words.\n(a) How is light scatterred by the air ?\n(b) Explain the various properties of\nwater.\n(c) Why is the density of seawater\nmore than that of rain water ?\n(d) What is the importance of good soil\nstructure ?\n(e) What are the various uses of soi",
+        "subQuestions": [
+          "How is light scatterred by the air ?",
+          "Explain the various properties of\nwater.",
+          "Why is the density of seawater\nmore than that of rain water ?",
+          "What is the importance of good soil\nstructure ?",
+          "What are the various uses of soil ?",
+          "What is the need and importance\nof soil testing from the point of\nview of farmers ?",
+          "What is the importance of air in\ntransmission of sound ?",
+          "Why should a glass bottle completely\nfilled with water never be kept in\na freezer ?"
+        ]
+      }
+    ],
+    "rawText": "Exercise\n1. Fill in the blanks with the appropriate\nterm.\n(Temperature, volume, mass, density,\nhumidity, acidic, weight, neutral, shape.)\n(a) The capacity of air to hold moisture\ndepends upon the ......... of the air.\n(b) Water does not have a .............\nbut has definite .......... and .......... .\n(c) While freezing, the .................... of\nwater is lowered.\n(d) ................. soil has pH 7.\n2. Why is it said that (a) Air is a homogeneous mixture of\nvarious gases.\n(b) Water is a universal solvent.\n(c) There is no alternative to water for\ncleaning purposes.\n3. What will happen if.....\n(a) The amount of water vapour in the\nair increases.\n(b) Only one crop is grown repeatedly\nin the soil.\n4. With whom should I pair up ?\nGroup ‘A’\nGroup ‘B’\n(1) Air\t\t\n(a) Excretion\n(2) Water\t\t\n(b) Scattering of light.\n(3) Soil\t\t\n(c) Plasticity\n5. State whether the following statements\nare true or false.\n(a) Sandy soil has low capacity for\nholding water.\n(b) The substance in which a solute\ndissolves is called a solvent.\n(c) The pressure exerted by air is called\natmospheric pressure.\n6. Explain the picture in your own\nwords.\nWater\nIce\na\nb\n7. Write answers to the following\nquestions in your own words.\n(a) How is light scatterred by the air ?\n(b) Explain the various properties of\nwater.\n(c) Why is the density of seawater\nmore than that of rain water ?\n(d) What is the importance of good soil\nstructure ?\n(e) What are the various uses of soil ?\n(f) What is the need and importance\nof soil testing from the point of\nview of farmers ?\n(g) What is the importance of air in\ntransmission of sound ?\n(h) Why should a glass bottle completely\nfilled with water never be kept in\na freezer ?",
+    "qaCards": [
+      {
+        "question": "What is the approximate percentage of oxygen in the air?",
+        "answer": "The air is composed of approximately 21% oxygen.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The anomalous expansion of water means that it:",
+        "answer": "Unlike most substances, water expands as it cools from 4°C to 0°C, which is why ice is less dense than water.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is NOT a primary component of soil?",
+        "answer": "Plastic is a pollutant and not a natural component of soil. Soil consists of minerals, organic matter (humus), water, and air.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What happens to atmospheric pressure as you climb a high mountain?",
+        "answer": "As altitude increases, the column of air above you gets shorter and less dense, so the atmospheric pressure decreases.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Water is known as the universal solvent because it:",
+        "answer": "Its chemical properties allow it to dissolve a wide variety of substances, making it a 'universal solvent'.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The organic material in soil formed from dead plants and animals is called:",
+        "answer": "Humus is the dark, organic component of soil, crucial for its fertility.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The scattering of light by particles in the air causes which phenomenon?",
+        "answer": "Gas molecules in the air scatter blue light from the sun more than they scatter red light, making the sky appear blue.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The texture of a soil sample is determined by the relative amounts of:",
+        "answer": "Soil texture is specifically defined by the percentage of sand, silt, and clay particles.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "The capacity of air to hold moisture\ndepends upon the ......... of the air.",
+        "modelAnswer": "The air is composed of approximately 21% oxygen. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: The capacity of air to hold moisture\ndepends upon the ......... of the air.",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Water does not have a .............\nbut has definite .......... and .......... .",
+        "modelAnswer": "Water does not have a ............. but has definite .......... and .......... . This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Water does not have a .............",
+          "but has definite ..........",
+          "and ..........",
+          "This concept is explained in this chapter with its causes, features, and outcomes."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "While freezing, the .................... of\nwater is lowered.",
+        "modelAnswer": "The air is composed of approximately 21% oxygen. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: While freezing, the .................... of\nwater is lowered.",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "................. soil has pH 7.",
+        "modelAnswer": "................. soil has pH 7. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          ".................",
+          "soil has pH 7.",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Why is it said that (a) Air is a homogeneous mixture of\nvarious gases.\n(b) Water is a universal solvent.\n(c) There is no alternative to water for\ncleaning purposes.",
+        "modelAnswer": "Why is it said that (a) Air is a homogeneous mixture of various gases. (b) Water is a universal solvent. (c) There is no alternative to water for cleaning purposes. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Why is it said that (a) Air is a homogeneous mixture of various gases.",
+          "(b) Water is a universal solvent.",
+          "(c) There is no alternative to water for cleaning purposes.",
+          "This concept is explained in this chapter with its causes, features, and outcomes."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Air is a homogeneous mixture of\nvarious gases.",
+        "modelAnswer": "The air is composed of approximately 21% oxygen. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Air is a homogeneous mixture of\nvarious gases.",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Water is a universal solvent.",
+        "modelAnswer": "Its chemical properties allow it to dissolve a wide variety of substances, making it a 'universal solvent'. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Water is a universal solvent.",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "There is no alternative to water for\ncleaning purposes.",
+        "modelAnswer": "There is no alternative to water for cleaning purposes. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "There is no alternative to water for cleaning purposes.",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
+  }
 }

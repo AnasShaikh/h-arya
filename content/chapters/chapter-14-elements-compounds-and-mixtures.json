@@ -318,7 +318,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In scientific language, that which an object is made of is called matter. This is the exact textbook definition from Page 92.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "92"
     },
     {
@@ -332,7 +334,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "The smallest particles of elements are atoms. We cannot see atoms with the naked eye.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "93"
     },
     {
@@ -346,7 +350,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Matter made of only one constituent is called 'substance' or 'element' in scientific language.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "93"
     },
     {
@@ -360,7 +366,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Scientists have discovered 118 elements. Of these, 92 elements occur in nature, while the remaining are man-made.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "93"
     },
     {
@@ -374,7 +382,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Elements are generally classified into two groups: metals and non-metals. There is also a third group called metalloids.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "95"
     },
     {
@@ -388,7 +398,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "When metals are mixed together to modify properties, the mixture is called an alloy. Examples: Brass, steel, 22-carat gold.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "95"
     },
     {
@@ -402,7 +414,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A compound is formed by a chemical combination of two or more elements. Water (H₂O) is a compound.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "95"
     },
     {
@@ -416,7 +430,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Water is a compound. One molecule of water (H₂O) is made of two atoms of hydrogen and one atom of oxygen.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "95"
     },
     {
@@ -430,7 +446,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "A mixture is formed by mixing different elements or compounds. The proportion of components is not fixed.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "96"
     },
     {
@@ -444,7 +462,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Mixtures can be separated using simple physical methods: filtering, sifting, picking, sorting, winnowing, magnet, sublimation.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "96"
     },
     {
@@ -458,7 +478,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Separating funnel is used to separate two immiscible liquids like kerosene and water based on their density difference.",
-      "conceptIds": [6],
+      "conceptIds": [
+        6
+      ],
       "pageReference": "98"
     },
     {
@@ -472,7 +494,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Distillation is used to purify impure liquids by boiling and then condensing the vapor. Salt water can be purified this way.",
-      "conceptIds": [6],
+      "conceptIds": [
+        6
+      ],
       "pageReference": "97"
     },
     {
@@ -486,7 +510,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Centrifugation uses high-speed rotation in a centrifuge machine to separate solid particles from liquid mixtures like milk, blood, or turbid water.",
-      "conceptIds": [6],
+      "conceptIds": [
+        6
+      ],
       "pageReference": "98"
     },
     {
@@ -500,7 +526,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Chromatography separates dissolved substances based on their solubility in the solvent and ability to stick to stationary filter paper.",
-      "conceptIds": [6],
+      "conceptIds": [
+        6
+      ],
       "pageReference": "99"
     },
     {
@@ -514,7 +542,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Stainless steel is an alloy - a mixture of metals. Alloys are made by mixing metals to improve their properties.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "99"
     }
   ],
@@ -583,6 +613,281 @@
       {
         "formula": "C₁₂H₂₂O₁₁",
         "explanation": "Sugar - 12 carbon + 22 hydrogen + 11 oxygen atoms. Melts to leave black carbon."
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Quick Review!",
+    "description": "Flip each card to test your knowledge of key concepts.",
+    "data": {
+      "cards": [
+        {
+          "front": "What is the main topic of this chapter?",
+          "back": "Elements, Compounds and Mixtures"
+        },
+        {
+          "front": "Name one key concept from this chapter.",
+          "back": "Review your notes and textbook."
+        },
+        {
+          "front": "Can you give a real-life example of this topic?",
+          "back": "Think about what you see around you!"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Elements, Compounds and Mixtures",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "match_pairs",
+        "question": "Who are my companions ?\nGroup ‘A’\nGroup ‘B’",
+        "subQuestions": []
+      },
+      {
+        "number": 1,
+        "type": "short_answer",
+        "question": "Stainless steel\n(a) Non-metal",
+        "subQuestions": [
+          "Non-metal"
+        ]
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Silver\n(b) Compound",
+        "subQuestions": [
+          "Compound"
+        ]
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "Bhajani mixture (c) Mixture\n\t\t for milling",
+        "subQuestions": [
+          "Mixture\n\t\t for milling"
+        ]
+      },
+      {
+        "number": 4,
+        "type": "short_answer",
+        "question": "Salt\n(d) Element",
+        "subQuestions": [
+          "Element"
+        ]
+      },
+      {
+        "number": 5,
+        "type": "short_answer",
+        "question": "Coal\n(e) Alloy",
+        "subQuestions": []
+      },
+      {
+        "number": 6,
+        "type": "short_answer",
+        "question": "Hydrogen\n(f) Metal",
+        "subQuestions": []
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "Write the names of elements from the\nfollowing symbols : Zn, Cd, Xe, Br, Ti,\nCu, Fe, Si, Ir, Pt.",
+        "subQuestions": []
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "What are the molecular formulae of the\nfollowing compounds ?\nHydrochloric acid, sulphuric acid, sodium\nchloride, glucose, methane.",
+        "subQuestions": []
+      },
+      {
+        "number": 4,
+        "type": "short_answer",
+        "question": "Give scientific reasons.\n(a) Buttermilk is churned to get butter.\n(b) In chromatography, the ingredients of\na mixture rise up to a limited height\nwhen water rises up to the upper end\nof the paper.\n(c) A wet cloth is wrapped around a water\nstorage container in summer.\n99",
+        "subQuestions": [
+          "Buttermilk is churned to get butter.",
+          "In chromatography, the ingredients of\na mixture rise up to a limited height\nwhen water rises up to the upper end\nof the paper.",
+          "A wet cloth is wrapped around a water\nstorage container in summer.\n99"
+        ]
+      }
+    ],
+    "rawText": "1. Who are my companions ?\nGroup ‘A’\nGroup ‘B’\n1. Stainless steel\n(a) Non-metal\n2. Silver\n(b) Compound\n3. Bhajani mixture (c) Mixture\n\t\t for milling\n4. Salt\n(d) Element\n5. Coal\n(e) Alloy\n6. Hydrogen\n(f) Metal\n2. Write the names of elements from the\nfollowing symbols : Zn, Cd, Xe, Br, Ti,\nCu, Fe, Si, Ir, Pt.\n3. What are the molecular formulae of the\nfollowing compounds ?\nHydrochloric acid, sulphuric acid, sodium\nchloride, glucose, methane.\n4. Give scientific reasons.\n(a) Buttermilk is churned to get butter.\n(b) In chromatography, the ingredients of\na mixture rise up to a limited height\nwhen water rises up to the upper end\nof the paper.\n(c) A wet cloth is wrapped around a water\nstorage container in summer.\n99\n5. Explain the difference.\n(a) Metals and non-metals\n(b) Mixtures and compounds\n(c) Atoms and molecules\n(d) Separation by distillation and by\nseparating funnel\n6. Write answers to the following questions\nin your own words.\n(a) How are the components of mixtures\nseparated by simple methods ?\n(b) Which elements (metals and nonmetals), compounds and mixtures do\nwe use in our day-to-day life ?\n(c) In everyday life, where and for what\npurpose do we use centrifugation ?\n(d) Where are the methods of separation\nby distillation and by separating\nfunnel used ? Why ?\n(e) Which precaution will you take while\nusing the methods of distillation and\nseparation by separating funnel ?",
+    "qaCards": [
+      {
+        "question": "That which an object is made of is called _____.",
+        "answer": "In scientific language, that which an object is made of is called matter. This is the exact textbook definition from Page 92.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The smallest particles of elements are _____.",
+        "answer": "The smallest particles of elements are atoms. We cannot see atoms with the naked eye.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A substance made of only one constituent is called _____.",
+        "answer": "Matter made of only one constituent is called 'substance' or 'element' in scientific language.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How many elements have been discovered to date?",
+        "answer": "Scientists have discovered 118 elements. Of these, 92 elements occur in nature, while the remaining are man-made.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Elements are generally classified into _____.",
+        "answer": "Elements are generally classified into two groups: metals and non-metals. There is also a third group called metalloids.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A mixture of metals is called _____.",
+        "answer": "When metals are mixed together to modify properties, the mixture is called an alloy. Examples: Brass, steel, 22-carat gold.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The substance formed by a chemical combination of two or more elements is a _____.",
+        "answer": "A compound is formed by a chemical combination of two or more elements. Water (H₂O) is a compound.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "One molecule of water is made of _____.",
+        "answer": "Water is a compound. One molecule of water (H₂O) is made of two atoms of hydrogen and one atom of oxygen.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In a mixture, the proportion of various components is _____.",
+        "answer": "A mixture is formed by mixing different elements or compounds. The proportion of components is not fixed.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following methods can be used to separate mixtures?",
+        "answer": "Mixtures can be separated using simple physical methods: filtering, sifting, picking, sorting, winnowing, magnet, sublimation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which method is used to separate two immiscible liquids?",
+        "answer": "Separating funnel is used to separate two immiscible liquids like kerosene and water based on their density difference.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Distillation is used to _____.",
+        "answer": "Distillation is used to purify impure liquids by boiling and then condensing the vapor. Salt water can be purified this way.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which method uses high-speed rotation to separate solid particles from liquids?",
+        "answer": "Centrifugation uses high-speed rotation in a centrifuge machine to separate solid particles from liquid mixtures like milk, blood, or turbid water.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In chromatography, substances are separated based on their _____.",
+        "answer": "Chromatography separates dissolved substances based on their solubility in the solvent and ability to stick to stationary filter paper.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Stainless steel is an example of _____.",
+        "answer": "Stainless steel is an alloy - a mixture of metals. Alloys are made by mixing metals to improve their properties.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Stainless steel\n(a) Non-metal",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Elements, Compounds and Mixtures\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Elements, Compounds and Mixtures (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Silver\n(b) Compound",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Elements, Compounds and Mixtures\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Elements, Compounds and Mixtures (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Bhajani mixture (c) Mixture\n\t\t for milling",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Elements, Compounds and Mixtures\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Elements, Compounds and Mixtures (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "Mixture\n\t\t for milling",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Elements, Compounds and Mixtures\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Elements, Compounds and Mixtures (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Salt\n(d) Element",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Elements, Compounds and Mixtures\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Elements, Compounds and Mixtures (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Coal\n(e) Alloy",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Elements, Compounds and Mixtures\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Elements, Compounds and Mixtures (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Hydrogen\n(f) Metal",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Elements, Compounds and Mixtures\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Elements, Compounds and Mixtures (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "Write the names of elements from the\nfollowing symbols : Zn, Cd, Xe, Br, Ti,\nCu, Fe, Si, Ir, Pt.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Elements, Compounds and Mixtures\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Elements, Compounds and Mixtures (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
       }
     ]
   }

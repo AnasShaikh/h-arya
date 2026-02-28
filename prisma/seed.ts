@@ -13,11 +13,26 @@ async function main() {
   await prisma.curriculum.createMany({
     data: [
       // Science chapters
-      { subject: 'Science', chapterNumber: 15, chapterName: 'Materials we Use',              description: 'Toothpaste, Detergents, Soap, Cement, Concrete',                                isActive: true },
-      { subject: 'Science', chapterNumber: 17, chapterName: 'Effects of Light',              description: 'Scattering of Light, Shadows, Eclipses',                                       isActive: true },
-      { subject: 'Science', chapterNumber: 18, chapterName: 'Sound',                         description: 'Production, Propagation, Pitch, Intensity',                                    isActive: true },
-      { subject: 'Science', chapterNumber: 19, chapterName: 'Properties of a Magnetic Field',description: 'Magnetism, Magnetic Field, Properties of Magnetic Lines of Force',             isActive: true },
-      { subject: 'Science', chapterNumber: 20, chapterName: 'In the World of Stars',         description: 'Galaxies, Stars, Constellations, Celestial Sphere, Nakshatras',               isActive: true },
+      { subject: 'Science', chapterNumber: 1,  chapterName: 'The Living World: Adaptations and Classification', description: 'How organisms adapt to survive and how scientists classify all living things', isActive: true },
+      { subject: 'Science', chapterNumber: 2,  chapterName: 'Plants: Structure and Function',                   description: 'Structure of plants, roots, stems, leaves and their functions',             isActive: true },
+      { subject: 'Science', chapterNumber: 3,  chapterName: 'Properties of Natural Resources',                 description: 'Air, water, soil and their properties as natural resources',                isActive: true },
+      { subject: 'Science', chapterNumber: 4,  chapterName: 'Nutrition in Living Organisms',                   description: 'Types of nutrition, photosynthesis, and nutrition in animals',              isActive: true },
+      { subject: 'Science', chapterNumber: 5,  chapterName: 'Food Safety',                                     description: 'Food adulteration, preservation, and food safety standards',               isActive: true },
+      { subject: 'Science', chapterNumber: 6,  chapterName: 'Measurement of Physical Quantities',              description: 'SI units, CGS system, measuring length, mass, time and temperature',       isActive: true },
+      { subject: 'Science', chapterNumber: 7,  chapterName: 'Motion, Force and Work',                         description: 'Distance, displacement, speed, velocity, force, and work with examples',    isActive: true },
+      { subject: 'Science', chapterNumber: 8,  chapterName: 'Static Electricity',                              description: 'Electric charge, conductors, insulators, and lightning',                   isActive: true },
+      { subject: 'Science', chapterNumber: 9,  chapterName: 'Heat',                                            description: 'Heat transfer: conduction, convection, radiation and its effects',         isActive: true },
+      { subject: 'Science', chapterNumber: 10, chapterName: 'Disasters: Famine, Water Scarcity, Volcano, Tsunami', description: 'Famine, Water Scarcity, Volcanic Eruptions, Tsunamis and Disaster Management', isActive: true },
+      { subject: 'Science', chapterNumber: 11, chapterName: 'Cell Structure and Micro-organisms',              description: 'Cell as unit of life, Plant and Animal cells, Micro-organisms',            isActive: true },
+      { subject: 'Science', chapterNumber: 12, chapterName: 'The Muscular System and Digestive System in Human Beings', description: 'Types of muscles, Human digestive system and its organs',        isActive: true },
+      { subject: 'Science', chapterNumber: 13, chapterName: 'Changes – Physical and Chemical',                 description: 'Physical and Chemical changes, Rusting, Corrosion and Conservation',      isActive: true },
+      { subject: 'Science', chapterNumber: 14, chapterName: 'Elements, Compounds and Mixtures',                description: 'Matter, Elements, Compounds, Mixtures and Separation Methods',            isActive: true },
+      { subject: 'Science', chapterNumber: 15, chapterName: 'Materials we Use',               description: 'Toothpaste, Detergents, Soap, Cement, Concrete',                             isActive: true },
+      { subject: 'Science', chapterNumber: 16, chapterName: 'Natural Resources',               description: 'Renewable and Non-renewable resources, Air, Water, Soil conservation',      isActive: true },
+      { subject: 'Science', chapterNumber: 17, chapterName: 'Effects of Light',               description: 'Scattering of Light, Shadows, Eclipses',                                      isActive: true },
+      { subject: 'Science', chapterNumber: 18, chapterName: 'Sound',                          description: 'Production, Propagation, Pitch, Intensity',                                   isActive: true },
+      { subject: 'Science', chapterNumber: 19, chapterName: 'Properties of a Magnetic Field', description: 'Magnetism, Magnetic Field, Properties of Magnetic Lines of Force',            isActive: true },
+      { subject: 'Science', chapterNumber: 20, chapterName: 'In the World of Stars',          description: 'Galaxies, Stars, Constellations, Celestial Sphere, Nakshatras',              isActive: true },
 
       // Mathematics chapters
       { subject: 'Mathematics', chapterNumber: 1,  chapterName: 'Geometrical Constructions',               description: 'Angle bisectors, perpendicular bisectors, triangle constructions',           isActive: true },

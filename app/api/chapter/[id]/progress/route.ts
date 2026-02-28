@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import prisma from '@/lib/db/prisma';
 
+const TOTAL_LEARNING_STAGES = 6;
+
 export async function POST(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
@@ -35,17 +37,20 @@ export async function POST(
 
     if (existing) {
       completedStages = Array.isArray(existing.stagesCompleted)
-        ? (existing.stagesCompleted as number[])
+        ? ((existing.stagesCompleted as number[]).filter(stage => stage >= 1 && stage <= TOTAL_LEARNING_STAGES))
         : [];
 
-      if (!completedStages.includes(stageCompleted)) {
+      if (stageCompleted >= 1 && stageCompleted <= TOTAL_LEARNING_STAGES && !completedStages.includes(stageCompleted)) {
         completedStages.push(stageCompleted);
         completedStages.sort((a, b) => a - b);
       }
 
-      currentStage = completedStages.length === 5 ? 5 : Math.max(...completedStages) + 1;
+      const highestStage = completedStages.length > 0 ? Math.max(...completedStages) : 1;
+      currentStage = completedStages.length >= TOTAL_LEARNING_STAGES
+        ? TOTAL_LEARNING_STAGES
+        : Math.min(highestStage + 1, TOTAL_LEARNING_STAGES);
 
-      const status = completedStages.length === 5 ? 'completed' : 'in_progress';
+      const status = completedStages.length >= TOTAL_LEARNING_STAGES ? 'completed' : 'in_progress';
 
       await prisma.progress.update({
         where: {
@@ -64,8 +69,12 @@ export async function POST(
         },
       });
     } else {
-      completedStages = [stageCompleted];
-      currentStage = 2;
+      completedStages = stageCompleted >= 1 && stageCompleted <= TOTAL_LEARNING_STAGES
+        ? [stageCompleted]
+        : [];
+      currentStage = completedStages.length > 0
+        ? Math.min(stageCompleted + 1, TOTAL_LEARNING_STAGES)
+        : 1;
 
       await prisma.progress.create({
         data: {

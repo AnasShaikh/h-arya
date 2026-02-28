@@ -10,7 +10,12 @@
     {
       "id": "q1",
       "question": "Two angles whose sum is 90° are called _____.",
-      "options": ["Complementary angles", "Supplementary angles", "Adjacent angles", "Vertically opposite angles"],
+      "options": [
+        "Complementary angles",
+        "Supplementary angles",
+        "Adjacent angles",
+        "Vertically opposite angles"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -18,7 +23,12 @@
     {
       "id": "q2",
       "question": "Two angles whose sum is 180° are called _____.",
-      "options": ["Supplementary angles", "Complementary angles", "Linear pair", "Right angles"],
+      "options": [
+        "Supplementary angles",
+        "Complementary angles",
+        "Linear pair",
+        "Right angles"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 3
@@ -26,7 +36,12 @@
     {
       "id": "q3",
       "question": "What is the complement of a 40° angle?",
-      "options": ["50°", "140°", "60°", "90°"],
+      "options": [
+        "50°",
+        "140°",
+        "60°",
+        "90°"
+      ],
       "correctAnswer": "A",
       "difficulty": "easy",
       "conceptId": 2
@@ -34,7 +49,12 @@
     {
       "id": "q4",
       "question": "When two lines intersect, vertically opposite angles are _____.",
-      "options": ["Equal", "Supplementary", "Complementary", "Adjacent"],
+      "options": [
+        "Equal",
+        "Supplementary",
+        "Complementary",
+        "Adjacent"
+      ],
       "correctAnswer": "A",
       "difficulty": "medium",
       "conceptId": 5
@@ -42,7 +62,12 @@
     {
       "id": "q5",
       "question": "The sum of interior angles of a pentagon is _____.",
-      "options": ["540°", "360°", "720°", "180°"],
+      "options": [
+        "540°",
+        "360°",
+        "720°",
+        "180°"
+      ],
       "correctAnswer": "A",
       "difficulty": "hard",
       "conceptId": 5
@@ -59,10 +84,22 @@
       "content": "Two angles which have a common vertex, a common arm and separate interiors are said to be adjacent angles. They are like neighbouring angles that share a side but don't overlap. The common arm lies between the two angles.",
       "pageReference": "24",
       "examples": [
-        { "icon": "📐", "text": "∠BMQ and ∠QMD share vertex M and arm MQ" },
-        { "icon": "🚪", "text": "A door partly open forms adjacent angles with the wall" },
-        { "icon": "🕐", "text": "Clock hands at 3 o'clock form adjacent angles" },
-        { "icon": "✂️", "text": "Scissors open form two adjacent angles" }
+        {
+          "icon": "📐",
+          "text": "∠BMQ and ∠QMD share vertex M and arm MQ"
+        },
+        {
+          "icon": "🚪",
+          "text": "A door partly open forms adjacent angles with the wall"
+        },
+        {
+          "icon": "🕐",
+          "text": "Clock hands at 3 o'clock form adjacent angles"
+        },
+        {
+          "icon": "✂️",
+          "text": "Scissors open form two adjacent angles"
+        }
       ],
       "keyPoints": [
         "Adjacent angles have one common arm",
@@ -84,10 +121,22 @@
       "content": "If the sum of the measures of two angles is 90°, they are called complementary angles. Each angle is the complement of the other. For example, 40° and 50° are complementary since 40° + 50° = 90°.",
       "pageReference": "25-26",
       "examples": [
-        { "icon": "🔺", "text": "40° and 50° are complementary: 40+50=90°" },
-        { "icon": "📏", "text": "Complement of 70° = 90° - 70° = 20°" },
-        { "icon": "🧮", "text": "If angles are (a+15)° and (2a)°: a+15+2a=90 → a=25 → angles are 40° and 50°" },
-        { "icon": "📐", "text": "In a right-angled triangle, the two acute angles are complementary" }
+        {
+          "icon": "🔺",
+          "text": "40° and 50° are complementary: 40+50=90°"
+        },
+        {
+          "icon": "📏",
+          "text": "Complement of 70° = 90° - 70° = 20°"
+        },
+        {
+          "icon": "🧮",
+          "text": "If angles are (a+15)° and (2a)°: a+15+2a=90 → a=25 → angles are 40° and 50°"
+        },
+        {
+          "icon": "📐",
+          "text": "In a right-angled triangle, the two acute angles are complementary"
+        }
       ],
       "keyPoints": [
         "Sum of complementary angles = 90°",
@@ -109,10 +158,22 @@
       "content": "If the sum of the measures of two angles is 180°, they are called supplementary angles. Each is the supplement of the other. For example, 110° and 70° are supplementary since 110° + 70° = 180°.",
       "pageReference": "26-27",
       "examples": [
-        { "icon": "📏", "text": "135° and 45° are supplementary: 135+45=180°" },
-        { "icon": "🧮", "text": "Supplement of 135° = 180° - 135° = 45°" },
-        { "icon": "📐", "text": "(a+30)° and (2a)° supplementary: a+30+2a=180 → a=50 → 80° and 100°" },
-        { "icon": "🔄", "text": "A straight line forms a 180° angle — any ray on it creates supplementary angles" }
+        {
+          "icon": "📏",
+          "text": "135° and 45° are supplementary: 135+45=180°"
+        },
+        {
+          "icon": "🧮",
+          "text": "Supplement of 135° = 180° - 135° = 45°"
+        },
+        {
+          "icon": "📐",
+          "text": "(a+30)° and (2a)° supplementary: a+30+2a=180 → a=50 → 80° and 100°"
+        },
+        {
+          "icon": "🔄",
+          "text": "A straight line forms a 180° angle — any ray on it creates supplementary angles"
+        }
       ],
       "keyPoints": [
         "Sum of supplementary angles = 180°",
@@ -134,10 +195,22 @@
       "content": "Two rays with a common origin that form a straight line are called opposite rays. Angles which have a common arm and whose other arms form a straight line are angles in a linear pair. The sum of angles in a linear pair is always 180°.",
       "pageReference": "28-29",
       "examples": [
-        { "icon": "↔️", "text": "Ray BC and ray BA in a straight line are opposite rays" },
-        { "icon": "📐", "text": "∠PQR and ∠RQS form a linear pair: sum = 180°" },
-        { "icon": "🕯️", "text": "A candle flame: rays going up and down are opposite rays" },
-        { "icon": "🛣️", "text": "A road going left and right from an intersection" }
+        {
+          "icon": "↔️",
+          "text": "Ray BC and ray BA in a straight line are opposite rays"
+        },
+        {
+          "icon": "📐",
+          "text": "∠PQR and ∠RQS form a linear pair: sum = 180°"
+        },
+        {
+          "icon": "🕯️",
+          "text": "A candle flame: rays going up and down are opposite rays"
+        },
+        {
+          "icon": "🛣️",
+          "text": "A road going left and right from an intersection"
+        }
       ],
       "keyPoints": [
         "Opposite rays: common origin, form a straight line",
@@ -159,10 +232,22 @@
       "content": "When two lines intersect, the opposite angles formed are equal — these are vertically opposite angles. The sum of interior angles of a polygon with n sides = 180° × (n-2). The exterior angle of a triangle equals the sum of its two remote interior angles.",
       "pageReference": "29-32",
       "examples": [
-        { "icon": "✕", "text": "Lines PT and RS intersect at Q: ∠PQR = ∠SQT (vertically opposite)" },
-        { "icon": "⬠", "text": "Pentagon (5 sides): 180°×(5-2) = 180°×3 = 540°" },
-        { "icon": "⬡", "text": "Hexagon (6 sides): 180°×(6-2) = 720°" },
-        { "icon": "📐", "text": "Exterior angle of triangle = sum of two remote interior angles" }
+        {
+          "icon": "✕",
+          "text": "Lines PT and RS intersect at Q: ∠PQR = ∠SQT (vertically opposite)"
+        },
+        {
+          "icon": "⬠",
+          "text": "Pentagon (5 sides): 180°×(5-2) = 180°×3 = 540°"
+        },
+        {
+          "icon": "⬡",
+          "text": "Hexagon (6 sides): 180°×(6-2) = 720°"
+        },
+        {
+          "icon": "📐",
+          "text": "Exterior angle of triangle = sum of two remote interior angles"
+        }
       ],
       "keyPoints": [
         "Vertically opposite angles are equal",
@@ -179,91 +264,162 @@
     {
       "id": "q1",
       "question": "The complement of a 63° angle is _____.",
-      "options": ["27°", "117°", "37°", "90°"],
+      "options": [
+        "27°",
+        "117°",
+        "37°",
+        "90°"
+      ],
       "correctAnswer": "A",
       "explanation": "Complement = 90° - 63° = 27°",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "26"
     },
     {
       "id": "q2",
       "question": "The supplement of a 120° angle is _____.",
-      "options": ["60°", "70°", "240°", "30°"],
+      "options": [
+        "60°",
+        "70°",
+        "240°",
+        "30°"
+      ],
       "correctAnswer": "A",
       "explanation": "Supplement = 180° - 120° = 60°",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "27"
     },
     {
       "id": "q3",
       "question": "Two angles in a linear pair sum to _____.",
-      "options": ["180°", "90°", "360°", "270°"],
+      "options": [
+        "180°",
+        "90°",
+        "360°",
+        "270°"
+      ],
       "correctAnswer": "A",
       "explanation": "Angles in a linear pair are supplementary, so their sum is 180°.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "29"
     },
     {
       "id": "q4",
       "question": "Lines AC and BD intersect at P. If m∠APD = 47°, what is m∠BPC?",
-      "options": ["47°", "133°", "43°", "90°"],
+      "options": [
+        "47°",
+        "133°",
+        "43°",
+        "90°"
+      ],
       "correctAnswer": "A",
       "explanation": "∠APD and ∠BPC are vertically opposite angles, so they are equal: 47°.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "30"
     },
     {
       "id": "q5",
       "question": "The sum of interior angles of a hexagon is _____.",
-      "options": ["720°", "540°", "900°", "360°"],
+      "options": [
+        "720°",
+        "540°",
+        "900°",
+        "360°"
+      ],
       "correctAnswer": "A",
       "explanation": "Hexagon has 6 sides. Sum = 180°×(6-2) = 180°×4 = 720°",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "31"
     },
     {
       "id": "q6",
       "question": "(y - 20)° and (y + 30)° are complementary. Find y.",
-      "options": ["40", "20", "70", "80"],
+      "options": [
+        "40",
+        "20",
+        "70",
+        "80"
+      ],
       "correctAnswer": "A",
       "explanation": "(y-20) + (y+30) = 90 → 2y + 10 = 90 → 2y = 80 → y = 40",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "26"
     },
     {
       "id": "q7",
       "question": "If ∠ACD is an exterior angle of △ABC and m∠ACD = 140°, and ∠A = ∠B, what is m∠A?",
-      "options": ["70°", "140°", "40°", "50°"],
+      "options": [
+        "70°",
+        "140°",
+        "40°",
+        "50°"
+      ],
       "correctAnswer": "A",
       "explanation": "Exterior angle = sum of remote interior angles. 140° = ∠A + ∠B = 2∠A → ∠A = 70°",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "32"
     },
     {
       "id": "q8",
       "question": "Two acute angles can form a pair of supplementary angles.",
-      "options": ["False", "True", "Sometimes true", "Depends on the angles"],
+      "options": [
+        "False",
+        "True",
+        "Sometimes true",
+        "Depends on the angles"
+      ],
       "correctAnswer": "A",
       "explanation": "Two acute angles each measure less than 90°. Their sum is less than 180°, so they cannot be supplementary.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "27"
     },
     {
       "id": "q9",
       "question": "What is the supplement of the complement of a 70° angle?",
-      "options": ["160°", "110°", "20°", "70°"],
+      "options": [
+        "160°",
+        "110°",
+        "20°",
+        "70°"
+      ],
       "correctAnswer": "A",
       "explanation": "Complement of 70° = 20°. Supplement of 20° = 180° - 20° = 160°.",
-      "conceptIds": [2, 3],
+      "conceptIds": [
+        2,
+        3
+      ],
       "pageReference": "27"
     },
     {
       "id": "q10",
       "question": "Two angles of measures (a+30)° and (2a)° are supplementary. What are the measures?",
-      "options": ["80° and 100°", "60° and 120°", "90° and 90°", "70° and 110°"],
+      "options": [
+        "80° and 100°",
+        "60° and 120°",
+        "90° and 90°",
+        "70° and 110°"
+      ],
       "correctAnswer": "A",
       "explanation": "a+30+2a=180 → 3a=150 → a=50 → angles are 80° and 100°",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "27"
     }
   ],
@@ -291,10 +447,145 @@
       "Architectural designs using polygon angle properties"
     ],
     "formulas": [
-      { "formula": "Complement of x° = (90 - x)°", "explanation": "Complementary angles sum to 90°" },
-      { "formula": "Supplement of x° = (180 - x)°", "explanation": "Supplementary angles sum to 180°" },
-      { "formula": "Sum of interior angles = 180° × (n-2)", "explanation": "Formula for n-sided polygon" },
-      { "formula": "Exterior angle = sum of remote interior angles", "explanation": "Property of exterior angle of triangle" }
+      {
+        "formula": "Complement of x° = (90 - x)°",
+        "explanation": "Complementary angles sum to 90°"
+      },
+      {
+        "formula": "Supplement of x° = (180 - x)°",
+        "explanation": "Supplementary angles sum to 180°"
+      },
+      {
+        "formula": "Sum of interior angles = 180° × (n-2)",
+        "explanation": "Formula for n-sided polygon"
+      },
+      {
+        "formula": "Exterior angle = sum of remote interior angles",
+        "explanation": "Property of exterior angle of triangle"
+      }
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Arrange the pieces to form the correct mathematical expression.",
+    "data": {
+      "formula": "Sum of angles in a triangle = 180°",
+      "components": [
+        "∠A",
+        "+",
+        "∠B",
+        "+",
+        "∠C",
+        "=",
+        "180°"
+      ],
+      "explanation": "The three interior angles of any triangle always add up to 180 degrees."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Angles and Pairs of Angles",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "The complement of a 63° angle is _____.",
+        "answer": "Complement = 90° - 63° = 27°",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The supplement of a 120° angle is _____.",
+        "answer": "Supplement = 180° - 120° = 60°",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Two angles in a linear pair sum to _____.",
+        "answer": "Angles in a linear pair are supplementary, so their sum is 180°.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Lines AC and BD intersect at P. If m∠APD = 47°, what is m∠BPC?",
+        "answer": "∠APD and ∠BPC are vertically opposite angles, so they are equal: 47°.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The sum of interior angles of a hexagon is _____.",
+        "answer": "Hexagon has 6 sides. Sum = 180°×(6-2) = 180°×4 = 720°",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "(y - 20)° and (y + 30)° are complementary. Find y.",
+        "answer": "(y-20) + (y+30) = 90 → 2y + 10 = 90 → 2y = 80 → y = 40",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "If ∠ACD is an exterior angle of △ABC and m∠ACD = 140°, and ∠A = ∠B, what is m∠A?",
+        "answer": "Exterior angle = sum of remote interior angles. 140° = ∠A + ∠B = 2∠A → ∠A = 70°",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Two acute angles can form a pair of supplementary angles.",
+        "answer": "Two acute angles each measure less than 90°. Their sum is less than 180°, so they cannot be supplementary.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the supplement of the complement of a 70° angle?",
+        "answer": "Complement of 70° = 20°. Supplement of 20° = 180° - 20° = 160°.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Two angles of measures (a+30)° and (2a)° are supplementary. What are the measures?",
+        "answer": "a+30+2a=180 → 3a=150 → a=50 → angles are 80° and 100°",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "question": "Explain what is meant by the interior and exterior of an angle.",
+        "answer": "The interior of an angle consists of the group of points in the plane that lie between the arms of the angle but are not on the arms themselves. The exterior of an angle consists of the group of points in the plane that are neither on the arms of the angle nor in its interior. This effectively categorizes the plane into three distinct parts: the interior, the exterior, and the points on the angle itself.",
+        "keyPoints": [
+          "Interior points are inside the angle and not on the arms.",
+          "Exterior points are outside the angle and not on the arms.",
+          "Points can also lie exactly on the arms of the angle."
+        ]
+      },
+      {
+        "question": "Define adjacent angles and list the necessary conditions for two angles to be adjacent.",
+        "answer": "Two angles are said to be adjacent angles if they are neighbouring angles that share specific geometric properties. For two angles to be adjacent, they must have a common vertex and they must have exactly one common arm. Most importantly, their interiors must be completely separate, meaning they do not share a single common point within their interior spaces.",
+        "keyPoints": [
+          "Adjacent angles must have a common vertex.",
+          "They must share exactly one common arm.",
+          "They must have completely separate interiors."
+        ]
+      },
+      {
+        "question": "Why are two angles with a common arm and a common vertex not always considered adjacent angles?",
+        "answer": "Two angles that share a common arm and a common vertex might still not be adjacent if their interiors overlap. For angles to be adjacent, they must have strictly separate interiors without any common points. If one angle is partially or completely inside the other, their interiors overlap, which disqualifies them from being adjacent angles despite sharing a vertex and an arm.",
+        "keyPoints": [
+          "Adjacent angles require completely separate interiors.",
+          "Sharing a common arm and vertex is necessary but not sufficient.",
+          "Overlapping interiors disqualify angles from being adjacent."
+        ]
+      },
+      {
+        "question": "What are complementary angles? Provide an example of how they can be formed.",
+        "answer": "Complementary angles are defined as any two angles whose measures add up exactly to 90 degrees. When the sum of the measures of two angles is 90°, they are known as mutually complementary angles. For example, if you draw a 90° right angle and then draw a ray anywhere in its interior, the two newly formed adjacent angles will have measures that sum to exactly 90°, making them complementary.",
+        "keyPoints": [
+          "The sum of the measures of complementary angles is exactly 90°.",
+          "Angles whose sum is 90° are mutually complementary.",
+          "A right angle divided by an interior ray forms two complementary angles."
+        ]
+      },
+      {
+        "question": "How do you categorize the different points in the plane of an angle?",
+        "answer": "Points in the plane of an angle can be categorized into three distinct groups based on their position relative to the angle. First, there are points that lie exactly on the arms of the angle itself forming the boundary. Second, there are points that fall in the interior of the angle, meaning they are in the space enclosed between the arms. Finally, there are points that fall in the exterior of the angle, which are neither on the arms nor in the interior.",
+        "keyPoints": [
+          "Points can lie exactly on the arms of the angle.",
+          "Points can lie in the interior of the angle.",
+          "Points can lie in the exterior of the angle."
+        ]
+      }
     ]
   }
 }

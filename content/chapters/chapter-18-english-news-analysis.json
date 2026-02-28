@@ -10,7 +10,12 @@
     {
       "id": "pre_18_1",
       "question": "Which scientist is mentioned in the chapter as warning about the dangers facing humanity?",
-      "options": ["A) Albert Einstein", "B) Stephen Hawking", "C) Isaac Newton", "D) Marie Curie"],
+      "options": [
+        "A) Albert Einstein",
+        "B) Stephen Hawking",
+        "C) Isaac Newton",
+        "D) Marie Curie"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_18_2"
@@ -18,7 +23,12 @@
     {
       "id": "pre_18_2",
       "question": "What is 'reliable news'?",
-      "options": ["A) News that is always good", "B) News that comes from a trusted and verified source", "C) News that is about famous people", "D) News that is shown on television"],
+      "options": [
+        "A) News that is always good",
+        "B) News that comes from a trusted and verified source",
+        "C) News that is about famous people",
+        "D) News that is shown on television"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_18_3"
@@ -26,7 +36,12 @@
     {
       "id": "pre_18_3",
       "question": "Why were closed shoes not allowed in examination halls in Bengaluru?",
-      "options": ["A) Because it is too hot", "B) To prevent cheating by hiding notes inside shoes", "C) As a sign of respect", "D) Because it makes walking noisy"],
+      "options": [
+        "A) Because it is too hot",
+        "B) To prevent cheating by hiding notes inside shoes",
+        "C) As a sign of respect",
+        "D) Because it makes walking noisy"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_18_2"
@@ -34,7 +49,12 @@
     {
       "id": "pre_18_4",
       "question": "In a formal letter, what closing phrase is used?",
-      "options": ["A) Your friend", "B) With love", "C) Yours faithfully", "D) Take care"],
+      "options": [
+        "A) Your friend",
+        "B) With love",
+        "C) Yours faithfully",
+        "D) Take care"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_18_5"
@@ -42,7 +62,12 @@
     {
       "id": "pre_18_5",
       "question": "Which word describes news that cannot be trusted?",
-      "options": ["A) Reliable", "B) Interesting", "C) Unreliable", "D) Important"],
+      "options": [
+        "A) Reliable",
+        "B) Interesting",
+        "C) Unreliable",
+        "D) Important"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_18_3"
@@ -174,7 +199,12 @@
     {
       "id": "test_18_1",
       "question": "Why were closed shoes banned in examination halls in Bengaluru?",
-      "options": ["A) Because it was too hot", "B) To prevent students from hiding cheat notes in their shoes", "C) As a religious tradition", "D) Because the school had new rules about footwear"],
+      "options": [
+        "A) Because it was too hot",
+        "B) To prevent students from hiding cheat notes in their shoes",
+        "C) As a religious tradition",
+        "D) Because the school had new rules about footwear"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "A Bengaluru institute banned closed shoes in exam halls to prevent cheating. Students were suspected of hiding small cheat notes inside their shoes during examinations."
@@ -182,7 +212,12 @@
     {
       "id": "test_18_2",
       "question": "What three dangers did Stephen Hawking warn about?",
-      "options": ["A) War, poverty, and crime", "B) Climate change, overpopulation, and epidemic diseases", "C) Floods, earthquakes, and drought", "D) Pollution, deforestation, and noise"],
+      "options": [
+        "A) War, poverty, and crime",
+        "B) Climate change, overpopulation, and epidemic diseases",
+        "C) Floods, earthquakes, and drought",
+        "D) Pollution, deforestation, and noise"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "Stephen Hawking warned that the three greatest dangers to humanity are climate change (global warming), overpopulation (resource scarcity), and epidemic diseases (fast-spreading illnesses)."
@@ -190,7 +225,12 @@
     {
       "id": "test_18_3",
       "question": "Why is the news about Miribaba's 'special powder' considered unreliable?",
-      "options": ["A) It is from a foreign country", "B) It is published in a small newspaper", "C) The claims are not supported by hospital data or medical evidence", "D) It is not interesting news"],
+      "options": [
+        "A) It is from a foreign country",
+        "B) It is published in a small newspaper",
+        "C) The claims are not supported by hospital data or medical evidence",
+        "D) It is not interesting news"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Miribaba's claim that his special powder cures all diseases is unreliable because there is no medical evidence or hospital data to support these extraordinary claims."
@@ -198,7 +238,12 @@
     {
       "id": "test_18_4",
       "question": "What is the salutation used in a formal letter when you don't know the person's name?",
-      "options": ["A) Dear Friend", "B) My dear", "C) Hello", "D) Sir/Madam"],
+      "options": [
+        "A) Dear Friend",
+        "B) My dear",
+        "C) Hello",
+        "D) Sir/Madam"
+      ],
       "correctAnswer": "D",
       "difficulty": "easy",
       "explanation": "In a formal letter, when you don't know the person's name, the salutation used is 'Sir/Madam'. This is the standard formal greeting in official correspondence."
@@ -206,7 +251,12 @@
     {
       "id": "test_18_5",
       "question": "What closing phrase is used at the end of a formal letter?",
-      "options": ["A) Your friend", "B) With love", "C) Yours faithfully", "D) Bye for now"],
+      "options": [
+        "A) Your friend",
+        "B) With love",
+        "C) Yours faithfully",
+        "D) Bye for now"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "'Yours faithfully' is the closing phrase used in formal letters, especially when you don't know the recipient personally. In informal letters, 'Yours sincerely' or 'With warm regards' are used."
@@ -214,7 +264,12 @@
     {
       "id": "test_18_6",
       "question": "Which of these is a reliable news source?",
-      "options": ["A) A WhatsApp forward with no source mentioned", "B) A friend's rumour heard at school", "C) A report published in a reputed newspaper with named sources", "D) A comment on social media by an unknown person"],
+      "options": [
+        "A) A WhatsApp forward with no source mentioned",
+        "B) A friend's rumour heard at school",
+        "C) A report published in a reputed newspaper with named sources",
+        "D) A comment on social media by an unknown person"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "A report in a reputed newspaper with named sources is reliable because it comes from a trusted, verified organization. WhatsApp forwards and unverified social media posts should not be trusted without verification."
@@ -222,7 +277,12 @@
     {
       "id": "test_18_7",
       "question": "What did actress Ritika do in the news story?",
-      "options": ["A) She won a national award", "B) She opened a new school", "C) She quit acting to enter politics", "D) She started a new film"],
+      "options": [
+        "A) She won a national award",
+        "B) She opened a new school",
+        "C) She quit acting to enter politics",
+        "D) She started a new film"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "explanation": "According to the news item 'Ritika Takes a Break from Acting', the Bollywood actress Ritika decided to quit acting temporarily to enter politics."
@@ -230,7 +290,12 @@
     {
       "id": "test_18_8",
       "question": "In a formal letter format, what comes after the sender's address?",
-      "options": ["A) The body of the letter", "B) The date", "C) The signature", "D) The salutation"],
+      "options": [
+        "A) The body of the letter",
+        "B) The date",
+        "C) The signature",
+        "D) The salutation"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "In a formal letter, after the sender's address comes the Date. The correct format is: Sender's address → Date → Receiver's address → Subject → Salutation → Body → Closing → Signature."
@@ -259,5 +324,156 @@
       "Formal letter writing is used in actual school correspondence — letters to the Principal requesting leave, school events, or facility improvements all follow this format."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "News Analysis",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Why were closed shoes banned in examination halls in Bengaluru?",
+        "answer": "A Bengaluru institute banned closed shoes in exam halls to prevent cheating. Students were suspected of hiding small cheat notes inside their shoes during examinations.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What three dangers did Stephen Hawking warn about?",
+        "answer": "Stephen Hawking warned that the three greatest dangers to humanity are climate change (global warming), overpopulation (resource scarcity), and epidemic diseases (fast-spreading illnesses).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why is the news about Miribaba's 'special powder' considered unreliable?",
+        "answer": "Miribaba's claim that his special powder cures all diseases is unreliable because there is no medical evidence or hospital data to support these extraordinary claims.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the salutation used in a formal letter when you don't know the person's name?",
+        "answer": "In a formal letter, when you don't know the person's name, the salutation used is 'Sir/Madam'. This is the standard formal greeting in official correspondence.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What closing phrase is used at the end of a formal letter?",
+        "answer": "'Yours faithfully' is the closing phrase used in formal letters, especially when you don't know the recipient personally. In informal letters, 'Yours sincerely' or 'With warm regards' are used.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is a reliable news source?",
+        "answer": "A report in a reputed newspaper with named sources is reliable because it comes from a trusted, verified organization. WhatsApp forwards and unverified social media posts should not be trusted without verification.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did actress Ritika do in the news story?",
+        "answer": "According to the news item 'Ritika Takes a Break from Acting', the Bollywood actress Ritika decided to quit acting temporarily to enter politics.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In a formal letter format, what comes after the sender's address?",
+        "answer": "In a formal letter, after the sender's address comes the Date. The correct format is: Sender's address → Date → Receiver's address → Subject → Salutation → Body → Closing → Signature.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Why were closed shoes banned in examination halls in Bengaluru?",
+        "modelAnswer": "A Bengaluru institute implemented a strict rule banning closed shoes inside their examination halls. The primary reason for this ban was to prevent students from engaging in unfair practices during exams. Authorities discovered that some students were attempting to hide small cheat notes inside their shoes. By requiring open footwear, the institute aimed to ensure a fair testing environment for all students.",
+        "keyPoints": [
+          "Institute banned closed shoes to prevent cheating.",
+          "Students hid small cheat notes inside their shoes.",
+          "Rule implemented to ensure a fair testing environment.",
+          "Helps promote honesty and integrity during exams."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What three dangers did Stephen Hawking warn about?",
+        "modelAnswer": "The famous scientist Stephen Hawking warned humanity about three major threats that make this the most dangerous time in history. First, he highlighted climate change, which is causing global warming and extreme weather patterns. Second, he pointed out the dangers of overpopulation, which leads to a severe scarcity of essential resources. Finally, he warned about epidemic diseases, emphasizing how fast-spreading illnesses could threaten human survival on Earth.",
+        "keyPoints": [
+          "Climate change causing global warming.",
+          "Overpopulation leading to resource scarcity.",
+          "Epidemic diseases spreading rapidly.",
+          "These three threats make this a dangerous time in history."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Why is the news about Miribaba's 'special powder' considered unreliable?",
+        "modelAnswer": "The news claiming that Miribaba's 'special powder' can cure all diseases is considered highly unreliable because it lacks proper verification. Reliable news must always be supported by factual evidence, which is entirely missing in this case. Hospital data and medical professionals do not support or confirm any of Miribaba's extraordinary health claims. Therefore, this news is classified as an unverified and potentially dangerous fake claim rather than a credible medical breakthrough.",
+        "keyPoints": [
+          "Lacks factual evidence and medical verification.",
+          "Not supported by official hospital data.",
+          "Medical professionals do not confirm the claims.",
+          "Considered an unverified and potentially dangerous fake claim."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What is the salutation used in a formal letter when you don't know the person's name?",
+        "modelAnswer": "In a formal letter, it is essential to use a polite and professional greeting. When writing to an official or someone whose specific name you do not know, the correct salutation is 'Sir/Madam'. This standard phrase ensures that the letter maintains a respectful tone regardless of the recipient's identity. Using casual greetings like 'Hello' or 'Dear Friend' is strictly avoided in such formal correspondence.",
+        "keyPoints": [
+          "Use 'Sir/Madam' as the proper salutation.",
+          "Ensures a polite and professional tone.",
+          "Standard greeting for unknown officials or organizations.",
+          "Casual or informal greetings must be avoided."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What closing phrase is used at the end of a formal letter?",
+        "modelAnswer": "The standard closing phrase used at the end of a formal letter is 'Yours faithfully'. This phrase is specifically appropriate when the letter begins with 'Sir/Madam' and the recipient is not known to you personally. It provides a polite and respectful conclusion to your official communication before adding your signature. In contrast, 'Yours sincerely' is typically reserved for formal letters where the recipient's actual name is used.",
+        "keyPoints": [
+          "'Yours faithfully' is the standard formal closing.",
+          "Used when the recipient is not personally known.",
+          "Appropriately follows the 'Sir/Madam' salutation.",
+          "Provides a respectful conclusion before the signature."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What did actress Ritika do in the news story?",
+        "modelAnswer": "In the news item titled 'Ritika Takes a Break from Acting', the Bollywood actress made a significant career decision. Ritika decided to temporarily quit acting in films. Instead of continuing her career in the entertainment industry, she chose to enter the field of politics. This change marks a completely new direction for her public life and professional journey.",
+        "keyPoints": [
+          "Bollywood actress Ritika changed her career path.",
+          "Temporarily decided to quit acting in films.",
+          "Chose to actively enter the field of politics.",
+          "Marked a new direction in her public and professional life."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

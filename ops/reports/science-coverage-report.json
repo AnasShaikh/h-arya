@@ -1,0 +1,195 @@
+{
+  "generatedAtUtc": "2026-02-28T06:34:32.397Z",
+  "summary": {
+    "activeCurriculumRows": 20,
+    "scienceContentFiles": 22,
+    "missingContentForActiveCurriculum": 0,
+    "weakQualityFiles": 0,
+    "missingInCurriculum": 0
+  },
+  "missingInCurriculum": [],
+  "missingContentForActiveCurriculum": [],
+  "weakQualityFiles": [],
+  "fileCoverage": [
+    {
+      "chapterNumber": 1,
+      "chapterName": "The Living World: Adaptations and Classification",
+      "file": "chapter-1-science-7-living-world.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 3
+    },
+    {
+      "chapterNumber": 2,
+      "chapterName": "Plants: Structure and Function",
+      "file": "chapter-2-science-7-plants.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 3
+    },
+    {
+      "chapterNumber": 3,
+      "chapterName": "Properties of Natural Resources",
+      "file": "chapter-3-science-7-natural-resources.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 3
+    },
+    {
+      "chapterNumber": 4,
+      "chapterName": "Nutrition in Living Organisms",
+      "file": "chapter-4-science-7-nutrition.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 3
+    },
+    {
+      "chapterNumber": 5,
+      "chapterName": "Food Safety",
+      "file": "chapter-5-science-7-food-safety.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 3
+    },
+    {
+      "chapterNumber": 6,
+      "chapterName": "Measurement of Physical Quantities",
+      "file": "chapter-6-science-7-measurement.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 5
+    },
+    {
+      "chapterNumber": 7,
+      "chapterName": "Motion, Force and Work",
+      "file": "chapter-7-science-7-motion-force-work.json",
+      "gradeInFile": null,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 3
+    },
+    {
+      "chapterNumber": 8,
+      "chapterName": "Static Electricity",
+      "file": "chapter-8-science-7-static-electricity.json",
+      "gradeInFile": null,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 3
+    },
+    {
+      "chapterNumber": 9,
+      "chapterName": "Heat",
+      "file": "chapter-9-science-7-heat.json",
+      "gradeInFile": null,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 3
+    },
+    {
+      "chapterNumber": 10,
+      "chapterName": "Disasters: Famine, Water Scarcity, Volcano, Tsunami",
+      "file": "chapter-10-disasters.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 5
+    },
+    {
+      "chapterNumber": 11,
+      "chapterName": "Cell Structure and Micro-organisms",
+      "file": "chapter-11-cell-structure-micro-organisms.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 5
+    },
+    {
+      "chapterNumber": 12,
+      "chapterName": "The Muscular System and Digestive System in Human Beings",
+      "file": "chapter-12-muscular-digestive-system.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 5
+    },
+    {
+      "chapterNumber": 13,
+      "chapterName": "Changes – Physical and Chemical",
+      "file": "chapter-13-physical-chemical-changes.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 5
+    },
+    {
+      "chapterNumber": 14,
+      "chapterName": "Elements, Compounds and Mixtures",
+      "file": "chapter-14-elements-compounds-and-mixtures.json",
+      "gradeInFile": null,
+      "preAssessmentCount": 5,
+      "testCount": 15,
+      "conceptsCount": 6
+    },
+    {
+      "chapterNumber": 15,
+      "chapterName": "Materials we Use",
+      "file": "chapter-15-materials-we-use.json",
+      "gradeInFile": null,
+      "preAssessmentCount": 5,
+      "testCount": 10,
+      "conceptsCount": 5
+    },
+    {
+      "chapterNumber": 16,
+      "chapterName": "Natural Resources",
+      "file": "chapter-16-natural-resources.json",
+      "gradeInFile": 7,
+      "preAssessmentCount": 5,
+      "testCount": 8,
+      "conceptsCount": 5
+    },
+    {
+      "chapterNumber": 17,
+      "chapterName": "Effects of Light",
+      "file": "chapter-17-effects-of-light.json",
+      "gradeInFile": null,
+      "preAssessmentCount": 5,
+      "testCount": 10,
+      "conceptsCount": 5
+    },
+    {
+      "chapterNumber": 18,
+      "chapterName": "Sound",
+      "file": "chapter-18-sound.json",
+      "gradeInFile": null,
+      "preAssessmentCount": 5,
+      "testCount": 10,
+      "conceptsCount": 5
+    },
+    {
+      "chapterNumber": 19,
+      "chapterName": "Properties of a Magnetic Field",
+      "file": "chapter-19-properties-of-magnetic-field.json",
+      "gradeInFile": null,
+      "preAssessmentCount": 5,
+      "testCount": 10,
+      "conceptsCount": 5
+    },
+    {
+      "chapterNumber": 20,
+      "chapterName": "In the World of Stars",
+      "file": "chapter-20-in-the-world-of-stars.json",
+      "gradeInFile": null,
+      "preAssessmentCount": 5,
+      "testCount": 10,
+      "conceptsCount": 5
+    }
+  ]
+}

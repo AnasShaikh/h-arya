@@ -321,5 +321,144 @@
       "The Maratha war of resistance against Aurangzeb is studied in military history as one of the earliest successful resistance movements against an overwhelming imperial power."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "timeline",
+    "title": "Arrange the Timeline!",
+    "description": "Put these historical events in the correct chronological order.",
+    "data": {
+      "events": [
+        {
+          "label": "Shivaji establishes Swaraj",
+          "year": "1646",
+          "fact": "Beginning of Maratha power in the Deccan"
+        },
+        {
+          "label": "Battle of Salher",
+          "year": "1672",
+          "fact": "Major Maratha victory against the Mughals"
+        },
+        {
+          "label": "Shivaji's Coronation",
+          "year": "1674",
+          "fact": "Shivaji crowned Chhatrapati at Raigad"
+        },
+        {
+          "label": "Sambhaji becomes king",
+          "year": "1680",
+          "fact": "Shivaji's son continued the struggle against the Mughals"
+        },
+        {
+          "label": "Peshwa Era begins",
+          "year": "1713",
+          "fact": "Balaji Vishwanath became the first powerful Peshwa"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "The Maratha War of Independence",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "On what date was Sambhaji Maharaj executed by Aurangzeb?",
+        "answer": "Sambhaji Maharaj was executed by Aurangzeb on 11 March 1689, after being captured near Sangameshwar. He refused to reveal Maratha information or convert to Islam even under torture.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why did Rajaram Maharaj escape to Jinji fort in Tamil Nadu?",
+        "answer": "Rajaram escaped to Jinji (in present-day Tamil Nadu) because it was far from Aurangzeb's main army. From there, he could continue directing the Maratha resistance without risking capture, while Maratha commanders maintained the guerrilla war in Maharashtra.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What made Tarabai's leadership historically remarkable?",
+        "answer": "Tarabai was remarkable because she — a woman in the 17th century — successfully led the military and political resistance of the Maratha kingdom against Aurangzeb's overwhelming force after her husband Rajaram died. Under her leadership, the Marathas even went on offensive raids into Mughal territory.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How did Aurangzeb's 27-year Deccan campaign affect the Mughal Empire?",
+        "answer": "The 27-year Deccan campaign bankrupted the Mughal treasury and exhausted the imperial army. After Aurangzeb's death in 1707, the Mughal empire fragmented rapidly as it no longer had the financial or military resources to maintain central authority.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Where did Aurangzeb die in 1707?",
+        "answer": "Aurangzeb died in Ahmednagar, Maharashtra in 1707 — in the very territory he had spent 27 years trying to conquer. He died still fighting the Marathas, having failed to destroy the Swaraj that Shivaji had founded.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was Shahu Maharaj's contribution to the expansion of Maratha power?",
+        "answer": "Shahu Maharaj's key contribution was wise governance — he identified and empowered capable Peshwas, especially Balaji Vishwanath and Bajirao I. These Peshwas transformed the Maratha kingdom from a defensive Swaraj into an expanding pan-Indian empire.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Santaji Ghorpade and Dhanaji Jadhav were known for:",
+        "answer": "Santaji Ghorpade and Dhanaji Jadhav were the great Maratha cavalry commanders who maintained the guerrilla war in Maharashtra while Rajaram was at Jinji. Their brilliant raids on Mughal camps and supply lines kept the resistance alive.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Who was Shahu Maharaj?",
+        "answer": "Shahu was Sambhaji Maharaj's son. He was captured by Aurangzeb's forces as a child in 1689 after Raigad fell. After Aurangzeb's death in 1707, the new Mughal emperor released him. He returned to Maharashtra and became the Chhatrapati at Satara.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "On what date was Sambhaji Maharaj executed by Aurangzeb?",
+        "modelAnswer": "Sambhaji Maharaj was executed by Aurangzeb on 11 March 1689, after being captured near Sangameshwar. He refused to reveal Maratha information or convert to Islam even under torture. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Sambhaji Maharaj was executed by Aurangzeb on 11 March 1689, after being captured near Sangameshwar.",
+          "He refused to reveal Maratha information or convert to Islam even under torture.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Why did Rajaram Maharaj escape to Jinji fort in Tamil Nadu?",
+        "modelAnswer": "Rajaram escaped to Jinji (in present-day Tamil Nadu) because it was far from Aurangzeb's main army. From there, he could continue directing the Maratha resistance without risking capture, while Maratha commanders maintained the guerrilla war in Maharashtra. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Rajaram escaped to Jinji (in present-day Tamil Nadu) because it was far from Aurangzeb's main army.",
+          "From there, he could continue directing the Maratha resistance without risking capture, while Maratha commanders maintained the guerrilla war in Maharashtra.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What made Tarabai's leadership historically remarkable?",
+        "modelAnswer": "Tarabai was remarkable because she — a woman in the 17th century — successfully led the military and political resistance of the Maratha kingdom against Aurangzeb's overwhelming force after her husband Rajaram died. Under her leadership, the Marathas even went on offensive raids into Mughal territory. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Tarabai was remarkable because she — a woman in the 17th century — successfully led the military and political resistance of the Maratha kingdom against Aurangzeb's overwhelming force after her husband Rajaram died.",
+          "Under her leadership, the Marathas even went on offensive raids into Mughal territory.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "How did Aurangzeb's 27-year Deccan campaign affect the Mughal Empire?",
+        "modelAnswer": "The 27-year Deccan campaign bankrupted the Mughal treasury and exhausted the imperial army. After Aurangzeb's death in 1707, the Mughal empire fragmented rapidly as it no longer had the financial or military resources to maintain central authority. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "The 27-year Deccan campaign bankrupted the Mughal treasury and exhausted the imperial army.",
+          "After Aurangzeb's death in 1707, the Mughal empire fragmented rapidly as it no longer had the financial or military resources to maintain central authority.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What was Shahu Maharaj's contribution to the expansion of Maratha power?",
+        "modelAnswer": "Shahu Maharaj's key contribution was wise governance — he identified and empowered capable Peshwas, especially Balaji Vishwanath and Bajirao I. These Peshwas transformed the Maratha kingdom from a defensive Swaraj into an expanding pan-Indian empire. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Shahu Maharaj's key contribution was wise governance — he identified and empowered capable Peshwas, especially Balaji Vishwanath and Bajirao I.",
+          "These Peshwas transformed the Maratha kingdom from a defensive Swaraj into an expanding pan-Indian empire.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

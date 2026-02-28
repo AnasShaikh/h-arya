@@ -2,27 +2,76 @@
   "metadata": {
     "grade": 8,
     "chapterNumber": 1,
-    "title": "Rational and Irrational numbers",
+    "title": "Rational and Irrational Numbers",
     "subject": "Mathematics",
     "pages": "1-5",
-    "description": "Understanding rational numbers, irrational numbers, and their representation on the number line"
+    "description": "Understanding rational numbers, irrational numbers, and their representation on the number line."
   },
   "preAssessment": [
     {
       "id": "q1",
-      "question": "What is a rational number?",
-      "options": ["A number that can be expressed as p/q", "Only whole numbers", "Only negative numbers", "A number that cannot be written"],
-      "correctAnswer": "A",
+      "question": "Which of these is a rational number?",
+      "options": [
+        "√2",
+        "π",
+        "3/7",
+        "√5"
+      ],
+      "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": 1
     },
     {
       "id": "q2",
-      "question": "Which of the following is an irrational number?",
-      "options": ["√2", "2/3", "0.5", "5"],
-      "correctAnswer": "A",
+      "question": "A decimal that terminates is always:",
+      "options": [
+        "Irrational",
+        "Rational",
+        "Natural",
+        "Whole"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which of these is irrational?",
+      "options": [
+        "0.125",
+        "22/7",
+        "√3",
+        "-4"
+      ],
+      "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": 2
+    },
+    {
+      "id": "q4",
+      "question": "Between any two rational numbers there are:",
+      "options": [
+        "No rational numbers",
+        "Exactly one rational number",
+        "Infinitely many rational numbers",
+        "Only irrational numbers"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "q5",
+      "question": "If p is an integer and q is a non-zero integer, then p/q is:",
+      "options": [
+        "Always irrational",
+        "Always rational",
+        "Always natural",
+        "Not a number"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
     }
   ],
   "concepts": [
@@ -33,12 +82,34 @@
       "colorTheme": "from-blue-400 to-blue-600",
       "bgColor": "bg-blue-50",
       "borderColor": "border-blue-300",
-      "content": "A number that can be expressed in the form p/q, where p and q are integers and q ≠ 0, is called a rational number. Examples: 2/3, -5/7, 0, 4, etc.",
+      "content": "A rational number is any number that can be written in the form p/q where p and q are integers and q ≠ 0. Integers, terminating decimals and recurring decimals are all rational numbers.",
       "pageReference": "1-2",
-      "keyTakeaways": [
-        "All integers are rational numbers",
-        "Terminating and recurring decimals are rational"
-      ]
+      "examples": [
+        {
+          "id": "e1",
+          "text": "2/5, -7/3, 0 and 9 are all rational numbers."
+        },
+        {
+          "id": "e2",
+          "text": "0.75 = 3/4, so it is rational."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "k1",
+          "text": "Denominator cannot be zero."
+        },
+        {
+          "id": "k2",
+          "text": "Every integer is rational."
+        },
+        {
+          "id": "k3",
+          "text": "Recurring decimals are rational."
+        }
+      ],
+      "funFact": "The word rational comes from the word ratio.",
+      "textbookRef": "Pages 1-2"
     },
     {
       "id": 2,
@@ -47,22 +118,246 @@
       "colorTheme": "from-red-400 to-red-600",
       "bgColor": "bg-red-50",
       "borderColor": "border-red-300",
-      "content": "Numbers that cannot be expressed in the form p/q are called irrational numbers. Their decimal representation is non-terminating and non-recurring. Examples: √2, √3, π.",
+      "content": "Irrational numbers cannot be written as p/q. Their decimal representation is non-terminating and non-recurring.",
       "pageReference": "3-4",
-      "keyTakeaways": [
-        "√n is irrational if n is not a perfect square",
-        "Irrational numbers can also be represented on a number line"
-      ]
+      "examples": [
+        {
+          "id": "e1",
+          "text": "√2, √3, √5 and π are irrational numbers."
+        },
+        {
+          "id": "e2",
+          "text": "1.414213... is non-terminating and non-recurring."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "k1",
+          "text": "√n is irrational if n is not a perfect square."
+        },
+        {
+          "id": "k2",
+          "text": "π is irrational."
+        },
+        {
+          "id": "k3",
+          "text": "Irrational decimals never repeat in a fixed pattern."
+        }
+      ],
+      "funFact": "π has been computed to trillions of decimal places.",
+      "textbookRef": "Pages 3-4"
+    },
+    {
+      "id": 3,
+      "title": "Number Line Representation",
+      "emoji": "📏",
+      "colorTheme": "from-purple-400 to-indigo-600",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "Both rational and irrational numbers can be represented on a number line. Rational numbers are exact points from fractions/decimals; irrational numbers are located using geometric construction or decimal approximation.",
+      "pageReference": "4-5",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "3/2 is marked midway between 1 and 2."
+        },
+        {
+          "id": "e2",
+          "text": "√2 lies between 1 and 2, closer to 1.4."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "k1",
+          "text": "Between any two real numbers there are infinitely many rational and irrational numbers."
+        },
+        {
+          "id": "k2",
+          "text": "Approximation helps locate irrational numbers."
+        },
+        {
+          "id": "k3",
+          "text": "Number line gives visual ordering of numbers."
+        }
+      ],
+      "funFact": "The real number line has no gaps.",
+      "textbookRef": "Pages 4-5"
     }
   ],
   "test": [
     {
       "id": "t1",
-      "question": "The sum of a rational and an irrational number is always:",
-      "options": ["Irrational", "Rational", "Integer", "Zero"],
-      "correctAnswer": "A",
+      "question": "Which of the following is rational?",
+      "options": [
+        "√7",
+        "π",
+        "0.333...",
+        "√11"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "t2",
+      "question": "0.125 in fraction form is:",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/8",
+        "1/16"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "t3",
+      "question": "Which statement is true?",
+      "options": [
+        "All non-terminating decimals are irrational",
+        "All recurring decimals are irrational",
+        "All recurring decimals are rational",
+        "All integers are irrational"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 1
+    },
+    {
+      "id": "t4",
+      "question": "The sum of a rational number and an irrational number is usually:",
+      "options": [
+        "Rational",
+        "Irrational",
+        "Natural",
+        "Whole"
+      ],
+      "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": 2
+    },
+    {
+      "id": "t5",
+      "question": "Which number lies between 1 and 2?",
+      "options": [
+        "√5",
+        "√2",
+        "√8",
+        "√10"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "t6",
+      "question": "22/7 is:",
+      "options": [
+        "Irrational",
+        "Rational",
+        "Neither",
+        "Prime number"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "t7",
+      "question": "A non-terminating, non-recurring decimal is:",
+      "options": [
+        "Rational",
+        "Irrational",
+        "Integer",
+        "Whole"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "t8",
+      "question": "Between 2/3 and 3/4, how many rational numbers exist?",
+      "options": [
+        "1",
+        "2",
+        "Finite",
+        "Infinite"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "conceptId": 3
     }
-  ]
+  ],
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Arrange the pieces to form the correct mathematical expression.",
+    "data": {
+      "formula": "Perimeter of Square = 4 × Side",
+      "components": [
+        "Perimeter",
+        "=",
+        "4",
+        "×",
+        "Side"
+      ],
+      "explanation": "A square has 4 equal sides. Its perimeter is 4 times the length of one side."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Rational and Irrational Numbers",
+    "instructions": "Textbook-style long answer practice",
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Between 2/3 and 3/4, how many rational numbers exist?",
+        "modelAnswer": "There are infinitely many rational numbers between 2/3 and 3/4. To show this, write equivalent fractions: 2/3 = 16/24 and 3/4 = 18/24. The fraction 17/24 lies between them. Again between 16/24 and 17/24, we can find more fractions, and this process can continue without end.",
+        "keyPoints": [
+          "Infinitely many rationals exist between two distinct rationals.",
+          "2/3 and 3/4 can be written as 16/24 and 18/24.",
+          "17/24 is one rational number between them.",
+          "Further subdivision gives endlessly more numbers."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Define a rational number with examples.",
+        "modelAnswer": "A rational number is any number that can be written as p/q where p and q are integers and q ≠ 0. Such numbers include integers, fractions, terminating decimals, and recurring decimals. Examples are -3, 5/8, 0.75, and 0.222…. Hence all these belong to the set of rational numbers.",
+        "keyPoints": [
+          "Form: p/q with integers and non-zero denominator.",
+          "Includes integers and fractions.",
+          "Terminating and recurring decimals are rational.",
+          "Examples: -3, 5/8, 0.75, 0.222…."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What is an irrational number? Give examples.",
+        "modelAnswer": "An irrational number cannot be expressed as p/q with integers p and q (q ≠ 0). Its decimal expansion is non-terminating and non-recurring. Examples include √2, √3, and π. So irrational numbers continue endlessly without repeating a fixed pattern.",
+        "keyPoints": [
+          "Cannot be written in p/q form.",
+          "Decimal is non-terminating and non-recurring.",
+          "Examples: √2, √3, π.",
+          "No repeating pattern appears in digits."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "How can √2 be represented on the number line?",
+        "modelAnswer": "To represent √2 on a number line, first mark O at 0 and A at 1 unit. At A, draw AB perpendicular to OA with length 1 unit and join OB. By Pythagoras, OB = √2. With O as center and OB as radius, cut the number line at P; point P represents √2.",
+        "keyPoints": [
+          "Start with segment OA = 1 unit.",
+          "Construct AB ⟂ OA with AB = 1.",
+          "Then OB = √2 by Pythagoras theorem.",
+          "Transfer OB onto number line to locate √2."
+        ],
+        "marks": 5
+      }
+    ]
+  }
 }

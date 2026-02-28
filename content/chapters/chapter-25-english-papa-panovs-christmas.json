@@ -10,7 +10,12 @@
     {
       "id": "pre_25_1",
       "question": "Who wrote 'Papa Panov's Special Christmas'?",
-      "options": ["A) Charles Dickens", "B) Leo Tolstoy", "C) O. Henry", "D) Hans Christian Andersen"],
+      "options": [
+        "A) Charles Dickens",
+        "B) Leo Tolstoy",
+        "C) O. Henry",
+        "D) Hans Christian Andersen"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "conceptId": "concept_25_1"
@@ -18,7 +23,12 @@
     {
       "id": "pre_25_2",
       "question": "What was Papa Panov's profession?",
-      "options": ["A) Baker", "B) Carpenter", "C) Shoemaker", "D) Tailor"],
+      "options": [
+        "A) Baker",
+        "B) Carpenter",
+        "C) Shoemaker",
+        "D) Tailor"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_25_1"
@@ -26,7 +36,12 @@
     {
       "id": "pre_25_3",
       "question": "What did Papa Panov give to the young mother's barefoot baby?",
-      "options": ["A) A blanket", "B) His best leather shoes (the ones he was keeping for Jesus)", "C) A pair of socks", "D) Some hot soup"],
+      "options": [
+        "A) A blanket",
+        "B) His best leather shoes (the ones he was keeping for Jesus)",
+        "C) A pair of socks",
+        "D) Some hot soup"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "conceptId": "concept_25_3"
@@ -34,7 +49,12 @@
     {
       "id": "pre_25_4",
       "question": "What are homophones?",
-      "options": ["A) Words with the same meaning", "B) Words with opposite meanings", "C) Words that sound the same but have different spellings and meanings", "D) Words that are spelled the same but have different meanings"],
+      "options": [
+        "A) Words with the same meaning",
+        "B) Words with opposite meanings",
+        "C) Words that sound the same but have different spellings and meanings",
+        "D) Words that are spelled the same but have different meanings"
+      ],
       "correctAnswer": "C",
       "difficulty": "easy",
       "conceptId": "concept_25_5"
@@ -42,7 +62,12 @@
     {
       "id": "pre_25_5",
       "question": "At the end of the story, what does Papa Panov realise?",
-      "options": ["A) Jesus never came", "B) He should have waited at home longer", "C) Jesus came to him through all the people he helped during the day", "D) His dream was just a dream with no meaning"],
+      "options": [
+        "A) Jesus never came",
+        "B) He should have waited at home longer",
+        "C) Jesus came to him through all the people he helped during the day",
+        "D) His dream was just a dream with no meaning"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "conceptId": "concept_25_4"
@@ -176,7 +201,12 @@
     {
       "id": "test_25_1",
       "question": "Who wrote 'Papa Panov's Special Christmas'?",
-      "options": ["A) Charles Dickens", "B) O. Henry", "C) Hans Christian Andersen", "D) Leo Tolstoy"],
+      "options": [
+        "A) Charles Dickens",
+        "B) O. Henry",
+        "C) Hans Christian Andersen",
+        "D) Leo Tolstoy"
+      ],
       "correctAnswer": "D",
       "difficulty": "easy",
       "explanation": "Leo Tolstoy (1828–1910), the great Russian author, wrote 'Papa Panov's Special Christmas'. He is one of the world's greatest novelists, also known for 'War and Peace'."
@@ -184,7 +214,12 @@
     {
       "id": "test_25_2",
       "question": "What did Papa Panov dream on Christmas Eve?",
-      "options": ["A) He dreamed of becoming rich", "B) He dreamed that Jesus would visit him on Christmas Day", "C) He dreamed about his childhood", "D) He dreamed of going to Bethlehem"],
+      "options": [
+        "A) He dreamed of becoming rich",
+        "B) He dreamed that Jesus would visit him on Christmas Day",
+        "C) He dreamed about his childhood",
+        "D) He dreamed of going to Bethlehem"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "After reading the Christmas story and wishing he could have met Jesus, Papa Panov dreamed that Jesus promised to visit him the next day — Christmas Day."
@@ -192,7 +227,12 @@
     {
       "id": "test_25_3",
       "question": "What did Papa Panov give to the first person (road sweeper)?",
-      "options": ["A) Bread and soup", "B) A pair of shoes", "C) Hot coffee", "D) A warm coat"],
+      "options": [
+        "A) Bread and soup",
+        "B) A pair of shoes",
+        "C) Hot coffee",
+        "D) A warm coat"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Papa Panov called the shivering road sweeper into his shop and gave him hot coffee to warm himself up. This was the first of his three acts of kindness on Christmas Day."
@@ -200,7 +240,12 @@
     {
       "id": "test_25_4",
       "question": "What special thing did Papa Panov give to the young mother's baby?",
-      "options": ["A) Food and milk", "B) A warm blanket", "C) His best leather shoes (that he had made as a gift for Jesus)", "D) Some money"],
+      "options": [
+        "A) Food and milk",
+        "B) A warm blanket",
+        "C) His best leather shoes (that he had made as a gift for Jesus)",
+        "D) Some money"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "Papa Panov gave the freezing baby his best leather shoes — the ones he had made specifically as a gift for Jesus. This was his greatest sacrifice — giving what he treasured most."
@@ -208,7 +253,12 @@
     {
       "id": "test_25_5",
       "question": "What did Papa Panov give to the hungry beggars?",
-      "options": ["A) Money and clothes", "B) Hot soup and bread", "C) Books and toys", "D) Coffee and shoes"],
+      "options": [
+        "A) Money and clothes",
+        "B) Hot soup and bread",
+        "C) Books and toys",
+        "D) Coffee and shoes"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "Papa Panov gave the hungry beggars hot soup and bread from his own food supply — his third act of kindness on Christmas Day."
@@ -216,7 +266,12 @@
     {
       "id": "test_25_6",
       "question": "What was the 'revelation' (discovery) at the end of the story?",
-      "options": ["A) Jesus never existed and the dream was false", "B) Papa Panov should have waited longer at home", "C) Jesus DID come — through every person Papa Panov helped that day", "D) Jesus will come the next day instead"],
+      "options": [
+        "A) Jesus never existed and the dream was false",
+        "B) Papa Panov should have waited longer at home",
+        "C) Jesus DID come — through every person Papa Panov helped that day",
+        "D) Jesus will come the next day instead"
+      ],
       "correctAnswer": "C",
       "difficulty": "medium",
       "explanation": "The revelation was that Jesus had indeed come — through the road sweeper, the mother, the baby, and the beggars. The voice said: 'I came to you in every one of those you helped.' Serving the needy is serving God."
@@ -224,7 +279,12 @@
     {
       "id": "test_25_7",
       "question": "Choose the correct homophone: 'I ___ the answer.'",
-      "options": ["A) no", "B) know", "C) knoe", "D) noe"],
+      "options": [
+        "A) no",
+        "B) know",
+        "C) knoe",
+        "D) noe"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "'Know' (to have knowledge of) is correct here — 'I know the answer.' 'No' is used to express negation or denial (I said no). These two words sound identical but have different meanings."
@@ -232,7 +292,12 @@
     {
       "id": "test_25_8",
       "question": "Choose the correct homophone: 'She ___ the ball through the window.'",
-      "options": ["A) through", "B) threw", "C) thru", "D) throo"],
+      "options": [
+        "A) through",
+        "B) threw",
+        "C) thru",
+        "D) throo"
+      ],
       "correctAnswer": "B",
       "difficulty": "medium",
       "explanation": "'Threw' is the past tense of 'throw' — what the subject did (the action). 'Through' means from one side to the other (preposition of movement). 'She threw the ball through the window' uses both correctly."
@@ -240,7 +305,12 @@
     {
       "id": "test_25_9",
       "question": "Which pair of words are HOMOPHONES?",
-      "options": ["A) strong and weak", "B) dear and deer", "C) happy and joyful", "D) book and shelf"],
+      "options": [
+        "A) strong and weak",
+        "B) dear and deer",
+        "C) happy and joyful",
+        "D) book and shelf"
+      ],
       "correctAnswer": "B",
       "difficulty": "easy",
       "explanation": "'Dear' (loved, expensive) and 'deer' (animal) are homophones — they sound exactly the same when spoken but are spelled differently and have different meanings."
@@ -248,7 +318,12 @@
     {
       "id": "test_25_10",
       "question": "What is the moral/lesson of 'Papa Panov's Special Christmas'?",
-      "options": ["A) Shoemakers make the best Christmas gifts", "B) Dreams always come true literally", "C) Never let strangers into your home", "D) Helping the poor and needy is the same as serving God — true love expresses itself in action"],
+      "options": [
+        "A) Shoemakers make the best Christmas gifts",
+        "B) Dreams always come true literally",
+        "C) Never let strangers into your home",
+        "D) Helping the poor and needy is the same as serving God — true love expresses itself in action"
+      ],
       "correctAnswer": "D",
       "difficulty": "medium",
       "explanation": "The story's moral is that true love and faith are expressed through action — helping the needy, the hungry, and the cold. Jesus 'came' to Papa Panov through every person he helped — showing that serving the needy is serving God."
@@ -277,5 +352,166 @@
       "Homophones in everyday Indian English usage: 'no/know' mix-ups are very common in written English among students learning English as a second language — an important writing skill to master."
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'comprehension' mean?",
+          "back": "The ability to understand something"
+        },
+        {
+          "front": "What is a 'metaphor'?",
+          "back": "A figure of speech comparing two unlike things without using 'like' or 'as'"
+        },
+        {
+          "front": "What is 'alliteration'?",
+          "back": "Repetition of the same initial consonant sound in nearby words"
+        },
+        {
+          "front": "What does 'synonym' mean?",
+          "back": "A word that has the same or similar meaning as another word"
+        },
+        {
+          "front": "What is a 'stanza' in a poem?",
+          "back": "A group of lines in a poem, similar to a paragraph in prose"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Papa Panov's Special Christmas",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "Who wrote 'Papa Panov's Special Christmas'?",
+        "answer": "Leo Tolstoy (1828–1910), the great Russian author, wrote 'Papa Panov's Special Christmas'. He is one of the world's greatest novelists, also known for 'War and Peace'.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did Papa Panov dream on Christmas Eve?",
+        "answer": "After reading the Christmas story and wishing he could have met Jesus, Papa Panov dreamed that Jesus promised to visit him the next day — Christmas Day.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did Papa Panov give to the first person (road sweeper)?",
+        "answer": "Papa Panov called the shivering road sweeper into his shop and gave him hot coffee to warm himself up. This was the first of his three acts of kindness on Christmas Day.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What special thing did Papa Panov give to the young mother's baby?",
+        "answer": "Papa Panov gave the freezing baby his best leather shoes — the ones he had made specifically as a gift for Jesus. This was his greatest sacrifice — giving what he treasured most.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What did Papa Panov give to the hungry beggars?",
+        "answer": "Papa Panov gave the hungry beggars hot soup and bread from his own food supply — his third act of kindness on Christmas Day.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What was the 'revelation' (discovery) at the end of the story?",
+        "answer": "The revelation was that Jesus had indeed come — through the road sweeper, the mother, the baby, and the beggars. The voice said: 'I came to you in every one of those you helped.' Serving the needy is serving God.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Choose the correct homophone: 'I ___ the answer.'",
+        "answer": "'Know' (to have knowledge of) is correct here — 'I know the answer.' 'No' is used to express negation or denial (I said no). These two words sound identical but have different meanings.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Choose the correct homophone: 'She ___ the ball through the window.'",
+        "answer": "'Threw' is the past tense of 'throw' — what the subject did (the action). 'Through' means from one side to the other (preposition of movement). 'She threw the ball through the window' uses both correctly.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which pair of words are HOMOPHONES?",
+        "answer": "'Dear' (loved, expensive) and 'deer' (animal) are homophones — they sound exactly the same when spoken but are spelled differently and have different meanings.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the moral/lesson of 'Papa Panov's Special Christmas'?",
+        "answer": "The story's moral is that true love and faith are expressed through action — helping the needy, the hungry, and the cold. Jesus 'came' to Papa Panov through every person he helped — showing that serving the needy is serving God.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What did Papa Panov dream on Christmas Eve?",
+        "modelAnswer": "Papa Panov dreamed that Jesus came to visit him in his shop. In his dream, Jesus promised that he would visit Papa Panov in person the very next day, which was Christmas Day. Jesus also mentioned that he would not reveal his identity. Therefore, Papa Panov had to look out for him carefully.",
+        "keyPoints": [
+          "Papa Panov dreamed that Jesus spoke to him.",
+          "Jesus promised to visit him on Christmas Day.",
+          "Jesus would not reveal his identity.",
+          "Papa Panov had to watch out for him carefully."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What did Papa Panov give to the first person (road sweeper)?",
+        "modelAnswer": "On Christmas morning, Papa Panov saw an old road sweeper working hard in the freezing cold. Feeling sorry for the tired man, Papa Panov invited him inside his warm shop. He then served the road sweeper a hot cup of coffee to comfort him and bring him some holiday cheer.",
+        "keyPoints": [
+          "Papa Panov saw an old road sweeper working in the cold.",
+          "He invited the tired man inside his warm shop.",
+          "He gave the road sweeper a hot cup of coffee.",
+          "The drink helped to warm and comfort the man."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "What special thing did Papa Panov give to the young mother's baby?",
+        "modelAnswer": "Papa Panov saw a poor young mother and her baby shivering outside, so he invited them in to warm up. Noticing that the baby had no shoes to protect its feet from the winter cold, he wanted to help. He gave the baby a tiny, beautiful pair of leather shoes he had made, which fit perfectly.",
+        "keyPoints": [
+          "He invited a poor mother and her baby inside to warm up.",
+          "He noticed the baby had no shoes for the cold weather.",
+          "He gave the baby a beautiful pair of tiny leather shoes.",
+          "The special shoes fit the baby's feet perfectly."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What did Papa Panov give to the hungry beggars?",
+        "modelAnswer": "As the day went on and he continued waiting for Jesus, Papa Panov saw a group of hungry beggars in the street. Full of compassion, he welcomed them into his shop to rest. He generously shared his hot soup and bread with them, ensuring they felt fed and cared for on Christmas Day.",
+        "keyPoints": [
+          "Papa Panov saw hungry beggars out in the street.",
+          "He welcomed them into his shop to rest and warm up.",
+          "He shared his hot soup and bread with them.",
+          "He ensured they were fed and cared for on Christmas."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What was the 'revelation' (discovery) at the end of the story?",
+        "modelAnswer": "At the end of the day, Papa Panov was sad because he thought Jesus had not visited him. Suddenly, a voice spoke to him, revealing that Jesus had actually been present in all the people he had helped that day. The revelation was that by feeding the hungry and clothing the needy, Papa Panov had unknowingly welcomed Jesus himself.",
+        "keyPoints": [
+          "Papa Panov initially thought Jesus had not visited him.",
+          "A voice revealed that Jesus was present in the people he helped.",
+          "He discovered that by helping the needy, he welcomed Jesus.",
+          "The revelation showed that his kindness was a service to God."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "What is the moral/lesson of 'Papa Panov's Special Christmas'?",
+        "modelAnswer": "The story teaches that the true spirit of Christmas lies in showing love, kindness, and generosity to those in need. It illustrates that God is present in every human being, especially the poor and the suffering. Ultimately, the lesson is that by helping the less fortunate, we are serving and honoring God.",
+        "keyPoints": [
+          "The true spirit of Christmas is love and generosity.",
+          "God is present in every human being.",
+          "Helping the poor and suffering is a way to serve God.",
+          "Showing kindness to the needy is the most meaningful celebration."
+        ],
+        "marks": 5
+      }
+    ]
   }
 }

@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "grade": 7,
+    "chapterNumber": 11,
+    "title": "Cell Structure and Micro-organisms",
+    "subject": "Science",
+    "pages": "99-110",
+    "description": "This chapter introduces the cell as the basic unit of life, explores plant and animal cell structures, and covers micro-organisms including bacteria, viruses, fungi, and protozoa."
+  },
+  "preAssessment": [
+    {
+      "id": "pa1",
+      "question": "Who discovered the cell?",
+      "options": [
+        "Louis Pasteur",
+        "Robert Hooke",
+        "Charles Darwin",
+        "Gregor Mendel"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "pa2",
+      "question": "Which organelle is known as the powerhouse of the cell?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Vacuole"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "pa3",
+      "question": "Which of these is found in plant cells but NOT in animal cells?",
+      "options": [
+        "Nucleus",
+        "Cell membrane",
+        "Cell wall",
+        "Mitochondria"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 3
+    },
+    {
+      "id": "pa4",
+      "question": "Which micro-organism causes malaria?",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Protozoa",
+        "Fungi"
+      ],
+      "correctAnswer": "C",
+      "difficulty": "medium",
+      "conceptId": 4
+    },
+    {
+      "id": "pa5",
+      "question": "Which instrument is used to observe cells and micro-organisms?",
+      "options": [
+        "Telescope",
+        "Microscope",
+        "Periscope",
+        "Stethoscope"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 1
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "The Cell: Basic Unit of Life",
+      "emoji": "🔬",
+      "colorTheme": "from-purple-500 to-indigo-600",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-300",
+      "content": "The cell is the basic structural and functional unit of all living organisms. Robert Hooke discovered cells in 1665 while observing cork under a microscope. All living things are made up of one or more cells.",
+      "pageReference": "99-101",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Amoeba is a single-celled organism that performs all life functions"
+        },
+        {
+          "id": "ex2",
+          "text": "The human body contains about 37 trillion cells"
+        },
+        {
+          "id": "ex3",
+          "text": "Bacteria are single-celled prokaryotic organisms"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Cell theory: all living things are made of cells"
+        },
+        {
+          "id": "kp2",
+          "text": "Unicellular organisms have one cell; multicellular have many"
+        },
+        {
+          "id": "kp3",
+          "text": "Cells were first observed by Robert Hooke in 1665"
+        }
+      ],
+      "funFact": "The largest cell in the human body is the female egg cell (ovum), visible to the naked eye at about 0.1mm!",
+      "textbookRef": "Pages 99-101"
+    },
+    {
+      "id": 2,
+      "title": "Animal Cell Structure",
+      "emoji": "🐾",
+      "colorTheme": "from-pink-500 to-rose-600",
+      "bgColor": "bg-pink-50",
+      "borderColor": "border-pink-300",
+      "content": "An animal cell is surrounded by a cell membrane and contains a nucleus, cytoplasm, mitochondria, ribosomes, and other organelles. It does not have a cell wall, chloroplasts, or a large central vacuole.",
+      "pageReference": "101-104",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Red blood cells are animal cells that carry oxygen"
+        },
+        {
+          "id": "ex2",
+          "text": "Nerve cells (neurons) are long animal cells that transmit signals"
+        },
+        {
+          "id": "ex3",
+          "text": "Muscle cells contract to produce movement"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Cell membrane controls entry and exit of substances"
+        },
+        {
+          "id": "kp2",
+          "text": "Nucleus contains DNA and controls cell activities"
+        },
+        {
+          "id": "kp3",
+          "text": "Mitochondria produce energy through cellular respiration"
+        }
+      ],
+      "funFact": "A single nerve cell (neuron) can be up to 1 metre long — stretching from your spine all the way to your toes!",
+      "textbookRef": "Pages 101-104"
+    },
+    {
+      "id": 3,
+      "title": "Plant Cell Structure",
+      "emoji": "🌿",
+      "colorTheme": "from-green-500 to-emerald-600",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Plant cells have all the organelles of animal cells, plus a rigid cell wall (made of cellulose), chloroplasts (for photosynthesis), and a large central vacuole for storing water and maintaining turgor pressure.",
+      "pageReference": "104-106",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Leaf cells contain many chloroplasts for photosynthesis"
+        },
+        {
+          "id": "ex2",
+          "text": "Root cells absorb water through osmosis"
+        },
+        {
+          "id": "ex3",
+          "text": "Guard cells on leaves open and close the stomata"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Cell wall provides shape and protection to plant cells"
+        },
+        {
+          "id": "kp2",
+          "text": "Chloroplasts contain chlorophyll, the green pigment for photosynthesis"
+        },
+        {
+          "id": "kp3",
+          "text": "Large central vacuole maintains water balance"
+        }
+      ],
+      "funFact": "The green colour of plants comes from chlorophyll in chloroplasts. In autumn, chlorophyll breaks down revealing yellow and red pigments underneath!",
+      "textbookRef": "Pages 104-106"
+    },
+    {
+      "id": 4,
+      "title": "Micro-organisms",
+      "emoji": "🦠",
+      "colorTheme": "from-yellow-500 to-orange-600",
+      "bgColor": "bg-yellow-50",
+      "borderColor": "border-yellow-300",
+      "content": "Micro-organisms (microbes) are living organisms too small to be seen with the naked eye. They include bacteria, viruses, fungi, protozoa, and algae. Some cause diseases while others are beneficial.",
+      "pageReference": "107-110",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Lactobacillus bacteria are used to make curd from milk"
+        },
+        {
+          "id": "ex2",
+          "text": "Plasmodium protozoa causes malaria, spread by Anopheles mosquitoes"
+        },
+        {
+          "id": "ex3",
+          "text": "Yeast fungi are used in making bread and idli batter"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Bacteria can be helpful (nitrogen fixing) or harmful (causing TB)"
+        },
+        {
+          "id": "kp2",
+          "text": "Viruses are not considered living as they need a host cell to reproduce"
+        },
+        {
+          "id": "kp3",
+          "text": "Micro-organisms play vital roles in decomposition and nutrient cycling"
+        }
+      ],
+      "funFact": "There are more micro-organisms in a handful of soil than there are people who have ever lived on Earth!",
+      "textbookRef": "Pages 107-110"
+    },
+    {
+      "id": 5,
+      "title": "Beneficial and Harmful Micro-organisms",
+      "emoji": "⚖️",
+      "colorTheme": "from-blue-500 to-sky-600",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "While some micro-organisms cause diseases (pathogens), many are essential and beneficial. They help in food production, medicine, and maintaining the health of ecosystems.",
+      "pageReference": "108-110",
+      "examples": [
+        {
+          "id": "ex1",
+          "text": "Penicillin antibiotic was discovered from the mould Penicillium"
+        },
+        {
+          "id": "ex2",
+          "text": "Rhizobium bacteria fix nitrogen in legume roots, enriching soil"
+        },
+        {
+          "id": "ex3",
+          "text": "Decomposer fungi and bacteria break down dead matter into nutrients"
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Vaccines use weakened pathogens to build immunity"
+        },
+        {
+          "id": "kp2",
+          "text": "Antibiotics kill bacteria but do not work on viruses"
+        },
+        {
+          "id": "kp3",
+          "text": "Good hygiene practices prevent spread of microbial diseases"
+        }
+      ],
+      "funFact": "Your gut contains about 100 trillion micro-organisms — they help digest food, make vitamins, and protect against harmful bacteria!",
+      "textbookRef": "Pages 108-110"
+    }
+  ],
+  "test": [
+    {
+      "id": "t1",
+      "question": "Who proposed the Cell Theory?",
+      "options": [
+        "Robert Hooke",
+        "Schleiden and Schwann",
+        "Louis Pasteur",
+        "Charles Darwin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Matthias Schleiden and Theodor Schwann proposed the Cell Theory in 1838-39, stating all living things are made of cells.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "99-101"
+    },
+    {
+      "id": "t2",
+      "question": "Which organelle controls all activities of the cell?",
+      "options": [
+        "Mitochondria",
+        "Ribosome",
+        "Nucleus",
+        "Vacuole"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The nucleus contains the genetic material (DNA) and acts as the control centre of the cell.",
+      "conceptIds": [
+        2,
+        3
+      ],
+      "pageReference": "101-104"
+    },
+    {
+      "id": "t3",
+      "question": "What is the function of chloroplasts?",
+      "options": [
+        "Produce energy by respiration",
+        "Store water",
+        "Perform photosynthesis",
+        "Control cell activities"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chloroplasts contain chlorophyll and are the sites of photosynthesis, where sunlight is converted into food.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "104-106"
+    },
+    {
+      "id": "t4",
+      "question": "Which micro-organism is used to make curd?",
+      "options": [
+        "Yeast",
+        "Lactobacillus",
+        "Penicillium",
+        "Plasmodium"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lactobacillus bacteria ferment milk lactose into lactic acid, causing milk to curdle and form curd.",
+      "conceptIds": [
+        4,
+        5
+      ],
+      "pageReference": "107-110"
+    },
+    {
+      "id": "t5",
+      "question": "Which disease is caused by a protozoan?",
+      "options": [
+        "Tuberculosis",
+        "Common cold",
+        "Malaria",
+        "Cholera"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Malaria is caused by Plasmodium, a protozoan parasite, spread by the female Anopheles mosquito.",
+      "conceptIds": [
+        4
+      ],
+      "pageReference": "107-110"
+    },
+    {
+      "id": "t6",
+      "question": "Viruses are different from other micro-organisms because:",
+      "options": [
+        "They are larger",
+        "They can only reproduce inside a host cell",
+        "They have a nucleus",
+        "They make their own food"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Viruses are not considered fully living because they cannot reproduce on their own — they need to infect a host cell.",
+      "conceptIds": [
+        4
+      ],
+      "pageReference": "107-110"
+    },
+    {
+      "id": "t7",
+      "question": "What is the function of the cell membrane?",
+      "options": [
+        "Produce energy",
+        "Control entry and exit of substances",
+        "Store genetic information",
+        "Perform photosynthesis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The cell membrane is semi-permeable, controlling which substances enter and leave the cell.",
+      "conceptIds": [
+        2,
+        3
+      ],
+      "pageReference": "101-104"
+    },
+    {
+      "id": "t8",
+      "question": "Which of the following is found in plant cells but NOT animal cells?",
+      "options": [
+        "Mitochondria",
+        "Ribosome",
+        "Cell wall",
+        "Cell membrane"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Plant cells have a rigid cell wall made of cellulose outside the cell membrane, which animal cells lack.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "104-106"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Cell as the basic unit of life",
+      "Animal cell vs plant cell",
+      "Organelles and their functions",
+      "Types of micro-organisms",
+      "Beneficial vs harmful microbes"
+    ],
+    "commonMisconceptions": [
+      "All micro-organisms are harmful — many are beneficial",
+      "Viruses are living organisms — they cannot reproduce without a host",
+      "Plant and animal cells are identical — plant cells have extra structures"
+    ],
+    "realWorldExamples": [
+      "Curd and bread making using microbes",
+      "Malaria caused by Plasmodium in India",
+      "Rhizobium enriching soil for agriculture",
+      "Penicillin antibiotic from fungi",
+      "Covid-19 caused by a coronavirus"
+    ]
+  },
+  "interactiveElement": {
+    "type": "label-diagram",
+    "title": "Label the Plant Cell!",
+    "description": "Tap on each blank label to reveal the name of the cell organelle.",
+    "data": {
+      "image": "Plant cell diagram showing organelles",
+      "labels": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 20,
+          "answer": "Cell Wall",
+          "hint": "Outermost rigid protective layer"
+        },
+        {
+          "id": 2,
+          "x": 50,
+          "y": 35,
+          "answer": "Cell Membrane",
+          "hint": "Controls entry and exit of substances"
+        },
+        {
+          "id": 3,
+          "x": 50,
+          "y": 55,
+          "answer": "Chloroplast",
+          "hint": "Green organelle for photosynthesis"
+        },
+        {
+          "id": 4,
+          "x": 75,
+          "y": 45,
+          "answer": "Nucleus",
+          "hint": "Control centre of the cell"
+        },
+        {
+          "id": 5,
+          "x": 25,
+          "y": 65,
+          "answer": "Vacuole",
+          "hint": "Large central storage compartment"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Cell Structure",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "short_answer",
+        "question": "Answer the following questions.\n(a) What is a ‘cell’ ?\n(b) Name the different organelles in a\ncell ?\n(c) What are micro-organisms ?\n(d) Which are the different types of\nmicro-organisms ?",
+        "subQuestions": [
+          "What is a ‘cell’ ?",
+          "Name the different organelles in a\ncell ?",
+          "What are micro-organisms ?",
+          "Which are the different types of\nmicro-organisms ?"
+        ]
+      },
+      {
+        "number": 6,
+        "type": "give_reasons",
+        "question": "Give reasons.\n(a) Diseases spread on a large scale\nduring periods of heavy rainfall\nand floods.\n(b) There is a possibility of food\npoisoning if we eat stale food.\n(c) Soil is turned over during tilling.\n(d) Fungus grows quickly in moist or\nhumid conditions.\n(e) A refrigerator is used in almost\nevery",
+        "subQuestions": [
+          "Diseases spread on a large scale\nduring periods of heavy rainfall\nand floods.",
+          "There is a possibility of food\npoisoning if we eat stale food.",
+          "Soil is turned over during tilling.",
+          "Fungus grows quickly in moist or\nhumid conditions.",
+          "A refrigerator is used in almost\nevery home.",
+          "Bread ‘rises’ during baking.",
+          "Fodder is soaked in water before\noffering to cattle."
+        ]
+      },
+      {
+        "number": 2,
+        "type": "fill_blanks",
+        "question": "Fill in the blanks with the proper\nword.\n(a) The organelle called the ............ is\npresent in plant cells only.\n(b) Garbage is converted into .............\nby micro-organisms.\n(c) In the cell, photosynthesis is carried\nout with the help of ............... .\n(d) An electron microscope is necessary",
+        "subQuestions": [
+          "The organelle called the ............ is\npresent in plant cells only.",
+          "Garbage is converted into .............\nby micro-organisms.",
+          "In the cell, photosynthesis is carried\nout with the help of ............... .",
+          "An electron microscope is necessary\nfor the study of ............... ."
+        ]
+      },
+      {
+        "number": 7,
+        "type": "give_reasons",
+        "question": "When will you use a simple microscope\nand when, a compound microscope?\nExplain in detail how you will use\nthem.",
+        "subQuestions": []
+      },
+      {
+        "number": 3,
+        "type": "short_answer",
+        "question": "What is difference between us?\n(a) Plant cell and animal cell.\n(b) Prokaryotic cell and eukaryotic cell.",
+        "subQuestions": [
+          "Plant cell and animal cell.",
+          "Prokaryotic cell and eukaryotic cell."
+        ]
+      }
+    ],
+    "rawText": "1. Answer the following questions.\n(a) What is a ‘cell’ ?\n(b) Name the different organelles in a\ncell ?\n(c) What are micro-organisms ?\n(d) Which are the different types of\nmicro-organisms ?\n6. Give reasons.\n(a) Diseases spread on a large scale\nduring periods of heavy rainfall\nand floods.\n(b) There is a possibility of food\npoisoning if we eat stale food.\n(c) Soil is turned over during tilling.\n(d) Fungus grows quickly in moist or\nhumid conditions.\n(e) A refrigerator is used in almost\nevery home.\n(f) Bread ‘rises’ during baking.\n(g) Fodder is soaked in water before\noffering to cattle.\n2. Fill in the blanks with the proper\nword.\n(a) The organelle called the ............ is\npresent in plant cells only.\n(b) Garbage is converted into .............\nby micro-organisms.\n(c) In the cell, photosynthesis is carried\nout with the help of ............... .\n(d) An electron microscope is necessary\nfor the study of ............... .\n7. When will you use a simple microscope\nand when, a compound microscope?\nExplain in detail how you will use\nthem.\n3. What is difference between us?\n(a) Plant cell and animal cell.\n(b) Prokaryotic cell and eukaryotic cell.",
+    "qaCards": [
+      {
+        "question": "Who proposed the Cell Theory?",
+        "answer": "Matthias Schleiden and Theodor Schwann proposed the Cell Theory in 1838-39, stating all living things are made of cells.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which organelle controls all activities of the cell?",
+        "answer": "The nucleus contains the genetic material (DNA) and acts as the control centre of the cell.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the function of chloroplasts?",
+        "answer": "Chloroplasts contain chlorophyll and are the sites of photosynthesis, where sunlight is converted into food.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which micro-organism is used to make curd?",
+        "answer": "Lactobacillus bacteria ferment milk lactose into lactic acid, causing milk to curdle and form curd.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which disease is caused by a protozoan?",
+        "answer": "Malaria is caused by Plasmodium, a protozoan parasite, spread by the female Anopheles mosquito.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Viruses are different from other micro-organisms because:",
+        "answer": "Viruses are not considered fully living because they cannot reproduce on their own — they need to infect a host cell.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the function of the cell membrane?",
+        "answer": "The cell membrane is semi-permeable, controlling which substances enter and leave the cell.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of the following is found in plant cells but NOT animal cells?",
+        "answer": "Plant cells have a rigid cell wall made of cellulose outside the cell membrane, which animal cells lack.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Answer the following questions.\n(a) What is a ‘cell’ ?\n(b) Name the different organelles in a\ncell ?\n(c) What are micro-organisms ?\n(d) Which are the different types of\nmicro-organisms ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Cell Structure and Micro-organisms\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Cell Structure and Micro-organisms (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "What is a ‘cell’ ?",
+        "modelAnswer": "Answer: The cell membrane is semi-permeable, controlling which substances enter and leave the cell.\nThis question belongs to the chapter \"Cell Structure and Micro-organisms\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: The cell membrane is semi-permeable, controlling which substances enter and leave the cell.",
+          "Concept link: Cell Structure and Micro-organisms (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Name the different organelles in a\ncell ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Cell Structure and Micro-organisms\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Cell Structure and Micro-organisms (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "What are micro-organisms ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Cell Structure and Micro-organisms\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Cell Structure and Micro-organisms (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Which are the different types of\nmicro-organisms ?",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Cell Structure and Micro-organisms\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Cell Structure and Micro-organisms (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Give reasons.\n(a) Diseases spread on a large scale\nduring periods of heavy rainfall\nand floods.\n(b) There is a possibility of food\npoisoning if we eat stale food.\n(c) Soil is turned over during tilling.\n(d) Fungus grows quickly in moist or\nhumid conditions.\n(e) A refrigerator is used in almost\nevery",
+        "modelAnswer": "Answer: The reason is based on the scientific concept explained in this chapter and can be justified with cause-and-effect points.\nThis question belongs to the chapter \"Cell Structure and Micro-organisms\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Cell Structure and Micro-organisms (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Diseases spread on a large scale\nduring periods of heavy rainfall\nand floods.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Cell Structure and Micro-organisms\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Cell Structure and Micro-organisms (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "There is a possibility of food\npoisoning if we eat stale food.",
+        "modelAnswer": "Answer: The answer follows the core concept from this chapter and should be written in complete textbook-style statements.\nThis question belongs to the chapter \"Cell Structure and Micro-organisms\" in Science.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "keyPoints": [
+          "Direct response: Write the exact result/concept asked in the question.",
+          "Concept link: Cell Structure and Micro-organisms (Science).",
+          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
+          "Add one related example/application to show practical understanding."
+        ],
+        "marks": 5
+      }
+    ]
+  }
+}

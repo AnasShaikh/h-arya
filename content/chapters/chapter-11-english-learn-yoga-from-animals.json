@@ -272,7 +272,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "International Yoga Day is celebrated on 21 June every year since 2015. India proposed this day at the United Nations.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "37"
     },
     {
@@ -286,7 +288,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Biomimicry means solving human problems by observing and imitating solutions found in nature. Animal yoga poses are an example.",
-      "conceptIds": [1],
+      "conceptIds": [
+        1
+      ],
       "pageReference": "37-38"
     },
     {
@@ -300,7 +304,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Bhujanga means cobra in Sanskrit. Bhujangasana is the cobra pose, inspired by the way a cobra raises its hood.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "38-39"
     },
     {
@@ -314,7 +320,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Bhujangasana (cobra pose) strengthens the back muscles and stretches the spine. It is especially beneficial for people who sit for long hours.",
-      "conceptIds": [2],
+      "conceptIds": [
+        2
+      ],
       "pageReference": "38-39"
     },
     {
@@ -328,7 +336,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In Simhasana (lion pose), you kneel, lean forward slightly, stretch your tongue out as far as possible, and let out a roar like a lion.",
-      "conceptIds": [3],
+      "conceptIds": [
+        3
+      ],
       "pageReference": "39-40"
     },
     {
@@ -342,7 +352,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "Garudasana (eagle pose) improves balance, concentration, and strengthens the legs. You balance on one leg with the other wrapped around it.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "40-41"
     },
     {
@@ -356,7 +368,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "In Ustrasana (camel pose), you kneel and bend backwards to touch your heels, opening the chest and shoulders.",
-      "conceptIds": [4],
+      "conceptIds": [
+        4
+      ],
       "pageReference": "40-41"
     },
     {
@@ -370,7 +384,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "'Because' is a conjunction — it joins two clauses and shows reason. 'Hurrah' and 'Ouch' are interjections.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "41-42"
     },
     {
@@ -384,7 +400,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "'Wow!' is an interjection expressing strong surprise and admiration. Interjections express emotions and are usually followed by an exclamation mark.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "41-42"
     },
     {
@@ -398,7 +416,9 @@
       ],
       "correctAnswer": "A",
       "explanation": "'And' is the correct conjunction here — it joins two things (body and mind) that go together. 'And' is used to add information.",
-      "conceptIds": [5],
+      "conceptIds": [
+        5
+      ],
       "pageReference": "41-42"
     }
   ],
@@ -429,5 +449,166 @@
       "ISHA Yoga Foundation and Art of Living — popular yoga organisations in India"
     ],
     "formulas": []
+  },
+  "interactiveElement": {
+    "type": "quiz-flashcard",
+    "title": "Vocabulary Flashcards!",
+    "description": "Flip each card to reveal the meaning of the word.",
+    "data": {
+      "cards": [
+        {
+          "front": "What does 'flexible' mean?",
+          "back": "Able to bend easily without breaking"
+        },
+        {
+          "front": "What is 'concentration' in yoga?",
+          "back": "Focusing the mind completely on one thing"
+        },
+        {
+          "front": "What does 'posture' mean?",
+          "back": "The position or way in which one holds their body"
+        },
+        {
+          "front": "Name a yoga pose inspired by animals.",
+          "back": "Examples: Cat pose (Marjaryasana), Cobra (Bhujangasana), Downward Dog"
+        },
+        {
+          "front": "What are the benefits of yoga?",
+          "back": "Improves flexibility, strength, concentration, and mental well-being"
+        }
+      ]
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Learn Yoga from Animals",
+    "instructions": "Memorize these exam-style answers to maximize scoring in textbook-focused assessments.",
+    "questions": [],
+    "source": "derived_from_test",
+    "qaCards": [
+      {
+        "question": "When is International Yoga Day celebrated?",
+        "answer": "International Yoga Day is celebrated on 21 June every year since 2015. India proposed this day at the United Nations.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'biomimicry' mean?",
+        "answer": "Biomimicry means solving human problems by observing and imitating solutions found in nature. Animal yoga poses are an example.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What does 'Bhujanga' mean in Sanskrit?",
+        "answer": "Bhujanga means cobra in Sanskrit. Bhujangasana is the cobra pose, inspired by the way a cobra raises its hood.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What are the benefits of Bhujangasana (cobra pose)?",
+        "answer": "Bhujangasana (cobra pose) strengthens the back muscles and stretches the spine. It is especially beneficial for people who sit for long hours.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What do you do in Simhasana (lion pose)?",
+        "answer": "In Simhasana (lion pose), you kneel, lean forward slightly, stretch your tongue out as far as possible, and let out a roar like a lion.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What is the benefit of Garudasana (eagle pose)?",
+        "answer": "Garudasana (eagle pose) improves balance, concentration, and strengthens the legs. You balance on one leg with the other wrapped around it.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In which yoga pose do you kneel and bend backwards to touch your heels?",
+        "answer": "In Ustrasana (camel pose), you kneel and bend backwards to touch your heels, opening the chest and shoulders.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which word is a conjunction?",
+        "answer": "'Because' is a conjunction — it joins two clauses and shows reason. 'Hurrah' and 'Ouch' are interjections.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which sentence contains an interjection?",
+        "answer": "'Wow!' is an interjection expressing strong surprise and admiration. Interjections express emotions and are usually followed by an exclamation mark.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which conjunction would best fill the blank: 'Yoga is good for the body _____ the mind.'?",
+        "answer": "'And' is the correct conjunction here — it joins two things (body and mind) that go together. 'And' is used to add information.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "What is biomimicry and how is it related to yoga?",
+        "modelAnswer": "Biomimicry refers to the practice of solving human problems by observing and imitating solutions found in nature. The word implies learning from the natural world to improve our own lives. Many yoga poses are a great example of biomimicry, as they are inspired by the graceful postures and movements of animals. By copying these natural poses, humans can gain significant physical and mental benefits.",
+        "keyPoints": [
+          "Biomimicry means imitating nature's solutions to solve human problems.",
+          "It involves observing animals and natural processes.",
+          "Animal yoga poses are a prime example of biomimicry.",
+          "It helps humans achieve better physical and mental well-being."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "Describe the procedure and benefits of Bhujangasana.",
+        "modelAnswer": "Bhujangasana, or the cobra pose, is performed by lying on the stomach and placing the palms on the floor near the chest. The practitioner then gently lifts their head and chest upwards, mimicking a cobra raising its hood. This pose offers significant physical benefits, including strengthening the back muscles and thoroughly stretching the spine. It also improves overall posture and helps reduce back pain, making it especially beneficial for students.",
+        "keyPoints": [
+          "The pose mimics a cobra raising its hood.",
+          "It is performed by lying on the stomach and lifting the chest.",
+          "Strengthens the back muscles and stretches the spine.",
+          "Improves posture and relieves back pain from sitting long hours."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "How is Simhasana performed and what are its benefits?",
+        "modelAnswer": "Simhasana, also known as the lion pose, involves kneeling and leaning forward slightly. The practitioner then stretches their tongue out as far as possible and lets out a roar, mimicking a fierce lion. This unique pose provides excellent exercise for the throat, tongue, and facial muscles. Furthermore, performing Simhasana is known to be a highly effective way to release built-up physical tension and stress.",
+        "keyPoints": [
+          "It involves kneeling, stretching the tongue out, and roaring.",
+          "Mimics the fierce expression of a lion.",
+          "Exercises the face, throat, and tongue muscles.",
+          "Helps in releasing built-up tension and stress."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la4",
+        "question": "Explain the significance and benefits of practicing Garudasana.",
+        "modelAnswer": "Garudasana, or the eagle pose, is a balancing posture named after the majestic eagle, which is the divine vehicle of Lord Vishnu. It involves balancing on one leg while the other leg and arms are entwined together. This complex pose greatly improves physical balance and deepens mental concentration. Additionally, it strengthens the leg muscles and builds focus, making it a wonderful practice for the mind and body.",
+        "keyPoints": [
+          "Garudasana is the eagle pose, named after Lord Vishnu's vehicle.",
+          "It involves entwining arms and legs while balancing on one foot.",
+          "Improves overall physical balance and deepens concentration.",
+          "Strengthens leg muscles and builds mental focus."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "What is Marjaryasana and how does it help the body?",
+        "modelAnswer": "Marjaryasana, or the cat pose, mimics the stretching movement of a cat when it wakes up. It involves getting on all fours and alternately arching the spine upwards and then rounding it downwards. This fluid movement greatly improves the flexibility of the spine and keeps it healthy. It also helps relieve back tension, similar to how cats stretch to prevent muscle injuries and stay limber.",
+        "keyPoints": [
+          "Marjaryasana is the cat pose.",
+          "Performed on all fours by alternately arching and rounding the spine.",
+          "Greatly improves spinal flexibility.",
+          "Relieves back tension and prevents muscle injuries."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la6",
+        "question": "Describe Ustrasana and its positive effects on the body.",
+        "modelAnswer": "Ustrasana, also known as the camel pose, derives its name from the Sanskrit word 'Ustra', meaning camel. To perform this pose, one kneels on the floor and bends backwards to touch their heels with their hands. This posture mimics the shape of a camel's hump and stretches the entire front of the body. It is particularly effective at opening up the chest and shoulders, which helps in improving overall posture.",
+        "keyPoints": [
+          "Ustrasana is the camel pose.",
+          "It involves kneeling and bending backwards to touch the heels.",
+          "Stretches the front of the body and opens the chest and shoulders.",
+          "Highly effective for improving posture."
+        ],
+        "marks": 4
+      }
+    ]
   }
 }

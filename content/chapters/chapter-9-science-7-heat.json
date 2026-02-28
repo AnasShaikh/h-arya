@@ -1,0 +1,534 @@
+{
+  "metadata": {
+    "chapterNumber": 9,
+    "title": "Heat",
+    "subject": "Science",
+    "pages": "63-70",
+    "description": "This chapter covers the concepts of heat, its transfer, and its effects."
+  },
+  "preAssessment": [
+    {
+      "id": "q1",
+      "question": "Which of these is a source of heat?",
+      "options": [
+        "The Sun",
+        "A burning candle",
+        "An electric heater",
+        "All of the above"
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q2",
+      "question": "What is the SI unit of heat?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 1
+    },
+    {
+      "id": "q3",
+      "question": "What is the process of heat transfer in solids?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Evaporation"
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "conceptId": 2
+    },
+    {
+      "id": "q4",
+      "question": "What happens to a substance when it is heated?",
+      "options": [
+        "It contracts",
+        "It expands",
+        "It stays the same",
+        "It disappears"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "conceptId": 3
+    },
+    {
+      "id": "q5",
+      "question": "Which color absorbs the most heat?",
+      "options": [
+        "White",
+        "Black",
+        "Red",
+        "Blue"
+      ],
+      "correctAnswer": "B",
+      "difficulty": "medium",
+      "conceptId": 2
+    }
+  ],
+  "concepts": [
+    {
+      "id": 1,
+      "title": "Heat and Temperature",
+      "emoji": "🔥",
+      "colorTheme": "from-red-500 to-orange-500",
+      "bgColor": "bg-red-50",
+      "borderColor": "border-red-300",
+      "content": "Heat is a form of energy that flows from a hotter object to a colder object. Temperature is a measure of the degree of hotness or coldness of a body.",
+      "pageReference": "63-64",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "A cup of hot tea cooling down as it transfers heat to the surroundings."
+        },
+        {
+          "id": "e2",
+          "text": "An ice cube melting in your hand as it absorbs heat from your body."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "The SI unit of heat is the Joule (J)."
+        },
+        {
+          "id": "kp2",
+          "text": "Temperature is measured in Celsius (°C), Fahrenheit (°F), or Kelvin (K)."
+        }
+      ],
+      "funFact": "The coldest possible temperature is absolute zero (-273.15 °C or 0 K), where all atomic motion stops.",
+      "textbookRef": "Pages 63-64"
+    },
+    {
+      "id": 2,
+      "title": "Transfer of Heat",
+      "emoji": "💨",
+      "colorTheme": "from-blue-500 to-cyan-500",
+      "bgColor": "bg-blue-50",
+      "borderColor": "border-blue-300",
+      "content": "Heat can be transferred in three ways: conduction, convection, and radiation. Conduction is the transfer of heat through direct contact. Convection is the transfer of heat through the movement of fluids (liquids or gases). Radiation is the transfer of heat through electromagnetic waves.",
+      "pageReference": "65-67",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "A metal spoon getting hot when placed in a cup of hot soup (conduction)."
+        },
+        {
+          "id": "e2",
+          "text": "Boiling water in a pot (convection)."
+        },
+        {
+          "id": "e3",
+          "text": "Feeling the warmth of the Sun (radiation)."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Conduction occurs mainly in solids."
+        },
+        {
+          "id": "kp2",
+          "text": "Convection occurs in liquids and gases."
+        },
+        {
+          "id": "kp3",
+          "text": "Radiation does not require a medium for transfer."
+        }
+      ],
+      "funFact": "A thermos flask is designed to minimize heat transfer by all three methods.",
+      "textbookRef": "Pages 65-67"
+    },
+    {
+      "id": 3,
+      "title": "Effects of Heat",
+      "emoji": "🌡️",
+      "colorTheme": "from-green-500 to-lime-500",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-300",
+      "content": "Heating a substance can cause it to expand, change its state (e.g., from solid to liquid), or cause a chemical reaction.",
+      "pageReference": "68-69",
+      "examples": [
+        {
+          "id": "e1",
+          "text": "Railway tracks have gaps to allow for expansion in the summer."
+        },
+        {
+          "id": "e2",
+          "text": "Water turning into steam when boiled."
+        },
+        {
+          "id": "e3",
+          "text": "Cooking food involves chemical changes caused by heat."
+        }
+      ],
+      "keyPoints": [
+        {
+          "id": "kp1",
+          "text": "Most substances expand on heating and contract on cooling."
+        },
+        {
+          "id": "kp2",
+          "text": "The change of state from solid to liquid is called melting, and from liquid to gas is called boiling."
+        }
+      ],
+      "funFact": "Water is unusual because it expands when it freezes, which is why ice floats.",
+      "textbookRef": "Pages 68-69"
+    }
+  ],
+  "test": [
+    {
+      "id": "q1",
+      "question": "Why are the handles of cooking utensils made of plastic or wood?",
+      "options": [
+        "They are good conductors of heat",
+        "They are poor conductors of heat",
+        "They are cheap",
+        "They look good"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Plastic and wood are poor conductors of heat (insulators), so they do not get hot and are safe to hold.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "70"
+    },
+    {
+      "id": "q2",
+      "question": "How does heat from the Sun reach the Earth?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "It does not reach the Earth"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Heat from the Sun travels through the vacuum of space to the Earth by radiation.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "70"
+    },
+    {
+      "id": "q3",
+      "question": "What happens to the level of mercury in a thermometer when it is placed in hot water?",
+      "options": [
+        "It rises",
+        "It falls",
+        "It stays the same",
+        "It disappears"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The mercury expands when heated, causing the level to rise in the thermometer.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "70"
+    },
+    {
+      "id": "q4",
+      "question": "Which of these is not a unit of temperature?",
+      "options": [
+        "Celsius",
+        "Fahrenheit",
+        "Kelvin",
+        "Joule"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Joule is a unit of heat (energy), not temperature.",
+      "conceptIds": [
+        1
+      ],
+      "pageReference": "70"
+    },
+    {
+      "id": "q5",
+      "question": "In which state of matter is heat transferred by convection?",
+      "options": [
+        "Solids",
+        "Liquids",
+        "Gases",
+        "Both liquids and gases"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Convection is the primary mode of heat transfer in fluids (liquids and gases).",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "70"
+    },
+    {
+      "id": "q6",
+      "question": "Why do we wear dark colored clothes in winter?",
+      "options": [
+        "They reflect heat",
+        "They absorb heat",
+        "They are fashionable",
+        "They are easily available"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dark colors are good absorbers of heat, which helps to keep us warm in winter.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "70"
+    },
+    {
+      "id": "q7",
+      "question": "A sea breeze occurs during the day because ________.",
+      "options": [
+        "land gets heated faster than sea",
+        "sea gets heated faster than land",
+        "land gets cooled faster than sea",
+        "sea gets cooled faster than land"
+      ],
+      "correctAnswer": "A",
+      "explanation": "During the day, the land gets heated faster than the sea. The hot air above the land rises, and the cooler air from the sea flows towards the land, causing a sea breeze.",
+      "conceptIds": [
+        2
+      ],
+      "pageReference": "70"
+    },
+    {
+      "id": "q8",
+      "question": "The process of a liquid changing into a gas is called ________.",
+      "options": [
+        "melting",
+        "freezing",
+        "condensation",
+        "evaporation"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Evaporation is the process by which a liquid turns into a gas at any temperature below its boiling point.",
+      "conceptIds": [
+        3
+      ],
+      "pageReference": "70"
+    }
+  ],
+  "aiContext": {
+    "keyConcepts": [
+      "Heat and Temperature",
+      "Transfer of Heat",
+      "Effects of Heat"
+    ],
+    "commonMisconceptions": [
+      "Heat and temperature are the same thing.",
+      "Cold is the opposite of heat and flows from cold objects to hot objects."
+    ],
+    "realWorldExamples": [
+      "Cooking food",
+      "The changing seasons",
+      "A thermos flask"
+    ]
+  },
+  "interactiveElement": {
+    "type": "formula-builder",
+    "title": "Build the Formula!",
+    "description": "Drag the components to build the key formula for this chapter.",
+    "data": {
+      "formula": "Q = m × c × ΔT",
+      "components": [
+        "Q",
+        "=",
+        "m",
+        "×",
+        "c",
+        "×",
+        "ΔT"
+      ],
+      "explanation": "Heat energy (Q) equals mass (m) times specific heat (c) times change in temperature (ΔT)."
+    }
+  },
+  "textbookExercise": {
+    "chapterName": "Heat",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "questions": [
+      {
+        "number": 1,
+        "type": "fill_blanks",
+        "question": "Fill in the blanks with the proper\nword from the brackets.\n(radiation, white, conduction, blue,\nconvection,\nbad\nconductor,\ngood\nconductor, black, reflection)\n(a) Maximum heat is absorbed by a\n….…. coloured object.\n(b) ………… of heat does not require\na medium.\n(c) Conduction of heat takes place\nthrough",
+        "subQuestions": [
+          "Maximum heat is absorbed by a\n….…. coloured object.",
+          "………… of heat does not require\na medium.",
+          "Conduction of heat takes place\nthrough a ………. substance.",
+          "The shining surface in a thermos\nflask decreases the outgoing heat by\n....... .",
+          "Cooking utensils are made from\nmetals due to their property of …….",
+          "The earth receives heat from the\nsun by ................. ."
+        ]
+      },
+      {
+        "number": 2,
+        "type": "short_answer",
+        "question": "What will absorb heat?\nSteel spoon, wooden board, glass vessel,\niron griddle (tava), glass, wooden spoon,\nplastic plate, soil, water, wax",
+        "subQuestions": []
+      },
+      {
+        "number": 3,
+        "type": "give_reasons",
+        "question": "Write answers to the following questions.\n(a) How does a fever get lowered by\nputting a cold compress on the\nforehead of a patient ?\n63\n(b) Why are the houses in Rajasthan\npainted white ?\n(c) What are the modes of heat transfer ?\n(d) Explain which mode of heat transfer\ncauses sea breezes and land br",
+        "subQuestions": [
+          "How does a fever get lowered by\nputting a cold compress on the\nforehead of a patient ?\n63",
+          "Why are the houses in Rajasthan\npainted white ?",
+          "What are the modes of heat transfer ?",
+          "Explain which mode of heat transfer\ncauses sea breezes and land breezes.",
+          "Why is the outer coat of the\npenguins of Antarctica black ?",
+          "Why are heaters fitted near the\nfloor and air conditioners, near the\nceiling of a room ?"
+        ]
+      },
+      {
+        "number": 4,
+        "type": "short_answer",
+        "question": "Give scientific reasons.\n(a) An ordinary glass bottle cracks\nwhen boiling water is poured into\nit, but a borosil glass bottle does\nnot.\n(b) The telephone wires which sag in\nsummer become straight in winter.\n(c) Dew drops form on the grass, in\nwinter.\n(d) In winter, why does an iron pillar\nfeel colde",
+        "subQuestions": [
+          "An ordinary glass bottle cracks\nwhen boiling water is poured into\nit, but a borosil glass bottle does\nnot.",
+          "The telephone wires which sag in\nsummer become straight in winter.",
+          "Dew drops form on the grass, in\nwinter.",
+          "In winter, why does an iron pillar\nfeel colder than a wooden pole ?"
+        ]
+      }
+    ],
+    "rawText": "1. Fill in the blanks with the proper\nword from the brackets.\n(radiation, white, conduction, blue,\nconvection,\nbad\nconductor,\ngood\nconductor, black, reflection)\n(a) Maximum heat is absorbed by a\n….…. coloured object.\n(b) ………… of heat does not require\na medium.\n(c) Conduction of heat takes place\nthrough a ………. substance.\n(d) The shining surface in a thermos\nflask decreases the outgoing heat by\n....... .\n(e) Cooking utensils are made from\nmetals due to their property of …….\n(f) The earth receives heat from the\nsun by ................. .\n2. What will absorb heat?\nSteel spoon, wooden board, glass vessel,\niron griddle (tava), glass, wooden spoon,\nplastic plate, soil, water, wax\n3. Write answers to the following questions.\n(a) How does a fever get lowered by\nputting a cold compress on the\nforehead of a patient ?\n63\n(b) Why are the houses in Rajasthan\npainted white ?\n(c) What are the modes of heat transfer ?\n(d) Explain which mode of heat transfer\ncauses sea breezes and land breezes.\n(e) Why is the outer coat of the\npenguins of Antarctica black ?\n(f) Why are heaters fitted near the\nfloor and air conditioners, near the\nceiling of a room ?\n4. Give scientific reasons.\n(a) An ordinary glass bottle cracks\nwhen boiling water is poured into\nit, but a borosil glass bottle does\nnot.\n(b) The telephone wires which sag in\nsummer become straight in winter.\n(c) Dew drops form on the grass, in\nwinter.\n(d) In winter, why does an iron pillar\nfeel colder than a wooden pole ?",
+    "qaCards": [
+      {
+        "question": "Why are the handles of cooking utensils made of plastic or wood?",
+        "answer": "Plastic and wood are poor conductors of heat (insulators), so they do not get hot and are safe to hold.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "How does heat from the Sun reach the Earth?",
+        "answer": "Heat from the Sun travels through the vacuum of space to the Earth by radiation.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "What happens to the level of mercury in a thermometer when it is placed in hot water?",
+        "answer": "The mercury expands when heated, causing the level to rise in the thermometer.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Which of these is not a unit of temperature?",
+        "answer": "Joule is a unit of heat (energy), not temperature.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "In which state of matter is heat transferred by convection?",
+        "answer": "Convection is the primary mode of heat transfer in fluids (liquids and gases).",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "Why do we wear dark colored clothes in winter?",
+        "answer": "Dark colors are good absorbers of heat, which helps to keep us warm in winter.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "A sea breeze occurs during the day because ________.",
+        "answer": "During the day, the land gets heated faster than the sea. The hot air above the land rises, and the cooler air from the sea flows towards the land, causing a sea breeze.",
+        "source": "chapter_test_explanation"
+      },
+      {
+        "question": "The process of a liquid changing into a gas is called ________.",
+        "answer": "Evaporation is the process by which a liquid turns into a gas at any temperature below its boiling point.",
+        "source": "chapter_test_explanation"
+      }
+    ],
+    "longAnswers": [
+      {
+        "id": "la1",
+        "question": "Maximum heat is absorbed by a\n….…. coloured object.",
+        "modelAnswer": "Convection is the primary mode of heat transfer in fluids (liquids and gases). This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Maximum heat is absorbed by a\n….…. coloured object.",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la2",
+        "question": "………… of heat does not require\na medium.",
+        "modelAnswer": "Joule is a unit of heat (energy), not temperature. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: ………… of heat does not require\na medium.",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la3",
+        "question": "Conduction of heat takes place\nthrough a ………. substance.",
+        "modelAnswer": "Conduction of heat takes place through a ………. substance. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Conduction of heat takes place through a ……….",
+          "substance.",
+          "This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 3
+      },
+      {
+        "id": "la4",
+        "question": "The shining surface in a thermos\nflask decreases the outgoing heat by\n....... .",
+        "modelAnswer": "The mercury expands when heated, causing the level to rise in the thermometer. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: The shining surface in a thermos\nflask decreases the outgoing heat by\n....... .",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Cooking utensils are made from\nmetals due to their property of …….",
+        "modelAnswer": "Plastic and wood are poor conductors of heat (insulators), so they do not get hot and are safe to hold. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: Cooking utensils are made from\nmetals due to their property of …….",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "The earth receives heat from the\nsun by ................. .",
+        "modelAnswer": "Heat from the Sun travels through the vacuum of space to the Earth by radiation. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Defines the concept asked in: The earth receives heat from the\nsun by ................. .",
+          "Explains key causes/features in textbook style.",
+          "Links the answer to a chapter-based example."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "What will absorb heat?\nSteel spoon, wooden board, glass vessel,\niron griddle (tava), glass, wooden spoon,\nplastic plate, soil, water, wax",
+        "modelAnswer": "What will absorb heat? Steel spoon, wooden board, glass vessel, iron griddle (tava), glass, wooden spoon, plastic plate, soil, water, wax This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "What will absorb heat?",
+          "Steel spoon, wooden board, glass vessel, iron griddle (tava), glass, wooden spoon, plastic plate, soil, water, wax This concept is explained in this chapter with its causes, features, and outcomes.",
+          "This can be observed in standard textbook examples from this chapter."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la8",
+        "question": "Write answers to the following questions.\n(a) How does a fever get lowered by\nputting a cold compress on the\nforehead of a patient ?\n63\n(b) Why are the houses in Rajasthan\npainted white ?\n(c) What are the modes of heat transfer ?\n(d) Explain which mode of heat transfer\ncauses sea breezes and land br",
+        "modelAnswer": "Write answers to the following questions. (a) How does a fever get lowered by putting a cold compress on the forehead of a patient ? 63 (b) Why are the houses in Rajasthan painted white ? (c) What are the modes of heat transfer ? (d) Explain which mode of heat transfer causes sea breezes and land br This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "keyPoints": [
+          "Write answers to the following questions.",
+          "(a) How does a fever get lowered by putting a cold compress on the forehead of a patient ?",
+          "63 (b) Why are the houses in Rajasthan painted white ?",
+          "(c) What are the modes of heat transfer ?"
+        ],
+        "marks": 5
+      }
+    ]
+  }
+}
