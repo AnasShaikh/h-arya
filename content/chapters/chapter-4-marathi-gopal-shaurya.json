@@ -491,76 +491,61 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What was the Marathi word for 'wildfire/forest fire' as used in the story?",
-        "modelAnswer": "The Marathi word used for 'wildfire' or 'forest fire' in the story is 'वणवा' (Vanva). A 'वणवा' is an uncontrolled fire that spreads rapidly through dry forests and grasslands. It is extremely dangerous and can cause immense destruction to trees and wildlife. In the story, the students see a dangerous 'वणवा' on their way back from the Karnagad fort picnic.",
+        "question": "कर्णागड कुठे वसलेला आहे?",
+        "modelAnswer": "कर्णागड हा किल्ला नागपूर जिल्ह्यातील नरखेड तालुक्यात असलेल्या 'मोहदी' या गावापासून सुमारे आठ-दहा किलोमीटर अंतरावर वसलेला आहे. हा एक पौराणिक किल्ला असून येथील निसर्गसौंदर्य अतिशय प्रेक्षणीय आहे. शाळांची सहल जेव्हा येथे येते, तेव्हा विद्यार्थी किल्ल्याचा परिसर, तिथली झाडेझुडपे आणि ऐतिहासिक महत्त्व जाणून घेतात. याच परिसरात सहल परतत असताना वणवा लागल्याची घटना घडली.",
         "keyPoints": [
-          "The Marathi word for wildfire is 'वणवा' (Vanva).",
-          "It is a fast-spreading, uncontrolled fire in forests or dry grasslands.",
-          "It poses a great danger to wildlife, trees, and people.",
-          "The students encountered a 'वणवा' on their return journey from Karnagad fort."
+          "कर्णागड नागपूर जिल्ह्यातील नरखेड तालुक्यात आहे.",
+          "हे मोहदी गावापासून ८-१० किमी अंतरावर आहे.",
+          "हा एक पौराणिक आणि प्रेक्षणीय किल्ला आहे.",
+          "सहलीच्या दरम्यान याच भागात वणवा लागला होता."
         ],
         "marks": 3
       },
       {
         "id": "la2",
-        "question": "What is the Marathi name for the Fire Brigade?",
-        "modelAnswer": "The Marathi name for the Fire Brigade is 'अग्निशमन दल' (Agnishaman Dal). In this word, 'अग्नि' means fire and 'शमन' means to extinguish or calm down. The 'अग्निशमन दल' is a specialized force equipped to put out dangerous fires. When Gopal saw the wildfire, he quickly called the 'अग्निशमन दल' for professional help.",
+        "question": "गोपाळने आग विझवण्यासाठी नेमके काय केले?",
+        "modelAnswer": "घाटात आग लागलेली पाहताच गोपाळने चालत्या बसमधून उडी मारली. त्याने जवळच असलेल्या एका शेतातून वाहणाऱ्या नदीवरचा पाण्याने भरलेला लांब रबरी पाइप पाहिला. त्याने तो पाइप सर्व शक्तिनिशी ओढत आगीच्या दिशेने आणला आणि आगीवर पाणी मारायला सुरुवात केली. गोपाळचे हे धाडस पाहून इतर लोक आणि अग्निशमन दलाच्या गाड्याही मदतीला आल्या, ज्यामुळे आग आटोक्यात आली.",
         "keyPoints": [
-          "The Fire Brigade is called 'अग्निशमन दल' in Marathi.",
-          "'अग्नि' means fire and 'शमन' means to extinguish or calm.",
-          "It is a specialized force dedicated to putting out dangerous fires.",
-          "Gopal called the 'अग्निशमन दल' for professional help during the wildfire."
+          "गोपाळने चालत्या बसमधून उडी मारून प्रसंगावधान दाखवले.",
+          "शेतातील नदीवरून जाणारा पाण्याचा रबरी पाइप ओढून आणला.",
+          "आगीच्या दिशेने पाणी मारून आग विझवण्याचा प्रयत्न केला.",
+          "त्याच्या या कृतीमुळे इतर लोकही मदतीला धावून आले."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la3",
-        "question": "What is the fire brigade emergency number in India?",
-        "modelAnswer": "The emergency number for the Fire Brigade in India is 101. By dialing 101, anyone can immediately report a fire and request professional help. In the story, Gopal calls 101 after seeing the spreading wildfire near Karnagad fort. Promptly using this number ensured that two fire engines arrived within twenty minutes to extinguish the fire.",
+        "question": "आग वेळेवर विझली नसती तर कोणते नुकसान झाले असते?",
+        "modelAnswer": "जर आग वेळेवर विझली नसती, तर ती संपूर्ण जंगलात पसरली असती आणि मोठ्या प्रमाणावर निसर्गाची हानी झाली असती. जंगलातील अनेक मौल्यवान झाडे, वनस्पती जळून खाक झाल्या असत्या. सर्वात महत्त्वाचे म्हणजे, तिथे चरत असलेले पशू, पक्षी आणि गुराखी मुलेही त्या आगीत भाजून मृत्युमुखी पडली असती. गोपाळच्या तत्परतेमुळे हे सर्व मोठे अनर्थ टळले आणि अनेकांचे प्राण वाचले.",
         "keyPoints": [
-          "The emergency number for the Fire Brigade in India is 101.",
-          "Dialing 101 allows citizens to quickly request professional fire-fighting help.",
-          "Gopal used this number to report the wildfire near Karnagad fort.",
-          "Using the emergency number ensured a quick response, bringing fire engines within 20 minutes."
+          "संपूर्ण जंगलातील झाडे आणि वनस्पती जळून नष्ट झाल्या असत्या.",
+          "पशू-पक्षी आणि वन्यजीवांना प्राण गमवावे लागले असते.",
+          "तिथे उपस्थित असलेली गुराखी मुलेही आगीत भाजली असती.",
+          "मोठ्या प्रमाणावर पर्यावरणाचे नुकसान झाले असते."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la4",
-        "question": "In Marathi grammar, what is a 'सर्वनाम' (Sarvanam)?",
-        "modelAnswer": "In Marathi grammar, a 'सर्वनाम' (Sarvanam) is a pronoun, which is a word used in place of a noun to avoid its repetition. For example, instead of repeating the name 'Gopal', we can use the pronoun 'तो' (he) in the sentence 'तो बसमधून उतरला' (He got off the bus). Common examples of Marathi pronouns include मी (I), तू (you), तो (he), ती (she), and ते (they). Using a 'सर्वनाम' makes sentences flow better and enriches our speech.",
+        "question": "गोपाळचा कोणता गुण तुम्हाला सर्वात जास्त आवडला आणि का?",
+        "modelAnswer": "मला गोपाळची 'प्रसंगावधानता' आणि 'परोपकारी वृत्ती' हे गुण सर्वात जास्त आवडले. जेव्हा शिक्षक आणि इतर मोठे लोक आग विझवणे अशक्य मानत होते, तेव्हा गोपाळने हार न मानता प्रत्यक्ष कृती केली. त्याचे \"माणसं असो का जनावरं त्यांना वाचवलंच पाहिजे\" हे विचार त्याच्या संवेदनशील मनाचे दर्शन घडवतात. स्वतःच्या प्राणाची पर्वा न करता इतरांसाठी धावून जाण्याची त्याची वृत्ती खरोखरच कौतुकास्पद आणि प्रेरणादायी आहे.",
         "keyPoints": [
-          "A 'सर्वनाम' (pronoun) is a word used instead of a noun.",
-          "Its main purpose is to avoid the repetition of the noun in a sentence.",
-          "Examples include words like मी, तू, तो, ती, and ते.",
-          "For instance, using 'तो' (he) instead of repeating the name 'Gopal'.",
-          "Using pronouns makes sentences sound more natural and fluent."
+          "गोपाळची प्रसंगावधानता आणि संकटात न डगमगण्याची वृत्ती.",
+          "माणसे आणि प्राणी यांच्याबद्दल असलेली त्याची समान आत्मीयता.",
+          "केवळ विचार न करता प्रत्यक्ष मदतीसाठी धावून जाणे.",
+          "अशक्य वाटणारे काम धैर्याने शक्य करून दाखवणे."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "What did Gopal say when people praised him for his bravery?",
-        "modelAnswer": "When people praised him, Gopal's famous words were, \"माणूस असो वा प्राणी, आपण त्यांना वाचवलेच पाहिजे!\" (Whether humans or animals, we must save them!). This powerful statement reflects his deep compassion and sense of moral responsibility toward all living beings. His words show that true bravery involves caring for everyone, regardless of their species. Gopal proved that anyone can make a positive difference with quick thinking and courage.",
+        "question": "या पाठातून आपल्याला कोणती मुख्य शिकवण मिळते?",
+        "modelAnswer": "'गोपाळचे शौर्य' या पाठातून आपल्याला धैर्याने संकटाचा सामना करण्याची आणि सामाजिक जबाबदारीची शिकवण मिळते. संकटकाळी घाबरून न जाता उपलब्ध साधनांचा वापर करून मार्ग कसा काढावा, हे गोपाळने शिकवले आहे. तसेच, निसर्ग आणि प्राणीमात्रांवरील प्रेम हे केवळ शब्दात नसून कृतीत असायला हवे, हा संदेश यातून मिळतो. एक जागरूक नागरिक म्हणून संकटात सापडलेल्यांना मदत करणे हे आपले कर्तव्य आहे, हे या पाठाचे सार आहे.",
         "keyPoints": [
-          "Gopal said, \"माणूस असो वा प्राणी, आपण त्यांना वाचवलेच पाहिजे!\" (Whether humans or animals, we must save them!).",
-          "His statement shows equal compassion for both humans and animals.",
-          "It reflects a strong sense of moral responsibility toward all living beings.",
-          "True bravery involves acting selflessly to protect those in danger.",
-          "Gopal's mindset proves that courage is driven by a desire to help others."
-        ],
-        "marks": 5
-      },
-      {
-        "id": "la6",
-        "question": "How long did it take for fire engines to arrive after Gopal called 101?",
-        "modelAnswer": "It took approximately 20 minutes for two fire engines to arrive after Gopal called the emergency number 101. This quick response highlights the crucial importance of calling emergency services immediately when facing danger. Because Gopal took quick action, the fire brigade could work together with him and the other students to extinguish the fire. The swift arrival of the fire engines ultimately saved the trapped herders and their animals.",
-        "keyPoints": [
-          "Two fire engines arrived in about 20 minutes after the call.",
-          "This demonstrates the vital importance of calling emergency services immediately.",
-          "Gopal's prompt call to 101 enabled this rapid response.",
-          "The quick arrival allowed teamwork between professionals, Gopal, and students.",
-          "The timely intervention helped save the trapped herders and animals."
+          "संकट काळात धैर्याने आणि डोकं शांत ठेवून वागावे.",
+          "निसर्ग आणि प्राण्यांच्या संरक्षणाची जबाबदारी आपली आहे.",
+          "उपलब्ध साधनांचा चतुराईने वापर करून संकट निवारता येते.",
+          "परोपकार आणि माणुसकी हीच सर्वात मोठी संपत्ती आहे."
         ],
         "marks": 5
       }

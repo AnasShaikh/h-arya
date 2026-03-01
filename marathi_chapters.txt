@@ -1,0 +1,14 @@
+/opt/h-arya/content/chapters/chapter-4-marathi-gopal-shaurya.json
+/opt/h-arya/content/chapters/chapter-12-marathi-aapli-samasya-aapale-upay.json
+/opt/h-arya/content/chapters/chapter-2-marathi-shyam-brotherly-love.json
+/opt/h-arya/content/chapters/chapter-6-marathi-tap-tap-padati.json
+/opt/h-arya/content/chapters/chapter-10-marathi-pandita-ramabai.json
+/opt/h-arya/content/chapters/chapter-3-marathi-mazya-angnat.json
+/opt/h-arya/content/chapters/chapter-13-marathi-adlabadal.json
+/opt/h-arya/content/chapters/chapter-11-marathi-lek.json
+/opt/h-arya/content/chapters/chapter-14-marathi-santvani.json
+/opt/h-arya/content/chapters/chapter-9-marathi-vachanache-ved.json
+/opt/h-arya/content/chapters/chapter-7-marathi-aajari-padanyacha-prayog.json
+/opt/h-arya/content/chapters/chapter-8-marathi-shabdanche-ghar.json
+/opt/h-arya/content/chapters/chapter-5-marathi-dadas-patra.json
+/opt/h-arya/content/chapters/chapter-1-marathi-prarthana.json

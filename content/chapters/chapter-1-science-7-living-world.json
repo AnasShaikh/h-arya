@@ -490,58 +490,52 @@
       {
         "id": "la1",
         "question": "Why is the camel called the 'Ship of the desert'?",
-        "modelAnswer": "The camel is called the 'Ship of the desert' because of its remarkable adaptations to the harsh desert environment. It has long legs with flat and cushioned soles which help it walk easily on hot, loose sand without sinking. Its nostrils are protected by folds of skin, and it has long, thick eyelashes to keep out sand during storms. Additionally, its thick skin prevents water loss, and it can survive for long periods without water, making it the most reliable mode of transport in deserts.",
+        "modelAnswer": "The camel is called the 'Ship of the desert' due to its multiple adaptations for surviving and traveling in harsh desert conditions. It has long legs with flat and cushioned soles that prevent it from sinking into hot sand. Its skin is thick to reduce water loss, and it has long, thick eyelashes and nostrils that can be closed with folds of skin to protect against blowing sand. These features allow it to navigate the desert efficiently where other animals cannot.",
         "keyPoints": [
-          "Long legs with flat, cushioned soles for walking on sand.",
-          "Thick skin to prevent water loss.",
-          "Folds of skin to protect nostrils and thick eyelashes.",
-          "Ability to survive without water for long periods."
-        ],
-        "marks": 5
+          "Long legs with cushioned soles for walking on hot sand.",
+          "Thick skin and specialized nostrils/eyelashes to handle heat and sand.",
+          "Adaptations that allow for efficient travel in water-scarce regions."
+        ]
       },
       {
         "id": "la2",
         "question": "How can plants like cactus and acacia live in deserts with scarce water?",
-        "modelAnswer": "Desert plants like cactus and acacia are adapted to conserve water. Their leaves are either absent, very small, or modified into spines, which significantly reduces water loss through transpiration. The stem performs photosynthesis in the absence of leaves and becomes fleshy to store water. Furthermore, their roots penetrate deep into the soil or spread wide to absorb even the slightest amount of available moisture.",
+        "modelAnswer": "Desert plants like cactus and acacia have adapted to minimize water loss and maximize storage. Their leaves are either absent, very small, or modified into spines, which significantly reduces transpiration. Their stems are green and perform photosynthesis, and they become fleshy to store water. Additionally, their roots penetrate deep into the soil or spread wide to absorb any available moisture from a large area.",
         "keyPoints": [
-          "Leaves modified into spines to reduce transpiration.",
-          "Fleshy green stems that store water and perform photosynthesis.",
-          "Deep or wide-spreading roots to absorb maximum water."
-        ],
-        "marks": 5
+          "Leaves modified into spines to reduce water loss (transpiration).",
+          "Fleshy, green stems for water storage and photosynthesis.",
+          "Deep and wide-spreading root systems to find water."
+        ]
       },
       {
         "id": "la3",
-        "question": "What is the inter-relationship between adaptations of organisms and their surroundings?",
-        "modelAnswer": "Adaptation is a gradual process where changes occur in the body parts and behavior of organisms to help them survive, reproduce, and maintain their existence in a specific environment. The surroundings (climate, food availability, predators) dictate the type of adaptations needed. For example, animals in snowy regions have thick fur for insulation, while desert animals have adaptations to conserve water. This relationship ensures that organisms are best suited to thrive in their particular habitat.",
+        "question": "Explain the inter-relationship between adaptations of organisms and their surroundings.",
+        "modelAnswer": "Adaptation is the process of gradual changes in the body parts and behavior of organisms that help them adjust to their surroundings. The specific environment, such as climate, food availability, and predators, determines which traits are beneficial. For instance, aquatic plants have air spaces in stems for buoyancy, while snowy region trees are conical to shed snow. This relationship ensures that organisms are best suited to survive and reproduce in their specific habitats.",
         "keyPoints": [
-          "Adaptation is a gradual change for survival and reproduction.",
-          "Environmental factors like climate and food determine the adaptations.",
-          "Ensures organisms are suited to their specific habitat."
-        ],
-        "marks": 5
+          "Adaptation is a gradual change for survival in a specific environment.",
+          "Environmental factors like temperature and habitat drive these changes.",
+          "Successful adaptations ensure the survival of the species in its niche."
+        ]
       },
       {
         "id": "la4",
-        "question": "How are organisms classified?",
-        "modelAnswer": "Organisms are classified using a hierarchical system developed by Carl Linnaeus. This system, known as biological classification, groups living things based on their similarities and differences. The hierarchy consists of levels: Kingdom, Phylum (for animals) or Division (for plants), Class, Order, Family, Genus, and Species. Additionally, the Binomial Nomenclature system gives each organism a unique two-part scientific name consisting of its Genus and Species (e.g., Mangifera indica for mango).",
+        "question": "What are the adaptations of a penguin that enable it to live in snowy polar regions?",
+        "modelAnswer": "Penguins have several physical and behavioral adaptations for polar life. Their skin is thick with a layer of fat (blubber) underneath for insulation against the extreme cold. They have a spindle-shaped body and webbed toes which make them excellent swimmers. Behaviorally, they live in large flocks and stick close to each other (huddling) to share body heat and protect themselves from freezing winds and predators.",
         "keyPoints": [
-          "Classification is based on similarities and differences.",
-          "Hierarchy: Kingdom, Phylum/Division, Class, Order, Family, Genus, Species.",
-          "Binomial Nomenclature provides unique scientific names."
-        ],
-        "marks": 5
+          "Thick skin and blubber layer for heat insulation.",
+          "Spindle-shaped body and webbed toes for aquatic movement.",
+          "Huddling behavior in flocks to conserve heat."
+        ]
       },
       {
         "id": "la5",
-        "question": "Why do penguins live in flocks sticking close to each other?",
-        "modelAnswer": "Penguins live in the extremely cold polar regions. They live in flocks and stick close to each other primarily to conserve body heat. By huddling together, they reduce the total surface area exposed to the freezing wind and snow, thereby sharing warmth and increasing their chances of survival in sub-zero temperatures. It also provides protection against predators.",
+        "question": "Describe the hierarchical system of biological classification developed by Carl Linnaeus.",
+        "modelAnswer": "Biological classification is a system of grouping organisms based on their similarities and differences. The hierarchy consists of several levels: Kingdom, Phylum (animals) or Division (plants), Class, Order, Family, Genus, and Species. Carl Linnaeus also introduced Binomial Nomenclature, where every organism is given a unique two-part scientific name consisting of its Genus (capitalized) and Species (lowercase), such as 'Mangifera indica' for mango.",
         "keyPoints": [
-          "Huddling reduces exposed surface area to cold.",
-          "Sharing body heat ensures survival in freezing temperatures.",
-          "Provides collective protection against predators."
-        ],
-        "marks": 3
+          "Organisms are grouped from broad (Kingdom) to specific (Species) levels.",
+          "Hierarchy includes Phylum, Class, Order, Family, Genus, and Species.",
+          "Binomial nomenclature provides a standardized two-part scientific name."
+        ]
       }
     ]
   }

@@ -533,61 +533,67 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Why does Abdul work as a merchant's clerk?",
-        "modelAnswer": "Abdul works as a merchant's clerk because he is a poor student who deeply loves reading but cannot afford to buy books. By working in the merchant's shop, he gains access to the wide variety of books sold there. This job allows him to read and learn as much as he wants without spending any of his own money. His intense desire for knowledge drives him to take this job despite the hard work.",
+        "question": "Describe Abdul’s background and explain why he starts as a merchant’s clerk.",
+        "modelAnswer": "Abdul begins life in modest circumstances and must work early to support himself. He joins a merchant as a clerk because it is a practical entry point where he can learn discipline, observation, and basic administrative skills. The story shows that humble beginnings are not barriers when one combines sincerity with intelligence. His early work life becomes the foundation of later success at court.",
         "keyPoints": [
-          "Abdul is a poor student who cannot afford to buy books.",
-          "He takes a job as a clerk in a merchant's shop to be near books.",
-          "The job gives him free access to read the books sold in the shop.",
-          "He does this out of a deep love for learning and knowledge."
+          "Abdul starts from limited means and practical necessity.",
+          "Clerkship gives him exposure to responsibility and systems.",
+          "Humble beginning is presented as a stage of growth, not failure."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "What is 'Murgikhana'?",
-        "modelAnswer": "'Murgikhana' refers to the royal poultry house where the Emperor's hens are kept. In the play, this is the first responsibility the Emperor gives to Abdul to test his capabilities. Abdul is put in charge of feeding and taking care of the royal hens in this poultry house. Despite the humble nature of the task, Abdul approaches it with great dedication and intelligence.",
+        "question": "What is “Murgikhana” in the story context, and what challenge does it present to Abdul?",
+        "modelAnswer": "“Murgikhana” refers to the poultry section where hens are kept and managed. The challenge for Abdul is to feed and handle them efficiently without waste, disorder, or complaint. This task tests not only labour but practical problem-solving under everyday constraints. Abdul’s response to this challenge reveals his presence of mind.",
         "keyPoints": [
-          "'Murgikhana' means the royal poultry or place where hens are kept.",
-          "It is the first job the Emperor gives to Abdul as a test of his abilities.",
-          "Abdul is put in charge of taking care of the royal hens.",
-          "He handles this humble task with immense dedication and creativity."
+          "Murgikhana = place where hens are kept/managed.",
+          "Task requires efficient feeding and organization.",
+          "Challenge highlights Abdul’s practical intelligence."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "What clever solution does Abdul use to feed the hens?",
-        "modelAnswer": "When put in charge of the Murgikhana, Abdul decides to feed the hens using kitchen waste instead of buying expensive grains. He collects food scraps and vegetable waste from the royal kitchen, which would otherwise be thrown away. This resourceful solution ensures the hens are well-fed while saving the Emperor's money. It demonstrates his zero-waste thinking and practical intelligence, earning him a promotion.",
+        "question": "Explain Abdul’s clever solution for feeding the hens and what it reveals about his character.",
+        "modelAnswer": "Abdul uses an efficient and thoughtful method to ensure hens receive food properly while minimizing confusion and wastage. Instead of following routine blindly, he studies the problem and finds a workable solution. This shows resourcefulness, observation, and initiative. His intelligence is practical, humane, and action-oriented, which later helps him gain recognition.",
         "keyPoints": [
-          "Abdul feeds the hens using scraps and waste from the royal kitchen.",
-          "This prevents food wastage and saves the Emperor's money.",
-          "It is a highly resourceful, economical, and zero-waste solution.",
-          "The clever approach demonstrates his practical intelligence."
+          "He solves task through observation and method, not force.",
+          "Solution improves order and efficiency.",
+          "Reveals initiative, creativity, and responsibility."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What does Abdul use to cover the library books?",
-        "modelAnswer": "After being promoted to the royal library, Abdul notices that the books need protection and decides to cover them beautifully. He uses discarded silk fabrics from the Emperor's formal request bags, which were otherwise considered useless. By recycling this rich silk, he gives the books luxurious covers without spending any money. This shows his deep respect for books and his highly creative problem-solving skills.",
+        "question": "How does Abdul handle the responsibility of protecting books? Why is this important?",
+        "modelAnswer": "Abdul protects the books carefully using available material, showing respect for knowledge resources and institutional property. His action reflects foresight: preserving books means preserving learning for many readers over time. The episode demonstrates that trustworthy people are those who care for details, not just major tasks. This quality contributes to his rise from clerk to courtier.",
         "keyPoints": [
-          "Abdul covers the library books with recycled silk fabrics.",
-          "The silk comes from the Emperor's discarded formal request bags.",
-          "He provides luxurious covers for the books without spending any money.",
-          "This demonstrates his creativity, resourcefulness, and deep love for books."
+          "Book protection shows discipline and care for shared resources.",
+          "Small responsible acts build trust and reputation.",
+          "Respect for knowledge is a key value in the story."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "What is the moral of 'Abdul Becomes a Courtier'?",
-        "modelAnswer": "The central moral of the play is that wits, brains, and perseverance can win name and fame. Abdul proves that a person does not need to be born rich or powerful to achieve success in life. Through his intelligence, creativity, and persistent hard work, he rises from a poor clerk to a respected royal courtier. His journey shows that true merit and resourcefulness are always rewarded in the end.",
+        "question": "Discuss the moral of “Abdul Becomes a Courtier” with examples from the story.",
+        "modelAnswer": "The central moral is that intelligence combined with honesty and hard work leads to growth in life. Abdul does not depend on luck alone; he applies practical wisdom in each responsibility, from poultry management to book care. His rise shows that leadership can emerge from ordinary settings when one solves problems responsibly. The story encourages students to value initiative, sincerity, and learning from every task.",
         "keyPoints": [
-          "The moral is that wits, brains, and perseverance win name and fame.",
-          "Success comes from intelligence and hard work, not inherited wealth.",
-          "Abdul rises from poverty to the royal court through his pure merit.",
-          "Persistent effort and creative problem-solving are ultimately rewarded."
+          "Success comes through effort + practical wisdom + integrity.",
+          "Small tasks done well can lead to larger opportunities.",
+          "Character and competence together create long-term progress."
+        ],
+        "marks": 6
+      },
+      {
+        "id": "la6",
+        "question": "Reflective response: What can students learn from Abdul’s journey from clerk to courtier?",
+        "modelAnswer": "Students can learn that progress begins with doing present duties well, even if they seem ordinary. Abdul teaches that observation, problem-solving, and reliability matter more than status. By improving one’s work habits and values consistently, recognition follows naturally. His journey motivates students to turn everyday responsibilities into opportunities for growth.",
+        "keyPoints": [
+          "Respect every task, however small.",
+          "Develop practical thinking and consistency.",
+          "Character-based effort creates future opportunities."
         ],
         "marks": 5
       }

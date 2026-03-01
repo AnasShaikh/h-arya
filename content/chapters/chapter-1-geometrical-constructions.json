@@ -530,58 +530,39 @@
     ],
     "longAnswers": [
       {
-        "id": "la1",
-        "question": "Explain the procedure and purpose of drawing an angle bisector.",
-        "modelAnswer": "An angle bisector is a line or ray that divides a given angle into two equal parts. To draw one, you use a compass to mark arcs on the arms of the angle, then use those points to find an intersection point equidistant from both arms. Drawing a line from the angle's vertex through this intersection creates the bisector. This construction is essential for creating precise geometric figures where angles need to be accurately halved.",
+        "question": "Explain the rule for constructing the perpendicular bisector of a line segment AB.",
+        "modelAnswer": "To construct the perpendicular bisector of AB: (1) Draw line segment AB. (2) Open the compass to a radius more than half of AB. (3) With A as centre, draw arcs above and below AB. (4) With B as centre and same radius, draw arcs cutting the previous arcs at P and Q. (5) Join P and Q. Line PQ is the perpendicular bisector because AP = BP and AQ = BQ, so points P and Q are equidistant from A and B.",
         "keyPoints": [
-          "Divides an angle into two equal parts.",
-          "Uses a compass to mark intersecting arcs.",
-          "Line is drawn from the vertex through the intersection.",
-          "Essential for precise geometric constructions."
+          "Use the same compass radius from both endpoints.",
+          "Property used: points equidistant from A and B lie on the perpendicular bisector.",
+          "Common mistake: taking radius less than half of AB so arcs do not intersect."
         ]
       },
       {
-        "id": "la2",
-        "question": "Describe how to construct the perpendicular bisector of a line segment.",
-        "modelAnswer": "A perpendicular bisector is a line that divides a line segment into two equal parts at a 90-degree angle. To construct it, place a compass point on one end of the segment and draw arcs above and below the line using a radius greater than half its length. Repeat this from the other endpoint without changing the radius to create two intersecting points. Drawing a straight line through these two points gives the perpendicular bisector.",
+        "question": "Construct a triangle ABC with AB = 6 cm, AC = 5 cm and BC = 4 cm. Write the steps.",
+        "modelAnswer": "(1) Draw AB = 6 cm. (2) With A as centre and radius 5 cm, draw an arc. (3) With B as centre and radius 4 cm, draw another arc cutting the first arc at C. (4) Join AC and BC. The required triangle ABC is formed. Check: AB = 6 cm, AC = 5 cm, BC = 4 cm.",
         "keyPoints": [
-          "Divides a line segment into two equal parts.",
-          "Intersects the segment at exactly 90 degrees.",
-          "Arcs are drawn from both endpoints with the same radius.",
-          "The line connecting the arc intersections forms the bisector."
+          "This is SSS construction (all three sides known).",
+          "A point on an arc is at fixed distance equal to the radius.",
+          "Common mistake: swapping radii from A and B, giving wrong side lengths."
         ]
       },
       {
-        "id": "la3",
-        "question": "What is the property of the angle bisectors of a triangle and what is the point of concurrence called?",
-        "modelAnswer": "The property of the angle bisectors of a triangle is that they are concurrent, meaning all three bisectors intersect at a single common point. This specific point of concurrence is called the incentre and is denoted by the letter 'I'. The incentre is always located in the interior of the triangle, regardless of the triangle's shape. Furthermore, the perpendicular distances from the incentre to all three sides of the triangle are exactly equal.",
+        "question": "Construct a 60° angle at point A on a line segment AB and justify why it is 60°.",
+        "modelAnswer": "(1) Draw ray AB. (2) With A as centre and any radius, draw an arc cutting AB at C. (3) With C as centre and same radius, draw an arc cutting the previous arc at D. (4) Join AD. Then ∠DAB is 60°. Reason: AC = AD = CD (same radius), so triangle ACD is equilateral, and each angle is 60°.",
         "keyPoints": [
-          "Angle bisectors of a triangle are concurrent.",
-          "The point of concurrence is called the incentre ('I').",
-          "The incentre is always in the interior of the triangle.",
-          "It is equidistant from all three sides of the triangle."
+          "Use equal radii to form an equilateral triangle.",
+          "Rule: each angle of an equilateral triangle is 60°.",
+          "Common mistake: changing compass opening between steps."
         ]
       },
       {
-        "id": "la4",
-        "question": "Explain the property of perpendicular bisectors of the sides of a triangle and define its point of concurrence.",
-        "modelAnswer": "The perpendicular bisectors of all three sides of a triangle are concurrent, meaning they intersect at exactly one point. This point of concurrence is known as the circumcentre of the triangle and is typically denoted by the letter 'C'. The location of the circumcentre can be inside, outside, or on the triangle depending on whether it is acute, obtuse, or right-angled. A key property is that the distance from the circumcentre to each of the triangle's three vertices is equal.",
+        "question": "Why must we keep the same compass width while copying an angle? Explain briefly.",
+        "modelAnswer": "While copying an angle, the first arc fixes distances from the vertex on both arms. Repeating the same arc radius at the new vertex recreates the same geometric positions. Then transferring the chord length between the two arc intersections reproduces the same opening, so the copied angle is congruent to the original angle.",
         "keyPoints": [
-          "Perpendicular bisectors of a triangle's sides are concurrent.",
-          "The point of concurrence is called the circumcentre ('C').",
-          "Its location varies depending on the type of triangle.",
-          "The circumcentre is equidistant from all three vertices."
-        ]
-      },
-      {
-        "id": "la5",
-        "question": "How can you verify that a drawn line is the perpendicular bisector of a given line segment?",
-        "modelAnswer": "To verify a perpendicular bisector, you must check two specific conditions at the point where it intersects the line segment. First, measure the angle formed at the intersection using a protractor; it must be exactly 90 degrees. Second, measure the length of the two segments created on the original line using a ruler or compass; they must be perfectly equal. If both the angle is right and the lengths are equal, the line is verified as a true perpendicular bisector.",
-        "keyPoints": [
-          "Verify two conditions: angle and segment lengths.",
-          "The angle of intersection must be exactly 90 degrees.",
-          "The distances from the intersection to the endpoints must be equal.",
-          "Use a protractor and ruler or compass for accurate verification."
+          "Angle copy depends on preserving arc radius and chord length.",
+          "Congruent arcs with equal chord subtend equal angles.",
+          "Common mistake: using a different arc radius in the second location."
         ]
       }
     ]

@@ -540,47 +540,39 @@
     ],
     "longAnswers": [
       {
-        "question": "Explain geometrically how the formula for the expansion of (x + y)² is derived.",
-        "answer": "The formula for (x + y)² can be derived by considering a square with side length (x + y). The total area of this large square is calculated as (x + y)². This square can be divided into four smaller regions: a square of area x², a square of area y², and two rectangles each having an area of xy. By summing the areas of these four distinct regions, we get the total area of the large square. This gives the expanded form x² + xy + xy + y², which simplifies to x² + 2xy + y².",
+        "question": "State and verify the identity (a+b)^2.",
+        "modelAnswer": "Identity: (a+b)^2 = a^2 + 2ab + b^2. Verification by expansion: (a+b)(a+b) = a(a+b)+b(a+b)=a^2+ab+ab+b^2=a^2+2ab+b^2.",
         "keyPoints": [
-          "Consider a square with a total side length of (x + y).",
-          "The total area of the square is (x + y)².",
-          "Divide the large square into two smaller squares and two rectangles.",
-          "Summing the areas of these parts gives x² + xy + xy + y².",
-          "Simplify to obtain the final formula x² + 2xy + y²."
+          "Square of sum identity is fixed pattern.",
+          "Middle term is 2ab.",
+          "Common mistake: writing a^2+b^2 only (missing 2ab)."
         ]
       },
       {
-        "question": "Show the algebraic derivation for the expansion of the square of a binomial (x + y)².",
-        "answer": "The expansion of (x + y)² is obtained by multiplying the binomial by itself algebraically. By applying the distributive property, we multiply each term in the first binomial by each term in the second binomial. This step-by-step multiplication results in the expression x(x + y) + y(x + y). Expanding further, we get x² + xy + yx + y². Finally, by combining the identical like terms xy and yx, we arrive at the standard formula x² + 2xy + y².",
+        "question": "Expand: (3x + 5)^2.",
+        "modelAnswer": "Using (a+b)^2 = a^2+2ab+b^2, with a=3x, b=5: (3x)^2 + 2(3x)(5) + 5^2 = 9x^2 + 30x + 25.",
         "keyPoints": [
-          "(x + y)² represents the product of (x + y) and (x + y).",
-          "Use the distributive property to multiply the terms: x(x + y) + y(x + y).",
-          "The expansion results in x² + xy + yx + y².",
-          "Combine the like terms (xy and yx) to complete the derivation.",
-          "The final algebraic formula is x² + 2xy + y²."
+          "Identify a and b correctly.",
+          "Compute middle term 2ab carefully.",
+          "Common mistake: writing middle term as 15x instead of 30x."
         ]
       },
       {
-        "question": "Describe the geometric method used to find the expansion formula for (a - b)².",
-        "answer": "To find the expansion of (a - b)² geometrically, we start with a large square of side 'a', which has a total area of a². This square is partitioned into four parts: a square of side (a - b), a square of side 'b', and two rectangles with sides (a - b) and 'b'. The area of the large square equals the sum of the areas of these four individual parts. By setting up the equation a² = (a - b)² + b(a - b) + b(a - b) + b² and rearranging the terms, we can isolate (a - b)². This simplification leads directly to the formula a² - 2ab + b².",
+        "question": "Expand and simplify: (2m − 7)^2.",
+        "modelAnswer": "Use (a−b)^2 = a^2 − 2ab + b^2. Here a=2m, b=7. So (2m−7)^2 = (2m)^2 − 2(2m)(7) + 7^2 = 4m^2 − 28m + 49.",
         "keyPoints": [
-          "Begin with a large square of side 'a' and total area a².",
-          "Partition it into a square of (a - b), a square of 'b', and two rectangles of (a - b) by 'b'.",
-          "Set the total area a² equal to the sum of the areas of the four parts.",
-          "Simplify the resulting equation to solve for the area (a - b)².",
-          "The final geometric derivation yields (a - b)² = a² - 2ab + b²."
+          "Square of difference has minus middle term.",
+          "Formula: (a−b)^2=a^2−2ab+b^2.",
+          "Common mistake: writing +28m in middle."
         ]
       },
       {
-        "question": "How is the algebraic formula for (a - b)² derived through multiplication?",
-        "answer": "The algebraic derivation of the formula (a - b)² involves multiplying the binomial (a - b) by itself. Using the distributive property of multiplication over subtraction, we write the product (a - b) × (a - b) as a(a - b) - b(a - b). Expanding this expression by multiplying the terms inside the parentheses yields a² - ab - ab + b². By carefully combining the similar middle terms -ab and -ab, we obtain the final expanded algebraic form of the square, which is a² - 2ab + b².",
+        "question": "Find product using identity: (x+4)(x−4).",
+        "modelAnswer": "Use (a+b)(a−b)=a^2−b^2. Taking a=x, b=4: (x+4)(x−4)=x^2−16.",
         "keyPoints": [
-          "Express (a - b)² as the algebraic product (a - b)(a - b).",
-          "Apply the distributive property to get a(a - b) - b(a - b).",
-          "Expand the expression to form a² - ab - ba + b².",
-          "Combine the identical negative terms -ab and -ba.",
-          "The simplified final result is a² - 2ab + b²."
+          "Difference of squares identity.",
+          "No middle term appears.",
+          "Common mistake: expanding and keeping an incorrect ±4x term."
         ]
       }
     ]

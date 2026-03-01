@@ -543,39 +543,39 @@
     ],
     "longAnswers": [
       {
-        "question": "Explain how the concept of debt is used to understand the multiplication of a negative integer by a positive integer.",
-        "answer": "The concept of debt is represented using a negative sign, such as borrowing money being shown as a negative value. If a person borrows a certain amount multiple times, the total debt is the sum of those negative amounts. For example, borrowing 5 rupees 3 times is (-5) + (-5) + (-5), which equals -15. This repeated addition of a negative number can be concisely written as the multiplication (-5) × 3 = -15, demonstrating that a negative integer multiplied by a positive integer results in a negative product.",
+        "question": "Explain why the product of two negative integers is positive using pattern.",
+        "modelAnswer": "Consider (-4)×3 = -12, (-4)×2 = -8, (-4)×1 = -4, (-4)×0 = 0. As the multiplier decreases by 1, product increases by 4. Continue pattern: (-4)×(-1)=4 and (-4)×(-2)=8. So negative × negative gives a positive result.",
         "keyPoints": [
-          "Debt is represented by a negative sign.",
-          "Repeated borrowing translates to the addition of negative integers.",
-          "Multiplying a negative integer by a positive integer gives a negative result."
+          "Use regular pattern in multiplication table.",
+          "Rule obtained: (-a)×(-b)=+ab.",
+          "Common mistake: assuming sign stays negative without checking pattern."
         ]
       },
       {
-        "question": "Describe the mathematical pattern observed when multiplying the negative integer (-4) by decreasing multipliers.",
-        "answer": "When multiplying (-4) by decreasing multipliers, a clear mathematical pattern emerges where the product increases by a fixed amount. For instance, we know (-4) × 1 = -4 and (-4) × 0 = 0. As the multiplier decreases by exactly one unit, the resulting product increases by 4. By extending this pattern to negative multipliers, (-4) × (-1) becomes 4 and (-4) × (-2) becomes 8. This pattern logically proves that the product of two negative integers is a positive integer.",
+        "question": "Find (−18) ÷ 3 and (−18) ÷ (−3). Explain sign rule.",
+        "modelAnswer": "(−18) ÷ 3 = −6 because signs are different (negative ÷ positive = negative). (−18) ÷ (−3) = 6 because signs are same (negative ÷ negative = positive). In both, 18 ÷ 3 = 6 for magnitude.",
         "keyPoints": [
-          "The product systematically increases as the multiplier decreases.",
-          "Decreasing the multiplier by one increases the product by 4 for the table of (-4).",
-          "The pattern shows that multiplying two negative integers results in a positive integer."
+          "First divide absolute values, then apply sign rule.",
+          "Same signs → positive; different signs → negative.",
+          "Common mistake: applying multiplication sign rule wrongly to division without checking signs."
         ]
       },
       {
-        "question": "How can we complete the multiplication table for (-5) for negative multipliers based on the established patterns?",
-        "answer": "To complete the multiplication table for (-5), we start with known base values and follow the pattern of increasing the product as the multiplier decreases. We know from basic rules that (-5) × 1 = -5 and (-5) × 0 = 0. As the multiplier decreases by 1, the product increases by exactly 5. Therefore, (-5) × (-1) will be 0 + 5, which equals 5. Continuing this established pattern, (-5) × (-2) = 10 and (-5) × (-3) = 15.",
+        "question": "A temperature drops by 3°C every hour for 5 hours. Represent with integers and find total change.",
+        "modelAnswer": "Drop per hour = −3°C. For 5 hours, total change = (−3)×5 = −15°C. So temperature decreases by 15°C overall.",
         "keyPoints": [
-          "Start with known base products like (-5) × 0 = 0.",
-          "As the multiplier decreases by 1, the product increases by 5.",
-          "Following the pattern confirms the product of two negative integers is positive."
+          "Decrease is represented by negative integer.",
+          "Repeated equal change uses multiplication.",
+          "Common mistake: writing +15 instead of −15."
         ]
       },
       {
-        "question": "Explain the relationship between repeated addition and the multiplication of negative integers with an example.",
-        "answer": "Multiplication is fundamentally a form of repeated addition, and this principle holds completely true for negative integers as well. When you add the identical negative number multiple times, it is equivalent to multiplying that negative number by the total number of times it was added. For example, the addition (-3) + (-3) + (-3) + (-3) means the number (-3) is taken 4 times. This can be written much more simply as the multiplication (-3) × 4, which results in -12.",
+        "question": "Write 98 ÷ (−28) as a simplified fraction.",
+        "modelAnswer": "98 ÷ (−28) = 98/(−28) = −98/28. Divide numerator and denominator by 14: −98/28 = −7/2. So the simplified fraction is −7/2.",
         "keyPoints": [
-          "Multiplication functions as a form of repeated addition.",
-          "Adding a negative number multiple times is identical to multiplying it by a positive integer.",
-          "The expression (-3) taken 4 times equals (-3) × 4 = -12."
+          "Denominator is kept positive in final form.",
+          "Simplify using HCF (14).",
+          "Common mistake: leaving answer as 7/2 without negative sign."
         ]
       }
     ]

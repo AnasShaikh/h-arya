@@ -544,43 +544,39 @@
     ],
     "longAnswers": [
       {
-        "question": "If the length and breadth of a rectangle are doubled, how many times the perimeter of the old rectangle will that of the new rectangle be?",
-        "answer": "Let the original length of the rectangle be 'l' and the original breadth be 'b'. The perimeter of this original rectangle is given by the formula 2(l + b). If both the length and breadth are doubled, the new length becomes 2l and the new breadth becomes 2b. The perimeter of the new rectangle is then calculated as 2(2l + 2b), which simplifies to 4(l + b). By comparing the two perimeters, we can see that 4(l + b) is exactly twice the value of 2(l + b), meaning the new perimeter will be two times the original perimeter.",
+        "question": "Differentiate perimeter and area with units.",
+        "modelAnswer": "Perimeter is total boundary length of a closed figure, measured in linear units (cm, m). Area is surface covered inside the figure, measured in square units (cm², m²).",
         "keyPoints": [
-          "The formula for the perimeter of a rectangle is 2 × (length + breadth).",
-          "Doubling the dimensions changes the length to 2l and the breadth to 2b.",
-          "The new perimeter is 2 × (2l + 2b) = 4(l + b).",
-          "The new perimeter is exactly 2 times the perimeter of the old rectangle."
+          "Perimeter: boundary length; Area: enclosed region.",
+          "Units differ: linear vs square.",
+          "Common mistake: writing area in cm instead of cm²."
         ]
       },
       {
-        "question": "If the side of a square is tripled, how many times the perimeter of the first square will that of the new square be?",
-        "answer": "Let the side length of the original square be denoted as 'a'. The perimeter of this original square is calculated as 4a. When the side of the square is tripled, the new side length becomes 3a. To find the perimeter of this new square, we multiply the new side length by 4, giving 4 × (3a) = 12a. Since 12a is three times the original perimeter of 4a, the perimeter of the new square will be exactly three times that of the first square.",
+        "question": "Find perimeter and area of a rectangle of length 12 cm and breadth 8 cm.",
+        "modelAnswer": "Perimeter P = 2(l+b)=2(12+8)=40 cm. Area A = l×b = 12×8 = 96 cm².",
         "keyPoints": [
-          "The perimeter of a square is determined by the formula 4 × side.",
-          "Tripling the side length changes the side dimension from 'a' to '3a'.",
-          "The perimeter of the new square is calculated as 4 × 3a = 12a.",
-          "The ratio of the new perimeter to the old one is 12a / 4a = 3, so it is 3 times larger."
+          "Rectangle formulas: P=2(l+b), A=l×b.",
+          "Substitute dimensions correctly.",
+          "Common mistake: using 2lb for perimeter."
         ]
       },
       {
-        "question": "Given alongside is the diagram of a playground. It shows the length of its sides. Find the perimeter of the playground.",
-        "answer": "To find the perimeter of the playground, we must calculate the total length of its outer boundary. In a rectilinear shape where opposite sides are parallel, the sum of the broken segments on one side equals the length of the continuous opposite side. If the top continuous side is 15m, the opposite bottom horizontal segments also sum up to 15m. Similarly, if the left continuous side is 15m, the right vertical segments sum up to 15m. Therefore, the total perimeter is equivalent to a bounding rectangle of 15m by 15m, which is calculated as 15 + 15 + 15 + 15 = 60 meters.",
+        "question": "A square park has side 15 m. Find its perimeter and area.",
+        "modelAnswer": "For square, perimeter P = 4a = 4×15 = 60 m. Area A = a^2 = 15^2 = 225 m².",
         "keyPoints": [
-          "Perimeter is defined as the sum of all the outer side lengths of a closed figure.",
-          "For rectilinear shapes, parallel segments opposite to a full side sum up to the length of that full side.",
-          "The sum of all horizontal lengths is 15m + 15m = 30m, and the sum of all vertical lengths is 15m + 15m = 30m.",
-          "Adding these together gives a total perimeter of 60 meters."
+          "Square formulas: P=4a, A=a^2.",
+          "Same side used for all edges.",
+          "Common mistake: writing area as 15×4."
         ]
       },
       {
-        "question": "As shown in the figure, four napkins all of the same size were made from a square piece of cloth of length 1 m. What length of lace will be required to trim all four sides of all the napkins?",
-        "answer": "A square piece of cloth with a side length of 1 meter is cut into four identical smaller square napkins. This is done by cutting the square perfectly in half both horizontally and vertically, resulting in four smaller squares each having a side length of 0.5 meters. To find the lace required for one napkin, we calculate its perimeter: 4 × 0.5m = 2 meters. Since there are four identical napkins that need to be trimmed with lace on all sides, the total length of lace required is 4 napkins × 2 meters/napkin = 8 meters.",
+        "question": "A rectangular field is 25 m by 18 m. It is fenced with 3 rounds of wire. How much wire is needed?",
+        "modelAnswer": "One round of fencing = perimeter = 2(25+18)=2×43=86 m. For 3 rounds, wire needed = 3×86 = 258 m.",
         "keyPoints": [
-          "Cutting a 1m by 1m square into four identical squares yields smaller squares with 0.5m sides.",
-          "The perimeter of each small square napkin is calculated as 4 × 0.5m = 2m.",
-          "There are four identical napkins in total that require lace.",
-          "The total length of lace needed is 4 × 2m = 8 meters."
+          "Word problems on fencing use perimeter.",
+          "Multiply by number of rounds.",
+          "Common mistake: calculating area instead of perimeter."
         ]
       }
     ]

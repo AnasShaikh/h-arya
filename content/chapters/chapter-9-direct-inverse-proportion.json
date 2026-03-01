@@ -543,76 +543,40 @@
     ],
     "longAnswers": [
       {
-        "id": "la1",
-        "question": "If 7 kg onions cost ₹140, how much will 12 kg cost?",
-        "modelAnswer": "Answer: Direct proportion: 7/140 = 12/x → 7x = 1680 → x = ₹240\nThis question belongs to the chapter \"Direct and Inverse Proportion\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Differentiate direct proportion and inverse proportion with one example each.",
+        "modelAnswer": "In direct proportion, as one quantity increases, the other also increases in the same ratio (x/y constant). Example: cost and number of notebooks (same price). In inverse proportion, as one increases, the other decreases so product is constant (xy constant). Example: number of workers and days for same work.",
         "keyPoints": [
-          "Direct response: Direct proportion: 7/140 = 12/x → 7x = 1680 → x = ₹240",
-          "Concept link: Direct and Inverse Proportion (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Direct: y/x constant; Inverse: x×y constant.",
+          "Choose relation from real context.",
+          "Common mistake: treating all ‘increase-decrease’ cases as inverse without checking constancy."
+        ]
       },
       {
-        "id": "la2",
-        "question": "5 workers take 12 days to weed a field. How many days would 6 workers take?",
-        "modelAnswer": "Answer: Inverse proportion: 5×12 = 6×x → 60 = 6x → x = 10 days\nThis question belongs to the chapter \"Direct and Inverse Proportion\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "If 5 notebooks cost ₹60, find cost of 8 notebooks (same rate).",
+        "modelAnswer": "Cost is directly proportional to number of notebooks. Unit cost = 60/5 = ₹12. Cost of 8 notebooks = 8×12 = ₹96.",
         "keyPoints": [
-          "Direct response: Inverse proportion: 5×12 = 6×x → 60 = 6x → x = 10 days",
-          "Concept link: Direct and Inverse Proportion (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Direct proportion: cost/quantity is constant.",
+          "Find unitary value first.",
+          "Common mistake: using inverse proportion here."
+        ]
       },
       {
-        "id": "la3",
-        "question": "5 workers take 12 days. How many workers needed to finish in 4 days?",
-        "modelAnswer": "Answer: Inverse: 5×12 = x×4 → 60 = 4x → x = 15 workers\nThis question belongs to the chapter \"Direct and Inverse Proportion\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "12 workers complete a job in 15 days. How many days will 20 workers take (same efficiency)?",
+        "modelAnswer": "Workers and days are inversely proportional. Workers×days = constant. 12×15 = 20×d. So d = 180/20 = 9 days.",
         "keyPoints": [
-          "Direct response: Inverse: 5×12 = x×4 → 60 = 4x → x = 15 workers",
-          "Concept link: Direct and Inverse Proportion (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "For fixed work: W1D1 = W2D2.",
+          "More workers means fewer days.",
+          "Common mistake: multiplying instead of dividing at final step."
+        ]
       },
       {
-        "id": "la4",
-        "question": "Jhelum invested ₹2100, Atharva ₹2800. Total profit is ₹3500. What is Atharva's share?",
-        "modelAnswer": "Answer: Ratio 2100:2800 = 3:4. Total parts = 7. Atharva's share = 4/7 × 3500 = ₹2000.\nThis question belongs to the chapter \"Direct and Inverse Proportion\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "A car travels 180 km at 60 km/h. If speed becomes 90 km/h, find time. Explain relation.",
+        "modelAnswer": "For fixed distance, speed and time are inversely proportional. Time at 60 km/h = 180/60 = 3 h. At 90 km/h, time = 180/90 = 2 h. So time decreases from 3 h to 2 h.",
         "keyPoints": [
-          "Direct response: Ratio 2100:2800 = 3:4. Total parts = 7. Atharva's share = 4/7 × 3500 = ₹2000.",
-          "Concept link: Direct and Inverse Proportion (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 5
-      },
-      {
-        "id": "la5",
-        "question": "Grain stock lasts 30 days for 4000 people. How many days for 6000 people?",
-        "modelAnswer": "Answer: Inverse: 4000×30 = 6000×x → 120000 = 6000x → x = 20 days\nThis question belongs to the chapter \"Direct and Inverse Proportion\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
-        "keyPoints": [
-          "Direct response: Inverse: 4000×30 = 6000×x → 120000 = 6000x → x = 20 days",
-          "Concept link: Direct and Inverse Proportion (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 5
-      },
-      {
-        "id": "la6",
-        "question": "Two mobiles cost ₹16,000. How much for 13 such mobiles?",
-        "modelAnswer": "Answer: Direct proportion: 2/16000 = 13/x → 2x = 208000 → x = ₹1,04,000\nThis question belongs to the chapter \"Direct and Inverse Proportion\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
-        "keyPoints": [
-          "Direct response: Direct proportion: 2/16000 = 13/x → 2x = 208000 → x = ₹1,04,000",
-          "Concept link: Direct and Inverse Proportion (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 5
+          "Distance = speed × time.",
+          "For constant distance, speed×time is constant.",
+          "Common mistake: saying speed and time are directly proportional."
+        ]
       }
     ]
   }

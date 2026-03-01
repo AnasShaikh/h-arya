@@ -540,77 +540,40 @@
     ],
     "longAnswers": [
       {
-        "id": "la1",
-        "question": "The diameter of a circle is 14 cm. What is its circumference? (π = 22/7)",
-        "modelAnswer": "The circumference of a circle is the total distance around its edge. To calculate the circumference when the diameter is given, we use the formula c = πd. Substituting the given values, we get c = (22/7) × 14. Simplifying this by dividing 14 by 7 gives 2, and 22 × 2 equals 44 cm. Therefore, the circumference of the circle is 44 cm.",
+        "question": "Define radius, diameter, chord and arc of a circle.",
+        "modelAnswer": "Radius is a segment from centre to any point on circle. Diameter is a chord through centre and equals 2×radius. A chord joins any two points on circle. An arc is a part of circumference between two points.",
         "keyPoints": [
-          "Circumference is the total boundary distance of a circle.",
-          "The formula used is c = πd.",
-          "Substituting d = 14 and π = 22/7 gives (22/7) × 14.",
-          "The final calculated circumference is 44 cm."
-        ],
-        "marks": 3
+          "Diameter is the longest chord.",
+          "Relation: d = 2r.",
+          "Common mistake: calling every chord a diameter."
+        ]
       },
       {
-        "id": "la2",
-        "question": "The radius of a circle is 35 cm. What is its circumference? (π = 22/7)",
-        "modelAnswer": "The circumference can be calculated using the circle's radius with the formula c = 2πr. In this problem, the radius (r) is given as 35 cm and π is taken as 22/7. Plugging these values into the formula gives c = 2 × (22/7) × 35. Dividing 35 by 7 gives 5, and multiplying 2 × 22 × 5 results in 220 cm. This means the total distance around the circle is 220 cm.",
+        "question": "If radius of a circle is 7 cm, find diameter and circumference (use π = 22/7).",
+        "modelAnswer": "Diameter d = 2r = 14 cm. Circumference C = 2πr = 2×(22/7)×7 = 44 cm.",
         "keyPoints": [
-          "Use the formula c = 2πr when the radius is known.",
-          "Substitute r = 35 and π = 22/7 into the equation.",
-          "Simplify the expression: 2 × (22/7) × 35 = 220.",
-          "The circumference of the given circle is 220 cm."
-        ],
-        "marks": 3
+          "Use d=2r and C=2πr.",
+          "Cancel 7 while computing with 22/7.",
+          "Common mistake: using C=πr^2 (that is area formula)."
+        ]
       },
       {
-        "id": "la3",
-        "question": "If circumference is 176 cm, what is the radius? (π = 22/7)",
-        "modelAnswer": "To find the radius of a circle when its circumference is known, we rearrange the formula c = 2πr. This gives us r = c / (2π). Substituting the given circumference of 176 cm and π = 22/7, the equation becomes 176 = 2 × (22/7) × r. Solving for r, we multiply 176 by 7 and divide by 44 (which is 2 × 22). This calculation yields a radius of 28 cm.",
+        "question": "A chord is 6 cm from the centre of a circle of radius 10 cm. Find length of chord.",
+        "modelAnswer": "Perpendicular from centre to chord bisects the chord. Let half-chord = x. In right triangle: x^2 + 6^2 = 10^2. So x^2 = 100−36 = 64, x=8. Chord length = 2x = 16 cm.",
         "keyPoints": [
-          "The relationship between circumference and radius is c = 2πr.",
-          "Substitute the known circumference (176 cm) into the formula.",
-          "Rearrange the equation to solve for the unknown radius (r).",
-          "The calculated radius is 28 cm."
-        ],
-        "marks": 3
+          "Perpendicular from centre bisects chord.",
+          "Apply Pythagoras theorem in formed right triangle.",
+          "Common mistake: taking chord as 8 cm instead of 16 cm."
+        ]
       },
       {
-        "id": "la4",
-        "question": "Arc AXB and arc AYB are corresponding arcs. m(arc AXB) = 120°. What is m(arc AYB)?",
-        "modelAnswer": "Corresponding arcs are two arcs that together form a complete circle. The total measure of a complete circle is always 360°. To find the measure of the major arc AYB, we must subtract the measure of the minor arc AXB from 360°. Since m(arc AXB) is 120°, we calculate 360° - 120°, which equals 240°. Thus, the measure of the corresponding major arc AYB is 240°.",
+        "question": "Explain why equal chords in the same circle are equidistant from the centre.",
+        "modelAnswer": "Take two equal chords AB and CD. Draw perpendiculars from centre O to AB and CD meeting at M and N. Perpendicular from centre bisects each chord, so AM=MB and CN=ND. Since AB=CD, their halves are equal: AM=CN. Also OA=OC (radii). In right triangles OMA and ONC, hypotenuse and one side are equal, so OM=ON. Thus equal chords are equidistant from the centre.",
         "keyPoints": [
-          "Corresponding arcs together make a full circle measuring 360°.",
-          "The measure of a major arc is 360° minus the measure of its corresponding minor arc.",
-          "Subtract the given minor arc measure (120°) from 360°.",
-          "The measure of the major arc AYB is 240°."
-        ],
-        "marks": 5
-      },
-      {
-        "id": "la5",
-        "question": "The measure of a minor arc is 110°. What is the measure of the major arc PYQ?",
-        "modelAnswer": "A minor arc and its corresponding major arc together complete a full circle, which measures 360°. The measure of a major arc is calculated by subtracting the measure of the minor arc from 360°. In this case, the minor arc measures 110°. Subtracting 110° from 360° yields 250°. Therefore, the measure of the major arc PYQ is 250°.",
-        "keyPoints": [
-          "A full circle always measures 360 degrees.",
-          "Major arc measure = 360° - minor arc measure.",
-          "Substitute the minor arc value: 360° - 110°.",
-          "The resulting measure for the major arc PYQ is 250°."
-        ],
-        "marks": 5
-      },
-      {
-        "id": "la6",
-        "question": "A wheel has diameter 0.7 m. How many rotations to travel 22 km?",
-        "modelAnswer": "The distance a wheel covers in one rotation is exactly equal to its circumference. First, we find the circumference using c = πd, which gives (22/7) × 0.7 = 2.2 meters. Next, we convert the total distance of 22 km into meters, resulting in 22,000 meters. To find the number of rotations, we divide the total distance by the circumference (22,000 ÷ 2.2). This calculation shows that the wheel must make 10,000 rotations to cover the entire distance.",
-        "keyPoints": [
-          "One full rotation of a wheel equals its circumference.",
-          "Calculate the circumference: c = πd = (22/7) × 0.7 = 2.2 m.",
-          "Convert the total travel distance to meters: 22 km = 22,000 m.",
-          "Number of rotations = Total distance ÷ Circumference.",
-          "The wheel requires 10,000 rotations to travel 22 km."
-        ],
-        "marks": 5
+          "Use property: perpendicular from centre bisects chord.",
+          "Compare right triangles using equal radii.",
+          "Common mistake: assuming statement true without geometric justification."
+        ]
       }
     ]
   }

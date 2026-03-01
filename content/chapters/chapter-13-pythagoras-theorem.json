@@ -536,64 +536,40 @@
     ],
     "longAnswers": [
       {
-        "id": "la1",
-        "question": "In △ABC, ∠C = 90°, l(AC) = 5 cm and l(BC) = 12 cm. What is l(AB)?",
-        "modelAnswer": "According to Pythagoras Theorem, in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. Here, △ABC is a right-angled triangle with ∠C = 90°, so AB is the hypotenuse. Therefore, l(AB)² = l(AC)² + l(BC)² = 5² + 12² = 25 + 144 = 169. Taking the square root of both sides, we get l(AB) = 13 cm.",
+        "question": "State Pythagoras theorem and identify hypotenuse.",
+        "modelAnswer": "In a right-angled triangle, square of hypotenuse equals sum of squares of other two sides: c^2 = a^2 + b^2. Hypotenuse is the side opposite the right angle and is always the longest side.",
         "keyPoints": [
-          "Apply Pythagoras theorem: hypotenuse² = base² + height².",
-          "Identify AB as the hypotenuse since it is opposite to ∠C (90°).",
-          "Substitute the given values: 5² + 12² = 169.",
-          "Find the square root to get l(AB) = 13 cm."
-        ],
-        "marks": 3
+          "Formula: c^2=a^2+b^2.",
+          "Hypotenuse opposite 90° angle.",
+          "Common mistake: using theorem in non-right triangles."
+        ]
       },
       {
-        "id": "la2",
-        "question": "A ladder of 15m reaches a window 9m above the ground. What is the base distance?",
-        "modelAnswer": "Let the ladder form the hypotenuse of a right-angled triangle with the wall and the ground. The length of the ladder (hypotenuse) is 15m and the height of the window from the ground is 9m. According to Pythagoras Theorem, base² + height² = hypotenuse², which gives base² + 9² = 15². Therefore, base² = 225 - 81 = 144, meaning the base distance from the wall is 12m.",
+        "question": "Find hypotenuse when the other two sides are 9 cm and 12 cm.",
+        "modelAnswer": "c^2 = 9^2 + 12^2 = 81 + 144 = 225. So c = √225 = 15 cm.",
         "keyPoints": [
-          "Represent the situation as a right-angled triangle.",
-          "The ladder acts as the hypotenuse (15m) and the wall as the height (9m).",
-          "Use Pythagoras theorem to find the missing side: base² = 15² - 9².",
-          "Calculate the square root of 144 to find that the base distance is 12m."
-        ],
-        "marks": 3
+          "Add squares of perpendicular sides.",
+          "Take positive square root for length.",
+          "Common mistake: 9+12=21 (without squaring)."
+        ]
       },
       {
-        "id": "la3",
-        "question": "In △LMN, ∠M = 90°, l(LM) = 12cm and l(LN) = 20 cm. What is l(MN)?",
-        "modelAnswer": "In the right-angled △LMN, ∠M = 90°, making LN the hypotenuse. By Pythagoras Theorem, the square of the hypotenuse equals the sum of squares of the other two sides: l(LN)² = l(LM)² + l(MN)². Substituting the given values, 20² = 12² + l(MN)², which gives 400 = 144 + l(MN)². Therefore, l(MN)² = 400 - 144 = 256, and taking the square root gives l(MN) = 16 cm.",
+        "question": "In a right triangle, hypotenuse is 13 cm and one side is 5 cm. Find the other side.",
+        "modelAnswer": "Let unknown side = b. Using c^2 = a^2 + b^2: 13^2 = 5^2 + b^2. So 169 = 25 + b^2, hence b^2 = 144, b = 12 cm.",
         "keyPoints": [
-          "Identify LN as the hypotenuse since it is opposite the 90° angle.",
-          "State Pythagoras theorem: l(LN)² = l(LM)² + l(MN)².",
-          "Substitute known values to get 20² = 12² + l(MN)².",
-          "Solve for l(MN) by taking the square root of 256 to get 16 cm."
-        ],
-        "marks": 3
+          "Unknown side found by subtraction from c^2.",
+          "b^2 = c^2 − a^2.",
+          "Common mistake: subtracting 13−5 directly."
+        ]
       },
       {
-        "id": "la4",
-        "question": "In ∆PQR, ∠P = 90°, l(PQ) = 24cm, l(PR) = 10cm. What is l(QR)?",
-        "modelAnswer": "For the right-angled ∆PQR with ∠P = 90°, QR is the hypotenuse. According to Pythagoras Theorem, the square of the hypotenuse equals the sum of the squares of the other two sides, so l(QR)² = l(PQ)² + l(PR)². Substituting the given lengths, l(QR)² = 24² + 10² = 576 + 100 = 676. Taking the square root of both sides, we find that l(QR) = 26 cm.",
+        "question": "A ladder 10 m long reaches a window 8 m high. How far is ladder foot from wall?",
+        "modelAnswer": "Model as right triangle: ladder = hypotenuse c=10, wall height a=8, ground distance b unknown. b^2 = c^2−a^2 = 10^2−8^2 = 100−64 = 36. So b = 6 m.",
         "keyPoints": [
-          "Recognize QR as the hypotenuse opposite to ∠P.",
-          "Apply Pythagoras theorem: l(QR)² = l(PQ)² + l(PR)².",
-          "Calculate the sum of squares: 24² + 10² = 676.",
-          "Find the square root to determine l(QR) = 26 cm."
-        ],
-        "marks": 5
-      },
-      {
-        "id": "la5",
-        "question": "Do the lengths 9 cm, 40 cm, and 41 cm form a right-angled triangle?",
-        "modelAnswer": "In any triangle, if the square of the longest side equals the sum of the squares of the other two sides, the triangle is right-angled. Here, the longest side is 41 cm, and its square is 41² = 1681. The sum of the squares of the other two sides is 9² + 40² = 81 + 1600 = 1681. Since 1681 = 1681, the sides form a Pythagorean triplet, confirming it is a right-angled triangle.",
-        "keyPoints": [
-          "Identify the longest side as the potential hypotenuse.",
-          "Calculate the square of the longest side (41² = 1681).",
-          "Calculate the sum of the squares of the other two sides (9² + 40² = 1681).",
-          "Compare the results to verify if they are equal, proving it is a right-angled triangle."
-        ],
-        "marks": 4
+          "Real-life right triangle application.",
+          "Use c^2=a^2+b^2 with correct side roles.",
+          "Common mistake: taking wall height as hypotenuse."
+        ]
       }
     ]
   }

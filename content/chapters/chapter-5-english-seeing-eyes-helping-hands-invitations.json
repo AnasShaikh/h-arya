@@ -492,58 +492,73 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What is the 'Seeing Eyes, Helping Hands' project about, as described in the chapter?",
-        "modelAnswer": "'Seeing Eyes, Helping Hands' is a special school project aimed at assisting those in need within the community. Through this initiative, students volunteer to help visually impaired individuals and others facing difficulties with their daily tasks. The project's inauguration is a significant event that requires inviting various guests and dignitaries. It teaches students important values like empathy, social responsibility, and the joy of helping others.",
+        "question": "Write in brief: What is the “Seeing Eyes, Helping Hands” project and why is it socially important?",
+        "modelAnswer": "“Seeing Eyes, Helping Hands” is a student-led service project focused on assisting visually challenged and other people who need support in daily activities and learning access. It encourages students to move from sympathy to practical help through organised volunteer action. The project is socially important because it builds inclusion, dignity, and community responsibility while developing empathy among young learners.",
         "keyPoints": [
-          "A school project to assist people in need.",
-          "Students volunteer to help visually impaired individuals.",
-          "The inauguration is a major event requiring invitations.",
-          "Teaches empathy and social responsibility."
-        ]
+          "Project combines awareness with practical assistance.",
+          "Promotes inclusion and dignity for vulnerable groups.",
+          "Develops student empathy and civic responsibility."
+        ],
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "Describe the features of a formal printed invitation used for the project's inauguration.",
-        "modelAnswer": "A formal printed invitation is used for special official occasions like the inauguration of the 'Seeing Eyes, Helping Hands' project. It includes essential details such as the names of the organizers, the event title, the inaugurator, and the person presiding over the function. The invitation also clearly states the exact time, date, and venue of the programme. These formal cards are printed and distributed to guests well in advance to ensure their presence.",
+        "question": "Design task: Describe the essential parts of a formal printed invitation for a school inauguration event.",
+        "modelAnswer": "A formal printed invitation should include host/institution name, purpose of event, chief guest details, date, day, time, venue, and RSVP/contact information. The language must be respectful and concise, with proper alignment and readability. Design elements should remain neat and restrained, matching the formal tone. Correct sequencing of information ensures guests can respond and attend without confusion.",
         "keyPoints": [
-          "Used for official occasions like inaugurations.",
-          "Includes names of organizers, inaugurator, and presiding person.",
-          "Clearly states the exact date, time, and venue.",
-          "Printed and distributed to guests in advance."
-        ]
+          "Must include core event details and host identity.",
+          "Polite formal language and clear layout are essential.",
+          "RSVP/contact details improve response management.",
+          "Visual style should support formality and clarity."
+        ],
+        "marks": 6
       },
       {
         "id": "la3",
-        "question": "How does a written notice differ from a formal printed invitation?",
-        "modelAnswer": "A written notice is a shorter and simpler form of an invitation compared to a formal printed card. It is usually displayed publicly on a school or office notice board to announce an event to students and staff. While it includes the core details like the event name, date, time, and venue, it lacks the detailed formalities and elaborate design of a printed card. A notice is signed by an authority figure like the Principal or a teacher to validate the information.",
+        "question": "Differentiate: Notice writing and formal invitation writing (purpose, audience, tone, format).",
+        "modelAnswer": "A notice is a brief public information text, usually displayed for a broad group in schools or institutions. It is direct, compact, and utility-focused. A formal invitation is an event-specific communication addressed to invitees with courteous language and ceremonial tone. Notices prioritize quick information display; invitations prioritize respectful hosting and guest participation. Their structure, style, and social function are therefore different.",
         "keyPoints": [
-          "Shorter and simpler than a printed invitation.",
-          "Displayed publicly on notice boards for students and staff.",
-          "Contains core details but lacks elaborate formalities.",
-          "Signed by an authority figure to validate the information."
-        ]
+          "Notice: brief, public, information-first format.",
+          "Invitation: courteous, event-focused, guest-oriented format.",
+          "Differences in tone, audience targeting, and presentation.",
+          "Both require accuracy but serve distinct communication goals."
+        ],
+        "marks": 6
       },
       {
         "id": "la4",
-        "question": "What are the important points to remember while making an oral telephone invitation?",
-        "modelAnswer": "When giving an oral telephone invitation, it is essential to first introduce yourself politely and state the reason for calling. You must speak clearly and provide all the necessary details, including the name of the event, the time, and the venue. It is also important to request the person's presence warmly and respectfully. Finally, before ending the call, you should politely confirm whether the guest will be able to attend the programme.",
+        "question": "Write guidelines for making an effective oral telephone invitation for a school programme.",
+        "modelAnswer": "An effective telephone invitation begins with polite self-introduction and confirmation that the receiver can talk. The caller should clearly state event purpose, date, time, venue, and the role expected from the invitee. Voice should be clear, respectful, and not rushed. It is important to confirm understanding, answer queries briefly, and end with thanks. Oral invitations succeed when clarity and courtesy are balanced.",
         "keyPoints": [
-          "Introduce yourself politely and state the reason for calling.",
-          "Clearly provide the event name, time, and venue.",
-          "Warmly request the person's presence.",
-          "Confirm whether the guest will be able to attend."
-        ]
+          "Begin with identity and polite context-setting.",
+          "Give complete event details clearly and confidently.",
+          "Maintain respectful tone and confirm key information.",
+          "Close courteously with appreciation."
+        ],
+        "marks": 5
       },
       {
         "id": "la5",
-        "question": "What are the different punctuation marks discussed in the chapter, and how are they used?",
-        "modelAnswer": "The chapter highlights the importance of using correct punctuation marks to make sentences clear and understandable. A full stop is used at the end of a complete statement, while a comma separates items in a list or pauses a sentence. A question mark is placed at the end of a question, and an exclamation mark is used to show strong feelings or emotions. Additionally, a hyphen connects parts of a compound word, and a dash is used to add extra information or indicate a pause.",
+        "question": "Language study: Explain the role of punctuation marks in formal communication with examples.",
+        "modelAnswer": "Punctuation marks organize meaning and prevent ambiguity in written communication. Full stops complete statements, commas separate units, colons introduce lists/details, and question marks indicate inquiry. In formal writing, correct punctuation improves readability, professionalism, and accuracy. For example, a wrongly placed comma can change meaning, while proper punctuation makes notices and invitations clear and reliable.",
         "keyPoints": [
-          "Full stop ends a statement, and a comma separates items.",
-          "Question mark ends a question.",
-          "Exclamation mark shows strong feelings or emotions.",
-          "Hyphen connects compound words, and a dash adds information."
-        ]
+          "Punctuation shapes clarity and sentence structure.",
+          "Different marks serve different functional purposes.",
+          "Correct punctuation is essential in formal writing.",
+          "Improves precision and professionalism of communication."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Reflective writing: What values do students gain by planning and inviting people for social-service events?",
+        "modelAnswer": "Planning and inviting for social-service events teaches responsibility, teamwork, respectful communication, and time management. Students learn to think from others’ perspective and present information clearly. They also understand that social change needs organisation, not only good intentions. Such activities transform classroom learning into civic action and character development.",
+        "keyPoints": [
+          "Builds communication and organizational skills.",
+          "Promotes empathy, cooperation, and accountability.",
+          "Connects school learning with real social contribution."
+        ],
+        "marks": 5
       }
     ]
   }

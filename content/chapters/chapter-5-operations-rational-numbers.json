@@ -534,63 +534,40 @@
     ],
     "longAnswers": [
       {
-        "id": "la1",
-        "question": "5/36 + 6/42 = ?",
-        "modelAnswer": "5/36 + 6/42 = ?\n\n- Define the concept in textbook terms.\n- Explain with key characteristics.\n- Add one relevant example.",
+        "question": "Explain why we take LCM of denominators while adding rational numbers.",
+        "modelAnswer": "Rational numbers can be added only when they have equal-sized parts (same denominator). Taking LCM gives the smallest common denominator, so each fraction is converted to equivalent fractions with equal parts. Then numerators are added and denominator remains common.",
         "keyPoints": [
-          "Define the concept in textbook terms.",
-          "Explain with key characteristics.",
-          "Add one relevant example."
-        ],
-        "marks": 3
+          "Convert to like denominators before addition/subtraction.",
+          "Use least common denominator (LCM) for efficiency.",
+          "Common mistake: adding denominators directly."
+        ]
       },
       {
-        "id": "la2",
-        "question": "The multiplicative inverse of 2/5 is _____.",
-        "modelAnswer": "Answer: The multiplicative inverse of p/q is q/p. Inverse of 2/5 is 5/2.\nThis question belongs to the chapter \"Operations on Rational Numbers\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Find: 3/4 + (−5/6).",
+        "modelAnswer": "LCM of 4 and 6 is 12. Convert: 3/4 = 9/12, −5/6 = −10/12. Add numerators: 9 + (−10) = −1. So result = −1/12.",
         "keyPoints": [
-          "Direct response: The multiplicative inverse of p/q is q/p. Inverse of 2/5 is 5/2.",
-          "Concept link: Operations on Rational Numbers (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Find LCM of denominators first.",
+          "Add signed numerators carefully.",
+          "Common mistake: ignoring negative sign of second fraction."
+        ]
       },
       {
-        "id": "la3",
-        "question": "The group of integers is closed for which operations?",
-        "modelAnswer": "Answer: Integers are closed for +, -, × but NOT for ÷ (e.g., 3÷5 = 3/5 is not an integer).\nThis question belongs to the chapter \"Operations on Rational Numbers\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Evaluate: (−7/9) × (18/21). Simplify.",
+        "modelAnswer": "(−7/9)×(18/21). Cancel common factors: 18/9=2 and 21/7=3. So result = −(1×2)/(1×3)=−2/3.",
         "keyPoints": [
-          "Direct response: Integers are closed for +, -, × but NOT for ÷ (e.g., 3÷5 = 3/5 is not an integer).",
-          "Concept link: Operations on Rational Numbers (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Cross-cancellation simplifies multiplication.",
+          "Sign rule: negative × positive = negative.",
+          "Common mistake: canceling terms after addition/subtraction (allowed only in multiplication/division)."
+        ]
       },
       {
-        "id": "la4",
-        "question": "Write 7/4 in decimal form.",
-        "modelAnswer": "Answer: 7÷4 = 1.75. This is a terminating decimal (remainder becomes 0).\nThis question belongs to the chapter \"Operations on Rational Numbers\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Compute: (5/8) ÷ (−15/16).",
+        "modelAnswer": "Division by a fraction means multiply by reciprocal. (5/8) ÷ (−15/16) = (5/8)×(16/−15). Cancel: 16/8=2, 5/15=1/3. Result = (1×2)/(1×−3)=−2/3.",
         "keyPoints": [
-          "Direct response: 7÷4 = 1.75. This is a terminating decimal (remainder becomes 0).",
-          "Concept link: Operations on Rational Numbers (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 5
-      },
-      {
-        "id": "la5",
-        "question": "The decimal form of 5/3 is _____.",
-        "modelAnswer": "Answer: 5÷3 = 1.666... = 1.6̄ (recurring decimal, 6 repeats endlessly).\nThis question belongs to the chapter \"Operations on Rational Numbers\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
-        "keyPoints": [
-          "Direct response: 5÷3 = 1.666... = 1.6̄ (recurring decimal, 6 repeats endlessly).",
-          "Concept link: Operations on Rational Numbers (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 5
+          "a/b ÷ c/d = a/b × d/c.",
+          "Take reciprocal of divisor only.",
+          "Common mistake: not flipping the second fraction."
+        ]
       }
     ]
   }

@@ -36,3 +36,10 @@
 2026-03-01: Refined English Ch22 (The Red-Headed League) long-answer set to textbook-workshop prompts; science audit green and live QA pass.
 2026-03-01: Refined English Ch24 (Seeing Eyes Helping Hands - Letters) long-answer set to textbook-workshop prompts; science audit green and live QA pass.
 2026-03-01: Refined English Ch13 (Great Scientists) long-answer set to textbook-workshop prompts; science audit green and live QA pass.
+2026-03-01: Refined English Ch25 (Papa Panov’s Special Christmas) long-answer set to textbook-workshop prompts; science audit green and live QA pass.
+2026-03-01: Refined English Ch21 (Unke Munke Timpetoo) long-answer set to textbook-workshop prompts; science audit green and live QA pass.
+2026-03-01: Refined English Ch23 (Home Sweet Home) long-answer set to textbook-workshop prompts; science audit green and live QA pass.
+2026-03-01: Refined English Ch9 (Abdul Becomes a Courtier) long-answer set to textbook-workshop prompts; science audit green and live QA pass.
+2026-03-01: Refined English Ch5 (Seeing Eyes Helping Hands - Invitations) long-answer set to textbook-workshop prompts; science audit green and live QA pass.
+2026-03-01: Refined English Ch3 (In Time of Silver Rain) long-answer set to textbook-workshop prompts; science audit green and live QA pass.
+2026-03-01: Refined English Ch1 (Past, Present, Future) long-answer set to textbook-workshop prompts; science audit green and live QA pass.

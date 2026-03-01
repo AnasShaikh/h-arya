@@ -542,48 +542,39 @@
     ],
     "longAnswers": [
       {
-        "question": "Explain what is meant by the interior and exterior of an angle.",
-        "answer": "The interior of an angle consists of the group of points in the plane that lie between the arms of the angle but are not on the arms themselves. The exterior of an angle consists of the group of points in the plane that are neither on the arms of the angle nor in its interior. This effectively categorizes the plane into three distinct parts: the interior, the exterior, and the points on the angle itself.",
+        "question": "State and explain the linear pair rule.",
+        "modelAnswer": "Two adjacent angles whose non-common arms are opposite rays form a linear pair. Their sum is 180°. Example: if one angle is 115°, the other is 180°−115°=65°.",
         "keyPoints": [
-          "Interior points are inside the angle and not on the arms.",
-          "Exterior points are outside the angle and not on the arms.",
-          "Points can also lie exactly on the arms of the angle."
+          "Linear pair angles are supplementary.",
+          "Formula: angle1 + angle2 = 180°.",
+          "Common mistake: adding to 90° instead of 180°."
         ]
       },
       {
-        "question": "Define adjacent angles and list the necessary conditions for two angles to be adjacent.",
-        "answer": "Two angles are said to be adjacent angles if they are neighbouring angles that share specific geometric properties. For two angles to be adjacent, they must have a common vertex and they must have exactly one common arm. Most importantly, their interiors must be completely separate, meaning they do not share a single common point within their interior spaces.",
+        "question": "If one angle of a complementary pair is 37°, find the other.",
+        "modelAnswer": "In complementary angles, sum = 90°. Let other angle = x. Then x + 37° = 90°. So x = 90° − 37° = 53°.",
         "keyPoints": [
-          "Adjacent angles must have a common vertex.",
-          "They must share exactly one common arm.",
-          "They must have completely separate interiors."
+          "Complementary angles sum to 90°.",
+          "Use subtraction from total.",
+          "Common mistake: using 180° for complementary pairs."
         ]
       },
       {
-        "question": "Why are two angles with a common arm and a common vertex not always considered adjacent angles?",
-        "answer": "Two angles that share a common arm and a common vertex might still not be adjacent if their interiors overlap. For angles to be adjacent, they must have strictly separate interiors without any common points. If one angle is partially or completely inside the other, their interiors overlap, which disqualifies them from being adjacent angles despite sharing a vertex and an arm.",
+        "question": "Two angles are in the ratio 2:3 and form a linear pair. Find both angles.",
+        "modelAnswer": "Let angles be 2x and 3x. Since linear pair, 2x+3x=180°. So 5x=180°, x=36°. Angles are 2x=72° and 3x=108°.",
         "keyPoints": [
-          "Adjacent angles require completely separate interiors.",
-          "Sharing a common arm and vertex is necessary but not sufficient.",
-          "Overlapping interiors disqualify angles from being adjacent."
+          "Convert ratio into algebraic form.",
+          "Linear pair equation: total 180°.",
+          "Common mistake: dividing 180 by 2 and 3 separately."
         ]
       },
       {
-        "question": "What are complementary angles? Provide an example of how they can be formed.",
-        "answer": "Complementary angles are defined as any two angles whose measures add up exactly to 90 degrees. When the sum of the measures of two angles is 90°, they are known as mutually complementary angles. For example, if you draw a 90° right angle and then draw a ray anywhere in its interior, the two newly formed adjacent angles will have measures that sum to exactly 90°, making them complementary.",
+        "question": "In intersecting lines, one angle is 48°. Find all other angles.",
+        "modelAnswer": "Vertically opposite angle = 48° (equal). Adjacent angles are supplementary: 180°−48°=132°. So the four angles are 48°, 132°, 48°, 132°.",
         "keyPoints": [
-          "The sum of the measures of complementary angles is exactly 90°.",
-          "Angles whose sum is 90° are mutually complementary.",
-          "A right angle divided by an interior ray forms two complementary angles."
-        ]
-      },
-      {
-        "question": "How do you categorize the different points in the plane of an angle?",
-        "answer": "Points in the plane of an angle can be categorized into three distinct groups based on their position relative to the angle. First, there are points that lie exactly on the arms of the angle itself forming the boundary. Second, there are points that fall in the interior of the angle, meaning they are in the space enclosed between the arms. Finally, there are points that fall in the exterior of the angle, which are neither on the arms nor in the interior.",
-        "keyPoints": [
-          "Points can lie exactly on the arms of the angle.",
-          "Points can lie in the interior of the angle.",
-          "Points can lie in the exterior of the angle."
+          "Vertically opposite angles are equal.",
+          "Adjacent angles on a line sum to 180°.",
+          "Common mistake: treating adjacent angles as equal."
         ]
       }
     ]

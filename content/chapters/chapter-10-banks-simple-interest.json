@@ -544,51 +544,39 @@
     ],
     "longAnswers": [
       {
-        "question": "Explain the features of a Current Account.",
-        "modelAnswer": "A current account is mainly designed for traders and individuals dealing in money on a daily basis. An account holder can deposit or withdraw money any number of times in a day without restrictions. The bank issues a passbook and a cheque book on demand for this account. However, the bank does not pay any interest on the money kept in a current account.",
+        "question": "State the simple interest formula and explain each term.",
+        "modelAnswer": "Simple Interest (SI) formula is SI = (P×R×T)/100, where P = principal (borrowed/deposited amount), R = annual rate percent, and T = time in years. Amount A = P + SI.",
         "keyPoints": [
-          "Mainly for traders and daily transactions",
-          "Unlimited deposits and withdrawals",
-          "Passbook and cheque book issued",
-          "No interest paid by the bank"
+          "Core formula: SI = PRT/100.",
+          "Rate is yearly percent; time in years.",
+          "Common mistake: forgetting to convert months into years."
         ]
       },
       {
-        "question": "What is a Savings Account and how does it differ from a Current Account?",
-        "modelAnswer": "A savings account can be opened by depositing a minimum amount, and the bank pays interest on the basis of the daily credit balance. Unlike a current account, there are restrictions on how often money can be withdrawn from a savings account. A savings account provides interest, whereas a current account does not pay any interest. Both accounts provide a passbook and a cheque book on demand.",
+        "question": "Find SI and amount for P = ₹5000, R = 8% p.a., T = 3 years.",
+        "modelAnswer": "SI = (5000×8×3)/100 = 1200. Amount A = P + SI = 5000 + 1200 = ₹6200.",
         "keyPoints": [
-          "Requires minimum deposit amount",
-          "Bank pays interest on daily balance",
-          "Restrictions on withdrawal frequency",
-          "Differs from current account in interest and withdrawal limits"
+          "Substitute correctly in SI formula.",
+          "Amount = Principal + Interest.",
+          "Common mistake: subtracting SI from principal."
         ]
       },
       {
-        "question": "Describe a Recurring Deposit Account.",
-        "modelAnswer": "In a recurring deposit account, the account holder decides on a specific amount to be deposited every month. This type of account acts as a means of compulsory savings for the individual. The bank provides an interest rate on the deposit which is generally higher than the interest paid on a regular savings account.",
+        "question": "A sum becomes ₹13,200 in 2 years at 10% simple interest. Find principal.",
+        "modelAnswer": "Let principal = P. SI for 2 years at 10% = (P×10×2)/100 = 0.2P. Amount A = P + 0.2P = 1.2P. Given 1.2P = 13200, so P = 13200/1.2 = ₹11,000.",
         "keyPoints": [
-          "Fixed amount deposited every month",
-          "Acts as compulsory savings",
-          "Higher interest rate than savings account"
+          "Use A = P + SI relation.",
+          "At 10% for 2 years, SI = 20% of P.",
+          "Common mistake: taking 13200 as SI instead of amount."
         ]
       },
       {
-        "question": "What are Fixed Deposits and who benefits more from them?",
-        "modelAnswer": "A fixed deposit involves a depositor placing a certain amount of money in the bank for a fixed period of time. This deposit attracts a significantly greater rate of interest compared to a standard savings account. These interest rates can vary across different banks. Senior citizens typically receive a slightly higher rate of interest than usual on their fixed deposits.",
+        "question": "At 12% p.a., how long will ₹4000 take to earn ₹960 as simple interest?",
+        "modelAnswer": "Given SI=960, P=4000, R=12. Use SI = PRT/100. So 960 = (4000×12×T)/100 = 480T. Hence T = 960/480 = 2 years.",
         "keyPoints": [
-          "Certain amount deposited for a fixed period",
-          "Greater interest rate than savings account",
-          "Interest rates vary by bank",
-          "Senior citizens get higher interest rates"
-        ]
-      },
-      {
-        "question": "What are the uses of ATM, credit, and debit cards?",
-        "modelAnswer": "An ATM (Automatic Teller Machine) card is primarily used to withdraw cash from a machine without needing to visit a bank branch. On the other hand, credit and debit cards are used to carry out cashless transactions directly. An account holder can easily obtain any of these cards by making a request to their bank.",
-        "keyPoints": [
-          "ATM card used to withdraw cash without visiting bank",
-          "Credit and debit cards used for cashless transactions",
-          "Account holder can get these cards on request"
+          "Rearrange SI formula for time.",
+          "Keep units in years.",
+          "Common mistake: dividing by 12 directly because rate is 12%."
         ]
       }
     ]

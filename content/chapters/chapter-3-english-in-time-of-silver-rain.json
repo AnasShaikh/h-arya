@@ -491,63 +491,69 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "How does the earth react to the silver rain according to the poem?",
-        "modelAnswer": "When the silver rain falls, the earth puts forth new life again. Green grasses begin to grow, and beautiful flowers lift their heads towards the sky. The wonder of life spreads over the entire plain, bringing immense joy and renewal to nature. This vivid imagery shows how the spring rain rejuvenates the earth and creates a fresh start.",
+        "question": "Describe how nature comes alive in the poem when “silver rain” falls.",
+        "modelAnswer": "The poem presents rain as a magical force that awakens the earth into movement, colour, and joy. Flowers bloom, birds begin singing, and the natural world appears fresh and animated. The rain does not merely wet the land; it transforms atmosphere and mood. Through this imagery, the poet shows nature as responsive, vibrant, and celebratory.",
         "keyPoints": [
-          "The earth puts forth new life again.",
-          "Green grasses grow and flowers lift their heads.",
-          "The wonder of life spreads over the plain bringing renewal.",
-          "Spring rain rejuvenates the earth and creates a fresh start."
+          "Rain is shown as life-giving and transformative.",
+          "Nature shifts from stillness to lively movement.",
+          "Imagery creates freshness, colour, and joy."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "What is the effect of the silver rain on the butterflies?",
-        "modelAnswer": "In the time of silver rain, butterflies lift their delicate silken wings in the air. They flutter joyfully as if trying to catch a rainbow cry in the vibrant sky. Their graceful movement adds to the overall beauty and energetic life of the spring season. The gentle rain creates a perfect, refreshing setting for the butterflies to rejoice.",
+        "question": "Explain the role of butterflies, trees, and birds in creating the poem’s joyful mood.",
+        "modelAnswer": "Butterflies, trees, and birds function as symbols of natural harmony after rain. Butterflies suggest colour and delicacy, trees suggest renewed growth, and birds add musical liveliness through song. Together they build a multisensory picture—visual, kinetic, and auditory. Their presence turns rain into a festival of life.",
         "keyPoints": [
-          "Butterflies lift their delicate silken wings.",
-          "They flutter to catch a rainbow cry in the sky.",
-          "Their graceful movement adds to the beauty of spring.",
-          "The gentle rain creates a refreshing setting for rejoicing."
+          "Each natural element contributes a different sensory effect.",
+          "Butterflies = colour, trees = growth, birds = music.",
+          "Combined imagery creates a festive mood."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "How do the boys and girls express their joy during the silver rain?",
-        "modelAnswer": "During the silver rain, young boys and girls walk down the roadway passing by. They are filled with immense happiness and go singing cheerfully down the street. Their joyful singing perfectly reflects the happiness and new life that the spring season brings to everyone. The fresh, cool rain visibly uplifts their spirits and encourages them to celebrate.",
+        "question": "How do children respond to rain in the poem, and what does this suggest about human connection with nature?",
+        "modelAnswer": "Children in the poem react with spontaneous happiness, playfulness, and movement, showing an unfiltered emotional connection with rain. Their joy mirrors the joy of the natural world around them. This parallel suggests that human beings, especially children, naturally resonate with seasonal beauty when free from routine constraints. The poem celebrates this shared rhythm between people and nature.",
         "keyPoints": [
-          "Young boys and girls walk down the roadway.",
-          "They go singing cheerfully down the street.",
-          "Their happiness reflects the joy of spring and new life.",
-          "The fresh rain visibly uplifts their spirits."
+          "Children respond with playful excitement.",
+          "Human joy is shown as parallel to natural joy.",
+          "Poem suggests deep innate connection with nature."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "How does the poet use alliteration in the poem 'In Time of Silver Rain'?",
-        "modelAnswer": "The poet uses alliteration to create rhythm and a musical effect throughout the poem. Alliteration involves repeating the same consonant sound at the beginning of closely connected words. For instance, the phrase 'Green grasses grow' repeats the 'g' sound to emphasize the imagery of nature's growth. Another example is 'silver rain,' where the soft sounds evoke the gentle and peaceful falling of rain.",
+        "question": "Write a short critical note on the use of imagery in “In Time of Silver Rain”.",
+        "modelAnswer": "The poem uses rich sensory imagery to make rain visible, audible, and emotionally felt. Words and phrases create pictures of blooming plants, flying butterflies, singing birds, and cheerful children. This imagery is simple enough for young readers yet vivid enough to create poetic charm. It transforms an ordinary weather event into an artistic celebration of renewal.",
         "keyPoints": [
-          "Alliteration repeats consonant sounds at the beginning of words.",
-          "The poet uses it to create rhythm and a musical effect.",
-          "The phrase 'Green grasses grow' repeats the 'g' sound for emphasis.",
-          "Soft sounds in 'silver rain' evoke the gentle falling of rain."
+          "Imagery is visual + auditory + emotional.",
+          "Language makes ordinary rain feel extraordinary.",
+          "Style is simple but evocative and memorable."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la5",
-        "question": "Why is the rain described as 'silver' and what does it symbolize?",
-        "modelAnswer": "The poet describes the rain as 'silver' because falling raindrops shine and sparkle brightly when they catch the light. Silver is a precious and valuable metal, suggesting that the spring rain is a precious gift to the earth. It symbolizes the arrival of new life, hope, and the washing away of the dull winter. The shining rain transforms the world into a magical, vibrant place full of joy.",
+        "question": "Language study: What is alliteration? Give examples and explain its poetic effect.",
+        "modelAnswer": "Alliteration is the repetition of the same initial consonant sound in nearby words, such as “silver rain” or similar sound patterns in poetic lines. It creates musical flow, rhythm, and emphasis. In this poem, alliteration supports the soft, lyrical movement that matches the falling rain. It helps readers enjoy the sound texture of the poem while remembering lines more easily.",
         "keyPoints": [
-          "Raindrops shine and sparkle brightly like silver in the light.",
-          "Silver suggests the rain is a precious and valuable gift.",
-          "The rain symbolizes new life, hope, and renewal.",
-          "It transforms the world into a magical and vibrant place."
+          "Alliteration = repeated initial consonant sound.",
+          "Creates rhythm, melody, and emphasis.",
+          "Enhances memorability and musical quality of verse."
         ],
         "marks": 4
+      },
+      {
+        "id": "la6",
+        "question": "Creative response: Write a short paragraph on the first rain in your area inspired by this poem.",
+        "modelAnswer": "The first rain in my area arrives with a cool breeze and the smell of wet earth. Dusty trees suddenly look clean and bright, and children run outside with laughter. Birds become more active, and the sky feels softer and kinder after the heat. Like the poem, the rain makes everything seem newly alive, as if the world has been washed into happiness.",
+        "keyPoints": [
+          "Use personal observation with sensory details.",
+          "Include sights, sounds, smell, and emotional effect.",
+          "Maintain poetic and reflective tone."
+        ],
+        "marks": 5
       }
     ]
   }

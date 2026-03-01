@@ -443,75 +443,74 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What did Rohan want for his birthday?",
-        "modelAnswer": "Rohan desperately wanted a table tennis set for his birthday. His friend Muk told him about a magical chant called 'Unke Munke Timpetoo' to make his wish come true. He wanted it so badly that he was willing to sneak out at midnight to perform the ritual. Ultimately, his wish was granted through an unexpected act of kindness.",
+        "question": "Narrate the birthday incident: What did Rohan desire, and how did that desire lead to the “Unke Munke Timpetoo” adventure?",
+        "modelAnswer": "Rohan strongly wanted a bicycle and became emotionally focused on getting it quickly. His friends introduced the playful “Unke Munke Timpetoo” idea as a magical shortcut to fulfill wishes. Excited by hope, the children followed the ritual around the banyan tree and then acted on impulsive plans. The incident shows how intense desire can make children believe in easy solutions without thinking of consequences.",
         "keyPoints": [
-          "Rohan desperately wanted a table tennis set for his birthday.",
-          "He learned a magical chant from his friend Muk.",
-          "He was determined enough to perform the ritual at midnight.",
-          "His wish came true through Mrs Groover's kindness."
+          "Rohan’s strong desire is the starting point.",
+          "Magic chant is treated as a shortcut to wish-fulfilment.",
+          "Children move from imagination to impulsive action.",
+          "Story highlights emotional influence on decision-making."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "How many times must 'Unke Munke Timpetoo' be chanted around the banyan tree?",
-        "modelAnswer": "According to his friend Muk, the chant 'Unke Munke Timpetoo' must be repeated exactly seventeen times. This ritual has to be performed while walking around a banyan tree at the stroke of midnight. Following these specific instructions is believed to make one's deepest wish come true. Rohan attempted this exact ritual in Mrs Groover's garden to get his birthday present.",
+        "question": "Describe what happened in Mrs Groover’s garden and how the children reacted under pressure.",
+        "modelAnswer": "When the children entered Mrs Groover’s garden, playful excitement quickly turned into panic after they were noticed. Rohan, caught in fear and guilt, reacted defensively instead of calmly explaining. The group’s behaviour shows how quickly poor planning collapses in real situations. The episode brings humour, tension, and a practical lesson about responsibility.",
         "keyPoints": [
-          "The chant must be repeated exactly seventeen times.",
-          "It must be done while walking around a banyan tree.",
-          "The ritual must take place at midnight.",
-          "Rohan attempted this to get his birthday present."
+          "Garden scene shifts from fun to conflict.",
+          "Children react with panic when confronted by adult authority.",
+          "Impulsive actions create avoidable embarrassment.",
+          "Scene adds comic tension and moral learning."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "What did Rohan do when Mrs Groover caught them in her garden?",
-        "modelAnswer": "When Mrs Groover caught Rohan and Muk in her garden at midnight, Rohan displayed great courage by confessing honestly. Instead of running away or making up a lie, he explained that they were chanting a magic phrase to get a birthday wish. His honesty moved Mrs Groover, who surprisingly allowed him to finish the ritual. This sincere confession ultimately led to his wish being granted by her.",
+        "question": "What is the real meaning of “Unke Munke Timpetoo” in the story? Explain its message.",
+        "modelAnswer": "In the story, “Unke Munke Timpetoo” represents childish belief in magical thinking rather than real effort. Its real function is humorous: it reveals how people may avoid hard work by trusting quick tricks. By the end, the story suggests that wishes are achieved through planning, honesty, and patience, not by chants alone. Thus, the phrase becomes a playful symbol of fantasy versus reality.",
         "keyPoints": [
-          "Rohan showed courage by not running away when caught.",
-          "He honestly confessed to chanting for a birthday wish.",
-          "His sincere explanation moved Mrs Groover.",
-          "She was kind enough to let him finish the ritual."
+          "Phrase symbolizes magical thinking and wishful shortcuts.",
+          "Humour is used to expose unrealistic beliefs.",
+          "Final message supports effort, patience, and responsibility."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What is the real meaning of 'Unke Munke Timpetoo' in the story?",
-        "modelAnswer": "On the surface, 'Unke Munke Timpetoo' is just a set of made-up, nonsense words with no literal translation. However, in the context of the story, it symbolises the true magic of human kindness and genuine friendship. It represents the courage to be honest and the unexpected warmth found in people like Mrs Groover. When Mrs Groover says she believes in it, she means she believes in kindness, hope, and making a child's wish come true.",
+        "question": "Character reflection: How does Rohan change from beginning to end of the story?",
+        "modelAnswer": "At the beginning, Rohan is impatient and driven mainly by immediate desire. During the incident, he experiences confusion, fear, and social embarrassment when reality does not match fantasy. By the end, he understands that outcomes depend on sensible action rather than magical shortcuts. This change marks emotional growth from impulsiveness toward practical thinking.",
         "keyPoints": [
-          "The phrase itself consists of made-up nonsense words.",
-          "It symbolises the true magic of human kindness and friendship.",
-          "It represents the courage to be honest and hopeful.",
-          "Mrs Groover's belief in it shows her belief in kindness."
+          "Starts as impatient and desire-driven.",
+          "Crisis creates self-awareness.",
+          "Learns value of realistic effort and mature choices.",
+          "Shows emotional and behavioural growth."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "What does the prefix 'un-' mean?",
-        "modelAnswer": "A prefix is a group of letters added to the beginning of a word to change its overall meaning. The prefix 'un-' specifically means 'not' or signifies the opposite of the original word. For example, adding 'un-' to 'happy' makes it 'unhappy', which means not happy. Other common examples include 'unkind' or 'unknown', demonstrating how this prefix reverses a word's original definition.",
+        "question": "Language study: Explain with examples how prefixes and suffixes change word meaning (e.g., “un-”, “-ness”).",
+        "modelAnswer": "Prefixes and suffixes are word parts that modify meaning and grammar. A prefix like “un-” often gives an opposite meaning (happy → unhappy, known → unknown). A suffix like “-ness” usually turns an adjective into an abstract noun (kind → kindness, dark → darkness). Understanding these patterns helps in vocabulary growth, spelling accuracy, and sentence formation.",
         "keyPoints": [
-          "A prefix is added to the beginning of a base word.",
-          "The prefix 'un-' means 'not' or the opposite.",
-          "It completely reverses the meaning of the original word.",
-          "Examples include unhappy, unkind, and unknown."
+          "Prefix changes meaning (often negative/opposite).",
+          "Suffix changes word class or abstract meaning.",
+          "Examples clarify formation rules.",
+          "Useful for vocabulary and grammar development."
         ],
-        "marks": 5
+        "marks": 4
       },
       {
         "id": "la6",
-        "question": "What does the suffix '-ness' do to a word?",
-        "modelAnswer": "A suffix is a group of letters added to the end of a word to change its meaning or grammatical function. The suffix '-ness' specifically turns an adjective into a noun, indicating a state, quality, or condition. For instance, adding '-ness' to the adjective 'kind' creates the noun 'kindness', which refers to the quality of being kind. This suffix is commonly used in English to form nouns from describing words, such as 'happiness' or 'darkness'.",
+        "question": "Write your own interpretation: Is the story mainly about magic, mischief, or growing up? Justify.",
+        "modelAnswer": "The story appears to be about magic and mischief on the surface, but at a deeper level it is about growing up. The children’s belief in a chant reflects imagination, while the consequences of their actions teach accountability. Humour keeps the story engaging, yet the core lesson is about maturing from fantasy-led behaviour to responsible thinking. Therefore, it is best read as a coming-of-age classroom tale.",
         "keyPoints": [
-          "A suffix is added to the end of a base word.",
-          "The suffix '-ness' turns an adjective into a noun.",
-          "It indicates a state, quality, or condition of something.",
-          "Examples include kindness, happiness, and darkness."
+          "Surface layer: playful magic and mischief.",
+          "Deeper layer: accountability and emotional maturity.",
+          "Humour carries a developmental life lesson.",
+          "Interpretation must be supported with story events."
         ],
-        "marks": 5
+        "marks": 6
       }
     ]
   }

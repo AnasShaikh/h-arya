@@ -485,52 +485,40 @@
     ],
     "longAnswers": [
       {
-        "id": "la1",
-        "question": "The scale on Y-axis is 1 cm = 10 quintals. A bar is 4.2 cm tall. What is the value?",
-        "modelAnswer": "Answer: Value = bar height × scale = 4.2 × 10 = 42 quintals\nThis question belongs to the chapter \"Joint Bar Graph\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "What is a joint bar graph and when is it used?",
+        "modelAnswer": "A joint bar graph shows two related data sets side-by-side for each category, using bars of equal width and a common scale. It is used to compare groups quickly, such as marks of boys and girls in each subject.",
         "keyPoints": [
-          "Direct response: Value = bar height × scale = 4.2 × 10 = 42 quintals",
-          "Concept link: Joint Bar Graph (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Two bars per category represent two data sets.",
+          "All bars must follow the same scale.",
+          "Common mistake: using different scales for each set."
+        ]
       },
       {
-        "id": "la2",
-        "question": "Which type of graph shows parts of a whole as percentages?",
-        "modelAnswer": "Answer: A pie chart divides a circle into sectors showing proportions/percentages of a whole.\nThis question belongs to the chapter \"Joint Bar Graph\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "In a class, Maths marks are: Boys 42, Girls 48. Science marks are: Boys 38, Girls 45. Which group did better overall?",
+        "modelAnswer": "Total Boys = 42 + 38 = 80. Total Girls = 48 + 45 = 93. Difference = 93 − 80 = 13. So girls performed better overall by 13 marks.",
         "keyPoints": [
-          "Direct response: A pie chart divides a circle into sectors showing proportions/percentages of a whole.",
-          "Concept link: Joint Bar Graph (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Compare totals across categories.",
+          "Add values carefully before comparing.",
+          "Common mistake: comparing only one subject and concluding overall performance."
+        ]
       },
       {
-        "id": "la3",
-        "question": "What should you add to a joint bar graph to identify which colour represents which data?",
-        "modelAnswer": "Answer: A legend (or key) explains what each colour in the joint bar graph represents.\nThis question belongs to the chapter \"Joint Bar Graph\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "From a joint bar graph, sales (in units) are: Shop A (Mon 30, Tue 40), Shop B (Mon 25, Tue 50). Find combined sales on Tuesday and difference between shops on Monday.",
+        "modelAnswer": "Tuesday combined sales = 40 + 50 = 90 units. Monday difference = 30 − 25 = 5 units. So Tuesday total is 90 and Shop A sold 5 more than Shop B on Monday.",
         "keyPoints": [
-          "Direct response: A legend (or key) explains what each colour in the joint bar graph represents.",
-          "Concept link: Joint Bar Graph (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Read bar heights using scale marks.",
+          "Use addition for combined, subtraction for difference.",
+          "Common mistake: mixing Monday and Tuesday values."
+        ]
       },
       {
-        "id": "la4",
-        "question": "Which type of graph is best for showing temperature changes over a month?",
-        "modelAnswer": "Answer: Line graphs are best for showing changes/trends over time.\nThis question belongs to the chapter \"Joint Bar Graph\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Why must the y-axis start from zero in bar graphs?",
+        "modelAnswer": "Starting from zero keeps visual comparison fair. If axis starts from a higher number, small differences look exaggerated and can mislead interpretation. Zero baseline ensures bar lengths are proportional to actual values.",
         "keyPoints": [
-          "Direct response: Line graphs are best for showing changes/trends over time.",
-          "Concept link: Joint Bar Graph (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 5
+          "Bar length should represent true magnitude.",
+          "Zero baseline avoids distortion.",
+          "Common mistake: truncated axis causing misleading graph."
+        ]
       }
     ]
   }

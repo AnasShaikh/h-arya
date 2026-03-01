@@ -1,0 +1,15 @@
+/opt/h-arya/content/chapters/chapter-5-hindi-bandar-ka-dhandha.json
+/opt/h-arya/content/chapters/chapter-12-hindi-rahasya.json
+/opt/h-arya/content/chapters/chapter-3-hindi-dadi-maa-ka-parivar.json
+/opt/h-arya/content/chapters/chapter-11-hindi-chanda-mama-ki-jai.json
+/opt/h-arya/content/chapters/chapter-14-hindi-vigyapan-aur-samachar.json
+/opt/h-arya/content/chapters/chapter-8-hindi-shabd-sampada.json
+/opt/h-arya/content/chapters/chapter-7-hindi-jahan-chah-wahan-rah.json
+/opt/h-arya/content/chapters/chapter-4-hindi-dehat-aur-shahar.json
+/opt/h-arya/content/chapters/chapter-9-hindi-phool-aur-kante.json
+/opt/h-arya/content/chapters/chapter-13-hindi-hum-chalte-seena-tan-ke.json
+/opt/h-arya/content/chapters/chapter-6-hindi-prithvi-se-agni-tak.json
+/opt/h-arya/content/chapters/chapter-2-hindi-sangya-aur-sarvnaam.json
+/opt/h-arya/content/chapters/chapter-1-hindi-soor-surdas.json
+/opt/h-arya/content/chapters/chapter-15-hindi-swayam-adhyayan-aur-punravratti.json
+/opt/h-arya/content/chapters/chapter-10-hindi-beti-yug.json

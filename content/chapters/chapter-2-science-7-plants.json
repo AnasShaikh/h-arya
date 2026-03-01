@@ -494,48 +494,56 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Describe the structure of a typical flower in your own words.",
-        "modelAnswer": "A typical flower consists of four main parts: Calyx, Corolla, Androecium, and Gynoecium. The Calyx is the outermost green part (sepals) that protects the flower in the bud stage. The Corolla is the colorful part made of petals that attracts insects. The Androecium is the male reproductive part consisting of stamens (anther and filament). The Gynoecium is the female reproductive part consisting of carpels (stigma, style, and ovary). These parts are arranged on the thalamus, which is the expanded end of the flower stalk or pedicel.",
+        "question": "Describe the functions of the various parts of a plant.",
+        "modelAnswer": "A plant consists of several parts, each with specific functions. The roots anchor the plant in the soil and absorb water and minerals. The stem supports the plant, positions leaves for sunlight, and transports water and food between different parts. Leaves are the 'kitchen' of the plant, performing photosynthesis to produce food using sunlight, CO2, and water. Flowers are the reproductive organs that develop into fruits, which contain seeds for the next generation of plants.",
         "keyPoints": [
-          "Calyx: Protective green sepals.",
-          "Corolla: Colorful petals to attract pollinators.",
-          "Androecium: Male part with stamens.",
-          "Gynoecium: Female part with carpels (stigma, style, ovary)."
-        ],
-        "marks": 5
+          "Roots: Anchorage and absorption of water/minerals.",
+          "Stem: Support and transport of nutrients.",
+          "Leaves: Photosynthesis (food production).",
+          "Flowers/Fruits: Reproduction and seed protection."
+        ]
       },
       {
         "id": "la2",
-        "question": "What is the difference between Tap Roots and Fibrous Roots?",
-        "modelAnswer": "Dicotyledonous plants usually have a tap root system, which consists of a primary root that grows deep into the soil and produces secondary roots. In contrast, monocotyledonous plants have a fibrous root system, where a cluster of thin, thread-like roots grows from the base of the stem. Tap roots provide stronger anchorage and go deeper, while fibrous roots are more spread out near the surface.",
+        "question": "Compare and contrast Tap Roots and Fibrous Roots with examples.",
+        "modelAnswer": "Dicotyledonous plants, like hibiscus or mango, typically have a tap root system. This consists of a thick primary root that grows deep into the soil and produces smaller secondary roots. On the other hand, monocotyledonous plants, like jowar or onion, have a fibrous root system. This is a cluster of many thin, thread-like roots growing from the base of the stem. While tap roots provide deep anchorage, fibrous roots spread out near the surface and are excellent at preventing soil erosion.",
         "keyPoints": [
           "Tap roots: One main primary root with branches (Dicot plants).",
           "Fibrous roots: Cluster of thin roots from the stem base (Monocot plants).",
-          "Tap roots provide better deep anchorage; fibrous roots spread wide."
-        ],
-        "marks": 4
+          "Tap roots provide deep anchorage; fibrous roots spread wide near the surface."
+        ]
       },
       {
         "id": "la3",
-        "question": "Explain the process of germination of a seed.",
-        "modelAnswer": "Germination is the process by which a seed develops into a new plant. When a seed receives proper water, air, and warmth, the embryo inside begins to grow. The part that grows towards the soil is called the radicle (which becomes the root), and the part that grows upwards out of the soil is called the plumule (which becomes the shoot). As the plant grows, it uses the food stored in the seed until it can perform photosynthesis.",
+        "question": "Explain the structure and function of a typical flower.",
+        "modelAnswer": "A typical flower has four main whorls: Calyx, Corolla, Androecium, and Gynoecium. The Calyx is the outermost green part (sepals) that protects the flower in the bud. The Corolla consists of colorful petals to attract insects for pollination. The Androecium is the male reproductive part made of stamens (anther and filament). The Gynoecium is the female reproductive part consisting of carpels (stigma, style, and ovary). After pollination and fertilization, the ovary develops into a fruit and the ovules become seeds.",
         "keyPoints": [
-          "Requires water, air, and warmth.",
-          "Radicle grows downwards into the soil (becomes root).",
-          "Plumule grows upwards out of the soil (becomes shoot)."
-        ],
-        "marks": 5
+          "Calyx (sepals) for protection; Corolla (petals) for attraction.",
+          "Androecium (stamens) is the male reproductive part.",
+          "Gynoecium (carpels) is the female reproductive part.",
+          "The ovary develops into a fruit containing seeds."
+        ]
       },
       {
         "id": "la4",
-        "question": "What is the name for the arrangement of veins in a leaf?",
-        "modelAnswer": "Venation refers to the pattern of veins in the blade of a leaf.",
+        "question": "What are the different parts of a leaf and their functions?",
+        "modelAnswer": "A leaf consists of the leaf blade (lamina), leaf margin, leaf apex, and a petiole (stalk). The leaf blade is the flat, green part where photosynthesis occurs. The midrib and veins provide structural support and transport water and food. The petiole attaches the leaf to the stem at a node. Small openings called stomata on the leaf surface allow for gas exchange and transpiration. The arrangement of veins is called venation, which can be reticulate (net-like) or parallel.",
         "keyPoints": [
-          "Defines: What is the name for the arrangement of veins in a leaf?",
-          "Explains textbook concept clearly.",
-          "Includes relevant chapter example."
-        ],
-        "marks": 3
+          "Leaf blade is the primary site for photosynthesis.",
+          "Petiole attaches the leaf to the stem node.",
+          "Stomata allow for gas exchange and water vapor loss (transpiration).",
+          "Venation (reticulate or parallel) refers to the pattern of veins."
+        ]
+      },
+      {
+        "id": "la5",
+        "question": "Differentiate between Monocotyledonous and Dicotyledonous seeds.",
+        "modelAnswer": "Seeds are classified based on the number of cotyledons (seed leaves) they contain. Dicotyledonous seeds, like moong or gram, can be divided into two equal parts (cotyledons). Monocotyledonous seeds, like jowar or corn, do not divide into two equal parts and have only one cotyledon. This difference is also reflected in other plant parts: dicots usually have tap roots and reticulate venation, while monocots have fibrous roots and parallel venation.",
+        "keyPoints": [
+          "Dicot seeds can divide into two equal parts (two cotyledons).",
+          "Monocot seeds have only one cotyledon and do not divide equally.",
+          "This classification correlates with root types and leaf venation patterns."
+        ]
       }
     ]
   }

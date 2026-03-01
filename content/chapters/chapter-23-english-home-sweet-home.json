@@ -406,61 +406,68 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Why does the poet say 'There's no place like home' despite visiting grand palaces?",
-        "modelAnswer": "The poet emphasizes that no matter how magnificent or luxurious other places might be, they cannot provide the true comfort of home. Grand palaces may offer wealth and beauty, but they lack the genuine warmth, love, and peace of mind found in his humble cottage. Home is where his fondest memories reside, along with the comforting presence of his family. Therefore, the emotional connection makes his simple dwelling superior to any palace in the world.",
+        "question": "Explain why the poet says “There’s no place like home” even after seeing grand places.",
+        "modelAnswer": "The poet has seen beautiful and luxurious places, yet none gives the emotional security of home. Home is not valued for wealth or decoration, but for love, memory, and belonging. It is where one is accepted without performance or status. Therefore, the line means emotional comfort is greater than external splendour.",
         "keyPoints": [
-          "Grand palaces lack the genuine warmth and peace of a real home.",
-          "A simple home offers true comfort and a sense of belonging.",
-          "Home is filled with fond memories and the loving presence of family.",
-          "Emotional connections make a humble dwelling more valuable than a luxurious mansion."
+          "Home offers emotional belonging beyond material luxury.",
+          "Affection and memory make home unique.",
+          "Grand places impress the eye; home comforts the heart."
         ],
         "marks": 5
       },
       {
         "id": "la2",
-        "question": "How does the poet connect with his mother despite being far away from home?",
-        "modelAnswer": "While the poet is in exile, he gazes at the moon and finds comfort in the thought that his mother is looking at the same moon. This shared experience creates a powerful emotional bridge across the vast physical distance separating them. It helps him feel her loving care and presence even when they are apart. The moon acts as a universal connector that brings him temporary relief from his deep homesickness.",
+        "question": "How does the poem show the poet’s bond with his mother and family when he is away?",
+        "modelAnswer": "Even while physically distant, the poet remains emotionally connected to his mother and family through memory, longing, and affection. Thoughts of home become a source of comfort during isolation. This bond is shown as deep and constant, unaffected by distance. The poem suggests that family love continues to guide the mind even when one travels far away.",
         "keyPoints": [
-          "The poet looks at the moon while far away from his home.",
-          "He imagines his mother is also gazing at the exact same moon.",
-          "This shared action creates an emotional bridge across the physical distance.",
-          "The moon serves as a comforting, universal connector for the separated family."
+          "Distance does not weaken emotional attachment.",
+          "Memory of mother/family gives comfort and identity.",
+          "Family bond is presented as enduring and intimate."
         ],
         "marks": 5
       },
       {
         "id": "la3",
-        "question": "Describe the simple things the poet misses about his home.",
-        "modelAnswer": "The poet deeply misses the humble and familiar aspects of his home, particularly his small thatched cottage with its grass roof. He longs for the sweet melodies of the birds singing around his house, which brought a natural, musical joy to his life. Furthermore, he yearns for his father's reassuring smile and his mother's loving care. These simple elements combine to create the profound peace of mind that he cannot find anywhere else.",
+        "question": "Describe the simple things of home that the poet misses, and why they matter.",
+        "modelAnswer": "The poet misses ordinary details—familiar voices, domestic warmth, affectionate conversation, and the peaceful atmosphere of home. These are simple but meaningful because they form daily emotional support. Such moments are often unnoticed until one is away. The poem highlights that true happiness lies in these small, lived experiences.",
         "keyPoints": [
-          "He misses his simple thatched cottage with its grass roof.",
-          "He longs to hear the sweet singing of the birds around his home.",
-          "He yearns for his father's smile and his mother's loving care.",
-          "These simple things provided him with unmatched peace of mind."
+          "Poet values everyday domestic moments, not luxury.",
+          "Simple routines become emotionally precious in absence.",
+          "Poem celebrates ordinary life as the foundation of happiness."
         ],
         "marks": 5
       },
       {
         "id": "la4",
-        "question": "What is the significance of the refrain in the poem 'Home Sweet Home'?",
-        "modelAnswer": "The refrain, \"Home, home, sweet, sweet home! / There's no place like home!\", is repeated at the end of every stanza to heavily emphasize the poem's central theme. Because the poem was originally written as a song, this repetition gives it a memorable, musical chorus. It also deepens the emotional impact of the poet's homesickness, driving home the message that no place can ever compare to the comfort of one's own home. The doubling of the word \"sweet\" further intensifies his deep affection.",
+        "question": "Discuss the significance of the refrain in “Home Sweet Home”.",
+        "modelAnswer": "The refrain reinforces the central message repeatedly, making the emotional core memorable. Each repetition deepens the feeling of longing and attachment to home. Musically, it gives rhythm and unity to the poem; thematically, it reminds readers that home is a universal emotional refuge. The refrain transforms a personal feeling into a shared human truth.",
         "keyPoints": [
-          "The refrain is repeated at the end of all five stanzas.",
-          "It emphasizes the central theme that home is the best place in the world.",
-          "It provides a musical, song-like quality to the poem.",
-          "The repetition of \"sweet\" intensifies the poet's emotional longing and affection."
+          "Refrain emphasizes central theme through repetition.",
+          "Creates musical rhythm and structural unity.",
+          "Turns personal nostalgia into universal idea of belonging."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "Explain the difference between synonyms, antonyms, and homonyms with examples.",
-        "modelAnswer": "Synonyms are words that have the same or very similar meanings, such as 'good', 'nice', and 'wonderful', which help add variety to writing. Antonyms are words with opposite meanings, like 'strong' and 'weak', and are used to show contrast clearly. Homonyms are words that have the same spelling or pronunciation but completely different meanings depending on the context. For example, the word 'round' can mean a circular shape or refer to a 'round of applause', requiring the surrounding context to understand its specific use.",
+        "question": "Language study: Differentiate synonyms, antonyms, and homonyms with examples.",
+        "modelAnswer": "Synonyms are words with similar meanings, such as happy/joyful. Antonyms are words with opposite meanings, such as happy/sad or near/far. Homonyms are words that are pronounced or spelled the same but have different meanings, such as bank (river bank / financial bank) or right (correct / direction). Knowing these relationships improves vocabulary, interpretation, and precise expression.",
         "keyPoints": [
-          "Synonyms have similar meanings (e.g., good, nice) and add variety.",
-          "Antonyms have opposite meanings (e.g., strong, weak) and show contrast.",
-          "Homonyms have the same spelling/sound but different meanings (e.g., round).",
-          "Context is essential to understand the correct meaning of a homonym."
+          "Synonyms: similar meaning words.",
+          "Antonyms: opposite meaning words.",
+          "Homonyms: same form/sound, different meanings.",
+          "Word relations strengthen comprehension and writing accuracy."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la6",
+        "question": "Creative response: Write a short reflective paragraph on what “home” means to you.",
+        "modelAnswer": "For me, home is the place where I can be fully myself without fear of judgment. It is built from familiar people, routine sounds, and small acts of care that make life meaningful. Even when I travel, thoughts of home give me calm and confidence. Home is not just a building; it is a feeling of safety, memory, and love.",
+        "keyPoints": [
+          "Personal meaning should include emotional and social dimensions.",
+          "Can mention people, memory, safety, identity, and belonging.",
+          "Reflective tone is more important than decoration."
         ],
         "marks": 5
       }

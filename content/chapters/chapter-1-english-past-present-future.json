@@ -541,61 +541,67 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Identify and explain the use of Simile, Metaphor, and Alliteration in the poem \"Past, Present, Future\".",
-        "modelAnswer": "In the poem, the poet uses various literary devices to enhance the imagery and meaning. A simile is used when the poet asks, \"What the past is like to thee?\", directly comparing the past to the child's perspective. Metaphors are central to the poem, as the past is compared to an autumn evening, the present to a flowery spray, and the future to a dazzling sea. Alliteration is seen in phrases like \"smiling child\" and \"sea beneath a cloudless sun\", where the repetition of consonant sounds adds a musical quality. These devices beautifully illustrate the child's feelings about different stages of time.",
+        "question": "Explain how the poem imagines the Past, Present, and Future through nature images.",
+        "modelAnswer": "The poem presents time as a moving natural landscape. The Past appears distant and fading, like something seen through memory. The Present is shown as fresh and living, full of colour and immediate sensation. The Future appears uncertain yet inviting, suggesting hope mixed with mystery. By using nature images, the poet makes abstract time feel visible and emotional for young readers.",
         "keyPoints": [
-          "Simile: \"What the past is like to thee?\"",
-          "Metaphor: Comparing time periods to an autumn evening, flowery spray, and dazzling sea.",
-          "Alliteration: Repetition of consonant sounds like in \"smiling child\".",
-          "These devices enhance the visual and auditory experience of the poem."
+          "Past, present, and future are personified through imagery.",
+          "Nature symbols make the idea of time concrete.",
+          "Each time-zone carries a distinct emotional tone."
         ],
         "marks": 5
       },
       {
         "id": "la2",
-        "question": "How does the poet use punctuation marks like the full stop, comma, question mark, and exclamation mark to guide the reader?",
-        "modelAnswer": "Punctuation in the poem serves to control the rhythm, tone, and dialogue structure between the poet and the child. Question marks are used at the end of the poet's inquiries, such as \"What the past is like to thee?\", inviting the reader into the conversation. Commas provide short pauses that help regulate the pace, especially in descriptive lists like \"A mighty, glorious, dazzling sea\". Full stops mark the end of a thought or stanza, giving the reader a moment to reflect on the imagery. While exclamation marks, hyphens, and dashes can indicate strong emotions or abrupt shifts, the poem primarily relies on questions and descriptive pauses to build its contemplative mood.",
+        "question": "What does the “green and flowery spray” suggest in the poem? Why is a young bird mentioned there?",
+        "modelAnswer": "The “green and flowery spray” suggests freshness, growth, and the beauty of life in bloom, symbolizing the vitality of the present moment. The young bird adds a sense of innocence, beginning, and lively movement. Together they represent youth, possibility, and the joyful energy of life now unfolding. The poet uses these images to make the present feel bright and alive.",
         "keyPoints": [
-          "Question marks signal the poet's inquiries to the child.",
-          "Commas create necessary pauses for emphasis in descriptions.",
-          "Full stops indicate the completion of a thought at the end of a stanza.",
-          "Punctuation guides the poem's contemplative rhythm and tone."
+          "Green flowery spray symbolizes freshness and growth.",
+          "Young bird symbolizes innocence and new beginnings.",
+          "Combined imagery highlights the vibrancy of the present."
         ],
         "marks": 5
       },
       {
         "id": "la3",
-        "question": "Explain the concepts of antonyms and homonyms, providing examples relevant to the context of the poem.",
-        "modelAnswer": "Antonyms are words with opposite meanings, which help to create contrast and emphasize different stages of life. In the context of the poem, central antonyms include \"Past\" and \"Future\", as well as implied contrasts like \"soft\" versus harsh or \"mournfully\" versus joyfully. Homonyms are words that share the same spelling or pronunciation but have different meanings. For instance, the word \"spray\" in the poem refers to a small branch of flowers, but it can also mean a fine mist of liquid. Understanding these linguistic elements enriches the reader's appreciation of the poet's precise vocabulary choices.",
+        "question": "How is the Future described in the poem, and what feeling does it create?",
+        "modelAnswer": "The Future is described as something not fully seen—open, distant, and partly unknown. This creates a mixed feeling of curiosity and expectation rather than fear. The poet suggests that the future is not fixed; it unfolds gradually as life moves ahead. The tone remains hopeful, encouraging readers to look forward with imagination.",
         "keyPoints": [
-          "Antonyms are words with opposite meanings, such as \"Past\" and \"Future\".",
-          "Homonyms are words that sound or are spelled the same but have different meanings.",
-          "\"Spray\" means a flowering branch in the poem, but can also mean a mist of liquid.",
-          "These vocabulary choices highlight contrasts and add layers of meaning."
+          "Future is shown as uncertain but promising.",
+          "Tone evokes curiosity and hope.",
+          "Poem encourages forward-looking imagination."
         ],
         "marks": 5
       },
       {
         "id": "la4",
-        "question": "Discuss how Onomatopoeia and Consonance are used to enhance the poem's mood.",
-        "modelAnswer": "The poet employs sound devices to convey the specific emotions associated with different times of life. Onomatopoeia occurs when a word's sound mimics its meaning, such as the word \"sighs\" which imitates the sound of a gentle, mournful wind. Consonance is the repetition of consonant sounds within or at the end of words, like the repeated \"s\" and \"z\" sounds in \"glorious, dazzling sea\". This repetition creates a sense of fluid movement and vastness, reflecting the excitement and limitless nature of the future. Together, these devices ensure that the poem's rhythm perfectly matches the natural elements being described.",
+        "question": "Write a short note on the emotional message of the poem “Past, Present, Future”.",
+        "modelAnswer": "The poem encourages readers to value memory without getting trapped in it, to enjoy the beauty of the present, and to welcome the future with optimism. It suggests that life is a journey across changing moments, each with meaning. The emotional message is balanced and gentle: cherish what was, live what is, and trust what may come.",
         "keyPoints": [
-          "Onomatopoeia is used in words like \"sighs\" to mimic natural sounds.",
-          "Consonance involves the repetition of internal or ending consonant sounds.",
-          "The \"s\" and \"z\" sounds in \"dazzling sea\" emphasize fluidity and vastness.",
-          "Sound devices deeply enhance the poem's emotional atmosphere."
+          "Balanced attitude toward all three time dimensions.",
+          "Encourages mindful living in the present.",
+          "Promotes hopeful outlook toward future."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "How does Emily Brontë use nature imagery to represent the Past, Present, and Future?",
-        "modelAnswer": "Emily Brontë employs distinct nature metaphors to illustrate the passage of time, shifting from nostalgia to preparation and finally to boundless excitement. The Past is represented as an \"Autumn evening soft and mild\", suggesting a collection of pleasant memories tinged with gentle sadness. The Present is portrayed as a \"green and flowery spray\" where a young bird gathers its power, symbolizing a vital time of growth and preparation. Finally, the Future is described as a \"mighty, glorious, dazzling sea\" under a \"cloudless sun\", representing the thrilling and infinite possibilities that await. By linking time to the natural world, the poet suggests that life's stages are as beautiful and inevitable as the changing seasons.",
+        "question": "Language study: Differentiate simile and metaphor with examples.",
+        "modelAnswer": "A simile is an explicit comparison using words like “as” or “like” (for example, “as bright as the sun”). A metaphor is an implied comparison without “as/like” (for example, “time is a river”). Simile tells that one thing is like another, while metaphor directly states one thing as another for stronger poetic effect.",
         "keyPoints": [
-          "The Past is an \"Autumn evening\", representing gentle nostalgia.",
-          "The Present is a \"flowery spray\", symbolizing growth and preparation.",
-          "The Future is a \"dazzling sea\", signifying infinite, exciting possibilities.",
-          "Nature imagery connects the human experience of time to the natural world."
+          "Simile uses “as/like” for direct comparison.",
+          "Metaphor compares without comparative markers.",
+          "Both add imagery and depth to poetic language."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la6",
+        "question": "Creative response: Write a brief reflection on your own past, present, and future in 6–8 lines.",
+        "modelAnswer": "My past is full of memories that taught me patience and courage. My present is a time to learn, grow, and improve each day. I try to stay grateful for what I have and work honestly for what I want. My future feels unknown, but I see it as a field of possibilities. I want to carry good values from my past, act responsibly in the present, and build a meaningful tomorrow.",
+        "keyPoints": [
+          "Include personal reflection across all three time phases.",
+          "Show continuity of values and growth.",
+          "Use simple but thoughtful language."
         ],
         "marks": 5
       }

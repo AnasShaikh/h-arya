@@ -442,73 +442,73 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What did Papa Panov dream on Christmas Eve?",
-        "modelAnswer": "Papa Panov dreamed that Jesus came to visit him in his shop. In his dream, Jesus promised that he would visit Papa Panov in person the very next day, which was Christmas Day. Jesus also mentioned that he would not reveal his identity. Therefore, Papa Panov had to look out for him carefully.",
+        "question": "Write a character sketch of Papa Panov in your own words.",
+        "modelAnswer": "Papa Panov is a humble old shoemaker with a compassionate heart and deep faith. He is attentive to people’s suffering and responds with practical kindness rather than mere sympathy. Though he waits eagerly for a divine visitor, he does not ignore real human need around him. His generosity to the sweeper, the young mother and the beggars reveals his warmth, patience, and spiritual maturity. He represents the idea that true goodness lies in serving others quietly.",
         "keyPoints": [
-          "Papa Panov dreamed that Jesus spoke to him.",
-          "Jesus promised to visit him on Christmas Day.",
-          "Jesus would not reveal his identity.",
-          "Papa Panov had to watch out for him carefully."
+          "Kind, generous, and faith-driven personality.",
+          "Shows empathy through concrete help to needy people.",
+          "Patient, humble and emotionally sensitive.",
+          "Embodies service as a form of devotion."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la2",
-        "question": "What did Papa Panov give to the first person (road sweeper)?",
-        "modelAnswer": "On Christmas morning, Papa Panov saw an old road sweeper working hard in the freezing cold. Feeling sorry for the tired man, Papa Panov invited him inside his warm shop. He then served the road sweeper a hot cup of coffee to comfort him and bring him some holiday cheer.",
+        "question": "Write your own interpretation of the story “Papa Panov’s Special Christmas”.",
+        "modelAnswer": "The story teaches that God is encountered through human compassion. Papa Panov expects Jesus in a visible miraculous form, but the day reveals that every needy person he helped carried that divine presence. The message is that love, food, warmth, and dignity offered to others are themselves sacred acts. Christmas in the story is therefore not only celebration, but moral action rooted in kindness.",
         "keyPoints": [
-          "Papa Panov saw an old road sweeper working in the cold.",
-          "He invited the tired man inside his warm shop.",
-          "He gave the road sweeper a hot cup of coffee.",
-          "The drink helped to warm and comfort the man."
+          "Core idea: divinity is found in service to people.",
+          "Expectation of miracle transforms into ethical realization.",
+          "Story links faith with everyday compassion.",
+          "Celebration gains meaning through helping others."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la3",
-        "question": "What special thing did Papa Panov give to the young mother's baby?",
-        "modelAnswer": "Papa Panov saw a poor young mother and her baby shivering outside, so he invited them in to warm up. Noticing that the baby had no shoes to protect its feet from the winter cold, he wanted to help. He gave the baby a tiny, beautiful pair of leather shoes he had made, which fit perfectly.",
+        "question": "Narrate in short a similar story from your mother tongue/another language that gives a message of compassion.",
+        "modelAnswer": "A similar story is about a poor woman who saves food each night for a hungry stranger. One winter evening, she gives her only meal to an old traveler. Later she learns that helping the traveler saved him from death and inspired others in the village to start a community meal. The story’s message is that small acts of kindness can create large circles of hope.",
         "keyPoints": [
-          "He invited a poor mother and her baby inside to warm up.",
-          "He noticed the baby had no shoes for the cold weather.",
-          "He gave the baby a beautiful pair of tiny leather shoes.",
-          "The special shoes fit the baby's feet perfectly."
+          "Narrative should be brief and coherent.",
+          "Must include compassion-driven action.",
+          "Conclude with clear moral insight.",
+          "Can be adapted from local cultural tradition."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What did Papa Panov give to the hungry beggars?",
-        "modelAnswer": "As the day went on and he continued waiting for Jesus, Papa Panov saw a group of hungry beggars in the street. Full of compassion, he welcomed them into his shop to rest. He generously shared his hot soup and bread with them, ensuring they felt fed and cared for on Christmas Day.",
+        "question": "Gather and present information about cold winters in Russia and their impact on ordinary people.",
+        "modelAnswer": "Russian winters are typically long, severe, and snowy, with temperatures often dropping well below freezing in many regions. Such conditions demand warm housing, layered clothing, fuel, and reliable food access. For poor and homeless people, winter can be dangerous due to frostbite, illness, and lack of shelter. Communities need coordinated support such as night shelters, warm meals, blankets, medicines, and emergency outreach to reduce winter hardship.",
         "keyPoints": [
-          "Papa Panov saw hungry beggars out in the street.",
-          "He welcomed them into his shop to rest and warm up.",
-          "He shared his hot soup and bread with them.",
-          "He ensured they were fed and cared for on Christmas."
+          "Russian winters are prolonged and intensely cold.",
+          "Daily life requires strong heating and winter preparedness.",
+          "Vulnerable populations face serious health and survival risks.",
+          "Social support systems are crucial in extreme weather."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "What was the 'revelation' (discovery) at the end of the story?",
-        "modelAnswer": "At the end of the day, Papa Panov was sad because he thought Jesus had not visited him. Suddenly, a voice spoke to him, revealing that Jesus had actually been present in all the people he had helped that day. The revelation was that by feeding the hungry and clothing the needy, Papa Panov had unknowingly welcomed Jesus himself.",
+        "question": "In your locality, which season is hardest for poor and homeless people? What help is needed?",
+        "modelAnswer": "In many localities, the hardest season is either peak summer or monsoon, depending on region. During summer, heatstroke risk, water scarcity, and dehydration affect homeless people severely. During monsoon, flooding, damp shelters, and infections become major threats. Needed support includes clean drinking water points, temporary safe shelters, rain protection, basic healthcare camps, clothing kits, and community meal services.",
         "keyPoints": [
-          "Papa Panov initially thought Jesus had not visited him.",
-          "A voice revealed that Jesus was present in the people he helped.",
-          "He discovered that by helping the needy, he welcomed Jesus.",
-          "The revelation showed that his kindness was a service to God."
+          "Identify hardest local season with reasoned context.",
+          "Explain specific risks for vulnerable groups.",
+          "Suggest practical, community-level support measures.",
+          "Link response to dignity and public responsibility."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la6",
-        "question": "What is the moral/lesson of 'Papa Panov's Special Christmas'?",
-        "modelAnswer": "The story teaches that the true spirit of Christmas lies in showing love, kindness, and generosity to those in need. It illustrates that God is present in every human being, especially the poor and the suffering. Ultimately, the lesson is that by helping the less fortunate, we are serving and honoring God.",
+        "question": "What is the final revelation in the story, and why is it spiritually important?",
+        "modelAnswer": "The final revelation is that Jesus visited Papa Panov through the people he helped during the day. Spiritually, this means love for God is inseparable from compassion for fellow human beings. The story shifts faith from ritual expectation to moral action. It teaches that every act of kindness can become a sacred encounter.",
         "keyPoints": [
-          "The true spirit of Christmas is love and generosity.",
-          "God is present in every human being.",
-          "Helping the poor and suffering is a way to serve God.",
-          "Showing kindness to the needy is the most meaningful celebration."
+          "Revelation: divine presence appears through needy people.",
+          "Faith is validated through service, not only prayer.",
+          "Transforms Papa Panov’s understanding of devotion.",
+          "Central moral: kindness is holy."
         ],
         "marks": 5
       }

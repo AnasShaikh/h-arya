@@ -43,6 +43,13 @@
 - [x] Refine non-science long-answer extraction to exact textbook-end questions for English Ch22 (bounded: textbook-workshop prompt alignment)
 - [x] Refine non-science long-answer extraction to exact textbook-end questions for English Ch24 (bounded: textbook-workshop prompt alignment)
 - [x] Refine non-science long-answer extraction to exact textbook-end questions for English Ch13 (bounded: textbook-workshop prompt alignment)
+- [x] Refine non-science long-answer extraction to exact textbook-end questions for English Ch25 (bounded: textbook-workshop prompt alignment)
+- [x] Refine non-science long-answer extraction to exact textbook-end questions for English Ch21 (bounded: textbook-workshop prompt alignment)
+- [x] Refine non-science long-answer extraction to exact textbook-end questions for English Ch23 (bounded: textbook-workshop prompt alignment)
+- [x] Refine non-science long-answer extraction to exact textbook-end questions for English Ch9 (bounded: textbook-workshop prompt alignment)
+- [x] Refine non-science long-answer extraction to exact textbook-end questions for English Ch5 (bounded: textbook-workshop prompt alignment)
+- [x] Refine non-science long-answer extraction to exact textbook-end questions for English Ch3 (bounded: textbook-workshop prompt alignment)
+- [x] Refine non-science long-answer extraction to exact textbook-end questions for English Ch1 (bounded: textbook-workshop prompt alignment)
 - [ ] Refine non-science long-answer extraction to exact textbook-end questions (remaining chapters)
 - [ ] Add long-answer rubric scoring (key point coverage + textbook wording similarity)
 - [ ] Add separate Textbook Recall Test report card in chapter flow

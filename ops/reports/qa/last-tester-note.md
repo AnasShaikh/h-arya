@@ -1,6 +1,3 @@
-Tester cycle completed successfully.
-
-Status: pass
-Notes:
-- health_http=200
-- curriculum_count=119
+QA tests passed.
+Health check returned 200.
+Curriculum count is 119.

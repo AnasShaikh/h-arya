@@ -543,48 +543,39 @@
     ],
     "longAnswers": [
       {
-        "question": "What is meant by the base and index of a number? Explain with an example.",
-        "answer": "When a number is multiplied by itself several times, it can be expressed in a shorter way known as the index form. In this representation, the number that is being repeatedly multiplied is called the base, and the number of times it is multiplied is called the index or exponent. For example, in the expression 5^4 (which means 5 × 5 × 5 × 5), 5 is the base and 4 is the index.",
+        "question": "State the product rule of indices and verify using 2^3 × 2^4.",
+        "modelAnswer": "Product rule: a^m × a^n = a^(m+n). Here 2^3×2^4 = 2^(3+4)=2^7=128. Also, 2^3=8 and 2^4=16, so 8×16=128. Verified.",
         "keyPoints": [
-          "Repeated multiplication of a number by itself is written in index form.",
-          "The base is the number being multiplied.",
-          "The index (or exponent) indicates how many times the base is multiplied."
+          "Same base: add exponents.",
+          "Rule: a^m×a^n=a^(m+n).",
+          "Common mistake: multiplying exponents (3×4) instead of adding."
         ]
       },
       {
-        "question": "How do you read a number written in index form? Provide examples.",
-        "answer": "A number in index form is typically read by mentioning the base followed by its power. Generally, if 'a' is the base and 'm' is the index, it is read as 'a raised to the power m' or 'the mth power of a'. For example, 5^4 is read as '5 raised to the power 4', '5 raised to 4', or 'the 4th power of 5'.",
+        "question": "Simplify (3^5) ÷ (3^2).",
+        "modelAnswer": "For same base division, a^m ÷ a^n = a^(m−n), m>n. So 3^5 ÷ 3^2 = 3^(5−2)=3^3=27.",
         "keyPoints": [
-          "Read by stating the base and then its corresponding power.",
-          "Standard format is 'base raised to the power index'.",
-          "Example: 5^4 is read as '5 raised to the power 4'."
+          "Same base division: subtract exponents.",
+          "Rule: a^m/a^n=a^(m−n).",
+          "Common mistake: subtracting bases instead of exponents."
         ]
       },
       {
-        "question": "What is the mathematical convention regarding the first power of any number?",
-        "answer": "The first power of any number is simply the number itself. By mathematical convention, if the power or index of a number is exactly 1, it is usually not written explicitly. Therefore, writing just the base implies that its index is 1, such as 7^1 being written as 7, and 10^1 as 10.",
+        "question": "Evaluate: (5^2)^3.",
+        "modelAnswer": "Power of a power rule: (a^m)^n = a^(mn). Hence (5^2)^3 = 5^(2×3)=5^6=15625.",
         "keyPoints": [
-          "The first power of a number always equals the number itself.",
-          "An index of 1 is conventionally not written.",
-          "Writing a number without a visible index implies an index of 1."
+          "Multiply exponents in power of power.",
+          "Rule: (a^m)^n = a^(mn).",
+          "Common mistake: adding exponents (2+3)."
         ]
       },
       {
-        "question": "Explain how to calculate the value of a number given in index form.",
-        "answer": "To find the value of a number in index form, you must multiply the base by itself as many times as the index indicates. Once you perform the repeated multiplication, the final calculated product is the value of that index form. For instance, to find the value of 5^4, you perform the multiplication 5 × 5 × 5 × 5, which gives a final value of 625.",
+        "question": "Express 10,000 in exponential form and explain zero exponent using 10^3 ÷ 10^3.",
+        "modelAnswer": "10,000 = 10^4. Also, 10^3 ÷ 10^3 = 10^(3−3)=10^0. But 10^3/10^3 = 1. Therefore 10^0 = 1 (for any non-zero base).",
         "keyPoints": [
-          "Identify the base and the index from the expression.",
-          "Multiply the base by itself for the number of times shown by the index.",
-          "The resulting product is the value of the number."
-        ]
-      },
-      {
-        "question": "What do the specific terms 'square' and 'cube' refer to in the context of indices?",
-        "answer": "In the context of indices, the terms 'square' and 'cube' are special names used for specific powers of a number. When a number has an index of 2, it is referred to as the 'square' of that number, so 3^2 is read as '3 squared'. Similarly, when a number has an index of 3, it is referred to as the 'cube' of that number, so 5^3 is read as '5 cubed'.",
-        "keyPoints": [
-          "An index of 2 is specially called a square.",
-          "An index of 3 is specially called a cube.",
-          "Example: 3^2 is read as 3 squared, and 5^3 is read as 5 cubed."
+          "10,000 has four factors of 10 → 10^4.",
+          "a^0=1 for a≠0.",
+          "Common mistake: writing a^0=0."
         ]
       }
     ]

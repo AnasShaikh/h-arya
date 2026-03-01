@@ -98,7 +98,21 @@ Mission: Launch H-Arya for Maharashtra Board Std 7 with exam-score-first outcome
 82. Re-ran quality gates after content change: `npm run audit:science` (green) and `bash scripts/live-qa.sh` (pass).
 83. Refined English Chapter 13 (Great Scientists) long-answer set to textbook-workshop aligned prompts (implied meaning, mentor-pupil contrast, failure response, scientific impact), replacing generic/generated prompts.
 84. Re-ran quality gates after content change: `npm run audit:science` (green) and `bash scripts/live-qa.sh` (pass).
+85. Refined English Chapter 25 (Papa Panov’s Special Christmas) long-answer set to textbook-workshop aligned prompts (character sketch, interpretation, compassion narratives, seasonal hardship reflection), replacing generic/generated prompts.
+86. Re-ran quality gates after content change: `npm run audit:science` (green) and `bash scripts/live-qa.sh` (pass).
+87. Refined English Chapter 21 (Unke Munke Timpetoo) long-answer set to textbook-workshop aligned prompts (incident narration, interpretation, character growth, word-formation study), replacing generic/generated prompts.
+88. Re-ran quality gates after content change: `npm run audit:science` (green) and `bash scripts/live-qa.sh` (pass).
+89. Refined English Chapter 23 (Home Sweet Home) long-answer set to textbook-workshop aligned prompts (theme/refrain/family-bond interpretation + language study + reflective writing), replacing generic/generated prompts.
+90. Re-ran quality gates after content change: `npm run audit:science` (green) and `bash scripts/live-qa.sh` (pass).
+91. Refined English Chapter 9 (Abdul Becomes a Courtier) long-answer set to textbook-workshop aligned prompts (incident context, practical intelligence, moral and reflection), replacing generic/generated prompts.
+92. Re-ran quality gates after content change: `npm run audit:science` (green) and `bash scripts/live-qa.sh` (pass).
+93. Refined English Chapter 5 (Seeing Eyes Helping Hands - Invitations) long-answer set to textbook-workshop aligned prompts (invitation/notice distinction, oral invite protocol, punctuation-in-context, value reflection), replacing generic/generated prompts.
+94. Re-ran quality gates after content change: `npm run audit:science` (green) and `bash scripts/live-qa.sh` (pass).
+95. Refined English Chapter 3 (In Time of Silver Rain) long-answer set to textbook-workshop aligned prompts (imagery/mood analysis, nature-human connection, alliteration and creative reflection), replacing generic/generated prompts.
+96. Re-ran quality gates after content change: `npm run audit:science` (green) and `bash scripts/live-qa.sh` (pass).
+97. Refined English Chapter 1 (Past, Present, Future) long-answer set to textbook-workshop aligned prompts (time-imagery interpretation, emotion, figure-of-speech study, reflective writing), replacing generic/generated prompts.
+98. Re-ran quality gates after content change: `npm run audit:science` (green) and `bash scripts/live-qa.sh` (pass).
 
 ## Next
-- Refine non-science long-answer extraction to exact textbook-end questions for remaining non-science chapters (History done through Ch13; Civics done through Ch6; Geography done through Ch11; languages in progress — English Ch2, Ch4, Ch6, Ch8, Ch10, Ch12, Ch13, Ch14, Ch16, Ch18, Ch20, Ch22 & Ch24 done; others pending).
+- Refine non-science long-answer extraction to exact textbook-end questions for remaining non-science chapters (History done through Ch13; Civics done through Ch6; Geography done through Ch11; languages in progress — English Ch1, Ch2, Ch3, Ch4, Ch5, Ch6, Ch8, Ch9, Ch10, Ch12, Ch13, Ch14, Ch16, Ch18, Ch20, Ch21, Ch22, Ch23, Ch24 & Ch25 done; others pending).
 - Add rubric scoring (coverage + wording similarity) in Long Answer Practice.

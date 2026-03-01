@@ -532,40 +532,40 @@
     ],
     "longAnswers": [
       {
-        "id": "la1",
-        "question": "The LCM and HCF of two numbers are 432 and 72. If one number is 216, what is the other?",
-        "modelAnswer": "Answer: HCF × LCM = Product of numbers. 72 × 432 = 216 × other → other = 72×432÷216 = 144.\nThis question belongs to the chapter \"HCF and LCM\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Explain the difference between HCF and LCM with an example of 12 and 18.",
+        "modelAnswer": "Factors of 12: 1,2,3,4,6,12. Factors of 18: 1,2,3,6,9,18. Highest common factor is 6, so HCF(12,18)=6. Multiples of 12: 12,24,36,... Multiples of 18: 18,36,54,... First common multiple is 36, so LCM(12,18)=36. HCF is greatest common factor, LCM is least common multiple.",
         "keyPoints": [
-          "Direct response: HCF × LCM = Product of numbers. 72 × 432 = 216 × other → other = 72×432÷216 = 144.",
-          "Concept link: HCF and LCM (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "HCF uses factors; LCM uses multiples.",
+          "For two numbers: number1×number2 = HCF×LCM.",
+          "Common mistake: choosing largest common multiple for LCM."
+        ]
       },
       {
-        "id": "la2",
-        "question": "Three bundles of string are 392m, 308m and 490m long. What is the greatest length they can be cut into without any leftover?",
-        "modelAnswer": "Answer: We need HCF(392, 308, 490). 392=2³×7², 308=2²×7×11, 490=2×5×7². HCF=2×7=14.\nThis question belongs to the chapter \"HCF and LCM\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Find HCF of 84 and 126 by prime factorization.",
+        "modelAnswer": "84 = 2×2×3×7 = 2^2×3×7. 126 = 2×3×3×7 = 2×3^2×7. Common prime factors with smallest powers: 2^1×3^1×7^1 = 42. Therefore HCF = 42.",
         "keyPoints": [
-          "Direct response: We need HCF(392, 308, 490). 392=2³×7², 308=2²×7×11, 490=2×5×7². HCF=2×7=14.",
-          "Concept link: HCF and LCM (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Take only common primes with minimum powers.",
+          "Prime factorization method is systematic.",
+          "Common mistake: multiplying all primes from both numbers (that gives LCM, not HCF)."
+        ]
       },
       {
-        "id": "la3",
-        "question": "The product of two 2-digit numbers is 765 and their HCF is 3. What is their LCM?",
-        "modelAnswer": "Answer: HCF × LCM = Product of numbers. 3 × LCM = 765. LCM = 765/3 = 255.\nThis question belongs to the chapter \"HCF and LCM\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Find LCM of 24, 36 and 90 using prime factors.",
+        "modelAnswer": "24 = 2^3×3, 36 = 2^2×3^2, 90 = 2×3^2×5. For LCM take highest powers: 2^3, 3^2, 5. LCM = 2^3×3^2×5 = 8×9×5 = 360.",
         "keyPoints": [
-          "Direct response: HCF × LCM = Product of numbers. 3 × LCM = 765. LCM = 765/3 = 255.",
-          "Concept link: HCF and LCM (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "For LCM use maximum powers of each prime.",
+          "Include primes appearing in any number.",
+          "Common mistake: taking minimum powers (that gives HCF idea)."
+        ]
+      },
+      {
+        "question": "Two bells ring every 12 min and 18 min. If they ring together now, after how many minutes will they ring together again?",
+        "modelAnswer": "They ring together again after LCM(12,18). 12=2^2×3, 18=2×3^2. LCM = 2^2×3^2 = 36. So they will ring together after 36 minutes.",
+        "keyPoints": [
+          "Simultaneous repeating events use LCM.",
+          "Prime factors: 12=2^2×3, 18=2×3^2.",
+          "Common mistake: using HCF instead of LCM for repeating time problems."
+        ]
       }
     ]
   }

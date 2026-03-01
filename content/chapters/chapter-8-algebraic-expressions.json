@@ -529,48 +529,40 @@
     ],
     "longAnswers": [
       {
-        "question": "Explain the concept of a variable in an algebraic expression using an example.",
-        "modelAnswer": "In mathematical expressions, when we do not know the exact value of a certain quantity, we use a letter in its place. This letter is called a variable, as its value can change depending on the situation. For example, if the number of sticks required to form squares is given by the rule 3n + 1, the letter 'n' acts as the variable. Combinations of such variables and numbers, like 3n + 1 or 2x + 3y, are known as algebraic expressions.",
+        "question": "Explain like terms and unlike terms with examples.",
+        "modelAnswer": "Like terms have exactly same variable part (same variables with same powers). Example: 5x, −2x, 11x are like terms. Unlike terms differ in variable part, e.g., 3x and 3x^2 or 4a and 4b. Only like terms can be added or subtracted directly.",
         "keyPoints": [
-          "A variable is a letter used to represent an unknown or changing quantity.",
-          "An example is 'n' in the expression 3n + 1.",
-          "Algebraic expressions are formed by combining variables, numbers, and mathematical operations.",
-          "Examples of expressions include 3n + 1, 3t, and 2(l + b)."
-        ],
-        "marks": 5
+          "Variable part must match completely for like terms.",
+          "Combine only coefficients of like terms.",
+          "Common mistake: adding x and x^2 as if like terms."
+        ]
       },
       {
-        "question": "Define a 'term' in an algebraic expression and explain what a coefficient is with suitable examples.",
-        "modelAnswer": "A term is a specific part of an algebraic expression in which multiplication is the only mathematical operation involved. Within a given term, the numerical factor that multiplies the variables is called the coefficient. For instance, in the term 11mn, the number 11 is the coefficient of the variables m and n. Similarly, in the expression -15t, the coefficient is -15, and in the isolated term 'a', the implied coefficient is 1.",
+        "question": "Simplify: 7x − 3y + 5x + 2y.",
+        "modelAnswer": "Group like terms: (7x+5x) + (−3y+2y) = 12x − y. So simplified expression is 12x − y.",
         "keyPoints": [
-          "A term involves only multiplication between its numerical and variable components.",
-          "An algebraic expression can consist of one or multiple terms added together.",
-          "The numerical factor of a term is called its coefficient.",
-          "For example, in the term -9x²y³, the coefficient is -9."
-        ],
-        "marks": 5
+          "Collect x-terms and y-terms separately.",
+          "Use sign while combining coefficients.",
+          "Common mistake: adding unlike terms (x with y)."
+        ]
       },
       {
-        "question": "What is the primary difference between like terms and unlike terms? Provide examples of each.",
-        "modelAnswer": "Terms that possess the exact same variables raised to the exact same powers are referred to as like terms. For example, 2x, 5x, and -2/3 x are like terms because they all contain the single variable 'x' to the power of one. Conversely, unlike terms are those that either have different variables entirely or the same variables raised to different powers. Examples of unlike terms include 7xy, 9y², and -2xyz, as their variable components simply do not match.",
+        "question": "Multiply: 3a(2a − 5).",
+        "modelAnswer": "Use distributive property: 3a×2a = 6a^2 and 3a×(−5)=−15a. Therefore 3a(2a−5)=6a^2−15a.",
         "keyPoints": [
-          "Like terms have identical variables with the exact same powers.",
-          "An example of like terms is -5x²y and 6/7 yx².",
-          "Unlike terms contain different variables or different powers of the same variables.",
-          "An example of unlike terms is 8mn, 8m²n², and 8m³n."
-        ],
-        "marks": 5
+          "Apply distributive law a(b+c)=ab+ac.",
+          "a×a = a^2.",
+          "Common mistake: multiplying only first term inside bracket."
+        ]
       },
       {
-        "question": "How are algebraic expressions classified based on the total number of terms they contain?",
-        "modelAnswer": "Algebraic expressions are categorized and named based on the total number of terms they contain within them. An expression that consists of only a single term is called a monomial. Expressions that are made up of exactly two terms are known as binomials, while those with exactly three terms are called trinomials. If an expression contains more than three terms, it generally falls under the broader category known as polynomials.",
+        "question": "Subtract: (4m^2 − 3m + 7) − (m^2 + 5m − 2).",
+        "modelAnswer": "Remove bracket by changing signs of second polynomial: 4m^2 − 3m + 7 − m^2 − 5m + 2. Combine like terms: (4m^2−m^2)=3m^2, (−3m−5m)=−8m, (7+2)=9. Answer: 3m^2−8m+9.",
         "keyPoints": [
-          "Expressions are systematically named according to the number of terms they possess.",
-          "A monomial is an expression with exactly one term.",
-          "A binomial is an expression with exactly two terms.",
-          "A trinomial has three terms, while expressions with more terms are polynomials."
-        ],
-        "marks": 5
+          "While subtracting, change signs of all terms in second bracket.",
+          "Combine like terms carefully.",
+          "Common mistake: forgetting to change sign of middle term."
+        ]
       }
     ]
   }

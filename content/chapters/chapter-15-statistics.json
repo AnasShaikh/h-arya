@@ -534,52 +534,40 @@
     ],
     "longAnswers": [
       {
-        "id": "la1",
-        "question": "The daily rainfall in a week: 9, 11, 8, 20, 10, 16, 12 mm. What is the average?",
-        "modelAnswer": "Answer: Average = (9+11+8+20+10+16+12)/7 = 86/7 ≈ 12.28 mm\nThis question belongs to the chapter \"Statistics\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "What is arithmetic mean? Write formula for ungrouped data.",
+        "modelAnswer": "Arithmetic mean is the average value of observations. For ungrouped data, Mean = (sum of all observations)/(number of observations) = Σx/n.",
         "keyPoints": [
-          "Direct response: Average = (9+11+8+20+10+16+12)/7 = 86/7 ≈ 12.28 mm",
-          "Concept link: Statistics (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Mean represents central value.",
+          "Formula: Σx/n.",
+          "Common mistake: dividing by wrong count n."
+        ]
       },
       {
-        "id": "la2",
-        "question": "Scores: 1,2,3,4,5 appear 2,1,2,5,2 times. What is N?",
-        "modelAnswer": "Answer: N = sum of all frequencies = 2+1+2+5+2 = 12 (total number of scores)\nThis question belongs to the chapter \"Statistics\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Find mean of 6, 8, 10, 12, 14.",
+        "modelAnswer": "Sum = 6+8+10+12+14 = 50. Number of observations n=5. Mean = 50/5 = 10.",
         "keyPoints": [
-          "Direct response: N = sum of all frequencies = 2+1+2+5+2 = 12 (total number of scores)",
-          "Concept link: Statistics (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Add all values first.",
+          "Divide by total number of values.",
+          "Common mistake: dividing by largest value instead of count."
+        ]
       },
       {
-        "id": "la3",
-        "question": "Priya counts peas in pods. Frequency table shows 2 peas: 8 pods, 3 peas: 15 pods, 4 peas: 12 pods. How many total pods (these 3 scores)?",
-        "modelAnswer": "Answer: Total for these 3 scores = 8+15+12 = 35 pods\nThis question belongs to the chapter \"Statistics\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Find median of: 5, 9, 2, 11, 7, 13, 1.",
+        "modelAnswer": "Arrange in ascending order: 1,2,5,7,9,11,13. There are 7 values, so median is the 4th value = 7.",
         "keyPoints": [
-          "Direct response: Total for these 3 scores = 8+15+12 = 35 pods",
-          "Concept link: Statistics (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 3
+          "Always arrange data before median.",
+          "For odd n, median is middle term (n+1)/2.",
+          "Common mistake: taking median from unsorted data."
+        ]
       },
       {
-        "id": "la4",
-        "question": "Rutuja's daily skipping jumps for 7 days: 60,62,61,60,59,63,58. What is her average?",
-        "modelAnswer": "Answer: Sum = 60+62+61+60+59+63+58 = 423. Average = 423/7 = 60.43 jumps/minute.\nThis question belongs to the chapter \"Statistics\" in Mathematics.\nState the key concept clearly, then connect it to the given data/term in the question.\nExample: apply the same method or concept to a similar classroom or daily-life situation to verify understanding.",
+        "question": "Find mode of data: 3, 5, 4, 5, 2, 5, 4, 3, 5.",
+        "modelAnswer": "Count frequencies: 2→1 time, 3→2 times, 4→2 times, 5→4 times. The most frequent value is 5. So mode = 5.",
         "keyPoints": [
-          "Direct response: Sum = 60+62+61+60+59+63+58 = 423. Average = 423/7 = 60.43 jumps/minute.",
-          "Concept link: Statistics (Mathematics).",
-          "Use correct textbook terms and explain the logic in 2–3 clear steps.",
-          "Add one related example/application to show practical understanding."
-        ],
-        "marks": 5
+          "Mode is highest frequency value.",
+          "Frequency counting helps avoid error.",
+          "Common mistake: confusing mode with median/mean."
+        ]
       }
     ]
   }
