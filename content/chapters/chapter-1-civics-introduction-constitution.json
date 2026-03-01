@@ -4,7 +4,8 @@
     "title": "Introduction to the Constitution",
     "subject": "Civics",
     "pages": "63-67",
-    "description": "An introduction to why India needs a Constitution, how it was made, the role of Dr. B.R. Ambedkar, and the Constitution as the supreme law of the land."
+    "description": "An introduction to why India needs a Constitution, how it was made, the role of Dr. B.R. Ambedkar, and the Constitution as the supreme law of the land.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -16,7 +17,7 @@
         "A history book of India",
         "A collection of laws made by the Prime Minister"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "A Constitution is a set of fundamental rules and principles that govern a country and its citizens."
     },
     {
@@ -28,7 +29,7 @@
         "26 January 1950",
         "2 October 1948"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The Indian Constitution came into effect on 26 January 1950, which is celebrated as Republic Day."
     },
     {
@@ -40,7 +41,7 @@
         "Sardar Vallabhbhai Patel",
         "Dr. B.R. Ambedkar"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": "D",
       "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee and is known as the Father of the Indian Constitution."
     },
     {
@@ -52,7 +53,7 @@
         "1946",
         "1947"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The Constituent Assembly was formed in 1946 to draft the Constitution of India."
     },
     {
@@ -64,7 +65,7 @@
         "448",
         "520"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The Indian Constitution originally had 395 articles and currently has 448 articles, 12 schedules, and 25 parts."
     }
   ],
@@ -245,7 +246,7 @@
         "26 January",
         "2 October"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Republic Day is celebrated on 26 January because the Indian Constitution came into effect on 26 January 1950."
     },
     {
@@ -257,7 +258,7 @@
         "Dr. B.R. Ambedkar",
         "Mahatma Gandhi"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Dr. B.R. Ambedkar is known as the Father of the Indian Constitution because he was the Chairman of the Drafting Committee and played the most significant role in writing it."
     },
     {
@@ -269,7 +270,7 @@
         "26 November 1949",
         "9 December 1946"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The Indian Constitution was adopted on 26 November 1949. It came into effect later on 26 January 1950."
     },
     {
@@ -281,7 +282,7 @@
         "448",
         "500"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The Indian Constitution currently has 448 articles, 12 schedules, and 25 parts."
     },
     {
@@ -293,7 +294,7 @@
         "To record the history of the country",
         "To plan the economic budget of the country"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "A Constitution provides the most fundamental rules for governance and protects the rights of all citizens, preventing misuse of power."
     },
     {
@@ -305,7 +306,7 @@
         "Dr. Rajendra Prasad",
         "Sardar Patel"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Dr. Rajendra Prasad was the President of the Constituent Assembly. He later became India's first President."
     },
     {
@@ -317,7 +318,7 @@
         "Because only the Supreme Court can read it",
         "Because it was written by great scholars"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "The Constitution is the supreme law because all other laws must be consistent with it. Any law that goes against the Constitution can be struck down by the Supreme Court."
     },
     {
@@ -329,7 +330,7 @@
         "1946",
         "1947"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The Constituent Assembly was formed in 1946 to draft the Constitution of India."
     },
     {
@@ -341,7 +342,7 @@
         "It was written in a single day",
         "It has no amendments"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "The Indian Constitution is the longest written constitution in the world, with 448 articles, 12 schedules, and 25 parts."
     },
     {
@@ -353,7 +354,7 @@
         "Constitution Day — the day the Constitution was adopted",
         "Gandhi Jayanti"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "26 November is celebrated as Constitution Day (Samvidhan Divas) because the Indian Constitution was adopted on this day in 1949."
     }
   ],
@@ -470,45 +471,61 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "How many articles does the Indian Constitution currently have?",
-        "modelAnswer": "The Indian Constitution currently has 448 articles, 12 schedules, and 25 parts. This can be observed in standard textbook examples from this chapter.",
+        "question": "Explain the concept: Provisions of the Constitution.",
+        "modelAnswer": "Provisions of the Constitution are the written rules, principles, and institutional arrangements laid down in the Constitution for governing the country. They define powers and limits of the legislature, executive, and judiciary, describe rights and duties, and guide law-making and administration. Because these provisions are supreme, all laws and government actions must remain consistent with them.",
         "keyPoints": [
-          "Defines the concept asked in: How many articles does the Indian Constitution currently have?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Constitutional provisions are binding written rules/principles for governance.",
+          "They define structure and powers of state institutions.",
+          "They include safeguards for rights and responsibilities.",
+          "All laws and actions must conform to constitutional provisions."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "What is the main purpose of a Constitution?",
-        "modelAnswer": "A Constitution provides the most fundamental rules for governance and protects the rights of all citizens, preventing misuse of power. This can be observed in standard textbook examples from this chapter.",
+        "question": "Explain the concept: Constitution Day.",
+        "modelAnswer": "Constitution Day is observed on 26 November to mark the adoption of the Constitution by the Constituent Assembly in 1949. The day reminds citizens of constitutional values such as justice, liberty, equality, and fraternity. It encourages awareness about the Constitution and the responsibilities of citizens in a democratic republic.",
         "keyPoints": [
-          "Defines the concept asked in: What is the main purpose of a Constitution?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Observed on 26 November.",
+          "Marks adoption of the Constitution in 1949.",
+          "Promotes awareness of constitutional values and duties.",
+          "Reinforces democratic and civic responsibility."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la3",
-        "question": "Why is the Indian Constitution called the 'supreme law of the land'?",
-        "modelAnswer": "The Constitution is the supreme law because all other laws must be consistent with it. Any law that goes against the Constitution can be struck down by the Supreme Court. This can be observed in standard textbook examples from this chapter.",
+        "question": "Discuss: Dr Babasaheb Ambedkar is called the ‘Architect of the Indian Constitution’.",
+        "modelAnswer": "Dr Babasaheb Ambedkar is called the Architect of the Indian Constitution because, as Chairman of the Drafting Committee, he led the process of converting constitutional principles into a coherent legal document. He ensured clarity, practicality, and safeguards for social justice, equality, and democratic rights. His legal scholarship and leadership were central to framing a Constitution suitable for India’s diversity and aspirations.",
         "keyPoints": [
-          "The Constitution is the supreme law because all other laws must be consistent with it.",
-          "Any law that goes against the Constitution can be struck down by the Supreme Court.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Ambedkar chaired the Drafting Committee.",
+          "He played a key role in shaping constitutional structure and language.",
+          "He emphasized social justice, equality, and rights.",
+          "His leadership was foundational in finalizing the Constitution."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la4",
-        "question": "What does 26 November represent in Indian history?",
-        "modelAnswer": "26 November is celebrated as Constitution Day (Samvidhan Divas) because the Indian Constitution was adopted on this day in 1949. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: On what subjects does the Government have to make laws?",
+        "modelAnswer": "The Government makes laws on subjects listed in the Constitution, mainly through the Union List, State List, and Concurrent List. National-level subjects are handled by Parliament, state-level subjects by State Legislatures, and concurrent subjects by both. This division helps maintain balance, clarity of authority, and effective governance in a federal system.",
         "keyPoints": [
-          "Defines the concept asked in: What does 26 November represent in Indian history?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Law-making powers are distributed through constitutional lists.",
+          "Union subjects: Parliament; State subjects: State Legislatures.",
+          "Concurrent subjects can be legislated by both levels.",
+          "This structure supports federal balance and clear responsibility."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Answer: What are the advantages of running a country as per provisions of the Constitution?",
+        "modelAnswer": "Running a country according to constitutional provisions ensures rule of law, limits arbitrary power, and protects citizens’ rights. It creates predictable procedures for governance, dispute resolution, and accountability of public institutions. Constitutional governance also strengthens democracy, equality before law, and long-term stability of the nation.",
+        "keyPoints": [
+          "Ensures rule of law and prevents arbitrary governance.",
+          "Protects rights and guarantees institutional accountability.",
+          "Provides clarity and continuity in administration.",
+          "Strengthens democracy, equality, and national stability."
         ],
         "marks": 5
       }

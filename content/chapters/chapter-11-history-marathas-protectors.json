@@ -4,7 +4,8 @@
     "title": "Marathas as Protectors of India",
     "subject": "History",
     "pages": "47-52",
-    "description": "Ahmad Shah Abdali's repeated invasions of India, the catastrophic Third Battle of Panipat (14 January 1761), why the Marathas lost, the remarkable recovery under Madhavrao Peshwa, and how the Marathas ultimately stopped Afghan rule from being established in India permanently."
+    "description": "Ahmad Shah Abdali's repeated invasions of India, the catastrophic Third Battle of Panipat (14 January 1761), why the Marathas lost, the remarkable recovery under Madhavrao Peshwa, and how the Marathas ultimately stopped Afghan rule from being established in India permanently.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -407,57 +408,47 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "How many times did Ahmad Shah Abdali invade India?",
-        "modelAnswer": "Ahmad Shah Abdali invaded India multiple times — historically estimated at 7 to 9 invasions. He looted Delhi, massacred pilgrims at Mathura and Vrindavan, and took enormous wealth back to Afghanistan. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write in brief about: Raising the Maratha standard at Attock.",
+        "modelAnswer": "In the period of Maratha expansion in North India, Maratha commanders advanced far beyond Delhi and reached Attock in the north-west. Hoisting the Maratha standard there symbolized the high point of Maratha military reach. It showed that the Marathas had become a decisive all-India political force.",
         "keyPoints": [
-          "Ahmad Shah Abdali invaded India multiple times — historically estimated at 7 to 9 invasions.",
-          "He looted Delhi, massacred pilgrims at Mathura and Vrindavan, and took enormous wealth back to Afghanistan.",
-          "This can be observed in standard textbook examples from this chapter."
-        ],
-        "marks": 3
-      },
-      {
-        "id": "la2",
-        "question": "How old was Madhavrao Peshwa when he died?",
-        "modelAnswer": "Madhavrao Peshwa died at age 27 in 1772, having been Peshwa since age 16. Despite his short life, he rebuilt the Maratha empire after Panipat and is remembered as one of the greatest Peshwas. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Madhavrao Peshwa died at age 27 in 1772, having been Peshwa since age 16.",
-          "Despite his short life, he rebuilt the Maratha empire after Panipat and is remembered as one of the greatest Peshwas.",
-          "This can be observed in standard textbook examples from this chapter."
-        ],
-        "marks": 3
-      },
-      {
-        "id": "la3",
-        "question": "After Panipat, what did Ahmad Shah Abdali do?",
-        "modelAnswer": "Ahmad Shah Abdali returned to Afghanistan after Panipat. Despite winning the battle, he never established permanent rule in India. The Maratha recovery under Madhavrao Peshwa eventually reasserted Maratha dominance — preventing lasting Afghan rule. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Ahmad Shah Abdali returned to Afghanistan after Panipat.",
-          "Despite winning the battle, he never established permanent rule in India.",
-          "The Maratha recovery under Madhavrao Peshwa eventually reasserted Maratha dominance — preventing lasting Afghan rule.",
-          "This can be observed in standard textbook examples from this chapter."
-        ],
-        "marks": 3
-      },
-      {
-        "id": "la4",
-        "question": "By what year had the Marathas recovered from Panipat and reasserted control over Delhi?",
-        "modelAnswer": "By 1771 — just 10 years after the disaster at Panipat — Maratha general Mahadaji Shinde had retaken Delhi and reinstated the Mughal emperor under Maratha protection. This astonishing recovery showed the depth of Maratha resilience. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "By 1771 — just 10 years after the disaster at Panipat — Maratha general Mahadaji Shinde had retaken Delhi and reinstated the Mughal emperor under Maratha protection.",
-          "This astonishing recovery showed the depth of Maratha resilience.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Marathas advanced up to Attock in the north-west.",
+          "Hoisting the standard represented political and military supremacy.",
+          "Event marks the zenith of Maratha expansion before Panipat."
         ],
         "marks": 5
       },
       {
-        "id": "la5",
-        "question": "What was the illness that Madhavrao Peshwa suffered from throughout his life?",
-        "modelAnswer": "Madhavrao Peshwa suffered from tuberculosis throughout his brief life — yet he rebuilt the Maratha empire, personally led military campaigns, reorganized administration, and restored the empire's prestige. His achievements despite poor health make them even more remarkable. This can be observed in standard textbook examples from this chapter.",
+        "id": "la2",
+        "question": "Write in brief about: Conflict with the Afghans.",
+        "modelAnswer": "As Maratha power expanded in the north, conflict with Ahmad Shah Abdali and Afghan forces became inevitable. The Marathas fought to prevent foreign dominance and to protect Indian political balance. This conflict culminated in the Third Battle of Panipat, where both sides suffered heavy losses.",
         "keyPoints": [
-          "Madhavrao Peshwa suffered from tuberculosis throughout his brief life — yet he rebuilt the Maratha empire, personally led military campaigns, reorganized administration, and restored the empire's prestige.",
-          "His achievements despite poor health make them even more remarkable.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Maratha expansion led to confrontation with Afghan forces.",
+          "Ahmad Shah Abdali was the principal Afghan challenger.",
+          "Conflict culminated in the Third Battle of Panipat."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "Write in brief about: The after effects of the battle of Panipat.",
+        "modelAnswer": "Panipat caused severe losses to the Marathas and temporarily weakened their prestige in North India. Yet under Peshwa Madhavrao and commanders like Mahadji Shinde, the Marathas recovered rapidly, defeated rivals, and restored their influence at Delhi. The episode proved the resilience and organizational strength of the Maratha state.",
+        "keyPoints": [
+          "Panipat caused heavy human and political loss.",
+          "Marathas faced a temporary decline in prestige.",
+          "Under Madhavrao and major sardars, Maratha power revived.",
+          "Influence in Delhi and the north was restored."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "Write in brief: Why is Peshwa Madhavrao considered crucial to Maratha recovery?",
+        "modelAnswer": "Peshwa Madhavrao stabilized administration after a major crisis and checked enemies like the Nizam and Hyder Ali. He restored discipline, strengthened governance, and supported northern campaigns by key commanders. His leadership combined military action and public welfare, making him central to post-Panipat Maratha revival.",
+        "keyPoints": [
+          "Madhavrao restored order after Panipat.",
+          "He checked major adversaries in the Deccan and south.",
+          "He enabled revival of Maratha prestige in North India.",
+          "He is remembered as a capable and welfare-oriented Peshwa."
         ],
         "marks": 5
       }

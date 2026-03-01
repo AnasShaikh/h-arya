@@ -4,7 +4,8 @@
     "title": "Fundamental Rights — Part 2",
     "subject": "Civics",
     "pages": "80-82",
-    "description": "Covering the remaining Fundamental Rights — Right to Freedom of Religion, Cultural and Educational Rights, Right to Constitutional Remedies (the 'heart and soul' of the Constitution), and the Right to Education added in 2002."
+    "description": "Covering the remaining Fundamental Rights — Right to Freedom of Religion, Cultural and Educational Rights, Right to Constitutional Remedies (the 'heart and soul' of the Constitution), and the Right to Education added in 2002.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -16,7 +17,7 @@
         "Right to Constitutional Remedies",
         "Right to Education"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Dr. B.R. Ambedkar called the Right to Constitutional Remedies (Article 32) the 'heart and soul of the Constitution' because without it, all other rights would be meaningless."
     },
     {
@@ -28,7 +29,7 @@
         "The government decides which religion people must follow",
         "Religion is banned in public places"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "The Right to Freedom of Religion means every citizen can freely profess, practise, and propagate their religion. The state does not interfere in religious matters of individuals."
     },
     {
@@ -40,7 +41,7 @@
         "Article 21A",
         "Article 32"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Article 21A, added by the 86th Amendment in 2002, provides the right to free and compulsory education for all children between 6 and 14 years of age."
     },
     {
@@ -52,7 +53,7 @@
         "Minority communities based on religion or language",
         "Only political parties"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Under Articles 29-30, minority communities based on religion or language have the right to establish and administer their own educational institutions."
     },
     {
@@ -64,7 +65,7 @@
         "Supreme Court of India",
         "State Legislature"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Article 32 gives citizens the right to directly approach the Supreme Court of India for the enforcement of Fundamental Rights."
     }
   ],
@@ -200,7 +201,7 @@
         "Article 32",
         "Article 21A"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Dr. B.R. Ambedkar called Article 32 (Right to Constitutional Remedies) the 'heart and soul of the Constitution' because it makes all other Fundamental Rights enforceable."
     },
     {
@@ -212,7 +213,7 @@
         "Right to education",
         "Abolition of untouchability"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Article 25 guarantees freedom of conscience and the right to freely profess, practise, and propagate religion."
     },
     {
@@ -224,7 +225,7 @@
         "86th Amendment, 2002",
         "91st Amendment, 2003"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The 86th Amendment in 2002 added Article 21A to the Constitution, making free and compulsory education a Fundamental Right for children aged 6-14."
     },
     {
@@ -236,7 +237,7 @@
         "6 to 14 years",
         "6 to 18 years"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Article 21A guarantees free and compulsory education for all children between 6 and 14 years of age."
     },
     {
@@ -248,7 +249,7 @@
         "All schools must teach only national culture",
         "Citizens must adopt the culture of the majority"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Articles 29-30 protect the right of minority communities to conserve their language and culture, and to establish and administer their own educational institutions."
     },
     {
@@ -260,7 +261,7 @@
         "Religious instruction is compulsory in government schools",
         "Only national religion should be taught"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Article 28 states that no religious instruction shall be provided in educational institutions wholly maintained out of state funds, protecting the secular nature of government education."
     },
     {
@@ -272,7 +273,7 @@
         "The Right to Education Act (RTE Act)",
         "The National Education Policy"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The Right to Education (RTE) Act was passed in 2009 to implement the constitutional provision under Article 21A for free and compulsory education."
     },
     {
@@ -284,7 +285,7 @@
         "Only wealthy private organisations",
         "All minorities — whether based on religion or language"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": "D",
       "explanation": "Article 30 gives all minorities — whether based on religion or language — the right to establish and administer their own educational institutions."
     },
     {
@@ -296,7 +297,7 @@
         "Article 29",
         "Article 32"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": "D",
       "explanation": "Article 32 gives citizens the right to directly approach the Supreme Court for the enforcement of their Fundamental Rights."
     },
     {
@@ -308,7 +309,7 @@
         "When Parliament is in session",
         "During state budget sessions"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "During a National Emergency (under Article 352), most Fundamental Rights can be suspended, except the rights under Articles 20 (protection against arbitrary conviction) and 21 (right to life and personal liberty)."
     }
   ],
@@ -427,45 +428,61 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What does Article 25 of the Constitution guarantee?",
-        "modelAnswer": "Article 25 guarantees freedom of conscience and the right to freely profess, practise, and propagate religion. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write about: The Constitution prevents the imposition of religious taxes.",
+        "modelAnswer": "The Constitution ensures that the State does not force citizens to pay taxes for promoting any particular religion. This protects religious neutrality of the State and respects freedom of conscience of all citizens. By preventing compulsory religious taxation, the Constitution upholds secularism and equal treatment of all religions.",
         "keyPoints": [
-          "Defines the concept asked in: What does Article 25 of the Constitution guarantee?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "State cannot compel citizens to fund promotion of a specific religion.",
+          "This protects secular character of governance.",
+          "Citizens’ freedom of conscience is respected.",
+          "Ensures equal treatment of all religions."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "What do Cultural and Educational Rights (Articles 29-30) protect?",
-        "modelAnswer": "Articles 29-30 protect the right of minority communities to conserve their language and culture, and to establish and administer their own educational institutions. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write about: What is meant by Right to Constitutional Remedies?",
+        "modelAnswer": "The Right to Constitutional Remedies means that if a fundamental right is violated, a citizen can approach the Supreme Court or High Court for protection. Courts can issue writs such as Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto to enforce rights. This right makes fundamental rights meaningful and enforceable in practice.",
         "keyPoints": [
-          "Defines the concept asked in: What do Cultural and Educational Rights (Articles 29-30) protect?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Citizens can approach higher courts when rights are violated.",
+          "Courts issue writs for enforcement and protection of rights.",
+          "It is a practical guarantee, not just a declaration of rights.",
+          "Strengthens rule of law and accountability."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la3",
-        "question": "What does Article 28 say about religious instruction?",
-        "modelAnswer": "Article 28 states that no religious instruction shall be provided in educational institutions wholly maintained out of state funds, protecting the secular nature of government education. This can be observed in standard textbook examples from this chapter.",
+        "question": "State the reason: All Indian citizens can celebrate all festivals joyfully, because ...",
+        "modelAnswer": "All Indian citizens can celebrate festivals joyfully because the Constitution guarantees freedom of religion. People are free to profess, practise, and propagate their religion, subject to public order, morality, and health. This constitutional protection allows peaceful celebration of diverse festivals in a plural society.",
         "keyPoints": [
-          "Defines the concept asked in: What does Article 28 say about religious instruction?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Freedom of religion is constitutionally guaranteed.",
+          "Citizens can follow and celebrate their faith traditions.",
+          "Religious freedom is protected with reasonable constitutional limits.",
+          "Promotes harmony in a diverse society."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la4",
-        "question": "What is the main Act passed in 2009 to implement the Right to Education?",
-        "modelAnswer": "The Right to Education (RTE) Act was passed in 2009 to implement the constitutional provision under Article 21A for free and compulsory education. This can be observed in standard textbook examples from this chapter.",
+        "question": "State the reason: We can preserve and propagate our language, script and literature, because ...",
+        "modelAnswer": "We can preserve and propagate our language, script and literature because the Constitution provides cultural and educational rights. These rights protect the identity of different communities and allow them to conserve their heritage and establish institutions for its development. This strengthens cultural diversity within national unity.",
         "keyPoints": [
-          "Defines the concept asked in: What is the main Act passed in 2009 to implement the Right to Education?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Cultural and educational rights protect community identity.",
+          "Citizens can preserve language, script, and literature.",
+          "Communities may establish institutions for cultural development.",
+          "Supports diversity while maintaining national unity."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Explain: Why are judicial writs important for protecting fundamental rights?",
+        "modelAnswer": "Judicial writs are important because they provide immediate legal remedies when rights are violated. They empower courts to stop unlawful detention, compel public duty, prevent overreach by lower courts, and challenge illegal occupation of public office. Writ jurisdiction ensures that constitutional rights are not merely symbolic but actively protected.",
+        "keyPoints": [
+          "Writs provide direct and effective remedies against rights violations.",
+          "They control unlawful state action and protect individual liberty.",
+          "They maintain legal limits on authorities and courts.",
+          "They make constitutional rights enforceable."
         ],
         "marks": 5
       }

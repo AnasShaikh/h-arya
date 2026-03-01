@@ -451,69 +451,85 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What was Shivaji's response when soldiers brought the Muslim governor's daughter-in-law from Kalyan as a war prize?",
-        "modelAnswer": "Shivaji reprimanded the soldiers who brought the woman before him, treated her with complete dignity, said she was like a mother to him, provided her with gifts, and sent her back safely to her home. This legendary episode showed his absolute respect for women. This can be observed in standard textbook examples from this chapter.",
+        "question": "Find it from the chapter: Grave dangers in the life of Shivaji Maharaj.",
+        "modelAnswer": "Shivaji Maharaj faced many grave dangers throughout his life while establishing and protecting Swaraj. These included powerful enemy invasions, sieges, and life-threatening military encounters such as the confrontation with Afzalkhan, the siege situations during campaigns, and the house arrest at Agra. In each crisis, he responded with courage, strategy and presence of mind.",
         "keyPoints": [
-          "Shivaji reprimanded the soldiers who brought the woman before him, treated her with complete dignity, said she was like a mother to him, provided her with gifts, and sent her back safely to her home.",
-          "This legendary episode showed his absolute respect for women.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Maharaj repeatedly faced life-threatening military and political dangers.",
+          "Major dangers included enemy invasions, sieges, and critical encounters.",
+          "Agra house arrest was also a severe personal and political threat.",
+          "He overcame dangers through courage and strategic action."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "What does the title 'Rajarshi' mean?",
-        "modelAnswer": "Rajarshi combines 'Raja' (king) and 'Rishi' (sage/saint) — meaning a king with saintly virtues. Shivaji earned this title for his combination of military genius and extraordinary moral character. This can be observed in standard textbook examples from this chapter.",
+        "question": "Find it from the chapter: They risked their life at the time of Maharaj’s escape from Agra.",
+        "modelAnswer": "During the escape from Agra, Hiroji Farjand and Madari Meheter risked their lives to support Shivaji Maharaj’s plan. Their loyalty and bravery helped Maharaj evade Mughal control. This episode shows how devoted associates stood by him even in extreme danger.",
         "keyPoints": [
-          "Rajarshi combines 'Raja' (king) and 'Rishi' (sage/saint) — meaning a king with saintly virtues.",
-          "Shivaji earned this title for his combination of military genius and extraordinary moral character.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Hiroji Farjand risked his life in the Agra escape episode.",
+          "Madari Meheter also played a life-risking role.",
+          "Their support helped Maharaj’s successful escape.",
+          "The incident reflects deep loyalty of Maharaj’s associates."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la3",
-        "question": "Which statement best describes Shivaji's attitude toward Muslim places of worship?",
-        "modelAnswer": "Shivaji issued specific aadnyapatra (royal orders) protecting mosques and Muslim holy sites from being damaged during military campaigns. Soldiers who violated these orders were punished. He had Muslim officers in his own army. This can be observed in standard textbook examples from this chapter.",
+        "question": "Find it from the chapter: What warning did Shivaji Maharaj issue to the Deshmukh of Rohida Valley?",
+        "modelAnswer": "Shivaji Maharaj warned the Deshmukh of Rohida Valley to remain alert and not neglect his duty of protecting the ryot during enemy movements. He expected local officers to prevent harm to people and property. The warning reflects Maharaj’s insistence on administrative responsibility even during wartime.",
         "keyPoints": [
-          "Shivaji issued specific aadnyapatra (royal orders) protecting mosques and Muslim holy sites from being damaged during military campaigns.",
-          "Soldiers who violated these orders were punished.",
-          "He had Muslim officers in his own army.",
-          "This can be observed in standard textbook examples from this chapter."
+          "The Deshmukh was warned not to neglect his duty.",
+          "Protection of ryot and villages was emphasized.",
+          "Local officers were expected to stay vigilant in enemy threat situations.",
+          "Maharaj enforced accountability in administration."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la4",
-        "question": "What happened to soldiers in Shivaji's army who mistreated civilians?",
-        "modelAnswer": "Shivaji had strict military discipline. Soldiers who looted, damaged farmers' property, or disrespected civilians — especially women — faced severe punishment including execution. This discipline made his army uniquely respectful of non-combatants. This can be observed in standard textbook examples from this chapter.",
+        "question": "Find it from the chapter: What inspiration can future generations draw from the life of Shivaji Maharaj?",
+        "modelAnswer": "Future generations can draw inspiration from Shivaji Maharaj’s courage, patriotism, ethical governance and commitment to people’s welfare. He combined military brilliance with justice, discipline, religious tolerance and public responsibility. His life teaches that nation-building requires character, vision and service to society.",
         "keyPoints": [
-          "Shivaji had strict military discipline.",
-          "Soldiers who looted, damaged farmers' property, or disrespected civilians — especially women — faced severe punishment including execution.",
-          "This discipline made his army uniquely respectful of non-combatants.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Inspiration from courage and leadership in adversity.",
+          "Emphasis on ethical and welfare-oriented governance.",
+          "Message of discipline, justice, and tolerance.",
+          "Example of nation-first vision and service."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "Why did contemporary European observers praise Shivaji during the sack of Surat?",
-        "modelAnswer": "English East India Company records and other European sources were astonished by the discipline of Shivaji's soldiers during the sacking of Surat — they specifically protected foreign traders and did not harm non-combatants. This was extraordinary for a military action of that era. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write about it in your own words: What warning did Shivaji Maharaj issue to his soldiers to avoid any loss to the ryot?",
+        "modelAnswer": "Shivaji Maharaj strictly instructed his soldiers not to trouble peasants or seize their produce by force. They were warned against causing damage to fields, crops or village life. His orders made it clear that the army existed to protect the people, not exploit them. This policy reduced hardship for the ryot even in times of conflict.",
         "keyPoints": [
-          "English East India Company records and other European sources were astonished by the discipline of Shivaji's soldiers during the sacking of Surat — they specifically protected foreign traders and did not harm non-combatants.",
-          "This was extraordinary for a military action of that era.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Soldiers were forbidden from harming peasants or taking goods by force.",
+          "Protection of crops and village property was mandatory.",
+          "Army discipline was linked to people’s welfare.",
+          "Policy showed Maharaj’s concern for the ryot."
         ],
         "marks": 5
       },
       {
         "id": "la6",
-        "question": "How did Shivaji's care for subjects differ from the Deccan Sultanates' approach?",
-        "modelAnswer": "The Deccan Sultanates primarily used Maharashtra's population for revenue extraction and soldiers. Shivaji created a system focused on the welfare of the people — fair taxation, care during famines, safe roads, equal justice — making Swaraj a kingdom that served its subjects rather than exploiting them. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write about it in your own words: How do we know that the religious policy of Shivaji Maharaj was that of tolerance?",
+        "modelAnswer": "Shivaji Maharaj respected people of different faiths and did not practice discrimination. He protected religious places, treated communities fairly, and maintained social harmony while governing Swaraj. His actions show that religion was not used for oppression. Therefore, his policy is remembered as one of tolerance and broad-minded statecraft.",
         "keyPoints": [
-          "The Deccan Sultanates primarily used Maharashtra's population for revenue extraction and soldiers.",
-          "Shivaji created a system focused on the welfare of the people — fair taxation, care during famines, safe roads, equal justice — making Swaraj a kingdom that served its subjects rather than exploiting them.",
-          "This can be observed in standard textbook examples from this chapter."
+          "He respected people of all religions.",
+          "He avoided discriminatory treatment in governance.",
+          "Protection and fairness toward different communities were maintained.",
+          "His conduct reflects a tolerant religious policy."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Write about it in your own words: Explain Shivaji Maharaj’s policy regarding the army.",
+        "modelAnswer": "Shivaji Maharaj built a disciplined and efficient army focused on mobility, fort defence, and strategic action. He organized forces carefully, maintained strict conduct, and linked military operations with protection of civilians. He also strengthened both land and naval power to defend Swaraj from multiple threats. His army policy balanced courage, discipline and public responsibility.",
+        "keyPoints": [
+          "Army was organized with discipline and strategic planning.",
+          "Civilian protection and ethical conduct were enforced.",
+          "Land forts and naval strength were both developed.",
+          "Military policy aimed at long-term security of Swaraj."
         ],
         "marks": 5
       }

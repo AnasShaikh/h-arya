@@ -541,73 +541,70 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Describe Sayali's initial excitement and her experience during the first day of the moon trip.",
-        "modelAnswer": "Sayali was extremely excited about her school trip to the moon, having waited a long time for this unique opportunity. On the first day, she was fascinated by the dome-shaped settlements and the extraordinary experience of walking in low gravity. She spent much of her time observing the dazzling stars and the enormous Earth, which appeared much larger than the moon does from Earth. Her joy was evident as she explored the futuristic environment with her friends, making the trip feel like a dream come true.",
+        "question": "Prepare a timetable for Sayali’s moon trip using details from the story and your imagination.",
+        "modelAnswer": "A possible timetable is: Day 1 - shuttle journey, safe landing at Neil Armstrong base, orientation and safety briefing, night-time Sky Watch, and observation notes. Day 2 - moon circus visit, settlement tour, self-study and essay preparation. Day 3 - visit to Armstrong footprint memorial, space-suit walk in low gravity, supervised exploration and souvenir time. Return Day - departure to earth, reunion with family, and reflection on learning from the trip.",
         "keyPoints": [
-          "Sayali's long-awaited excitement for the lunar trip.",
-          "Fascination with dome-shaped settlements and low gravity.",
-          "Observation of the dazzling stars and the massive Earth.",
-          "The sense of wonder and joy during her first day of exploration."
+          "Timetable should follow sequence: travel, orientation, exploration, return.",
+          "Include key listed activities: Sky Watch, circus, historical visit.",
+          "Add study/reflection components as given by teacher in story.",
+          "Show time management and educational purpose of trip."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la2",
-        "question": "Explain the scientific phenomenon that caused Sayali's earrings to feel light on the moon but heavy on Earth.",
-        "modelAnswer": "The change in the weight of Sayali's earrings is due to the significant difference in gravitational pull between the Moon and the Earth. The Moon's gravity is only one-sixth of the Earth's gravity, which means all objects weigh much less on the lunar surface. When Sayali bought the earrings on the moon, they felt light and easy to carry, but back on Earth, the stronger gravity made them feel six times heavier. This scientific fact provides a clever twist to the story, highlighting the physical realities of space travel.",
+        "question": "Diary writing task: Imagine you are Sayali. Write one detailed diary entry from the moon trip.",
+        "modelAnswer": "Dear Diary, Today was unforgettable. From the shuttle window, I saw earth getting smaller and the sky turning black with bright stars. At the base, we were told to follow safety rules and buy souvenirs only from authorized shops. At night, the sky looked magical and the earth looked huge and bright from the moon. I felt both excited and thoughtful. I realized space travel is not just fun; it needs discipline, observation, and responsibility. I cannot wait to write my full essay for class.",
         "keyPoints": [
-          "Difference in gravitational pull between Earth and the Moon.",
-          "Moon's gravity is 1/6th of Earth's gravity.",
-          "Earrings felt light on the moon but heavy on Earth due to 6x gravity.",
-          "Scientific explanation for the story's 'souvenir' twist."
+          "Diary voice should be personal and first-person.",
+          "Include feelings + observations + key events.",
+          "Reflect on learning, not just excitement.",
+          "Use story details accurately."
+        ],
+        "marks": 6
+      },
+      {
+        "id": "la3",
+        "question": "Discuss: Why are human settlements mentioned in the story, but not cities or villages?",
+        "modelAnswer": "The moon environment is harsh and cannot support open, naturally grown settlements like cities or villages on earth. People must live in specially engineered dome-like habitats with controlled air, pressure, temperature, and gravity conditions. These are functional scientific settlements, not socially evolved urban or rural spaces. Therefore the story correctly uses the term “human settlements.”",
+        "keyPoints": [
+          "Moon conditions are extreme and unfit for normal open habitation.",
+          "Habitats must be artificial and controlled.",
+          "Such living spaces are technical settlements, not conventional cities/villages."
         ],
         "marks": 5
       },
       {
-        "id": "la3",
-        "question": "What was the significance of the 'First Footprint' on the moon, and why is it still preserved?",
-        "modelAnswer": "Visiting Neil Armstrong's footprint was a highlight of the trip, as it represented the first human contact with the lunar surface. This historic site is perfectly preserved on the moon because there is no atmosphere, and therefore no wind or rain to erode the surface. The story emphasizes the importance of this landmark, showing how it remains as a permanent tribute to human achievement. For Sayali and her classmates, seeing the footprint was a way to connect deeply with the history of space exploration.",
-        "keyPoints": [
-          "Significance of the footprint as the first human contact with the moon.",
-          "Lack of atmosphere means no wind or rain to disturb the site.",
-          "Permanent preservation of the footprint as a historical landmark.",
-          "Connection for the students between history and their current trip."
-        ],
-        "marks": 4
-      },
-      {
         "id": "la4",
-        "question": "Describe the visual differences between the sky seen from Earth and the sky seen from the moon as mentioned in the story.",
-        "modelAnswer": "From the moon, the sky appears completely different than it does from Earth because the moon has no atmosphere to scatter sunlight. Consequently, the sky is always pitch black, even during the day, which makes the stars appear much brighter and more dazzling. Additionally, the Earth appears thirteen times larger from the moon's surface than the moon appears when viewed from Earth. This breathtaking view of the giant, blue planet hanging in a dark sky is one of the most memorable descriptions in the story.",
+        "question": "Explain the science: Why did the earrings feel acceptable on the moon but very heavy on earth?",
+        "modelAnswer": "The moon’s gravity is about one-sixth of earth’s gravity. So an object’s weight is much less on the moon, even though its mass remains the same. Sayali judged the earrings in low gravity, where they felt lighter. On returning to earth, full gravity acted on the same earrings, making them feel much heavier and uncomfortable to wear.",
         "keyPoints": [
-          "Moon's lack of atmosphere results in a pitch-black sky.",
-          "Stars appear dazzlingly bright without atmospheric interference.",
-          "Earth appears thirteen times larger than the moon appears from Earth.",
-          "The stunning visual contrast between the black sky and the large Earth."
+          "Mass stays constant; weight depends on gravity.",
+          "Moon gravity is about 1/6 of earth gravity.",
+          "Objects feel lighter on moon, heavier on earth."
         ],
-        "marks": 4
+        "marks": 5
       },
       {
         "id": "la5",
-        "question": "How does the story portray the future of space travel and human settlements on the moon?",
-        "modelAnswer": "The story depicts a future where space travel has become accessible enough for routine school trips, making the moon a common tourist destination. Human settlements are described as dome-shaped structures, similar to igloos, which are designed to withstand pressures and the lack of atmosphere. Interestingly, the existence of unauthorized souvenir sellers suggests that human commerce and social issues have followed people to the moon. This vision of the future combines advanced technology with familiar human behaviors, creating a plausible science-fiction setting.",
+        "question": "Character reflection: What mistake did Sayali make, and what lesson does the story teach?",
+        "modelAnswer": "Sayali made a hasty purchase from an unauthorized seller, ignoring clear safety instructions. She acted emotionally without checking practical suitability for earth conditions. The story teaches that excitement should be balanced with informed decision-making, especially in unfamiliar scientific environments. Following instructions and thinking before buying are essential life skills.",
         "keyPoints": [
-          "Space travel portrayed as accessible for school educational trips.",
-          "Use of dome-shaped, igloo-like structures for pressurized living.",
-          "Extension of human commerce, including unauthorized sellers, to the moon.",
-          "Blending of futuristic technology with typical human social dynamics."
+          "She ignored instruction to buy only from authorized shops.",
+          "Decision was impulsive and not scientifically thought through.",
+          "Lesson: responsibility, verification, and self-control in new situations."
         ],
         "marks": 5
       },
       {
         "id": "la6",
-        "question": "Why did Sayali buy the earrings from an unauthorized seller, and what lesson did she learn?",
-        "modelAnswer": "Sayali bought the earrings from an unauthorized seller outside the main settlement because she was eager to bring back a unique souvenir from her trip. She was warned not to leave the safe zones or buy from such vendors, but her curiosity and desire for a bargain led her to make the purchase anyway. However, the earrings became a source of trouble when their weight increased on Earth, making them useless as jewelry. This experience taught her the importance of following safety instructions and the consequences of buying from unreliable sources.",
+        "question": "Write in brief: What does Sayali’s moon journey reveal about future life and travel in space?",
+        "modelAnswer": "Sayali’s journey presents space travel as possible but highly regulated, educational, and technology-dependent. It suggests future life beyond earth may involve planned settlements, safety protocols, and adaptation to new physical conditions. Entertainment, tourism, and learning may all become part of space journeys. At the same time, human judgment and ethics remain as important as technology.",
         "keyPoints": [
-          "Sayali's desire for a unique souvenir led her to an unauthorized seller.",
-          "Disregard for warnings about safety and authorized commerce zones.",
-          "The practical problem of the earrings' weight once back on Earth.",
-          "Lessons learned about following rules and the risks of unauthorized purchases."
+          "Future space travel can be normalised through technology.",
+          "Life in space requires strict systems and adaptation.",
+          "Education and awareness are central to safe exploration.",
+          "Human responsibility remains critical."
         ],
         "marks": 5
       }

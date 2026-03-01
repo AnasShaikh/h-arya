@@ -4,7 +4,8 @@
     "title": "The Sun, the Moon and the Earth",
     "subject": "Geography",
     "pages": "3-8",
-    "description": "Moon's axial and orbital motions, phases of the moon, solar and lunar eclipses, perigee and apogee"
+    "description": "Moon's axial and orbital motions, phases of the moon, solar and lunar eclipses, perigee and apogee",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -530,45 +531,61 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Why do we always see only one face of the moon?",
-        "modelAnswer": "The moon takes the same time (~27.3 days) for one rotation and one revolution around Earth. So the same face always points towards Earth. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: Why do the sun, the moon and the earth not lie in one and the same line on every full moon and new moon day?",
+        "modelAnswer": "The orbital plane of the moon is tilted with respect to the orbital plane of the earth around the sun. Therefore, on most full moon and new moon days, the moon passes slightly above or below the earth-sun alignment. Exact straight-line alignment occurs only when the moon is near the nodes (intersection points of the two orbital planes). Hence eclipses are not seen every month.",
         "keyPoints": [
-          "The moon takes the same time (~27.3 days) for one rotation and one revolution around Earth.",
-          "So the same face always points towards Earth.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Moon’s orbit is inclined relative to Earth’s orbital plane.",
+          "Most full/new moon positions are not perfectly aligned.",
+          "Eclipses occur only near orbital nodes.",
+          "Therefore eclipses are occasional, not monthly."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "Why doesn't a solar eclipse occur on every New Moon day?",
-        "modelAnswer": "The Moon's orbital plane is inclined about 5° to Earth's orbital plane. So even on New Moon day, the three bodies are rarely in the same plane — eclipses only happen when they align exactly. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: When a total solar eclipse occurs, why is a partial eclipse also seen from the earth?",
+        "modelAnswer": "During a solar eclipse, the moon casts two shadow regions on the earth: a dark central umbra and a lighter surrounding penumbra. Observers in the umbra see a total eclipse, while those in the penumbra see only part of the sun covered, i.e., a partial eclipse. Since the penumbral region is much larger, partial eclipse is visible over a wider area.",
         "keyPoints": [
-          "The Moon's orbital plane is inclined about 5° to Earth's orbital plane.",
-          "So even on New Moon day, the three bodies are rarely in the same plane — eclipses only happen when they align exactly.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Moon forms umbra (total) and penumbra (partial) shadow regions.",
+          "Total eclipse is seen only from narrow umbral path.",
+          "Partial eclipse is seen from broader penumbral zone.",
+          "Different shadow zones create different eclipse experiences."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "What is the maximum duration of a total lunar eclipse?",
-        "modelAnswer": "The maximum duration of a total lunar eclipse is 107 minutes. (For comparison, total solar eclipse maximum is only 7 minutes 20 seconds.). This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: Suggest measures to eradicate superstitions related to eclipses.",
+        "modelAnswer": "Superstitions about eclipses can be reduced through scientific education, public demonstrations, and awareness campaigns in schools and communities. Teachers, scientists, media, and local institutions should explain that eclipses are natural astronomical events caused by positional alignment. Organizing safe eclipse-viewing sessions and sharing verified information in local languages helps replace fear with understanding.",
         "keyPoints": [
-          "The maximum duration of a total lunar eclipse is 107 minutes.",
-          "(For comparison, total solar eclipse maximum is only 7 minutes 20 seconds.).",
-          "This can be observed in standard textbook examples from this chapter."
+          "Promote scientific education and astronomy awareness.",
+          "Use schools/media/community outreach to spread facts.",
+          "Conduct guided safe eclipse observation programs.",
+          "Counter myths with verified, accessible information."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What precaution must you take while observing a solar eclipse?",
-        "modelAnswer": "Looking at a solar eclipse (even partial) with naked eyes can permanently damage your eyesight. Special eclipse goggles or shade #14 welding glass are needed to safely observe it. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: What precautions should we take while observing a solar eclipse?",
+        "modelAnswer": "Never observe the sun directly with naked eyes during a solar eclipse. Use certified eclipse glasses or proper solar filters; ordinary sunglasses are unsafe. Avoid looking through telescopes, binoculars, or cameras without approved solar filters. Use safe indirect methods like pinhole projection for group observation.",
         "keyPoints": [
-          "Looking at a solar eclipse (even partial) with naked eyes can permanently damage your eyesight.",
-          "Special eclipse goggles or shade #14 welding glass are needed to safely observe it.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Do not look at the sun directly with naked eyes.",
+          "Use certified eclipse glasses/solar filters only.",
+          "Avoid optical devices unless fitted with safe filters.",
+          "Prefer indirect viewing methods like pinhole projection."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Answer: What types of solar eclipses can occur when the moon is in perigee condition?",
+        "modelAnswer": "When the moon is in perigee, it appears larger from the earth because it is closer. If alignment is suitable, the moon can completely cover the sun, producing a total solar eclipse. Depending on the observer’s location relative to the shadow path, some regions may still observe a partial solar eclipse.",
+        "keyPoints": [
+          "At perigee, the moon appears larger in the sky.",
+          "This favors total solar eclipse when alignment is exact.",
+          "Areas outside totality still observe partial eclipse.",
+          "Eclipse type depends on distance plus alignment and viewing location."
         ],
         "marks": 5
       }

@@ -404,87 +404,81 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What does the old English word 'hither' mean?",
-        "modelAnswer": "The old English word 'hither' simply means 'here' in modern English. In the song \"Under the Greenwood Tree\", the repeated phrase \"Come hither\" acts as a warm and enthusiastic invitation. It is an archaic word that Shakespeare used because he wrote the play over 400 years ago. Understanding such words helps us appreciate the original beauty of his poetry. For example, when someone says \"come hither,\" they are just inviting you to join them where they are.",
+        "question": "Explain the main theme of the song “Under the Greenwood Tree”.",
+        "modelAnswer": "The song celebrates a simple, natural, and carefree life away from greed, competition, and courtly pretence. It invites people to come into the forest and live in harmony with nature. The speaker values freedom, companionship, and contentment over material ambition. Thus, the poem presents nature as a space of emotional peace and moral clarity.",
         "keyPoints": [
-          "'Hither' is an archaic English word that translates to 'here' in modern language.",
-          "It is used in the song as an enthusiastic invitation (\"Come hither\").",
-          "The word reflects the period over 400 years ago when Shakespeare wrote.",
-          "It helps convey a welcoming tone to those seeking the simple forest life."
+          "Theme: simple living and freedom in nature.",
+          "Rejects artificial social pressures and ambition.",
+          "Values contentment, fellowship, and natural joy."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "What does the old English word 'doth' mean?",
-        "modelAnswer": "The word 'doth' is an old English form of the modern verb 'does'. In Shakespeare's song, the phrase \"who doth ambition shun\" means \"whoever does shun ambition\". It is considered an archaic word because it is no longer used in everyday modern English. However, reading words like 'doth' allows us to experience the English language as it was spoken centuries ago. Today, you might still occasionally see such words in very old formal or legal documents.",
+        "question": "Who is invited under the greenwood tree, and what kind of life is offered there?",
+        "modelAnswer": "The song invites anyone who is free-hearted and willing to accept life without luxury or false pride. Under the greenwood tree, one finds open air, honest living, and companionship with people who value equality and cheerfulness. The life offered is modest but meaningful, built on nature, song, and mutual goodwill.",
         "keyPoints": [
-          "'Doth' is the archaic form of the modern verb 'does'.",
-          "It appears in the line \"who doth ambition shun\", referring to someone who avoids ambition.",
-          "The word is a reflection of the English language as it was over 400 years ago.",
-          "While no longer in everyday use, it adds historical flavour to Shakespeare's poetry."
+          "Invitation is open to free-minded, non-greedy people.",
+          "Offered life is modest, cheerful, and close to nature.",
+          "Stress on equality, friendship, and inner contentment."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "According to the song, what is the only enemy in the forest life?",
-        "modelAnswer": "According to the song, the only enemies in the forest are \"winter and rough weather\". This highlights that in a simple natural life, the only challenges people face are natural ones like cold or storms. Unlike the ambitious worldly life at court, there are no human enemies driven by jealousy, greed, or political rivalry. The forest is portrayed as a peaceful paradise where people can live freely and honestly. The focus is on natural survival rather than interpersonal conflict.",
+        "question": "According to the song, what is the only enemy? Why is this significant?",
+        "modelAnswer": "The song says the only enemy is winter and rough weather, not fellow human beings. This is significant because it contrasts natural hardship with social conflict: in the forest community, people do not harm one another through jealousy or status rivalry. The line highlights an ideal world where nature may challenge the body, but society does not wound the mind.",
         "keyPoints": [
-          "The only enemies mentioned in the forest are \"winter and rough weather\".",
-          "The challenges of forest life are entirely natural, not man-made.",
-          "There are no human enemies, jealousy, or political rivalries in this simple life.",
-          "The forest represents a peaceful paradise free from worldly corruption."
+          "Enemy is natural hardship, not human hostility.",
+          "Suggests a conflict-free and cooperative social space.",
+          "Contrasts nature’s challenge with society’s artificial cruelty."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What does the song invite people to sing to?",
-        "modelAnswer": "The song invites people to sing \"unto the sweet bird's throat\", which means to sing as freely and naturally as the birds do. This invitation encourages people to harmonize with nature and let go of their worldly worries. By comparing human singing to a bird's song, Shakespeare emphasizes a life of joy and simple pleasures. It paints a picture of contentment where individuals can express themselves without any self-consciousness. Singing in the forest represents pure, unburdened happiness.",
+        "question": "Write a note on the symbolic meaning of the “greenwood tree”.",
+        "modelAnswer": "The greenwood tree symbolizes shelter, freedom, and an alternative way of life rooted in nature. It represents a democratic space where social rank is less important than character and companionship. As a poetic symbol, it also stands for renewal, freshness, and emotional healing. The repeated invitation under the tree makes it a symbol of belonging.",
         "keyPoints": [
-          "People are invited to sing \"unto the sweet bird's throat\".",
-          "This means singing freely, naturally, and joyfully like birds.",
-          "It symbolizes living in harmony with nature and abandoning worldly stress.",
-          "The act of singing reflects the pure happiness and contentment of forest life."
+          "Symbol of shelter and natural freedom.",
+          "Represents equality and humane fellowship.",
+          "Suggests renewal, healing, and belonging."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "What is the main theme of 'Under the Greenwood Tree'?",
-        "modelAnswer": "The central theme of \"Under the Greenwood Tree\" is the contrast between a complicated, ambitious worldly life and a simple, peaceful life in nature. The song suggests that true happiness comes from living honestly and freely, away from the corruption and rivalries of the royal court. By rejecting ambition, individuals can find contentment in the forest, where their only challenges are the weather. The greenwood tree serves as a powerful symbol of this freedom and natural joy. Ultimately, it is an invitation to choose inner peace over worldly success.",
+        "question": "How does the language of old words (like “hither”, “doth”) shape the mood of the poem?",
+        "modelAnswer": "Old words such as “hither” and “doth” create a musical, classical tone and connect the reader with an earlier cultural world. This diction slows the rhythm slightly and gives the song a lyrical charm suited to performance. It also reinforces the timeless quality of the poem’s message: the longing for simple and sincere life exists across ages.",
         "keyPoints": [
-          "The poem contrasts the ambitious worldly life with a simple life in nature.",
-          "True happiness and contentment are found in honest, simple living.",
-          "The forest offers freedom from human enemies, jealousy, and political corruption.",
-          "The greenwood tree symbolizes freedom, natural joy, and inner peace."
+          "Archaic words create classical and lyrical mood.",
+          "Language style enhances musicality of the song.",
+          "Connects timeless values to historical poetic voice."
         ],
-        "marks": 5
+        "marks": 4
       },
       {
         "id": "la6",
-        "question": "Who is invited in the song to come under the greenwood tree?",
-        "modelAnswer": "The song explicitly invites those \"who doth ambition shun,\" meaning people who have rejected worldly ambition and the rat race. It is a warm call for free-spirited individuals who seek contentment over wealth or power. These are people who prefer a simple, honest life in harmony with nature rather than dealing with political rivalries. Shakespeare suggests that the forest is a sanctuary for those tired of the complicated royal court. Therefore, only those willing to live freely and peacefully are truly welcome.",
+        "question": "Compare life “under the greenwood tree” with modern urban life.",
+        "modelAnswer": "Life under the greenwood tree is shown as slow, communal, and minimally materialistic, while modern urban life is fast, competitive, and consumption-driven. In the poem, happiness comes from nature, music, and companionship; in cities, it is often linked with career pressure and possessions. The comparison encourages readers to rethink priorities and restore balance between progress and peace of mind.",
         "keyPoints": [
-          "The song invites those \"who doth ambition shun\" or people who reject worldly ambition.",
-          "It calls for free-spirited individuals who prioritize contentment over wealth and power.",
-          "The forest is presented as a sanctuary away from the complicated, competitive royal court.",
-          "The invitation is meant for people seeking a simple, honest life in harmony with nature."
+          "Greenwood life: simple, collective, nature-centered.",
+          "Urban life: fast, competitive, materially driven.",
+          "Poem invites reflection on sustainable and humane living."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la7",
-        "question": "What does the greenwood tree symbolize in the song?",
-        "modelAnswer": "The greenwood tree is a powerful symbol of freedom, natural happiness, and an escape from societal pressures. It represents a simpler way of life where individuals can find contentment without wealth or status. Unlike the royal court, which is filled with enemies and ambition, the tree offers shelter and peace. Under its branches, people can sing freely like birds and enjoy pure, unburdened joy. Ultimately, it embodies the ideal of finding inner peace by living in harmony with the natural world.",
+        "question": "Creative response: If you were invited to live under the greenwood tree, would you accept? Give reasons.",
+        "modelAnswer": "I would accept for some time because such life offers mental peace, closeness to nature, and relief from noise and pressure. Living there would teach self-reliance, gratitude, and value of relationships without material display. However, I would also seek balance, because modern education, healthcare, and opportunities are important. So I would choose a blended life: modern responsibility with greenwood values.",
         "keyPoints": [
-          "The tree symbolizes freedom, natural happiness, and an escape from societal pressures.",
-          "It represents a simple life where contentment is found without wealth or high status.",
-          "The tree offers a peaceful shelter, contrasting sharply with the corrupt and competitive royal court.",
-          "It embodies the idea of finding true inner peace by living harmoniously with nature."
+          "Take clear personal position with reasons.",
+          "Mention emotional and ethical advantages of simple life.",
+          "Acknowledge practical needs of modern life.",
+          "Conclude with balanced viewpoint."
         ],
-        "marks": 5
+        "marks": 6
       }
     ]
   }

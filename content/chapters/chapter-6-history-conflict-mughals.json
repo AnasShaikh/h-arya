@@ -4,7 +4,8 @@
     "title": "Conflict with the Mughals",
     "subject": "History",
     "pages": "24-28",
-    "description": "The sustained conflict between Shivaji Maharaj and the Mughal Empire — the Shaista Khan episode, the sacking of Surat, the Purandardar Treaty, the Agra imprisonment and escape, and the development of Maratha guerrilla warfare (ganimi kava)."
+    "description": "The sustained conflict between Shivaji Maharaj and the Mughal Empire — the Shaista Khan episode, the sacking of Surat, the Purandardar Treaty, the Agra imprisonment and escape, and the development of Maratha guerrilla warfare (ganimi kava).",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -407,72 +408,75 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "How many forts did Shivaji retain after the Purandardar Treaty?",
-        "modelAnswer": "The Purandardar Treaty required Shivaji to surrender 23 forts to the Mughals and retain only 12. Before the treaty, Shivaji had about 35 forts. He later recaptured most of the surrendered forts. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write about this in your own words: The Coronation of Shivaji Maharaj.",
+        "modelAnswer": "After recapturing forts and strengthening Swaraj, Shivaji Maharaj decided to perform a formal coronation at Raigad in 1674. Scholars examined traditions and Gaga Bhatt of Kashi guided the rituals. The ceremony declared Shivaji Maharaj as Chhatrapati and gave political legitimacy to Swaraj. Coins were issued in his name and administration became more organized after the coronation.",
         "keyPoints": [
-          "The Purandardar Treaty required Shivaji to surrender 23 forts to the Mughals and retain only 12.",
-          "Before the treaty, Shivaji had about 35 forts.",
-          "He later recaptured most of the surrendered forts.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Coronation took place at Raigad in 1674.",
+          "Gaga Bhatt and learned scholars conducted/validated the rituals.",
+          "Shivaji Maharaj was formally proclaimed Chhatrapati.",
+          "Coronation strengthened legitimacy and administration of Swaraj."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "What does 'ganimi kava' mean?",
-        "modelAnswer": "Ganimi kava refers to guerrilla warfare tactics — fighting through surprise attacks, quick retreats, use of local terrain knowledge, and striking at supply lines rather than engaging in open battle. It was the military strategy that made Shivaji's relatively small forces extremely effective against the large Mughal army. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write about this in your own words: Escape from Agra.",
+        "modelAnswer": "Shivaji Maharaj went to Agra to meet Aurangzeb, but he was insulted in court and placed under house arrest. Maharaj stayed calm and planned his escape carefully. He escaped from confinement through a clever strategy and travelled safely back toward Maharashtra. Sambhaji Raje, who had been left at Mathura for safety, was later brought back to Rajgad.",
         "keyPoints": [
-          "Ganimi kava refers to guerrilla warfare tactics — fighting through surprise attacks, quick retreats, use of local terrain knowledge, and striking at supply lines rather than engaging in open battle.",
-          "It was the military strategy that made Shivaji's relatively small forces extremely effective against the large Mughal army.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Maharaj was dishonoured at Aurangzeb's court and kept under house arrest.",
+          "He used an intelligent plan to escape Agra.",
+          "He returned safely to Maharashtra.",
+          "Sambhaji Raje was later brought safely to Rajgad."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "In what year did Shivaji Maharaj pass away?",
-        "modelAnswer": "Shivaji Maharaj passed away on 3 April 1680 at Raigad fort. He died at the age of 50, leaving behind a well-organized Swaraj kingdom that would continue to resist the Mughals for decades after his death. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write about this in your own words: Shivaji Maharaj’s campaign of the South.",
+        "modelAnswer": "In the southern campaign, Shivaji Maharaj moved into the Karnatak region and captured important forts and territories. He appointed capable officers to administer newly conquered areas. This campaign increased the reach and strength of Swaraj in the south. The capture of Jinji later proved strategically important for Maratha resistance.",
         "keyPoints": [
-          "Shivaji Maharaj passed away on 3 April 1680 at Raigad fort.",
-          "He died at the age of 50, leaving behind a well-organized Swaraj kingdom that would continue to resist the Mughals for decades after his death.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Maharaj led a major campaign in the South/Karnatak.",
+          "Important forts and territories were annexed to Swaraj.",
+          "Administrative arrangements were made in conquered regions.",
+          "Jinji fort became very important in later years."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "Why was Jai Singh's military strategy against Shivaji more effective than previous Mughal generals?",
-        "modelAnswer": "Jai Singh's genius was avoiding open battle (where the terrain favored Marathas) and instead isolating Shivaji through a combination of siege warfare around key forts and diplomacy to convince Maratha sardars to defect. This strategy was far more effective than previous Mughal frontal attacks. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write about this in your own words: Shivaji Maharaj’s preparation for the coronation.",
+        "modelAnswer": "Before the coronation, Shivaji Maharaj ensured political and military stability by recovering forts and strengthening governance. Learned scholars were consulted to settle ritual and traditional questions. Arrangements were made at Raigad for a grand state ceremony. Through these preparations, the coronation projected Swaraj as a sovereign and well-organized kingdom.",
         "keyPoints": [
-          "Jai Singh's genius was avoiding open battle (where the terrain favored Marathas) and instead isolating Shivaji through a combination of siege warfare around key forts and diplomacy to convince Maratha sardars to defect.",
-          "This strategy was far more effective than previous Mughal frontal attacks.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Military and political position of Swaraj was strengthened first.",
+          "Scholars were consulted for ritual legitimacy.",
+          "Raigad was prepared for the grand coronation ceremony.",
+          "Preparation aimed to establish Swaraj as a sovereign state."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "What role did Shivaji's spy network play in his success?",
-        "modelAnswer": "Shivaji had a sophisticated intelligence and spy network. Advance warning of Afzal Khan's treacherous intentions allowed Shivaji to prepare the bagh nakh. Intelligence about Shaista Khan's lax security during the wedding allowed the night raid. Information gathering was central to his military success. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give reasons: Shivaji Maharaj entered into the Treaty of Purandar.",
+        "modelAnswer": "Mirzaraja Jaisingh's campaign put severe pressure on Swaraj by targeting forts and surrounding support lines. To avoid greater losses and gain time, Shivaji Maharaj accepted the Treaty of Purandar. The treaty was a strategic pause, not surrender. Later, Maharaj used this time to reorganize and again go on the offensive.",
         "keyPoints": [
-          "Shivaji had a sophisticated intelligence and spy network.",
-          "Advance warning of Afzal Khan's treacherous intentions allowed Shivaji to prepare the bagh nakh.",
-          "Intelligence about Shaista Khan's lax security during the wedding allowed the night raid.",
-          "Information gathering was central to his military success."
+          "Jaisingh's strong campaign created difficult military pressure.",
+          "Treaty helped avoid immediate larger losses.",
+          "It gave Maharaj time for regrouping and planning.",
+          "Maharaj later resumed offensive action and recovered strength."
         ],
-        "marks": 5
+        "marks": 4
       },
       {
         "id": "la6",
-        "question": "Which of the following best describes why Shivaji chose guerrilla warfare over open battle?",
-        "modelAnswer": "The Mughal army was vastly larger with superior cavalry on plains. In open battle, Shivaji would lose by sheer numbers. Guerrilla warfare in the Western Ghats terrain — where Mughal cavalry was ineffective and supply lines were vulnerable — allowed the smaller Maratha forces to be devastatingly effective. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give reasons: Shivaji Maharaj took an aggressive stand against the Mughals.",
+        "modelAnswer": "The Mughals repeatedly attacked Swaraj and occupied forts and territory, so a defensive stance alone was insufficient. Shivaji Maharaj therefore chose offensive strategy to recover forts, disrupt Mughal control, and protect Swaraj's expansion. Actions such as raids and fort recaptures weakened Mughal pressure. This aggressive policy restored confidence among people and strengthened the Maratha state.",
         "keyPoints": [
-          "The Mughal army was vastly larger with superior cavalry on plains.",
-          "In open battle, Shivaji would lose by sheer numbers.",
-          "Guerrilla warfare in the Western Ghats terrain — where Mughal cavalry was ineffective and supply lines were vulnerable — allowed the smaller Maratha forces to be devastatingly effective.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Mughal attacks threatened the existence and growth of Swaraj.",
+          "Offensive action was needed to recover forts and territory.",
+          "Aggressive campaigns reduced Mughal pressure in the Deccan.",
+          "People's confidence in Maharaj and Swaraj increased."
         ],
-        "marks": 5
+        "marks": 4
       }
     ]
   }

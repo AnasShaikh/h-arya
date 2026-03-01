@@ -403,75 +403,75 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Describe the magnificent bed and throne the poet wishes to have in Tartary.",
-        "modelAnswer": "The poet imagines that if he were the Lord of Tartary, he would sleep on a magnificent bed made of ivory. He also envisions sitting on a grand royal throne crafted from beaten gold to rule his land. These luxurious items highlight the extravagant and majestic lifestyle the poet dreams of experiencing. The use of precious materials like ivory and gold symbolizes the immense wealth and royal status of the imaginary king.",
+        "question": "Write in 8–10 lines: What could be the daily routine of the “Lord of Tartary”?",
+        "modelAnswer": "The Lord of Tartary would begin his day before sunrise, wearing his rich robe and carrying his scimitar. He would travel through dark glades in a grand chariot drawn by zebras. Trumpeters would announce his meals in a royal courtyard. During the day he would oversee forests, rivers, lakes, birds, and creatures of his kingdom. In the evening, honey-yellow and wine-red lamps would glow in the palace. Musicians with harp, flute, and mandoline would perform sweet melodies. His routine blends royal power, natural beauty, and artistic pleasure.",
         "keyPoints": [
-          "The poet wishes for a magnificent bed made of ivory.",
-          "He imagines ruling his kingdom from a throne made of beaten gold.",
-          "Ivory and gold symbolize the immense wealth and royal status of the king.",
-          "These items highlight the luxurious lifestyle of his dream world."
+          "Morning begins early with royal dress and ceremony.",
+          "Public movement through the kingdom in zebra-drawn car.",
+          "Meals announced by trumpeters.",
+          "Evening marked by lamps and music in palace setting."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la2",
-        "question": "What animals are mentioned in the poem 'Tartary', and what are their roles?",
-        "modelAnswer": "The poem mentions several animals that add to the wild and magical charm of Tartary. Peacocks proudly display their beautiful feathers in the royal court, while great fishes slant their fins in the pools. Tigers roam freely through the dark forests of the kingdom, adding a sense of mysterious wildness. Finally, seven zebras are envisioned pulling the poet's royal carriage through the dark glades, providing an exotic touch to his transportation.",
+        "question": "Using imagination, describe a beautiful region (landforms, water bodies, flora-fauna, night sky, people).",
+        "modelAnswer": "My imagined region lies between green hills and a wide silver river. Waterfalls descend into clear lakes where lotuses bloom and birds gather at dawn. The forests are rich with flowering trees, deer, peacocks, and gentle winds carrying fragrance. Villages are clean and artistic, with people who celebrate music and nature. At night, the sky is deep and star-filled, reflecting in the still water like scattered diamonds. The region feels peaceful, fertile, and full of life.",
         "keyPoints": [
-          "Peacocks proudly flaunt their beautiful feathers in the royal court.",
-          "Great fishes are seen slanting their fins in the pools under the sun.",
-          "Tigers roam freely in the dark and mysterious forests of the kingdom.",
-          "Seven zebras are used to pull the poet's royal carriage through the glades."
+          "Describe relief: hills/valleys/plains clearly.",
+          "Include water features: rivers/lakes/waterfalls.",
+          "Add flora-fauna and sensory imagery.",
+          "Mention human life/culture and night-sky atmosphere."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la3",
-        "question": "Describe the musical instruments and lighting in the evening in Tartary.",
-        "modelAnswer": "In the imaginary kingdom of Tartary, the evenings are filled with beautiful light and enchanting music. The poet imagines lamps shining brightly, with colours as yellow as honey and as red as wine. During this time, musicians would play string and wind instruments, specifically the harp, the flute, and the mandoline. This combination of warm lighting and sweet, gay music creates a pleasant and soothing atmosphere in the royal court.",
+        "question": "Explain how colour, sound, and nature imagery make “Tartary” beautiful.",
+        "modelAnswer": "The poem creates beauty by combining vivid colour words, musical sound patterns, and rich natural imagery. Colours like “yellow as honey,” “red as wine,” and “purple vale” make the kingdom visually radiant. Sounds from “trumpeters,” “harp, flute, and mandoline” create a festive atmosphere. Nature images such as rivers, hills, glades, fishes, stars, and scented breeze turn Tartary into a dream world. These elements together make the poem sensuous and memorable.",
         "keyPoints": [
-          "In the evening, lamps would shine in colours as yellow as honey and red as wine.",
-          "Musicians would play the harp, the flute, and the mandoline.",
-          "The instruments would produce sweet and gay music for the Lord of Tartary.",
-          "The lighting and music create a pleasant and enchanting atmosphere in the court."
+          "Colour imagery gives visual richness.",
+          "Sound imagery creates rhythm and celebration.",
+          "Nature imagery builds dreamlike landscape.",
+          "Combined effect: musical and picturesque poetry."
         ],
         "marks": 5
       },
       {
         "id": "la4",
-        "question": "Describe the royal attire the poet wishes to wear as the Lord of Tartary.",
-        "modelAnswer": "As the supreme ruler of Tartary, the poet desires to wear a magnificent robe made entirely of beads. These beads would be in vibrant colours of white, gold, and green, and clustered together as thickly as seeds. Early in the morning, before the morning star fades, he would put on this majestic robe. He would also equip himself with a scimitar, a curved sword, completing his grand vision of being a majestic king.",
+        "question": "Identify and explain three comparisons used in the poem.",
+        "modelAnswer": "The poet uses similes/comparisons to make images vivid. “Yellow as honey” compares lamp light to the warm colour of honey. “Red as wine” suggests richness and luxury in evening glow. “Trembling lake like foamless seas” compares the lake’s surface to calm sea-water, creating a grand yet peaceful image. These comparisons strengthen the dreamlike beauty of Tartary.",
         "keyPoints": [
-          "The poet wishes to wear a magnificent robe made entirely of coloured beads.",
-          "The beads would be white, gold, and green, clustered tightly like seeds.",
-          "He would put on this attire early in the morning before the morning star wanes.",
-          "He would also carry a scimitar to complete his royal and powerful look."
+          "Comparison 1: yellow as honey (warm glow).",
+          "Comparison 2: red as wine (rich, royal colour).",
+          "Comparison 3: lake like foamless seas (calm grandeur).",
+          "Comparisons make imagery more concrete and emotional."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "Describe the natural beauty and landscape of the imaginary kingdom of Tartary.",
-        "modelAnswer": "The kingdom of Tartary is depicted as a beautiful, magical land filled with enchanting natural elements. The landscape features silver-pale rivers, trembling lakes that look like foamless seas, and hills with glens, thickets, woods, and dales. The night sky is illuminated by flashing stars, and a sweet-scented breeze blows gently across the land. Additionally, the valleys are filled with bird-delighting citron-trees, creating a deeply peaceful and visually stunning atmosphere.",
+        "question": "What kind of dream world does the speaker create in “Tartary”?",
+        "modelAnswer": "The speaker imagines an ideal kingdom where he has complete authority, splendour, and harmony with nature. Royal objects like ivory bed and golden throne represent luxury, while forests, rivers, birds, and stars bring natural abundance. Music, colour, and ceremony make life graceful and joyful. The dream world reflects desire for beauty, freedom, and poetic self-expression.",
         "keyPoints": [
-          "The landscape includes silver-pale rivers and trembling lakes like foamless seas.",
-          "The land features hills, glens, thickets, woods, and dales.",
-          "The environment is enhanced by flashing stars and a sweet-scented breeze.",
-          "Valleys are filled with beautiful, bird-delighting citron-trees."
+          "Tartary is an imagined ideal kingdom.",
+          "Combines royal luxury with natural richness.",
+          "Expresses desire for freedom, beauty, and joy.",
+          "Represents poetic dream rather than realistic geography."
         ],
         "marks": 5
       },
       {
         "id": "la6",
-        "question": "How is the Lord of Tartary summoned to his meals?",
-        "modelAnswer": "In the kingdom of Tartary, the poet envisions a grand and royal way of being called to his meals. Trumpeters would blow their instruments every day to announce the time for dining. These trumpeters would stand in the courtyard and bray their horns loudly to summon the Lord. This daily ritual adds to the sense of power, importance, and extreme luxury that the poet associates with being the ruler of Tartary.",
+        "question": "Write a short critical note on the title “Tartary”.",
+        "modelAnswer": "The title “Tartary” is effective because it immediately suggests a distant, exotic, and imaginative land. It sets the tone for fantasy and prepares the reader for unusual splendour and dream imagery. The place functions less as a map location and more as a symbol of the speaker’s ideal world. Thus, the title supports the poem’s central mood of romantic imagination.",
         "keyPoints": [
-          "The Lord of Tartary is summoned to his meals by royal trumpeters.",
-          "The trumpeters blow their instruments every day to announce meal times.",
-          "They stand in the courtyard and bray their horns loudly to call the Lord.",
-          "This ritual emphasizes the king's power, importance, and luxurious lifestyle."
+          "Title evokes distance, wonder, and fantasy.",
+          "Prepares reader for a dreamlike poetic setting.",
+          "Tartary acts symbolically as an idealized realm.",
+          "Strongly aligns with poem’s imaginative tone."
         ],
-        "marks": 5
+        "marks": 4
       }
     ]
   }

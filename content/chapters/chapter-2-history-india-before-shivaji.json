@@ -4,7 +4,8 @@
     "title": "India Before Shivaji",
     "subject": "History",
     "pages": "5-10",
-    "description": "A survey of medieval India from the 9th to 18th century — the decline of the Delhi Sultanate, rise of regional kingdoms, the Mughal Empire from Babur to Aurangzeb, and the Deccan Sultanates that shaped the world Shivaji was born into."
+    "description": "A survey of medieval India from the 9th to 18th century \u2014 the decline of the Delhi Sultanate, rise of regional kingdoms, the Mughal Empire from Babur to Aurangzeb, and the Deccan Sultanates that shaped the world Shivaji was born into.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -77,11 +78,11 @@
     {
       "id": "concept_2_1",
       "title": "Decline of the Delhi Sultanate",
-      "emoji": "🏰",
+      "emoji": "\ud83c\udff0",
       "colorTheme": "from-blue-400 to-cyan-500",
       "bgColor": "bg-blue-50",
       "borderColor": "border-blue-300",
-      "content": "The Delhi Sultanate had ruled much of North India for about 300 years when a devastating blow struck in 1398. Timur (Tamerlane), a Central Asian conqueror, invaded Delhi, looted the city, massacred thousands of people, and left the Sultanate in ruins. After Timur's invasion, the central authority of Delhi collapsed. Local governors and regional chiefs asserted their independence, leading to the creation of many smaller regional kingdoms across India. This fragmentation of power — while politically unstable — actually created space for diverse regional cultures and languages to flourish. By the early 16th century, the last effective rulers of the Sultanate were overthrown by the arrival of the Mughals.",
+      "content": "The Delhi Sultanate had ruled much of North India for about 300 years when a devastating blow struck in 1398. Timur (Tamerlane), a Central Asian conqueror, invaded Delhi, looted the city, massacred thousands of people, and left the Sultanate in ruins. After Timur's invasion, the central authority of Delhi collapsed. Local governors and regional chiefs asserted their independence, leading to the creation of many smaller regional kingdoms across India. This fragmentation of power \u2014 while politically unstable \u2014 actually created space for diverse regional cultures and languages to flourish. By the early 16th century, the last effective rulers of the Sultanate were overthrown by the arrival of the Mughals.",
       "pageReference": "5-6",
       "examples": [
         "After Timur left, the governors of Bengal, Gujarat, and Malwa each declared independence from Delhi.",
@@ -90,7 +91,7 @@
       ],
       "keyPoints": [
         "Timur's invasion of 1398 was the critical blow that broke the Delhi Sultanate's power.",
-        "After Timur, regional kingdoms rose across India — Gujarat, Malwa, Bengal, and the Deccan.",
+        "After Timur, regional kingdoms rose across India \u2014 Gujarat, Malwa, Bengal, and the Deccan.",
         "The fragmentation of the Delhi Sultanate allowed regional cultures and languages to develop.",
         "The last of the Delhi Sultans (Lodhi dynasty) was defeated by Babur at Panipat in 1526.",
         "This period of many kingdoms set the stage for both the Mughal Empire and the Maratha rise."
@@ -101,7 +102,7 @@
     {
       "id": "concept_2_2",
       "title": "Rise of Regional Kingdoms",
-      "emoji": "👑",
+      "emoji": "\ud83d\udc51",
       "colorTheme": "from-purple-400 to-pink-500",
       "bgColor": "bg-purple-50",
       "borderColor": "border-purple-300",
@@ -125,14 +126,14 @@
     {
       "id": "concept_2_3",
       "title": "Mughal Empire: Babur to Akbar",
-      "emoji": "🕌",
+      "emoji": "\ud83d\udd4c",
       "colorTheme": "from-green-400 to-emerald-500",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
-      "content": "Babur, a prince from Central Asia descended from both Timur and Genghis Khan, defeated Ibrahim Lodi at the First Battle of Panipat in 1526 and founded the Mughal Empire. His son Humayun faced many difficulties and was even exiled from India for a time before recapturing Delhi. Humayun's son Akbar was the greatest of the Mughal emperors — he expanded the empire across almost all of India, created an efficient administration, and was famous for his policy of religious tolerance. Akbar introduced 'Sulh-e-kul' (peace with all) and 'Din-i-Ilahi' — a spiritual philosophy combining elements from different religions. He married a Rajput princess (Jodha Bai) and gave Rajput chiefs important positions in his court, creating a strong alliance. Akbar abolished the jizya (tax on non-Muslims) and respected Hindu practices.",
+      "content": "Babur, a prince from Central Asia descended from both Timur and Genghis Khan, defeated Ibrahim Lodi at the First Battle of Panipat in 1526 and founded the Mughal Empire. His son Humayun faced many difficulties and was even exiled from India for a time before recapturing Delhi. Humayun's son Akbar was the greatest of the Mughal emperors \u2014 he expanded the empire across almost all of India, created an efficient administration, and was famous for his policy of religious tolerance. Akbar introduced 'Sulh-e-kul' (peace with all) and 'Din-i-Ilahi' \u2014 a spiritual philosophy combining elements from different religions. He married a Rajput princess (Jodha Bai) and gave Rajput chiefs important positions in his court, creating a strong alliance. Akbar abolished the jizya (tax on non-Muslims) and respected Hindu practices.",
       "pageReference": "7-8",
       "examples": [
-        "Babur used gunpowder and cannons at Panipat (1526) — a new military technology that shocked Indian armies.",
+        "Babur used gunpowder and cannons at Panipat (1526) \u2014 a new military technology that shocked Indian armies.",
         "Humayun was defeated by Sher Shah Suri and spent 15 years in exile in Persia before recapturing India.",
         "Akbar's Navratnas (nine gems) included scholars, musicians, and administrators from Hindu and Muslim backgrounds."
       ],
@@ -143,21 +144,21 @@
         "Sulh-e-kul (peace with all): Akbar's policy of religious harmony and tolerance.",
         "Din-i-Ilahi: Akbar's spiritual philosophy combining elements of different religions."
       ],
-      "funFact": "Akbar was illiterate — he could not read or write — yet he had thousands of books read to him daily and had one of the finest libraries in the world! He had a photographic memory and remembered everything he heard.",
+      "funFact": "Akbar was illiterate \u2014 he could not read or write \u2014 yet he had thousands of books read to him daily and had one of the finest libraries in the world! He had a photographic memory and remembered everything he heard.",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 2, Pages 7-8"
     },
     {
       "id": "concept_2_4",
       "title": "Shah Jahan and Aurangzeb",
-      "emoji": "⚔️",
+      "emoji": "\u2694\ufe0f",
       "colorTheme": "from-orange-400 to-red-500",
       "bgColor": "bg-orange-50",
       "borderColor": "border-orange-300",
-      "content": "Jahangir (Akbar's son) continued the Mughal tradition of arts and architecture. His son Shah Jahan built some of the most magnificent monuments in the world — most notably the Taj Mahal at Agra (1632-1653), a marble mausoleum for his wife Mumtaz Mahal. Shah Jahan also built the Red Fort and Jama Masjid in Delhi. However, his construction projects were enormously expensive. His son Aurangzeb (ruled 1658-1707) had a very different approach — he imprisoned his own father to seize power, reversed many of Akbar's tolerant policies, reimposed the jizya tax, and destroyed several Hindu temples. Aurangzeb spent the last 27 years of his reign fighting the Marathas in the Deccan — a campaign that ultimately ruined the Mughal treasury and hastened the empire's decline.",
+      "content": "Jahangir (Akbar's son) continued the Mughal tradition of arts and architecture. His son Shah Jahan built some of the most magnificent monuments in the world \u2014 most notably the Taj Mahal at Agra (1632-1653), a marble mausoleum for his wife Mumtaz Mahal. Shah Jahan also built the Red Fort and Jama Masjid in Delhi. However, his construction projects were enormously expensive. His son Aurangzeb (ruled 1658-1707) had a very different approach \u2014 he imprisoned his own father to seize power, reversed many of Akbar's tolerant policies, reimposed the jizya tax, and destroyed several Hindu temples. Aurangzeb spent the last 27 years of his reign fighting the Marathas in the Deccan \u2014 a campaign that ultimately ruined the Mughal treasury and hastened the empire's decline.",
       "pageReference": "8-9",
       "examples": [
         "The Taj Mahal took 22 years to build, employed 20,000 workers, and remains one of the Seven Wonders of the World.",
-        "Aurangzeb imprisoned Shah Jahan in Agra Fort — Shah Jahan spent his last years looking at the Taj Mahal through a window.",
+        "Aurangzeb imprisoned Shah Jahan in Agra Fort \u2014 Shah Jahan spent his last years looking at the Taj Mahal through a window.",
         "Aurangzeb's 27-year Deccan war against Marathas (1681-1707) drained the Mughal treasury completely."
       ],
       "keyPoints": [
@@ -167,13 +168,13 @@
         "Aurangzeb's 27-year Deccan war against the Marathas weakened the Mughal Empire.",
         "After Aurangzeb's death (1707), the Mughal Empire rapidly declined."
       ],
-      "funFact": "Shah Jahan's wife Mumtaz Mahal died while giving birth to their 14th child. The grief-stricken emperor built the Taj Mahal as an eternal tribute — and reportedly his own hair turned white within months of her death.",
+      "funFact": "Shah Jahan's wife Mumtaz Mahal died while giving birth to their 14th child. The grief-stricken emperor built the Taj Mahal as an eternal tribute \u2014 and reportedly his own hair turned white within months of her death.",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 2, Pages 8-9"
     },
     {
       "id": "concept_2_5",
       "title": "The Deccan Sultanates",
-      "emoji": "🗺️",
+      "emoji": "\ud83d\uddfa\ufe0f",
       "colorTheme": "from-indigo-400 to-purple-500",
       "bgColor": "bg-indigo-50",
       "borderColor": "border-indigo-300",
@@ -181,7 +182,7 @@
       "pageReference": "9-10",
       "examples": [
         "The combined Deccan Sultanates defeated and destroyed Vijayanagar at the Battle of Talikota (1565).",
-        "Bijapur (Adilshahi) built the Gol Gumbaz — a massive dome that still stands today and is the second largest in the world.",
+        "Bijapur (Adilshahi) built the Gol Gumbaz \u2014 a massive dome that still stands today and is the second largest in the world.",
         "Shivaji's early territories were carved out of Nizamshahi and Adilshahi-controlled Maharashtra."
       ],
       "keyPoints": [
@@ -189,9 +190,9 @@
         "Adilshahi (Bijapur), Nizamshahi (Ahmednagar), Qutbshahi (Golconda) were most important for Maharashtra.",
         "The other two were Imadshahi (Berar) and Baridshahi (Bidar).",
         "These sultanates controlled Maharashtra and their oppressive rule fueled the desire for Swaraj.",
-        "Shivaji's father Shahaji served these sultanates — giving Shivaji knowledge of their weaknesses."
+        "Shivaji's father Shahaji served these sultanates \u2014 giving Shivaji knowledge of their weaknesses."
       ],
-      "funFact": "The Gol Gumbaz in Bijapur (built by Adilshahi rulers) has a 'Whispering Gallery' — if you whisper along the inner wall of the dome, your voice travels around the entire circle and can be heard clearly on the other side!",
+      "funFact": "The Gol Gumbaz in Bijapur (built by Adilshahi rulers) has a 'Whispering Gallery' \u2014 if you whisper along the inner wall of the dome, your voice travels around the entire circle and can be heard clearly on the other side!",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 2, Pages 9-10"
     }
   ],
@@ -233,7 +234,7 @@
       },
       "correctAnswer": "B",
       "difficulty": "medium",
-      "explanation": "Sulh-e-kul means 'peace with all' — it was Akbar's principle of religious tolerance and harmony that guided his interactions with people of all religions in the empire."
+      "explanation": "Sulh-e-kul means 'peace with all' \u2014 it was Akbar's principle of religious tolerance and harmony that guided his interactions with people of all religions in the empire."
     },
     {
       "id": "test_2_4",
@@ -272,7 +273,7 @@
       },
       "correctAnswer": "D",
       "difficulty": "easy",
-      "explanation": "Aurangzeb came to the Deccan in 1681 and fought the Marathas until his death in 1707 — a 27-year campaign that drained the Mughal treasury and hastened the empire's decline."
+      "explanation": "Aurangzeb came to the Deccan in 1681 and fought the Marathas until his death in 1707 \u2014 a 27-year campaign that drained the Mughal treasury and hastened the empire's decline."
     },
     {
       "id": "test_2_7",
@@ -316,7 +317,7 @@
   ],
   "aiContext": {
     "keyConcepts": [
-      "Timur's invasion of Delhi (1398) — collapse of Delhi Sultanate",
+      "Timur's invasion of Delhi (1398) \u2014 collapse of Delhi Sultanate",
       "Regional kingdoms: Bahmani, Gujarat Sultanate, Malwa, Vijayanagar Empire",
       "Mughal Empire founders: Babur (First Battle of Panipat, 1526)",
       "Akbar: Sulh-e-kul, Din-i-Ilahi, religious tolerance, abolition of jizya",
@@ -325,13 +326,13 @@
       "Five Deccan Sultanates: Adilshahi, Nizamshahi, Qutbshahi, Imadshahi, Baridshahi"
     ],
     "commonMisconceptions": [
-      "Students often think Babur's victory was easy — in fact he used the new technology of cannons strategically while Indian armies relied on elephants.",
-      "Many think all Mughal emperors were the same — Akbar was remarkably tolerant while Aurangzeb reversed those policies.",
-      "Students may confuse Din-i-Ilahi (Akbar's philosophical synthesis) with a new formal religion imposed on people — it was more of a spiritual discussion group.",
-      "The Deccan Sultanates are often remembered as one entity — but they had distinct capitals, languages, and cultures and frequently fought each other."
+      "Students often think Babur's victory was easy \u2014 in fact he used the new technology of cannons strategically while Indian armies relied on elephants.",
+      "Many think all Mughal emperors were the same \u2014 Akbar was remarkably tolerant while Aurangzeb reversed those policies.",
+      "Students may confuse Din-i-Ilahi (Akbar's philosophical synthesis) with a new formal religion imposed on people \u2014 it was more of a spiritual discussion group.",
+      "The Deccan Sultanates are often remembered as one entity \u2014 but they had distinct capitals, languages, and cultures and frequently fought each other."
     ],
     "realWorldExamples": [
-      "The Taj Mahal is still a UNESCO World Heritage Site and one of the most visited monuments in the world — Shah Jahan's legacy lives on.",
+      "The Taj Mahal is still a UNESCO World Heritage Site and one of the most visited monuments in the world \u2014 Shah Jahan's legacy lives on.",
       "The ruins of Hampi (Vijayanagar capital) in Karnataka are a UNESCO World Heritage Site today.",
       "Bijapur's Gol Gumbaz remains an architectural marvel still studied by engineers for its acoustic properties."
     ],
@@ -389,7 +390,7 @@
       },
       {
         "question": "What does 'Sulh-e-kul' mean?",
-        "answer": "Sulh-e-kul means 'peace with all' — it was Akbar's principle of religious tolerance and harmony that guided his interactions with people of all religions in the empire.",
+        "answer": "Sulh-e-kul means 'peace with all' \u2014 it was Akbar's principle of religious tolerance and harmony that guided his interactions with people of all religions in the empire.",
         "source": "chapter_test_explanation"
       },
       {
@@ -404,7 +405,7 @@
       },
       {
         "question": "Which Mughal emperor spent 27 years fighting the Marathas in the Deccan?",
-        "answer": "Aurangzeb came to the Deccan in 1681 and fought the Marathas until his death in 1707 — a 27-year campaign that drained the Mughal treasury and hastened the empire's decline.",
+        "answer": "Aurangzeb came to the Deccan in 1681 and fought the Marathas until his death in 1707 \u2014 a 27-year campaign that drained the Mughal treasury and hastened the empire's decline.",
         "source": "chapter_test_explanation"
       },
       {
@@ -463,7 +464,7 @@
       {
         "id": "la4",
         "question": "In which year did Timur invade and destroy Delhi?",
-        "modelAnswer": "Timur (Tamerlane) invaded Delhi in 1398, massacred the population, and looted the city, causing the collapse of the Delhi Sultanate's central authority. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Timur (Tamerlane) invaded Delhi in 1398, massacred the population, and looted the city, causing the collapse of the Delhi Sultanate's central authority.",
         "keyPoints": [
           "Defines: In which year did Timur invade and destroy Delhi?",
           "Explains textbook concept clearly.",

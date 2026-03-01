@@ -97,6 +97,7 @@ export default function TestResults() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const [answers, setAnswers] = useState<Record<string, string>>({});
+  const [displayScore, setDisplayScore] = useState(0);
 
   const score = parseInt(searchParams.get('score') || '0');
   const correct = parseInt(searchParams.get('correct') || '0');
@@ -114,6 +115,37 @@ export default function TestResults() {
       setAnswers(JSON.parse(decodeURIComponent(answersParam)));
     }
   }, [router, searchParams]);
+
+  const isPerfectScore = score === 100;
+
+  useEffect(() => {
+    if (isPerfectScore) {
+      import('canvas-confetti').then(confetti => {
+        confetti.default({
+          particleCount: 120,
+          spread: 80,
+          origin: { y: 0.6 },
+          colors: ['#6D28D9', '#7C3AED', '#F59E0B', '#10B981', '#EC4899'],
+        });
+      });
+    }
+  }, [isPerfectScore]);
+
+  useEffect(() => {
+    const target = score;
+    const duration = 1000;
+    const steps = 40;
+    const increment = target / steps;
+    let current = 0;
+
+    const timer = setInterval(() => {
+      current = Math.min(current + increment, target);
+      setDisplayScore(Math.round(current));
+      if (current >= target) clearInterval(timer);
+    }, duration / steps);
+
+    return () => clearInterval(timer);
+  }, [score]);
 
   const getPerformanceData = () => {
     if (score >= 80) return {
@@ -168,7 +200,7 @@ export default function TestResults() {
              'border-red-100 bg-red-50'
           }`}>
              <div className={`text-6xl font-black tracking-tight ${performance.color}`}>
-                {Math.round(score)}<span className="text-4xl align-top">%</span>
+                {displayScore}<span className="text-4xl align-top">%</span>
              </div>
              <p className="text-sm font-bold text-gray-500 uppercase tracking-widest mt-1">Score</p>
           </div>

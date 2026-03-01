@@ -4,12 +4,13 @@
     "title": "Religious Synthesis",
     "subject": "History",
     "pages": "11-13",
-    "description": "The Bhakti and Sufi movements of medieval India — how saints in Maharashtra and across North India challenged caste discrimination, promoted devotion to God, and brought Hindus and Muslims closer through the message of love and unity."
+    "description": "The Bhakti and Sufi movements of medieval India \u2014 how saints in Maharashtra and across North India challenged caste discrimination, promoted devotion to God, and brought Hindus and Muslims closer through the message of love and unity.",
+    "grade": 7
   },
   "preAssessment": [
     {
       "id": "pre_3_1",
-      "question": "Who wrote the Dnyaneshwari — a Marathi commentary on the Bhagavad Gita?",
+      "question": "Who wrote the Dnyaneshwari \u2014 a Marathi commentary on the Bhagavad Gita?",
       "options": {
         "A": "Sant Tukaram",
         "B": "Sant Namdev",
@@ -76,45 +77,45 @@
   "concepts": [
     {
       "id": "concept_3_1",
-      "title": "The Bhakti Movement — An Overview",
-      "emoji": "🙏",
+      "title": "The Bhakti Movement \u2014 An Overview",
+      "emoji": "\ud83d\ude4f",
       "colorTheme": "from-blue-400 to-cyan-500",
       "bgColor": "bg-blue-50",
       "borderColor": "border-blue-300",
-      "content": "The Bhakti movement was one of the most transformative religious and social movements in medieval India (roughly 8th to 17th century). The word 'Bhakti' means devotion — the saints of this movement taught that the path to God is through sincere love and devotion, not through elaborate rituals, caste status, or priestly authority. Bhakti saints came from all walks of life — some were Brahmins, some were weavers, some were from lower castes — and they preached in the local languages of the people (Marathi, Hindi, Tamil, Punjabi) rather than only in Sanskrit. This made their message accessible to everyone. The Bhakti movement directly challenged the rigid caste system and the idea that only upper-caste people could achieve spiritual liberation. It promoted the idea that God loves all people equally.",
+      "content": "The Bhakti movement was one of the most transformative religious and social movements in medieval India (roughly 8th to 17th century). The word 'Bhakti' means devotion \u2014 the saints of this movement taught that the path to God is through sincere love and devotion, not through elaborate rituals, caste status, or priestly authority. Bhakti saints came from all walks of life \u2014 some were Brahmins, some were weavers, some were from lower castes \u2014 and they preached in the local languages of the people (Marathi, Hindi, Tamil, Punjabi) rather than only in Sanskrit. This made their message accessible to everyone. The Bhakti movement directly challenged the rigid caste system and the idea that only upper-caste people could achieve spiritual liberation. It promoted the idea that God loves all people equally.",
       "pageReference": "11",
       "examples": [
         "Sant Tukaram was a simple shopkeeper who composed profound devotional poetry (abhangas) that is still sung today.",
         "Sant Chokhamela was from the Mahar community (considered untouchable) yet his devotion to Vitthal was so pure that his abhangas are included in the most sacred Warkari texts.",
-        "The Bhakti movement spread literacy because saints' songs had to be memorized and shared — this made many common people familiar with spiritual texts."
+        "The Bhakti movement spread literacy because saints' songs had to be memorized and shared \u2014 this made many common people familiar with spiritual texts."
       ],
       "keyPoints": [
-        "Bhakti means devotion — reaching God through sincere love, not rituals or caste status.",
+        "Bhakti means devotion \u2014 reaching God through sincere love, not rituals or caste status.",
         "Saints preached in local languages, making spirituality accessible to everyone.",
         "The movement challenged the rigid caste hierarchy and priestly monopoly on religion.",
-        "Bhakti saints came from diverse backgrounds — upper caste, lower caste, men, women.",
+        "Bhakti saints came from diverse backgrounds \u2014 upper caste, lower caste, men, women.",
         "The movement created social cohesion across caste and religious lines."
       ],
-      "funFact": "Sant Tukaram's abhangas (devotional poems) were collected into the 'Gatha' — a sacred text for Warkaris. Thousands of these compositions are still sung during the annual wari (pilgrimage) to Pandharpur even today!",
+      "funFact": "Sant Tukaram's abhangas (devotional poems) were collected into the 'Gatha' \u2014 a sacred text for Warkaris. Thousands of these compositions are still sung during the annual wari (pilgrimage) to Pandharpur even today!",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 3, Page 11"
     },
     {
       "id": "concept_3_2",
       "title": "Maharashtra Saints and the Warkari Panth",
-      "emoji": "🚶",
+      "emoji": "\ud83d\udeb6",
       "colorTheme": "from-purple-400 to-pink-500",
       "bgColor": "bg-purple-50",
       "borderColor": "border-purple-300",
-      "content": "Maharashtra produced some of the greatest Bhakti saints of India. The Warkari Panth is a religious tradition of devotees who make regular pilgrimages (wari) to Pandharpur to worship Lord Vitthal. The key Maharashtra Bhakti saints include: Sant Dnyaneshwar (13th century) — who wrote the Dnyaneshwari, a beautiful Marathi commentary on the Bhagavad Gita, making the philosophy of the Gita accessible to common Marathi-speaking people. Sant Namdev (14th century) — composed devotional poems in Marathi and later traveled to North India. Sant Eknath (16th century) — a scholar-saint who translated Sanskrit texts into Marathi and stood against caste discrimination. Sant Tukaram (17th century) — composed thousands of abhangas (devotional poems) filled with simple wisdom. Sant Chokhamela — a saint from the Mahar community whose abhangas are celebrated for their deep devotion despite social discrimination.",
+      "content": "Maharashtra produced some of the greatest Bhakti saints of India. The Warkari Panth is a religious tradition of devotees who make regular pilgrimages (wari) to Pandharpur to worship Lord Vitthal. The key Maharashtra Bhakti saints include: Sant Dnyaneshwar (13th century) \u2014 who wrote the Dnyaneshwari, a beautiful Marathi commentary on the Bhagavad Gita, making the philosophy of the Gita accessible to common Marathi-speaking people. Sant Namdev (14th century) \u2014 composed devotional poems in Marathi and later traveled to North India. Sant Eknath (16th century) \u2014 a scholar-saint who translated Sanskrit texts into Marathi and stood against caste discrimination. Sant Tukaram (17th century) \u2014 composed thousands of abhangas (devotional poems) filled with simple wisdom. Sant Chokhamela \u2014 a saint from the Mahar community whose abhangas are celebrated for their deep devotion despite social discrimination.",
       "pageReference": "11-12",
       "examples": [
-        "The Wari (pilgrimage) to Pandharpur happens twice a year — in Ashadh and Kartik months — and still draws millions of devotees walking hundreds of kilometers.",
-        "Sant Dnyaneshwar composed the Dnyaneshwari at the age of just 16 — translating complex Sanskrit philosophy into beautiful Marathi poetry.",
-        "Sant Eknath fed a low-caste person at his home despite social pressure — he believed God resided in all people equally."
+        "The Wari (pilgrimage) to Pandharpur happens twice a year \u2014 in Ashadh and Kartik months \u2014 and still draws millions of devotees walking hundreds of kilometers.",
+        "Sant Dnyaneshwar composed the Dnyaneshwari at the age of just 16 \u2014 translating complex Sanskrit philosophy into beautiful Marathi poetry.",
+        "Sant Eknath fed a low-caste person at his home despite social pressure \u2014 he believed God resided in all people equally."
       ],
       "keyPoints": [
         "Warkari Panth: tradition of pilgrimage to Pandharpur to worship Lord Vitthal.",
-        "Sant Dnyaneshwar: wrote Dnyaneshwari — Marathi commentary on Bhagavad Gita.",
+        "Sant Dnyaneshwar: wrote Dnyaneshwari \u2014 Marathi commentary on Bhagavad Gita.",
         "Sant Namdev: composed devotional poetry, traveled widely spreading Bhakti.",
         "Sant Eknath: scholar-saint who translated Sanskrit texts into Marathi.",
         "Sant Tukaram: composed thousands of abhangas with practical spiritual wisdom.",
@@ -126,39 +127,39 @@
     {
       "id": "concept_3_3",
       "title": "North Indian Bhakti Saints",
-      "emoji": "🎵",
+      "emoji": "\ud83c\udfb5",
       "colorTheme": "from-green-400 to-emerald-500",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
-      "content": "The Bhakti movement flourished across North India as well, with each saint having a unique message and style. Kabir (15th century) was a weaver from Varanasi who preached the oneness of God and strongly opposed the division between Hindus and Muslims. His dohas (couplets) are famous for their sharp wit and simple wisdom — he rejected idol worship, caste hierarchy, and religious rituals. His followers included both Hindus and Muslims. Meerabai was a Rajput princess who devoted her entire life to Lord Krishna — she defied her royal family, faced persecution, and sang passionately about her love for Krishna. Surdas was a blind poet-saint who composed the 'Sursagar' — thousands of devotional songs about Lord Krishna's childhood, filled with vivid and beautiful imagery.",
+      "content": "The Bhakti movement flourished across North India as well, with each saint having a unique message and style. Kabir (15th century) was a weaver from Varanasi who preached the oneness of God and strongly opposed the division between Hindus and Muslims. His dohas (couplets) are famous for their sharp wit and simple wisdom \u2014 he rejected idol worship, caste hierarchy, and religious rituals. His followers included both Hindus and Muslims. Meerabai was a Rajput princess who devoted her entire life to Lord Krishna \u2014 she defied her royal family, faced persecution, and sang passionately about her love for Krishna. Surdas was a blind poet-saint who composed the 'Sursagar' \u2014 thousands of devotional songs about Lord Krishna's childhood, filled with vivid and beautiful imagery.",
       "pageReference": "12",
       "examples": [
-        "Kabir's famous doha: 'Dheere dheere re mana, dheere sab kuch hoye' — meaning 'go slow, mind; everything happens in its own time' — is still widely quoted.",
-        "Meerabai's bhajans are sung across India — 'Mharo prabhu giridhar nagar' — and she is an enduring symbol of devotion and courage.",
+        "Kabir's famous doha: 'Dheere dheere re mana, dheere sab kuch hoye' \u2014 meaning 'go slow, mind; everything happens in its own time' \u2014 is still widely quoted.",
+        "Meerabai's bhajans are sung across India \u2014 'Mharo prabhu giridhar nagar' \u2014 and she is an enduring symbol of devotion and courage.",
         "Surdas's Sursagar describes Krishna's playful childhood in Vrindavan with such detail and beauty that it became the basis for much Indian art and dance."
       ],
       "keyPoints": [
         "Kabir: weaver-saint from Varanasi, preached Hindu-Muslim unity, rejected rituals and caste.",
-        "Kabir's followers included both Hindus and Muslims — he saw God as one for all.",
+        "Kabir's followers included both Hindus and Muslims \u2014 he saw God as one for all.",
         "Meerabai: Rajput princess who devoted her life to Lord Krishna despite royal opposition.",
         "Surdas: blind poet who composed thousands of devotional songs about Krishna.",
-        "These saints preached in Hindi dialects — their songs spread across North India quickly."
+        "These saints preached in Hindi dialects \u2014 their songs spread across North India quickly."
       ],
-      "funFact": "When Kabir died, both Hindus and Muslims wanted to perform his last rites according to their own traditions. According to legend, when they lifted the sheet covering his body, they found only flowers underneath — which both communities shared peacefully. This story captures his lifelong message of unity!",
+      "funFact": "When Kabir died, both Hindus and Muslims wanted to perform his last rites according to their own traditions. According to legend, when they lifted the sheet covering his body, they found only flowers underneath \u2014 which both communities shared peacefully. This story captures his lifelong message of unity!",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 3, Page 12"
     },
     {
       "id": "concept_3_4",
       "title": "The Sufi Saints",
-      "emoji": "✨",
+      "emoji": "\u2728",
       "colorTheme": "from-orange-400 to-red-500",
       "bgColor": "bg-orange-50",
       "borderColor": "border-orange-300",
-      "content": "Sufism is the mystical tradition within Islam that emphasizes the inner, spiritual dimensions of faith — love, devotion, and direct experience of God — rather than only outward rituals and law. Sufi saints (called pirs or fakirs) were known for their humility, simple living, service to the poor, and emphasis on love as the path to God. They built khanqahs (spiritual centers) where people of all faiths were welcome. Hazrat Nizamuddin Auliya (13th-14th century) in Delhi was one of the most beloved Sufi saints — his shrine (dargah) in Delhi is still visited by millions. Hazrat Salim Chishti at Fatehpur Sikri was a contemporary of Akbar — the emperor would visit him and even named the capital city after him (Fatehpur = City of Victory; Sikri = the village). Qawwali devotional music developed in Sufi practice and remains a living tradition.",
+      "content": "Sufism is the mystical tradition within Islam that emphasizes the inner, spiritual dimensions of faith \u2014 love, devotion, and direct experience of God \u2014 rather than only outward rituals and law. Sufi saints (called pirs or fakirs) were known for their humility, simple living, service to the poor, and emphasis on love as the path to God. They built khanqahs (spiritual centers) where people of all faiths were welcome. Hazrat Nizamuddin Auliya (13th-14th century) in Delhi was one of the most beloved Sufi saints \u2014 his shrine (dargah) in Delhi is still visited by millions. Hazrat Salim Chishti at Fatehpur Sikri was a contemporary of Akbar \u2014 the emperor would visit him and even named the capital city after him (Fatehpur = City of Victory; Sikri = the village). Qawwali devotional music developed in Sufi practice and remains a living tradition.",
       "pageReference": "12-13",
       "examples": [
-        "People of all religions — Hindu, Muslim, Sikh, Christian — visit the dargah of Hazrat Nizamuddin Auliya in Delhi today.",
-        "Akbar was deeply influenced by Hazrat Salim Chishti — when the saint blessed him with a son, Akbar named the prince Salim (who became Emperor Jahangir).",
+        "People of all religions \u2014 Hindu, Muslim, Sikh, Christian \u2014 visit the dargah of Hazrat Nizamuddin Auliya in Delhi today.",
+        "Akbar was deeply influenced by Hazrat Salim Chishti \u2014 when the saint blessed him with a son, Akbar named the prince Salim (who became Emperor Jahangir).",
         "The Sufi devotional music of qawwali was taken to global audiences by Nusrat Fateh Ali Khan in the 20th century."
       ],
       "keyPoints": [
@@ -168,31 +169,31 @@
         "Hazrat Salim Chishti: saint at Fatehpur Sikri, blessed Emperor Akbar with a son.",
         "Qawwali (devotional music) developed through Sufi tradition and continues today."
       ],
-      "funFact": "Amir Khusrau, the greatest poet of medieval India, was a disciple of Hazrat Nizamuddin Auliya. He invented the sitar, the tabla (some historians say), and the genre of qawwali — his musical and literary contributions are celebrated 700 years after his death!",
+      "funFact": "Amir Khusrau, the greatest poet of medieval India, was a disciple of Hazrat Nizamuddin Auliya. He invented the sitar, the tabla (some historians say), and the genre of qawwali \u2014 his musical and literary contributions are celebrated 700 years after his death!",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 3, Pages 12-13"
     },
     {
       "id": "concept_3_5",
       "title": "Social Impact of Bhakti and Sufi Movements",
-      "emoji": "🌏",
+      "emoji": "\ud83c\udf0f",
       "colorTheme": "from-indigo-400 to-purple-500",
       "bgColor": "bg-indigo-50",
       "borderColor": "border-indigo-300",
-      "content": "The Bhakti and Sufi movements had profound social impacts on medieval Indian society. First, they challenged the rigid caste system by declaring that God loves all people equally regardless of birth. Saints from lower castes — like Chokhamela — gained the same spiritual respect as Brahmin saints. Second, they promoted the use of local languages for religious expression, which elevated the status of Marathi, Hindi, Punjabi, and other languages and helped develop regional literature. Third, they brought Hindus and Muslims closer through shared saints, music, and spiritual practices — creating a composite culture that is uniquely Indian. Fourth, they gave women a spiritual voice — saints like Meerabai and Janabai (Namdev's servant-saint) composed poetry that is still treasured. Fifth, the social criticism embedded in their poetry helped plant seeds of equality and justice that would later influence Bharat's freedom movement.",
+      "content": "The Bhakti and Sufi movements had profound social impacts on medieval Indian society. First, they challenged the rigid caste system by declaring that God loves all people equally regardless of birth. Saints from lower castes \u2014 like Chokhamela \u2014 gained the same spiritual respect as Brahmin saints. Second, they promoted the use of local languages for religious expression, which elevated the status of Marathi, Hindi, Punjabi, and other languages and helped develop regional literature. Third, they brought Hindus and Muslims closer through shared saints, music, and spiritual practices \u2014 creating a composite culture that is uniquely Indian. Fourth, they gave women a spiritual voice \u2014 saints like Meerabai and Janabai (Namdev's servant-saint) composed poetry that is still treasured. Fifth, the social criticism embedded in their poetry helped plant seeds of equality and justice that would later influence Bharat's freedom movement.",
       "pageReference": "13",
       "examples": [
-        "Sant Eknath invited a Muslim family to sit and eat with him — an extraordinary act of social equality in the 16th century.",
-        "The concept of 'Vithoba' (Vitthal) as a formless, all-embracing God was very similar to the Sufi concept of divine love — creating philosophical common ground.",
-        "Kabir's poetry influenced both the Sikh Gurus (included in the Guru Granth Sahib) and Hindu Bhakti traditions — showing its cross-religious reach."
+        "Sant Eknath invited a Muslim family to sit and eat with him \u2014 an extraordinary act of social equality in the 16th century.",
+        "The concept of 'Vithoba' (Vitthal) as a formless, all-embracing God was very similar to the Sufi concept of divine love \u2014 creating philosophical common ground.",
+        "Kabir's poetry influenced both the Sikh Gurus (included in the Guru Granth Sahib) and Hindu Bhakti traditions \u2014 showing its cross-religious reach."
       ],
       "keyPoints": [
-        "Challenged caste system — declared God's love is for all people equally.",
-        "Elevated local languages — Marathi, Hindi, and others became vehicles of spiritual expression.",
+        "Challenged caste system \u2014 declared God's love is for all people equally.",
+        "Elevated local languages \u2014 Marathi, Hindi, and others became vehicles of spiritual expression.",
         "Created a composite Indian culture by bringing Hindu and Muslim spiritual practices closer.",
-        "Gave women a spiritual voice — female saints like Meerabai and Janabai.",
+        "Gave women a spiritual voice \u2014 female saints like Meerabai and Janabai.",
         "Planted seeds of social equality and justice that influenced later reformers."
       ],
-      "funFact": "28 of Kabir's compositions are included in the Guru Granth Sahib — the holy scripture of Sikhism — alongside compositions of the Sikh Gurus. This is a remarkable testament to how his message transcended religious boundaries!",
+      "funFact": "28 of Kabir's compositions are included in the Guru Granth Sahib \u2014 the holy scripture of Sikhism \u2014 alongside compositions of the Sikh Gurus. This is a remarkable testament to how his message transcended religious boundaries!",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 3, Page 13"
     }
   ],
@@ -273,7 +274,7 @@
       },
       "correctAnswer": "B",
       "difficulty": "medium",
-      "explanation": "Sant Chokhamela was from the Mahar community, considered at the lowest level of the caste system. Yet his deep devotion to Lord Vitthal earned him great spiritual respect, and his abhangas are included in the most sacred Warkari texts — a powerful challenge to caste discrimination."
+      "explanation": "Sant Chokhamela was from the Mahar community, considered at the lowest level of the caste system. Yet his deep devotion to Lord Vitthal earned him great spiritual respect, and his abhangas are included in the most sacred Warkari texts \u2014 a powerful challenge to caste discrimination."
     },
     {
       "id": "test_3_7",
@@ -299,7 +300,7 @@
       },
       "correctAnswer": "C",
       "difficulty": "medium",
-      "explanation": "Surdas, a blind poet-saint from North India, composed the Sursagar — a massive collection of thousands of devotional songs vividly describing Krishna's childhood in Vrindavan. He is one of the greatest Bhakti poets of North India."
+      "explanation": "Surdas, a blind poet-saint from North India, composed the Sursagar \u2014 a massive collection of thousands of devotional songs vividly describing Krishna's childhood in Vrindavan. He is one of the greatest Bhakti poets of North India."
     },
     {
       "id": "test_3_9",
@@ -312,7 +313,7 @@
       },
       "correctAnswer": "C",
       "difficulty": "medium",
-      "explanation": "Bhakti saints composed their poems and teachings in local languages — Marathi, Hindi, Punjabi, Tamil — rather than only in Sanskrit. This greatly elevated the status of these regional languages and helped develop rich regional literary traditions."
+      "explanation": "Bhakti saints composed their poems and teachings in local languages \u2014 Marathi, Hindi, Punjabi, Tamil \u2014 rather than only in Sanskrit. This greatly elevated the status of these regional languages and helped develop rich regional literary traditions."
     }
   ],
   "aiContext": {
@@ -326,15 +327,15 @@
       "Social impact: challenged caste, elevated local languages, Hindu-Muslim synthesis"
     ],
     "commonMisconceptions": [
-      "Students often think all Bhakti saints were from upper castes — but many, like Chokhamela, Kabir, and Namdev, were from artisan or lower-caste backgrounds.",
-      "Some students confuse Sufism as being separate from Islam — it is actually a mystical dimension within Islam.",
-      "Students may think the Bhakti movement was only religious — but it had profound social and political implications including challenging the caste system.",
-      "The Warkari pilgrimage is sometimes understood only as a religious event — but it has historically been a vehicle for social equality since all Warkaris walk together regardless of caste."
+      "Students often think all Bhakti saints were from upper castes \u2014 but many, like Chokhamela, Kabir, and Namdev, were from artisan or lower-caste backgrounds.",
+      "Some students confuse Sufism as being separate from Islam \u2014 it is actually a mystical dimension within Islam.",
+      "Students may think the Bhakti movement was only religious \u2014 but it had profound social and political implications including challenging the caste system.",
+      "The Warkari pilgrimage is sometimes understood only as a religious event \u2014 but it has historically been a vehicle for social equality since all Warkaris walk together regardless of caste."
     ],
     "realWorldExamples": [
-      "The annual Wari pilgrimage to Pandharpur still takes place with millions of Warkaris walking for weeks — one of the world's largest voluntary pilgrimages.",
+      "The annual Wari pilgrimage to Pandharpur still takes place with millions of Warkaris walking for weeks \u2014 one of the world's largest voluntary pilgrimages.",
       "Sant Tukaram's abhangas are taught in Maharashtra schools and sung at social and spiritual gatherings.",
-      "The dargah of Hazrat Nizamuddin Auliya in Delhi continues to be a place where people of all religions come together — a living example of the Sufi tradition of inclusivity."
+      "The dargah of Hazrat Nizamuddin Auliya in Delhi continues to be a place where people of all religions come together \u2014 a living example of the Sufi tradition of inclusivity."
     ],
     "formulas": []
   },
@@ -405,7 +406,7 @@
       },
       {
         "question": "Sant Chokhamela was significant because:",
-        "answer": "Sant Chokhamela was from the Mahar community, considered at the lowest level of the caste system. Yet his deep devotion to Lord Vitthal earned him great spiritual respect, and his abhangas are included in the most sacred Warkari texts — a powerful challenge to caste discrimination.",
+        "answer": "Sant Chokhamela was from the Mahar community, considered at the lowest level of the caste system. Yet his deep devotion to Lord Vitthal earned him great spiritual respect, and his abhangas are included in the most sacred Warkari texts \u2014 a powerful challenge to caste discrimination.",
         "source": "chapter_test_explanation"
       },
       {
@@ -415,12 +416,12 @@
       },
       {
         "question": "Which saint composed the Sursagar, a collection of devotional songs about Lord Krishna's childhood?",
-        "answer": "Surdas, a blind poet-saint from North India, composed the Sursagar — a massive collection of thousands of devotional songs vividly describing Krishna's childhood in Vrindavan. He is one of the greatest Bhakti poets of North India.",
+        "answer": "Surdas, a blind poet-saint from North India, composed the Sursagar \u2014 a massive collection of thousands of devotional songs vividly describing Krishna's childhood in Vrindavan. He is one of the greatest Bhakti poets of North India.",
         "source": "chapter_test_explanation"
       },
       {
         "question": "How did the Bhakti movement impact local Indian languages?",
-        "answer": "Bhakti saints composed their poems and teachings in local languages — Marathi, Hindi, Punjabi, Tamil — rather than only in Sanskrit. This greatly elevated the status of these regional languages and helped develop rich regional literary traditions.",
+        "answer": "Bhakti saints composed their poems and teachings in local languages \u2014 Marathi, Hindi, Punjabi, Tamil \u2014 rather than only in Sanskrit. This greatly elevated the status of these regional languages and helped develop rich regional literary traditions.",
         "source": "chapter_test_explanation"
       }
     ],
@@ -428,44 +429,40 @@
       {
         "id": "la1",
         "question": "What is the Warkari Panth?",
-        "modelAnswer": "The Warkari Panth is a devotional tradition of people who make periodic pilgrimages (wari) to Pandharpur in Maharashtra to worship Lord Vitthal. The tradition was founded and shaped by the great Bhakti saints. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "The Warkari Panth is a devotional tradition of people who make periodic pilgrimages (wari) to Pandharpur in Maharashtra to worship Lord Vitthal. The tradition was founded and shaped by the great Bhakti saints.",
         "keyPoints": [
           "The Warkari Panth is a devotional tradition of people who make periodic pilgrimages (wari) to Pandharpur in Maharashtra to worship Lord Vitthal.",
-          "The tradition was founded and shaped by the great Bhakti saints.",
-          "This can be observed in standard textbook examples from this chapter."
+          "The tradition was founded and shaped by the great Bhakti saints."
         ],
         "marks": 3
       },
       {
         "id": "la2",
         "question": "What is the main message of the Bhakti movement?",
-        "modelAnswer": "The central message of the Bhakti movement was that God can be reached by anyone through sincere love and devotion (bhakti), regardless of caste, gender, or religious background. This directly challenged the existing social hierarchy. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "The central message of the Bhakti movement was that God can be reached by anyone through sincere love and devotion (bhakti), regardless of caste, gender, or religious background. This directly challenged the existing social hierarchy.",
         "keyPoints": [
           "The central message of the Bhakti movement was that God can be reached by anyone through sincere love and devotion (bhakti), regardless of caste, gender, or religious background.",
-          "This directly challenged the existing social hierarchy.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This directly challenged the existing social hierarchy."
         ],
         "marks": 3
       },
       {
         "id": "la3",
         "question": "What is a khanqah?",
-        "modelAnswer": "A khanqah is a Sufi spiritual center or lodge where the Sufi master lived, taught, and welcomed people of all faiths. They were centers of spiritual learning, music (qawwali), and service to the poor. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "A khanqah is a Sufi spiritual center or lodge where the Sufi master lived, taught, and welcomed people of all faiths. They were centers of spiritual learning, music (qawwali), and service to the poor.",
         "keyPoints": [
           "A khanqah is a Sufi spiritual center or lodge where the Sufi master lived, taught, and welcomed people of all faiths.",
-          "They were centers of spiritual learning, music (qawwali), and service to the poor.",
-          "This can be observed in standard textbook examples from this chapter."
+          "They were centers of spiritual learning, music (qawwali), and service to the poor."
         ],
         "marks": 3
       },
       {
         "id": "la4",
         "question": "How did the Bhakti movement impact local Indian languages?",
-        "modelAnswer": "Bhakti saints composed their poems and teachings in local languages — Marathi, Hindi, Punjabi, Tamil — rather than only in Sanskrit. This greatly elevated the status of these regional languages and helped develop rich regional literary traditions. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Bhakti saints composed their poems and teachings in local languages \u2014 Marathi, Hindi, Punjabi, Tamil \u2014 rather than only in Sanskrit. This greatly elevated the status of these regional languages and helped develop rich regional literary traditions.",
         "keyPoints": [
-          "Bhakti saints composed their poems and teachings in local languages — Marathi, Hindi, Punjabi, Tamil — rather than only in Sanskrit.",
-          "This greatly elevated the status of these regional languages and helped develop rich regional literary traditions.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Bhakti saints composed their poems and teachings in local languages \u2014 Marathi, Hindi, Punjabi, Tamil \u2014 rather than only in Sanskrit.",
+          "This greatly elevated the status of these regional languages and helped develop rich regional literary traditions."
         ],
         "marks": 5
       }

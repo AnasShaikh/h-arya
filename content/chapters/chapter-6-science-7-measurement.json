@@ -78,7 +78,7 @@
     {
       "id": 1,
       "title": "Need for Measurement",
-      "emoji": "📏",
+      "emoji": "\ud83d\udccf",
       "colorTheme": "from-blue-500 to-indigo-600",
       "bgColor": "bg-blue-50",
       "borderColor": "border-blue-300",
@@ -87,7 +87,7 @@
       "examples": [
         {
           "id": "ex1",
-          "text": "A doctor prescribes 500mg of medicine — needs standard measurement"
+          "text": "A doctor prescribes 500mg of medicine \u2014 needs standard measurement"
         },
         {
           "id": "ex2",
@@ -95,7 +95,7 @@
         },
         {
           "id": "ex3",
-          "text": "A farmer sells 5 kg of onions — both buyer and seller agree on kg"
+          "text": "A farmer sells 5 kg of onions \u2014 both buyer and seller agree on kg"
         }
       ],
       "keyPoints": [
@@ -112,30 +112,30 @@
           "text": "Science depends on accurate, repeatable measurements"
         }
       ],
-      "funFact": "In ancient times, body parts were used as units! An 'inch' was the width of a thumb, and a 'foot' was literally the length of a foot — but everyone's foot is different!",
+      "funFact": "In ancient times, body parts were used as units! An 'inch' was the width of a thumb, and a 'foot' was literally the length of a foot \u2014 but everyone's foot is different!",
       "textbookRef": "Pages 52-54"
     },
     {
       "id": 2,
       "title": "SI Units (International System)",
-      "emoji": "🌍",
+      "emoji": "\ud83c\udf0d",
       "colorTheme": "from-green-500 to-teal-600",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
-      "content": "The SI (Système International d'Unités) is the modern form of the metric system, accepted worldwide. It has 7 base units: metre (length), kilogram (mass), second (time), Kelvin (temperature), ampere (electric current), mole (amount), and candela (light intensity).",
+      "content": "The SI (Syst\u00e8me International d'Unit\u00e9s) is the modern form of the metric system, accepted worldwide. It has 7 base units: metre (length), kilogram (mass), second (time), Kelvin (temperature), ampere (electric current), mole (amount), and candela (light intensity).",
       "pageReference": "54-57",
       "examples": [
         {
           "id": "ex1",
-          "text": "Length: metre (m) — a doorway is about 2 metres tall"
+          "text": "Length: metre (m) \u2014 a doorway is about 2 metres tall"
         },
         {
           "id": "ex2",
-          "text": "Mass: kilogram (kg) — a bag of rice is usually 5 kg"
+          "text": "Mass: kilogram (kg) \u2014 a bag of rice is usually 5 kg"
         },
         {
           "id": "ex3",
-          "text": "Time: second (s) — your heartbeat is about 1 beat per second"
+          "text": "Time: second (s) \u2014 your heartbeat is about 1 beat per second"
         }
       ],
       "keyPoints": [
@@ -145,20 +145,20 @@
         },
         {
           "id": "kp2",
-          "text": "Kelvin (K) is the SI unit for temperature (0 K = absolute zero = -273°C)"
+          "text": "Kelvin (K) is the SI unit for temperature (0 K = absolute zero = -273\u00b0C)"
         },
         {
           "id": "kp3",
           "text": "SI is used universally in science and most countries"
         }
       ],
-      "funFact": "The kilogram was defined by a platinum-iridium cylinder kept in France until 2019! Now it's defined by a universal physical constant — the Planck constant.",
+      "funFact": "The kilogram was defined by a platinum-iridium cylinder kept in France until 2019! Now it's defined by a universal physical constant \u2014 the Planck constant.",
       "textbookRef": "Pages 54-57"
     },
     {
       "id": 3,
       "title": "CGS vs MKS Systems",
-      "emoji": "⚖️",
+      "emoji": "\u2696\ufe0f",
       "colorTheme": "from-purple-500 to-violet-600",
       "bgColor": "bg-purple-50",
       "borderColor": "border-purple-300",
@@ -192,13 +192,13 @@
           "text": "SI is MKS extended with 4 more base units"
         }
       ],
-      "funFact": "The USA is one of only 3 countries in the world that hasn't officially adopted SI units — they still use feet, pounds, and Fahrenheit in daily life!",
+      "funFact": "The USA is one of only 3 countries in the world that hasn't officially adopted SI units \u2014 they still use feet, pounds, and Fahrenheit in daily life!",
       "textbookRef": "Pages 57-59"
     },
     {
       "id": 4,
       "title": "Measuring Length, Mass and Time",
-      "emoji": "🔬",
+      "emoji": "\ud83d\udd2c",
       "colorTheme": "from-orange-500 to-amber-600",
       "bgColor": "bg-orange-50",
       "borderColor": "border-orange-400",
@@ -225,29 +225,29 @@
         },
         {
           "id": "kp2",
-          "text": "Record measurements with units — '5' is meaningless, '5 kg' is precise"
+          "text": "Record measurements with units \u2014 '5' is meaningless, '5 kg' is precise"
         },
         {
           "id": "kp3",
           "text": "Errors can occur due to faulty instruments or incorrect reading"
         }
       ],
-      "funFact": "The most precise clock in the world (atomic clock) loses only 1 second every 300 million years — it uses the vibration of caesium atoms!",
+      "funFact": "The most precise clock in the world (atomic clock) loses only 1 second every 300 million years \u2014 it uses the vibration of caesium atoms!",
       "textbookRef": "Pages 59-61"
     },
     {
       "id": 5,
       "title": "Measuring Temperature",
-      "emoji": "🌡️",
+      "emoji": "\ud83c\udf21\ufe0f",
       "colorTheme": "from-red-500 to-pink-600",
       "bgColor": "bg-red-50",
       "borderColor": "border-red-300",
-      "content": "Temperature is a measure of hotness or coldness. It is measured using a thermometer. The SI unit is Kelvin (K), but Celsius (°C) is commonly used. The normal human body temperature is 37°C (98.6°F) or 310 K.",
+      "content": "Temperature is a measure of hotness or coldness. It is measured using a thermometer. The SI unit is Kelvin (K), but Celsius (\u00b0C) is commonly used. The normal human body temperature is 37\u00b0C (98.6\u00b0F) or 310 K.",
       "pageReference": "61-62",
       "examples": [
         {
           "id": "ex1",
-          "text": "Clinical thermometer measures body temperature (35–42°C range)"
+          "text": "Clinical thermometer measures body temperature (35\u201342\u00b0C range)"
         },
         {
           "id": "ex2",
@@ -261,18 +261,18 @@
       "keyPoints": [
         {
           "id": "kp1",
-          "text": "Kelvin = Celsius + 273 (0°C = 273 K)"
+          "text": "Kelvin = Celsius + 273 (0\u00b0C = 273 K)"
         },
         {
           "id": "kp2",
-          "text": "Absolute zero (0 K = -273°C) is the lowest possible temperature"
+          "text": "Absolute zero (0 K = -273\u00b0C) is the lowest possible temperature"
         },
         {
           "id": "kp3",
           "text": "Mercury thermometers use expansion of mercury; digital ones use electronic sensors"
         }
       ],
-      "funFact": "The surface of the Sun is about 5,500°C (5,773 K) — but the outer corona can reach over 1,000,000°C! Scientists still don't fully understand why.",
+      "funFact": "The surface of the Sun is about 5,500\u00b0C (5,773 K) \u2014 but the outer corona can reach over 1,000,000\u00b0C! Scientists still don't fully understand why.",
       "textbookRef": "Pages 61-62"
     }
   ],
@@ -287,7 +287,7 @@
         "Second"
       ],
       "correctAnswer": "C",
-      "explanation": "Newton is a derived unit (kg·m/s²). The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela.",
+      "explanation": "Newton is a derived unit (kg\u00b7m/s\u00b2). The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela.",
       "conceptIds": [
         2
       ],
@@ -303,7 +303,7 @@
         "Measurement, Knowledge, Science"
       ],
       "correctAnswer": "B",
-      "explanation": "MKS stands for Metre, Kilogram, Second — the three base units of the MKS system.",
+      "explanation": "MKS stands for Metre, Kilogram, Second \u2014 the three base units of the MKS system.",
       "conceptIds": [
         3
       ],
@@ -329,13 +329,13 @@
       "id": "t4",
       "question": "Normal human body temperature in Celsius is:",
       "options": [
-        "32°C",
-        "37°C",
-        "42°C",
-        "100°C"
+        "32\u00b0C",
+        "37\u00b0C",
+        "42\u00b0C",
+        "100\u00b0C"
       ],
       "correctAnswer": "B",
-      "explanation": "Normal human body temperature is 37°C (98.6°F or 310 K).",
+      "explanation": "Normal human body temperature is 37\u00b0C (98.6\u00b0F or 310 K).",
       "conceptIds": [
         5
       ],
@@ -359,7 +359,7 @@
     },
     {
       "id": "t6",
-      "question": "What is 0°C in Kelvin?",
+      "question": "What is 0\u00b0C in Kelvin?",
       "options": [
         "0 K",
         "100 K",
@@ -367,7 +367,7 @@
         "373 K"
       ],
       "correctAnswer": "C",
-      "explanation": "To convert Celsius to Kelvin: K = °C + 273. So 0°C = 273 K.",
+      "explanation": "To convert Celsius to Kelvin: K = \u00b0C + 273. So 0\u00b0C = 273 K.",
       "conceptIds": [
         5
       ],
@@ -416,9 +416,9 @@
       "Temperature scales and conversion"
     ],
     "commonMisconceptions": [
-      "Kelvin and Celsius are the same — Kelvin = Celsius + 273",
-      "CGS and SI are the same — CGS uses gram/centimetre, SI uses kg/metre",
-      "Temperature is the same as heat — heat is energy, temperature is a measure of hotness"
+      "Kelvin and Celsius are the same \u2014 Kelvin = Celsius + 273",
+      "CGS and SI are the same \u2014 CGS uses gram/centimetre, SI uses kg/metre",
+      "Temperature is the same as heat \u2014 heat is energy, temperature is a measure of hotness"
     ],
     "realWorldExamples": [
       "Doctor prescribing medicine in mg",
@@ -446,7 +446,7 @@
   },
   "textbookExercise": {
     "chapterName": "Measurement of Physical Quantities",
-    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers \u2014 these appear in school exams!",
     "questions": [
       {
         "number": 1,
@@ -467,7 +467,7 @@
       {
         "number": 2,
         "type": "short_answer",
-        "question": "Who is my companion ?\nGroup ‘A’\nGroup ‘B’\n(1) Velocity\n(a) litre\n(2) Area\n(b) kilogram\n(3) Volume\n(c) metre/second\n(4) Mass\n(d) kilogram/cubic metre\n(5) Density\n(e) square metre",
+        "question": "Who is my companion ?\nGroup \u2018A\u2019\nGroup \u2018B\u2019\n(1) Velocity\n(a) litre\n(2) Area\n(b) kilogram\n(3) Volume\n(c) metre/second\n(4) Mass\n(d) kilogram/cubic metre\n(5) Density\n(e) square metre",
         "subQuestions": [
           "litre\n(2) Area",
           "kilogram\n(3) Volume",
@@ -501,16 +501,16 @@
         ]
       }
     ],
-    "rawText": "1. Write answers to the following\nquestions in your own words.\n(a) Why is the weight of the same\nobject different on different planets ?\n(b) What precautions will you take to\nmake accurate measurements in\nday-to-day affairs ?\n(c) What is the difference between mass\nand weight ?\n4. Explain, giving examples, the errors\nthat\noccur\nwhile\nmaking\nmeasurements.\n2. Who is my companion ?\nGroup ‘A’\nGroup ‘B’\n(1) Velocity\n(a) litre\n(2) Area\n(b) kilogram\n(3) Volume\n(c) metre/second\n(4) Mass\n(d) kilogram/cubic metre\n(5) Density\n(e) square metre\n6. Explain the need for accurate\nmeasurement and the devices to be\nused for that.\n3. Explain giving examples.\n(a) Scalar quantity\n(b) Vector quantity\n5. Give reasons.\n(a) It is not proper to measure quantities\nby using body parts as units.\n(b) It is necessary to get the weights\nand measures standardized at regular\nintervals.",
+    "rawText": "1. Write answers to the following\nquestions in your own words.\n(a) Why is the weight of the same\nobject different on different planets ?\n(b) What precautions will you take to\nmake accurate measurements in\nday-to-day affairs ?\n(c) What is the difference between mass\nand weight ?\n4. Explain, giving examples, the errors\nthat\noccur\nwhile\nmaking\nmeasurements.\n2. Who is my companion ?\nGroup \u2018A\u2019\nGroup \u2018B\u2019\n(1) Velocity\n(a) litre\n(2) Area\n(b) kilogram\n(3) Volume\n(c) metre/second\n(4) Mass\n(d) kilogram/cubic metre\n(5) Density\n(e) square metre\n6. Explain the need for accurate\nmeasurement and the devices to be\nused for that.\n3. Explain giving examples.\n(a) Scalar quantity\n(b) Vector quantity\n5. Give reasons.\n(a) It is not proper to measure quantities\nby using body parts as units.\n(b) It is necessary to get the weights\nand measures standardized at regular\nintervals.",
     "qaCards": [
       {
         "question": "Which of the following is NOT a base SI unit?",
-        "answer": "Newton is a derived unit (kg·m/s²). The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela.",
+        "answer": "Newton is a derived unit (kg\u00b7m/s\u00b2). The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela.",
         "source": "chapter_test_explanation"
       },
       {
         "question": "What does MKS stand for?",
-        "answer": "MKS stands for Metre, Kilogram, Second — the three base units of the MKS system.",
+        "answer": "MKS stands for Metre, Kilogram, Second \u2014 the three base units of the MKS system.",
         "source": "chapter_test_explanation"
       },
       {
@@ -520,7 +520,7 @@
       },
       {
         "question": "Normal human body temperature in Celsius is:",
-        "answer": "Normal human body temperature is 37°C (98.6°F or 310 K).",
+        "answer": "Normal human body temperature is 37\u00b0C (98.6\u00b0F or 310 K).",
         "source": "chapter_test_explanation"
       },
       {
@@ -529,8 +529,8 @@
         "source": "chapter_test_explanation"
       },
       {
-        "question": "What is 0°C in Kelvin?",
-        "answer": "To convert Celsius to Kelvin: K = °C + 273. So 0°C = 273 K.",
+        "question": "What is 0\u00b0C in Kelvin?",
+        "answer": "To convert Celsius to Kelvin: K = \u00b0C + 273. So 0\u00b0C = 273 K.",
         "source": "chapter_test_explanation"
       },
       {
@@ -548,7 +548,7 @@
       {
         "id": "la1",
         "question": "Write answers to the following\nquestions in your own words.\n(a) Why is the weight of the same\nobject different on different planets ?\n(b) What precautions will you take to\nmake accurate measurements in\nday-to-day affairs ?\n(c) What is the difference between mass\nand weight ?",
-        "modelAnswer": "Write answers to the following questions in your own words. (a) Why is the weight of the same object different on different planets ? (b) What precautions will you take to make accurate measurements in day-to-day affairs ? (c) What is the difference between mass and weight ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Write answers to the following questions in your own words. (a) Why is the weight of the same object different on different planets ? (b) What precautions will you take to make accurate measurements in day-to-day affairs ? (c) What is the difference between mass and weight ? This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Write answers to the following questions in your own words.",
           "(a) Why is the weight of the same object different on different planets ?",
@@ -560,78 +560,62 @@
       {
         "id": "la2",
         "question": "Why is the weight of the same\nobject different on different planets ?",
-        "modelAnswer": "Newton is a derived unit (kg·m/s²). The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Newton is a derived unit (kg\u00b7m/s\u00b2). The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela.",
         "keyPoints": [
-          "Newton is a derived unit (kg·m/s²).",
-          "The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Newton is a derived unit (kg\u00b7m/s\u00b2).",
+          "The 7 base SI units are metre, kilogram, second, Kelvin, ampere, mole, and candela."
         ],
         "marks": 3
       },
       {
         "id": "la3",
         "question": "What precautions will you take to\nmake accurate measurements in\nday-to-day affairs ?",
-        "modelAnswer": "What precautions will you take to make accurate measurements in day-to-day affairs ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "What precautions will you take to make accurate measurements in day-to-day affairs ? This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "What precautions will you take to make accurate measurements in day-to-day affairs ?",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 3
       },
       {
         "id": "la4",
         "question": "What is the difference between mass\nand weight ?",
-        "modelAnswer": "In the CGS system, mass is measured in grams (g), not kilograms. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: What is the difference between mass\nand weight ?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "In the CGS system, mass is measured in grams (g), not kilograms.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la5",
         "question": "Explain, giving examples, the errors\nthat\noccur\nwhile\nmaking\nmeasurements.",
-        "modelAnswer": "Explain, giving examples, the errors that occur while making measurements. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Explain, giving examples, the errors that occur while making measurements. This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Explain, giving examples, the errors that occur while making measurements.",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       },
       {
         "id": "la6",
-        "question": "Who is my companion ?\nGroup ‘A’\nGroup ‘B’\n(1) Velocity\n(a) litre\n(2) Area\n(b) kilogram\n(3) Volume\n(c) metre/second\n(4) Mass\n(d) kilogram/cubic metre\n(5) Density\n(e) square metre",
-        "modelAnswer": "Who is my companion ? Group ‘A’ Group ‘B’ (1) Velocity (a) litre (2) Area (b) kilogram (3) Volume (c) metre/second (4) Mass (d) kilogram/cubic metre (5) Density (e) square metre This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "question": "Who is my companion ?\nGroup \u2018A\u2019\nGroup \u2018B\u2019\n(1) Velocity\n(a) litre\n(2) Area\n(b) kilogram\n(3) Volume\n(c) metre/second\n(4) Mass\n(d) kilogram/cubic metre\n(5) Density\n(e) square metre",
+        "modelAnswer": "Who is my companion ? Group \u2018A\u2019 Group \u2018B\u2019 (1) Velocity (a) litre (2) Area (b) kilogram (3) Volume (c) metre/second (4) Mass (d) kilogram/cubic metre (5) Density (e) square metre This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Who is my companion ?",
-          "Group ‘A’ Group ‘B’ (1) Velocity (a) litre (2) Area (b) kilogram (3) Volume (c) metre/second (4) Mass (d) kilogram/cubic metre (5) Density (e) square metre This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Group \u2018A\u2019 Group \u2018B\u2019 (1) Velocity (a) litre (2) Area (b) kilogram (3) Volume (c) metre/second (4) Mass (d) kilogram/cubic metre (5) Density (e) square metre This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       },
       {
         "id": "la7",
         "question": "litre\n(2) Area",
-        "modelAnswer": "litre (2) Area This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: litre\n(2) Area",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "litre (2) Area This concept is explained in this chapter with its causes, features, and outcomes.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la8",
         "question": "kilogram\n(3) Volume",
-        "modelAnswer": "kilogram (3) Volume This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: kilogram\n(3) Volume",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "kilogram (3) Volume This concept is explained in this chapter with its causes, features, and outcomes.",
+        "keyPoints": [],
         "marks": 5
       }
     ]

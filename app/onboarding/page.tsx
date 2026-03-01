@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { motion } from 'framer-motion';
 import { useRouter } from 'next/navigation';
 
 type Step = 1 | 2 | 3;
@@ -107,15 +108,18 @@ export default function OnboardingPage() {
               {SUBJECTS.map((subject) => {
                 const selected = weakSubjects.includes(subject);
                 return (
-                  <button
+                  <motion.button
                     key={subject}
+                    whileTap={{ scale: 0.93, rotateY: 15 }}
+                    whileHover={{ scale: 1.04 }}
+                    transition={{ type: 'spring', stiffness: 400, damping: 20 }}
                     onClick={() => toggleSubject(subject)}
                     className={selected
                       ? 'border-2 border-violet-600 bg-violet-600 text-white rounded-2xl px-4 py-2.5 font-semibold text-sm shadow-md shadow-violet-200'
                       : 'border-2 border-gray-200 bg-white text-gray-700 hover:border-violet-400 hover:bg-violet-50 rounded-2xl px-4 py-2.5 font-semibold text-sm transition-all duration-150'}
                   >
                     {SUBJECT_EMOJIS[subject]} {subject}
-                  </button>
+                  </motion.button>
                 );
               })}
             </div>

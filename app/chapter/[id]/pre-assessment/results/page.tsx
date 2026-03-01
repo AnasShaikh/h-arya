@@ -3,7 +3,6 @@
 import { useEffect, useState } from 'react';
 import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
-import confetti from 'canvas-confetti';
 import InteractiveElement from '../../../../components/InteractiveElement';
 
 export default function PreAssessmentResults() {
@@ -11,6 +10,7 @@ export default function PreAssessmentResults() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const [isLoading, setIsLoading] = useState(true);
+  const [displayScore, setDisplayScore] = useState(0);
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [interactiveElement, setInteractiveElement] = useState<any>(null);
 
@@ -36,33 +36,42 @@ export default function PreAssessmentResults() {
         console.error('Error loading interactive element:', error);
       }
 
-      // Trigger confetti if score is high
-      if (score >= 60) {
-        const duration = 3 * 1000;
-        const animationEnd = Date.now() + duration;
-        const defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
-
-        const randomInRange = (min: number, max: number) => Math.random() * (max - min) + min;
-
-        const interval: any = setInterval(function() {
-          const timeLeft = animationEnd - Date.now();
-
-          if (timeLeft <= 0) {
-            return clearInterval(interval);
-          }
-
-          const particleCount = 50 * (timeLeft / duration);
-          // since particles fall down, start a bit higher than random
-          confetti({ ...defaults, particleCount, origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 } });
-          confetti({ ...defaults, particleCount, origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 } });
-        }, 250);
-      }
-
       setIsLoading(false);
     };
 
     init();
-  }, [router, score, params.id]);
+  }, [router, params.id]);
+
+  const isPerfectScore = score === 100;
+
+  useEffect(() => {
+    if (isPerfectScore) {
+      import('canvas-confetti').then(confetti => {
+        confetti.default({
+          particleCount: 120,
+          spread: 80,
+          origin: { y: 0.6 },
+          colors: ['#6D28D9', '#7C3AED', '#F59E0B', '#10B981', '#EC4899'],
+        });
+      });
+    }
+  }, [isPerfectScore]);
+
+  useEffect(() => {
+    const target = score;
+    const duration = 1000;
+    const steps = 40;
+    const increment = target / steps;
+    let current = 0;
+
+    const timer = setInterval(() => {
+      current = Math.min(current + increment, target);
+      setDisplayScore(Math.round(current));
+      if (current >= target) clearInterval(timer);
+    }, duration / steps);
+
+    return () => clearInterval(timer);
+  }, [score]);
 
   const getPerformanceLevel = () => {
     if (score >= 80) return { level: 'Excellent!', color: 'text-green-600', bg: 'bg-green-50', border: 'border-green-200', emoji: '🌟' };
@@ -117,7 +126,7 @@ export default function PreAssessmentResults() {
           {/* Score Display */}
           <div className={`${performance.bg} ${performance.border} border-2 rounded-2xl p-8 mb-8 text-center transform transition hover:scale-[1.02]`}>
               <div className={`text-6xl font-black ${performance.color} mb-2 tracking-tight`}>
-                {Math.round(score)}%
+                {displayScore}%
               </div>
               <p className="text-lg font-medium text-gray-700 mb-4">
                 {correct} out of {total} questions correct

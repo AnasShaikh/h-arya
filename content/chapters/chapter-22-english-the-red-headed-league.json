@@ -441,73 +441,73 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Describe the terms and conditions Mr. Jabez Wilson had to follow as a member of the Red-Headed League.",
-        "modelAnswer": "Mr. Jabez Wilson was hired by the Red-Headed League under the condition that he had to be at the office every day from ten in the morning until two in the afternoon. During these four hours, he was strictly forbidden from leaving the building for any reason, or he would lose his position forever. His primary duty was to copy out the 'Encyclopaedia Britannica' by hand using his own ink, pens, and paper. In return for this simple task, he received a very generous salary of four pounds a week, which was a significant amount of money at that time.",
+        "question": "Describe the conditions Mr. Jabez Wilson had to follow for the Red-Headed League job and explain why they mattered in the plot.",
+        "modelAnswer": "Mr. Wilson had to report regularly, remain in the office during fixed hours, and continue copying work without leaving his place. These strict and unusual conditions were designed to keep him away from his own shop for several hours each day. While he remained occupied elsewhere, the criminals could use his shop premises to prepare their secret tunnel plan. Thus, the job conditions were not genuine employment but a distraction strategy.",
         "keyPoints": [
-          "Required to be in the office daily from 10 AM to 2 PM.",
-          "Strictly forbidden from leaving the premises during work hours.",
-          "Tasked with copying the 'Encyclopaedia Britannica' by hand.",
-          "Paid a handsome salary of four pounds per week for the work."
+          "Rules required fixed attendance and restricted movement.",
+          "Purpose was to remove Wilson from his shop daily.",
+          "Conditions created cover for the criminals’ underground work.",
+          "Shows how an absurd offer can hide criminal intent."
         ],
-        "marks": 4
+        "marks": 6
       },
       {
         "id": "la2",
-        "question": "Why did Sherlock Holmes become suspicious of Mr. Wilson's assistant, Vincent Spaulding?",
-        "modelAnswer": "Sherlock Holmes found several things suspicious about the assistant, starting with the fact that he was willing to work for half the standard wages. Spaulding also spent a peculiar amount of time in the cellar, claiming he was developing photographs, which Holmes suspected was a cover for another activity. When Holmes visited the shop, he noticed that the knees of Spaulding's trousers were wrinkled, stained, and badly worn. This physical evidence confirmed Holmes' theory that the assistant was actually spending his time kneeling and digging a tunnel in the cellar.",
+        "question": "Why did Sherlock Holmes suspect Vincent Spaulding early? Mention the clues.",
+        "modelAnswer": "Holmes found Spaulding suspicious because he was unusually eager to work for very low wages and seemed too interested in the shop’s inner spaces. His behaviour appeared calculated rather than ordinary. Holmes also noticed details about his movements and conduct that did not fit a normal assistant profile. These clues suggested that Spaulding had a hidden objective beyond routine employment.",
         "keyPoints": [
-          "Spaulding agreed to work for half the usual salary.",
-          "He spent long hours alone in the cellar on the pretext of photography.",
-          "Holmes observed that his trouser knees were dirty and worn out.",
-          "The worn knees suggested he was involved in heavy manual digging."
+          "Unnatural willingness to work cheaply raised suspicion.",
+          "Behaviour suggested motive beyond regular shop duties.",
+          "Holmes relied on behavioural clues, not guesswork.",
+          "Suspicion focused on concealed criminal planning."
         ],
         "marks": 5
       },
       {
         "id": "la3",
-        "question": "How did Sherlock Holmes use the hollow sound of the pavement and the shop's location to solve the mystery?",
-        "modelAnswer": "Upon arriving at Saxe-Coburg Square, Sherlock Holmes thumped the pavement outside Mr. Wilson’s shop with his heavy walking stick. The hollow sound produced by the stick confirmed his suspicion that a tunnel had been dug beneath the ground leading away from the shop. By then walking around the corner, Holmes observed that the shop shared a back wall with the City and Suburban Bank. He correctly deduced that the criminals were digging a passage from the pawnshop cellar directly into the bank's gold vault to commit a robbery.",
+        "question": "How did Holmes use physical observation (pavement sound and location) to solve the case?",
+        "modelAnswer": "Holmes tested the ground and surroundings to infer whether underground digging might be underway. A hollow response indicated possible space below, while the shop’s proximity to a valuable target location strengthened his theory. He connected these physical observations with the strange Red-Headed League arrangement and concluded that a tunnel-based robbery was likely. This shows Holmes’ method: small facts, logical linkage, and timely action.",
         "keyPoints": [
-          "Holmes thumped the pavement with his cane to test for empty space.",
-          "The hollow sound proved the existence of an underground tunnel.",
-          "He identified that the shop was located directly behind a major bank.",
-          "He deduced the tunnel's purpose was to reach the bank's gold vault."
+          "Holmes used direct physical verification, not assumptions.",
+          "Hollow sound suggested underground activity/tunnel possibility.",
+          "Location link helped identify likely target.",
+          "Deduction came from connecting multiple concrete clues."
         ],
-        "marks": 4
+        "marks": 6
       },
       {
         "id": "la4",
-        "question": "Explain the clever scheme John Clay used to attempt the bank robbery.",
-        "modelAnswer": "John Clay, a notorious criminal posing as the assistant Vincent Spaulding, invented the 'Red-Headed League' as a ruse to get Mr. Wilson out of his shop. He knew the bank next door held a large shipment of French gold and needed time to dig a tunnel from Wilson's cellar into the bank vault. By offering Wilson a high-paying job that required him to be away for four hours daily, Clay ensured the cellar was left unguarded for his excavation work. Once the tunnel was completed after eight weeks, the League was suddenly 'dissolved' so the criminals could perform the robbery during the weekend.",
+        "question": "Explain John Clay’s robbery plan and why it is considered clever but flawed.",
+        "modelAnswer": "John Clay’s plan was clever because it used deception instead of immediate force. He created the fake Red-Headed League to draw Wilson away from his shop daily, giving time to dig toward the bank vault area unnoticed. The plan relied on planning, patience, and disguise. However, it was flawed because unusual arrangements attracted attention and left a pattern Holmes could decode. Intelligence without caution led to exposure.",
         "keyPoints": [
-          "The League was a trick to lure Mr. Wilson away from his shop daily.",
-          "John Clay used the empty shop to dig a tunnel from the cellar to the bank.",
-          "The target was a massive shipment of French gold stored in the bank vault.",
-          "The robbery was planned for a Saturday to allow for a two-day escape."
+          "Plan used distraction + time + tunnel strategy.",
+          "Fake employment scheme was central to execution.",
+          "Clever in design but vulnerable to careful observation.",
+          "Holmes identified the pattern and blocked final execution."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la5",
-        "question": "Describe the dramatic scene in the bank's cellar when the criminals were caught.",
-        "modelAnswer": "On the night of the robbery, Sherlock Holmes, Dr. Watson, a police inspector, and the bank director waited silently in total darkness inside the bank's vault. They watched as a stone in the floor was pushed aside and a hand appeared, followed by the notorious John Clay and his accomplice. As the criminals stepped into the vault, Holmes sprang forward and seized Clay by the collar while the police officer blocked the tunnel. The trap was successful, and the criminals were captured red-handed before they could touch the crates of gold.",
+        "question": "Describe the final bank-cellar scene and its significance in the story.",
+        "modelAnswer": "The climax in the bank cellar is tense and dramatic: Holmes and the police wait silently in anticipation of the criminals’ entry. As the offenders emerge to complete the robbery, they are caught in a prepared trap. This scene confirms Holmes’ deductions and ends the mystery with decisive action. It also emphasizes that successful detection combines reasoning with coordination and timing.",
         "keyPoints": [
-          "Holmes and his team waited in the dark cellar for the criminals to emerge.",
-          "They observed the thieves climbing through a hole in the vault floor.",
-          "Holmes acted quickly to capture John Clay as soon as he appeared.",
-          "The police intervention prevented the theft of thirty thousand gold coins."
+          "Climax built through waiting, silence, and suspense.",
+          "Criminals were arrested at the moment of attempted execution.",
+          "Scene validates Holmes’ investigation and deductions.",
+          "Highlights teamwork between detective and police."
         ],
         "marks": 5
       },
       {
         "id": "la6",
-        "question": "What are Modal Auxiliary Verbs and how are they used to express ability and obligation?",
-        "modelAnswer": "Modal auxiliary verbs are special helping verbs like 'can', 'must', 'should', and 'may' that modify the meaning of the main verb in a sentence. To express ability, we use 'can' for present situations and 'could' for the past, such as 'Holmes can solve any case.' For expressing obligation or necessity, 'must' and 'should' are used, where 'must' indicates a strong requirement and 'should' suggests advice. These verbs are unique because they never change their form and are always followed by the base form of the main verb without the word 'to'.",
+        "question": "Language study: What are modal auxiliary verbs? Explain how they express ability and obligation with examples.",
+        "modelAnswer": "Modal auxiliary verbs are helping verbs such as can, could, may, might, must, should, will, and would. They modify the main verb to express ideas like ability, possibility, permission, advice, and obligation. For example, “Holmes can solve difficult cases” shows ability, while “The suspects must be watched” shows obligation/necessity. Modals make meaning more precise by showing attitude and degree of certainty.",
         "keyPoints": [
-          "Modals like 'can' and 'could' are used to indicate physical or mental ability.",
-          "'Must' expresses a strong necessity, while 'should' is used for advice.",
-          "Modal verbs do not change for different subjects (no -s, -ed, or -ing).",
-          "They are always followed by the base form of the following main verb."
+          "Modals are helping verbs that add shades of meaning.",
+          "Ability: can/could; obligation: must/should.",
+          "They indicate possibility, permission, advice, certainty, etc.",
+          "Essential for accurate and nuanced expression."
         ],
         "marks": 5
       }

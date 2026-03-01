@@ -532,73 +532,73 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Why did Rima and her gang chorus 'Gud marning!' to Malti?",
-        "modelAnswer": "Rima and her gang chanted \"Gud marning!\" to cruelly mock Malti's regional accent and poor English. The exclamation mark in their greeting emphasizes the loud, exaggerated tone they used to deliberately embarrass her. They acted like a swarm of buzzing bees—a metaphor for their collective bullying—as they relentlessly teased the new girl. This incident perfectly highlights their snobbish behavior and unwillingness to accept someone different.",
+        "question": "Write about Malti and Rima using these points: appearance, studies, singing, attitude to others, weak points.",
+        "modelAnswer": "Malti and Rima are presented as contrasts. Malti appears simple and traditional, but she is intelligent, hardworking and talented in singing. She performs well in studies, especially mathematics, and is polite and helpful toward classmates. Her weak point is spoken English, which she honestly acknowledges and tries to improve. Rima, in contrast, appears stylish and confident and also sings well, but she judges others by appearance and accent. Her weak points are pride, prejudice and lack of empathy, though the story suggests she has the capacity to change.",
         "keyPoints": [
-          "They intentionally mocked Malti's regional accent and poor English.",
-          "The exclamation mark highlights their loud, exaggerated, and mocking tone.",
-          "Their collective bullying is compared to a swarm of buzzing bees (metaphor).",
-          "It reveals their snobbish attitude and prejudice against outsiders."
+          "Malti: simple appearance, strong in studies and singing, respectful and helpful.",
+          "Malti’s weakness: weak spoken English, but willingness to improve.",
+          "Rima: stylish, confident, academically capable, good singer.",
+          "Rima’s weakness: snobbish attitude and judging others superficially."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la2",
-        "question": "What happened at the Inter-House singing competition?",
-        "modelAnswer": "During the Inter-House singing competition, Malti delivered a performance that completely silenced her critics. Her melodious voice flowed as smoothly as a calm river, a simile that describes the soothing quality of her singing. The hyphen in \"Inter-House\" connects the words to indicate it was a competition across the whole school. Ultimately, Malti won the first prize, proving that her immense talent belied her simple appearance.",
+        "question": "Imagine you are Malti. Write one event from the story from Malti’s point of view.",
+        "modelAnswer": "When I entered the new class, I tried to smile and greet everyone politely. Some girls repeated my greeting in a strange tone, and slowly I realized they were making fun of my accent. I felt hurt and lonely, but I decided not to give up. I focused on studies and answered questions in class. The singing competition gave me confidence because people listened to me seriously. Even when Rima mocked me again, I gathered courage and asked her to help me improve my English. I wanted friendship, not conflict.",
         "keyPoints": [
-          "Malti sang beautifully and completely silenced her critics.",
-          "Her singing was as smooth as a calm river (simile).",
-          "The hyphen in \"Inter-House\" shows it was a school-wide event.",
-          "She won the first prize, proving her talent exceeded her simple appearance."
+          "Shows Malti’s emotional experience as a new student.",
+          "Highlights humiliation due to accent-mocking.",
+          "Shows resilience through studies and singing performance.",
+          "Ends with Malti’s positive attempt to seek help."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la3",
-        "question": "Why did Rima feel no joy after winning her singing category?",
-        "modelAnswer": "Rima won first place in the English song category, but a heavy emptiness overshadowed her victory. She realized that her uncharitable remarks towards Malti were deeply unfair and unjustified. Her guilt hovered over her like a dark storm cloud—a metaphor for her troubled conscience—making her feel miserable. Even her own friends condemned her harshness, forcing her to reflect on her cruel actions.",
+        "question": "Discuss: Is it necessary to develop a good accent? Why? What efforts can be taken to improve pronunciation?",
+        "modelAnswer": "A clear and understandable accent is useful, but having a “perfect” accent is not necessary for intelligence or worth. Communication should be judged by clarity, confidence and respect, not by imitation of a particular speech style. Students can improve pronunciation by listening carefully to model speech, reading aloud, using dictionary audio, practicing difficult sounds, recording their speech, and speaking regularly without fear. The goal is effective communication, not accent-based superiority.",
         "keyPoints": [
-          "Rima won first place in the English song category.",
-          "She felt no joy because she realized she had been cruel to Malti.",
-          "Her guilt hovered over her like a dark storm cloud (metaphor).",
-          "Her friends' disapproval forced her to reflect on her bad behavior."
+          "Clarity matters more than sounding “elite.”",
+          "Accent should not become a basis for discrimination.",
+          "Use practical methods: listening, reading aloud, dictionary audio, recording.",
+          "Aim for confident and respectful communication."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What did Mr Sen mean by 'The same may be said of your Hindi'?",
-        "modelAnswer": "Mr. Sen pointed out that while Rima mocked Malti's English, her own Hindi was far from perfect. He used this sharp observation—delivered with a serious tone—to firmly highlight Rima's hypocrisy. The consonance in his stern, stinging statement emphasized that nobody is flawless in every single language. He wanted to teach Rima that judging others for their linguistic weaknesses is completely unfair.",
+        "question": "Reflect: How should we behave with classmates who speak differently or come from different backgrounds?",
+        "modelAnswer": "We should treat every classmate with dignity, patience and inclusion, regardless of language, accent, dress or background. A classroom becomes stronger when students help one another learn rather than humiliating others for differences. If someone struggles in one area, we should guide them respectfully while also learning from their strengths. Inclusive behaviour builds trust, confidence and genuine friendship.",
         "keyPoints": [
-          "Mr. Sen pointed out that Rima's own Hindi was imperfect.",
-          "He delivered a sharp observation—using a dash—to highlight her hypocrisy.",
-          "The consonance in the stern, stinging statement emphasized that no one is flawless.",
-          "It taught Rima that judging others for their language skills is unfair."
+          "Respect and inclusion are essential in diverse classrooms.",
+          "Differences in language/accent should not lead to ridicule.",
+          "Peer support improves learning and confidence for all.",
+          "Mutual respect creates healthy class culture."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "What is a 'clique'?",
-        "modelAnswer": "A clique is a small, tightly knit group of friends who stubbornly refuse to let outsiders join them. Rima's gang formed an exclusive clique that deliberately isolated Malti and made her feel unwelcome. They whispered and gossiped with a persistent \"hissing\" sound, a clear use of onomatopoeia to describe their toxic behavior. Such groups create a harmful environment that unfairly excludes and hurts others.",
+        "question": "Explain: What message does the story “Odd One In” give to students?",
+        "modelAnswer": "The story teaches that judging people by outward appearance or accent is unfair and harmful. Real ability may be hidden behind simplicity, and kindness is more valuable than social show. It also emphasizes self-reflection: those who mock others may later realize their own weaknesses. The central message is to replace snobbery with empathy and respect.",
         "keyPoints": [
-          "A clique is a small, exclusive group that rejects outsiders.",
-          "Rima's gang formed a clique to deliberately isolate Malti.",
-          "Their toxic gossiping is described using onomatopoeia (\"hissing\").",
-          "Cliques create a harmful environment that unfairly hurts others."
+          "Don’t judge by appearance, accent, or background.",
+          "Talent and character matter more than style.",
+          "Bullying harms both victim and class culture.",
+          "Empathy and humility are core values."
         ],
         "marks": 5
       },
       {
         "id": "la6",
-        "question": "What did Rima's parents mean by 'she is turning into quite a little snob'?",
-        "modelAnswer": "Rima's parents meant that she was starting to look down on people she considered inferior, such as Malti. A snob judges others based on superficial traits like their clothes or accent rather than their actual character. The repetition of the \"s\" sound in \"stubborn snob\" reflects alliteration, emphasizing her foolish pride. They were deeply worried that their daughter was losing her kindness and empathy.",
+        "question": "Write a continuation: What could happen next in the story of Rima and Malti?",
+        "modelAnswer": "After the conflict, Rima gradually realizes that she has hurt Malti and embarrassed herself in front of friends. She apologizes sincerely and offers to help Malti with spoken English. In return, Malti helps Rima and others in mathematics. Over time, the class becomes more cooperative and less judgmental. The friendship between the two girls becomes an example of how respect and learning can replace prejudice.",
         "keyPoints": [
-          "Rima was looking down on people she considered inferior.",
-          "Snobs unfairly judge others based on superficial traits.",
-          "The phrase uses alliteration (\"stubborn snob\") to emphasize her pride.",
-          "Her parents were deeply worried about her lack of kindness."
+          "Possible turning point through apology and self-correction.",
+          "Mutual learning: English support and math support.",
+          "Class culture improves through inclusion.",
+          "Story ends with growth, not hostility."
         ],
         "marks": 5
       }

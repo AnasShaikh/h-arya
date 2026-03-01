@@ -4,7 +4,8 @@
     "title": "Natural Regions",
     "subject": "Geography",
     "pages": "30-38",
-    "description": "World's natural regions — Tundra, Taiga, Grasslands, Hot Desert, Equatorial, Monsoon, Mediterranean and West European regions"
+    "description": "World's natural regions — Tundra, Taiga, Grasslands, Hot Desert, Equatorial, Monsoon, Mediterranean and West European regions",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -476,48 +477,71 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What determines which natural region an area belongs to?",
-        "modelAnswer": "Natural regions are determined by the availability of sunlight and water (rainfall) at different latitudes. These factors create specific climates which support specific vegetation and animal life. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give geographical reason: People in monsoon region are mainly engaged in agriculture.",
+        "modelAnswer": "The monsoon region receives seasonal but substantial rainfall and generally has warm temperatures, both of which support crop cultivation. Many river plains and fertile soils in this region further favor farming. As water and climate conditions are suitable for a variety of crops, agriculture naturally becomes the dominant occupation.",
         "keyPoints": [
-          "Natural regions are determined by the availability of sunlight and water (rainfall) at different latitudes.",
-          "These factors create specific climates which support specific vegetation and animal life.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Seasonal monsoon rainfall provides water for crops.",
+          "Warm climate supports long growing seasons.",
+          "Fertile plains/soils in many monsoon areas aid cultivation.",
+          "Hence agriculture is the primary livelihood."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "Why do desert plants like cactus have thick stems, small leaves, and oily/thick bark?",
-        "modelAnswer": "Desert plants are specially adapted to save water: thick stems store water, small/no leaves reduce transpiration (water loss), and thick waxy bark prevents evaporation. Cactus can survive without rain for months using stored water. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give geographical reason: Trees in equatorial forests grow tall.",
+        "modelAnswer": "Equatorial regions receive heavy rainfall and high temperatures throughout the year, creating ideal conditions for rapid and continuous plant growth. Dense competition for sunlight in thick forests forces trees to grow vertically to reach light. As a result, equatorial forests are characterized by tall, multi-layered vegetation.",
         "keyPoints": [
-          "Desert plants are specially adapted to save water: thick stems store water, small/no leaves reduce transpiration (water loss), and thick waxy bark prevents evaporation.",
-          "Cactus can survive without rain for months using stored water.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Year-round heat and rainfall support continuous growth.",
+          "Dense forest competition drives trees upward for sunlight.",
+          "This creates very tall, multi-storeyed forests."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "Why are carnivorous animals like lions and cheetahs mainly found in the Savanna (Sudan-type grassland) rather than dense forests?",
-        "modelAnswer": "The open grassland habitat allows fast predators (lions, cheetahs) to use their speed to catch prey. Dense forests would favour stealth over speed. Evolution has shaped Savanna animals for the open habitat: zebra's stripes (camouflage), giraffe's height (to see predators), cheetah's speed. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give geographical reason: Vegetation is short-lived in the Tundra region.",
+        "modelAnswer": "The Tundra has extremely low temperatures and a very short summer season, so the period available for plant growth is limited. Much of the ground remains frozen (permafrost), restricting root penetration and nutrient cycling. Therefore only short-lived, hardy vegetation like mosses, lichens, and small grasses can survive for brief periods.",
         "keyPoints": [
-          "The open grassland habitat allows fast predators (lions, cheetahs) to use their speed to catch prey.",
-          "Dense forests would favour stealth over speed.",
-          "Evolution has shaped Savanna animals for the open habitat: zebra's stripes (camouflage), giraffe's height (to see predators), cheetah's speed.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Very cold climate and short summer shorten growing period.",
+          "Permafrost limits root growth and soil development.",
+          "Only hardy, low, short-lived plants can survive."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "The Prairies, Steppes, Pampas, Velds and Downs are all types of _____.",
-        "modelAnswer": "All these are grasslands — the same type of natural region found on different continents at similar latitudes (25°–55°N/S interior of continents). Different names, same ecological characteristics: moderate rainfall, grass-dominated vegetation. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: What is the latitudinal extent of the Taiga region?",
+        "modelAnswer": "The Taiga (coniferous forest) region lies mainly in the high latitudes of the Northern Hemisphere, broadly between about 50°N and 70°N, though exact limits vary by continent and local relief. It stretches across parts of North America, Europe, and Asia.",
         "keyPoints": [
-          "All these are grasslands — the same type of natural region found on different continents at similar latitudes (25°–55°N/S interior of continents).",
-          "Different names, same ecological characteristics: moderate rainfall, grass-dominated vegetation.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Taiga is mainly between about 50°N and 70°N.",
+          "Found across North America, Europe, and Asia.",
+          "Exact boundaries vary locally."
         ],
-        "marks": 3
+        "marks": 4
+      },
+      {
+        "id": "la5",
+        "question": "Answer: Name any three herbivorous animals from the Sudan region. What has nature endowed them with for self-protection?",
+        "modelAnswer": "Common herbivores of the Sudan (savanna) region include deer/antelope, zebra, and giraffe (others include elephant). Nature has equipped them with features such as high running speed, strong legs, keen senses, group movement behavior, camouflage colouring, and in some species horns or kicks for defence. These adaptations help them escape predators in open grasslands.",
+        "keyPoints": [
+          "Examples: antelope/deer, zebra, giraffe (or elephant).",
+          "Adaptations include speed, strong limbs, alert senses, herd behavior.",
+          "Defensive features like horns/kicks and camouflage aid survival."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Answer: What are the characteristics of the Monsoon region?",
+        "modelAnswer": "The monsoon region is characterized by seasonal reversal of winds, with a wet season (rainy monsoon) and a relatively dry season. Temperatures are generally warm to hot, and rainfall is concentrated in specific months. Vegetation and agriculture are strongly seasonal, and human life is closely linked to monsoon timing and intensity.",
+        "keyPoints": [
+          "Seasonal wind reversal is the defining feature.",
+          "Distinct wet and dry seasons.",
+          "Warm climate with rainfall concentrated in monsoon months.",
+          "Agriculture and livelihoods depend heavily on monsoon behaviour."
+        ],
+        "marks": 5
       }
     ]
   }

@@ -4,7 +4,8 @@
     "title": "Tides",
     "subject": "Geography",
     "pages": "9-15",
-    "description": "High and low tides, gravitational and centrifugal forces, spring tides, neap tides, tidal range, uses of tides"
+    "description": "High and low tides, gravitational and centrifugal forces, spring tides, neap tides, tidal range, uses of tides",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -484,47 +485,75 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "How long does one complete cycle of high tide and low tide take?",
-        "modelAnswer": "A complete cycle of one high tide and one low tide takes 12 hours 25 minutes. Since there are two cycles per day, tides occur approximately every 6 hours 12 minutes — but the timing shifts 25 minutes later each day. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give geographical reason: Tides are influenced more by the moon than the sun.",
+        "modelAnswer": "Although the sun is much larger, the moon is much closer to the earth, so its differential gravitational pull on earth’s oceans is stronger for tide generation. Tides depend on the difference in gravitational pull across the earth, not only absolute gravity. Because this difference is greater for the nearer moon, lunar influence on tides is stronger than solar influence.",
         "keyPoints": [
-          "A complete cycle of one high tide and one low tide takes 12 hours 25 minutes.",
-          "Since there are two cycles per day, tides occur approximately every 6 hours 12 minutes — but the timing shifts 25 minutes later each day.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Moon is much closer to earth than the sun.",
+          "Tides depend on differential gravitational pull across the earth.",
+          "Lunar tidal effect is stronger despite sun’s larger size.",
+          "Hence moon has greater control over daily tides."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "Why are there TWO high tides per day on opposite sides of Earth?",
-        "modelAnswer": "Two forces create two bulges: Moon's gravity pulls water toward the Moon (one high tide), and the centrifugal force from Earth's rotation pushes water away on the opposite side (second high tide simultaneously). This can be observed in standard textbook examples from this chapter.",
+        "question": "Give geographical reason: At some places along the coast, low-lying areas turn into lagoons or marshy lands.",
+        "modelAnswer": "In low-lying coastal areas, repeated tidal inundation allows seawater to enter and remain in shallow depressions. If drainage to the sea is restricted by sand bars, spits, or coastal features, water stagnates and forms lagoons or marshes. Sediment deposition and weak outflow further encourage marshy development over time.",
         "keyPoints": [
-          "Defines the concept asked in: Why are there TWO high tides per day on opposite sides of Earth?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Tidal water frequently floods low coastal depressions.",
+          "Restricted drainage traps water behind coastal barriers.",
+          "Sediment deposition and stagnation support lagoon/marsh formation.",
+          "This process is common in gently sloping coasts."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "The main force responsible for creating the high tide bulge on the side facing the Moon is _____.",
-        "modelAnswer": "The Moon's gravitational force directly pulls the ocean water on the side of Earth facing the Moon, creating a bulge. On the opposite side, centrifugal force creates another bulge. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give geographical reason: A place on the opposite meridian to one experiencing high (or low) tide will also experience high (or low) tide respectively.",
+        "modelAnswer": "Tidal bulges form on both sides of the earth at the same time: one on the side facing the moon (due to lunar gravity) and another on the opposite side (mainly due to centrifugal effect in the earth-moon system). Therefore, places on opposite meridians pass through corresponding tidal bulges and troughs, producing high-high and low-low correspondence.",
         "keyPoints": [
-          "The Moon's gravitational force directly pulls the ocean water on the side of Earth facing the Moon, creating a bulge.",
-          "On the opposite side, centrifugal force creates another bulge.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Two tidal bulges exist on opposite sides of the earth.",
+          "One bulge is moon-facing; the other is on the far side.",
+          "Opposite meridians pass through similar tidal conditions.",
+          "Hence opposite places get corresponding high/low tides."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "Spring tides are HIGHER than usual because _____.",
-        "modelAnswer": "On New Moon and Full Moon days, the Sun, Earth, and Moon are aligned. Both the Sun's and Moon's gravitational forces act in the same direction, creating a greater combined pull — resulting in higher than usual high tides (spring tides). This can be observed in standard textbook examples from this chapter.",
+        "question": "Differentiate between: High tide and low tide.",
+        "modelAnswer": "High tide is the rise of sea level when tidal bulges reach a coast, while low tide is the fall of sea level between bulges. During high tide, water advances inland and coastal depth increases; during low tide, water recedes and more shore area gets exposed. These occur periodically due to gravitational and rotational effects.",
         "keyPoints": [
-          "On New Moon and Full Moon days, the Sun, Earth, and Moon are aligned.",
-          "Both the Sun's and Moon's gravitational forces act in the same direction, creating a greater combined pull — resulting in higher than usual high tides (spring tides).",
-          "This can be observed in standard textbook examples from this chapter."
+          "High tide = sea level rise; low tide = sea level fall.",
+          "High tide submerges more coast; low tide exposes coast.",
+          "They occur alternately and periodically.",
+          "Both are caused by lunar-solar gravity plus earth-moon dynamics."
         ],
-        "marks": 3
+        "marks": 4
+      },
+      {
+        "id": "la5",
+        "question": "Differentiate between: Spring tide and neap tide.",
+        "modelAnswer": "Spring tides occur on new moon and full moon days when the sun, moon, and earth are nearly aligned, so tidal forces combine and create higher high tides and lower low tides. Neap tides occur during first and third quarter phases when the sun and moon act at near right angles, reducing tidal range. Thus, spring tides are stronger and neap tides are weaker.",
+        "keyPoints": [
+          "Spring tide: new/full moon, aligned forces, maximum tidal range.",
+          "Neap tide: quarter phases, forces partly oppose, minimum tidal range.",
+          "Spring tides produce more extreme highs and lows.",
+          "Neap tides produce relatively moderate tides."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Describe the positive and negative effects of tides.",
+        "modelAnswer": "Positive effects of tides include assistance in navigation of ships into estuaries/ports, flushing of sediments and wastes in some coastal channels, support for fishing activities, and potential tidal energy use. Negative effects include coastal flooding, erosion, saline water intrusion in low-lying areas, and amplified risk during storms or tsunamis. Therefore, coastal planning must account for both benefits and hazards of tides.",
+        "keyPoints": [
+          "Positives: navigation support, fishing advantages, channel flushing, tidal energy potential.",
+          "Negatives: flooding, erosion, salinity intrusion, hazard amplification.",
+          "Effects vary with coast shape, slope, and local conditions.",
+          "Proper coastal management is essential."
+        ],
+        "marks": 6
       }
     ]
   }

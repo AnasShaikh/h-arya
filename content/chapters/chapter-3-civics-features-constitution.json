@@ -4,7 +4,8 @@
     "title": "Features of the Indian Constitution",
     "subject": "Civics",
     "pages": "72-75",
-    "description": "An exploration of the key features that make the Indian Constitution unique — including its written nature, federal structure, parliamentary democracy, secular character, universal adult franchise, and independent judiciary."
+    "description": "An exploration of the key features that make the Indian Constitution unique — including its written nature, federal structure, parliamentary democracy, secular character, universal adult franchise, and independent judiciary.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -16,7 +17,7 @@
         "Only men above 21 can vote",
         "Voting rights only for taxpayers"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Universal Adult Franchise means every citizen who has attained the age of 18 has the right to vote, regardless of caste, religion, gender, or economic status."
     },
     {
@@ -28,7 +29,7 @@
         "A system where the army controls the government",
         "A system where courts make all laws"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "In a federal system, power is divided between the central (Union) government and the state governments, each having their own areas of authority."
     },
     {
@@ -40,7 +41,7 @@
         "21 years",
         "25 years"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "The voting age in India is 18 years. This was lowered from 21 to 18 by the 61st Amendment in 1988."
     },
     {
@@ -52,7 +53,7 @@
         "The Prime Minister",
         "The Speaker of Lok Sabha"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "In India's parliamentary system, the Prime Minister is the head of the government and is accountable to the Parliament (Lok Sabha)."
     },
     {
@@ -64,7 +65,7 @@
         "A list of fundamental rights",
         "A list of all languages of India"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "The Concurrent List contains subjects on which both the Union (Central) Government and State Governments can make laws."
     }
   ],
@@ -200,7 +201,7 @@
         "Concurrent List",
         "Federal List"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The Concurrent List contains subjects on which both the Union (Central) Government and State Governments can make laws. If there is a conflict, the Central law prevails."
     },
     {
@@ -212,7 +213,7 @@
         "21 years",
         "25 years"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "The voting age in India is 18 years. It was lowered from 21 to 18 by the 61st Amendment in 1988."
     },
     {
@@ -224,7 +225,7 @@
         "Defence",
         "Public Health"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Defence is a Union List subject — only the Central Government can make laws regarding defence. Agriculture and Police are State List subjects."
     },
     {
@@ -236,7 +237,7 @@
         "The Prime Minister",
         "The Speaker of Lok Sabha"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "In India's parliamentary system, the Prime Minister is the real head of the government with actual executive powers. The President is the constitutional/nominal head."
     },
     {
@@ -248,7 +249,7 @@
         "Only people born in Delhi are citizens",
         "Citizens can only live in one state"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Single Citizenship means every person is only a citizen of India — not separately a citizen of any state. This ensures equal rights across all states."
     },
     {
@@ -260,7 +261,7 @@
         "Each state has its own separate supreme court",
         "The judiciary and executive work together always"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "An Independent Judiciary means courts are free from political pressure and interference, and can declare laws or government actions unconstitutional."
     },
     {
@@ -272,7 +273,7 @@
         "States have more power than the Centre always",
         "India has only one level of government"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "India is federal (power divided between Centre and States) but has a unitary bias — during emergencies, the Central Government can take over state functions."
     },
     {
@@ -284,7 +285,7 @@
         "Agriculture",
         "Railways"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Agriculture is a State List subject — states can make their own laws on agriculture. Foreign affairs, currency, and railways are Union List subjects."
     },
     {
@@ -296,7 +297,7 @@
         "The Constitution is made of hard material",
         "Only courts can change the Constitution"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Rigid means that certain provisions (like Fundamental Rights) require a special amendment procedure — a two-thirds majority in Parliament — and cannot be changed easily."
     },
     {
@@ -308,7 +309,7 @@
         "Only property owners can vote",
         "Voting rights are given only to government employees"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Universal Adult Franchise ensures that every adult citizen (18+) has an equal right to vote, regardless of caste, religion, gender, language, or economic status."
     }
   ],
@@ -429,67 +430,61 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What is the minimum age to vote in Indian elections?",
-        "modelAnswer": "The voting age in India is 18 years. It was lowered from 21 to 18 by the 61st Amendment in 1988. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: Why does the Government function at two levels in a federation?",
+        "modelAnswer": "In a federation, powers are constitutionally divided so governance can be effective across a large and diverse country. The Union Government handles national-level matters like defence, foreign affairs, and currency, while State Governments handle region-specific subjects like local administration, public order, and certain social sectors. This two-level structure balances national unity with regional needs and democratic participation.",
         "keyPoints": [
-          "The voting age in India is 18 years.",
-          "It was lowered from 21 to 18 by the 61st Amendment in 1988.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Federal systems divide powers between Union and States.",
+          "National subjects are handled centrally; local/regional subjects by states.",
+          "Structure ensures administrative efficiency in a large diverse country.",
+          "It balances unity with autonomy and local responsiveness."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "What does 'Single Citizenship' mean in India?",
-        "modelAnswer": "Single Citizenship means every person is only a citizen of India — not separately a citizen of any state. This ensures equal rights across all states. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: What do you understand by Residuary Powers?",
+        "modelAnswer": "Residuary powers are law-making powers over subjects not explicitly listed in the Union, State, or Concurrent Lists of the Constitution. In India, such powers are vested in Parliament. This provision helps the system respond to new and emerging issues that were not foreseen when the lists were originally framed.",
         "keyPoints": [
-          "Single Citizenship means every person is only a citizen of India — not separately a citizen of any state.",
-          "This ensures equal rights across all states.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Residuary powers apply to subjects not in any of the three lists.",
+          "In India, Parliament exercises these powers.",
+          "They help address new areas like emerging technologies or novel policy issues.",
+          "Provision ensures constitutional flexibility over time."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la3",
-        "question": "What is meant by 'Independent Judiciary'?",
-        "modelAnswer": "An Independent Judiciary means courts are free from political pressure and interference, and can declare laws or government actions unconstitutional. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: Why has the Constitution created an independent Judiciary for India?",
+        "modelAnswer": "An independent judiciary is essential to uphold rule of law, protect fundamental rights, and ensure that laws and government actions remain constitutional. If courts are independent from executive and legislative pressure, they can decide disputes fairly and impartially. This builds public trust and acts as a safeguard against misuse of power in a democracy.",
         "keyPoints": [
-          "Defines the concept asked in: What is meant by 'Independent Judiciary'?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Independent courts protect rights and constitutional supremacy.",
+          "Judiciary can review laws and government actions impartially.",
+          "Separation from political pressure ensures fair justice.",
+          "It acts as a check on arbitrary use of power."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What is the meaning of 'Federal with Unitary Bias' in the Indian Constitution?",
-        "modelAnswer": "India is federal (power divided between Centre and States) but has a unitary bias — during emergencies, the Central Government can take over state functions. This can be observed in standard textbook examples from this chapter.",
+        "question": "Discuss: Merits and demerits of an independent judicial system.",
+        "modelAnswer": "The major merits of an independent judiciary are impartial justice, constitutional protection, and checks on executive/legislative excesses. It strengthens democracy and public confidence in institutions. Possible demerits include delays, procedural complexity, and, at times, friction with elected branches if coordination is weak. However, these issues should be addressed through reforms, not by weakening judicial independence.",
         "keyPoints": [
-          "Defines the concept asked in: What is the meaning of 'Federal with Unitary Bias' in the Indian Constitution?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Merits: impartiality, rights protection, constitutional checks, public trust.",
+          "Demerits: possible delays, complexity, institutional friction.",
+          "Challenges call for judicial reforms and efficiency measures.",
+          "Independence remains essential despite operational limitations."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la5",
-        "question": "The Indian Constitution is described as 'partly rigid and partly flexible.' What does 'rigid' mean here?",
-        "modelAnswer": "Rigid means that certain provisions (like Fundamental Rights) require a special amendment procedure — a two-thirds majority in Parliament — and cannot be changed easily. This can be observed in standard textbook examples from this chapter.",
+        "question": "Explain: What is the role of the Election Commission in Indian democracy?",
+        "modelAnswer": "The Election Commission is an independent constitutional body responsible for conducting free and fair elections in India. It supervises voter lists, election schedules, polling processes, model code compliance, and counting procedures. Its independence helps ensure that citizens can vote without fear or pressure and that representative government reflects public choice.",
         "keyPoints": [
-          "Defines the concept asked in: The Indian Constitution is described as 'partly rigid and partly flexible.' What does 'rigid' mean here?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
-        "marks": 5
-      },
-      {
-        "id": "la6",
-        "question": "What does Universal Adult Franchise ensure?",
-        "modelAnswer": "Universal Adult Franchise ensures that every adult citizen (18+) has an equal right to vote, regardless of caste, religion, gender, language, or economic status. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: What does Universal Adult Franchise ensure?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Constitutional body for conducting elections.",
+          "Ensures free, fair, and impartial electoral process.",
+          "Oversees voter rolls, polling conduct, and election management.",
+          "Protects credibility of democratic representation."
         ],
         "marks": 5
       }

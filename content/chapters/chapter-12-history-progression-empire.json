@@ -4,7 +4,8 @@
     "title": "Progression and Fall of the Maratha Empire",
     "subject": "History",
     "pages": "53-56",
-    "description": "The Maratha empire at its peak, the arrival of the British East India Company, the three Anglo-Maratha Wars, and the final fall of the Peshwai in 1818 that ended Maratha independence — and the seeds of 1857 planted in its aftermath."
+    "description": "The Maratha empire at its peak, the arrival of the British East India Company, the three Anglo-Maratha Wars, and the final fall of the Peshwai in 1818 that ended Maratha independence — and the seeds of 1857 planted in its aftermath.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -409,50 +410,51 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What was the 'subsidiary alliance' system used by the British?",
-        "modelAnswer": "The Subsidiary Alliance was a system introduced by Lord Wellesley to expand British influence in India. Under this system, Indian rulers had to maintain a British military force within their territory at their own expense. In return, the British promised to protect the state from internal and external enemies. However, the ruler could not employ any other Europeans or negotiate with other Indian rulers without British permission, effectively making the state a protectorate of the British.",
+        "question": "Write briefly: The work done by Ahilyabai Holkar.",
+        "modelAnswer": "Ahilyabai Holkar was an able and just ruler of Indore. She improved administration through better revenue and cess systems, encouraged agriculture, and supported trade and industry. She built wells, lakes, tanks and public facilities. She also constructed temples, ghats, maths and dharamshalas at important pilgrim centers across India, contributing to both welfare and cultural integration.",
         "keyPoints": [
-          "Introduced by Lord Wellesley to expand British control.",
-          "Indian rulers paid for a British army stationed in their state.",
-          "British provided protection against enemies.",
-          "Rulers lost independence in foreign affairs and diplomacy."
+          "She brought administrative order and made practical reforms.",
+          "She promoted agriculture, irrigation, trade and industry.",
+          "She created public works such as wells, tanks and civic facilities.",
+          "She built religious and social institutions across India, enhancing cultural unity."
         ],
         "marks": 5
       },
       {
         "id": "la2",
-        "question": "What was the outcome of the Battle of Wadgaon (1779) during the First Anglo-Maratha War?",
-        "modelAnswer": "In the Battle of Wadgaon (1779), the Maratha forces led by Mahadji Shinde and Nana Phadnavis used 'guerrilla tactics' and a 'scorched earth policy' to trap the British army. The British were cut off from their food and water supplies and were forced to surrender at Wadgaon. This resulted in the Treaty of Wadgaon, where the British had to return all territories captured since 1773, marking a significant, though temporary, victory for the Maratha Empire.",
+        "question": "Write briefly: The valour shown by Mahadji Shinde.",
+        "modelAnswer": "Mahadji Shinde played a decisive role in reviving Maratha prestige after Panipat. He modernized the army and artillery, defeated major rivals in North India, and restored the Mughal emperor on the Delhi throne under Maratha influence. He also checked British ambitions during the Wadgaon phase and managed complex northern politics with determination and diplomatic skill.",
         "keyPoints": [
-          "Marathas used guerrilla tactics and scorched earth policy.",
-          "British army was trapped and forced to surrender.",
-          "Treaty of Wadgaon forced British to return captured territories.",
-          "Signified the strength of Maratha resistance."
+          "Mahadji revived Maratha influence in North India after Panipat.",
+          "He modernized forces and won against major regional rivals.",
+          "He re-established control over Delhi politics via the emperor.",
+          "He resisted British expansion and protected Maratha prestige."
         ],
         "marks": 5
       },
       {
         "id": "la3",
-        "question": "Why were Nana Saheb's and Tatya Tope's revolts in 1857 historically connected to the Maratha Swaraj?",
-        "modelAnswer": "Nana Saheb Peshwa and Tatya Tope played crucial roles in the Revolt of 1857, which they viewed as a continuation of the struggle for independence (Swaraj). As the adopted son of the last Peshwa, Bajirao II, Nana Saheb sought to reclaim the prestige and authority of the Peshwaship that the British had abolished. Their efforts to unite various Indian rulers against British rule were inspired by the earlier Maratha ideal of defending the motherland from foreign domination.",
+        "question": "Write briefly: The Maratha rule in Gujarat.",
+        "modelAnswer": "The foundation of Maratha influence in Gujarat was laid by Khanderao Dabhade and Trimbakrao. Later, leaders such as Umabai showed military capability by defeating opponents and securing forts. Over time, the Gaikwads of Vadodara established a stable center of Maratha power in Gujarat. This helped extend and consolidate Maratha influence in western India.",
         "keyPoints": [
-          "Nana Saheb sought to restore the Peshwaship and Maratha honor.",
-          "Revolt was seen as a struggle for independence (Swaraj).",
-          "Inspired by the Maratha legacy of resisting foreign rule.",
-          "Attempted to unite Indian forces against the British."
+          "Dabhade family laid early foundation of Maratha power in Gujarat.",
+          "Umabai demonstrated leadership and military success.",
+          "Gaikwads established Vadodara as a major Maratha center.",
+          "Gujarat strengthened the western base of Maratha influence."
         ],
         "marks": 5
       },
       {
         "id": "la4",
-        "question": "When did the British East India Company first arrive in India?",
-        "modelAnswer": "The British East India Company first arrived at Surat in 1608 as traders. From this initial trading post, they gradually expanded their political and military influence across India over the next 150 years. This can be observed in standard textbook examples from this chapter.",
+        "question": "Discuss: Reasons behind the end of Maratha rule.",
+        "modelAnswer": "The end of Maratha rule was caused by a combination of internal weakness and external pressure. After capable leaders like Mahadji Shinde and Nana Phadnavis, unity among Maratha sardars declined and factional conflict increased. Leadership under Bajirao II remained weak, while the British used diplomacy, military strength and political intervention to exploit divisions. Repeated Anglo-Maratha conflicts ended with British victories, including the capture of Pune and final defeat in 1818.",
         "keyPoints": [
-          "The British East India Company first arrived at Surat in 1608 as traders.",
-          "From this initial trading post, they gradually expanded their political and military influence across India over the next 150 years.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Internal rivalry and lack of unity weakened Maratha power.",
+          "Loss of strong statesman-like leadership created instability.",
+          "British strategy exploited divisions through war and diplomacy.",
+          "Defeats in Anglo-Maratha conflicts led to final collapse in 1818."
         ],
-        "marks": 3
+        "marks": 6
       }
     ]
   }

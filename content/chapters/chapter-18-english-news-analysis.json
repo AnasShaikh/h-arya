@@ -404,73 +404,71 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Why were closed shoes banned in examination halls in Bengaluru?",
-        "modelAnswer": "A Bengaluru institute implemented a strict rule banning closed shoes inside their examination halls. The primary reason for this ban was to prevent students from engaging in unfair practices during exams. Authorities discovered that some students were attempting to hide small cheat notes inside their shoes. By requiring open footwear, the institute aimed to ensure a fair testing environment for all students.",
+        "question": "Write your impressions of news items (a) to (d): Which are good/bad, reliable/unreliable, interesting/boring? Give reasons.",
+        "modelAnswer": "The examination-hall rules news is useful and mostly reliable because it reports concrete institutional instructions. The actress-news is interesting but partly speculative, since future plans may depend on unnamed sources. The Stephen Hawking item is serious, informative, and reliable because it is based on a public warning and verifiable publication. The Miribaba powder news needs caution: the report presents claims and counterclaims, so readers must treat miracle-cure statements as unreliable unless medically verified. Overall, reliability depends on evidence, named sources, and factual consistency.",
         "keyPoints": [
-          "Institute banned closed shoes to prevent cheating.",
-          "Students hid small cheat notes inside their shoes.",
-          "Rule implemented to ensure a fair testing environment.",
-          "Helps promote honesty and integrity during exams."
+          "Classify each item by reliability and public value.",
+          "Differentiate verified facts from rumours/speculation.",
+          "Use reasons: source quality, evidence, and clarity.",
+          "Show critical reading rather than emotional reaction alone."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la2",
-        "question": "What three dangers did Stephen Hawking warn about?",
-        "modelAnswer": "The famous scientist Stephen Hawking warned humanity about three major threats that make this the most dangerous time in history. First, he highlighted climate change, which is causing global warming and extreme weather patterns. Second, he pointed out the dangers of overpopulation, which leads to a severe scarcity of essential resources. Finally, he warned about epidemic diseases, emphasizing how fast-spreading illnesses could threaten human survival on Earth.",
+        "question": "Why are strict exam-hall rules (no closed shoes/electronics) imposed? Suggest additional anti-copying measures.",
+        "modelAnswer": "Strict exam-hall rules are meant to prevent unfair means and maintain equal conditions for all candidates. Closed footwear and electronic devices can be misused for hidden notes or communication, so institutions restrict them to protect exam integrity. Additional measures may include random frisking, biometric verification, metal detectors, CCTV monitoring, and multiple question-paper sets. Clear rules and consistent enforcement reduce malpractice and build trust in results.",
         "keyPoints": [
-          "Climate change causing global warming.",
-          "Overpopulation leading to resource scarcity.",
-          "Epidemic diseases spreading rapidly.",
-          "These three threats make this a dangerous time in history."
-        ],
-        "marks": 3
-      },
-      {
-        "id": "la3",
-        "question": "Why is the news about Miribaba's 'special powder' considered unreliable?",
-        "modelAnswer": "The news claiming that Miribaba's 'special powder' can cure all diseases is considered highly unreliable because it lacks proper verification. Reliable news must always be supported by factual evidence, which is entirely missing in this case. Hospital data and medical professionals do not support or confirm any of Miribaba's extraordinary health claims. Therefore, this news is classified as an unverified and potentially dangerous fake claim rather than a credible medical breakthrough.",
-        "keyPoints": [
-          "Lacks factual evidence and medical verification.",
-          "Not supported by official hospital data.",
-          "Medical professionals do not confirm the claims.",
-          "Considered an unverified and potentially dangerous fake claim."
-        ],
-        "marks": 3
-      },
-      {
-        "id": "la4",
-        "question": "What is the salutation used in a formal letter when you don't know the person's name?",
-        "modelAnswer": "In a formal letter, it is essential to use a polite and professional greeting. When writing to an official or someone whose specific name you do not know, the correct salutation is 'Sir/Madam'. This standard phrase ensures that the letter maintains a respectful tone regardless of the recipient's identity. Using casual greetings like 'Hello' or 'Dear Friend' is strictly avoided in such formal correspondence.",
-        "keyPoints": [
-          "Use 'Sir/Madam' as the proper salutation.",
-          "Ensures a polite and professional tone.",
-          "Standard greeting for unknown officials or organizations.",
-          "Casual or informal greetings must be avoided."
+          "Rules ensure fairness and prevent hidden cheating tools.",
+          "Electronic restrictions reduce unauthorized communication.",
+          "Additional safeguards: monitoring, identity checks, random checks.",
+          "Goal is credibility of examination process."
         ],
         "marks": 5
       },
       {
-        "id": "la5",
-        "question": "What closing phrase is used at the end of a formal letter?",
-        "modelAnswer": "The standard closing phrase used at the end of a formal letter is 'Yours faithfully'. This phrase is specifically appropriate when the letter begins with 'Sir/Madam' and the recipient is not known to you personally. It provides a polite and respectful conclusion to your official communication before adding your signature. In contrast, 'Yours sincerely' is typically reserved for formal letters where the recipient's actual name is used.",
+        "id": "la3",
+        "question": "Discuss: Which is more serious today—climate change, overpopulation, or epidemic diseases? Support your view.",
+        "modelAnswer": "Climate change can be considered the most serious because it intensifies multiple crises at once—food stress, water scarcity, extreme weather, health risks, and displacement. Overpopulation and epidemic diseases are also major concerns, but climate disruption can worsen both by straining resources and systems. Therefore, climate action with coordinated global policy is urgent. At the same time, population planning and public-health preparedness must progress together.",
         "keyPoints": [
-          "'Yours faithfully' is the standard formal closing.",
-          "Used when the recipient is not personally known.",
-          "Appropriately follows the 'Sir/Madam' salutation.",
-          "Provides a respectful conclusion before the signature."
+          "Take one position and justify with broad impact.",
+          "Show interconnection among all three problems.",
+          "Recommend coordinated, long-term policy response."
+        ],
+        "marks": 6
+      },
+      {
+        "id": "la4",
+        "question": "Formal letter writing: Draft a letter to your Principal requesting a weekly school news bulletin.",
+        "modelAnswer": "To,\nThe Principal,\n[School Name]\n\nSubject: Request to start a weekly school news bulletin\n\nRespected Sir/Madam,\nI am a student of Class VII and wish to request permission to start a one-page weekly school news bulletin. The bulletin will include school events, achievements, announcements, and short educational updates. A different student group will prepare each issue under teacher supervision to ensure accuracy and discipline.\nThis activity will improve reading, writing, teamwork, and awareness of current affairs. Kindly grant permission and allow us to present a sample format.\n\nThank you.\nYours faithfully,\n[Name]\nClass VII\n",
+        "keyPoints": [
+          "Use formal format: address, subject, salutation, closing.",
+          "State purpose clearly and respectfully.",
+          "Mention practical plan and educational benefits.",
+          "Maintain polite and concise tone."
+        ],
+        "marks": 6
+      },
+      {
+        "id": "la5",
+        "question": "How can we identify unreliable health claims like “quick cure for all ailments”?",
+        "modelAnswer": "Unreliable health claims often promise universal cures, avoid scientific evidence, and depend on emotional testimonials rather than clinical proof. Readers should verify whether claims are supported by qualified doctors, recognized hospitals, peer-reviewed studies, and regulatory approval. If a seller hides ingredients, avoids transparency, or discourages medical consultation, that is a warning sign. Responsible action is to consult licensed medical professionals and avoid self-medication based on rumours.",
+        "keyPoints": [
+          "Beware of “cures everything” claims and vague language.",
+          "Check for scientific validation and authorized medical backing.",
+          "Look for transparency in ingredients and method.",
+          "Consult qualified doctors before treatment decisions."
         ],
         "marks": 5
       },
       {
         "id": "la6",
-        "question": "What did actress Ritika do in the news story?",
-        "modelAnswer": "In the news item titled 'Ritika Takes a Break from Acting', the Bollywood actress made a significant career decision. Ritika decided to temporarily quit acting in films. Instead of continuing her career in the entertainment industry, she chose to enter the field of politics. This change marks a completely new direction for her public life and professional journey.",
+        "question": "Why is the same event reported in many newspapers? Explain with examples from this lesson.",
+        "modelAnswer": "A significant event may appear in many newspapers because readers in different regions and interests need access to it. National or global relevance, public safety value, and social impact make such reports broadly newsworthy. For example, warnings about planetary risks or exam policy decisions concern more than one local audience. Multiple reports also allow comparison of perspectives, which helps readers evaluate information critically.",
         "keyPoints": [
-          "Bollywood actress Ritika changed her career path.",
-          "Temporarily decided to quit acting in films.",
-          "Chose to actively enter the field of politics.",
-          "Marked a new direction in her public and professional life."
+          "News is repeated across papers when relevance is broad.",
+          "Different audiences need access to high-impact information.",
+          "Cross-reading improves critical understanding of bias and framing."
         ],
         "marks": 5
       }

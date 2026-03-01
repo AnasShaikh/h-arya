@@ -541,73 +541,71 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What was Faraday's speech problem as a child?",
-        "modelAnswer": "As a child, Michael Faraday suffered from a speech defect that affected his pronunciation. Specifically, he was unable to pronounce the letter 'r' correctly. For instance, he would say 'wabbit' instead of 'rabbit'. Despite this early challenge and growing up in poverty, he persevered to become one of the greatest scientists in history.",
+        "question": "Write what is implied: “Few know his inspirational life story, which is all about courage and fighting against the odds.”",
+        "modelAnswer": "The statement implies that Faraday’s greatness did not come from privilege but from persistence against poverty, social limitations, and repeated setbacks. It reminds readers that scientific success is often built on courage, discipline, and resilience rather than easy opportunity. His life story is therefore as important as his discoveries, because it inspires ordinary learners to attempt extraordinary goals.",
         "keyPoints": [
-          "Faraday had a speech defect as a child.",
-          "He could not pronounce the letter 'r' correctly.",
-          "He would say 'wabbit' instead of 'rabbit'.",
-          "He overcame his early challenges to achieve greatness."
+          "Success came through struggle, not privilege.",
+          "Faraday’s character (courage + perseverance) is central to his legacy.",
+          "Story motivates students facing difficult circumstances."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "How did Faraday get Humphry Davy to notice him?",
-        "modelAnswer": "Faraday was deeply fascinated by Humphry Davy's lectures on electricity and attended them with great interest. He meticulously took down detailed notes of everything Davy discussed during the sessions. Using his skills as an apprentice, he bound these notes neatly into a book and sent them directly to Davy. Davy was highly impressed by Faraday's dedication and eventually appointed him as his laboratory assistant.",
+        "question": "Give one example each to show that Faraday was a good pupil and Davy was not always a good mentor.",
+        "modelAnswer": "Faraday proved himself a good pupil by listening deeply, keeping detailed notes, and learning tirelessly from every experiment despite low status and minimal formal education. He transformed even routine lab work into learning opportunities. Davy, though brilliant, was not always a good mentor because jealousy and social bias sometimes made him dismissive of Faraday’s potential and unsupportive in critical moments. The contrast highlights that true mentorship needs generosity as well as knowledge.",
         "keyPoints": [
-          "Faraday took detailed notes during Humphry Davy's lectures.",
-          "He bound the notes neatly into a book using his skills.",
-          "He sent the bound notes to Davy to ask for a job.",
-          "Davy was impressed and hired him as a laboratory assistant."
+          "Faraday: disciplined learner, observant, self-driven.",
+          "Davy: at times biased/jealous despite scientific stature.",
+          "Mentorship requires both expertise and fairness."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la3",
-        "question": "What did Faraday invent that is found in fans, trains, and electric cars today?",
-        "modelAnswer": "Michael Faraday is credited with inventing the induction motor, a groundbreaking device that revolutionized technology. This motor works by converting electricity into continuous mechanical movement. Before this invention, most heavy machinery relied heavily on steam power to operate. Today, his induction motor is a fundamental component found in everyday machines such as fans, electric trains, and modern electric cars.",
+        "question": "How did Faraday respond to discouragement and failure (including the Bavarian glass episode)?",
+        "modelAnswer": "Faraday responded to discouragement with persistence, not resentment. Even when given difficult or discouraging assignments like reverse-engineering Bavarian glass, he worked hard and accepted failure as part of learning. Instead of giving up, he kept the glass as a reminder to stay determined during future challenges. This attitude turned setbacks into fuel for later breakthroughs.",
         "keyPoints": [
-          "Faraday invented the induction motor.",
-          "The motor converts electricity into mechanical movement.",
-          "It replaced older machines that relied on steam power.",
-          "It is widely used today in fans, trains, and electric cars."
+          "He did not quit after failure or unfair treatment.",
+          "He treated failure as a learning stage, not final defeat.",
+          "Bavarian glass became a symbol of perseverance.",
+          "Resilience led to future scientific achievements."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What impossible task did the jealous Davy give Faraday?",
-        "modelAnswer": "As Faraday's reputation grew, Humphry Davy became increasingly jealous of his former assistant's success. To challenge him, Davy assigned Faraday the seemingly impossible task of reverse-engineering a piece of Bavarian glass. He demanded that Faraday recreate the glass without providing any instructions or information on how it was originally made. Despite his best efforts and numerous experiments, Faraday was ultimately unable to complete this difficult task.",
+        "question": "Explain the significance of Faraday’s discoveries (motor, generator, magnetism-light relation) in modern life.",
+        "modelAnswer": "Faraday’s work laid foundations of modern electrical civilization. The induction motor enabled conversion of electricity into mechanical motion, powering countless machines. The generator concept enabled conversion of motion into electricity, forming the basis of large-scale power generation. His field concepts and magnetism-light insights later shaped electromagnetic theory, communication systems, and modern electronics. Much of contemporary technology depends directly or indirectly on this scientific chain.",
         "keyPoints": [
-          "Davy became jealous of Faraday's growing success.",
-          "He gave Faraday the task of reverse-engineering Bavarian glass.",
-          "Faraday had to recreate it without any instructions.",
-          "The task proved to be impossible and Faraday failed."
+          "Motor and generator principles power modern industry and homes.",
+          "Field concepts influenced electromagnetic theory development.",
+          "Impact extends to transport, communication, and electronics.",
+          "Faraday’s ideas remain foundational to applied science."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la5",
-        "question": "What did Faraday do with the Bavarian glass after failing the task?",
-        "modelAnswer": "After failing to reverse-engineer the Bavarian glass, Faraday did not throw the piece away in frustration. Instead, he decided to keep the glass as a permanent souvenir of his unsuccessful experience. He kept it on his desk to serve as a constant reminder that even great scientists make mistakes. This demonstrated his humble attitude and his belief that failures are valuable learning opportunities.",
+        "question": "Why were Faraday’s drawings of magnetic patterns initially not accepted? Does this mean they were wrong?",
+        "modelAnswer": "His drawings were initially not accepted because they lacked mathematical formulation, which the scientific community expected for formal validation. This did not mean the observations were wrong; they were conceptually correct but not expressed in the accepted language of equations. Later, Maxwell translated Faraday’s ideas mathematically, proving their depth and accuracy. This shows that truth in science may appear before full formal representation.",
         "keyPoints": [
-          "Faraday kept the Bavarian glass after failing the task.",
-          "He used it as a souvenir of his unsuccessful experiment.",
-          "It served as a reminder that failures are part of learning.",
-          "This action highlighted his humble and resilient attitude."
+          "Rejection was due to presentation limits, not faulty observation.",
+          "Faraday had limited advanced mathematics training.",
+          "Maxwell’s equations later validated Faraday’s insights.",
+          "Scientific communication method can affect acceptance."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la6",
-        "question": "What is the subject of the sentence: 'Michael Faraday invented the induction motor.'?",
-        "modelAnswer": "In English grammar, the subject of a sentence refers to the person or thing that the sentence is about. In the given sentence, 'Michael Faraday' is the subject because he is the person performing the action. The rest of the sentence, 'invented the induction motor', is the predicate because it describes what the subject did. Identifying the subject helps us understand who is responsible for the action in the statement.",
+        "question": "Character reflection: What values should students learn from Faraday’s life?",
+        "modelAnswer": "Students should learn perseverance, curiosity, disciplined self-learning, humility, and respect for evidence. Faraday shows that background limitations can be overcome through consistent effort and passion for knowledge. He also teaches that failures and mockery are not endpoints. With focus and integrity, one can transform personal struggle into contribution for humanity.",
         "keyPoints": [
-          "The subject is the person or thing the sentence is about.",
-          "'Michael Faraday' is the subject in this specific sentence.",
-          "He is the one performing the action of inventing.",
-          "The predicate is 'invented the induction motor'."
+          "Perseverance and curiosity are key student values.",
+          "Self-learning can overcome structural disadvantages.",
+          "Failure should be converted into motivation.",
+          "Science needs both character and intellect."
         ],
         "marks": 5
       }

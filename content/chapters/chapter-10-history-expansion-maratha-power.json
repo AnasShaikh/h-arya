@@ -4,7 +4,8 @@
     "title": "Expansion of Maratha Power",
     "subject": "History",
     "pages": "44-46",
-    "description": "The transformation of the Maratha Swaraj into a vast empire under the Peshwas — Balaji Vishwanath's political genius, Bajirao I's undefeated military campaigns across India, the vision of striking at the heart of Delhi, and the growth of the Maratha confederacy."
+    "description": "The transformation of the Maratha Swaraj into a vast empire under the Peshwas — Balaji Vishwanath's political genius, Bajirao I's undefeated military campaigns across India, the vision of striking at the heart of Delhi, and the growth of the Maratha confederacy.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -407,47 +408,51 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What is 'chauth'?",
-        "modelAnswer": "Chauth (meaning 'one-fourth') was a 25% tax on revenue that Marathas collected from territories they protected. It was a key source of revenue and a way to extend influence without direct administration. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write in brief about: Raising the Maratha standard at Attock.",
+        "modelAnswer": "Under Maratha leadership in the north, Raghunathrao and Maratha commanders advanced beyond Delhi and reached up to Attock. Hoisting the Maratha standard there symbolized the peak of Maratha military reach and political influence. It showed that the Marathas had transformed from a regional force into a power with all-India significance.",
         "keyPoints": [
-          "Chauth (meaning 'one-fourth') was a 25% tax on revenue that Marathas collected from territories they protected.",
-          "It was a key source of revenue and a way to extend influence without direct administration.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Maratha forces advanced deep into North-West India up to Attock.",
+          "The Maratha flag at Attock symbolized maximum territorial reach.",
+          "Event reflected the rise of Marathas as a subcontinental power.",
+          "It marked a major achievement before the Panipat setback."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "How far north did Maratha power eventually reach?",
-        "modelAnswer": "At the peak of Maratha power, their forces reached Attock fort on the Indus River in Punjab (near present-day Pakistan). This represented the maximum northern expansion of Maratha power. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write in brief about: Conflict with the Afghans.",
+        "modelAnswer": "As Maratha influence expanded in North India, conflict with Ahmad Shah Abdali and Afghan forces became inevitable. The Marathas confronted this external threat to protect their position and to prevent foreign domination in the north. This struggle culminated in the Third Battle of Panipat, one of the biggest and most decisive battles of the period.",
         "keyPoints": [
-          "At the peak of Maratha power, their forces reached Attock fort on the Indus River in Punjab (near present-day Pakistan).",
-          "This represented the maximum northern expansion of Maratha power.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Conflict emerged due to Afghan challenge to Maratha power in North India.",
+          "Ahmad Shah Abdali led major Afghan intervention.",
+          "Marathas fought to resist foreign control and defend their influence.",
+          "The confrontation culminated in the Third Battle of Panipat."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "Under the Peshwa system, where did effective executive power shift to?",
-        "modelAnswer": "The Chhatrapati remained at Satara as the symbolic head of the Maratha state, but effective executive power shifted to the Peshwa at Pune. The Peshwa handled all military, financial, and diplomatic affairs. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write in brief about: The after effects of the battle of Panipat.",
+        "modelAnswer": "The battle of Panipat caused heavy human and military losses to the Marathas and temporarily damaged their prestige in the north. However, under Peshwa Madhavrao and commanders like Mahadji Shinde and Tukoji Holkar, the Marathas recovered and re-established influence in Delhi and beyond. The battle also weakened repeated Afghan intervention, and the Marathas again emerged as a major stabilizing force in Indian politics.",
         "keyPoints": [
-          "The Chhatrapati remained at Satara as the symbolic head of the Maratha state, but effective executive power shifted to the Peshwa at Pune.",
-          "The Peshwa handled all military, financial, and diplomatic affairs.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Panipat caused massive losses and a temporary setback to Maratha power.",
+          "Marathas later revived under Madhavrao Peshwa and leading sardars.",
+          "Influence in North India and Delhi was re-established.",
+          "Marathas again became a major political force after recovery."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "Bajirao I's famous strategic principle was:",
-        "modelAnswer": "Bajirao I's strategic vision was to strike at the center of power (Delhi/Mughal heartland) rather than slowly conquering individual regions. He believed that if the center fell, the periphery would follow — like cutting the trunk of a tree makes all branches fall. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write in brief: How did Peshwa Madhavrao restore Maratha strength after Panipat?",
+        "modelAnswer": "After Panipat, Peshwa Madhavrao rebuilt administration, controlled internal disorder, and led strong campaigns against regional rivals like the Nizam and Hyder Ali. He sent trusted commanders to reassert Maratha authority in the north and restore political confidence. His disciplined leadership, public-welfare focus, and military effectiveness played a central role in Maratha revival.",
         "keyPoints": [
-          "Bajirao I's strategic vision was to strike at the center of power (Delhi/Mughal heartland) rather than slowly conquering individual regions.",
-          "He believed that if the center fell, the periphery would follow — like cutting the trunk of a tree makes all branches fall.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Madhavrao stabilized administration after a major crisis.",
+          "He checked rivals like the Nizam and Hyder Ali.",
+          "He supported northern campaigns to restore Maratha prestige.",
+          "His leadership was crucial to post-Panipat revival."
         ],
-        "marks": 3
+        "marks": 5
       }
     ]
   }

@@ -4,7 +4,8 @@
     "title": "Winds",
     "subject": "Geography",
     "pages": "21-29",
-    "description": "Generation of winds, planetary winds (trade winds, westerlies, polar winds), seasonal winds, local winds (land/sea breezes, valley/mountain breezes), Coriolis effect"
+    "description": "Generation of winds, planetary winds (trade winds, westerlies, polar winds), seasonal winds, local winds (land/sea breezes, valley/mountain breezes), Coriolis effect",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -484,50 +485,84 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Why does air move from place to place (generating wind)?",
-        "modelAnswer": "Wind is generated because air flows horizontally from areas of high pressure to areas of low pressure. The greater the pressure difference, the stronger the wind. This can be observed in standard textbook examples from this chapter.",
+        "question": "State one reason: A belt of calm exists near the equator.",
+        "modelAnswer": "Near the equator, intense heating causes air to rise vertically, creating the equatorial low-pressure belt. Since air ascends rather than moving strongly across the surface, horizontal wind speed becomes weak. This zone of weak and variable surface winds is called the calm belt or doldrums.",
         "keyPoints": [
-          "Wind is generated because air flows horizontally from areas of high pressure to areas of low pressure.",
-          "The greater the pressure difference, the stronger the wind.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Strong heating at equator makes air rise.",
+          "Surface pressure is low and horizontal flow is weak.",
+          "Ascending air reduces strong surface winds.",
+          "Hence a calm belt (doldrums) is formed."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "Why are the Roaring Forties, Furious Fifties, and Screeching Sixties NOT found in the Northern Hemisphere?",
-        "modelAnswer": "The Southern Hemisphere is dominated by ocean south of 40°S — with no large land masses to obstruct the westerlies. They build up tremendous speed unhindered. In the Northern Hemisphere, continents (Europe, North America, Asia) break up and slow these winds. This can be observed in standard textbook examples from this chapter.",
+        "question": "State one reason: Winds from the north-west in the southern hemisphere have greater velocities than winds from the south-west in the northern hemisphere.",
+        "modelAnswer": "In the southern hemisphere, especially between 40°S and 60°S, winds blow over vast uninterrupted oceanic stretches with very little land friction. In contrast, similar winds in the northern hemisphere are interrupted by large continental landmasses, which reduce wind speed through friction and obstruction. Therefore southern hemisphere westerlies are generally faster.",
         "keyPoints": [
-          "The Southern Hemisphere is dominated by ocean south of 40°S — with no large land masses to obstruct the westerlies.",
-          "They build up tremendous speed unhindered.",
-          "In the Northern Hemisphere, continents (Europe, North America, Asia) break up and slow these winds.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Southern mid-latitudes have large open oceans and low friction.",
+          "Northern hemisphere has greater land obstruction/friction.",
+          "Less friction allows stronger and faster winds in the south.",
+          "Hence NW winds in southern hemisphere show higher velocity."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "In the Northern Hemisphere, the Coriolis effect deflects winds to the _____.",
-        "modelAnswer": "Earth rotates west to east. This rotation causes a deflecting force (Coriolis effect) on moving air. In the Northern Hemisphere, this deflects winds to the RIGHT of their original direction. (Left in Southern Hemisphere.). This can be observed in standard textbook examples from this chapter.",
+        "question": "State one reason: Monsoon winds in summer come from the sea but retreating monsoon winds in winter come from land.",
+        "modelAnswer": "In summer, land heats faster than sea and develops low pressure, so moist winds blow from sea to land (south-west monsoon). In winter, land cools faster and develops high pressure while the sea remains relatively warmer and lower in pressure, so winds reverse from land to sea (north-east/retreating monsoon). This seasonal pressure reversal causes the change in wind direction.",
         "keyPoints": [
-          "Earth rotates west to east.",
-          "This rotation causes a deflecting force (Coriolis effect) on moving air.",
-          "In the Northern Hemisphere, this deflects winds to the RIGHT of their original direction.",
-          "(Left in Southern Hemisphere.)."
+          "Land-sea differential heating changes pressure seasonally.",
+          "Summer: low pressure over land draws winds from sea.",
+          "Winter: high pressure over land drives winds seaward.",
+          "Thus monsoon and retreating monsoon flow in opposite directions."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "Trade winds in the Northern Hemisphere blow from _____.",
-        "modelAnswer": "Trade winds blow from the subtropical high pressure belt (25°–35°N) to the equatorial low pressure belt. Their original southward direction gets deflected to the right (Coriolis effect in N. Hemisphere), making them blow from northeast to southwest. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer in short: Why is air pressure high in polar areas in both hemispheres?",
+        "modelAnswer": "Polar regions receive very little solar heat, so the air remains extremely cold and dense. Cold dense air sinks, creating persistent high-pressure conditions at the surface. Therefore both the Arctic and Antarctic regions are associated with polar high-pressure belts.",
         "keyPoints": [
-          "Trade winds blow from the subtropical high pressure belt (25°–35°N) to the equatorial low pressure belt.",
-          "Their original southward direction gets deflected to the right (Coriolis effect in N.",
-          "Hemisphere), making them blow from northeast to southwest.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Low temperature makes polar air dense and heavy.",
+          "Dense air sinks and raises surface pressure.",
+          "Hence both poles have high-pressure belts."
         ],
-        "marks": 3
+        "marks": 4
+      },
+      {
+        "id": "la5",
+        "question": "Answer in short: What effect does the rotation of the earth have on winds?",
+        "modelAnswer": "Earth’s rotation causes the Coriolis effect, which deflects moving air from its straight path. Winds are deflected to the right in the northern hemisphere and to the left in the southern hemisphere. This deflection shapes global wind belts and cyclone circulation patterns.",
+        "keyPoints": [
+          "Rotation produces Coriolis deflection.",
+          "Rightward deflection in north, leftward in south.",
+          "It controls wind direction and circulation patterns."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la6",
+        "question": "Answer in short: Why do cyclonic winds blow in a circular manner?",
+        "modelAnswer": "Cyclones form around low-pressure centers where surrounding air converges inward. As air moves toward the center, the Coriolis effect deflects its path, turning the flow into a spiral/circular pattern around the low-pressure core. Thus convergence plus earth’s rotation gives cyclones their circular circulation.",
+        "keyPoints": [
+          "Cyclones are low-pressure systems with inward-moving air.",
+          "Coriolis effect deflects converging winds.",
+          "Combined effect creates spiral/circular circulation."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la7",
+        "question": "Answer in short: State the reasons for formation of cyclones and describe their effects.",
+        "modelAnswer": "Cyclones form when warm moist air over oceanic regions rises rapidly, creating a low-pressure center, while surrounding air rushes in and rotates due to the Coriolis effect. Condensation releases latent heat, which further intensifies the system. Cyclones bring very strong winds, heavy rainfall, storm surges, flooding, coastal erosion, and serious damage to life, crops, houses, transport, and infrastructure.",
+        "keyPoints": [
+          "Warm moist air rise + low pressure initiates cyclone.",
+          "Convergence and Coriolis effect create rotating system.",
+          "Latent heat release strengthens cyclone intensity.",
+          "Impacts include wind damage, flooding, storm surge, and economic loss."
+        ],
+        "marks": 6
       }
     ]
   }

@@ -4,7 +4,8 @@
     "title": "Air Pressure",
     "subject": "Geography",
     "pages": "16-20",
-    "description": "Air has weight, air pressure concepts, factors affecting air pressure, pressure belts of the world"
+    "description": "Air has weight, air pressure concepts, factors affecting air pressure, pressure belts of the world",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -488,48 +489,74 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "If cold air sinks and warm air rises, what happens to air pressure when temperature decreases?",
-        "modelAnswer": "There is an inverse relationship between temperature and air pressure. When the temperature decreases, the air becomes colder and denser. This heavy air sinks towards the Earth's surface, exerting more force. Consequently, when temperature decreases, air pressure increases, leading to the formation of high-pressure areas.",
+        "question": "Give reason: Air pressure decreases with increasing altitude.",
+        "modelAnswer": "Air pressure decreases with altitude because most of the atmosphere is concentrated near the earth’s surface due to gravity. As we go higher, the column of air above becomes shorter and less dense, so the weight exerted by air reduces. Therefore, pressure is highest near sea level and progressively lower at greater heights.",
         "keyPoints": [
-          "Inverse relationship between temperature and air pressure.",
-          "Cold air is dense and heavy, causing it to sink.",
-          "Sinking air increases the force exerted on the surface, raising pressure."
+          "Gravity keeps denser air near the surface.",
+          "Higher altitude means less overlying air mass.",
+          "Lower air density reduces the downward force.",
+          "Hence pressure declines with height."
         ],
-        "marks": 4
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "Why are pressure belts narrower than temperature zones?",
-        "modelAnswer": "Temperature zones are broad areas determined primarily by the Earth's shape and the angle of sun rays (Torrid, Temperate, and Frigid zones). Pressure belts, however, are formed not just by temperature but also by the Earth's rotation (centrifugal force). While temperature zones are continuous from the equator to the poles, pressure belts are broken into smaller, distinct latitudinal bands (e.g., Equatorial Low, Subtropical High) because the rising and sinking of air occurs at specific latitudes, making them narrower.",
+        "question": "Give reason: Pressure belts oscillate.",
+        "modelAnswer": "Pressure belts oscillate because the zone of maximum heating shifts north and south with the apparent movement of the sun during the year. As global temperature patterns shift seasonally, associated pressure zones and wind systems also migrate. This causes pressure belts to move latitudinally rather than remain fixed.",
         "keyPoints": [
-          "Temperature zones depend mainly on the angle of sun rays.",
-          "Pressure belts are influenced by both temperature and Earth's rotation.",
-          "Rising and sinking of air happens at specific latitudinal bands.",
-          "Rotation breaks the continuous temperature gradient into narrower belts."
+          "Seasonal solar heating shifts between hemispheres.",
+          "Temperature zones shift, altering pressure distribution.",
+          "Pressure belts migrate north-south through the year.",
+          "This migration is called oscillation of pressure belts."
         ],
         "marks": 5
       },
       {
         "id": "la3",
-        "question": "How does air pressure affect the human body?",
-        "modelAnswer": "The human body is adapted to the air pressure at the Earth's surface. Although air exerts a huge pressure on us, we don't feel it because our internal body pressure (blood pressure, etc.) balances it out. However, at very high altitudes, the air pressure decreases significantly. This can cause the pressure inside our bodies to become higher than the outside air, leading to discomfort, ear popping, or even bleeding from the nose in extreme cases.",
+        "question": "Give short answer: What effect does temperature have on air pressure?",
+        "modelAnswer": "Temperature and air pressure are inversely related in general. When air is heated, it expands, becomes lighter, and tends to rise, creating lower pressure near the surface. When air cools, it contracts, becomes denser, and sinks, creating higher pressure.",
         "keyPoints": [
-          "Internal body pressure balances external atmospheric pressure.",
-          "Air pressure decreases at high altitudes.",
-          "Pressure imbalance can cause physical discomfort or nosebleeds."
+          "Warm air expands and rises → lower pressure.",
+          "Cold air contracts and sinks → higher pressure.",
+          "Temperature differences drive pressure differences."
         ],
         "marks": 4
       },
       {
         "id": "la4",
-        "question": "A blown-up balloon is heavier than a deflated balloon. This proves _____.",
-        "modelAnswer": "The science textbook activity (Class 7) shows that the inflated balloon tips the balance scale — proving air has weight. Since it has weight, it exerts pressure on what is below it. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give short answer: Why is the subpolar low pressure belt formed?",
+        "modelAnswer": "The subpolar low pressure belt forms near about 60° latitude where relatively warm westerlies from mid-latitudes meet cold polar easterlies. This convergence causes air to rise, reducing surface pressure. Frequent cyclonic activity in this zone is linked with the persistent low pressure conditions.",
         "keyPoints": [
-          "The science textbook activity (Class 7) shows that the inflated balloon tips the balance scale — proving air has weight.",
-          "Since it has weight, it exerts pressure on what is below it.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Warm and cold air masses meet near subpolar latitudes.",
+          "Convergence leads to uplift of air.",
+          "Rising air lowers surface pressure.",
+          "Cyclonic weather is common in this belt."
         ],
-        "marks": 3
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Write a note on: Mid-latitudinal high pressure belts.",
+        "modelAnswer": "Mid-latitudinal high pressure belts are found roughly near 30° North and 30° South. Here, air descending from higher levels becomes warmer and drier, producing high-pressure conditions at the surface. These belts are associated with clear skies and low rainfall, which is why many hot deserts occur in these latitudes.",
+        "keyPoints": [
+          "Located near 30°N and 30°S.",
+          "Descending air creates high pressure.",
+          "Dry, stable atmospheric conditions dominate.",
+          "Major desert regions are linked to these belts."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "How does a high pressure belt form near 30° latitude and why are hot deserts found there?",
+        "modelAnswer": "Air rising near the equator cools at higher altitudes and moves poleward; around 30° latitude it descends, increasing surface pressure and creating subtropical high-pressure belts. Descending air becomes warmer and drier, suppressing cloud formation and rainfall. Because precipitation is scarce and skies remain clear for long periods, many hot deserts develop in these regions.",
+        "keyPoints": [
+          "Descending branch of global circulation forms high pressure near 30°.",
+          "Descending air is dry and inhibits rainfall.",
+          "Persistent clear skies raise surface heating.",
+          "Low rainfall + high temperature supports desert formation."
+        ],
+        "marks": 6
       }
     ]
   }

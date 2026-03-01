@@ -51,6 +51,8 @@ export default function Explanation() {
   const [memorizeCards, setMemorizeCards] = useState<Array<{ question: string; answer: string }>>([]);
   const [currentCard, setCurrentCard] = useState(0);
   const [isCardFlipped, setIsCardFlipped] = useState(false);
+  const [isAnimating, setIsAnimating] = useState(false);
+  const [cardSlideDirection, setCardSlideDirection] = useState<1 | -1>(1);
   const [longAnswers, setLongAnswers] = useState<Array<{ question: string; modelAnswer: string; keyPoints: string[]; marks?: number }>>([]);
   const [currentLongAnswer, setCurrentLongAnswer] = useState(0);
   const [studentLongAnswer, setStudentLongAnswer] = useState('');
@@ -245,6 +247,25 @@ export default function Explanation() {
     });
   };
 
+
+  const navigateFlashcard = (direction: 1 | -1) => {
+    if (memorizeCards.length === 0 || isAnimating) return;
+
+    setCardSlideDirection(direction);
+    setIsAnimating(true);
+
+    setTimeout(() => {
+      setCurrentCard((prev) => {
+        if (direction === -1) {
+          return prev === 0 ? memorizeCards.length - 1 : prev - 1;
+        }
+        return (prev + 1) % memorizeCards.length;
+      });
+      setIsCardFlipped(false);
+      setIsAnimating(false);
+    }, 140);
+  };
+
   // ============ MEMORIZE MODE ============
 
   const renderMemorizeMode = () => (
@@ -284,29 +305,68 @@ export default function Explanation() {
               <p className="text-sm text-gray-400">No flashcards available for this chapter yet.</p>
             ) : (
               <div className="max-w-2xl mx-auto">
-                <button
+                <div
+                  className={`max-w-2xl mx-auto cursor-pointer transition-all duration-150 ${
+                    isAnimating
+                      ? `${cardSlideDirection === 1 ? 'translate-x-3' : '-translate-x-3'} opacity-0 scale-95`
+                      : 'translate-x-0 opacity-100 scale-100'
+                  }`}
+                  style={{ perspective: '1000px' }}
                   onClick={() => setIsCardFlipped(prev => !prev)}
-                  className="w-full bg-white rounded-2xl p-8 shadow-lg border-2 border-violet-200 min-h-[220px] flex items-center justify-center hover:shadow-xl hover:-translate-y-1 transition-all duration-200 text-left"
                 >
-                  <div className="w-full">
-                    <span className={`inline-block text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-3 ${isCardFlipped ? 'bg-green-100 text-green-700' : 'bg-violet-100 text-violet-700'}`}>
-                      {isCardFlipped ? '✅ Model Answer' : '❓ Question'}
-                    </span>
-                    <p className="text-lg font-medium text-gray-900">
-                      {isCardFlipped ? memorizeCards[currentCard]?.answer : memorizeCards[currentCard]?.question}
-                    </p>
-                    <p className="text-xs text-violet-400 mt-4">Tap to {isCardFlipped ? 'see question' : 'reveal answer'}</p>
+                  <div
+                    style={{
+                      position: 'relative',
+                      width: '100%',
+                      minHeight: '220px',
+                      transformStyle: 'preserve-3d',
+                      transition: 'transform 0.5s cubic-bezier(0.4, 0, 0.2, 1)',
+                      transform: isCardFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)',
+                    }}
+                  >
+                    <div
+                      style={{ backfaceVisibility: 'hidden', WebkitBackfaceVisibility: 'hidden', position: 'absolute', width: '100%', minHeight: '220px' }}
+                      className="bg-white rounded-2xl p-8 shadow-lg border-2 border-violet-200 flex flex-col justify-between"
+                    >
+                      <span className="inline-block text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-3 bg-violet-100 text-violet-700">
+                        ❓ Question
+                      </span>
+                      <p className="text-lg font-medium text-gray-900 flex-1 flex items-center">
+                        {memorizeCards[currentCard]?.question}
+                      </p>
+                      <p className="text-xs text-violet-400 mt-4 text-center">Tap to reveal answer</p>
+                    </div>
+
+                    <div
+                      style={{
+                        backfaceVisibility: 'hidden',
+                        WebkitBackfaceVisibility: 'hidden',
+                        position: 'absolute',
+                        width: '100%',
+                        minHeight: '220px',
+                        transform: 'rotateY(180deg)',
+                      }}
+                      className="bg-violet-50 rounded-2xl p-8 shadow-lg border-2 border-violet-400 flex flex-col justify-between"
+                    >
+                      <span className="inline-block text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-3 bg-green-100 text-green-700">
+                        ✅ Model Answer
+                      </span>
+                      <p className="text-lg font-medium text-gray-900 flex-1 flex items-center">
+                        {memorizeCards[currentCard]?.answer}
+                      </p>
+                      <p className="text-xs text-violet-400 mt-4 text-center">Tap to see question</p>
+                    </div>
                   </div>
-                </button>
+                </div>
                 <div className="mt-4 flex items-center justify-between">
-                  <button onClick={() => { setCurrentCard(prev => (prev === 0 ? memorizeCards.length - 1 : prev - 1)); setIsCardFlipped(false); }}
+                  <button onClick={() => navigateFlashcard(-1)}
                     className="px-5 py-2 rounded-xl bg-white border-2 border-gray-200 text-gray-700 font-semibold hover:bg-gray-50 transition">
                     ← Prev
                   </button>
                   <span className="text-sm font-semibold text-violet-600 bg-violet-50 px-4 py-1.5 rounded-full border border-violet-200">
                     {currentCard + 1} / {memorizeCards.length}
                   </span>
-                  <button onClick={() => { setCurrentCard(prev => (prev + 1) % memorizeCards.length); setIsCardFlipped(false); }}
+                  <button onClick={() => navigateFlashcard(1)}
                     className="px-5 py-2 rounded-xl bg-violet-600 text-white font-semibold hover:bg-violet-700 transition">
                     Next →
                   </button>

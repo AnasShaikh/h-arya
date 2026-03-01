@@ -488,48 +488,70 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What is a 'midnight sun'?",
-        "modelAnswer": "On Summer Solstice (June 21), places in the Arctic Circle (66.5°N and beyond) get 24 hours of continuous daylight — the sun circles the horizon without setting. This is called the 'midnight sun' — seen in Norway, Finland, Alaska, etc. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: What leads to the occurrence of seasons?",
+        "modelAnswer": "Seasons occur mainly because of two combined factors: the revolution of the earth around the sun and the tilt of the earth’s axis. Due to this tilt, different hemispheres receive varying angles and durations of sunlight at different times of the year. As a result, temperature and day length change seasonally, producing distinct seasons.",
         "keyPoints": [
-          "On Summer Solstice (June 21), places in the Arctic Circle (66.5°N and beyond) get 24 hours of continuous daylight — the sun circles the horizon without setting.",
-          "This is called the 'midnight sun' — seen in Norway, Finland, Alaska, etc.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Earth’s revolution and axial tilt together cause seasons.",
+          "Sunlight angle and duration vary by hemisphere through the year.",
+          "This changes temperature and length of day, creating seasons."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "Which TWO factors together cause seasons on Earth?",
-        "modelAnswer": "Seasons are caused by BOTH Earth's revolution around the Sun AND its tilted axis (23°30'). Without the tilt, all latitudes would receive the same amount of sunlight all year — no seasons! This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: What is the duration of the day on equinox?",
+        "modelAnswer": "On equinox days, daytime and nighttime are nearly equal all over the earth. The duration of day is approximately 12 hours and the night is also about 12 hours. This occurs because the sun’s apparent position is over the equator.",
         "keyPoints": [
-          "Seasons are caused by BOTH Earth's revolution around the Sun AND its tilted axis (23°30').",
-          "Without the tilt, all latitudes would receive the same amount of sunlight all year — no seasons!",
-          "This can be observed in standard textbook examples from this chapter."
+          "Day and night are nearly equal on equinox.",
+          "Daytime duration is about 12 hours.",
+          "Sun is overhead at/near the equator on these dates."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la3",
-        "question": "Uttarayan is the period from _____.",
-        "modelAnswer": "Uttarayan (uttara = north) is the period from December 22 to June 21 when the Sun appears to move northward on the horizon each day. Days get longer in the Northern Hemisphere during this period. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: Why is the effect of seasons not strongly experienced in the equatorial region?",
+        "modelAnswer": "The equatorial region receives nearly direct sunlight throughout the year, so seasonal variation in temperature is small. Day length also remains close to 12 hours year-round. Because heat conditions are relatively uniform, the region does not experience sharply distinct summer and winter as in higher latitudes.",
         "keyPoints": [
-          "Uttarayan (uttara = north) is the period from December 22 to June 21 when the Sun appears to move northward on the horizon each day.",
-          "Days get longer in the Northern Hemisphere during this period.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Equatorial region gets near-vertical sunrays most of the year.",
+          "Annual temperature variation is low.",
+          "Day length changes very little.",
+          "Hence seasonal contrasts are weak."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "On June 21, perpendicular sunrays fall on _____.",
-        "modelAnswer": "On June 21 (Summer Solstice), the North Pole tilts most toward the Sun. Perpendicular rays fall on the Tropic of Cancer (23°30' N). This gives the Northern Hemisphere its maximum heat — summer! This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: Why is the sun visible for more than 24 hours during Dakshinayan between the Antarctic Circle and the South Pole?",
+        "modelAnswer": "During Dakshinayan (sun’s apparent southward shift), the Southern Hemisphere tilts toward the sun for part of the year. In the region between the Antarctic Circle and the South Pole, this tilt causes continuous illumination without sunset for one or more days, depending on latitude. Therefore the sun may remain visible for over 24 hours (polar day).",
         "keyPoints": [
-          "On June 21 (Summer Solstice), the North Pole tilts most toward the Sun.",
-          "Perpendicular rays fall on the Tropic of Cancer (23°30' N).",
-          "This gives the Northern Hemisphere its maximum heat — summer!",
-          "This can be observed in standard textbook examples from this chapter."
+          "During Dakshinayan, Southern Hemisphere is favorably tilted toward sun.",
+          "High southern latitudes receive continuous daylight.",
+          "This creates polar day with sun visible beyond 24 hours."
         ],
-        "marks": 3
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Answer: Why are penguins not found at the North Pole?",
+        "modelAnswer": "Penguins are native to the Southern Hemisphere, especially Antarctica and nearby regions, and are evolutionarily adapted to those marine and climatic ecosystems. They do not naturally occur in the Arctic food web and have never established wild populations there. Hence penguins are absent at the North Pole.",
+        "keyPoints": [
+          "Penguins are naturally distributed in the Southern Hemisphere.",
+          "Their adaptation and breeding ecology are linked to Antarctic systems.",
+          "They are not part of Arctic natural habitats."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la6",
+        "question": "Rewrite correctly: If the axis of the earth were not tilted, different parallels on earth would experience the same climate throughout the year.",
+        "modelAnswer": "Correct statement: If the earth’s axis were not tilted, seasonal changes would be minimal and each latitude would receive a nearly fixed annual sunlight pattern. Therefore each place would have much less seasonal variation than now, and climate contrast through the year would be greatly reduced.",
+        "keyPoints": [
+          "Axial tilt is the key cause of seasonal variation.",
+          "Without tilt, sunlight pattern at a latitude remains nearly constant.",
+          "Seasonal contrasts would reduce significantly."
+        ],
+        "marks": 4
       }
     ]
   }

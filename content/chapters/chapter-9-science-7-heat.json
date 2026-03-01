@@ -4,7 +4,8 @@
     "title": "Heat",
     "subject": "Science",
     "pages": "63-70",
-    "description": "This chapter covers the concepts of heat, its transfer, and its effects."
+    "description": "This chapter covers the concepts of heat, its transfer, and its effects.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -77,7 +78,7 @@
     {
       "id": 1,
       "title": "Heat and Temperature",
-      "emoji": "🔥",
+      "emoji": "\ud83d\udd25",
       "colorTheme": "from-red-500 to-orange-500",
       "bgColor": "bg-red-50",
       "borderColor": "border-red-300",
@@ -100,16 +101,16 @@
         },
         {
           "id": "kp2",
-          "text": "Temperature is measured in Celsius (°C), Fahrenheit (°F), or Kelvin (K)."
+          "text": "Temperature is measured in Celsius (\u00b0C), Fahrenheit (\u00b0F), or Kelvin (K)."
         }
       ],
-      "funFact": "The coldest possible temperature is absolute zero (-273.15 °C or 0 K), where all atomic motion stops.",
+      "funFact": "The coldest possible temperature is absolute zero (-273.15 \u00b0C or 0 K), where all atomic motion stops.",
       "textbookRef": "Pages 63-64"
     },
     {
       "id": 2,
       "title": "Transfer of Heat",
-      "emoji": "💨",
+      "emoji": "\ud83d\udca8",
       "colorTheme": "from-blue-500 to-cyan-500",
       "bgColor": "bg-blue-50",
       "borderColor": "border-blue-300",
@@ -149,7 +150,7 @@
     {
       "id": 3,
       "title": "Effects of Heat",
-      "emoji": "🌡️",
+      "emoji": "\ud83c\udf21\ufe0f",
       "colorTheme": "from-green-500 to-lime-500",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
@@ -334,33 +335,33 @@
     "title": "Build the Formula!",
     "description": "Drag the components to build the key formula for this chapter.",
     "data": {
-      "formula": "Q = m × c × ΔT",
+      "formula": "Q = m \u00d7 c \u00d7 \u0394T",
       "components": [
         "Q",
         "=",
         "m",
-        "×",
+        "\u00d7",
         "c",
-        "×",
-        "ΔT"
+        "\u00d7",
+        "\u0394T"
       ],
-      "explanation": "Heat energy (Q) equals mass (m) times specific heat (c) times change in temperature (ΔT)."
+      "explanation": "Heat energy (Q) equals mass (m) times specific heat (c) times change in temperature (\u0394T)."
     }
   },
   "textbookExercise": {
     "chapterName": "Heat",
-    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers \u2014 these appear in school exams!",
     "questions": [
       {
         "number": 1,
         "type": "fill_blanks",
-        "question": "Fill in the blanks with the proper\nword from the brackets.\n(radiation, white, conduction, blue,\nconvection,\nbad\nconductor,\ngood\nconductor, black, reflection)\n(a) Maximum heat is absorbed by a\n….…. coloured object.\n(b) ………… of heat does not require\na medium.\n(c) Conduction of heat takes place\nthrough",
+        "question": "Fill in the blanks with the proper\nword from the brackets.\n(radiation, white, conduction, blue,\nconvection,\nbad\nconductor,\ngood\nconductor, black, reflection)\n(a) Maximum heat is absorbed by a\n\u2026.\u2026. coloured object.\n(b) \u2026\u2026\u2026\u2026 of heat does not require\na medium.\n(c) Conduction of heat takes place\nthrough",
         "subQuestions": [
-          "Maximum heat is absorbed by a\n….…. coloured object.",
-          "………… of heat does not require\na medium.",
-          "Conduction of heat takes place\nthrough a ………. substance.",
+          "Maximum heat is absorbed by a\n\u2026.\u2026. coloured object.",
+          "\u2026\u2026\u2026\u2026 of heat does not require\na medium.",
+          "Conduction of heat takes place\nthrough a \u2026\u2026\u2026. substance.",
           "The shining surface in a thermos\nflask decreases the outgoing heat by\n....... .",
-          "Cooking utensils are made from\nmetals due to their property of …….",
+          "Cooking utensils are made from\nmetals due to their property of \u2026\u2026.",
           "The earth receives heat from the\nsun by ................. ."
         ]
       },
@@ -395,7 +396,7 @@
         ]
       }
     ],
-    "rawText": "1. Fill in the blanks with the proper\nword from the brackets.\n(radiation, white, conduction, blue,\nconvection,\nbad\nconductor,\ngood\nconductor, black, reflection)\n(a) Maximum heat is absorbed by a\n….…. coloured object.\n(b) ………… of heat does not require\na medium.\n(c) Conduction of heat takes place\nthrough a ………. substance.\n(d) The shining surface in a thermos\nflask decreases the outgoing heat by\n....... .\n(e) Cooking utensils are made from\nmetals due to their property of …….\n(f) The earth receives heat from the\nsun by ................. .\n2. What will absorb heat?\nSteel spoon, wooden board, glass vessel,\niron griddle (tava), glass, wooden spoon,\nplastic plate, soil, water, wax\n3. Write answers to the following questions.\n(a) How does a fever get lowered by\nputting a cold compress on the\nforehead of a patient ?\n63\n(b) Why are the houses in Rajasthan\npainted white ?\n(c) What are the modes of heat transfer ?\n(d) Explain which mode of heat transfer\ncauses sea breezes and land breezes.\n(e) Why is the outer coat of the\npenguins of Antarctica black ?\n(f) Why are heaters fitted near the\nfloor and air conditioners, near the\nceiling of a room ?\n4. Give scientific reasons.\n(a) An ordinary glass bottle cracks\nwhen boiling water is poured into\nit, but a borosil glass bottle does\nnot.\n(b) The telephone wires which sag in\nsummer become straight in winter.\n(c) Dew drops form on the grass, in\nwinter.\n(d) In winter, why does an iron pillar\nfeel colder than a wooden pole ?",
+    "rawText": "1. Fill in the blanks with the proper\nword from the brackets.\n(radiation, white, conduction, blue,\nconvection,\nbad\nconductor,\ngood\nconductor, black, reflection)\n(a) Maximum heat is absorbed by a\n\u2026.\u2026. coloured object.\n(b) \u2026\u2026\u2026\u2026 of heat does not require\na medium.\n(c) Conduction of heat takes place\nthrough a \u2026\u2026\u2026. substance.\n(d) The shining surface in a thermos\nflask decreases the outgoing heat by\n....... .\n(e) Cooking utensils are made from\nmetals due to their property of \u2026\u2026.\n(f) The earth receives heat from the\nsun by ................. .\n2. What will absorb heat?\nSteel spoon, wooden board, glass vessel,\niron griddle (tava), glass, wooden spoon,\nplastic plate, soil, water, wax\n3. Write answers to the following questions.\n(a) How does a fever get lowered by\nputting a cold compress on the\nforehead of a patient ?\n63\n(b) Why are the houses in Rajasthan\npainted white ?\n(c) What are the modes of heat transfer ?\n(d) Explain which mode of heat transfer\ncauses sea breezes and land breezes.\n(e) Why is the outer coat of the\npenguins of Antarctica black ?\n(f) Why are heaters fitted near the\nfloor and air conditioners, near the\nceiling of a room ?\n4. Give scientific reasons.\n(a) An ordinary glass bottle cracks\nwhen boiling water is poured into\nit, but a borosil glass bottle does\nnot.\n(b) The telephone wires which sag in\nsummer become straight in winter.\n(c) Dew drops form on the grass, in\nwinter.\n(d) In winter, why does an iron pillar\nfeel colder than a wooden pole ?",
     "qaCards": [
       {
         "question": "Why are the handles of cooking utensils made of plastic or wood?",
@@ -441,86 +442,64 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "Maximum heat is absorbed by a\n….…. coloured object.",
-        "modelAnswer": "Convection is the primary mode of heat transfer in fluids (liquids and gases). This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: Maximum heat is absorbed by a\n….…. coloured object.",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "question": "Maximum heat is absorbed by a\n\u2026.\u2026. coloured object.",
+        "modelAnswer": "Convection is the primary mode of heat transfer in fluids (liquids and gases).",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la2",
-        "question": "………… of heat does not require\na medium.",
-        "modelAnswer": "Joule is a unit of heat (energy), not temperature. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: ………… of heat does not require\na medium.",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "question": "\u2026\u2026\u2026\u2026 of heat does not require\na medium.",
+        "modelAnswer": "Joule is a unit of heat (energy), not temperature.",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la3",
-        "question": "Conduction of heat takes place\nthrough a ………. substance.",
-        "modelAnswer": "Conduction of heat takes place through a ………. substance. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "question": "Conduction of heat takes place\nthrough a \u2026\u2026\u2026. substance.",
+        "modelAnswer": "Conduction of heat takes place through a \u2026\u2026\u2026. substance. This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
-          "Conduction of heat takes place through a ……….",
+          "Conduction of heat takes place through a \u2026\u2026\u2026.",
           "substance.",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 3
       },
       {
         "id": "la4",
         "question": "The shining surface in a thermos\nflask decreases the outgoing heat by\n....... .",
-        "modelAnswer": "The mercury expands when heated, causing the level to rise in the thermometer. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: The shining surface in a thermos\nflask decreases the outgoing heat by\n....... .",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "The mercury expands when heated, causing the level to rise in the thermometer.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "Cooking utensils are made from\nmetals due to their property of …….",
-        "modelAnswer": "Plastic and wood are poor conductors of heat (insulators), so they do not get hot and are safe to hold. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: Cooking utensils are made from\nmetals due to their property of …….",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "question": "Cooking utensils are made from\nmetals due to their property of \u2026\u2026.",
+        "modelAnswer": "Plastic and wood are poor conductors of heat (insulators), so they do not get hot and are safe to hold.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la6",
         "question": "The earth receives heat from the\nsun by ................. .",
-        "modelAnswer": "Heat from the Sun travels through the vacuum of space to the Earth by radiation. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: The earth receives heat from the\nsun by ................. .",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "Heat from the Sun travels through the vacuum of space to the Earth by radiation.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la7",
         "question": "What will absorb heat?\nSteel spoon, wooden board, glass vessel,\niron griddle (tava), glass, wooden spoon,\nplastic plate, soil, water, wax",
-        "modelAnswer": "What will absorb heat? Steel spoon, wooden board, glass vessel, iron griddle (tava), glass, wooden spoon, plastic plate, soil, water, wax This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "What will absorb heat? Steel spoon, wooden board, glass vessel, iron griddle (tava), glass, wooden spoon, plastic plate, soil, water, wax This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "What will absorb heat?",
-          "Steel spoon, wooden board, glass vessel, iron griddle (tava), glass, wooden spoon, plastic plate, soil, water, wax This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Steel spoon, wooden board, glass vessel, iron griddle (tava), glass, wooden spoon, plastic plate, soil, water, wax This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       },
       {
         "id": "la8",
         "question": "Write answers to the following questions.\n(a) How does a fever get lowered by\nputting a cold compress on the\nforehead of a patient ?\n63\n(b) Why are the houses in Rajasthan\npainted white ?\n(c) What are the modes of heat transfer ?\n(d) Explain which mode of heat transfer\ncauses sea breezes and land br",
-        "modelAnswer": "Write answers to the following questions. (a) How does a fever get lowered by putting a cold compress on the forehead of a patient ? 63 (b) Why are the houses in Rajasthan painted white ? (c) What are the modes of heat transfer ? (d) Explain which mode of heat transfer causes sea breezes and land br This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Write answers to the following questions. (a) How does a fever get lowered by putting a cold compress on the forehead of a patient ? 63 (b) Why are the houses in Rajasthan painted white ? (c) What are the modes of heat transfer ? (d) Explain which mode of heat transfer causes sea breezes and land br This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Write answers to the following questions.",
           "(a) How does a fever get lowered by putting a cold compress on the forehead of a patient ?",

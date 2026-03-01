@@ -4,7 +4,8 @@
     "title": "Soils",
     "subject": "Geography",
     "pages": "39-45",
-    "description": "Soil formation, factors affecting soils, types of soil in Maharashtra, soil erosion, soil conservation"
+    "description": "Soil formation, factors affecting soils, types of soil in Maharashtra, soil erosion, soil conservation",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -476,59 +477,73 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What component makes soil fertile — different from just powdered rock?",
-        "modelAnswer": "Powdered rock alone is NOT soil — soil requires humus (decomposed organic matter) and microorganisms. Humus provides nutrients for plants and makes soil fertile. Without humus, crops cannot grow well. This can be observed in standard textbook examples from this chapter.",
+        "question": "Why does this occur: To the west of Sahyadris, laterite soils are formed from basalt rock?",
+        "modelAnswer": "Although basalt is the parent rock, the western side of the Sahyadris receives very heavy rainfall and high humidity. Intense leaching under this climate removes silica and bases from the upper soil layers, leaving iron and aluminium-rich residues. Over long periods this process transforms weathered basalt into lateritic soils.",
         "keyPoints": [
-          "Powdered rock alone is NOT soil — soil requires humus (decomposed organic matter) and microorganisms.",
-          "Humus provides nutrients for plants and makes soil fertile.",
-          "Without humus, crops cannot grow well.",
-          "This can be observed in standard textbook examples from this chapter."
-        ],
-        "marks": 3
-      },
-      {
-        "id": "la2",
-        "question": "Why does the same basalt rock form black soil in Deccan Plateau but laterite soil in Konkan?",
-        "modelAnswer": "This is a key textbook point: the same parent rock (basalt) gives different soils in different climates. Dry Deccan → black soil. Heavy-rainfall Konkan → leaching removes minerals, iron oxidises → reddish-orange laterite soil. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "This is a key textbook point: the same parent rock (basalt) gives different soils in different climates.",
-          "Dry Deccan → black soil.",
-          "Heavy-rainfall Konkan → leaching removes minerals, iron oxidises → reddish-orange laterite soil.",
-          "This can be observed in standard textbook examples from this chapter."
-        ],
-        "marks": 3
-      },
-      {
-        "id": "la3",
-        "question": "What happens when chemical fertilizers are used excessively over many years?",
-        "modelAnswer": "Excessive chemical fertilizers leave toxic residues that kill soil microorganisms. Without microorganisms, dead organic matter can't decompose — humus decreases. Without humus, soil fertility drops and plants don't get micronutrients. This is soil degradation. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Excessive chemical fertilizers leave toxic residues that kill soil microorganisms.",
-          "Without microorganisms, dead organic matter can't decompose — humus decreases.",
-          "Without humus, soil fertility drops and plants don't get micronutrients.",
-          "This is soil degradation."
-        ],
-        "marks": 3
-      },
-      {
-        "id": "la4",
-        "question": "What are Continuous Contour Trenches (CCTs)?",
-        "modelAnswer": "CCTs are trenches dug along the slope of a hill following contour lines. They slow down the water flowing downhill, allowing it to percolate into the ground (recharge groundwater) and preventing it from washing away topsoil. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "CCTs are trenches dug along the slope of a hill following contour lines.",
-          "They slow down the water flowing downhill, allowing it to percolate into the ground (recharge groundwater) and preventing it from washing away topsoil.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Basalt is the parent material but climate controls soil outcome.",
+          "Heavy rainfall causes intense leaching.",
+          "Silica and bases are washed away; iron-aluminium residues remain.",
+          "This leads to laterite formation on the western slope region."
         ],
         "marks": 5
       },
       {
-        "id": "la5",
-        "question": "Why is it advisable to leave farmland fallow for some period?",
-        "modelAnswer": "Leaving land fallow (uncultivated) allows natural soil processes to restore fertility: microorganisms multiply, organic matter decomposes to form humus, the soil's pH and mineral balance restores. It gives the soil a 'rest' from intensive farming. This can be observed in standard textbook examples from this chapter.",
+        "id": "la2",
+        "question": "Why does this occur: Humus content in the soil increases?",
+        "modelAnswer": "Humus increases when plant and animal remains are added to soil and decomposed by microorganisms. Practices such as composting, use of organic manures, crop residue management, and reduced burning improve organic matter accumulation. Over time, decomposition converts this organic matter into humus, improving soil structure and fertility.",
         "keyPoints": [
-          "Leaving land fallow (uncultivated) allows natural soil processes to restore fertility: microorganisms multiply, organic matter decomposes to form humus, the soil's pH and mineral balance restores.",
-          "It gives the soil a 'rest' from intensive farming.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Organic residues are decomposed by microbes.",
+          "Compost and organic manure addition raises organic matter.",
+          "Reduced residue burning supports humus formation.",
+          "Humus improves fertility and water retention."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la3",
+        "question": "Why does this occur: Soil formation process is faster in equatorial climate?",
+        "modelAnswer": "Equatorial climate has high temperature and abundant rainfall throughout the year. Heat accelerates chemical weathering and biological activity, while moisture supports decomposition and soil-forming reactions. Therefore rock breakdown and transformation into soil occur faster than in cold or dry regions.",
+        "keyPoints": [
+          "High temperature speeds chemical weathering.",
+          "High rainfall supports rapid soil-forming processes.",
+          "Strong biological activity accelerates decomposition.",
+          "Hence soil develops faster in equatorial regions."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la4",
+        "question": "Give information on: Measures of soil conservation.",
+        "modelAnswer": "Important soil conservation measures include contour bunding, terracing, continuous contour trenches (CCTs), afforestation, shelter belts, check dams, farm bunds, and controlled grazing. Water conservation actions such as “arrest water, let it percolate” reduce runoff and erosion. Crop rotation, fallowing, and balanced nutrient management also protect fertility. Together these measures reduce soil loss, improve infiltration, and sustain agricultural productivity.",
+        "keyPoints": [
+          "Mechanical measures: contour bunding, terracing, CCTs, check dams.",
+          "Biological measures: afforestation, vegetation cover, controlled grazing.",
+          "Water management reduces runoff and erosion.",
+          "Agronomic practices (crop rotation/fallowing) preserve fertility."
+        ],
+        "marks": 6
+      },
+      {
+        "id": "la5",
+        "question": "Give information on: Organic manures.",
+        "modelAnswer": "Organic manures include farmyard manure, compost, vermicompost, green manure, and decomposed crop residues. They supply nutrients gradually, increase humus content, improve soil texture, and support beneficial microorganisms. Regular use helps maintain pH balance and reduces dependence on excessive chemical fertilizers.",
+        "keyPoints": [
+          "Examples: FYM, compost, vermicompost, green manure.",
+          "They enrich humus and improve soil structure.",
+          "Nutrient release is gradual and sustained.",
+          "They support microbial life and long-term soil health."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la6",
+        "question": "Give information on: Importance of soils for plant growth.",
+        "modelAnswer": "Soil is the medium that anchors roots and supplies water, air, and nutrients necessary for plant growth. It regulates moisture, stores minerals, and provides a habitat for microorganisms that recycle nutrients. Healthy soil structure and organic content directly influence seed germination, root development, and crop productivity.",
+        "keyPoints": [
+          "Soil provides anchorage, water, nutrients, and aeration.",
+          "It supports microbial nutrient cycling.",
+          "Soil quality determines plant health and yield.",
+          "Thus soil is fundamental for agriculture and ecosystems."
         ],
         "marks": 5
       }

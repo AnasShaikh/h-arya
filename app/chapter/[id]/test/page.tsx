@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
+import { motion } from 'framer-motion';
 
 interface TestQuestion {
   id: string;
@@ -18,6 +19,14 @@ type RawQuestion = {
   options?: string[] | Record<string, string>;
   correctAnswer?: string | number;
   explanation?: string;
+};
+
+const wrongAnswerVariants = {
+  idle: { x: 0 },
+  shake: {
+    x: [-4, 4, -4, 4, -2, 2, 0],
+    transition: { duration: 0.4 },
+  },
 };
 
 function normalizeQuestions(rawQuestions: unknown, sourcePrefix: string): TestQuestion[] {
@@ -296,30 +305,52 @@ export default function Test() {
 
           <div className="space-y-4 relative z-10">
             {question?.options?.map((option: string, index: number) => {
-              const optionLetter = String.fromCharCode(65 + index);
-              const isSelected = selectedAnswers[question.id] === optionLetter;
+              const optionKey = String.fromCharCode(65 + index);
+              const selectedAnswer = selectedAnswers[question.id] ?? null;
+              const correctOption = question.correctAnswer;
+              const isCorrect = selectedAnswer === correctOption;
+              const showResult = selectedAnswer !== null;
 
               return (
-                <button
-                  key={index}
-                  onClick={() => handleAnswer(question.id, optionLetter)}
-                  className={`w-full text-left p-5 rounded-2xl border-2 transition-all duration-200 flex items-start group ${
-                    isSelected
-                      ? 'border-violet-600 bg-violet-50 text-violet-900 shadow-sm'
-                      : 'border-gray-200 hover:border-violet-300 hover:bg-violet-50/30 text-gray-700'
+                <motion.button
+                  key={optionKey}
+                  whileTap={{ scale: 0.97 }}
+                  whileHover={{ scale: 1.01 }}
+                  transition={{ duration: 0.1 }}
+                  animate={selectedAnswer === optionKey && !isCorrect ? 'shake' : 'idle'}
+                  variants={wrongAnswerVariants}
+                  onClick={() => handleAnswer(question.id, optionKey)}
+                  className={`w-full text-left p-4 rounded-2xl border-2 font-semibold transition-all duration-200 ${
+                    selectedAnswer === null
+                      ? 'border-gray-200 bg-white text-gray-800 hover:border-violet-300 hover:bg-violet-50'
+                      : selectedAnswer === optionKey && isCorrect
+                      ? 'border-green-500 bg-green-50 text-green-800'
+                      : selectedAnswer === optionKey && !isCorrect
+                      ? 'border-red-400 bg-red-50 text-red-800'
+                      : correctOption === optionKey && selectedAnswer !== null
+                      ? 'border-green-300 bg-green-50/50 text-green-700'
+                      : 'border-gray-100 bg-gray-50 text-gray-400'
                   }`}
                 >
-                  <span
-                    className={`flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold mr-4 transition-colors ${
-                      isSelected
-                        ? 'bg-violet-600 text-white'
-                        : 'bg-gray-100 text-gray-500 group-hover:bg-violet-100 group-hover:text-violet-600'
-                    }`}
-                  >
-                    {optionLetter}
-                  </span>
-                  <span className="text-lg pt-0.5">{option}</span>
-                </button>
+                  <div className="flex items-start">
+                    <span className="flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold mr-4 bg-white/70 border border-current/20">
+                      {optionKey}
+                    </span>
+                    <span className="text-lg pt-0.5 flex items-center">
+                      {option}
+                      {showResult && selectedAnswer === optionKey && (
+                        <motion.span
+                          initial={{ scale: 0 }}
+                          animate={{ scale: 1 }}
+                          transition={{ type: 'spring', stiffness: 400, damping: 15 }}
+                          className="ml-2"
+                        >
+                          {isCorrect ? '✅' : '❌'}
+                        </motion.span>
+                      )}
+                    </span>
+                  </div>
+                </motion.button>
               );
             })}
           </div>

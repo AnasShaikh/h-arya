@@ -3,6 +3,8 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import { motion } from 'framer-motion';
+import SubjectCardSkeleton from '../components/SubjectCardSkeleton';
 
 interface Chapter {
   id: number;
@@ -132,11 +134,14 @@ export default function Dashboard() {
 
   if (isLoading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-violet-50 via-white to-indigo-50 flex items-center justify-center">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-violet-600 mx-auto"></div>
-          <p className="mt-4 text-gray-700">Loading your dashboard...</p>
-        </div>
+      <div className="min-h-screen bg-[#F5F3FF]">
+        <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {[1, 2, 3, 4].map((item) => (
+              <SubjectCardSkeleton key={item} />
+            ))}
+          </div>
+        </main>
       </div>
     );
   }
@@ -203,12 +208,17 @@ export default function Dashboard() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="bg-gradient-to-r from-violet-700 to-indigo-600 rounded-2xl p-5 text-white mb-6">
+        <motion.div
+          initial={{ opacity: 0, y: -16 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.3, ease: 'easeOut' }}
+          className="bg-gradient-to-r from-violet-700 to-indigo-600 rounded-2xl p-5 text-white mb-6"
+        >
           <h2 className="text-2xl font-black">
             Good {new Date().getHours() < 12 ? 'morning' : 'afternoon'}, {userName}! 🌟
           </h2>
           <p className="text-violet-200 font-medium mt-1">Ready to learn something new today?</p>
-        </div>
+        </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
           <div className="bg-white rounded-2xl border border-violet-100 shadow-[0_2px_16px_rgba(109,40,217,0.07)] p-4 text-center">
@@ -240,7 +250,7 @@ export default function Dashboard() {
         </div>
 
         <div className="grid gap-6">
-          {subjects.map(([subject, subjectChapters]) => {
+          {subjects.map(([subject, subjectChapters], subjectIndex) => {
             const config = SUBJECT_CONFIG[subject] ?? DEFAULT_CONFIG;
             const isExpanded = expandedSubjects.has(subject);
             const subjectProgress = progressData?.bySubject?.[subject];
@@ -248,7 +258,13 @@ export default function Dashboard() {
             const firstColorClass = config.color.split(' ')[0].replace('from-', 'bg-');
             
             return (
-              <div key={subject} className="bg-white rounded-2xl border border-violet-100 shadow-[0_2px_16px_rgba(109,40,217,0.07)] overflow-hidden">
+              <motion.div
+                key={subject}
+                initial={{ opacity: 0, y: 12 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.25, delay: subjectIndex * 0.06 }}
+                className="bg-white rounded-2xl border border-violet-100 shadow-[0_2px_16px_rgba(109,40,217,0.07)] overflow-hidden"
+              >
                 <button
                   onClick={() => toggleSubject(subject)}
                   className={`w-full p-6 text-left bg-gradient-to-r ${config.color} hover:opacity-95 transition-opacity text-white`}
@@ -287,11 +303,14 @@ export default function Dashboard() {
                 {isExpanded && (
                   <div className="p-5 sm:p-6 bg-white">
                     <div className="grid gap-3">
-                      {subjectChapters.map((chapter) => {
+                      {subjectChapters.map((chapter, index) => {
                         const chapterProgress = progressData?.bySubject?.[chapter.subject]?.chapters?.[chapter.chapterName];
                         return (
-                          <div
+                          <motion.div
                             key={chapter.id}
+                            initial={{ opacity: 0, x: -16 }}
+                            animate={{ opacity: 1, x: 0 }}
+                            transition={{ duration: 0.2, delay: index * 0.04, ease: 'easeOut' }}
                             className={`rounded-xl border p-4 ${chapter.isActive ? 'border-violet-100 bg-white' : 'border-gray-100 bg-gray-50/50'}`}
                           >
                             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 sm:gap-4">
@@ -325,7 +344,7 @@ export default function Dashboard() {
                               {chapter.isActive ? (
                                 <Link
                                   href={`/chapter/${chapter.id}`}
-                                  className="bg-gradient-to-r from-violet-700 to-violet-600 text-white px-4 py-2 rounded-xl text-sm font-bold hover:opacity-90 active:scale-95 transition-all shadow-sm shadow-violet-200 self-start sm:self-auto"
+                                  className="bg-gradient-to-r from-violet-700 to-violet-600 text-white px-4 py-2 rounded-xl text-sm font-bold hover:opacity-90 active:scale-95 hover:-translate-y-0.5 transition-all duration-150 shadow-sm shadow-violet-200 self-start sm:self-auto"
                                 >
                                   Start
                                 </Link>
@@ -336,13 +355,13 @@ export default function Dashboard() {
                                 </span>
                               )}
                             </div>
-                          </div>
+                          </motion.div>
                         );
                       })}
                     </div>
                   </div>
                 )}
-              </div>
+              </motion.div>
             );
           })}
         </div>

@@ -78,7 +78,7 @@
     {
       "id": 1,
       "title": "Properties of Air",
-      "emoji": "💨",
+      "emoji": "\ud83d\udca8",
       "colorTheme": "from-sky-400 to-blue-500",
       "bgColor": "bg-sky-50",
       "borderColor": "border-sky-300",
@@ -118,11 +118,11 @@
     {
       "id": 2,
       "title": "Properties of Water",
-      "emoji": "💧",
+      "emoji": "\ud83d\udca7",
       "colorTheme": "from-cyan-400 to-teal-500",
       "bgColor": "bg-cyan-50",
       "borderColor": "border-cyan-300",
-      "content": "Water is a vital resource for all life. It exists in three states: solid (ice), liquid (water), and gas (water vapor). A unique property of water is its density; it is densest at 4°C, and its solid form (ice) is less dense than its liquid form.",
+      "content": "Water is a vital resource for all life. It exists in three states: solid (ice), liquid (water), and gas (water vapor). A unique property of water is its density; it is densest at 4\u00b0C, and its solid form (ice) is less dense than its liquid form.",
       "pageReference": "19-22",
       "examples": [
         {
@@ -158,7 +158,7 @@
     {
       "id": 3,
       "title": "Properties of Soil",
-      "emoji": "🌍",
+      "emoji": "\ud83c\udf0d",
       "colorTheme": "from-orange-500 to-amber-600",
       "bgColor": "bg-orange-50",
       "borderColor": "border-orange-300",
@@ -219,11 +219,11 @@
       "options": [
         "Expands when heated",
         "Contracts when cooled",
-        "Expands when it freezes from 4°C to 0°C",
-        "Is densest at 0°C"
+        "Expands when it freezes from 4\u00b0C to 0\u00b0C",
+        "Is densest at 0\u00b0C"
       ],
       "correctAnswer": "C",
-      "explanation": "Unlike most substances, water expands as it cools from 4°C to 0°C, which is why ice is less dense than water.",
+      "explanation": "Unlike most substances, water expands as it cools from 4\u00b0C to 0\u00b0C, which is why ice is less dense than water.",
       "conceptIds": [
         2
       ],
@@ -374,7 +374,7 @@
   },
   "textbookExercise": {
     "chapterName": "Properties of Natural Resources",
-    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers \u2014 these appear in school exams!",
     "questions": [
       {
         "number": 1,
@@ -409,7 +409,7 @@
       {
         "number": 4,
         "type": "match_pairs",
-        "question": "With whom should I pair up ?\nGroup ‘A’\nGroup ‘B’\n(1) Air\t\t\n(a) Excretion\n(2) Water\t\t\n(b) Scattering of light.\n(3) Soil\t\t\n(c) Plasticity",
+        "question": "With whom should I pair up ?\nGroup \u2018A\u2019\nGroup \u2018B\u2019\n(1) Air\t\t\n(a) Excretion\n(2) Water\t\t\n(b) Scattering of light.\n(3) Soil\t\t\n(c) Plasticity",
         "subQuestions": [
           "Excretion\n(2) Water",
           "Scattering of light.\n(3) Soil",
@@ -448,7 +448,7 @@
         ]
       }
     ],
-    "rawText": "Exercise\n1. Fill in the blanks with the appropriate\nterm.\n(Temperature, volume, mass, density,\nhumidity, acidic, weight, neutral, shape.)\n(a) The capacity of air to hold moisture\ndepends upon the ......... of the air.\n(b) Water does not have a .............\nbut has definite .......... and .......... .\n(c) While freezing, the .................... of\nwater is lowered.\n(d) ................. soil has pH 7.\n2. Why is it said that (a) Air is a homogeneous mixture of\nvarious gases.\n(b) Water is a universal solvent.\n(c) There is no alternative to water for\ncleaning purposes.\n3. What will happen if.....\n(a) The amount of water vapour in the\nair increases.\n(b) Only one crop is grown repeatedly\nin the soil.\n4. With whom should I pair up ?\nGroup ‘A’\nGroup ‘B’\n(1) Air\t\t\n(a) Excretion\n(2) Water\t\t\n(b) Scattering of light.\n(3) Soil\t\t\n(c) Plasticity\n5. State whether the following statements\nare true or false.\n(a) Sandy soil has low capacity for\nholding water.\n(b) The substance in which a solute\ndissolves is called a solvent.\n(c) The pressure exerted by air is called\natmospheric pressure.\n6. Explain the picture in your own\nwords.\nWater\nIce\na\nb\n7. Write answers to the following\nquestions in your own words.\n(a) How is light scatterred by the air ?\n(b) Explain the various properties of\nwater.\n(c) Why is the density of seawater\nmore than that of rain water ?\n(d) What is the importance of good soil\nstructure ?\n(e) What are the various uses of soil ?\n(f) What is the need and importance\nof soil testing from the point of\nview of farmers ?\n(g) What is the importance of air in\ntransmission of sound ?\n(h) Why should a glass bottle completely\nfilled with water never be kept in\na freezer ?",
+    "rawText": "Exercise\n1. Fill in the blanks with the appropriate\nterm.\n(Temperature, volume, mass, density,\nhumidity, acidic, weight, neutral, shape.)\n(a) The capacity of air to hold moisture\ndepends upon the ......... of the air.\n(b) Water does not have a .............\nbut has definite .......... and .......... .\n(c) While freezing, the .................... of\nwater is lowered.\n(d) ................. soil has pH 7.\n2. Why is it said that (a) Air is a homogeneous mixture of\nvarious gases.\n(b) Water is a universal solvent.\n(c) There is no alternative to water for\ncleaning purposes.\n3. What will happen if.....\n(a) The amount of water vapour in the\nair increases.\n(b) Only one crop is grown repeatedly\nin the soil.\n4. With whom should I pair up ?\nGroup \u2018A\u2019\nGroup \u2018B\u2019\n(1) Air\t\t\n(a) Excretion\n(2) Water\t\t\n(b) Scattering of light.\n(3) Soil\t\t\n(c) Plasticity\n5. State whether the following statements\nare true or false.\n(a) Sandy soil has low capacity for\nholding water.\n(b) The substance in which a solute\ndissolves is called a solvent.\n(c) The pressure exerted by air is called\natmospheric pressure.\n6. Explain the picture in your own\nwords.\nWater\nIce\na\nb\n7. Write answers to the following\nquestions in your own words.\n(a) How is light scatterred by the air ?\n(b) Explain the various properties of\nwater.\n(c) Why is the density of seawater\nmore than that of rain water ?\n(d) What is the importance of good soil\nstructure ?\n(e) What are the various uses of soil ?\n(f) What is the need and importance\nof soil testing from the point of\nview of farmers ?\n(g) What is the importance of air in\ntransmission of sound ?\n(h) Why should a glass bottle completely\nfilled with water never be kept in\na freezer ?",
     "qaCards": [
       {
         "question": "What is the approximate percentage of oxygen in the air?",
@@ -457,7 +457,7 @@
       },
       {
         "question": "The anomalous expansion of water means that it:",
-        "answer": "Unlike most substances, water expands as it cools from 4°C to 0°C, which is why ice is less dense than water.",
+        "answer": "Unlike most substances, water expands as it cools from 4\u00b0C to 0\u00b0C, which is why ice is less dense than water.",
         "source": "chapter_test_explanation"
       },
       {
@@ -495,18 +495,14 @@
       {
         "id": "la1",
         "question": "The capacity of air to hold moisture\ndepends upon the ......... of the air.",
-        "modelAnswer": "The air is composed of approximately 21% oxygen. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: The capacity of air to hold moisture\ndepends upon the ......... of the air.",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "The air is composed of approximately 21% oxygen.",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la2",
         "question": "Water does not have a .............\nbut has definite .......... and .......... .",
-        "modelAnswer": "Water does not have a ............. but has definite .......... and .......... . This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Water does not have a ............. but has definite .......... and .......... . This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Water does not have a .............",
           "but has definite ..........",
@@ -518,30 +514,25 @@
       {
         "id": "la3",
         "question": "While freezing, the .................... of\nwater is lowered.",
-        "modelAnswer": "The air is composed of approximately 21% oxygen. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: While freezing, the .................... of\nwater is lowered.",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "The air is composed of approximately 21% oxygen.",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la4",
         "question": "................. soil has pH 7.",
-        "modelAnswer": "................. soil has pH 7. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "................. soil has pH 7. This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           ".................",
           "soil has pH 7.",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       },
       {
         "id": "la5",
         "question": "Why is it said that (a) Air is a homogeneous mixture of\nvarious gases.\n(b) Water is a universal solvent.\n(c) There is no alternative to water for\ncleaning purposes.",
-        "modelAnswer": "Why is it said that (a) Air is a homogeneous mixture of various gases. (b) Water is a universal solvent. (c) There is no alternative to water for cleaning purposes. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Why is it said that (a) Air is a homogeneous mixture of various gases. (b) Water is a universal solvent. (c) There is no alternative to water for cleaning purposes. This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Why is it said that (a) Air is a homogeneous mixture of various gases.",
           "(b) Water is a universal solvent.",
@@ -553,33 +544,24 @@
       {
         "id": "la6",
         "question": "Air is a homogeneous mixture of\nvarious gases.",
-        "modelAnswer": "The air is composed of approximately 21% oxygen. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: Air is a homogeneous mixture of\nvarious gases.",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "The air is composed of approximately 21% oxygen.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la7",
         "question": "Water is a universal solvent.",
-        "modelAnswer": "Its chemical properties allow it to dissolve a wide variety of substances, making it a 'universal solvent'. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: Water is a universal solvent.",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "Its chemical properties allow it to dissolve a wide variety of substances, making it a 'universal solvent'.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la8",
         "question": "There is no alternative to water for\ncleaning purposes.",
-        "modelAnswer": "There is no alternative to water for cleaning purposes. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "There is no alternative to water for cleaning purposes. This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "There is no alternative to water for cleaning purposes.",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       }

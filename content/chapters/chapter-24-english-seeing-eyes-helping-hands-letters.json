@@ -403,73 +403,73 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What did students do in the 'Seeing Eyes Helping Hands' project?",
-        "modelAnswer": "As part of the 'Seeing Eyes Helping Hands' project, the students visited a Home for the Aged. They actively helped the elderly residents with their daily tasks to make their lives easier. Additionally, the students conducted story-telling sessions and spent quality time listening to the residents' memories. This compassionate effort brought joy to the elderly and taught the students the value of empathy.",
+        "question": "Write a formal letter to your Principal requesting permission to run the “Seeing Eyes, Helping Hands” support activity in school.",
+        "modelAnswer": "To,\nThe Principal,\n[School Name]\n\nSubject: Permission to conduct “Seeing Eyes, Helping Hands” support activity\n\nRespected Sir/Madam,\nI am a student of Class VII. I request permission to conduct a student volunteer activity titled “Seeing Eyes, Helping Hands” to assist visually challenged and other needy community members through reading support, mobility assistance, and awareness sessions.\nWe propose to run it once a week under teacher guidance with proper safety and discipline. This activity will build empathy, responsibility, and social awareness among students.\nKindly grant permission to begin the programme and allow us to submit a detailed plan.\n\nThank you.\nYours faithfully,\n[Name]\nClass VII\n",
         "keyPoints": [
-          "Visited a Home for the Aged.",
-          "Helped elderly residents with daily tasks.",
-          "Conducted story-telling sessions and spent quality time.",
-          "Taught students empathy and brought joy to residents."
+          "Use formal format: address, subject, salutation, closing.",
+          "State request clearly and respectfully.",
+          "Mention educational and social value of activity.",
+          "Assure supervision and discipline."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la2",
-        "question": "Why did Mr Bendre visit the Principal?",
-        "modelAnswer": "Mr Bendre, a parent whose son and nephew participated in the project, visited the Principal personally to express his deep gratitude. He noticed a remarkable positive change in the thinking and behaviour of his son and nephew at home. They had become more considerate, helpful, and empathetic towards elderly people after their visit. His visit highlighted that the project successfully transformed the students into better individuals.",
+        "question": "Write an informal letter to your friend describing your participation in the “Seeing Eyes, Helping Hands” project.",
+        "modelAnswer": "[Your Address]\n[Date]\n\nDear Rohan,\n\nI hope you are doing well. I want to share something meaningful I did this week in school. I joined a project called “Seeing Eyes, Helping Hands.” Our group visited a support centre and helped by reading aloud, arranging study materials, and guiding people around the campus.\nAt first I felt nervous, but later I understood how small acts of care can make a big difference. The experience changed my thinking. I now feel more patient and responsible.\nYou should also join such work in your school. It teaches humanity better than any lecture.\n\nYours lovingly,\n[Name]\n",
         "keyPoints": [
-          "Visited to express gratitude for the project.",
-          "Noticed positive behavioral changes in his son and nephew.",
-          "The boys became more considerate, helpful, and empathetic.",
-          "Highlighted the transformational success of the project."
+          "Informal letter tone should be warm and personal.",
+          "Include address, date, salutation, body, and friendly closing.",
+          "Describe experience, feelings, and learning.",
+          "Use simple conversational language."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la3",
-        "question": "What is the correct salutation for an INFORMAL letter to a friend?",
-        "modelAnswer": "In an informal letter written to a friend, the salutation is warm, personal, and friendly. The correct salutation usually starts with 'Dear' or 'My dear' followed by the friend's first name, for example, 'Dear Priya' or 'My dear Aarav'. Unlike formal letters that use titles like 'Sir' or 'Madam', informal letters use a relaxed tone to show a personal connection. This sets a conversational and affectionate mood right from the beginning of the letter.",
+        "question": "Differentiate between formal and informal letters with suitable examples.",
+        "modelAnswer": "A formal letter is written to authorities, institutions, or unfamiliar persons for official purposes such as requests, complaints, applications, or notices. It uses polite, precise, and objective language with fixed structure (subject line, formal salutation, formal closing). An informal letter is written to friends or relatives in a personal tone and may include feelings, casual expression, and flexible style. For example, a leave request to Principal is formal, while describing a school event to a cousin is informal.",
         "keyPoints": [
-          "Salutation is warm, personal, and friendly.",
-          "Starts with 'Dear' or 'My dear' followed by the first name.",
-          "Avoids formal titles like 'Sir' or 'Madam'.",
-          "Sets a conversational and affectionate mood."
+          "Formal: official purpose, structured format, polite objective tone.",
+          "Informal: personal purpose, conversational style, emotional expression.",
+          "Audience and purpose decide letter type.",
+          "Examples clarify practical distinction."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What is the closing phrase for a FORMAL letter?",
-        "modelAnswer": "A formal letter is written to officials, strangers, or organizations, and it requires a polite and professional closing phrase. The standard closing phrase for a formal letter is 'Yours faithfully' or 'Yours sincerely'. This closing shows respect and maintains the business-like tone of the correspondence. It is completely different from informal letters, which use casual and warm closings like 'Yours lovingly'.",
+        "question": "Explain the correct structure of a formal letter used in school communication.",
+        "modelAnswer": "A standard formal letter includes: sender details/date, receiver designation and address, subject line, respectful salutation, concise body (purpose + supporting details + request), courteous closing, signature, and class/roll details if required. Sentences should be clear and grammatically correct. Avoid slang, contractions, and unnecessary emotional language. Proper format improves readability and increases chance of positive response.",
         "keyPoints": [
-          "Used for official and professional correspondence.",
-          "The standard closing is 'Yours faithfully' or 'Yours sincerely'.",
-          "Shows respect and maintains a business-like tone.",
-          "Contrasts with warm, casual closings of informal letters."
+          "Follow complete formal sequence from address to signature.",
+          "Use clear and concise paragraphs.",
+          "Keep tone respectful and professional.",
+          "Accuracy in format and grammar is essential."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "In an informal letter format, what comes immediately after the date?",
-        "modelAnswer": "In the format of an informal letter, the salutation comes immediately after the date. Since informal letters are written to friends and family, there is no need to include the receiver's official address or a subject line. Instead, the writer directly greets the recipient using a warm salutation like 'Dear [Name]' or 'My dear [Name]'. This direct transition makes the letter feel more personal and conversational right from the start.",
+        "question": "Why is correct salutation and closing important in letter writing?",
+        "modelAnswer": "Salutation and closing establish tone, respect, and relationship between writer and reader. A correct salutation ensures appropriateness (for example, “Respected Sir/Madam” for formal letters, “Dear friend” for informal letters). Proper closing creates politeness and completeness. Incorrect opening or ending can make a letter sound rude, confusing, or unprofessional.",
         "keyPoints": [
-          "The salutation comes immediately after the date.",
-          "Receiver's address and subject line are omitted.",
-          "Uses warm greetings like 'Dear' or 'My dear'.",
-          "Makes the letter feel personal and conversational."
+          "Openings/closings define tone and relationship.",
+          "They signal respect and writing etiquette.",
+          "Correct usage improves clarity and acceptance.",
+          "Wrong forms can weaken communication impact."
         ],
-        "marks": 5
+        "marks": 4
       },
       {
         "id": "la6",
-        "question": "What is the language style of an informal letter?",
-        "modelAnswer": "The language style of an informal letter is highly warm, friendly, and conversational, reflecting a close personal relationship. It allows the writer to share personal news, feelings, memories, and even light humour in a relaxed tone. Casual expressions and everyday vocabulary are encouraged, unlike the stiff and precise language used in formal letters. This style makes the recipient feel connected and cherished, as if they are having a direct conversation with the writer.",
+        "question": "Reflective writing: What values do students learn through service-based activities like “Seeing Eyes, Helping Hands”?",
+        "modelAnswer": "Service-based activities teach empathy, patience, responsibility, teamwork, and dignity for all individuals. Students move from sympathy to meaningful action by helping with practical needs. Such experiences strengthen communication skills and social maturity. They also build a sense of citizenship by showing that education is not only for marks, but also for humane contribution.",
         "keyPoints": [
-          "Language is warm, friendly, and conversational.",
-          "Allows sharing of personal feelings, memories, and humour.",
-          "Casual expressions and everyday vocabulary are used.",
-          "Makes the recipient feel connected as in a direct conversation."
+          "Builds empathy and social sensitivity.",
+          "Encourages responsibility and teamwork.",
+          "Develops practical communication and civic values.",
+          "Connects learning with real-life human service."
         ],
         "marks": 5
       }

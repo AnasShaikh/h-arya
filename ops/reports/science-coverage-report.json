@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-02-28T06:34:32.397Z",
+  "generatedAtUtc": "2026-03-01T08:41:04.549Z",
   "summary": {
     "activeCurriculumRows": 20,
     "scienceContentFiles": 22,
@@ -69,7 +69,7 @@
       "chapterNumber": 7,
       "chapterName": "Motion, Force and Work",
       "file": "chapter-7-science-7-motion-force-work.json",
-      "gradeInFile": null,
+      "gradeInFile": 7,
       "preAssessmentCount": 5,
       "testCount": 8,
       "conceptsCount": 3
@@ -87,7 +87,7 @@
       "chapterNumber": 9,
       "chapterName": "Heat",
       "file": "chapter-9-science-7-heat.json",
-      "gradeInFile": null,
+      "gradeInFile": 7,
       "preAssessmentCount": 5,
       "testCount": 8,
       "conceptsCount": 3

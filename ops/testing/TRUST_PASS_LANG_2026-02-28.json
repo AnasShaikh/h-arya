@@ -1,0 +1,46 @@
+{
+  "reportDate": "2026-02-28",
+  "subject": "Languages",
+  "grade": 7,
+  "stats": {
+    "reviewed": 58,
+    "flagged": 3,
+    "fixed": 3,
+    "remainingRisk": 0
+  },
+  "modifiedFiles": [
+    "content/chapters/chapter-2-english-odd-one-in.json",
+    "content/chapters/chapter-5-hindi-bandar-ka-dhandha.json",
+    "content/chapters/chapter-2-marathi-shyam-brotherly-love.json"
+  ],
+  "verificationLog": [
+    {
+      "chapter": "Odd One In",
+      "subject": "English",
+      "checks": {
+        "preAssessment": "Clear",
+        "concepts": "Coherent",
+        "longAnswers": "Optimized for character depth"
+      }
+    },
+    {
+      "chapter": "बंदर का धंधा",
+      "subject": "Hindi",
+      "checks": {
+        "preAssessment": "Improved difficulty",
+        "concepts": "Ayurvedic specifics added",
+        "longAnswers": "Refined for poetic nuances"
+      }
+    },
+    {
+      "chapter": "श्यामचे बंधुप्रेम",
+      "subject": "Marathi",
+      "checks": {
+        "preAssessment": "Grammar aligned",
+        "concepts": "4 Adverb types verified",
+        "longAnswers": "High quality"
+      }
+    }
+  ],
+  "buildStatus": "PASSED"
+}

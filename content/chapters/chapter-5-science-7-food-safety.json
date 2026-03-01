@@ -78,7 +78,7 @@
     {
       "id": 1,
       "title": "Food Spoilage",
-      "emoji": "🤢",
+      "emoji": "\ud83e\udd22",
       "colorTheme": "from-amber-500 to-orange-600",
       "bgColor": "bg-amber-50",
       "borderColor": "border-amber-300",
@@ -118,7 +118,7 @@
     {
       "id": 2,
       "title": "Methods of Food Preservation",
-      "emoji": "🔒",
+      "emoji": "\ud83d\udd12",
       "colorTheme": "from-sky-500 to-blue-600",
       "bgColor": "bg-sky-50",
       "borderColor": "border-sky-300",
@@ -158,7 +158,7 @@
     {
       "id": 3,
       "title": "Food Adulteration",
-      "emoji": "🚫",
+      "emoji": "\ud83d\udeab",
       "colorTheme": "from-red-500 to-rose-600",
       "bgColor": "bg-red-50",
       "borderColor": "border-red-300",
@@ -390,7 +390,7 @@
   },
   "textbookExercise": {
     "chapterName": "Food Safety",
-    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers \u2014 these appear in school exams!",
     "questions": [
       {
         "number": 1,
@@ -414,7 +414,7 @@
           "How does food spoilage occur ?\nWhich are the various factors\nspoiling the food ?",
           "Which methods of food preservation\nwould you use ?\n\f3. What shall we do?",
           "There are vendors selling uncovered\nsweetmeats in open places in the\nmarket.",
-          "A ‘pani-puriwalla’ is serving the\npani puri with dirty hands.",
+          "A \u2018pani-puriwalla\u2019 is serving the\npani puri with dirty hands.",
           "We have purchased a large quantity\nof fruits and vegetables."
         ]
       },
@@ -460,7 +460,7 @@
         ]
       }
     ],
-    "rawText": "1. Complete the following statements by\nusing the correct option from those\ngiven below.\n(Irradiation, dehydration, pasteurization,\nnatural, chemical)\n(a) Drying the food grains from farms\nunder the hot sun is called .......... .\n(b) Materials like milk are instantly\ncooled after heating up to a certain\nhigh temperature. This method of\nfood preservation is called ............ .\n(c) Salt is a .................. type of food\npreservative.\n(d) Vinegar is a .................. type of\nfood preservative.\n39\n2. Answer the following questions in\nyour own words.\n(a) How is milk pasteurized ?\n(b) Why should we not consume\nadulterated food materials ?\n(c) What precautions do your parents\ntake to keep foodstuffs safe ?\n(d) How does food spoilage occur ?\nWhich are the various factors\nspoiling the food ?\n(e) Which methods of food preservation\nwould you use ?\n\f3. What shall we do?\n(a) There are vendors selling uncovered\nsweetmeats in open places in the\nmarket.\n(b) A ‘pani-puriwalla’ is serving the\npani puri with dirty hands.\n(c) We have purchased a large quantity\nof fruits and vegetables.\n(d) We need to protect foodstuffs from\npests like rats, cockroaches, wall-lizards, etc.\n6. Explain why this happens and suggest\npossible remedies.\n(a) Qualitative wastage of food.\n(b) The cooked rice is underdone.\n(c) The wheat that was bought is a bit\nmoist.\n(d) The taste of yoghurt is too sour/slightly\nbitter.\n(e) Cut fruits have turned black.\n7. Give reasons.\n1. Food remains safe at 5o Celsius.\n2. Nowadays, food is served buffet style\nduring large gatherings.\n4. Find the odd-man-out.\n(a) salt, vinegar, citric acid, sodium\nbenzoate\n(b) lakhi dal, brick dust, metanyl yellow,\nturmeric powder\n(c) banana, apple, guava, almond\n(d) storing, freezing, settling, drying",
+    "rawText": "1. Complete the following statements by\nusing the correct option from those\ngiven below.\n(Irradiation, dehydration, pasteurization,\nnatural, chemical)\n(a) Drying the food grains from farms\nunder the hot sun is called .......... .\n(b) Materials like milk are instantly\ncooled after heating up to a certain\nhigh temperature. This method of\nfood preservation is called ............ .\n(c) Salt is a .................. type of food\npreservative.\n(d) Vinegar is a .................. type of\nfood preservative.\n39\n2. Answer the following questions in\nyour own words.\n(a) How is milk pasteurized ?\n(b) Why should we not consume\nadulterated food materials ?\n(c) What precautions do your parents\ntake to keep foodstuffs safe ?\n(d) How does food spoilage occur ?\nWhich are the various factors\nspoiling the food ?\n(e) Which methods of food preservation\nwould you use ?\n\f3. What shall we do?\n(a) There are vendors selling uncovered\nsweetmeats in open places in the\nmarket.\n(b) A \u2018pani-puriwalla\u2019 is serving the\npani puri with dirty hands.\n(c) We have purchased a large quantity\nof fruits and vegetables.\n(d) We need to protect foodstuffs from\npests like rats, cockroaches, wall-lizards, etc.\n6. Explain why this happens and suggest\npossible remedies.\n(a) Qualitative wastage of food.\n(b) The cooked rice is underdone.\n(c) The wheat that was bought is a bit\nmoist.\n(d) The taste of yoghurt is too sour/slightly\nbitter.\n(e) Cut fruits have turned black.\n7. Give reasons.\n1. Food remains safe at 5o Celsius.\n2. Nowadays, food is served buffet style\nduring large gatherings.\n4. Find the odd-man-out.\n(a) salt, vinegar, citric acid, sodium\nbenzoate\n(b) lakhi dal, brick dust, metanyl yellow,\nturmeric powder\n(c) banana, apple, guava, almond\n(d) storing, freezing, settling, drying",
     "qaCards": [
       {
         "question": "Why is salt used to preserve fish and pickles?",
@@ -507,52 +507,42 @@
       {
         "id": "la1",
         "question": "Drying the food grains from farms\nunder the hot sun is called .......... .",
-        "modelAnswer": "Microorganisms need water to grow and multiply. Removing water (dehydration) stops them from spoiling the food. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Microorganisms need water to grow and multiply. Removing water (dehydration) stops them from spoiling the food.",
         "keyPoints": [
           "Microorganisms need water to grow and multiply.",
-          "Removing water (dehydration) stops them from spoiling the food.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Removing water (dehydration) stops them from spoiling the food."
         ],
         "marks": 3
       },
       {
         "id": "la2",
         "question": "Materials like milk are instantly\ncooled after heating up to a certain\nhigh temperature. This method of\nfood preservation is called ............ .",
-        "modelAnswer": "Materials like milk are instantly cooled after heating up to a certain high temperature. This method of food preservation is called ............ . This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Materials like milk are instantly cooled after heating up to a certain high temperature. This method of food preservation is called ............ . This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Materials like milk are instantly cooled after heating up to a certain high temperature.",
           "This method of food preservation is called ............",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 3
       },
       {
         "id": "la3",
         "question": "Salt is a .................. type of food\npreservative.",
-        "modelAnswer": "A sour taste in milk is caused by bacteria converting lactose into lactic acid, a clear sign of spoilage. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: Salt is a .................. type of food\npreservative.",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "A sour taste in milk is caused by bacteria converting lactose into lactic acid, a clear sign of spoilage.",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la4",
         "question": "Vinegar is a .................. type of\nfood preservative.\n39",
-        "modelAnswer": "A sour taste in milk is caused by bacteria converting lactose into lactic acid, a clear sign of spoilage. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: Vinegar is a .................. type of\nfood preservative.\n39",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "A sour taste in milk is caused by bacteria converting lactose into lactic acid, a clear sign of spoilage.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la5",
         "question": "Answer the following questions in\nyour own words.\n(a) How is milk pasteurized ?\n(b) Why should we not consume\nadulterated food materials ?\n(c) What precautions do your parents\ntake to keep foodstuffs safe ?\n(d) How does food spoilage occur ?\nWhich are the various factors\nspoiling the food ?\n(e) Whic",
-        "modelAnswer": "Answer the following questions in your own words. (a) How is milk pasteurized ? (b) Why should we not consume adulterated food materials ? (c) What precautions do your parents take to keep foodstuffs safe ? (d) How does food spoilage occur ? Which are the various factors spoiling the food ? (e) Whic This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Answer the following questions in your own words. (a) How is milk pasteurized ? (b) Why should we not consume adulterated food materials ? (c) What precautions do your parents take to keep foodstuffs safe ? (d) How does food spoilage occur ? Which are the various factors spoiling the food ? (e) Whic This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Answer the following questions in your own words.",
           "(a) How is milk pasteurized ?",
@@ -564,33 +554,30 @@
       {
         "id": "la6",
         "question": "How is milk pasteurized ?",
-        "modelAnswer": "How is milk pasteurized ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "How is milk pasteurized ? This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "How is milk pasteurized ?",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       },
       {
         "id": "la7",
         "question": "Why should we not consume\nadulterated food materials ?",
-        "modelAnswer": "Why should we not consume adulterated food materials ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Why should we not consume adulterated food materials ? This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Why should we not consume adulterated food materials ?",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       },
       {
         "id": "la8",
         "question": "What precautions do your parents\ntake to keep foodstuffs safe ?",
-        "modelAnswer": "What precautions do your parents take to keep foodstuffs safe ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "What precautions do your parents take to keep foodstuffs safe ? This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "What precautions do your parents take to keep foodstuffs safe ?",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       }

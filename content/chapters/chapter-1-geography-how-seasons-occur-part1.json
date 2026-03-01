@@ -4,7 +4,8 @@
     "title": "How Seasons Occur - Part 1",
     "subject": "Geography",
     "pages": "1-2",
-    "description": "Earth's rotation, changing duration of day and night, shadow experiments, changing positions of sunrise and sunset"
+    "description": "Earth's rotation, changing duration of day and night, shadow experiments, changing positions of sunrise and sunset",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -77,24 +78,24 @@
     {
       "id": 1,
       "title": "Earth's Rotation and Day-Night",
-      "emoji": "🔄",
+      "emoji": "\ud83d\udd04",
       "colorTheme": "from-blue-400 to-cyan-500",
       "bgColor": "bg-blue-50",
       "borderColor": "border-blue-300",
-      "content": "The earth rotates around its own axis from west to east. It takes 24 hours to complete one rotation — this is one day. Because of this rotation, we experience different stages: sunrise, midday, sunset, and night. The side facing the sun experiences day; the side away from the sun experiences night.",
+      "content": "The earth rotates around its own axis from west to east. It takes 24 hours to complete one rotation \u2014 this is one day. Because of this rotation, we experience different stages: sunrise, midday, sunset, and night. The side facing the sun experiences day; the side away from the sun experiences night.",
       "pageReference": "1",
       "examples": [
         {
-          "icon": "🌅",
+          "icon": "\ud83c\udf05",
           "text": "Sunrise in Mumbai is earlier than in Nagpur because Earth rotates west to east"
         },
         {
-          "icon": "⏰",
-          "text": "IST (Indian Standard Time) is based on 82.5°E longitude, one time zone for all of India"
+          "icon": "\u23f0",
+          "text": "IST (Indian Standard Time) is based on 82.5\u00b0E longitude, one time zone for all of India"
         },
         {
-          "icon": "🌏",
-          "text": "When it is daytime in India, it is night in the USA — same Earth, different sides"
+          "icon": "\ud83c\udf0f",
+          "text": "When it is daytime in India, it is night in the USA \u2014 same Earth, different sides"
         }
       ],
       "keyPoints": [
@@ -104,13 +105,13 @@
         "Side facing sun = day; side away from sun = night",
         "Different stages in one day: sunrise, midday, sunset, night"
       ],
-      "funFact": "🌍 The Earth's rotation speed at the equator is about 1,670 km/h — faster than the fastest jet aircraft! Yet we don't feel it because everything around us moves at the same speed.",
+      "funFact": "\ud83c\udf0d The Earth's rotation speed at the equator is about 1,670 km/h \u2014 faster than the fastest jet aircraft! Yet we don't feel it because everything around us moves at the same speed.",
       "textbookRef": "Page 1: Earth's Rotation"
     },
     {
       "id": 2,
       "title": "Changing Duration of Day and Night",
-      "emoji": "📏",
+      "emoji": "\ud83d\udccf",
       "colorTheme": "from-purple-400 to-pink-500",
       "bgColor": "bg-purple-50",
       "borderColor": "border-purple-300",
@@ -118,15 +119,15 @@
       "pageReference": "1",
       "examples": [
         {
-          "icon": "☀️",
+          "icon": "\u2600\ufe0f",
           "text": "June 21 (Summer Solstice): longest day ~14 hours in North India, shortest night"
         },
         {
-          "icon": "🌙",
+          "icon": "\ud83c\udf19",
           "text": "December 22 (Winter Solstice): shortest day ~10 hours in North India, longest night"
         },
         {
-          "icon": "⚖️",
+          "icon": "\u2696\ufe0f",
           "text": "March 21 and September 23 (Equinoxes): day and night each exactly 12 hours"
         }
       ],
@@ -137,30 +138,30 @@
         "Days are shortest around December 22 (Winter Solstice)",
         "Activity: record sunrise/sunset times monthly to see the pattern"
       ],
-      "funFact": "🌞 At the North Pole, the sun never sets for 6 months (around April–September) — it's daylight all day! Then for the next 6 months, there's continuous night. Imagine sleeping in sunshine!",
-      "textbookRef": "Page 1: Activity Table — Recording Sunrise and Sunset"
+      "funFact": "\ud83c\udf1e At the North Pole, the sun never sets for 6 months (around April\u2013September) \u2014 it's daylight all day! Then for the next 6 months, there's continuous night. Imagine sleeping in sunshine!",
+      "textbookRef": "Page 1: Activity Table \u2014 Recording Sunrise and Sunset"
     },
     {
       "id": 3,
-      "title": "Shadow Experiment — Observing the Sun's Position",
-      "emoji": "🔦",
+      "title": "Shadow Experiment \u2014 Observing the Sun's Position",
+      "emoji": "\ud83d\udd26",
       "colorTheme": "from-green-400 to-emerald-500",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
-      "content": "The textbook describes a year-long experiment: fix a 1.5–1.7 m stick vertically near a wall that receives sunlight at sunrise or sunset. Record the position of the shadow once a week. Over the months from June to December, the position of the shadow changes — proving that the sun's position on the horizon shifts throughout the year.",
+      "content": "The textbook describes a year-long experiment: fix a 1.5\u20131.7 m stick vertically near a wall that receives sunlight at sunrise or sunset. Record the position of the shadow once a week. Over the months from June to December, the position of the shadow changes \u2014 proving that the sun's position on the horizon shifts throughout the year.",
       "pageReference": "2",
       "examples": [
         {
-          "icon": "🌅",
-          "text": "In June, the sun rises far north on the horizon — shadow falls towards south"
+          "icon": "\ud83c\udf05",
+          "text": "In June, the sun rises far north on the horizon \u2014 shadow falls towards south"
         },
         {
-          "icon": "❄️",
-          "text": "In December, the sun rises far south on the horizon — shadow falls towards north"
+          "icon": "\u2744\ufe0f",
+          "text": "In December, the sun rises far south on the horizon \u2014 shadow falls towards north"
         },
         {
-          "icon": "⚖️",
-          "text": "In September/March, the sun rises exactly in the East — shadow falls due west"
+          "icon": "\u2696\ufe0f",
+          "text": "In September/March, the sun rises exactly in the East \u2014 shadow falls due west"
         }
       ],
       "keyPoints": [
@@ -170,74 +171,74 @@
         "This change is caused by Earth's revolution around the sun",
         "Activity must be started in June and continued till December"
       ],
-      "funFact": "📐 Ancient Egyptians and Indians used shadow-based instruments called 'gnomon' to track the sun's path and determine seasons — the same principle as this textbook experiment, used thousands of years ago!",
+      "funFact": "\ud83d\udcd0 Ancient Egyptians and Indians used shadow-based instruments called 'gnomon' to track the sun's path and determine seasons \u2014 the same principle as this textbook experiment, used thousands of years ago!",
       "textbookRef": "Page 2: Shadow Experiment Activity"
     },
     {
       "id": 4,
       "title": "Changing Position of Sunrise and Sunset",
-      "emoji": "🧭",
+      "emoji": "\ud83e\udded",
       "colorTheme": "from-orange-400 to-red-500",
       "bgColor": "bg-orange-50",
       "borderColor": "border-orange-300",
-      "content": "As the shadow experiment shows, the position of the rising and setting sun on the horizon is NOT fixed — it keeps changing throughout the year. The sun rises exactly in the East only on the two equinoxes (March 21 and September 23). At other times, it rises north of east (in summer) or south of east (in winter) in the Northern Hemisphere. This is connected to Earth's revolution around the sun — to be studied further in Chapter 8.",
+      "content": "As the shadow experiment shows, the position of the rising and setting sun on the horizon is NOT fixed \u2014 it keeps changing throughout the year. The sun rises exactly in the East only on the two equinoxes (March 21 and September 23). At other times, it rises north of east (in summer) or south of east (in winter) in the Northern Hemisphere. This is connected to Earth's revolution around the sun \u2014 to be studied further in Chapter 8.",
       "pageReference": "2",
       "examples": [
         {
-          "icon": "🌅",
-          "text": "June 21: Sun rises towards northeast in Northern Hemisphere — longest day"
+          "icon": "\ud83c\udf05",
+          "text": "June 21: Sun rises towards northeast in Northern Hemisphere \u2014 longest day"
         },
         {
-          "icon": "⬇️",
+          "icon": "\u2b07\ufe0f",
           "text": "After June 21: sunrise position moves southward day by day"
         },
         {
-          "icon": "⚖️",
-          "text": "September 23: Sun rises exactly East — day = night = 12 hours (Equinox)"
+          "icon": "\u2696\ufe0f",
+          "text": "September 23: Sun rises exactly East \u2014 day = night = 12 hours (Equinox)"
         }
       ],
       "keyPoints": [
         "Sun does NOT always rise exactly in the East",
         "Equinoxes (Mar 21, Sep 23): sun rises due East, day = night = 12 hours",
-        "Summer Solstice (Jun 21): sun rises northeast — longest day in Northern Hemisphere",
-        "Winter Solstice (Dec 22): sun rises southeast — shortest day in Northern Hemisphere",
+        "Summer Solstice (Jun 21): sun rises northeast \u2014 longest day in Northern Hemisphere",
+        "Winter Solstice (Dec 22): sun rises southeast \u2014 shortest day in Northern Hemisphere",
         "This change happens because Earth's axis is tilted as it revolves around the sun"
       ],
-      "funFact": "🧭 Stonehenge in England was built ~5000 years ago specifically aligned to the sunrise position on the Summer Solstice! Ancient peoples were so observant of the changing sunrise position that they built stone monuments to track it.",
-      "textbookRef": "Page 2: Observation Activity — Sunrise and Sunset Positions"
+      "funFact": "\ud83e\udded Stonehenge in England was built ~5000 years ago specifically aligned to the sunrise position on the Summer Solstice! Ancient peoples were so observant of the changing sunrise position that they built stone monuments to track it.",
+      "textbookRef": "Page 2: Observation Activity \u2014 Sunrise and Sunset Positions"
     },
     {
       "id": 5,
-      "title": "Connection to Seasons — A Preview",
-      "emoji": "🍂",
+      "title": "Connection to Seasons \u2014 A Preview",
+      "emoji": "\ud83c\udf42",
       "colorTheme": "from-indigo-400 to-purple-500",
       "bgColor": "bg-indigo-50",
       "borderColor": "border-indigo-300",
-      "content": "Chapter 1 is the first part of a two-part lesson on seasons. It establishes through observation that: (1) the duration of day and night changes throughout the year, (2) the position of sunrise/sunset on the horizon changes throughout the year. These observations lead to the question: WHY? The answer — the Earth's tilted axis and revolution around the sun — is explored fully in Chapter 8 (Part 2), to be studied around December 22.",
+      "content": "Chapter 1 is the first part of a two-part lesson on seasons. It establishes through observation that: (1) the duration of day and night changes throughout the year, (2) the position of sunrise/sunset on the horizon changes throughout the year. These observations lead to the question: WHY? The answer \u2014 the Earth's tilted axis and revolution around the sun \u2014 is explored fully in Chapter 8 (Part 2), to be studied around December 22.",
       "pageReference": "2",
       "examples": [
         {
-          "icon": "🔬",
+          "icon": "\ud83d\udd2c",
           "text": "Scientific method: first observe (Ch1), then explain (Ch8)"
         },
         {
-          "icon": "☀️",
+          "icon": "\u2600\ufe0f",
           "text": "More direct sunlight = more heat = summer; less direct = less heat = winter"
         },
         {
-          "icon": "🌍",
-          "text": "When Northern Hemisphere has summer, Southern Hemisphere has winter — opposite seasons!"
+          "icon": "\ud83c\udf0d",
+          "text": "When Northern Hemisphere has summer, Southern Hemisphere has winter \u2014 opposite seasons!"
         }
       ],
       "keyPoints": [
-        "Chapter 1 is observation; Chapter 8 is explanation — they are two parts of the same lesson",
+        "Chapter 1 is observation; Chapter 8 is explanation \u2014 they are two parts of the same lesson",
         "Ch1 is taught in June-September; Ch8 is taught around December 22",
         "The changing day length and sunrise position are caused by Earth's tilted axis + revolution",
         "Seasons result from varying intensity and duration of sunlight received",
         "India receives direct sunlight in summer (more heat), oblique in winter (less heat)"
       ],
-      "funFact": "🌏 India experiences a monsoon season — a 5th season not seen in most of the world! The monsoon is caused by seasonal reversal of winds, which is itself related to the differential heating of land and sea across seasons.",
-      "textbookRef": "Page 2: Note — Chapter 8 to be studied around December 22"
+      "funFact": "\ud83c\udf0f India experiences a monsoon season \u2014 a 5th season not seen in most of the world! The monsoon is caused by seasonal reversal of winds, which is itself related to the differential heating of land and sea across seasons.",
+      "textbookRef": "Page 2: Note \u2014 Chapter 8 to be studied around December 22"
     }
   ],
   "test": [
@@ -251,7 +252,7 @@
         "30 days"
       ],
       "correctAnswer": "A",
-      "explanation": "The Earth completes one rotation around its own axis in 24 hours — this gives us one complete day (including both daytime and nighttime).",
+      "explanation": "The Earth completes one rotation around its own axis in 24 hours \u2014 this gives us one complete day (including both daytime and nighttime).",
       "conceptIds": [
         1
       ],
@@ -283,7 +284,7 @@
         "April 21 and October 21"
       ],
       "correctAnswer": "A",
-      "explanation": "The equinoxes — March 21 (Vernal Equinox) and September 23 (Autumnal Equinox) — are the two days when day and night each last exactly 12 hours everywhere on Earth.",
+      "explanation": "The equinoxes \u2014 March 21 (Vernal Equinox) and September 23 (Autumnal Equinox) \u2014 are the two days when day and night each last exactly 12 hours everywhere on Earth.",
       "conceptIds": [
         3,
         4
@@ -297,7 +298,7 @@
         "Vertically near a wall that receives sunlight at sunrise/sunset throughout the year",
         "Horizontally on the ground",
         "Anywhere in the classroom",
-        "At an angle of 45°"
+        "At an angle of 45\u00b0"
       ],
       "correctAnswer": "A",
       "explanation": "The stick must be fixed vertically near a wall that receives sunlight at the time of sunrise or sunset throughout the year so that the shadow position can be observed consistently.",
@@ -326,10 +327,10 @@
       "id": "q6",
       "question": "The position of sunrise on the horizon is the same every day of the year.",
       "options": [
-        "False — it keeps changing throughout the year",
-        "True — it always rises exactly in the East",
-        "True — but only in India",
-        "False — it only changes in summer"
+        "False \u2014 it keeps changing throughout the year",
+        "True \u2014 it always rises exactly in the East",
+        "True \u2014 but only in India",
+        "False \u2014 it only changes in summer"
       ],
       "correctAnswer": "A",
       "explanation": "The position of sunrise on the horizon changes throughout the year. The sun rises due East only on the two equinoxes. At other times it rises north of east (summer) or south of east (winter) in the Northern Hemisphere.",
@@ -364,7 +365,7 @@
         "Because the sun gets closer to Earth in summer"
       ],
       "correctAnswer": "A",
-      "explanation": "The changing position of the shadow reflects the changing position of sunrise/sunset on the horizon. This change is caused by Earth's revolution around the sun combined with its tilted axis — fully explained in Chapter 8.",
+      "explanation": "The changing position of the shadow reflects the changing position of sunrise/sunset on the horizon. This change is caused by Earth's revolution around the sun combined with its tilted axis \u2014 fully explained in Chapter 8.",
       "conceptIds": [
         4,
         5
@@ -397,7 +398,7 @@
         "The shadow gets taller"
       ],
       "correctAnswer": "A",
-      "explanation": "This experiment illustrates how as the position of the table (representing the Earth) changes, the shadow position changes too — just like the Earth's changing position in its orbit causes the sun's apparent position (and shadow) to change.",
+      "explanation": "This experiment illustrates how as the position of the table (representing the Earth) changes, the shadow position changes too \u2014 just like the Earth's changing position in its orbit causes the sun's apparent position (and shadow) to change.",
       "conceptIds": [
         3
       ],
@@ -416,17 +417,17 @@
       "Chapter 1 = observations; Chapter 8 = scientific explanation of seasons"
     ],
     "commonMisconceptions": [
-      "The sun always rises exactly in the East — FALSE, only on equinoxes",
-      "Day and night are always equal in length — FALSE, only on equinoxes",
-      "Seasons are caused by Earth's distance from the sun — FALSE, caused by tilted axis + revolution",
-      "Summer is when Earth is closest to the sun — FALSE, Earth is actually closest to the sun in January (winter for Northern Hemisphere)"
+      "The sun always rises exactly in the East \u2014 FALSE, only on equinoxes",
+      "Day and night are always equal in length \u2014 FALSE, only on equinoxes",
+      "Seasons are caused by Earth's distance from the sun \u2014 FALSE, caused by tilted axis + revolution",
+      "Summer is when Earth is closest to the sun \u2014 FALSE, Earth is actually closest to the sun in January (winter for Northern Hemisphere)"
     ],
     "realWorldExamples": [
       "Mumbai residents can observe longer evenings in June compared to December",
       "Farmers in Maharashtra use seasonal day-length changes to plan sowing and harvesting",
-      "IST (Indian Standard Time) is based on Earth's rotation — 1 hour for every 15° longitude",
+      "IST (Indian Standard Time) is based on Earth's rotation \u2014 1 hour for every 15\u00b0 longitude",
       "Solar energy panels in India are tilted at an angle matching India's latitude to maximise sunlight",
-      "Uttarayan (Makar Sankranti, Jan 14) — celebrated when the sun starts moving northward — directly connected to this chapter"
+      "Uttarayan (Makar Sankranti, Jan 14) \u2014 celebrated when the sun starts moving northward \u2014 directly connected to this chapter"
     ],
     "formulas": [
       {
@@ -475,7 +476,7 @@
     "qaCards": [
       {
         "question": "How long does the Earth take to complete one rotation on its own axis?",
-        "answer": "The Earth completes one rotation around its own axis in 24 hours — this gives us one complete day (including both daytime and nighttime).",
+        "answer": "The Earth completes one rotation around its own axis in 24 hours \u2014 this gives us one complete day (including both daytime and nighttime).",
         "source": "chapter_test_explanation"
       },
       {
@@ -485,7 +486,7 @@
       },
       {
         "question": "On which dates do day and night have equal duration (12 hours each)?",
-        "answer": "The equinoxes — March 21 (Vernal Equinox) and September 23 (Autumnal Equinox) — are the two days when day and night each last exactly 12 hours everywhere on Earth.",
+        "answer": "The equinoxes \u2014 March 21 (Vernal Equinox) and September 23 (Autumnal Equinox) \u2014 are the two days when day and night each last exactly 12 hours everywhere on Earth.",
         "source": "chapter_test_explanation"
       },
       {
@@ -510,7 +511,7 @@
       },
       {
         "question": "Why does the shadow position of the stick change from month to month?",
-        "answer": "The changing position of the shadow reflects the changing position of sunrise/sunset on the horizon. This change is caused by Earth's revolution around the sun combined with its tilted axis — fully explained in Chapter 8.",
+        "answer": "The changing position of the shadow reflects the changing position of sunrise/sunset on the horizon. This change is caused by Earth's revolution around the sun combined with its tilted axis \u2014 fully explained in Chapter 8.",
         "source": "chapter_test_explanation"
       },
       {
@@ -520,7 +521,7 @@
       },
       {
         "question": "If a torch is pointed at a rod on a table and the table is moved sideways, what happens to the shadow?",
-        "answer": "This experiment illustrates how as the position of the table (representing the Earth) changes, the shadow position changes too — just like the Earth's changing position in its orbit causes the sun's apparent position (and shadow) to change.",
+        "answer": "This experiment illustrates how as the position of the table (representing the Earth) changes, the shadow position changes too \u2014 just like the Earth's changing position in its orbit causes the sun's apparent position (and shadow) to change.",
         "source": "chapter_test_explanation"
       }
     ],
@@ -528,44 +529,34 @@
       {
         "id": "la1",
         "question": "How long does the Earth take to complete one rotation on its own axis?",
-        "modelAnswer": "The Earth completes one rotation around its own axis in 24 hours — this gives us one complete day (including both daytime and nighttime). This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: How long does the Earth take to complete one rotation on its own axis?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "The Earth completes one rotation around its own axis in 24 hours \u2014 this gives us one complete day (including both daytime and nighttime).",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la2",
         "question": "Why does the shadow position of the stick change from month to month?",
-        "modelAnswer": "The changing position of the shadow reflects the changing position of sunrise/sunset on the horizon. This change is caused by Earth's revolution around the sun combined with its tilted axis — fully explained in Chapter 8. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "The changing position of the shadow reflects the changing position of sunrise/sunset on the horizon. This change is caused by Earth's revolution around the sun combined with its tilted axis \u2014 fully explained in Chapter 8.",
         "keyPoints": [
           "The changing position of the shadow reflects the changing position of sunrise/sunset on the horizon.",
-          "This change is caused by Earth's revolution around the sun combined with its tilted axis — fully explained in Chapter 8.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This change is caused by Earth's revolution around the sun combined with its tilted axis \u2014 fully explained in Chapter 8."
         ],
         "marks": 3
       },
       {
         "id": "la3",
         "question": "If a torch is pointed at a rod on a table and the table is moved sideways, what happens to the shadow?",
-        "modelAnswer": "This experiment illustrates how as the position of the table (representing the Earth) changes, the shadow position changes too — just like the Earth's changing position in its orbit causes the sun's apparent position (and shadow) to change. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: If a torch is pointed at a rod on a table and the table is moved sideways, what happens to the shadow?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "This experiment illustrates how as the position of the table (representing the Earth) changes, the shadow position changes too \u2014 just like the Earth's changing position in its orbit causes the sun's apparent position (and shadow) to change.",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la4",
         "question": "In which direction does the Earth rotate?",
-        "modelAnswer": "The Earth rotates from west to east (anti-clockwise when viewed from the North Pole). This is why the sun appears to rise in the east and set in the west. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "The Earth rotates from west to east (anti-clockwise when viewed from the North Pole). This is why the sun appears to rise in the east and set in the west.",
         "keyPoints": [
           "The Earth rotates from west to east (anti-clockwise when viewed from the North Pole).",
-          "This is why the sun appears to rise in the east and set in the west.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This is why the sun appears to rise in the east and set in the west."
         ],
         "marks": 3
       }

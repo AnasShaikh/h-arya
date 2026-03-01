@@ -10,10 +10,16 @@ interface Message {
   timestamp: string;
 }
 
+interface DisplayedMessage extends Message {
+  displayed: string;
+  isTyping: boolean;
+}
+
 export default function ChatSession() {
   const params = useParams();
   const router = useRouter();
   const [messages, setMessages] = useState<Message[]>([]);
+  const [displayedMessages, setDisplayedMessages] = useState<DisplayedMessage[]>([]);
   const [inputValue, setInputValue] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [sessionId, setSessionId] = useState<number | null>(null);
@@ -37,6 +43,50 @@ export default function ChatSession() {
     // Auto-scroll to bottom when new messages arrive
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages]);
+
+
+  useEffect(() => {
+    setDisplayedMessages((prev) => {
+      const prevMap = new Map(prev.map((msg) => [msg.id, msg]));
+      return messages.map((message) => {
+        const existing = prevMap.get(message.id);
+        if (existing) return existing;
+        return {
+          ...message,
+          displayed: message.role === 'assistant' ? '' : message.content,
+          isTyping: message.role === 'assistant',
+        };
+      });
+    });
+  }, [messages]);
+
+  useEffect(() => {
+    const last = messages[messages.length - 1];
+    if (!last || last.role !== 'assistant') return;
+
+    let i = 0;
+    const fullText = last.content;
+
+    setDisplayedMessages((prev) => prev.map((msg) => (
+      msg.id === last.id ? { ...msg, displayed: '', isTyping: true } : msg
+    )));
+
+    const interval = setInterval(() => {
+      i += 1;
+      setDisplayedMessages((prev) => prev.map((msg) => {
+        if (msg.id !== last.id) return msg;
+        return {
+          ...msg,
+          displayed: fullText.slice(0, i),
+          isTyping: i < fullText.length,
+        };
+      }));
+
+      if (i >= fullText.length) clearInterval(interval);
+    }, 18);
+
+    return () => clearInterval(interval);
+  }, [messages.length]);
 
   const initializeChat = async () => {
     try {
@@ -249,6 +299,12 @@ export default function ChatSession() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-violet-50 to-indigo-50 flex flex-col">
+      <style>{`
+        @keyframes fadeUp {
+          from { opacity: 0; transform: translateY(12px); }
+          to { opacity: 1; transform: translateY(0); }
+        }
+      `}</style>
       <header className="p-4">
         <div className="max-w-5xl mx-auto bg-white rounded-3xl shadow-xl border border-violet-100 px-6 py-4 flex justify-between items-center gap-4">
           <div>
@@ -290,10 +346,11 @@ export default function ChatSession() {
 
       <div className="flex-1 overflow-y-auto px-4 pb-36">
         <div className="max-w-5xl mx-auto space-y-4">
-          {messages.map((message) => (
+          {displayedMessages.map((message) => (
             <div
               key={message.id}
               className={`flex ${message.role === 'user' ? 'justify-end' : 'justify-start'}`}
+              style={{ animation: 'fadeUp 0.25s ease-out forwards' }}
             >
               <div
                 className={`max-w-[80%] rounded-2xl px-5 py-4 ${
@@ -308,21 +365,20 @@ export default function ChatSession() {
                     <span className="font-semibold text-violet-600">H-Arya</span>
                   </div>
                 )}
-                <p className="whitespace-pre-wrap">{message.content}</p>
+                <p className="whitespace-pre-wrap">{message.displayed}</p>
               </div>
             </div>
           ))}
           {isLoading && (
-            <div className="flex justify-start">
-              <div className="bg-white rounded-2xl px-5 py-4 shadow-md border border-violet-100">
-                <div className="flex items-center">
-                  <span className="text-2xl mr-2">🤖</span>
-                  <div className="flex space-x-1">
-                    <div className="w-2 h-2 bg-violet-600 rounded-full animate-bounce"></div>
-                    <div className="w-2 h-2 bg-violet-600 rounded-full animate-bounce" style={{ animationDelay: '0.1s' }}></div>
-                    <div className="w-2 h-2 bg-violet-600 rounded-full animate-bounce" style={{ animationDelay: '0.2s' }}></div>
-                  </div>
-                </div>
+            <div className="flex justify-start" style={{ animation: 'fadeUp 0.25s ease-out forwards' }}>
+              <div className="flex items-center gap-1.5 p-4 bg-white rounded-2xl shadow-sm w-fit border border-violet-100">
+                {[0, 1, 2].map((i) => (
+                  <div
+                    key={i}
+                    className="w-2 h-2 bg-violet-400 rounded-full animate-bounce"
+                    style={{ animationDelay: `${i * 150}ms` }}
+                  />
+                ))}
               </div>
             </div>
           )}

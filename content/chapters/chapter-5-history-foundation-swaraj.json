@@ -4,7 +4,8 @@
     "title": "Foundation of Swaraj",
     "subject": "History",
     "pages": "19-23",
-    "description": "The founding of Shivaji Maharaj's Swaraj — from his capture of Torna fort at age 16, through the Battle of Pratapgad, his famous visit to Agra, to the historic Rajyabhishek (coronation) at Raigad on 6 June 1674."
+    "description": "The founding of Shivaji Maharaj's Swaraj \u2014 from his capture of Torna fort at age 16, through the Battle of Pratapgad, his famous visit to Agra, to the historic Rajyabhishek (coronation) at Raigad on 6 June 1674.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -77,15 +78,15 @@
     {
       "id": "concept_5_1",
       "title": "Early Life and the First Forts",
-      "emoji": "🏰",
+      "emoji": "\ud83c\udff0",
       "colorTheme": "from-blue-400 to-cyan-500",
       "bgColor": "bg-blue-50",
       "borderColor": "border-blue-300",
-      "content": "Shivaji Maharaj was born on 19 February 1630 at Shivneri fort near Junnar. From childhood, Jijabai raised him with stories of heroism and the dream of Swaraj. At the age of just 16, in 1645, Shivaji captured his first fort — Torna, near Pune — by gathering his loyal Mavale companions and outwitting the Adilshahi garrison with a daring night attack. This was not an act of rebellion yet in the open sense, but it was the first concrete step toward building Swaraj. With the treasure found at Torna, Shivaji began building Rajgad fort nearby. He then captured Kondana (later Sinhagad) and Rajgad. Each fort captured was another building block of the Swaraj. By his early twenties, Shivaji had control of a significant number of forts in the Sahyadri range and had begun the administration of the surrounding territory.",
+      "content": "Shivaji Maharaj was born on 19 February 1630 at Shivneri fort near Junnar. From childhood, Jijabai raised him with stories of heroism and the dream of Swaraj. At the age of just 16, in 1645, Shivaji captured his first fort \u2014 Torna, near Pune \u2014 by gathering his loyal Mavale companions and outwitting the Adilshahi garrison with a daring night attack. This was not an act of rebellion yet in the open sense, but it was the first concrete step toward building Swaraj. With the treasure found at Torna, Shivaji began building Rajgad fort nearby. He then captured Kondana (later Sinhagad) and Rajgad. Each fort captured was another building block of the Swaraj. By his early twenties, Shivaji had control of a significant number of forts in the Sahyadri range and had begun the administration of the surrounding territory.",
       "pageReference": "19-20",
       "examples": [
-        "Torna fort (also called Prachandagad) was held by a small Adilshahi garrison — Shivaji captured it by rallying his Mavale companions and using surprise tactics.",
-        "With the treasure found in Torna, Shivaji immediately began constructing and strengthening Rajgad — showing his long-term strategic thinking.",
+        "Torna fort (also called Prachandagad) was held by a small Adilshahi garrison \u2014 Shivaji captured it by rallying his Mavale companions and using surprise tactics.",
+        "With the treasure found in Torna, Shivaji immediately began constructing and strengthening Rajgad \u2014 showing his long-term strategic thinking.",
         "After each fort was captured, Shivaji set up an administration to govern the surrounding villages and protect the farmers."
       ],
       "keyPoints": [
@@ -95,45 +96,45 @@
         "Kondana (later Sinhagad) and other forts followed.",
         "Each fort capture was a step in building a permanent Swaraj state."
       ],
-      "funFact": "When Shivaji captured Torna fort, he found a large treasure chest buried inside. Instead of keeping it, he used it to build his next fort — Rajgad. This showed his strategic vision: he was building a kingdom, not just gathering personal wealth!",
+      "funFact": "When Shivaji captured Torna fort, he found a large treasure chest buried inside. Instead of keeping it, he used it to build his next fort \u2014 Rajgad. This showed his strategic vision: he was building a kingdom, not just gathering personal wealth!",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 5, Pages 19-20"
     },
     {
       "id": "concept_5_2",
-      "title": "Battle of Pratapgad — Afzal Khan",
-      "emoji": "⚔️",
+      "title": "Battle of Pratapgad \u2014 Afzal Khan",
+      "emoji": "\u2694\ufe0f",
       "colorTheme": "from-purple-400 to-pink-500",
       "bgColor": "bg-purple-50",
       "borderColor": "border-purple-300",
-      "content": "By 1659, Shivaji's growing power alarmed the Adilshahi Sultanate of Bijapur. The Adilshahi sultan sent his most powerful general, Afzal Khan, with a large army of over 10,000 to crush Shivaji. Afzal Khan was a huge, physically powerful man known for his cruelty — reportedly he killed two of his own wives before the campaign so they wouldn't remarry after his death. He desecrated the temple of Tuljabhavani on his way to provoke a reaction. Both sides agreed to a personal meeting near Pratapgad fort. Knowing the meeting could be a trap, Shivaji wore armor under his clothes and concealed a tiger-claw weapon (bagh nakh) and a dagger. At the meeting, Afzal Khan tried to stab Shivaji — Shivaji responded by disemboweling Afzal Khan with the bagh nakh. The Maratha army then attacked the confused Adilshahi army and routed them completely. The Battle of Pratapgad (November 10, 1659) was a landmark victory that established Shivaji as a major power.",
+      "content": "By 1659, Shivaji's growing power alarmed the Adilshahi Sultanate of Bijapur. The Adilshahi sultan sent his most powerful general, Afzal Khan, with a large army of over 10,000 to crush Shivaji. Afzal Khan was a huge, physically powerful man known for his cruelty \u2014 reportedly he killed two of his own wives before the campaign so they wouldn't remarry after his death. He desecrated the temple of Tuljabhavani on his way to provoke a reaction. Both sides agreed to a personal meeting near Pratapgad fort. Knowing the meeting could be a trap, Shivaji wore armor under his clothes and concealed a tiger-claw weapon (bagh nakh) and a dagger. At the meeting, Afzal Khan tried to stab Shivaji \u2014 Shivaji responded by disemboweling Afzal Khan with the bagh nakh. The Maratha army then attacked the confused Adilshahi army and routed them completely. The Battle of Pratapgad (November 10, 1659) was a landmark victory that established Shivaji as a major power.",
       "pageReference": "20-21",
       "examples": [
-        "Shivaji's intelligence network had forewarned him about Afzal Khan's treacherous intentions — showing his use of spies and information gathering.",
-        "Netaji Palkar led the Maratha cavalry that surrounded Afzal Khan's army after the meeting — precise coordination was key to the victory.",
-        "The news of Afzal Khan's defeat spread across the Deccan — it showed that Shivaji could not only defend but also decisively defeat a major Adilshahi general."
+        "Shivaji's intelligence network had forewarned him about Afzal Khan's treacherous intentions \u2014 showing his use of spies and information gathering.",
+        "Netaji Palkar led the Maratha cavalry that surrounded Afzal Khan's army after the meeting \u2014 precise coordination was key to the victory.",
+        "The news of Afzal Khan's defeat spread across the Deccan \u2014 it showed that Shivaji could not only defend but also decisively defeat a major Adilshahi general."
       ],
       "keyPoints": [
         "Afzal Khan was sent by Adilshahi in 1659 to crush Shivaji with a large army.",
         "A personal meeting was arranged near Pratapgad fort.",
-        "Afzal Khan attempted treachery — Shivaji came prepared with armor and bagh nakh (tiger claw).",
+        "Afzal Khan attempted treachery \u2014 Shivaji came prepared with armor and bagh nakh (tiger claw).",
         "Shivaji killed Afzal Khan; Maratha army routed the Adilshahi forces.",
-        "Battle of Pratapgad (10 November 1659) — a decisive victory establishing Shivaji's power."
+        "Battle of Pratapgad (10 November 1659) \u2014 a decisive victory establishing Shivaji's power."
       ],
       "funFact": "The 'bagh nakh' (tiger claw) used by Shivaji is on display in a museum in London. A copy is displayed at the Satara museum in Maharashtra. It remains one of the most famous weapons in Indian history!",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 5, Pages 20-21"
     },
     {
       "id": "concept_5_3",
-      "title": "Conflict with the Mughals — Purandardar Treaty",
-      "emoji": "📜",
+      "title": "Conflict with the Mughals \u2014 Purandardar Treaty",
+      "emoji": "\ud83d\udcdc",
       "colorTheme": "from-green-400 to-emerald-500",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
-      "content": "After the defeat of Afzal Khan, Shivaji also sacked Surat in 1664 — the Mughal empire's richest trade port — to fund his growing kingdom. This alarmed Aurangzeb, who sent his capable general Mirza Raje Jai Singh — a Rajput nobleman — with a massive army to crush Shivaji. Jai Singh was a skilled diplomat as well as a general. He surrounded many Maratha forts and convinced several Maratha chieftains to switch sides. Under enormous pressure, Shivaji was forced to negotiate. The Purandardar Treaty (1665) was signed: Shivaji gave up 23 forts to the Mughals, retained only 12 smaller ones, and agreed to send his son Sambhaji as a Mughal noble. In exchange, Shivaji was recognized as a noble and given the title 'Raja'. Though the treaty was a setback, Shivaji used the peace to reorganize, and he recaptured most of those forts within a few years.",
+      "content": "After the defeat of Afzal Khan, Shivaji also sacked Surat in 1664 \u2014 the Mughal empire's richest trade port \u2014 to fund his growing kingdom. This alarmed Aurangzeb, who sent his capable general Mirza Raje Jai Singh \u2014 a Rajput nobleman \u2014 with a massive army to crush Shivaji. Jai Singh was a skilled diplomat as well as a general. He surrounded many Maratha forts and convinced several Maratha chieftains to switch sides. Under enormous pressure, Shivaji was forced to negotiate. The Purandardar Treaty (1665) was signed: Shivaji gave up 23 forts to the Mughals, retained only 12 smaller ones, and agreed to send his son Sambhaji as a Mughal noble. In exchange, Shivaji was recognized as a noble and given the title 'Raja'. Though the treaty was a setback, Shivaji used the peace to reorganize, and he recaptured most of those forts within a few years.",
       "pageReference": "21-22",
       "examples": [
-        "Jai Singh convinced several Maratha sardar to defect by promising them rewards — showing that internal unity was Shivaji's biggest vulnerability.",
-        "Shivaji's sack of Surat (1664) was so thorough that it sent shockwaves across the Mughal empire — one of the richest trading cities was plundered.",
+        "Jai Singh convinced several Maratha sardar to defect by promising them rewards \u2014 showing that internal unity was Shivaji's biggest vulnerability.",
+        "Shivaji's sack of Surat (1664) was so thorough that it sent shockwaves across the Mughal empire \u2014 one of the richest trading cities was plundered.",
         "Despite the Purandardar Treaty, Shivaji retained key strategic forts and secretly built up his strength."
       ],
       "keyPoints": [
@@ -143,55 +144,55 @@
         "Sambhaji (Shivaji's son) sent to Mughal court as a noble.",
         "Shivaji used the peace period to rebuild and later recaptured most lost forts."
       ],
-      "funFact": "When Shivaji sacked Surat in 1664, he specifically avoided looting the houses and properties of the poor common people and of foreign traders like the English. He only targeted the Mughal officials and the wealthy merchants who collaborated with the Mughals — showing his principled approach even in warfare!",
+      "funFact": "When Shivaji sacked Surat in 1664, he specifically avoided looting the houses and properties of the poor common people and of foreign traders like the English. He only targeted the Mughal officials and the wealthy merchants who collaborated with the Mughals \u2014 showing his principled approach even in warfare!",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 5, Pages 21-22"
     },
     {
       "id": "concept_5_4",
-      "title": "The Agra Episode — Imprisonment and Escape",
-      "emoji": "🎭",
+      "title": "The Agra Episode \u2014 Imprisonment and Escape",
+      "emoji": "\ud83c\udfad",
       "colorTheme": "from-orange-400 to-red-500",
       "bgColor": "bg-orange-50",
       "borderColor": "border-orange-300",
-      "content": "Following the Purandardar Treaty, Shivaji was summoned to Aurangzeb's court at Agra in 1666. The visit was meant to formalize the peace, but Aurangzeb insulted Shivaji by placing him among nobles of lower rank — a deliberate humiliation. Shivaji openly protested in court, shocking everyone. Aurangzeb, fearing that Shivaji would escape, placed him under house arrest in Agra. Shivaji faced possible execution. In a legendary escape, Shivaji feigned illness and began sending large baskets of sweets to temples and saints as 'prasad' (religious offering). Over time, the guards became used to seeing the baskets leave. Then one day, Shivaji and his son Sambhaji concealed themselves in the baskets and were smuggled out of Agra. They returned safely to Maharashtra, where Shivaji was received as a hero. The Agra escape demonstrated Shivaji's extraordinary intelligence, calm under pressure, and wit.",
+      "content": "Following the Purandardar Treaty, Shivaji was summoned to Aurangzeb's court at Agra in 1666. The visit was meant to formalize the peace, but Aurangzeb insulted Shivaji by placing him among nobles of lower rank \u2014 a deliberate humiliation. Shivaji openly protested in court, shocking everyone. Aurangzeb, fearing that Shivaji would escape, placed him under house arrest in Agra. Shivaji faced possible execution. In a legendary escape, Shivaji feigned illness and began sending large baskets of sweets to temples and saints as 'prasad' (religious offering). Over time, the guards became used to seeing the baskets leave. Then one day, Shivaji and his son Sambhaji concealed themselves in the baskets and were smuggled out of Agra. They returned safely to Maharashtra, where Shivaji was received as a hero. The Agra escape demonstrated Shivaji's extraordinary intelligence, calm under pressure, and wit.",
       "pageReference": "22",
       "examples": [
         "Shivaji's intelligence officer Hiroji Farjand and trusted associates organized the escape plan with remarkable precision.",
         "After escaping, Shivaji traveled in disguise through several kingdoms before safely reaching Maharashtra.",
-        "Aurangzeb was furious — the escape was a massive embarrassment for the most powerful empire in Asia."
+        "Aurangzeb was furious \u2014 the escape was a massive embarrassment for the most powerful empire in Asia."
       ],
       "keyPoints": [
         "Shivaji went to Aurangzeb's court at Agra in 1666 following the Purandardar Treaty.",
-        "Aurangzeb insulted Shivaji by giving him a low-rank position — Shivaji protested openly.",
+        "Aurangzeb insulted Shivaji by giving him a low-rank position \u2014 Shivaji protested openly.",
         "Shivaji was placed under house arrest; his execution seemed possible.",
         "He escaped by hiding in sweet baskets sent as religious offerings.",
         "The Agra escape became a legendary story of intelligence and courage."
       ],
-      "funFact": "The real mastermind behind the escape plan was Shivaji's close aide Hiroji Farjand, who stayed behind in Agra pretending to be ill while Shivaji escaped. Hiroji was eventually released by Aurangzeb — unaware of his role in the plan. His sacrifice made the escape possible!",
+      "funFact": "The real mastermind behind the escape plan was Shivaji's close aide Hiroji Farjand, who stayed behind in Agra pretending to be ill while Shivaji escaped. Hiroji was eventually released by Aurangzeb \u2014 unaware of his role in the plan. His sacrifice made the escape possible!",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 5, Page 22"
     },
     {
       "id": "concept_5_5",
-      "title": "Coronation at Raigad — Rajyabhishek 1674",
-      "emoji": "👑",
+      "title": "Coronation at Raigad \u2014 Rajyabhishek 1674",
+      "emoji": "\ud83d\udc51",
       "colorTheme": "from-indigo-400 to-purple-500",
       "bgColor": "bg-indigo-50",
       "borderColor": "border-indigo-300",
-      "content": "After the Agra escape, Shivaji rebuilt his power with extraordinary speed. He recaptured his lost forts, sacked Surat again (1670), and expanded the Swaraj. By 1674, Shivaji ruled over a significant kingdom in the Deccan and was ready for a formal coronation. On 6 June 1674, Shivaji Maharaj was crowned as Chhatrapati (Emperor/Paramount Sovereign) at the magnificent hill fort of Raigad in a grand ceremony called Rajyabhishek. The ceremony was conducted according to Vedic rites by the scholar Gagabhatt from Varanasi. This was historically significant — Shivaji was the first independent Hindu king to be crowned with full Vedic rites in the Deccan in centuries. Jijabai, Shivaji's mother, witnessed the coronation — her dream had been fulfilled. She passed away just twelve days after this joyous event. The title 'Chhatrapati' (one who holds the royal umbrella) signified that Shivaji was now a sovereign ruler, answerable to no sultan or emperor.",
+      "content": "After the Agra escape, Shivaji rebuilt his power with extraordinary speed. He recaptured his lost forts, sacked Surat again (1670), and expanded the Swaraj. By 1674, Shivaji ruled over a significant kingdom in the Deccan and was ready for a formal coronation. On 6 June 1674, Shivaji Maharaj was crowned as Chhatrapati (Emperor/Paramount Sovereign) at the magnificent hill fort of Raigad in a grand ceremony called Rajyabhishek. The ceremony was conducted according to Vedic rites by the scholar Gagabhatt from Varanasi. This was historically significant \u2014 Shivaji was the first independent Hindu king to be crowned with full Vedic rites in the Deccan in centuries. Jijabai, Shivaji's mother, witnessed the coronation \u2014 her dream had been fulfilled. She passed away just twelve days after this joyous event. The title 'Chhatrapati' (one who holds the royal umbrella) signified that Shivaji was now a sovereign ruler, answerable to no sultan or emperor.",
       "pageReference": "22-23",
       "examples": [
-        "Raigad fort was specially developed as the capital of the Maratha kingdom — it had a palace, public hall, market, and proper administration buildings.",
-        "Scholars, nobles, and foreign diplomats attended the coronation — it was an event of pan-Indian importance.",
+        "Raigad fort was specially developed as the capital of the Maratha kingdom \u2014 it had a palace, public hall, market, and proper administration buildings.",
+        "Scholars, nobles, and foreign diplomats attended the coronation \u2014 it was an event of pan-Indian importance.",
         "The Rajyabhishek ceremony lasted several days and followed ancient Vedic traditions, symbolizing the restoration of a just Hindu kingdom after centuries."
       ],
       "keyPoints": [
         "Rajyabhishek (coronation) held at Raigad fort on 6 June 1674.",
-        "Shivaji received the title 'Chhatrapati' — paramount sovereign.",
+        "Shivaji received the title 'Chhatrapati' \u2014 paramount sovereign.",
         "Ceremony conducted by Gagabhatt of Varanasi according to Vedic rites.",
         "First independent Hindu king crowned with Vedic rites in the Deccan in centuries.",
-        "Jijabai witnessed the coronation and passed away 12 days later — her dream was fulfilled."
+        "Jijabai witnessed the coronation and passed away 12 days later \u2014 her dream was fulfilled."
       ],
-      "funFact": "At the Rajyabhishek ceremony, Shivaji reportedly performed the Tulabhara ritual — he was weighed against gold and gems, which were then distributed to Brahmins and the poor. The total weight in gold and jewels was enormous — showing the wealth Shivaji had accumulated for his kingdom!",
+      "funFact": "At the Rajyabhishek ceremony, Shivaji reportedly performed the Tulabhara ritual \u2014 he was weighed against gold and gems, which were then distributed to Brahmins and the poor. The total weight in gold and jewels was enormous \u2014 showing the wealth Shivaji had accumulated for his kingdom!",
       "textbookRef": "Maharashtra Board Class 7 History, Chapter 5, Pages 22-23"
     }
   ],
@@ -233,7 +234,7 @@
       },
       "correctAnswer": "C",
       "difficulty": "easy",
-      "explanation": "Shivaji used the bagh nakh (tiger claw) — a concealed weapon that fits over the fingers — to kill Afzal Khan when the general attempted to assassinate him at their meeting near Pratapgad fort."
+      "explanation": "Shivaji used the bagh nakh (tiger claw) \u2014 a concealed weapon that fits over the fingers \u2014 to kill Afzal Khan when the general attempted to assassinate him at their meeting near Pratapgad fort."
     },
     {
       "id": "test_5_4",
@@ -298,7 +299,7 @@
       },
       "correctAnswer": "B",
       "difficulty": "easy",
-      "explanation": "Shivaji was given the title 'Chhatrapati' at his coronation. The word means 'one who holds the royal umbrella' and signifies a paramount sovereign — a ruler independent of any other king or emperor."
+      "explanation": "Shivaji was given the title 'Chhatrapati' at his coronation. The word means 'one who holds the royal umbrella' and signifies a paramount sovereign \u2014 a ruler independent of any other king or emperor."
     },
     {
       "id": "test_5_9",
@@ -325,15 +326,15 @@
       "Rajyabhishek (6 June 1674) at Raigad: title of Chhatrapati"
     ],
     "commonMisconceptions": [
-      "Students sometimes think Afzal Khan was honest about the meeting — history and tradition clearly show he came with treacherous intent, which Shivaji's intelligence discovered in advance.",
-      "Some think the Agra escape was a coincidence — it was actually a carefully planned operation by Shivaji and his trusted aides.",
-      "Students may misunderstand the Purandardar Treaty as a permanent defeat — Shivaji quickly recovered and recaptured most forts.",
-      "The coronation is sometimes seen as just a ceremony — it was a profoundly political act declaring independence from all sultans and the Mughal emperor."
+      "Students sometimes think Afzal Khan was honest about the meeting \u2014 history and tradition clearly show he came with treacherous intent, which Shivaji's intelligence discovered in advance.",
+      "Some think the Agra escape was a coincidence \u2014 it was actually a carefully planned operation by Shivaji and his trusted aides.",
+      "Students may misunderstand the Purandardar Treaty as a permanent defeat \u2014 Shivaji quickly recovered and recaptured most forts.",
+      "The coronation is sometimes seen as just a ceremony \u2014 it was a profoundly political act declaring independence from all sultans and the Mughal emperor."
     ],
     "realWorldExamples": [
-      "Raigad fort can be visited today via a ropeway — it is a major heritage site and tourists can see the Rajyabhishek platform where Shivaji was crowned.",
+      "Raigad fort can be visited today via a ropeway \u2014 it is a major heritage site and tourists can see the Rajyabhishek platform where Shivaji was crowned.",
       "Pratapgad fort near Mahabaleshwar is still standing and has a statue of Shivaji at the site of the Afzal Khan meeting.",
-      "The bagh nakh associated with Shivaji is preserved in a museum in London — a tangible connection to one of history's most dramatic moments."
+      "The bagh nakh associated with Shivaji is preserved in a museum in London \u2014 a tangible connection to one of history's most dramatic moments."
     ],
     "formulas": []
   },
@@ -389,7 +390,7 @@
       },
       {
         "question": "What weapon did Shivaji use to kill Afzal Khan?",
-        "answer": "Shivaji used the bagh nakh (tiger claw) — a concealed weapon that fits over the fingers — to kill Afzal Khan when the general attempted to assassinate him at their meeting near Pratapgad fort.",
+        "answer": "Shivaji used the bagh nakh (tiger claw) \u2014 a concealed weapon that fits over the fingers \u2014 to kill Afzal Khan when the general attempted to assassinate him at their meeting near Pratapgad fort.",
         "source": "chapter_test_explanation"
       },
       {
@@ -414,7 +415,7 @@
       },
       {
         "question": "What title was given to Shivaji at his coronation?",
-        "answer": "Shivaji was given the title 'Chhatrapati' at his coronation. The word means 'one who holds the royal umbrella' and signifies a paramount sovereign — a ruler independent of any other king or emperor.",
+        "answer": "Shivaji was given the title 'Chhatrapati' at his coronation. The word means 'one who holds the royal umbrella' and signifies a paramount sovereign \u2014 a ruler independent of any other king or emperor.",
         "source": "chapter_test_explanation"
       },
       {
@@ -427,44 +428,37 @@
       {
         "id": "la1",
         "question": "At what age did Shivaji capture Torna fort?",
-        "modelAnswer": "Shivaji captured Torna fort in 1645 at the age of 16. This was his first act of building Swaraj and demonstrated his leadership and courage at a very young age. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Shivaji captured Torna fort in 1645 at the age of 16. This was his first act of building Swaraj and demonstrated his leadership and courage at a very young age.",
         "keyPoints": [
           "Shivaji captured Torna fort in 1645 at the age of 16.",
-          "This was his first act of building Swaraj and demonstrated his leadership and courage at a very young age.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This was his first act of building Swaraj and demonstrated his leadership and courage at a very young age."
         ],
         "marks": 3
       },
       {
         "id": "la2",
         "question": "What weapon did Shivaji use to kill Afzal Khan?",
-        "modelAnswer": "Shivaji used the bagh nakh (tiger claw) — a concealed weapon that fits over the fingers — to kill Afzal Khan when the general attempted to assassinate him at their meeting near Pratapgad fort. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: What weapon did Shivaji use to kill Afzal Khan?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "Shivaji used the bagh nakh (tiger claw) \u2014 a concealed weapon that fits over the fingers \u2014 to kill Afzal Khan when the general attempted to assassinate him at their meeting near Pratapgad fort.",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la3",
         "question": "How did Shivaji escape from house arrest in Agra?",
-        "modelAnswer": "Shivaji escaped from house arrest in Agra in 1666 by hiding in baskets of sweets that were sent as 'prasad' (religious offerings) to temples and saints. After conditioning the guards to expect these baskets, Shivaji and his son Sambhaji hid in them and were smuggled out. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Shivaji escaped from house arrest in Agra in 1666 by hiding in baskets of sweets that were sent as 'prasad' (religious offerings) to temples and saints. After conditioning the guards to expect these baskets, Shivaji and his son Sambhaji hid in them and were smuggled out.",
         "keyPoints": [
           "Shivaji escaped from house arrest in Agra in 1666 by hiding in baskets of sweets that were sent as 'prasad' (religious offerings) to temples and saints.",
-          "After conditioning the guards to expect these baskets, Shivaji and his son Sambhaji hid in them and were smuggled out.",
-          "This can be observed in standard textbook examples from this chapter."
+          "After conditioning the guards to expect these baskets, Shivaji and his son Sambhaji hid in them and were smuggled out."
         ],
         "marks": 3
       },
       {
         "id": "la4",
         "question": "What title was given to Shivaji at his coronation?",
-        "modelAnswer": "Shivaji was given the title 'Chhatrapati' at his coronation. The word means 'one who holds the royal umbrella' and signifies a paramount sovereign — a ruler independent of any other king or emperor. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Shivaji was given the title 'Chhatrapati' at his coronation. The word means 'one who holds the royal umbrella' and signifies a paramount sovereign \u2014 a ruler independent of any other king or emperor.",
         "keyPoints": [
           "Shivaji was given the title 'Chhatrapati' at his coronation.",
-          "The word means 'one who holds the royal umbrella' and signifies a paramount sovereign — a ruler independent of any other king or emperor.",
-          "This can be observed in standard textbook examples from this chapter."
+          "The word means 'one who holds the royal umbrella' and signifies a paramount sovereign \u2014 a ruler independent of any other king or emperor."
         ],
         "marks": 5
       }

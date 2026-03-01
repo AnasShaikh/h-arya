@@ -4,7 +4,8 @@
     "title": "Motion, Force and Work",
     "subject": "Science",
     "pages": "47-54",
-    "description": "This chapter explains the concepts of motion, distance, displacement, speed, velocity, acceleration, force, and work."
+    "description": "This chapter explains the concepts of motion, distance, displacement, speed, velocity, acceleration, force, and work.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -77,7 +78,7 @@
     {
       "id": 1,
       "title": "Motion, Distance, Displacement, Speed and Velocity",
-      "emoji": "🏃",
+      "emoji": "\ud83c\udfc3",
       "colorTheme": "from-blue-400 to-cyan-500",
       "bgColor": "bg-blue-50",
       "borderColor": "border-blue-300",
@@ -109,7 +110,7 @@
     {
       "id": 2,
       "title": "Force",
-      "emoji": "💪",
+      "emoji": "\ud83d\udcaa",
       "colorTheme": "from-red-400 to-orange-500",
       "bgColor": "bg-red-50",
       "borderColor": "border-red-300",
@@ -141,7 +142,7 @@
     {
       "id": 3,
       "title": "Work",
-      "emoji": "🛠️",
+      "emoji": "\ud83d\udee0\ufe0f",
       "colorTheme": "from-green-400 to-lime-500",
       "bgColor": "bg-green-50",
       "borderColor": "border-green-300",
@@ -337,7 +338,7 @@
   },
   "textbookExercise": {
     "chapterName": "Motion, Force and Work",
-    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers \u2014 these appear in school exams!",
     "questions": [
       {
         "number": 1,
@@ -431,85 +432,72 @@
       {
         "id": "la1",
         "question": "If a body traverses a distance in\ndirect proportion to the time, the\nspeed of the body is ............... .",
-        "modelAnswer": "Speed = Distance / Time = 100 km / 2 h = 50 km/h. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: If a body traverses a distance in\ndirect proportion to the time, the\nspeed of the body is ............... .",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "Speed = Distance / Time = 100 km / 2 h = 50 km/h.",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la2",
         "question": "If a body is moving with a constant\nvelocity its acceleration is .......... .",
-        "modelAnswer": "Speed = Distance / Time = 100 km / 2 h = 50 km/h. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: If a body is moving with a constant\nvelocity its acceleration is .......... .",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "Speed = Distance / Time = 100 km / 2 h = 50 km/h.",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la3",
         "question": ".............. is a scalar quantity.",
-        "modelAnswer": "Distance has only magnitude, so it is a scalar quantity. The others have both magnitude and direction. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Distance has only magnitude, so it is a scalar quantity. The others have both magnitude and direction.",
         "keyPoints": [
           "Distance has only magnitude, so it is a scalar quantity.",
-          "The others have both magnitude and direction.",
-          "This can be observed in standard textbook examples from this chapter."
+          "The others have both magnitude and direction."
         ],
         "marks": 3
       },
       {
         "id": "la4",
         "question": "............. is the distance traversed by\na body in a particular direction in\nunit time.",
-        "modelAnswer": "Gravity acts downwards, while the displacement is upwards. So, the work done by gravity is negative. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Gravity acts downwards, while the displacement is upwards. So, the work done by gravity is negative.",
         "keyPoints": [
           "Gravity acts downwards, while the displacement is upwards.",
-          "So, the work done by gravity is negative.",
-          "This can be observed in standard textbook examples from this chapter."
+          "So, the work done by gravity is negative."
         ],
         "marks": 5
       },
       {
         "id": "la5",
         "question": "Observe the figure and answer the\nquestions. C\n4 km",
-        "modelAnswer": "Observe the figure and answer the questions. C 4 km This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Observe the figure and answer the questions. C 4 km This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Observe the figure and answer the questions.",
-          "C 4 km This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "C 4 km This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       },
       {
         "id": "la6",
         "question": "A bird sitting on a wire, flies, circles\naround and comes back to its perch.\nExplain the total distance it traversed\nduring its flight and its eventual\ndisplacement.",
-        "modelAnswer": "A bird sitting on a wire, flies, circles around and comes back to its perch. Explain the total distance it traversed during its flight and its eventual displacement. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "A bird sitting on a wire, flies, circles around and comes back to its perch. Explain the total distance it traversed during its flight and its eventual displacement. This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "A bird sitting on a wire, flies, circles around and comes back to its perch.",
           "Explain the total distance it traversed during its flight and its eventual displacement.",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       },
       {
         "id": "la7",
         "question": "Explain the following concepts in your\nown words with everyday examples :\nforce, work, displacement, velocity,\nacceleration, distance.",
-        "modelAnswer": "Explain the following concepts in your own words with everyday examples : force, work, displacement, velocity, acceleration, distance. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Explain the following concepts in your own words with everyday examples : force, work, displacement, velocity, acceleration, distance. This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Explain the following concepts in your own words with everyday examples : force, work, displacement, velocity, acceleration, distance.",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       },
       {
         "id": "la8",
         "question": "A ball is rolling from A to D on a\nflat and smooth surface. Its speed is\n2 cm/s. On reaching B, it was pushed\ncontinuously up to C. On reaching D\nfrom C, its speed had become 4cm/s.\nIt took 2 seconds for it to go from B\nto C. What is the acceleration of the\nball as it goes from B to C ?\n5 km\nA\nA\n3 k",
-        "modelAnswer": "A ball is rolling from A to D on a flat and smooth surface. Its speed is 2 cm/s. On reaching B, it was pushed continuously up to C. On reaching D from C, its speed had become 4cm/s. It took 2 seconds for it to go from B to C. What is the acceleration of the ball as it goes from B to C ? 5 km A A 3 k This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "A ball is rolling from A to D on a flat and smooth surface. Its speed is 2 cm/s. On reaching B, it was pushed continuously up to C. On reaching D from C, its speed had become 4cm/s. It took 2 seconds for it to go from B to C. What is the acceleration of the ball as it goes from B to C ? 5 km A A 3 k This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "A ball is rolling from A to D on a flat and smooth surface.",
           "Its speed is 2 cm/s.",

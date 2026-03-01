@@ -4,7 +4,8 @@
     "title": "Contour Maps and Landforms",
     "subject": "Geography",
     "pages": "69-74",
-    "description": "Contour lines, contour interval, reading topographic maps, identifying landforms: hill, valley, plateau, cliff, ridge"
+    "description": "Contour lines, contour interval, reading topographic maps, identifying landforms: hill, valley, plateau, cliff, ridge",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -486,72 +487,59 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What do contour lines show on a topographic map?",
-        "modelAnswer": "Contour lines connect all points of the same altitude. This allows us to show the three-dimensional shape of the land (hills, valleys, plateaus) on a flat 2D map. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: How can the distribution of height and landforms in a region be shown?",
+        "modelAnswer": "The distribution of height and landforms in a region can be shown using contour maps. Contour lines connect points of equal altitude and help represent hills, valleys, plateaus, ridges, and slopes on a two-dimensional map. By reading contour intervals and patterns, the vertical variation of terrain can be understood clearly.",
         "keyPoints": [
-          "Contour lines connect all points of the same altitude.",
-          "This allows us to show the three-dimensional shape of the land (hills, valleys, plateaus) on a flat 2D map.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Use contour maps to represent relief and height distribution.",
+          "Contour lines join places of equal altitude.",
+          "Landforms can be identified from contour patterns and intervals."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "In the potato slicing experiment, what does each horizontal slice of the potato represent?",
-        "modelAnswer": "Each horizontal slice of the potato represents one contour interval. When you trace the outline of each slice on paper, you get a contour line. Stacking all the traced outlines gives you a contour map of the potato hill. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: To whom are contour maps useful?",
+        "modelAnswer": "Contour maps are useful to farmers, engineers, planners, geographers, military personnel, hikers, and disaster-management teams. Farmers use them for water and soil management; engineers use them for road, dam, and canal planning; and mountaineers use them to understand slope and route difficulty. They are essential wherever terrain analysis is needed.",
         "keyPoints": [
-          "Each horizontal slice of the potato represents one contour interval.",
-          "When you trace the outline of each slice on paper, you get a contour line.",
-          "Stacking all the traced outlines gives you a contour map of the potato hill.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Useful for farmers, engineers, planners, and geographers.",
+          "Also useful for defense, trekking, and disaster planning.",
+          "They support decisions wherever land relief matters."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "On a contour map, a valley (river valley) is shown by _____.",
-        "modelAnswer": "A river valley is shown by V-shaped contour lines. The V always points upstream (toward the higher ground). This is because the river cuts into the hill creating a V-shaped valley, and contour lines must 'go into' the valley to represent the higher ground on either side. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: What do you understand by observing contour lines?",
+        "modelAnswer": "By observing contour lines, we can understand the nature of slope, relative heights, and shapes of landforms. Closely spaced contours indicate steep slopes, while widely spaced contours indicate gentle slopes. Circular or V-shaped contour patterns help identify hills, valleys, ridges, and drainage direction.",
         "keyPoints": [
-          "A river valley is shown by V-shaped contour lines.",
-          "The V always points upstream (toward the higher ground).",
-          "This is because the river cuts into the hill creating a V-shaped valley, and contour lines must 'go into' the valley to represent the higher ground on either side.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Contour spacing indicates slope steepness.",
+          "Contour values indicate relative elevation.",
+          "Contour shape reveals landform type and drainage tendency."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "Why do contour lines never cross each other?",
-        "modelAnswer": "Each point on Earth's surface has only one altitude. If two contours crossed, it would mean that one point has two different heights at the same time — which is impossible. Hence contours never cross. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: How will a contour map be useful for a farmer?",
+        "modelAnswer": "A contour map helps a farmer understand field slope and water flow direction, which is important for soil and water conservation. It guides contour bunding, trenching, drainage planning, and site selection for farm ponds. By reducing runoff and erosion and improving moisture retention, contour-based planning improves long-term farm productivity.",
         "keyPoints": [
-          "Each point on Earth's surface has only one altitude.",
-          "If two contours crossed, it would mean that one point has two different heights at the same time — which is impossible.",
-          "Hence contours never cross.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Shows slope and runoff direction for farm planning.",
+          "Helps in contour bunding/trenching and drainage decisions.",
+          "Supports soil conservation and better water management.",
+          "Improves productivity through scientific land use."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la5",
-        "question": "A cliff is shown on a contour map by _____.",
-        "modelAnswer": "A cliff is a near-vertical rock face. On a contour map, this means altitude changes dramatically over almost zero horizontal distance — so contour lines are extremely close together or actually touching. This can be observed in standard textbook examples from this chapter.",
+        "question": "Fill and explain: If contour lines are closer, the slope is ____; if farther apart, the slope is ____.",
+        "modelAnswer": "If contour lines are closer to each other, the slope is steep. If the distance between contour lines is greater, the slope is gentle. This is because closer intervals over a short horizontal distance represent faster change in elevation, while wider spacing indicates gradual elevation change.",
         "keyPoints": [
-          "A cliff is a near-vertical rock face.",
-          "On a contour map, this means altitude changes dramatically over almost zero horizontal distance — so contour lines are extremely close together or actually touching.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Close contours = steep slope.",
+          "Wide contours = gentle slope.",
+          "Slope interpretation depends on change in elevation over distance."
         ],
-        "marks": 5
-      },
-      {
-        "id": "la6",
-        "question": "How are contour maps useful for mountaineers?",
-        "modelAnswer": "Mountaineers use contour maps to plan their ascent: avoid steep cliffs (touching contours), find gentle slopes (widely spaced contours) for easier climbing, locate flat areas (few/no contours) for camping, and find the safest route to the summit. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: How are contour maps useful for mountaineers?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
-        "marks": 5
+        "marks": 4
       }
     ]
   }

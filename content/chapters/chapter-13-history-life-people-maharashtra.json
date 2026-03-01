@@ -4,7 +4,8 @@
     "title": "Life of the People of Medieval Maharashtra",
     "subject": "History",
     "pages": "57-62",
-    "description": "A social history of ordinary people in medieval Maharashtra — family structure and caste, agriculture and economy, crafts and trade, the position of women, education through pathshalas, and the magnificent architecture and rich literature of the period."
+    "description": "A social history of ordinary people in medieval Maharashtra — family structure and caste, agriculture and economy, crafts and trade, the position of women, education through pathshalas, and the magnificent architecture and rich literature of the period.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -444,56 +445,49 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What was the dominant family structure in medieval Maharashtra?",
-        "modelAnswer": "Joint families — where multiple generations (grandparents, parents, children, and sometimes uncles and their families) all lived together — were the dominant family structure in medieval Maharashtra. This system provided economic security and social support. This can be observed in standard textbook examples from this chapter.",
+        "question": "Which undesirable customs are prevalent in today’s society? Suggest measures for their eradication.",
+        "modelAnswer": "Even today, some undesirable customs and social practices continue in different forms, such as discrimination, superstition, addiction-related practices, and harmful social pressures. These weaken social harmony and block progress. Their eradication requires education, awareness campaigns, strict legal enforcement, community leadership, and value-based schooling. Families, schools, local institutions, and youth groups must work together so that rational thinking, equality, and dignity become social norms.",
         "keyPoints": [
-          "Joint families — where multiple generations (grandparents, parents, children, and sometimes uncles and their families) all lived together — were the dominant family structure in medieval Maharashtra.",
-          "This system provided economic security and social support.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Identify present-day undesirable customs/social evils in society.",
+          "Explain their negative impact on individuals and communities.",
+          "Suggest practical measures: education, awareness, legal action, community participation.",
+          "Emphasize long-term social reform through values and collective responsibility."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la2",
-        "question": "What was the staple crop of the Deccan plateau in medieval Maharashtra?",
-        "modelAnswer": "Jowar (sorghum) and bajra (millet) were the staple crops of the Deccan plateau — they could grow in the semi-arid soil with less water than rice. Rice was grown primarily in the wetter Konkan coastal region. This can be observed in standard textbook examples from this chapter.",
+        "question": "Make a detailed note about the festivals celebrated in your area.",
+        "modelAnswer": "Festivals in my area are celebrated with social participation, religious rituals, and cultural programs. Major festivals include Diwali, Holi, Eid, Ganeshotsav, Navratri, Makar Sankranti and local fairs. People decorate homes and public spaces, prepare traditional food, and organize music, dance, processions, and community service activities. These celebrations strengthen local identity, bring different communities together, and preserve cultural continuity.",
         "keyPoints": [
-          "Jowar (sorghum) and bajra (millet) were the staple crops of the Deccan plateau — they could grow in the semi-arid soil with less water than rice.",
-          "Rice was grown primarily in the wetter Konkan coastal region.",
-          "This can be observed in standard textbook examples from this chapter."
-        ],
-        "marks": 3
-      },
-      {
-        "id": "la3",
-        "question": "What was the 'Hemadpanthi' style of temple architecture known for?",
-        "modelAnswer": "Hemadpanthi style of temple architecture (named after the Yadava minister Hemadri) is characterized by black basalt stone construction, pointed towers (shikharas), and intricate stone carvings. Temples like Kopeshwar at Khidrapur are fine examples. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Hemadpanthi style of temple architecture (named after the Yadava minister Hemadri) is characterized by black basalt stone construction, pointed towers (shikharas), and intricate stone carvings.",
-          "Temples like Kopeshwar at Khidrapur are fine examples.",
-          "This can be observed in standard textbook examples from this chapter."
-        ],
-        "marks": 3
-      },
-      {
-        "id": "la4",
-        "question": "What are 'Bakhars' in medieval Marathi literature?",
-        "modelAnswer": "Bakhars are Marathi prose historical chronicles — the most important historical literature of medieval Maharashtra. They narrate the lives and deeds of Maratha rulers, especially Shivaji Maharaj, and are valuable written sources for historians. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Bakhars are Marathi prose historical chronicles — the most important historical literature of medieval Maharashtra.",
-          "They narrate the lives and deeds of Maratha rulers, especially Shivaji Maharaj, and are valuable written sources for historians.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Name important local festivals and seasonal/religious variety.",
+          "Describe rituals, food, decoration, and cultural events.",
+          "Mention participation of families and community groups.",
+          "Explain social value: unity, tradition, and cultural continuity."
         ],
         "marks": 5
       },
       {
-        "id": "la5",
-        "question": "What were 'Pathshalas' and who primarily attended them?",
-        "modelAnswer": "Pathshalas were traditional schools where a guru (teacher) taught a group of students (primarily boys) reading, writing, arithmetic, and sometimes religious texts in a single-room setting. They were the primary form of education in medieval Maharashtra. This can be observed in standard textbook examples from this chapter.",
+        "id": "la3",
+        "question": "Compare life in the era of Shivaji Maharaj and today’s life (transactions, script, transportation, entertainment, houses).",
+        "modelAnswer": "Life in the era of Shivaji Maharaj was primarily rural and locally self-sufficient, while today life is urbanizing and technology-driven. Earlier, transactions were often based on barter and limited coin exchange; now digital payments and banking are common. Transport then depended on foot travel, animals, and simple vehicles; today buses, railways, cars, and flights are available. Entertainment has shifted from folk forms and gatherings to cinema, television, and internet media. Housing has also changed from mostly mud/brick structures and wadas to permanent concrete multi-storeyed buildings.",
         "keyPoints": [
-          "Pathshalas were traditional schools where a guru (teacher) taught a group of students (primarily boys) reading, writing, arithmetic, and sometimes religious texts in a single-room setting.",
-          "They were the primary form of education in medieval Maharashtra.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Past life was village-centered and local; present life is technology-enabled and interconnected.",
+          "Transactions changed from barter/limited coin use to formal banking and digital payments.",
+          "Transport evolved from traditional means to modern mass and air transport.",
+          "Entertainment and housing patterns changed significantly with modernization."
+        ],
+        "marks": 6
+      },
+      {
+        "id": "la4",
+        "question": "Write a short note: Social and cultural life of people in Maharashtra during the Maratha period.",
+        "modelAnswer": "During the Maratha period, most people lived in villages and depended on agriculture and allied occupations. Customs, festivals, and religious practices shaped social life, while local markets and artisans supported daily needs. Traditional clothing, simple housing, and community participation defined everyday living. At the same time, architecture, painting, sculpture, and literature developed meaningfully, showing that cultural life remained vibrant despite political conflicts.",
+        "keyPoints": [
+          "Village economy and agriculture were central to daily life.",
+          "Customs, festivals, and traditions strongly influenced society.",
+          "Material life was simple but community-oriented.",
+          "Arts, architecture, and literature flourished in the period."
         ],
         "marks": 5
       }

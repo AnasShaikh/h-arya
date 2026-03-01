@@ -4,7 +4,8 @@
     "title": "Preamble of the Constitution",
     "subject": "Civics",
     "pages": "68-71",
-    "description": "Understanding the Preamble of the Indian Constitution — its full text, key terms like Sovereign, Socialist, Secular, Democratic, Republic, and the ideals of Justice, Liberty, Equality, and Fraternity."
+    "description": "Understanding the Preamble of the Indian Constitution — its full text, key terms like Sovereign, Socialist, Secular, Democratic, Republic, and the ideals of Justice, Liberty, Equality, and Fraternity.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -16,7 +17,7 @@
         "A list of Fundamental Rights",
         "A schedule of government offices"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "A Preamble is an introduction to the Constitution that states the aims, ideals, and objectives it seeks to achieve."
     },
     {
@@ -28,7 +29,7 @@
         "India follows the rules of the United Nations",
         "India is a poor country"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Sovereign means India is completely independent — it makes its own decisions and is not under the control of any foreign power."
     },
     {
@@ -40,7 +41,7 @@
         "People are not allowed to follow any religion",
         "Only one religion is allowed in India"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Secular means the state has no official religion and treats all religions equally. Citizens are free to follow any religion."
     },
     {
@@ -52,7 +53,7 @@
         "26 November 1949",
         "9 December 1946"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The Preamble was adopted along with the Constitution on 26 November 1949."
     },
     {
@@ -64,7 +65,7 @@
         "There is no head of state",
         "The country is ruled by the army"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Republic means the head of the state (the President of India) is an elected person and not a hereditary ruler like a king or queen."
     }
   ],
@@ -200,7 +201,7 @@
         "We, the Leaders of India",
         "We, the Republic of India"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "The Preamble begins with 'We, the People of India' — showing that the Constitution derives its authority from the people of India."
     },
     {
@@ -212,7 +213,7 @@
         "India is fully independent with no foreign control",
         "India is ruled by elected kings"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Sovereign means India is completely independent and makes its own decisions — it is not under the control of any foreign power."
     },
     {
@@ -224,7 +225,7 @@
         "Socialist and Secular",
         "Sovereign and Fraternity"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The words 'Socialist' and 'Secular' were added to the Preamble through the 42nd Amendment to the Constitution in 1976."
     },
     {
@@ -236,7 +237,7 @@
         "Criminal Justice",
         "Political Justice"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The Preamble mentions Social, Economic, and Political Justice. Criminal Justice is not mentioned in the Preamble."
     },
     {
@@ -248,7 +249,7 @@
         "India has no head of state",
         "India is ruled by the army"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Republic means the head of state (the President of India) is an elected person with a fixed term, not a hereditary ruler like a king."
     },
     {
@@ -260,7 +261,7 @@
         "Dignity of the individual and unity and integrity of the Nation",
         "Freedom of movement within India"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Fraternity assures two things: the dignity of the individual, and the unity and integrity of the Nation."
     },
     {
@@ -272,7 +273,7 @@
         "Two — freedom and liberty",
         "Four — speech, religion, work, movement"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "The Preamble mentions five types of Liberty: liberty of thought, expression, belief, faith, and worship."
     },
     {
@@ -284,7 +285,7 @@
         "It means the Constitution derives its authority from the people of India",
         "It lists all the citizens who approved the Constitution"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Starting with 'We, the People of India' shows that the Constitution derives its ultimate authority from the people, reflecting the democratic nature of the country."
     },
     {
@@ -296,7 +297,7 @@
         "Religion is banned in public life",
         "Only Hinduism is recognised by the state"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Secular means the Indian state has no official religion and treats all religions equally. Citizens are free to follow any religion."
     }
   ],
@@ -412,67 +413,73 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What does 'Sovereign' mean in the Preamble?",
-        "modelAnswer": "Sovereign means India is completely independent and makes its own decisions — it is not under the control of any foreign power. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: What are the provisions in a secular Constitution?",
+        "modelAnswer": "In a secular Constitution, the State does not establish or favor any one religion as an official religion. All religions are treated equally before law, and citizens are guaranteed freedom of belief, faith, and worship. The State can regulate public order and reform social practices when required, but it must remain neutral in religious matters and protect religious liberty for all communities.",
         "keyPoints": [
-          "Defines the concept asked in: What does 'Sovereign' mean in the Preamble?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "No official state religion; equal treatment of all religions.",
+          "Freedom of belief, faith, and worship is protected.",
+          "State neutrality in religious matters is essential.",
+          "Religious freedom is balanced with public order and constitutional values."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "What does 'Republic' mean in the context of India?",
-        "modelAnswer": "Republic means the head of state (the President of India) is an elected person with a fixed term, not a hereditary ruler like a king. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: What is meant by adult franchise?",
+        "modelAnswer": "Adult franchise means every adult citizen has the right to vote in elections, subject to constitutional law. It reflects political equality and ensures that government is formed by the people’s choice. In India, this principle gives each eligible citizen one vote of equal value, irrespective of caste, religion, gender, wealth, or social status.",
         "keyPoints": [
-          "Defines the concept asked in: What does 'Republic' mean in the context of India?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Every adult citizen gets voting rights as per law.",
+          "It is based on political equality and democratic participation.",
+          "Each vote has equal value.",
+          "No discrimination by caste, religion, gender, or wealth."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la3",
-        "question": "What does 'Fraternity' in the Preamble assure?",
-        "modelAnswer": "Fraternity assures two things: the dignity of the individual, and the unity and integrity of the Nation. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: What right does economic justice ensure?",
+        "modelAnswer": "Economic justice ensures fair opportunities in economic life so that no person is denied livelihood or dignity due to unfair social and economic structures. It seeks reduction of extreme inequalities, fair access to resources, and protection from exploitation. Through this, people can live with basic security, self-respect, and equal chances to progress.",
         "keyPoints": [
-          "Defines the concept asked in: What does 'Fraternity' in the Preamble assure?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Ensures fairness in economic opportunities.",
+          "Aims to reduce inequality and prevent exploitation.",
+          "Supports dignified livelihood and basic security.",
+          "Promotes equitable access to resources and progress."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "How many types of Liberty are mentioned in the Preamble?",
-        "modelAnswer": "The Preamble mentions five types of Liberty: liberty of thought, expression, belief, faith, and worship. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer: How will human dignity be established in a society?",
+        "modelAnswer": "Human dignity is established when every person’s rights, freedom, and equality are respected in daily life and in institutions. A society that rejects discrimination, protects liberty, and upholds justice creates conditions where individuals can live with self-respect. Fraternity and mutual respect among citizens are essential to sustain dignity for all.",
         "keyPoints": [
-          "Defines the concept asked in: How many types of Liberty are mentioned in the Preamble?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Respect for rights, freedom, and equality is fundamental.",
+          "Non-discrimination and justice are necessary conditions.",
+          "Social behavior must uphold mutual respect and fraternity.",
+          "Dignity grows when institutions and citizens act constitutionally."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "What is the significance of the Preamble starting with 'We, the People of India'?",
-        "modelAnswer": "Starting with 'We, the People of India' shows that the Constitution derives its ultimate authority from the people, reflecting the democratic nature of the country. This can be observed in standard textbook examples from this chapter.",
+        "question": "Explain the concept: Socialist State.",
+        "modelAnswer": "A Socialist State, in the constitutional sense, aims to reduce social and economic inequalities and ensure welfare for all sections of society. It does not mean complete state ownership of everything; rather, it means a commitment to social justice, fair opportunities, and support for vulnerable groups. Public policy is expected to prioritize common welfare over extreme concentration of wealth.",
         "keyPoints": [
-          "Defines the concept asked in: What is the significance of the Preamble starting with 'We, the People of India'?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Focus on social and economic justice.",
+          "Aims to reduce inequality and support welfare.",
+          "Encourages fair opportunities for all citizens.",
+          "Policies prioritize public good over extreme wealth concentration."
         ],
         "marks": 5
       },
       {
         "id": "la6",
-        "question": "What does 'Secular' mean in the context of the Indian Constitution?",
-        "modelAnswer": "Secular means the Indian state has no official religion and treats all religions equally. Citizens are free to follow any religion. This can be observed in standard textbook examples from this chapter.",
+        "question": "Explain the concept: Equality of opportunity.",
+        "modelAnswer": "Equality of opportunity means every citizen should get a fair chance to develop and progress, without discrimination based on caste, religion, gender, place of birth, or social background. It requires both legal equality and practical access to education, jobs, and public life. This principle helps build a just society where merit and effort can flourish.",
         "keyPoints": [
-          "Secular means the Indian state has no official religion and treats all religions equally.",
-          "Citizens are free to follow any religion.",
-          "This can be observed in standard textbook examples from this chapter."
+          "All citizens should get fair chances without discrimination.",
+          "Covers access to education, employment, and public opportunities.",
+          "Requires both legal and practical equality.",
+          "Promotes justice, inclusion, and merit-based progress."
         ],
         "marks": 5
       }

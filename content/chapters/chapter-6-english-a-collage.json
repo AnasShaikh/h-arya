@@ -495,67 +495,61 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What was Swami Vivekananda's original name?",
-        "modelAnswer": "Swami Vivekananda's original name was Narendranath Datta. He was born into an aristocratic family in Kolkata. It was only after he took his monastic vows that he came to be known as Swami Vivekananda, a name that signifies the bliss of discerning wisdom.",
+        "question": "Write a short note on Swami Vivekananda and his message to the world.",
+        "modelAnswer": "Swami Vivekananda, born Narendra Datta, introduced the spiritual and philosophical richness of India to the world stage. At the Parliament of Religions, his opening words “Sisters and brothers of America” reflected universal brotherhood and earned tremendous appreciation. He emphasized self-confidence, strength of character, service to humanity, and selfless action. His message inspires students to combine inner discipline with social responsibility.",
         "keyPoints": [
-          "His original name was Narendranath Datta.",
-          "He was born into an aristocratic family in Kolkata.",
-          "He took the name Vivekananda after taking monastic vows."
+          "Born as Narendra Datta; became a global voice of Indian thought.",
+          "Famous Chicago address reflected universal human unity.",
+          "Core message: strength, self-belief, service and selflessness.",
+          "His ideas remain relevant for youth and nation-building."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "How long was the standing ovation Vivekananda received?",
-        "modelAnswer": "When Swami Vivekananda began his speech with the words 'Sisters and brothers of America', the entire audience rose to their feet. He received a standing ovation that lasted for two whole minutes. This enthusiastic response showed how deeply his message of universal brotherhood resonated with the people present.",
+        "question": "Explain the meaning and relevance of the quote: “Arise! Awake! and stop not till the goal is reached.”",
+        "modelAnswer": "This quote urges people to begin action with awareness and continue with determination until success is achieved. “Arise” means overcoming inertia, “Awake” means becoming conscious of one’s purpose, and “stop not” means sustained effort despite obstacles. For students, it promotes disciplined study, persistence, and goal-oriented living. The quote is a call to courage and continuous improvement.",
         "keyPoints": [
-          "He addressed the audience as 'Sisters and brothers of America'.",
-          "The audience gave him a standing ovation lasting for two minutes.",
-          "The response highlighted the immediate impact of his universal message."
+          "Calls for action, awareness, and perseverance.",
+          "Encourages focus on long-term goals.",
+          "Teaches resilience in the face of difficulties.",
+          "Highly relevant for student life and personal growth."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "What is the second famous quote by Vivekananda mentioned in the chapter?",
-        "modelAnswer": "One of the most famous and prominent quotes highlighted in the chapter is 'Arise, awake, and stop not till the goal is reached.' This powerful call to action encourages individuals to be determined, fearless, and persistent in their endeavors. It serves as an inspiring reminder to overcome laziness and keep working hard until one achieves success.",
+        "question": "Interpret: “Take up one idea. Make that one idea your life.”",
+        "modelAnswer": "The quote highlights the power of concentration and dedicated effort. Instead of scattered attempts in many directions, Vivekananda advises deep commitment to a meaningful goal. When mind, effort, and habits align around one constructive idea, excellence becomes possible. It teaches students to avoid distraction and cultivate purposeful discipline.",
         "keyPoints": [
-          "The quote is 'Arise, awake, and stop not till the goal is reached.'",
-          "It is a powerful call to action for determination and persistence.",
-          "It encourages individuals to keep working hard until they succeed."
+          "Focus and concentration are central to achievement.",
+          "Scattered effort weakens progress; directed effort strengthens it.",
+          "Dedication turns an idea into a life mission.",
+          "Useful for academic and personal goal setting."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What did Vivekananda emphasise as the highest form of service?",
-        "modelAnswer": "Swami Vivekananda deeply emphasized that serving humanity is the highest and most sacred form of serving God. He taught that people should see the divine in every human being, especially in the poor, the sick, and the suffering. Therefore, extending selfless help to those in need is considered the truest and purest form of worship.",
+        "question": "Project writing: How would you prepare a collage on your favourite historical personality?",
+        "modelAnswer": "To prepare a collage, I would first collect reliable information about the personality’s life, work, and contributions. Then I would gather photographs, symbolic images, and important dates in chronological order. I would include 3–5 inspirational quotes and a brief note explaining why the person is important. Finally, I would arrange the content with clear headings and balanced design so that viewers can quickly understand the personality’s impact.",
         "keyPoints": [
-          "Serving humanity is equated to the highest form of serving God.",
-          "He taught people to see the divine in everyone, especially the needy.",
-          "Selfless help and service to others is the truest form of worship."
+          "Collect authentic biographical information first.",
+          "Use visuals, timeline, quotes, and brief explanatory text.",
+          "Organize neatly with clear headings and layout.",
+          "Aim for informative and inspiring classroom presentation."
         ],
-        "marks": 5
+        "marks": 6
       },
       {
         "id": "la5",
-        "question": "What does a collage include?",
-        "modelAnswer": "A collage is an artistic composition made by attaching various materials like photographs, paper cut-outs, or text onto a single backing surface. In the context of a biographical project, a collage includes pictures of the personality, milestones from their life, and their inspiring quotes. It serves as a creative and engaging way to present information visually rather than just writing a traditional essay.",
+        "question": "Reflective response: Why should students read and display inspirational quotes of great personalities?",
+        "modelAnswer": "Inspirational quotes condense life experience into memorable guidance and can positively influence thinking and behaviour. For students, they strengthen motivation, self-belief, and ethical awareness during difficult phases of learning. Displaying such quotes in classrooms creates a growth-oriented environment and encourages constructive discussion. They work best when converted into daily action.",
         "keyPoints": [
-          "A collage is created by attaching various materials onto a single surface.",
-          "It typically includes photographs, text, and other visual items.",
-          "It is a creative, visual way to present information about a person's life and message."
-        ],
-        "marks": 5
-      },
-      {
-        "id": "la6",
-        "question": "What was Swami Vivekananda's main message to the world?",
-        "modelAnswer": "Swami Vivekananda's main message to the world focused on universal brotherhood, peace, and religious tolerance. He explained that just as different rivers ultimately flow into the same ocean, all religions lead to the same ultimate divine truth. He strongly urged humanity to discard fanaticism and sectarianism, and instead embrace mutual respect and spiritual harmony.",
-        "keyPoints": [
-          "His core message focused on universal brotherhood and religious tolerance.",
-          "He compared different religions to rivers that all flow into the same ocean.",
-          "He urged people to discard fanaticism and embrace mutual respect."
+          "Quotes provide compact and practical life guidance.",
+          "They motivate students and build confidence.",
+          "Classroom display encourages positive culture and discussion.",
+          "Real value comes from applying the message in practice."
         ],
         "marks": 5
       }

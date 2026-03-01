@@ -4,7 +4,8 @@
     "title": "Fundamental Rights — Part 1",
     "subject": "Civics",
     "pages": "76-79",
-    "description": "Exploring the first three of the six Fundamental Rights — Right to Equality, Right to Freedom (six freedoms), and Right against Exploitation — along with the constitutional writs that protect these rights."
+    "description": "Exploring the first three of the six Fundamental Rights — Right to Equality, Right to Freedom (six freedoms), and Right against Exploitation — along with the constitutional writs that protect these rights.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -16,7 +17,7 @@
         "Part III",
         "Part IV"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Fundamental Rights are listed in Part III of the Indian Constitution, from Articles 12 to 35."
     },
     {
@@ -28,7 +29,7 @@
         "All people must live in the same type of house",
         "Everyone must attend the same school"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "The Right to Equality guarantees that everyone is equal before the law and cannot be discriminated against based on religion, caste, race, sex, or place of birth."
     },
     {
@@ -40,7 +41,7 @@
         "A law about education",
         "A type of election"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Habeas Corpus is a writ (court order) that requires a person who has been arrested or detained to be brought before a court to determine if the detention is legal."
     },
     {
@@ -52,7 +53,7 @@
         "Article 16",
         "Article 17"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": "D",
       "explanation": "Article 17 abolishes untouchability and forbids its practice in any form. Practising untouchability is an offense punishable by law."
     },
     {
@@ -64,7 +65,7 @@
         "16 years",
         "18 years"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Article 24 prohibits the employment of children below 14 years of age in factories, mines, and other hazardous industries."
     }
   ],
@@ -200,7 +201,7 @@
         "Part III",
         "Part IV"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Fundamental Rights are listed in Part III of the Indian Constitution, under Articles 12 to 35."
     },
     {
@@ -212,7 +213,7 @@
         "Article 17",
         "Article 19"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Article 17 abolishes untouchability and makes its practice in any form a punishable offence."
     },
     {
@@ -224,7 +225,7 @@
         "6",
         "7"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Article 19 guarantees 6 freedoms: speech/expression, peaceful assembly, forming associations, free movement, residence anywhere in India, and choice of profession."
     },
     {
@@ -236,7 +237,7 @@
         "Requiring a detained person to be produced before the court",
         "Challenging someone's claim to a public office"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Habeas Corpus (meaning 'produce the body') is a writ that orders that a person who has been detained be brought before the court to determine if the detention is legal."
     },
     {
@@ -248,7 +249,7 @@
         "Article 23",
         "Article 24"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": "D",
       "explanation": "Article 24 prohibits employment of children below 14 years of age in factories, mines, and other hazardous occupations."
     },
     {
@@ -260,7 +261,7 @@
         "Child education",
         "Agricultural practice"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Begar refers to forced labour where a person is made to work without any payment. Article 23 prohibits begar and other similar forms of forced labour."
     },
     {
@@ -272,7 +273,7 @@
         "Certiorari",
         "Quo Warranto"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "B",
       "explanation": "Mandamus is a writ that orders a public official or government body to perform a duty that they are legally required to do."
     },
     {
@@ -284,7 +285,7 @@
         "Freedom to vote in elections",
         "Freedom to form associations"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "The right to vote is not one of the six freedoms under Article 19. The six freedoms are: speech/expression, peaceful assembly, associations, movement, residence, and profession."
     },
     {
@@ -296,7 +297,7 @@
         "Challenge a person's claim to a public office",
         "Order to quash a lower court's decision"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Quo Warranto means 'by what authority' — it is used to challenge the right of a person to hold a public office or franchise."
     },
     {
@@ -308,7 +309,7 @@
         "Because the state can impose reasonable restrictions on them for public good",
         "Because they change every year"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "C",
       "explanation": "Fundamental Rights are not absolute because the state can impose reasonable restrictions on them in the interest of national security, public order, morality, and the rights of others."
     }
   ],
@@ -428,58 +429,61 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "How many freedoms are guaranteed under Article 19?",
-        "modelAnswer": "Article 19 guarantees 6 freedoms: speech/expression, peaceful assembly, forming associations, free movement, residence anywhere in India, and choice of profession. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer in brief: What do you understand by “fundamental rights”?",
+        "modelAnswer": "Fundamental rights are basic rights guaranteed by the Constitution to protect the liberty, dignity, and equality of individuals. They are enforceable by courts and act as safeguards against arbitrary action by the State. These rights are essential for democratic life and for the full development of citizens.",
         "keyPoints": [
-          "Defines the concept asked in: How many freedoms are guaranteed under Article 19?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "They are constitutionally guaranteed basic rights.",
+          "They protect liberty, equality, and human dignity.",
+          "They are enforceable through courts.",
+          "They are essential to democracy and individual development."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la2",
-        "question": "What does the writ of 'Habeas Corpus' mean?",
-        "modelAnswer": "Habeas Corpus (meaning 'produce the body') is a writ that orders that a person who has been detained be brought before the court to determine if the detention is legal. This can be observed in standard textbook examples from this chapter.",
+        "question": "Answer in brief: Name the awards conferred by the Government for distinguished contribution in different fields.",
+        "modelAnswer": "The Government confers national civilian awards such as Bharat Ratna, Padma Vibhushan, Padma Bhushan, and Padma Shri for distinguished service in various fields. These awards recognize outstanding contributions to the nation in public life, arts, literature, science, social service, and other domains.",
         "keyPoints": [
-          "Defines the concept asked in: What does the writ of 'Habeas Corpus' mean?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Major awards include Bharat Ratna and Padma awards.",
+          "They honor distinguished contribution in many fields.",
+          "Purpose is national recognition of excellence and service."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la3",
-        "question": "What is 'begar' as mentioned in the Right against Exploitation?",
-        "modelAnswer": "Begar refers to forced labour where a person is made to work without any payment. Article 23 prohibits begar and other similar forms of forced labour. This can be observed in standard textbook examples from this chapter.",
+        "question": "Why is it prohibited to employ children under 14 years of age in hazardous places?",
+        "modelAnswer": "It is prohibited because hazardous work endangers children’s health, safety, and overall development. Child labour in dangerous occupations violates their dignity and deprives them of education and a secure childhood. Constitutional and legal protections therefore forbid such employment to safeguard children’s rights and future.",
         "keyPoints": [
-          "Begar refers to forced labour where a person is made to work without any payment.",
-          "Article 23 prohibits begar and other similar forms of forced labour.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Hazardous work harms physical and mental development of children.",
+          "Child labour violates dignity and right to education.",
+          "Prohibition protects safety, health, and constitutional rights.",
+          "Law aims to ensure a safe childhood and future opportunities."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What is the correct meaning of the writ 'Quo Warranto'?",
-        "modelAnswer": "Quo Warranto means 'by what authority' — it is used to challenge the right of a person to hold a public office or franchise. This can be observed in standard textbook examples from this chapter.",
+        "question": "Why has the Constitution given equal rights to all Indian citizens?",
+        "modelAnswer": "Equal rights are necessary to ensure justice, prevent discrimination, and maintain dignity for every citizen in a democratic republic. India is socially diverse; without equality before law, unequal treatment could divide society and weaken democracy. Constitutional equality creates fairness in opportunities and strengthens national unity.",
         "keyPoints": [
-          "Defines the concept asked in: What is the correct meaning of the writ 'Quo Warranto'?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Equality prevents discrimination and injustice.",
+          "It ensures equal dignity and legal protection for all.",
+          "It supports fairness of opportunity in a diverse society.",
+          "It strengthens democracy and national unity."
         ],
         "marks": 5
       },
       {
         "id": "la5",
-        "question": "Why are Fundamental Rights said to be not absolute?",
-        "modelAnswer": "Fundamental Rights are not absolute because the state can impose reasonable restrictions on them in the interest of national security, public order, morality, and the rights of others. This can be observed in standard textbook examples from this chapter.",
+        "question": "Correct and rewrite: “No one gets rights at birth.” Explain the correct idea.",
+        "modelAnswer": "The statement is incorrect. Every person has basic human rights by virtue of being human, and citizens in India enjoy constitutional rights guaranteed by law. The Constitution recognizes these rights and provides mechanisms to protect them through institutions and courts.",
         "keyPoints": [
-          "Defines the concept asked in: Why are Fundamental Rights said to be not absolute?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "The given statement is wrong.",
+          "Basic rights are inherent to individuals and protected constitutionally.",
+          "Constitution and courts provide enforceability and protection."
         ],
-        "marks": 5
+        "marks": 4
       }
     ]
   }

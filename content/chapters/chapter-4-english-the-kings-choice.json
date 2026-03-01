@@ -527,63 +527,70 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What was the role of the vulture in the lion's court?",
-        "modelAnswer": "In the lion's court, the vulture served as the king's messenger. Because the vulture could fly high in the sky, he was able to spot things from afar. He was responsible for bringing news from distant places to the lion. It was the vulture who initially informed the lion about the camel living in the desert.",
+        "question": "Write character sketches of the lion, fox, leopard, vulture and camel based on their actions and thoughts.",
+        "modelAnswer": "The lion is powerful and feared, but he is also capable of fairness and moral judgment. The fox is clever but manipulative, using intelligence for selfish ends. The leopard appears loyal at first but reveals opportunism when food and danger are involved. The vulture is sharp-eyed and practical, yet driven by greed and self-preservation. In contrast, the camel is innocent, trusting and genuinely loyal; his honesty finally earns the lion’s protection. Through these contrasting characters, the story highlights the difference between cunning and true goodness.",
         "keyPoints": [
-          "The vulture acted as the king's messenger.",
-          "He used his ability to fly high to spot things from far away.",
-          "He brought news from distant places to the lion.",
-          "He informed the lion about the camel in the desert."
+          "Lion: authority + eventual justice and kindness.",
+          "Fox/Leopard/Vulture: self-serving courtier behaviour behind false loyalty.",
+          "Camel: innocent, sincere and selfless.",
+          "Character contrast drives the moral force of the story."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la2",
-        "question": "Why did the courtiers trick the camel into offering itself as food?",
-        "modelAnswer": "The courtiers were very hungry but were too tired to hunt for food in the desert. They wanted to eat the camel but knew the lion had promised to protect it. To achieve their goal, they devised a plan where they offered themselves to the lion, knowing he would refuse them. They expected the innocent camel to copy them and offer itself, which they believed the hungry lion would accept.",
+        "question": "Explain with examples: “To be king is good, but to be kind is better.”",
+        "modelAnswer": "Being king means having power, command and status. However, power alone does not make a ruler worthy. In the story, the lion’s greatness appears not in his strength but in his decision to protect the camel and expose false courtiers. His kindness is not weakness; it is ethical leadership. Thus, real nobility lies in compassion guided by wisdom.",
         "keyPoints": [
-          "The courtiers were hungry and tired from the journey.",
-          "They wanted to eat the camel but the lion was protecting it.",
-          "They falsely offered themselves to the lion as food to set a trap.",
-          "They tricked the camel into copying them so the lion would eat it."
+          "Power gives control, but kindness gives moral legitimacy.",
+          "Lion’s protection of camel shows value-based leadership.",
+          "Kindness with judgment is superior to fear-based rule."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "What did the lion do when he saw through the courtiers' trick?",
-        "modelAnswer": "The lion instantly understood the courtiers' cunning plan to sacrifice the innocent camel. Instead of falling for it, the lion played along with their trick. He happily accepted all their offers and declared he would eat them in the exact order they had presented themselves. This clever response terrified the selfish courtiers, causing them to immediately flee for their lives.",
+        "question": "Discuss: Were the courtiers truly loyal to the lion? Give reasons.",
+        "modelAnswer": "The courtiers were not truly loyal; they were loyal only to their own survival and benefits. They praised the king and obeyed outwardly, but they constantly calculated personal advantage. Their plan to sacrifice the camel and later their panic when the lion accepted their offers reveal hypocrisy. Genuine loyalty requires honesty and responsibility, which they lacked.",
         "keyPoints": [
-          "The lion realized the courtiers were trying to trick the camel.",
-          "He agreed to eat all of them in the order they offered themselves.",
-          "His clever response turned the trap against the courtiers.",
-          "The fox, leopard, and vulture ran away in fear."
+          "Their obedience was driven by self-interest, not devotion.",
+          "They manipulated situations for food and security.",
+          "Their behaviour during crisis exposed false loyalty."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la4",
-        "question": "What is the moral of 'The King's Choice'?",
-        "modelAnswer": "The moral of the story is that true leadership requires wisdom, loyalty, and the ability to protect those who trust you. The lion showed greatness not just by being strong, but by recognizing the true intentions of his greedy courtiers. He rewarded the camel's genuine loyalty by offering him lifelong protection and friendship. It teaches us that good leaders value true friends over selfish flatterers.",
+        "question": "Creative writing: Rewrite this story (or another fable) with an unexpected turn.",
+        "modelAnswer": "Unexpected turn (sample): After hearing the courtiers’ false offers, the camel remains silent and observes. Instead of offering himself, he respectfully says that true loyalty is proved by service, not speeches. The lion asks each courtier to perform a difficult duty for the kingdom. The vulture refuses, the fox escapes, and the leopard hesitates. The camel alone helps the injured lion return safely and serves him patiently. The lion then appoints the camel as chief companion and reforms the court rules so that honesty is valued above flattery.",
         "keyPoints": [
-          "True leadership requires wisdom and the ability to protect others.",
-          "The lion recognized the selfish and greedy intentions of his courtiers.",
-          "He rewarded the camel's genuine loyalty with lifelong friendship.",
-          "Good leaders value true friends over selfish flatterers."
+          "Unexpected turn should change expected outcome while preserving theme.",
+          "Ending should reveal character through action, not just words.",
+          "Moral focus: sincerity over flattery/self-interest."
+        ],
+        "marks": 6
+      },
+      {
+        "id": "la5",
+        "question": "Reflect: Talk about good qualities in a person you do not like (without naming).",
+        "modelAnswer": "Even when we dislike someone, recognizing their good qualities is a sign of maturity. For example, a person may be strict or difficult to work with, yet be punctual, hardworking and fair in responsibilities. Seeing these strengths helps us reduce prejudice and build balanced judgment. This practice improves relationships and self-discipline.",
+        "keyPoints": [
+          "Acknowledging good qualities builds objectivity.",
+          "Dislike should not block fair evaluation.",
+          "Balanced thinking improves social and emotional growth."
         ],
         "marks": 5
       },
       {
-        "id": "la5",
-        "question": "Why is 'The King's Choice' called a fable?",
-        "modelAnswer": "'The King's Choice' is called a fable because it is a short, fictional story that features animals as its main characters. In the story, the lion, fox, leopard, vulture, and camel are given human-like qualities, such as the ability to talk, reason, and plot. Like all fables, it is specifically designed to teach a moral lesson at the end. The story effectively uses these animal characters to illustrate human values like loyalty, wisdom, and the dangers of selfishness.",
+        "id": "la6",
+        "question": "Interpret: Why is “The King’s Choice” called a fable?",
+        "modelAnswer": "The story is called a fable because animals are given human traits such as speech, ambition, loyalty and deceit to teach a moral lesson. The narrative is brief, symbolic, and ends with a clear ethical insight: kindness and integrity are superior to power and flattery. These are key features of the fable form.",
         "keyPoints": [
-          "The story features animals as the main characters.",
-          "The animals have human-like qualities, such as talking and reasoning.",
-          "It is designed to teach a clear moral lesson at the end.",
-          "It uses animals to illustrate human values like loyalty and wisdom."
+          "Animals with human behaviour are central to fables.",
+          "Story is moral-centered and symbolic.",
+          "Clear ethical message at the end confirms fable genre."
         ],
-        "marks": 5
+        "marks": 4
       }
     ]
   }

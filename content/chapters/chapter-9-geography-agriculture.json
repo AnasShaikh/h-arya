@@ -4,7 +4,8 @@
     "title": "Agriculture",
     "subject": "Geography",
     "pages": "52-61",
-    "description": "Scope of agriculture, animal husbandry, types of farming (subsistence, commercial, plantation), organic farming, market gardening, agrotourism"
+    "description": "Scope of agriculture, animal husbandry, types of farming (subsistence, commercial, plantation), organic farming, market gardening, agrotourism",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -474,49 +475,73 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "In beekeeping, how do bees benefit crops beyond just producing honey?",
-        "modelAnswer": "Bees carry pollen between flowers (pollination) as they collect nectar. This helps crops produce more fruits and seeds. Orchards near beehives get significantly better yields — making beekeeping an important allied agricultural activity. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give short answer: Describe the importance of irrigation for agriculture.",
+        "modelAnswer": "Irrigation provides assured water supply when rainfall is insufficient, uneven, or uncertain. It protects crops from drought, supports timely sowing, and helps increase yield and cropping intensity. Reliable irrigation also enables cultivation of water-demanding crops and improves agricultural stability and income.",
         "keyPoints": [
-          "Bees carry pollen between flowers (pollination) as they collect nectar.",
-          "This helps crops produce more fruits and seeds.",
-          "Orchards near beehives get significantly better yields — making beekeeping an important allied agricultural activity.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Assured water supply reduces dependence on uncertain rainfall.",
+          "Prevents crop stress and failure during dry periods.",
+          "Improves yield, cropping intensity, and farm income.",
+          "Enables cultivation of diverse and high-value crops."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "In shifting cultivation, why do farmers move to a new area after 2-3 years?",
-        "modelAnswer": "In shifting cultivation, farmers clear forest, plant crops in the ash-enriched soil. After 2-3 years, soil nutrients are exhausted and yields drop. Farmers then move to a new area, allowing the old land to regenerate for 15-20 years before farming it again. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give short answer: Give a comparative account of any two methods of irrigation.",
+        "modelAnswer": "Canal irrigation carries water from rivers/reservoirs through channels to fields and is suitable for broad command areas, but it may involve high conveyance loss and heavy infrastructure. Drip irrigation delivers water directly near plant roots through pipes and emitters, saving water and reducing weed growth, but it requires initial investment and maintenance. Thus, canal systems suit large-scale distribution, while drip is highly efficient for water-scarce and horticultural settings.",
         "keyPoints": [
-          "In shifting cultivation, farmers clear forest, plant crops in the ash-enriched soil.",
-          "After 2-3 years, soil nutrients are exhausted and yields drop.",
-          "Farmers then move to a new area, allowing the old land to regenerate for 15-20 years before farming it again.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Canal irrigation: large coverage, infrastructure-heavy, possible water loss.",
+          "Drip irrigation: high water-use efficiency, targeted delivery, lower wastage.",
+          "Canal suits extensive command areas; drip suits scarce-water/high-value crops.",
+          "Cost and maintenance profiles differ significantly."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la3",
-        "question": "Why is extensive grain farming done with large machines (tractors, combines) rather than manual labour?",
-        "modelAnswer": "Extensive grain farms are 200+ hectares (sometimes thousands!) and are found in sparsely populated grassland regions (Prairies, Steppes). There aren't enough people to farm manually. Machines make it economically possible to cultivate vast areas with few workers. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give short answer: Mention major types of farming and explain intensive and extensive grain farming.",
+        "modelAnswer": "Major farming types include intensive, extensive, plantation, mixed, subsistence, commercial, shifting cultivation, and modern specialized forms such as organic farming. Intensive farming uses small landholdings with high labour and input use to produce maximum output per unit area. Extensive grain farming is practiced over very large farms with lower labour per unit area and high mechanization, typically for crops like wheat.",
         "keyPoints": [
-          "Extensive grain farms are 200+ hectares (sometimes thousands!) and are found in sparsely populated grassland regions (Prairies, Steppes).",
-          "There aren't enough people to farm manually.",
-          "Machines make it economically possible to cultivate vast areas with few workers.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Many farming types exist based on inputs, scale, and market orientation.",
+          "Intensive farming: high inputs on small plots, high output per area.",
+          "Extensive grain farming: large mechanized farms, lower labour intensity.",
+          "Crop and climate suitability vary by farming type."
         ],
-        "marks": 3
+        "marks": 6
       },
       {
         "id": "la4",
-        "question": "What makes organic farming food healthier and more valuable?",
-        "modelAnswer": "Organic farming uses natural inputs (vermicompost, compost, neem pesticide, cowdung). No chemical residues accumulate in the food or soil — making it healthier for consumers and sustainable for the environment. Organic produce commands premium prices in the market. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give short answer: Describe the characteristics of plantation farming.",
+        "modelAnswer": "Plantation farming is a large-scale commercial system focused on one major crop over extensive estates. It requires organized management, hired labour, capital investment, and processing/marketing linkages. Typical plantation crops include tea, coffee, rubber, cocoa, and coconut, usually grown in suitable tropical/subtropical climates.",
         "keyPoints": [
-          "Organic farming uses natural inputs (vermicompost, compost, neem pesticide, cowdung).",
-          "No chemical residues accumulate in the food or soil — making it healthier for consumers and sustainable for the environment.",
-          "Organic produce commands premium prices in the market.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Large-scale, monocrop, market-oriented farming.",
+          "Needs capital, management, and hired labour.",
+          "Often linked to processing and export chains.",
+          "Common crops: tea, coffee, rubber, etc."
+        ],
+        "marks": 5
+      },
+      {
+        "id": "la5",
+        "question": "Give short answer: Why is agriculture in India seasonal in nature? What are difficulties for perennial agriculture?",
+        "modelAnswer": "Agriculture in India is strongly influenced by monsoon rainfall, which is seasonal and uneven in timing and distribution. Many regions depend on rain-fed farming, so crop calendars align with rainfall periods. Perennial agriculture faces difficulties such as irrigation limitations, groundwater stress, variable climate, high input costs, and storage/market challenges for continuous production.",
+        "keyPoints": [
+          "Monsoon dependence makes agriculture season-bound in many regions.",
+          "Rainfall variability affects sowing and crop reliability.",
+          "Perennial farming needs assured water and higher investment.",
+          "Climate risk, input cost, and market/storage gaps are major constraints."
+        ],
+        "marks": 6
+      },
+      {
+        "id": "la6",
+        "question": "Give short answer: Why must modern methods and technology be used in Indian agriculture?",
+        "modelAnswer": "Modern methods are needed to increase productivity, conserve resources, and meet the food demand of a growing population. Improved seeds, precision irrigation, mechanization, and scientific nutrient/pest management raise output and reduce losses. Technology also supports climate resilience, post-harvest efficiency, and stronger linkage with agro-industries and markets.",
+        "keyPoints": [
+          "Rising population needs higher and stable production.",
+          "Modern inputs improve yield and reduce losses.",
+          "Efficient water/nutrient use supports sustainability.",
+          "Technology strengthens resilience and market integration."
         ],
         "marks": 5
       }

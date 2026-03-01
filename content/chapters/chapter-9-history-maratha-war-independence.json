@@ -4,7 +4,8 @@
     "title": "The Maratha War of Independence",
     "subject": "History",
     "pages": "37-43",
-    "description": "The heroic Maratha struggle to preserve Swaraj after Shivaji's death — Sambhaji's sacrifice, Rajaram's guerrilla resistance, the extraordinary Tarabai leading the Marathas, Aurangzeb's ruinous 27-year Deccan war, and the restoration under Shahu Maharaj."
+    "description": "The heroic Maratha struggle to preserve Swaraj after Shivaji's death — Sambhaji's sacrifice, Rajaram's guerrilla resistance, the extraordinary Tarabai leading the Marathas, Aurangzeb's ruinous 27-year Deccan war, and the restoration under Shahu Maharaj.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -406,56 +407,73 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "On what date was Sambhaji Maharaj executed by Aurangzeb?",
-        "modelAnswer": "Sambhaji Maharaj was executed by Aurangzeb on 11 March 1689, after being captured near Sangameshwar. He refused to reveal Maratha information or convert to Islam even under torture. This can be observed in standard textbook examples from this chapter.",
+        "question": "Find in the text and answer: Why did Sambhaji Maharaj return halfway from the Janjira Campaign?",
+        "modelAnswer": "Sambhaji Maharaj had to return halfway from the Janjira campaign because urgent military developments demanded his presence elsewhere and he had to respond quickly to shifting threats against Swaraj. In that period, the Marathas were facing simultaneous pressures from multiple enemies. Therefore, strategic necessity forced him to leave the campaign incomplete.",
         "keyPoints": [
-          "Sambhaji Maharaj was executed by Aurangzeb on 11 March 1689, after being captured near Sangameshwar.",
-          "He refused to reveal Maratha information or convert to Islam even under torture.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Sambhaji Maharaj did not abandon the campaign due to weakness but due to strategic compulsion.",
+          "New urgent military/political threats required his immediate return.",
+          "Multiple fronts were active against Swaraj at that time.",
+          "Decision reflected priority-based wartime leadership."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la2",
-        "question": "Why did Rajaram Maharaj escape to Jinji fort in Tamil Nadu?",
-        "modelAnswer": "Rajaram escaped to Jinji (in present-day Tamil Nadu) because it was far from Aurangzeb's main army. From there, he could continue directing the Maratha resistance without risking capture, while Maratha commanders maintained the guerrilla war in Maharashtra. This can be observed in standard textbook examples from this chapter.",
+        "question": "Find in the text and answer: Why did Sambhaji Maharaj decide to teach a lesson to the Portuguese?",
+        "modelAnswer": "Sambhaji Maharaj acted against the Portuguese because their conduct was hostile to Maratha interests and threatened the security and authority of Swaraj in the coastal region. He decided to punish them so that foreign powers would not interfere freely in Maratha affairs. This action was part of protecting sovereignty and maritime security.",
         "keyPoints": [
-          "Rajaram escaped to Jinji (in present-day Tamil Nadu) because it was far from Aurangzeb's main army.",
-          "From there, he could continue directing the Maratha resistance without risking capture, while Maratha commanders maintained the guerrilla war in Maharashtra.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Portuguese behaviour was hostile to Swaraj’s interests.",
+          "Maharaj aimed to curb foreign interference on the coast.",
+          "Action was meant to defend authority and security of Swaraj.",
+          "It reflected assertive policy toward external powers."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la3",
-        "question": "What made Tarabai's leadership historically remarkable?",
-        "modelAnswer": "Tarabai was remarkable because she — a woman in the 17th century — successfully led the military and political resistance of the Maratha kingdom against Aurangzeb's overwhelming force after her husband Rajaram died. Under her leadership, the Marathas even went on offensive raids into Mughal territory. This can be observed in standard textbook examples from this chapter.",
+        "question": "Find in the text and answer: To whom did Rajaram Maharaj entrust the responsibility of protecting Swaraj when he went to Jinji?",
+        "modelAnswer": "When Rajaram Maharaj moved to Jinji, the responsibility of protecting Swaraj was entrusted to Maharani Tarabai and trusted Maratha leaders who continued resistance in Maharashtra. Under their leadership, the struggle against the Mughals remained strong. This arrangement ensured continuity of command despite Rajaram Maharaj’s movement to Jinji.",
         "keyPoints": [
-          "Tarabai was remarkable because she — a woman in the 17th century — successfully led the military and political resistance of the Maratha kingdom against Aurangzeb's overwhelming force after her husband Rajaram died.",
-          "Under her leadership, the Marathas even went on offensive raids into Mughal territory.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Responsibility was entrusted to Maharani Tarabai and key Maratha commanders.",
+          "Resistance in Maharashtra continued during Rajaram’s stay at Jinji.",
+          "Leadership continuity was maintained despite relocation.",
+          "Decision helped sustain the war effort."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la4",
-        "question": "How did Aurangzeb's 27-year Deccan campaign affect the Mughal Empire?",
-        "modelAnswer": "The 27-year Deccan campaign bankrupted the Mughal treasury and exhausted the imperial army. After Aurangzeb's death in 1707, the Mughal empire fragmented rapidly as it no longer had the financial or military resources to maintain central authority. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give reasons: Aurangzeb turned his attention towards Adilshahi and Qutubshahi kingdoms.",
+        "modelAnswer": "Aurangzeb targeted Adilshahi and Qutubshahi because he wanted to eliminate southern powers that could support or balance the Marathas. By annexing these kingdoms, he aimed to expand Mughal control in the Deccan and isolate the Marathas. This was part of his larger imperial strategy to crush regional resistance and establish complete dominance.",
         "keyPoints": [
-          "The 27-year Deccan campaign bankrupted the Mughal treasury and exhausted the imperial army.",
-          "After Aurangzeb's death in 1707, the Mughal empire fragmented rapidly as it no longer had the financial or military resources to maintain central authority.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Aurangzeb wanted total Mughal expansion in the Deccan.",
+          "Adilshahi and Qutubshahi were independent powers and potential support bases for Marathas.",
+          "Their fall would isolate Marathas strategically.",
+          "This move fit his broader plan of imperial centralization."
+        ],
+        "marks": 4
+      },
+      {
+        "id": "la5",
+        "question": "Give reasons: After the death of Sambhaji Maharaj, the Marathas intensified their war with the Mughals.",
+        "modelAnswer": "The execution of Sambhaji Maharaj deeply angered the Marathas and strengthened their resolve to defend Swaraj. Instead of surrendering, they reorganized under new leadership and expanded guerrilla attacks. The struggle became more intense because it was now seen as a fight for survival, honour, and independence against Mughal oppression.",
+        "keyPoints": [
+          "Sambhaji Maharaj’s death provoked stronger Maratha resistance.",
+          "Marathas regrouped under new leadership and continued war.",
+          "Guerrilla campaigns were intensified across regions.",
+          "War was viewed as a struggle for independence and honour."
         ],
         "marks": 5
       },
       {
-        "id": "la5",
-        "question": "What was Shahu Maharaj's contribution to the expansion of Maratha power?",
-        "modelAnswer": "Shahu Maharaj's key contribution was wise governance — he identified and empowered capable Peshwas, especially Balaji Vishwanath and Bajirao I. These Peshwas transformed the Maratha kingdom from a defensive Swaraj into an expanding pan-Indian empire. This can be observed in standard textbook examples from this chapter.",
+        "id": "la6",
+        "question": "Give reasons: It was decided that Raigad fort should be fought under the leadership of Maharani Yesubai.",
+        "modelAnswer": "Raigad was a crucial symbol and strategic centre of Swaraj, and stable leadership was essential during crisis. Maharani Yesubai’s leadership ensured unity, morale, and continuity of resistance at the fort while broader campaigns continued elsewhere. Entrusting Raigad to her helped safeguard royal authority and prevented disorder at a critical time.",
         "keyPoints": [
-          "Shahu Maharaj's key contribution was wise governance — he identified and empowered capable Peshwas, especially Balaji Vishwanath and Bajirao I.",
-          "These Peshwas transformed the Maratha kingdom from a defensive Swaraj into an expanding pan-Indian empire.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Raigad had great strategic and symbolic importance.",
+          "Maharani Yesubai provided trusted and stable leadership.",
+          "Her leadership preserved unity and morale during crisis.",
+          "Decision ensured continuity of Swaraj authority."
         ],
         "marks": 5
       }

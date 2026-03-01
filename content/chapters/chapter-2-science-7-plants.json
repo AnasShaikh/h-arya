@@ -5,7 +5,7 @@
     "title": "Plants: Structure and Function",
     "subject": "Science",
     "pages": "10-15",
-    "description": "This chapter details the primary parts of a plant—root, stem, and leaf—and explores their specific structures and vital functions, which work together to help the plant survive and grow."
+    "description": "This chapter details the primary parts of a plant\u2014root, stem, and leaf\u2014and explores their specific structures and vital functions, which work together to help the plant survive and grow."
   },
   "preAssessment": [
     {
@@ -78,7 +78,7 @@
     {
       "id": 1,
       "title": "The Root",
-      "emoji": "🌱",
+      "emoji": "\ud83c\udf31",
       "colorTheme": "from-amber-600 to-yellow-700",
       "bgColor": "bg-amber-50",
       "borderColor": "border-amber-300",
@@ -118,7 +118,7 @@
     {
       "id": 2,
       "title": "The Stem",
-      "emoji": "🌳",
+      "emoji": "\ud83c\udf33",
       "colorTheme": "from-lime-600 to-green-700",
       "bgColor": "bg-lime-50",
       "borderColor": "border-lime-300",
@@ -158,7 +158,7 @@
     {
       "id": 3,
       "title": "The Leaf",
-      "emoji": "🍁",
+      "emoji": "\ud83c\udf41",
       "colorTheme": "from-teal-500 to-cyan-600",
       "bgColor": "bg-teal-50",
       "borderColor": "border-teal-300",
@@ -390,7 +390,7 @@
   },
   "textbookExercise": {
     "chapterName": "Plants: Structure and Function",
-    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers \u2014 these appear in school exams!",
     "questions": [
       {
         "number": 1,
@@ -529,7 +529,7 @@
       {
         "id": "la4",
         "question": "What is the name for the arrangement of veins in a leaf?",
-        "modelAnswer": "Venation refers to the pattern of veins in the blade of a leaf. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Venation refers to the pattern of veins in the blade of a leaf.",
         "keyPoints": [
           "Defines: What is the name for the arrangement of veins in a leaf?",
           "Explains textbook concept clearly.",

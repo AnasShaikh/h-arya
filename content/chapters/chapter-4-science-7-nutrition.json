@@ -78,7 +78,7 @@
     {
       "id": 1,
       "title": "Autotrophic Nutrition & Photosynthesis",
-      "emoji": "☀️",
+      "emoji": "\u2600\ufe0f",
       "colorTheme": "from-yellow-400 to-green-500",
       "bgColor": "bg-yellow-50",
       "borderColor": "border-yellow-300",
@@ -95,7 +95,7 @@
         },
         {
           "id": "ex3",
-          "text": "The chemical equation: 6CO₂ + 6H₂O + Light Energy → C₆H₁₂O₆ + 6O₂"
+          "text": "The chemical equation: 6CO\u2082 + 6H\u2082O + Light Energy \u2192 C\u2086H\u2081\u2082O\u2086 + 6O\u2082"
         }
       ],
       "keyPoints": [
@@ -118,7 +118,7 @@
     {
       "id": 2,
       "title": "Heterotrophic Nutrition",
-      "emoji": "🦁",
+      "emoji": "\ud83e\udd81",
       "colorTheme": "from-orange-500 to-red-600",
       "bgColor": "bg-orange-50",
       "borderColor": "border-orange-300",
@@ -158,7 +158,7 @@
     {
       "id": 3,
       "title": "Nutrition in Animals",
-      "emoji": "🍎",
+      "emoji": "\ud83c\udf4e",
       "colorTheme": "from-red-400 to-pink-500",
       "bgColor": "bg-red-50",
       "borderColor": "border-red-300",
@@ -391,7 +391,7 @@
   },
   "textbookExercise": {
     "chapterName": "Nutrition in Living Organisms",
-    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers — these appear in school exams!",
+    "instructions": "These are the exact questions from your textbook exercise. Memorize the answers \u2014 these appear in school exams!",
     "questions": [
       {
         "number": 1,
@@ -402,7 +402,7 @@
       {
         "number": 2,
         "type": "match_pairs",
-        "question": "Match the pairs.\nGroup ‘A’\nGroup ‘B’\n(1) Parasitic plant\n(a) Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant\n(d) Cuscuta",
+        "question": "Match the pairs.\nGroup \u2018A\u2019\nGroup \u2018B\u2019\n(1) Parasitic plant\n(a) Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant\n(d) Cuscuta",
         "subQuestions": [
           "Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant",
           "Cuscuta"
@@ -448,7 +448,7 @@
         ]
       }
     ],
-    "rawText": "Exercise\n1. Classify according to food-type.\ntiger, cow, vulture, bacteria, deer, goat,\nhuman, fungus, lion, sparrow, buffalo,\nfrog, cockroach, tick.\n2. Match the pairs.\nGroup ‘A’\nGroup ‘B’\n(1) Parasitic plant\n(a) Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant\n(d) Cuscuta\n3. Answer the following questions in\nyour own words.\n(a) Why do living organisms need\nnutrition ?\n(b) Explain the process of production of\nfood in plants.\n(c) What is meant by parasitic plants ?\nName their different types with\nexamples of each.\n(d) Explain the various steps of nutrition\nin animals.\n(e) Name some unicellular organisms\nin which all life-processes take\nplace within their unicellular body.\n4. Give reasons.\n(a) Insectivorous plants are attractively\ncoloured.\n(b) Butterflies have a long tube-like\nproboscis.\n5. Prepare and complete the flowchart\naccording to type of nutrition.\nNutrition\nPlants\nAutotrophic\nInsectivorous\nAnimals\nParasitic\nEctoparasitic\n33\n6. Think and answer.\n(a) We prepare a variety of foodstuffs\nand dishes at home. Are we then\nautotrophic organisms ?\n(b) Which organisms are greater in\nnumber - autotrophs or heterotrophs ?\nWhy ?\n(c) The number of heterotrophs found\nin desert regions is smaller. However,\nthey are found in greater numbers\nin the sea. Why is this so ?\n(d) What damage or harm do\nectoparasitic\nand\nendoparasitic\nanimals cause ?\n(e) Why is plant food not produced in\nany other parts of the plant except\nthe green ones ?",
+    "rawText": "Exercise\n1. Classify according to food-type.\ntiger, cow, vulture, bacteria, deer, goat,\nhuman, fungus, lion, sparrow, buffalo,\nfrog, cockroach, tick.\n2. Match the pairs.\nGroup \u2018A\u2019\nGroup \u2018B\u2019\n(1) Parasitic plant\n(a) Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant\n(d) Cuscuta\n3. Answer the following questions in\nyour own words.\n(a) Why do living organisms need\nnutrition ?\n(b) Explain the process of production of\nfood in plants.\n(c) What is meant by parasitic plants ?\nName their different types with\nexamples of each.\n(d) Explain the various steps of nutrition\nin animals.\n(e) Name some unicellular organisms\nin which all life-processes take\nplace within their unicellular body.\n4. Give reasons.\n(a) Insectivorous plants are attractively\ncoloured.\n(b) Butterflies have a long tube-like\nproboscis.\n5. Prepare and complete the flowchart\naccording to type of nutrition.\nNutrition\nPlants\nAutotrophic\nInsectivorous\nAnimals\nParasitic\nEctoparasitic\n33\n6. Think and answer.\n(a) We prepare a variety of foodstuffs\nand dishes at home. Are we then\nautotrophic organisms ?\n(b) Which organisms are greater in\nnumber - autotrophs or heterotrophs ?\nWhy ?\n(c) The number of heterotrophs found\nin desert regions is smaller. However,\nthey are found in greater numbers\nin the sea. Why is this so ?\n(d) What damage or harm do\nectoparasitic\nand\nendoparasitic\nanimals cause ?\n(e) Why is plant food not produced in\nany other parts of the plant except\nthe green ones ?",
     "qaCards": [
       {
         "question": "What is the role of chlorophyll in photosynthesis?",
@@ -495,18 +495,14 @@
       {
         "id": "la1",
         "question": "Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant",
-        "modelAnswer": "Mushroom (2) Insectivorous plant (b) Lichen (3) Saprophytic plant (c) Drosera (4) Symbiotic plant This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: Mushroom\n(2) Insectivorous plant (b) Lichen\n(3) Saprophytic plant (c) Drosera\n(4) Symbiotic plant",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "Mushroom (2) Insectivorous plant (b) Lichen (3) Saprophytic plant (c) Drosera (4) Symbiotic plant This concept is explained in this chapter with its causes, features, and outcomes.",
+        "keyPoints": [],
         "marks": 3
       },
       {
         "id": "la2",
         "question": "Answer the following questions in\nyour own words.\n(a) Why do living organisms need\nnutrition ?\n(b) Explain the process of production of\nfood in plants.\n(c) What is meant by parasitic plants ?\nName their different types with\nexamples of each.\n(d) Explain the various steps of nutrition\nin animals.\n(e)",
-        "modelAnswer": "Answer the following questions in your own words. (a) Why do living organisms need nutrition ? (b) Explain the process of production of food in plants. (c) What is meant by parasitic plants ? Name their different types with examples of each. (d) Explain the various steps of nutrition in animals. (e) This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Answer the following questions in your own words. (a) Why do living organisms need nutrition ? (b) Explain the process of production of food in plants. (c) What is meant by parasitic plants ? Name their different types with examples of each. (d) Explain the various steps of nutrition in animals. (e) This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Answer the following questions in your own words.",
           "(a) Why do living organisms need nutrition ?",
@@ -518,62 +514,48 @@
       {
         "id": "la3",
         "question": "Why do living organisms need\nnutrition ?",
-        "modelAnswer": "Why do living organisms need nutrition ? This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Why do living organisms need nutrition ? This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Why do living organisms need nutrition ?",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 3
       },
       {
         "id": "la4",
         "question": "Explain the process of production of\nfood in plants.",
-        "modelAnswer": "Plants produce glucose during photosynthesis but convert it into starch, a more complex carbohydrate, for efficient storage in leaves, roots, and stems. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: Explain the process of production of\nfood in plants.",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "Plants produce glucose during photosynthesis but convert it into starch, a more complex carbohydrate, for efficient storage in leaves, roots, and stems.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la5",
         "question": "What is meant by parasitic plants ?\nName their different types with\nexamples of each.",
-        "modelAnswer": "Plants produce glucose during photosynthesis but convert it into starch, a more complex carbohydrate, for efficient storage in leaves, roots, and stems. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: What is meant by parasitic plants ?\nName their different types with\nexamples of each.",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "Plants produce glucose during photosynthesis but convert it into starch, a more complex carbohydrate, for efficient storage in leaves, roots, and stems.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la6",
         "question": "Explain the various steps of nutrition\nin animals.",
-        "modelAnswer": "Assimilation is the step where the absorbed nutrients are used by the body's cells for energy, growth, and repair. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: Explain the various steps of nutrition\nin animals.",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
+        "modelAnswer": "Assimilation is the step where the absorbed nutrients are used by the body's cells for energy, growth, and repair.",
+        "keyPoints": [],
         "marks": 5
       },
       {
         "id": "la7",
         "question": "Name some unicellular organisms\nin which all life-processes take\nplace within their unicellular body.",
-        "modelAnswer": "Name some unicellular organisms in which all life-processes take place within their unicellular body. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Name some unicellular organisms in which all life-processes take place within their unicellular body. This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Name some unicellular organisms in which all life-processes take place within their unicellular body.",
-          "This concept is explained in this chapter with its causes, features, and outcomes.",
-          "This can be observed in standard textbook examples from this chapter."
+          "This concept is explained in this chapter with its causes, features, and outcomes."
         ],
         "marks": 5
       },
       {
         "id": "la8",
         "question": "Give reasons.\n(a) Insectivorous plants are attractively\ncoloured.\n(b) Butterflies have a long tube-like\nproboscis.",
-        "modelAnswer": "Give reasons. (a) Insectivorous plants are attractively coloured. (b) Butterflies have a long tube-like proboscis. This concept is explained in this chapter with its causes, features, and outcomes. This can be observed in standard textbook examples from this chapter.",
+        "modelAnswer": "Give reasons. (a) Insectivorous plants are attractively coloured. (b) Butterflies have a long tube-like proboscis. This concept is explained in this chapter with its causes, features, and outcomes.",
         "keyPoints": [
           "Give reasons.",
           "(a) Insectivorous plants are attractively coloured.",

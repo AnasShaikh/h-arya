@@ -4,7 +4,8 @@
     "title": "Administration of Swaraj",
     "subject": "History",
     "pages": "29-32",
-    "description": "How Shivaji Maharaj organized his kingdom — the Ashtapradhan council of eight ministers, the revenue system, military organization, fort administration, and the principles of just governance that made Swaraj unique."
+    "description": "How Shivaji Maharaj organized his kingdom — the Ashtapradhan council of eight ministers, the revenue system, military organization, fort administration, and the principles of just governance that made Swaraj unique.",
+    "grade": 7
   },
   "preAssessment": [
     {
@@ -407,58 +408,51 @@
     "longAnswers": [
       {
         "id": "la1",
-        "question": "What was the role of the Nyayadhish in the Ashtapradhan?",
-        "modelAnswer": "The Nyayadhish was the Chief Justice in Shivaji's administration — responsible for overseeing the judicial system and ensuring fair justice for all people of the Swaraj. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write about it in your own words: Shivaji Maharaj’s policy regarding agriculture.",
+        "modelAnswer": "Shivaji Maharaj considered agriculture the backbone of village life and gave special attention to farmers. He entrusted revenue management to capable officers and ordered that no excess tax should be collected beyond the fixed amount. He encouraged cultivation of fallow land and supported peasants with bullocks, ploughs and quality seeds. When crops were damaged by drought, heavy rain, or enemy attacks, remissions in land revenue and taxes were granted.",
         "keyPoints": [
-          "Defines the concept asked in: What was the role of the Nyayadhish in the Ashtapradhan?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
+          "Agriculture was treated as a priority for people’s welfare.",
+          "Revenue collection was regulated; officers were told not to over-collect.",
+          "Farmers were encouraged to cultivate more land with state support.",
+          "Tax/remission relief was given in calamities and war damage."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la2",
-        "question": "What was the key difference between Shivaji's revenue system and the earlier tax-farming system?",
-        "modelAnswer": "The old tax-farming system allowed middlemen to extort farmers. Shivaji's Ryotwari system eliminated middlemen and directly assessed each farmer's land based on its actual productivity — resulting in a fairer and more predictable tax burden. This can be observed in standard textbook examples from this chapter.",
+        "question": "Write about it in your own words: Shivaji Maharaj — a ruler concerned about the welfare of his subjects.",
+        "modelAnswer": "Shivaji Maharaj aimed not only to conquer territory but to ensure secure and just governance for his people. He set up a disciplined administration, protected villages and trade, and developed military systems including forts and navy for public safety. His policies in agriculture, revenue, justice and defence show concern for ordinary subjects. Therefore, he is remembered as a vigilant and welfare-oriented ruler.",
         "keyPoints": [
-          "The old tax-farming system allowed middlemen to extort farmers.",
-          "Shivaji's Ryotwari system eliminated middlemen and directly assessed each farmer's land based on its actual productivity — resulting in a fairer and more predictable tax burden.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Maharaj focused on people’s welfare, not only expansion.",
+          "He built disciplined administration for justice and stability.",
+          "Protection of ryot, trade, and territory was a central objective.",
+          "Agriculture, defence, and governance policies reflected public welfare."
         ],
-        "marks": 3
+        "marks": 5
       },
       {
         "id": "la3",
-        "question": "Why did Shivaji pay soldiers in cash salary rather than giving them jagirs (land grants)?",
-        "modelAnswer": "Paying soldiers in cash kept them loyal to the kingdom as a whole — they had no local land interests to protect. The jagir system (used by Mughals) often created powerful local lords whose loyalty was to their own land rather than the central authority, leading to fragmentation. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give reasons: Shivaji Maharaj established the Council of Eight Ministers.",
+        "modelAnswer": "As Swaraj expanded, administration became complex and required organized departmental responsibility. Shivaji Maharaj therefore established the Ashtapradhan Mandal so that key functions such as finance, correspondence, justice, foreign relations and military management were handled efficiently. This structure ensured accountability, faster decisions, and smoother governance under the king’s authority.",
         "keyPoints": [
-          "Paying soldiers in cash kept them loyal to the kingdom as a whole — they had no local land interests to protect.",
-          "The jagir system (used by Mughals) often created powerful local lords whose loyalty was to their own land rather than the central authority, leading to fragmentation.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Expansion of Swaraj required systematic administration.",
+          "Different departments needed capable heads for specialized work.",
+          "Ashtapradhan improved accountability and efficiency.",
+          "It strengthened stable governance under central leadership."
         ],
-        "marks": 3
+        "marks": 4
       },
       {
         "id": "la4",
-        "question": "What type of forts did Shivaji build along the Konkan coast?",
-        "modelAnswer": "Shivaji built sea forts (water forts) along the Konkan coastline — including Sindhudurg (near Malvan) and Vijaydurg. These forts protected the coastline and provided bases for the Maratha navy. This can be observed in standard textbook examples from this chapter.",
+        "question": "Give reasons: Shivaji Maharaj raised a navy.",
+        "modelAnswer": "Shivaji Maharaj understood that coastal security was essential for the safety and prosperity of Swaraj. Enemy powers and foreign traders operated on the western coast, so sea defence was necessary to protect ports, trade routes and sea forts. By building a navy with warships and trained commanders, he secured the coastline and reduced external threats from the sea.",
         "keyPoints": [
-          "Shivaji built sea forts (water forts) along the Konkan coastline — including Sindhudurg (near Malvan) and Vijaydurg.",
-          "These forts protected the coastline and provided bases for the Maratha navy.",
-          "This can be observed in standard textbook examples from this chapter."
+          "Coastal defence was essential for Swaraj’s security.",
+          "Sea powers and foreign influence posed maritime threats.",
+          "Navy protected ports, trade, and sea forts like Sindhudurg.",
+          "A strong navy helped control and safeguard the Konkan coast."
         ],
-        "marks": 5
-      },
-      {
-        "id": "la5",
-        "question": "What were 'aadnyapatra'?",
-        "modelAnswer": "Aadnyapatra were royal orders and letters issued by Shivaji covering administrative directives, including protecting religious sites, treating women with respect, fair treatment of farmers, and rules for soldiers' conduct. This can be observed in standard textbook examples from this chapter.",
-        "keyPoints": [
-          "Defines the concept asked in: What were 'aadnyapatra'?",
-          "Explains key causes/features in textbook style.",
-          "Links the answer to a chapter-based example."
-        ],
-        "marks": 5
+        "marks": 4
       }
     ]
   }
